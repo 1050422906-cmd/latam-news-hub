@@ -1,15 +1,55 @@
 [
     {
-        "article_id": "160cd873dfa97f28cf50f5bdd9fcf3c8",
-        "link": "https://www.letrap.com.ar/politica/luis-juez-suspendio-su-acto-cuidar-la-sintonia-gabriel-bornoroni-y-marcarle-la-cancha-loredo-n5422405",
-        "title": "Luis Juez suspendió su acto para cuidar la sintonía con Gabriel Bornoroni y marcarle la cancha a De Loredo",
-        "description": "El senador bajó la cumbre tributo a LLA. El estacionero pide dedicación full time a las reformas de Javier Milei. Gesto antiansiolítico para exponer al radical. Rodrigo de Loredo prepara un acto con un duro mensaje a Luis Juez y Gabriel Bornoroni: no se baja del '27",
+        "article_id": "011d306f09e410c7794e250872dd5a05",
+        "link": "https://www.minutouno.com/sociedad/la-justicia-le-dio-la-razon-los-trabajadores-fate-y-freno-el-desalojo-la-planta-n6254405",
+        "title": "La Justicia le dio la razón a los trabajadores de FATE y frenó el desalojo de la planta",
+        "description": "La Sala II de la Cámara de Apelación y Garantías en lo Penal de San Isidro consideró que se trata de un conflicto laboral y no de una cuestión penal.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "política"
+            "sociedad"
         ],
         "creator": [
-            "yanina babiachuk"
+            "minutouno"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 19:23:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 19:36:31",
+        "image_url": "https://media.minutouno.com/p/9b83e5baeda08ce73d9143521e1ec165/adjuntos/150/imagenes/043/223/0043223806/1200x675/1097x556:1117x576/fate.jpg",
+        "video_url": null,
+        "source_id": "minutouno",
+        "source_name": "Minutouno",
+        "source_priority": 33172,
+        "source_url": "https://www.minutouno.com",
+        "source_icon": "https://n.bytvi.com/minutouno.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "正义做出了有利于 FATE 工人的裁决并停止了对工厂的驱逐",
+        "description_zh": "圣伊西德罗上诉和刑事保障法院第二分庭认为，这是一起劳资纠纷，而不是刑事问题。"
+    },
+    {
+        "article_id": "ac1c6384860b956f87b9fc67c7d881fe",
+        "link": "https://www.bigbangnews.com/actualidad/la-ciencia-argentina-lo-hace-nuevo-transmiten-vivo-crecimiento-pichon-aguila-coronada-n100119",
+        "title": "La ciencia argentina lo hace de nuevo: transmiten en vivo el crecimiento de un pichón de águila coronada",
+        "description": "CONICET y CECARA en un hito heroico en la conservación de las aves rapaces argentinas.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "actualidad"
+        ],
+        "creator": [
+            "big bang! news"
         ],
         "language": "spanish",
         "country": [
@@ -20,16 +60,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:11:00",
+        "pubDate": "2026-03-10 19:23:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:43:37",
-        "image_url": "https://media.letrap.com.ar/p/ff700dfb87c3b1516b76163fbc2935fd/adjuntos/349/imagenes/100/170/0100170538/790x0/smart/luis-juez-el-comando-capital-la-alianza-la-libertad-avanza.jpeg",
+        "fetched_at": "2026-03-10 19:52:19",
+        "image_url": "https://statics.bigbangnews.com/2026/03/crop/69b073ccb0458__400x300.webp",
         "video_url": null,
-        "source_id": "letrap_ar",
-        "source_name": "Letra P",
-        "source_priority": 314803,
-        "source_url": "https://www.letrap.com.ar",
-        "source_icon": "https://n.bytvi.com/letrap_ar.png",
+        "source_id": "bigbangnews",
+        "source_name": "Big Bang! News",
+        "source_priority": 2472367,
+        "source_url": "https://www.bigbangnews.com",
+        "source_icon": "https://n.bytvi.com/bigbangnews.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -37,192 +77,21 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "路易斯·胡埃斯暂停了表演，以与加布里埃尔·博诺罗尼保持和谐，并为德·洛雷多标记场地",
-        "description_zh": "参议员向 LLA 致敬。停车服务员要求全职致力于哈维尔·米莱 (Javier Milei) 的翻修工作。抗焦虑的姿态暴露了激进。罗德里戈·德·洛雷多准备了一场活动，向路易斯·胡埃斯和加布里埃尔·博诺罗尼发出严厉的信息：他不会离开'27"
+        "title_zh": "阿根廷科学界再次做到了：他们现场直播了一只皇冠雕雏鸟的成长过程",
+        "description_zh": "CONICET 和 CECARA 在阿根廷猛禽保护方面迈出了一个英雄的里程碑。"
     },
     {
-        "article_id": "4f7cf46464214b09109d10e5ea5cc7f4",
-        "link": "https://www.letrap.com.ar/politica/en-expoagro-pullaro-revalido-su-alianza-el-campo-y-le-pidio-milei-que-elimine-las-retenciones-n5422403",
-        "title": "En Expoagro, Pullaro revalidó su alianza con el campo y le pidió a Milei que elimine las retenciones",
-        "description": "Visitó la muestra e inauguró el stand de Santa Fe. Las presencias políticas. Biocombustibles y ley de semillas, los otros reclamos al Presidente. Tres empanadas en Expoagro: el Gobierno prometió bajar retenciones \"cuando la situación fiscal lo permita\" Maximiliano Pullaro y Rolando Figueroa apuestan a la diplomacia de provincias para sobrevivir a Javier Milei",
+        "article_id": "daa784422fe24eddca5dc0d548d8e4a6",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/pf-abre-inquerito-sobre-videos-que-incitam-odio-mulheres-no-tiktok",
+        "title": "PF abre inquérito sobre vídeos que incitam ódio a mulheres no TikTok",
+        "description": "A Polícia Federal abriu investigação sobre uma trend de vídeos na rede social TikTok com apologia à violência contra a mulher. Em nota, a corporação informou ter recebido denúncias contra essas publicações.A PF também solicitou à plataforma a preservação dos dados e a retirada desse material. Durante a análise, os agentes identificaram mais vídeos relacionados ao tema, que também foram reportados e removidos.Notícias relacionadas:Conteúdos violentos contra a mulher viralizam na internet; saiba mais.Mulheres estão perdendo o direito de ir e vir, diz Amelinha Teles.São Paulo registra feminicídio no Dia Internacional da Mulher.Essa trend mostra homens simulando socos, chutes e facadas em mulheres caso tenham as investidas amorosas rejeitadas. Na segunda-feira (9), a Advocacia-Geral da União (AGU) anunciou que tinha acionado a PF para investigar o caso.Segundo a AGU, os vídeos tiveram origem em quatro perfis do TikTok. O conteúdo foi retirado, e os criadores podem responder por incitação aos crimes de feminicídio, ameaça, lesão corporal e violência psicológica contra a mulher.Em nota, o TikTok informou que os vídeos violam as Diretrizes da Comunidade e foram removidos da plataforma. Além disso, a plataforma disse que a equipe de moderação busca identificar possíveis conteúdos violativos sobre o tema.Esse tipo de conteúdo misógino, que é de ódio contra mulheres, vem ganhando força em grupos da “machosfera”, redpills e incels. Nessas comunidades, homens que se dizem injustiçados pela sociedade e pelas mulheres pregam violência e discriminação de gênero.>> Conteúdos violentos contra mulheres viralizam na internet; saiba maisCriminalização da misoginiaA militante da Articulação de Mulheres Brasileiras Eunice Guedes, professora da Universidade Federal do Pará, explica que o discurso misógino ganhou força nos últimos anos.\"Mas ele não tinha tanta voz, tanto acesso às mídias corporativas, a recursos financeiros, a setores governamentais. E, de uns tempos para cá, talvez a gente poderia dizer de uns 10 anos para cá, isso tem se acirrado ainda mais\".A pesquisadora ressalta que o país precisa de leis que criminalizem a misoginia, para que haja punição; mas a sociedade toda também deve combater essa cultura violenta.\"Que a sociedade se aproprie desse arcabouço jurídico, dessa situação e desse cenário. A sociedade e as suas diversas organizações. Não basta só a punição, a gente precisa pensar em prevenção, em mudança de paradigmas, em mudança de culturas, em mudança de concepções\".Esse tipo de conteúdo surgiu no momento em que cresce o debate sobre o aumento da violência contra mulheres no país. Dados do Ministério da Justiça e Segurança Pública mostram que o Brasil registra atualmente quatro feminicídios por dia.Como denunciarÉ possível pedir ajuda e denunciar casos de violência doméstica e contra a mulher na Central de Atendimento à Mulher – Ligue 180, um serviço gratuito que funciona 24 horas por dia, todos os dias da semana. O serviço está disponível também no WhatsApp: (61) 9610-0180 e pelo e-mail central180@mulheres.gov.br. Denúncias de violência contra a mulher também podem ser apresentadas em delegacias especializadas de atendimento à mulher (Deam) ou em delegacias comuns e nas Casas da Mulher Brasileira.Ainda é possível pedir ajuda por meio dos números Disque 100, que recebe casos de violações de direitos humanos, e 190, de ocorrências policiais.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "política"
-        ],
-        "creator": [
-            "lucio di giuseppe"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 19:11:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:43:37",
-        "image_url": "https://media.letrap.com.ar/p/ab46d27d92332d955e5136c4014cc66e/adjuntos/349/imagenes/100/183/0100183225/625x352/smart/pullaroexpoagro.jpeg",
-        "video_url": null,
-        "source_id": "letrap_ar",
-        "source_name": "Letra P",
-        "source_priority": 314803,
-        "source_url": "https://www.letrap.com.ar",
-        "source_icon": "https://n.bytvi.com/letrap_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "在 Expoagro，Pularo 重新确认了他与该领域的联盟，并要求 Milei 消除保留",
-        "description_zh": "他参观了展览并为圣达菲展台揭幕。政治存在。生物燃料和种子法，其他投诉到总统。 Expoagro 的三个肉馅卷饼：政府承诺“在财政状况允许的情况下”降低预扣税 Maximiliano Pullaro 和 Rolando Figueroa apu"
-    },
-    {
-        "article_id": "f0621b90170074abbfbe10074ebf111e",
-        "link": "https://www.adrenaline.com.br/games/xbox/jogos-da-ubisoft-para-xbox-em-oferta-veja-lista/",
-        "title": "Jogos da Ubisoft para Xbox em oferta – veja lista!",
-        "description": "Os interessados já podem aproveitar as ofertas na loja do Xbox por tempo limitado e adquirir os jogos da lista de desejos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "xbox series",
-            "jogos em promoção",
-            "jogos baratinhos",
-            "promoção",
-            "xbox one",
-            "games",
-            "notícias",
-            "descontos",
-            "xbox",
-            "jogos em oferta"
-        ],
-        "creator": [
-            "juliano aires"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 19:11:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 22:46:31",
-        "image_url": "https://www.adrenaline.com.br/wp-content/uploads/2025/11/Assassins-Creed-Shadows-Chega-Switch-2-30-FPS-Ray-Tracing-640x400.jpeg",
-        "video_url": null,
-        "source_id": "adrenaline",
-        "source_name": "Adrenaline",
-        "source_priority": 1959912,
-        "source_url": "https://adrenaline.com.br",
-        "source_icon": "https://n.bytvi.com/adrenaline.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "育碧 Xbox 游戏发售 - 查看列表！",
-        "description_zh": "有兴趣的人士现在可以利用 Xbox 商店的限时优惠并购买他们心愿单上的游戏"
-    },
-    {
-        "article_id": "28795aafccb529b924cc7294e361c9c5",
-        "link": "https://tribunadepetropolis.com.br/noticias/trump-nao-teme-usar-todas-as-opcoes-quanto-ao-petroleo-diz-leavitt-da-casa-branca/",
-        "title": "Trump não teme usar todas as opções quanto ao petróleo, diz Leavitt da Casa Branca",
-        "description": "A secretária de Imprensa da Casa Branca, Karoline Leavitt, afirmou nesta terça-feira, 10, que o presidente dos EUA, Donald Trump, não teme usar todas as opções quanto ao petróleo. Em coletiva realizada na Casa Branca, Leavitt disse que Trump e a equipe estão monitorando mercados atentamente. Sobre escolta pelo estreito de Ormuz, Leavitt afirmou que [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "patricia lara / estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 19:11:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:45:39",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "白宫莱维特表示，特朗普并不害怕在石油问题上使用所有选择",
-        "description_zh": "白宫新闻秘书卡罗琳·莱维特 (Karoline Leavitt) 10 日周二表示，美国总统唐纳德·特朗普并不害怕使用有关石油的所有选择。莱维特在白宫举行的新闻发布会上表示，特朗普和他的团队正在密切关注市场。"
-    },
-    {
-        "article_id": "2d93c66e486d6ab01cd46498f1e5d2dc",
-        "link": "https://www.jornaldocomercio.com/geral/2026/03/1240100-com-mais-de-559-mil-multas-ministerio-publico-investiga-pedagios-free-flow-no-rs.html",
-        "title": "Com mais de 559 mil multas, Ministério Público investiga pedágios free flow no RS",
-        "description": "A medida foi tomada após o governo do Estado registrar a marca alarmante de mais de 559 mil multas até novembro de 2025, número considerado pelo MPRS como \"excessivo\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "rodovias"
-        ],
-        "creator": [
-            "jamil@jcrs.com.br (jamil aiquel)"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 19:11:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 23:48:23",
-        "image_url": "https://www.jornaldocomercio.com/_midias/jpg/2023/12/08/foto_free_flow___credito_fabricio_braga_nunes__divulgacao__1_-10411486.jpg",
-        "video_url": null,
-        "source_id": "jornaldocomercio",
-        "source_name": "Jornal Do Com&eacute;rcio",
-        "source_priority": 1268159,
-        "source_url": "https://www.jornaldocomercio.com",
-        "source_icon": "https://n.bytvi.com/jornaldocomercio.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "公共部门对RS的自由通行费进行了超过559,000张罚款的调查",
-        "description_zh": "该措施是在州政府登记到 2025 年 11 月之前收到超过 559,000 笔罚款的惊人数字后采取的，MPRS 认为这个数字“过高”"
-    },
-    {
-        "article_id": "024dba8f0050ff4a41d79c42ce8f2094",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/resistencia-do-ira-pressiona-estados-unidos-encerrarem-guerra",
-        "title": "Resistência do Irã pressiona Estados Unidos a encerrarem guerra",
-        "description": "A capacidade de resistência da República Islâmica do Irã e as retaliações contra aliados dos Estados Unidos (EUA) no Golfo Pérsico, assim como os impactos sobre o comércio do petróleo, estão pressionando a Casa Branca a encerrar o conflito sem alcançar o objetivo de “mudança de regime” em Teerã. Essa é avaliação de especialistas consultados pela Agência Brasil. O cientista político e especialista em geopolítica Ali Ramos destacou que o Irã conseguiu afetar o sistema de radares dos EUA no Oriente Médio e impôs perdas importantes à cadeia do petróleo global. Notícias relacionadas:Guarda do Irã diz que decidirá fim da guerra .Guerra no Irã: preço do petróleo salta 7% e chega a recorde desde 2022.Ações de Israel no Líbano deslocam 667 mil pessoas em uma semana.“Os EUA não têm como derrubar o governo iraniano sem invasão terrestre, o que traria baixas gigantescas. A topografia do Irã inviabiliza qualquer ação rápida. Os EUA simplesmente entraram num atoleiro e Trump não sabe como sair”, avalia o especialista em defesa e estudos sobre a Ásia.Os radares dos EUA no Oriente Médio afetados por Teerã eram responsáveis pela interceptação dos mísseis iranianos. Há relatos de radares atingidos no Kuwait, Catar, Arábia Saudita, Bahrein e Emirados Árabes Unidos, segundo análise de imagens de satélites e vídeos do jornal New York Times.“Toda essa cobertura satelital e de radar faz com que os EUA tenham olhos no terreno. Com isso degradado, as baixas aumentam, o tempo do alerta [contra mísseis do Irã] em Israel diminui. Por isso, agora tem vídeo de mísseis entrando toda hora em Israel, que os interceptadores não conseguem mais barrar”, completou.Aliados de Washington no Golfo passaram a pedir o fim do conflito, como o porta-voz do Ministério das Relações Exteriores do Catar, Majed al-Ansari.“Chegar rapidamente à mesa de negociações e suspender os ataques serviria aos interesses dos povos da região, bem como à paz e segurança internacionais, além de fortalecer a estabilidade econômica global”, disse al-Ansari, de acordo coma Al Jazzera, um veículo de comunicação árabe.Sem troca de regimeO professor de relações internacionais do Ibmec São Paulo (SP) Alexandre Pires ponderou à Agência Brasil que os EUA esperavam conseguir uma troca de regime rápida por meio do assassinato do líder Supremo Ali Khamenei.“O Irã tem apresentado uma resiliência muito mais forte do que se esperava. Inclusive, escolhendo uma liderança suprema sem nenhum tipo de negociação, e que dá um sinal de que o regime vai continuar na mesma linha que já seguia com o Khamenei”, comentou. Pires acrescentou que a pressão sobre os mercados do petróleo, que levou o presidente estadunidense Donald Trump a relaxar as sanções contra a Rússia para aliviar os preços no mercado global, tem preocupado os aliados de Trump no mundo e internamente, com o preço do combustível aumentando nos EUA.“Ainda que tenha sido dito no início que duraria quatro, cinco semanas, obviamente que esse não era o tempo que os EUA queriam. Isso vai fazendo com que os EUA mudem talvez o foco atual de uma guerra completa, de ter que ficar o tempo necessário até você ter uma troca das lideranças”, completou.Donald Trump disse nesta terca-feira, em entrevista à Fox News, que não ficou feliz com a escolha do novo líder Supremo so Irã, mas que \"é possível\" que venha a negociar com Teerã.IsraelPara o especialista do Ibmec SP Alexandre Pires, Israel deve resistir a encerrar o conflito uma vez que quer aproveitar o máximo para enfraquecer o Irã.“Há um certo sinal de divisão nos dois aliados. Isso não foi tornado público, mas há um sinal de falas contraditórias de um lado e de outro”, disse. Para Pires, o Irã conseguiu afetar a cadeia do petróleo ao bloquear o canal comercial do Golfo Pérsico, Estreito de Ormuz e Golfo de Oman. “Isso faz com que tentem forçar um recuo ou uma negociação americana-israelense em razão da pressão feita pela comunidade internacional sobre Israel e EUA com relação à cadeia energética mundial”, completou.Em entrevista nesta terça-feira (10), o ministro das relações exteriores de Israel, Gideon Saar, disse que o país não quer uma guerra sem fim.“Consultaremos nossos amigos americanos quando acharmos que é o momento certo para isso. Não estamos buscando uma guerra sem fim”, disse Saar a repórteres em Jerusalém, segundo noticiou o jornal israelense The Times of Israel.Repercussões regionaisUma das dificuldades para encerrar a guerra, na avaliação do cientista político Ali Ramos, é que a manutenção do regime no Irã representaria uma derrota para Casa Branca. “O Irã vai ser o primeiro país da história que atacou tantas bases dos EUA ao mesmo tempo e sobreviveu. É por isso o desespero do Trump. Os países da região não vão mais confiar nos EUA no médio e longo prazo enquanto garantidor da sua segurança”, disse.Ramos argumenta que a guerra contra o Irã deve modificar a arquitetura de poder e segurança do Oriente Médio ao mostrar que as bases dos EUA na região não poderiam defender os países aliados da Casa Branca. “Isso já estava acontecendo, os Emirados Árabes Unidos já firmaram um pacto de defesa com a Índia, a Arábia Saudita com o Paquistão”, completou.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "eua",
-            "ataque no irã",
-            "irã",
-            "israel",
-            "conflito no oriente médio",
-            "internacional"
+            "direitos das mulheres",
+            "violência contra a mulher",
+            "misogina",
+            "direitos humanos",
+            "polícia federal"
         ],
         "creator": [
             "agenciabrasil"
@@ -236,10 +105,10 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:11:00",
+        "pubDate": "2026-03-10 19:23:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 20:10:29",
-        "image_url": "https://imagens.ebc.com.br/132E7HWIdlNaFwRnm07uwv5GOVk=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/2026-03-09t123724z_705000474_rc201kawtqrd_rtrmadp_3_iran-crisis.jpg?itok=iT0cPq6T",
+        "fetched_at": "2026-03-10 19:40:38",
+        "image_url": "https://imagens.ebc.com.br/8zbeJ_2UOlhOd0H1P4bvjLp9Xf0=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/08/toms0054.jpg?itok=MtDpTFeO",
         "video_url": null,
         "source_id": "agenciabrasil_ebc_br",
         "source_name": "Agenciabrasil Ebc Br",
@@ -253,20 +122,22 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "伊朗的抵抗迫使美国结束战争",
-        "description_zh": "伊朗伊斯兰共和国的抵抗能力和对美国在波斯湾盟友的报复，以及对石油贸易的影响，正在向白宫施加压力，要求其结束冲突，但不能实现“政权更迭”的目标，"
+        "title_zh": "PF 对 TikTok 上煽动仇恨女性的视频展开调查",
+        "description_zh": "联邦警察对社交网络 TikTok 上鼓吹暴力侵害妇女行为的视频趋势展开调查。该公司在一份说明中报告称已收到针对这些出版物的投诉。 PF 还要求该平台保留数据并删除这些材料。"
     },
     {
-        "article_id": "209a069df7366a22ddabdb406119d4ee",
-        "link": "https://www.iprofesional.com/actualidad/449864-don-chatarrin-ahora-es-el-hombre-mas-rico-de-argentina-y-desplazo-a-marcos-galperin",
-        "title": "\"Don Chatarrín\" se convirtió en el hombre más rico de Argentina y desplazó a Marcos Galperin",
-        "description": "Rocca encabeza el ranking de argentinos más ricos en la nueva edición del World’s Billionaires List de Forbes. Quiénes son y de cuánto es su patrimonio",
+        "article_id": "cce5497c0260f57896f8c8c469526fd7",
+        "link": "https://www.ambito.com/negocios/ranking-forbes-2026-paolo-rocca-desplazo-marcos-galperin-y-es-el-empresario-mas-rico-argentina-n6254399",
+        "title": "Ranking Forbes 2026: Paolo Rocca desplazó a Marcos Galperín y es el empresario más rico de Argentina",
+        "description": "El dueño de Techint se convirtió en hombre más rico del país gracias a sus negocios en la industria del acero y la metalmecánica. A nivel global se ubica en el puesto 528.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "otros"
+            "paolo rocca",
+            "marcos galperin",
+            "ranking forbes"
         ],
         "creator": [
-            "iprofesional"
+            "ámbito.com"
         ],
         "language": "spanish",
         "country": [
@@ -277,16 +148,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:11:00",
+        "pubDate": "2026-03-10 19:23:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:39:59",
-        "image_url": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/07/499225.jpg",
+        "fetched_at": "2026-03-10 19:37:06",
+        "image_url": "https://media.ambito.com/p/b8e3d134f149682a1137b4f82a87e7fe/adjuntos/239/imagenes/043/223/0043223935/655x368/smart/paolo-rocca-galperin-y-bulgheroni.jpg",
         "video_url": null,
-        "source_id": "iprofesional",
-        "source_name": "Iprofesional",
-        "source_priority": 120704,
-        "source_url": "https://www.iprofesional.com",
-        "source_icon": "https://n.bytvi.com/iprofesional.png",
+        "source_id": "ambito",
+        "source_name": "Ambito",
+        "source_priority": 37705,
+        "source_url": "https://www.ambito.com",
+        "source_icon": "https://n.bytvi.com/ambito.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -294,133 +165,39 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "“Don Chatarrín”取代马科斯·加尔佩林成为阿根廷首富",
-        "description_zh": "在新版《福布斯》世界亿万富豪榜中，罗卡位居阿根廷最富有人士排行榜榜首。他们是谁？他们的资产有多少？"
+        "title_zh": "2026 年福布斯排名：保罗·罗卡 (Paolo Rocca) 取代马科斯·加尔佩林 (Marcos Galperín) 成为阿根廷最富有的商人",
+        "description_zh": "Techint 的所有者凭借其在钢铁和金属加工行业的业务成为该国首富。全球排名第528位。"
     },
     {
-        "article_id": "7243157d12d6bade637fd94b66d28d11",
-        "link": "https://oantagonista.com.br/ladooa/tecnologia/ps-plus-vazamento-aponta-pelo-menos-seis-novos-jogos-chegando-aos-catalogos/",
-        "title": "PS Plus: vazamento aponta pelo menos seis novos jogos chegando aos catálogos",
-        "description": "Um novo vazamento movimentou a comunidade gamer ao antecipar possíveis títulos que devem integrar os catálogos da PlayStation Plus (PS Plus) Essential e Extra em breve. A informação circula nas redes e fóruns especializados e indica quais jogos podem chegar ao serviço de assinatura da Sony nas próximas semanas. Embora ainda não exista confirmação oficial,...The post PS Plus: vazamento aponta pelo menos seis novos jogos chegando aos catálogos appeared first on O Antagonista.",
+        "article_id": "5dfaa7affe82899f9f6dad75f984809a",
+        "link": "https://www.minutouno.com/sociedad/intensa-busqueda-una-adolescente-pilar-el-misterio-del-joven-escondido-detras-un-camion-n6254390",
+        "title": "Intensa búsqueda de una adolescente en Pilar: el misterio del joven escondido detrás de un camión",
+        "description": "Milena Ayelén Rodríguez tiene 15 años y fue vista por última vez el sábado cuando salió de su casa en el barrio Río Luján.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "ps5",
-            "ps plus",
-            "tecnologia",
-            "playstation",
-            "playstation plus"
+            "sociedad"
         ],
         "creator": [
-            "pedro myth"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 19:11:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:21:32",
-        "image_url": "https://cdn.oantagonista.com/uploads/2026/03/PS-Plus-vazamento-aponta-pelo-menos-seis-novos-jogos-chegando-aos-catalogos-scaled.jpeg",
-        "video_url": null,
-        "source_id": "oantagonista",
-        "source_name": "O Antagonista",
-        "source_priority": 2104208,
-        "source_url": "https://www.oantagonista.com",
-        "source_icon": "https://n.bytvi.com/oantagonista.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "PS Plus：泄露指出至少有六款新游戏已出现在目录中",
-        "description_zh": "一项新的泄密事件引起了游戏界的关注，预计可能很快就会出现在 PlayStation Plus (PS Plus) Essential 和 Extra 目录中的游戏。这些信息在专门的网络和论坛上传播，并表明哪些游戏可以进入索尼的订阅服务"
-    },
-    {
-        "article_id": "3fabd76befade3bb42fb332aa14067be",
-        "link": "https://www.correiobraziliense.com.br/mundo/2026/03/7372367-ele-esperou-decadas-para-ganhar-almoco-gratis-com-o-pai-de-99-anos.html",
-        "title": "Ele esperou décadas para ganhar almoço grátis com o pai de 99 anos",
-        "description": "Oferta criada nos anos 1930 prometia ostras grátis para homens de 80 anos acompanhados do pai; família esperou décadas para cumprir a condição",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estados unidos",
-            "restaurante",
-            "inusitado",
-            "alabama",
-            "promoção"
-        ],
-        "creator": [
-            "thamires pinheiro"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 19:11:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:16:18",
-        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/03/10/675x450/1_whatsapp-image-2026-03-10-at-15-47-14-65122199.jpeg?20260310154843%3F20260310154843=",
-        "video_url": null,
-        "source_id": "correiobraziliense",
-        "source_name": "Correio Braziliense",
-        "source_priority": 267296,
-        "source_url": "https://www.correiobraziliense.com.br",
-        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他等了几十年才从99岁的父亲那里得到免费午餐",
-        "description_zh": "20 世纪 30 年代推出的一项优惠活动承诺向 80 岁的男性在父亲的陪伴下免费提供牡蛎；家人等了几十年才满足条件"
-    },
-    {
-        "article_id": "39140f47075e1cc632a5f8630ac2a989",
-        "link": "https://www.adnsur.com.ar/economia/dolar-oficial-en-argentina---a-cuanto-cotizo-este-martes-_a69b06378b1e3dfb892010e27",
-        "title": "Dólar oficial en Argentina: ¿A cuánto cotizó este martes?",
-        "description": "Se conoció el valor de la divisa estadounidense este 10 de marzo de 2026.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cotización",
-            "argentina",
-            "economía",
-            "dólar"
-        ],
-        "creator": [
-            "adnsur"
+            "luli carossia"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:10:54",
+        "pubDate": "2026-03-10 19:23:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:39:08",
-        "image_url": "https://adnsur-assets.tadevel-cdn.com/69b06ae6b1e3dfb892016dfa/720.jpeg",
+        "fetched_at": "2026-03-10 19:36:30",
+        "image_url": "https://media.minutouno.com/p/fd797e2c5858238393b0e72422e39002/adjuntos/150/imagenes/043/223/0043223546/1200x675/827x358:847x378/milena-ayelen-rodriguez.jpg",
         "video_url": null,
-        "source_id": "adnsur",
-        "source_name": "Adnsur",
-        "source_priority": 80627,
-        "source_url": "https://www.adnsur.com.ar",
-        "source_icon": "https://n.bytvi.com/adnsur.png",
+        "source_id": "minutouno",
+        "source_name": "Minutouno",
+        "source_priority": 33172,
+        "source_url": "https://www.minutouno.com",
+        "source_icon": "https://n.bytvi.com/minutouno.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -428,37 +205,37 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿根廷官方美元：本周二报价是多少？",
-        "description_zh": "美元的价值于 2026 年 3 月 10 日已知。"
+        "title_zh": "密集搜寻皮拉尔少年：隐藏在卡车后面的年轻人之谜",
+        "description_zh": "米莱娜·阿耶伦·罗德里格斯 (Milena Ayelén Rodríguez) 15 岁，最后一次被人看见是在周六，当时她离开了位于里奥卢汉 (Río Luján) 社区的家。"
     },
     {
-        "article_id": "f703ab93c1f4874b2074077aba5f30d9",
-        "link": "https://www.publimetro.co/deportes/2026/03/10/se-definen-los-ultimos-clasificados-a-la-fase-de-grupos-de-la-copa-libertadores/",
-        "title": "Se definen los últimos clasificados a la fase de grupos de la Copa Libertadores",
-        "description": "Esta semana baja el telón de la ronda de clasificación con la vuelta en la fase 3.",
+        "article_id": "7040676ae75d79c5bf7bef6288027a25",
+        "link": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/03/10/elenco-de-rivalidade-ardente-rebate-ataques-homofobicos-apos-serie-virar-fenomeno-no-streaming.ghtml",
+        "title": "Elenco de 'Rivalidade Ardente' rebate ataques homofóbicos após série virar fenômeno no streaming",
+        "description": "'Heated Rivalry': trailer da série 'Rivalidade Ardente'As estrelas da série canadense de grande sucesso \"Heated Rivalry\" (\"Rivalidade Ardente\", em português) reagiram a uma avalanche de comentários que incitam o ódio online após o sucesso do drama LGBTQIA+ sobre hóquei ter gerado grande alvoroço na internet. A série, que acompanha a ascensão profissional e o relacionamento secreto de dois jovens astros do hóquei - um canadense e um russo - ao longo de vários anos, tornou-se um fenômeno global. Mas também inspirou um engajamento particularmente intenso dos fãs nas redes sociais, incluindo comentários homofóbicos e racistas. Hudson Williams, um dos protagonistas que interpreta o astro do hóquei Shane Hollander, abordou a questão em uma publicação no Instagram: \"Não se considere fã se você compartilha comentários racistas, homofóbicos, bifóbicos, misóginos, etaristas, capacitistas, parassociais e intolerantes de qualquer tipo\". \"Nenhum de nós precisa do seu 'amor' odioso.\"A mesma mensagem foi compartilhada por várias outras pessoas envolvidas na série, incluindo o ator François Arnaud, o produtor executivo e diretor Jacob Tierney e Rachel Reid, autora dos romances queer com temática de hóquei que inspiraram a série.Hudson Williams e Connor Storrie nos bastidores da série 'Heated Rivalry'; e a capa do livro 'Rivalidade Ardente'ReproduçãoA primeira temporada de \"Heated Rivalry\" transformou os atores, até então desconhecidos, em estrelas globais, incluindo Williams e seu colega de elenco Connor Storrie.Após estrear na plataforma de streaming canadense Crave no final de novembro, a série chegou à HBO Max e decolou, tornando-se um dos seus programas mais populares dos últimos meses.A revista americana \"Variety\" a chamou de \"a maior surpresa da TV\" de 2025. No entanto, os envolvidos na série têm expressado crescente preocupação com o que chamam de um engajamento tóxico por parte dos fãs. Em uma recente entrevista para um podcast, Tierney alertou que as pessoas disseram \"coisas horríveis sobre meus atores e sobre os personagens\".",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "evaristo pérez"
+        "keywords": [
+            "g1"
         ],
-        "language": "spanish",
+        "creator": null,
+        "language": "portuguese",
         "country": [
-            "colombia"
+            "brazil"
         ],
         "category": [
-            "sports"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:10:59",
+        "pubDate": "2026-03-10 19:22:56",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:14:33",
-        "image_url": "https://www.publimetro.co/resizer/v2/Y7H3VPAKJBFSZO6F3FDUTIGJSQ.jpg?auth=510c36d16152ad4263f53fc3abd2983fd9dc2a938fcc69e4cd5199d9662958e6&height=3804&smart=true&width=5585",
+        "fetched_at": "2026-03-10 19:33:30",
+        "image_url": "https://s2-g1.glbimg.com/-QBe1hpIVx-szXbNoaPrltWNBSs=/1400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/5/17OnKQRmm1noWSXk6tZQ/livro-fotoredes.jpg",
         "video_url": null,
-        "source_id": "publimetro_co",
-        "source_name": "Publimetro Colombia",
-        "source_priority": 371455,
-        "source_url": "https://www.publimetro.co",
-        "source_icon": "https://n.bytvi.com/publimetro_co.png",
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -466,109 +243,23 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "解放者杯小组赛最后的排名已确定",
-        "description_zh": "本周，随着第三阶段的回归，资格赛拉开了帷幕。"
+        "title_zh": "《燃烧的竞争》在剧集成为流媒体现象后，演员们对恐同攻击做出了回应",
+        "description_zh": "《激烈的竞争》：剧集《燃烧的竞争》预告片 这部 LGBTQIA+ 曲棍球剧大获成功后，加拿大大获成功的电视剧《激烈的竞争》的明星们对煽动网络仇恨的大量评论做出了反应"
     },
     {
-        "article_id": "943c4a4b4e7865d4f98af8abc7d90209",
-        "link": "https://www.diariocordoba.com/espana/2026/03/10/carrera-avales-inicia-batalla-primarias-psoe-extremadura-127800286.html",
-        "title": "La carrera por los avales inicia la batalla de las primarias en el PSOE de Extremadura",
-        "description": "Soraya Vega, Álvaro Sánchez Cotrina y José Manuel González Andrade lucharán por el liderazgo del PSOE de Extremadura. A la espera de que la expresidenta de la Asamblea, Blanca Martín, confirme oficialmente si también da el paso, el calendario orgánico fija este jueves 12 de marzo como fecha límite para registrar las candidaturas. A partir de ese momento se abrirá la primera fase de la carrera sucesoria y quizá la más delicada: la recogida de avales. Se desarrollará entre el 13 y el 24 de marzo y determinará qué aspirantes cuentan con respaldo de base suficiente para concurrir a las primarias.",
+        "article_id": "31ad7c6260cc0af28ad8557225bb2ee7",
+        "link": "https://www.infobae.com/deportes/2026/03/10/la-sugestiva-sentencia-de-mauricio-pochettino-cuando-le-consultaron-por-el-interes-del-real-madrid/",
+        "title": "La sugestiva sentencia de Mauricio Pochettino cuando le consultaron por el interés del Real Madrid",
+        "description": "El entrenador argentino, hoy al frente de la selección de Estados Unidos, no cerró las puertas pensando en el segundo semestre del año",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "psoe",
-            "extremadura"
+            "real madrid",
+            "deportes-argentina",
+            "álvaro arbeloa",
+            "mauricio pochettino"
         ],
         "creator": [
-            "rocío entonado arias"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 19:10:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:37:49",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3d2df15-1fea-4e39-9a01-79df02df7753_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "video_url": null,
-        "source_id": "diariocordoba",
-        "source_name": "Cordoba",
-        "source_priority": 48787,
-        "source_url": "https://www.diariocordoba.com",
-        "source_icon": "https://n.bytvi.com/diariocordoba.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "埃斯特雷马杜拉社会工人党初选之战拉开背书争夺战",
-        "description_zh": "索拉亚·维加、阿尔瓦罗·桑切斯·科特里纳和何塞·曼努埃尔·冈萨雷斯·安德拉德将争夺埃斯特雷马杜拉社会工人党的领导权。在等待前议长布兰卡·马丁正式确认她是否也采取这一步骤的同时，有机日历将 3 月 12 日星期四定为日期"
-    },
-    {
-        "article_id": "750954b1310e4c2a6672236ef9dfbb04",
-        "link": "https://oem.com.mx/elsoldepuebla/local/estudiar-y-competir-un-reto-que-me-empodera-como-mujer-sofia-galindo-garcia-28890621",
-        "title": "Estudiar y competir, un reto que me empodera como mujer: Sofía Galindo García",
-        "description": "Estudiante de Arquitectura de la BUAP destaca en nado de aguas abiertas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "local"
-        ],
-        "creator": [
-            "redacción / el sol de puebla"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 19:10:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-11 00:40:41",
-        "image_url": "https://oem.com.mx/elsoldepuebla/img/28891904/1773169815/BASE_LANDSCAPE/1200/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldepuebla_mx",
-        "source_name": "El Sol De Puebla",
-        "source_priority": 167831,
-        "source_url": "https://www.elsoldepuebla.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldepuebla_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "学习和竞争是赋予我作为女性力量的挑战：Sofía Galindo García",
-        "description_zh": "BUAP建筑系学生公开水域游泳表现出色"
-    },
-    {
-        "article_id": "d2d95b08b9da9280e6cf3c244e9e3297",
-        "link": "https://www.infobae.com/colombia/2026/03/10/gustavo-petro-se-reunio-con-alexander-van-der-bellen-su-homologo-en-austria-hablaron-de-estos-temas/",
-        "title": "Gustavo Petro se reunió con Alexander Van der Bellen, su homólogo en Austria: hablaron de estos temas",
-        "description": "El mandatario colombiano dio detalles sobre su encuentro con el jefe de Estado, realizado este martes 10 de marzo de 2026",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "colombia-noticias",
-            "alexander van der bellen",
-            "gustavo petro",
-            "presidente de austria",
-            "petro en austria",
-            "reunión petro",
-            "reunión diplomática"
-        ],
-        "creator": [
-            "daniel mauricio rodríguez sevilla"
+            "infobae"
         ],
         "language": "spanish",
         "country": [
@@ -582,10 +273,10 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:10:47",
+        "pubDate": "2026-03-10 19:22:51",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:31:19",
-        "image_url": "https://www.infobae.com/resizer/v2/HN3AFGF3CVCW7BDX7EUEX4L2OI.jpg?auth=f396e33ffb476ec31ce2a88158e247a232b550aab61bab424cdad07b9d53dc62&height=1365&smart=true&width=2048",
+        "fetched_at": "2026-03-10 19:30:48",
+        "image_url": "https://www.infobae.com/resizer/v2/B74EDW67PREYXGH4VNUFSMORIQ.JPG?auth=21863c903c0c4a8ff4af59d81cd97900e2bb4335f235f04bcd9ab036650be209&height=2444&smart=true&width=3500",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -599,25 +290,156 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "古斯塔沃·佩特罗会见奥地利同行亚历山大·范德贝伦：他们讨论了这些问题",
-        "description_zh": "哥伦比亚总统详细介绍了他于 2026 年 3 月 10 日星期二与国家元首举行的会晤"
+        "title_zh": "当毛里西奥·波切蒂诺被问及皇马的兴趣时，他的暗示性句子",
+        "description_zh": "今天执掌美国队的阿根廷主帅并没有关门思考下半年的情况"
     },
     {
-        "article_id": "538c553a100d9b4e3a288d383cca37c6",
-        "link": "https://yucatanalmomento.com/2026/03/eu-advierte-que-hoy-sera-el-dia-mas-intenso-de-ataques-en-iran/",
-        "title": "EU advierte que hoy será el día más intenso de ataques en Irán",
-        "description": "El secretario de Defensa de Estados Unidos, Pete Hegseth, aseguró que este martes se prevé la jornada más intensa de bombardeos contra Irán desde el inicio de la ofensiva militar. Durante una conferencia de prensa en el Pentágono, el funcionario señaló que la operación continuará con el mayor despliegue de cazas, bombarderos y ataques desde [...]",
+        "article_id": "745ca0857f90506f41ca801a34c879a4",
+        "link": "https://www.infobae.com/mexico/2026/03/10/fiscalia-de-cdmx-investigara-colapso-en-san-antonio-abad-gobierno-pide-esclarecer-responsabilidades/",
+        "title": "Fiscalía de CDMX investigará colapso en San Antonio Abad; gobierno pide esclarecer responsabilidades",
+        "description": "La administración capitalina reiteró su compromiso de garantizar la reparación integral del daño a las familias de las víctimas del colapso",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "mundial",
-            "ataques",
-            "primera plana",
-            "secretario de defensa",
-            "estados unidos",
-            "irán"
+            "mexico-noticias",
+            "cmx",
+            "derrumbe",
+            "política mexicana",
+            "clara brugada",
+            "san antonio abad"
         ],
         "creator": [
-            "admin2"
+            "merary nuñez"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "colombia",
+            "mexico",
+            "argentina"
+        ],
+        "category": [
+            "food",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 19:22:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 19:31:17",
+        "image_url": "https://www.infobae.com/resizer/v2/YGQ7OMGK4ZG63OZQIZFRY37F4E.jpg?auth=854738aa35b00e92172587cfa78b2804f1b21794e02da1971edecaef4ab80eba&height=1080&smart=true&width=1920",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "CDMX 检察官办公室将调查圣安东尼奥阿巴德倒塌事故；政府要求明确责任",
+        "description_zh": "首都政府重申，将保证对倒塌事故遇难者家属的损失进行全面赔偿。"
+    },
+    {
+        "article_id": "6a20f37d0fdc64291481c0b516d3278a",
+        "link": "https://www.diariocronica.com.ar/noticias/2026/03/10/134897-te-van-a-salir-dolares-por-las-orejas-la-promesa-de-milei-al-titular-del-banco-central",
+        "title": "“Te van a salir dólares por las orejas”: la promesa de Milei al titular del Banco Central",
+        "description": "El Presidente habló ante empresarios e inversores en Nueva York y pronosticó un fuerte ingreso de divisas impulsado por la energía y la minería. En ese contexto, le dejó un mensaje directo al titular del Banco Central y defendió el rumbo económico de su gobierno.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "diario crónica"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 19:22:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 19:23:48",
+        "image_url": "https://diariocronica-s3.cdn.net.ar/s3i233/2026/03/diariocronica/images/02/50/51/2505133_100b313fc2cdc83ff53a87305ef37d31cb0c2cf132b1e7768df2e3a97b4493b9/md.webp",
+        "video_url": null,
+        "source_id": "diariocronica_ar",
+        "source_name": "Diariocronica Ar",
+        "source_priority": 2931989,
+        "source_url": "https://www.diariocronica.com.ar",
+        "source_icon": "https://n.bytvi.com/diariocronica_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“美元将从你的耳朵里出来”：米莱对央行行长的承诺",
+        "description_zh": "总统在纽约向商人和投资者发表讲话，并预测能源和采矿业将推动外汇强劲流入。在此背景下，他向央行行长直接留言，并为其政府的经济方针辩护。"
+    },
+    {
+        "article_id": "cf46f0e4ec824133526bba7372041145",
+        "link": "https://www.cnnbrasil.com.br/internacional/eua-dizem-que-pcc-e-cv-sao-ameacas-mas-nao-confirmam-designacao-terrorista/",
+        "title": "EUA dizem que PCC e CV são ameaças, mas não confirmam designação terrorista",
+        "description": "Em comunicado enviado à CNN Brasil, o Departamento de Estado disse estar comprometido em tomar medidas cabíveis contra grupos estrangeiros envolvidos em terrorismo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "mariana janjácomo e léo lopes"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 19:22:36",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 19:30:50",
+        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2025binary_LYNXNPEL4S0YA-BASEIMAGE.jpg?crop=1&h=539&w=800",
+        "video_url": null,
+        "source_id": "cnnbrasil_br",
+        "source_name": "Cnn Brasil",
+        "source_priority": 1209,
+        "source_url": "https://www.cnnbrasil.com.br",
+        "source_icon": "https://n.bytvi.com/cnnbrasil_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "美国称PCC和CV构成威胁，但未确认恐怖分子称号",
+        "description_zh": "美国国务院在发给巴西有线电视新闻网 (CNN Brasil) 的一份声明中表示，致力于对参与恐怖主义的外国组织采取适当行动"
+    },
+    {
+        "article_id": "c5ba7c54d2a01f9e9d9bbc5abaa9cd86",
+        "link": "https://www.noticiasdealmeria.com/noticia/232517/andalucia/andalucia-sede-de-congresos-internacionales-y-debates-sobre-movilidad-en-malaga.html",
+        "title": "Andalucía, sede de congresos internacionales y debates sobre movilidad en Málaga",
+        "description": "Leer",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "málaga",
+            "arturo bernal",
+            "horse",
+            "andalucía",
+            "juanma moreno",
+            "competitividad",
+            "sostenibilidad",
+            "junta de andalucía",
+            "biocombustibles",
+            "jorge paradela"
+        ],
+        "creator": [
+            "lolabenavides@noticiasdealmeria.com (lola benavides)"
         ],
         "language": "spanish",
         "country": [
@@ -628,16 +450,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:10:43",
+        "pubDate": "2026-03-10 19:22:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:27:13",
-        "image_url": "https://yucatanalmomento.com/wp-content/uploads/2026/03/Nuevo-Formato-TECO-2026-03-10T125909.735-696x392.png",
+        "fetched_at": "2026-03-10 19:54:52",
+        "image_url": "https://www.noticiasdealmeria.com/fotos/2919/andalucia-se-consolida-como-destino-internacional-de-congresos-y-referente-en-debates-con-su-liderazgo-en-competitividad-y-sostenibilidad-69b041d797988.jpg",
         "video_url": null,
-        "source_id": "yucatanalmomento",
-        "source_name": "Yucatán Al Momento",
-        "source_priority": 991256016,
-        "source_url": "https://yucatanalmomento.com",
-        "source_icon": "https://n.bytvi.com/yucatanalmomento.png",
+        "source_id": "noticiasdealmeria",
+        "source_name": "Noticiasde Almeria",
+        "source_priority": 4446190,
+        "source_url": "https://www.noticiasdealmeria.com",
+        "source_icon": "https://n.bytvi.com/noticiasdealmeria.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -645,40 +467,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "美国警告称今天将是伊朗袭击最激烈的一天",
-        "description_zh": "美国国防部长皮特·赫格塞斯保证，周二将是自军事进攻开始以来对伊朗进行最猛烈轰炸的一天。在五角大楼举行的新闻发布会上，这位官员指出，行动将继续进行"
+        "title_zh": "安达卢西亚，马拉加流动性国际会议和辩论的总部",
+        "description_zh": ""
     },
     {
-        "article_id": "683b8576a8f40e04c5cd6ffa52ca70a6",
-        "link": "https://www.lajornadadeoriente.com.mx/tlaxcala/propone-blanca-aguila-armonizar-leyes-para-garantizar-perspectiva-de-genero-en-los-tres-poderes-y-municipios/",
-        "title": "Propone Blanca Águila armonizar leyes para garantizar perspectiva de género en los tres poderes y municipios",
-        "description": "Con el argumento de que la violencia contra las mujeres sigue evidenciando vacíos institucionales y falta de sensibilidad en las estructuras públicas, la diputada local Blanca Águila Lima presentó ante el pleno del Congreso del estado una iniciativa de reforma a diversas disposiciones legales con el propósito de incorporar de manera transversal la perspectiva de género en la administración pública, los poderes del estado y los gobiernos municipales.La propuesta, turnada para su análisis a las comisiones legislativas correspondientes, plantea modificar y adicionar disposiciones de ocho ordenamientos estatales, entre ellos las leyes orgánicas de la Administración Pública del Estado, del Poder Judicial, del Poder Legislativo y de la Fiscalía General de Justicia, así como a la Ley Municipal del Estado y la Ley de Igualdad Sustantiva entre Mujeres y Hombres, con el fin de fortalecer la obligación institucional de prevenir, atender y sancionar la violencia contra las mujeres.Este martes, en sesión ordinaria del pleno del Congreso local, la legisladora, quien preside la Comisión de Trabajo, Competitividad, Seguridad Social y Previsión Social, explicó que la reforma busca armonizar el marco normativo local para garantizar que todas las instituciones públicas incorporen de manera efectiva la perspectiva de género en su actuación cotidiana, particularmente en la atención de víctimas de violencia.La iniciativa surge en un contexto en el que, sostuvo, la violencia contra las mujeres continúa siendo un problema estructural que atraviesa tanto el ámbito público como el privado, y que obliga al Estado a fortalecer sus mecanismos de prevención, atención y reparación del daño.Entre los argumentos expuestos, la legisladora recordó que Tlaxcala enfrenta retos específicos relacionados con delitos que afectan particularmente a las mujeres, como la trata de personas, fenómeno que durante años ha colocado a la entidad en el centro de la atención nacional.En ese sentido, advirtió que la actuación de las instituciones encargadas de procurar e impartir justicia debe estar acompañada de una formación sólida en materia de perspectiva de género, a fin de evitar prácticas que deriven en revictimización o en una atención deficiente a quienes han sufrido violencia.Puntualizó que de acuerdo con datos de la Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública, la población percibe que los centros de trabajo son espacios inseguros, lo que refleja que la violencia y la discriminación contra las mujeres persisten en distintos ámbitos de la vida social y laboral.Por ello, consideró necesario fortalecer las obligaciones institucionales para incorporar la igualdad sustantiva entre mujeres y hombres como un principio rector en el diseño de políticas públicas, programas de atención y procesos administrativos, tanto en el Ejecutivo como en los órganos autónomos, en los poderes Judicial y Legislativo y los ayuntamientos. Asimismo, la iniciativa busca establecer mecanismos normativos que obliguen a las instituciones públicas a garantizar capacitación, protocolos de actuación y esquemas de atención con enfoque de género, de modo que la protección de los derechos de las mujeres no dependa de la voluntad política de los funcionarios en turno, sino de mandatos legales claros y permanentes.También planteó que en todos los poderes, y tribunales, así como administración pública, los funcionario deberán acreditar de forma obligatoria el \"Curso Perspectiva de Género\" que será impartido por la Secretaría de las Mujeres del Estado de Tlaxcala y en el caso de no acreditar éste, “las personas servidoras públicas se harán acreedoras a la sanción establecida en el respectivo reglamento interior o, en su caso, no podrán ser contempladas para ningún tipo de ascenso o promoción en la Administración Pública Estatal”.La legisladora subrayó que el objetivo de la reforma es consolidar un andamiaje institucional que permita al Estado responder de manera efectiva ante la violencia de género, garantizando no solo la sanción de los agresores, sino también la reparación integral del daño y la protección de las víctimas.La entrada Propone Blanca Águila armonizar leyes para garantizar perspectiva de género en los tres poderes y municipios aparece primero en La Jornada de Oriente.",
+        "article_id": "9a35ae9f870b761100186757552a66d1",
+        "link": "https://aldialogo.mx/educacion/2026/03/10/preparatorias-y-universidades-de-queretaro-solicitan-jornadas-de-vacunacion-en-planteles",
+        "title": "Preparatorias y universidades de Querétaro solicitan jornadas de vacunación en planteles",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tlaxcala",
-            "política"
-        ],
+        "keywords": null,
         "creator": [
-            "juan luis cruz pérez"
+            "carolina gonzález"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "politics"
+            "lifestyle",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:10:27",
+        "pubDate": "2026-03-10 19:22:51",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:49:01",
-        "image_url": "https://www.lajornadadeoriente.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-10-at-12.48.06-PM.jpeg",
+        "fetched_at": "2026-03-10 20:46:22",
+        "image_url": "https://aldialogo.sfo2.cdn.digitaloceanspaces.com/uploads/2026/03/Preparatorias-y-universidades-de-Queretaro-solicitan-jornadas-de-vacunacion-en-planteles.jpg",
         "video_url": null,
-        "source_id": "lajornadadeoriente_mx",
-        "source_name": "Lajornadadeoriente Mx",
-        "source_priority": 981450,
-        "source_url": "https://www.lajornadadeoriente.com.mx",
-        "source_icon": "https://n.bytvi.com/lajornadadeoriente_mx.jpg",
+        "source_id": "aldialogo",
+        "source_name": "Aldialogo Mx",
+        "source_priority": 673454,
+        "source_url": "https://aldialogo.mx",
+        "source_icon": "https://n.bytvi.com/aldialogo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -686,43 +506,87 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "布兰卡·阿吉拉提议协调法律，以保证三个权力机构和城市的性别观点",
-        "description_zh": "地方代表布兰卡·阿吉拉·利马认为，针对妇女的暴力行为继续表现出体制差距和公共结构缺乏敏感性，因此在州议会全体会议上提出了一项改革各项法律条款的倡议。"
+        "title_zh": "克雷塔罗的高中和大学要求在校园内进行疫苗接种日",
+        "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "53eb11ceae47614f14e8f6499c9f1d7f",
-        "link": "https://www.ovejeronoticias.cl/2026/03/altas-expectativas-editorial/",
-        "title": "Altas expectativas | Editorial",
-        "description": "Los cambios de gobierno son momentos importantes en la vida de un país. Momento históricoOrigen",
+        "article_id": "8667968e521546f00c2687a05fab9564",
+        "link": "https://www.eleconomista.com.mx/empresas/exportaciones-ventas-camiones-mexico-meten-frenon-febrero-produccion-estrella-20260310-803561.html",
+        "title": "Exportaciones y ventas de camiones en México meten frenón en febrero; producción se estrella 49%",
+        "description": "La producción, exportación y ventas de vehículos pesados en México disminuyeron 49%, 32% y 27%, respectivamente durante febrero.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "titulares",
-            "editorial",
-            "magallanes",
-            "noticias"
+            "empresas"
         ],
         "creator": [
-            "ovejero noticias"
+            "lilia gonzález"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "mexico"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 19:22:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 20:05:15",
+        "image_url": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2022/12/12/66e4cef51eed3.jpeg",
+        "video_url": null,
+        "source_id": "eleconomista",
+        "source_name": "El Economista",
+        "source_priority": 19606,
+        "source_url": "https://www.eleconomista.com.mx",
+        "source_icon": "https://n.bytvi.com/eleconomista.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "2月份墨西哥卡车出口和销售放缓；生产崩溃 49%",
+        "description_zh": "2月份墨西哥重型汽车产量、出口和销量分别下降49%、32%和27%。"
+    },
+    {
+        "article_id": "31ad7c6260cc0af28ad8557225bb2ee7",
+        "link": "https://www.infobae.com/deportes/2026/03/10/la-sugestiva-sentencia-de-mauricio-pochettino-cuando-le-consultaron-por-el-interes-del-real-madrid/",
+        "title": "La sugestiva sentencia de Mauricio Pochettino cuando le consultaron por el interés del Real Madrid",
+        "description": "El entrenador argentino, hoy al frente de la selección de Estados Unidos, no cerró las puertas pensando en el segundo semestre del año",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "real madrid",
+            "deportes-argentina",
+            "álvaro arbeloa",
+            "mauricio pochettino"
+        ],
+        "creator": [
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "colombia",
+            "mexico",
+            "argentina"
         ],
         "category": [
             "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:10:15",
+        "pubDate": "2026-03-10 19:22:51",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:18:12",
-        "image_url": "https://www.ovejeronoticias.cl/wp-content/uploads/2026/03/editorialovejero.jpg",
+        "fetched_at": "2026-03-10 19:30:48",
+        "image_url": "https://www.infobae.com/resizer/v2/B74EDW67PREYXGH4VNUFSMORIQ.JPG?auth=21863c903c0c4a8ff4af59d81cd97900e2bb4335f235f04bcd9ab036650be209&height=2444&smart=true&width=3500",
         "video_url": null,
-        "source_id": "ovejeronoticias_cl",
-        "source_name": "Ovejeronoticias",
-        "source_priority": 767851,
-        "source_url": "https://www.ovejeronoticias.cl",
-        "source_icon": "https://n.bytvi.com/ovejeronoticias_cl.jpg",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -730,20 +594,69 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "高期望|社论",
-        "description_zh": "政府更迭是一个国家生命中的重要时刻。历史时刻起源"
+        "title_zh": "当毛里西奥·波切蒂诺被问及皇马的兴趣时，他的暗示性句子",
+        "description_zh": "今天执掌美国队的阿根廷主帅并没有关门思考下半年的情况"
     },
     {
-        "article_id": "f8c43985dcc6f00915c4de1afe9cfd62",
-        "link": "https://www.marca.com/videojuegos/kings-league/2026/03/10/guti-jugador-capim-futbol-brasil-cultura-vive-lado.html",
-        "title": "Guti, jugador de Capim: \"El fútbol en Brasil es cultura, se vive más que en ningún otro lado''",
-        "description": "MARCA Gaming ha podido hablar con el jugador español tras la primera jornada de la Kings League Brasil",
+        "article_id": "745ca0857f90506f41ca801a34c879a4",
+        "link": "https://www.infobae.com/mexico/2026/03/10/fiscalia-de-cdmx-investigara-colapso-en-san-antonio-abad-gobierno-pide-esclarecer-responsabilidades/",
+        "title": "Fiscalía de CDMX investigará colapso en San Antonio Abad; gobierno pide esclarecer responsabilidades",
+        "description": "La administración capitalina reiteró su compromiso de garantizar la reparación integral del daño a las familias de las víctimas del colapso",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "kings league"
+            "mexico-noticias",
+            "cmx",
+            "derrumbe",
+            "política mexicana",
+            "clara brugada",
+            "san antonio abad"
         ],
         "creator": [
-            "mario blázquez"
+            "merary nuñez"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "colombia",
+            "mexico",
+            "argentina"
+        ],
+        "category": [
+            "food",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 19:22:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 19:31:17",
+        "image_url": "https://www.infobae.com/resizer/v2/YGQ7OMGK4ZG63OZQIZFRY37F4E.jpg?auth=854738aa35b00e92172587cfa78b2804f1b21794e02da1971edecaef4ab80eba&height=1080&smart=true&width=1920",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "CDMX 检察官办公室将调查圣安东尼奥阿巴德倒塌事故；政府要求明确责任",
+        "description_zh": "首都政府重申，将保证对倒塌事故遇难者家属的损失进行全面赔偿。"
+    },
+    {
+        "article_id": "c48764e8c011bf5364091063624432dc",
+        "link": "https://www.marca.com/futbol/barcelona/2026/03/10/barcelona-newcastle-valoraciones-comentarios.html",
+        "title": "Joan García nunca lo ha conseguido",
+        "description": "Analizamos la actuación de los jugadores y de Hansi Flick",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "barcelona"
+        ],
+        "creator": [
+            "lorenzo lara"
         ],
         "language": "spanish",
         "country": [
@@ -752,11 +665,11 @@
         "category": [
             "sports"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-03-10 19:10:12",
+        "datatype": "news",
+        "pubDate": "2026-03-10 19:22:46",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:34:36",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/uploads/2026/03/10/69b069a39b2fc.jpeg",
+        "fetched_at": "2026-03-10 19:35:01",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/uploads/2026/03/10/69b051b869aa9.jpeg",
         "video_url": null,
         "source_id": "marca",
         "source_name": "Marca Claro",
@@ -770,42 +683,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "卡皮姆球员古蒂：“巴西的足球是一种文化，它比其他任何地方都更有活力”",
-        "description_zh": "《马卡报》在巴西国王联赛第一天后与西班牙球员进行了交谈"
+        "title_zh": "琼·加西亚从未实现过这一目标",
+        "description_zh": "我们分析球员和汉斯·弗利克的表现"
     },
     {
-        "article_id": "febef822bdf1108d0b5f53887008fa18",
-        "link": "https://entrelineas.com.mx/tuvimos-la-razon-maru-tras-resolucion-de-la-corte-que-avala-jubilaciones-para-exjueces/",
-        "title": "Tuvimos la razón: Maru tras resolución de la Corte que avala jubilaciones para exjueces",
-        "description": "La gobernadora María Eugenia Campos Galván señaló que la Suprema Corte de Justicia de la Nación (SCJN) le dio la razón a Chihuahua en el tema de las jubilaciones para las personas juzgadoras que tuvieron que dejar sus cargos a raíz de la Reforma Judicial. “Al final de cuentas tuvimos la razón al haber defendido [...]",
+        "article_id": "e757e562e35cb081107e2f23a455085a",
+        "link": "https://www.razon.com.mx/virales/2026/03/10/mario-day-2026-por-que-se-celebra/",
+        "title": "Mario Day 2026: ¿Por qué se celebra?",
+        "description": "Mario Bros",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "maru campos",
-            "videos",
-            "local"
+            "mario-bros",
+            "nintendo"
         ],
         "creator": [
-            "editor"
+            "yosselin pérez"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "politics",
+            "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:10:08",
+        "pubDate": "2026-03-10 19:22:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:16:48",
-        "image_url": null,
+        "fetched_at": "2026-03-10 19:37:06",
+        "image_url": "https://www.razon.com.mx/resizer/v2/IJWPOT5UGVD4PLCNSWQC7WGDL4.jpg?auth=1026b82d1d65e0b82f5f3b39a6cf822bc00d363a745ab40a60a2a38caf5a3fb8&height=550&quality=85&smart=true&width=1100",
         "video_url": null,
-        "source_id": "entrelineas",
-        "source_name": "Entrelineas",
-        "source_priority": 655477,
-        "source_url": "https://entrelineas.com.mx",
-        "source_icon": "https://n.bytvi.com/entrelineas.jpg",
+        "source_id": "razon",
+        "source_name": "La Razón De México",
+        "source_priority": 45427,
+        "source_url": "https://www.razon.com.mx",
+        "source_icon": "https://n.bytvi.com/razon.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -813,39 +725,44 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "我们是对的：法院通过支持前法官退休的决议后，Maru",
-        "description_zh": "州长玛丽亚·尤金尼亚·坎波斯·加尔万指出，国家最高法院（SCJN）同意奇瓦瓦州关于因司法改革而不得不离职的法官退休问题的观点。 “最终我们是对的。"
+        "title_zh": "2026 年马里奥日：为什么要庆祝它？",
+        "description_zh": "马里奥兄弟"
     },
     {
-        "article_id": "f845667b52d7de7b052b4429adcf97b2",
-        "link": "https://www.informador.mx/jalisco/habra-cierres-parciales-nocturnos-en-estas-vialidades-de-guadalajara-20260310-0101.html",
-        "title": "Habrá cierres parciales nocturnos en estas vialidades de Guadalajara",
-        "description": "Algunas de las calles más importantes y de mayor impacto de Guadalajara sufrirán cierres viales parciales debido a trabajos de rehabilitación",
+        "article_id": "2770839c3d8768ccedabcff06820b45e",
+        "link": "https://depor.com/futbol-peruano/descentralizado/franco-coronel-se-defiende-tras-polemica-con-cristiano-da-silva-sporting-cristal-alianza-atletico-liga-1-noticia/",
+        "title": "Niega actos de racismo: Franco Coronel se defiende tras polémica con Cristiano da Silva",
+        "description": "El futbolista de Alianza Atlético emitió un comunicado para contar su versión de los hechos con el jugador de Sporting Cristal.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "jalisco"
+            "franco coronel",
+            "cristiano da silva",
+            "sporting cristal",
+            "racismo",
+            "alianza atlético",
+            "liga 1"
         ],
         "creator": [
-            "el informador :: noticias de jalisco, méxico, deportes &amp; entretenimiento"
+            "redacción depor"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "colombia"
         ],
         "category": [
-            "lifestyle"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 19:10:00",
+        "pubDate": "2026-03-10 19:22:26",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 19:35:43",
-        "image_url": "https://www.informador.mx/__export/1773169262043/sites/elinformador/img/2026/03/10/habrx_cierres_viales_nocturnos_en_estas_calles_de_guadalajara_version1773168946674.png_1943627327.png",
+        "fetched_at": "2026-03-10 19:36:30",
+        "image_url": "https://depor.com/resizer/v2/DZMRPTIJBFCEBGLWGWBRKRA5ZA.jpg?auth=f39125e03701dd5c49a492c19bcb6c5b7012f200d55cf1231b845daa5a41db90&height=1056&quality=90&smart=true&width=1600",
         "video_url": null,
-        "source_id": "informador_mx",
-        "source_name": "Informador Mx",
-        "source_priority": 27025,
-        "source_url": "https://www.informador.mx",
-        "source_icon": "https://n.bytvi.com/informador_mx.png",
+        "source_id": "depor",
+        "source_name": "Depor",
+        "source_priority": 36977,
+        "source_url": "https://depor.com",
+        "source_icon": "https://n.bytvi.com/depor.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -853,7 +770,107 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "瓜达拉哈拉的这些道路将在夜间部分封闭",
-        "description_zh": "由于修复工作，瓜达拉哈拉一些最重要和最具影响力的街道将部分道路封闭"
+        "title_zh": "他否认种族主义行为：佛朗哥·科罗内尔在与克里斯蒂亚诺·达席尔瓦发生争议后为自己辩护",
+        "description_zh": "这位联盟竞技足球运动员发表了一份声明，讲述了他与水晶竞技球员发生的事件的故事。"
+    },
+    {
+        "article_id": "9e7b450a8ff867b55e54796d7869e873",
+        "link": "https://www.infobae.com/mexico/2026/03/10/alessandra-rojo-de-la-vega-anuncia-clausura-del-inmueble-de-san-antonio-abad-que-se-derrumbo/",
+        "title": "Alessandra Rojo de la Vega anuncia clausura del inmueble de San Antonio Abad que se derrumbó",
+        "description": "El lugar donde murieron tres personas no contaba con Programa Interno de Protección Civil",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "protección civil",
+            "mexico-noticias",
+            "alessandra rojo de la vega",
+            "clausura",
+            "derrumbe",
+            "san antonio abad",
+            "cdmx"
+        ],
+        "creator": [
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "colombia",
+            "mexico",
+            "argentina"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 19:22:21",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 19:30:54",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "亚历山德拉·罗霍·德拉维加宣布关闭倒塌的圣安东尼奥阿巴德大楼",
+        "description_zh": "三人死亡的地方没有内部民事保护计划"
+    },
+    {
+        "article_id": "084cd653882268535b0cf173f84e81df",
+        "link": "https://www.infobae.com/estados-unidos/2026/03/10/las-historias-detras-de-cada-rostro-en-el-monte-rushmore/",
+        "title": "Las historias detrás de cada rostro en el Monte Rushmore",
+        "description": "La incorporación de Washington, Jefferson, Roosevelt y Lincoln en el monumento responde a la intención de destacar diferentes momentos en la formación y consolidación de los Estados Unidos, según registros oficiales del gobierno estadounidense",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "gutzon borglum",
+            "monumentos escultóricos",
+            "historia nacional",
+            "monte rushmore",
+            "presidentes de estados unidos",
+            "servicio de parques nacionales",
+            "estados-unidos-noticias"
+        ],
+        "creator": [
+            "marina cappiello"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "colombia",
+            "mexico",
+            "argentina"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 19:22:18",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 19:30:55",
+        "image_url": "https://www.infobae.com/resizer/v2/DNQWV6CXMTDKL6DV4WU6EARXJA.jpg?auth=f45cacc5954ef5aec9ee05a8ce42ae2092facd4eab02ad16916d473b7329b1a5&height=3744&smart=true&width=5616",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "拉什莫尔山每张面孔背后的故事",
+        "description_zh": "根据美国政府的官方记录，将华盛顿、杰斐逊、罗斯福和林肯纳入纪念碑，是为了凸显美国形成和巩固过程中的不同时刻。"
     }
 ]
