@@ -1,16 +1,16 @@
 [
     {
-        "article_id": "85f1cd60bec866fba4cd70a02a43638c",
-        "link": "https://www.elmanana.com/noticias/nacional/reforma-a-la-ley-federal-de-proteccion-a-la-propiedad-industrial-en-mexico/6104541",
-        "title": "Reforma a la Ley Federal de Protección a la Propiedad Industrial en México",
-        "description": "Detalles sobre la nueva figura de solicitud provisional de patente",
+        "article_id": "c3f47a890c1c133c7f39584e754028e5",
+        "link": "https://www.elmanana.com/local/reynosa/el-cherrys-detenido-en-operativo-de-seguridad-en-reynosa/6104551",
+        "title": "El Cherrys detenido en operativo de seguridad en Reynosa",
+        "description": "Fuerzas federales detuvieron a Manuel N, identificado como uno de los principales generadores de violencia en la región fronteriza.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "combate a la piratería",
-            "patentes mexicanas",
-            "fortalecimiento de la innovación en méxico",
-            "transferencia tecnológica",
-            "reforma a la ley federal de protección a la propiedad industrial"
+            "operativo secretaría de la defensa nacional",
+            "trafico de drogas tamaulipas",
+            "cateo en reynosa",
+            "detención de manuel n",
+            "el cherrys reynosa"
         ],
         "creator": [
             "elmananarey"
@@ -24,10 +24,10 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 16:26:00",
+        "pubDate": "2026-03-10 17:49:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 21:42:34",
-        "image_url": "https://blob.elmanana.com/images/2026/03/10/crop-w747-h624-captura-de-pantalla-2026-03-10-a-las-42129-p-m-1affc25f-focus-0-0-628-524.png",
+        "fetched_at": "2026-03-10 23:12:41",
+        "image_url": "https://blob.elmanana.com/images/2026/03/10/crop-w853-h712-cherry-8dec8741-focus-min0.05-0.43-628-524.jpg",
         "video_url": null,
         "source_id": "elmanana",
         "source_name": "Últimas Noticias - El Mañana De Reynosa",
@@ -43,99 +43,14 @@
         "duplicate": false
     },
     {
-        "article_id": "b2a60a6e872223eefa7ce0456628190d",
-        "link": "https://www.diariocordoba.com/cordoba-ciudad/2026/03/10/abierto-plazo-presentacion-candidaturas-premio-127791243.html",
-        "title": "Abierto el plazo de presentación de candidaturas del Premio Pyme del Año de Córdoba 2026",
-        "description": "Banco Santander y la Cámara de Comercio de Córdoba en colaboración con la Cámara de España y el Diario CÓRDOBA, convocan la nueva edición del Premio Pyme del Año, en el que, durante estos diez años, han participado 12.500 empresas y que se ha consolidado como el galardón de referencia para reconocer la labor y los méritos de las pequeñas y medianas empresas de todo el país como palancas de generación de riqueza y creación de empleo.",
+        "article_id": "887d565805abab8afe20b42916d7c9eb",
+        "link": "https://unomasuno.com.mx/nacional/temblor-hoy-10-de-marzo-en-mexico-se-registro-un-sismo-de-magnitud-4-0-en-oaxaca/",
+        "title": "Temblor hoy 10 de marzo en México: se registró un sismo de magnitud 4.0 en Oaxaca",
+        "description": "Un sismo de magnitud 4.0 se registró este martes 10 de marzo cerca de la costa de Oaxaca, de acuerdo con información del Servicio Sismológico Nacional (SSN). El movimiento telúrico ocurrió a las 02:11 horas, con epicentro ubicado a 33 kilómetros al sureste de San Pedro Pochutla, en las coordenadas 15.466° de latitud y -96.362° [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cámara de comercio de córdoba",
-            "empresas",
-            "banco santander",
-            "diario córdoba",
-            "pymes",
-            "pyme del año",
-            "economía"
-        ],
-        "creator": [
-            "diario córdoba"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 16:25:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 16:37:46",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5941214d-3df4-442b-afea-ef4ef3db3f98_16-9-aspect-ratio_default_0.jpg",
-        "video_url": null,
-        "source_id": "diariocordoba",
-        "source_name": "Cordoba",
-        "source_priority": 48787,
-        "source_url": "https://www.diariocordoba.com",
-        "source_icon": "https://n.bytvi.com/diariocordoba.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "e72208694cf0768b8fe3ebc55b12c172",
-        "link": "https://aldialogo.mx/municipio-de-corregidora/2026/03/10/conoce-donde-habra-comida-gratuita-esta-semana-en-corregidora",
-        "title": "Conoce dónde habrá comida gratuita esta semana en Corregidora",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "carolina gonzález"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 16:25:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 16:48:02",
-        "image_url": "https://aldialogo.sfo2.cdn.digitaloceanspaces.com/uploads/2026/03/Conoce-donde-habra-comida-gratuita-esta-semana-en-Corregidora.jpg",
-        "video_url": null,
-        "source_id": "aldialogo",
-        "source_name": "Aldialogo Mx",
-        "source_priority": 673454,
-        "source_url": "https://aldialogo.mx",
-        "source_icon": "https://n.bytvi.com/aldialogo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "0e2bb9768ad9e588b207953c59073e00",
-        "link": "https://www.diariocambio.com.mx/2026/policiaca/juniors-ebrios-de-la-atlixcayotl-estudian-en-la-anahuac-una-jugo-en-el-club-puebla-femenil/",
-        "title": "Juniors ebrios de la Atlixcáyotl estudian en la Anáhuac; una jugó en el Club Puebla Femenil",
-        "description": "Los juniors ebrios que el fin de semana atropellaron y mataron al joven César Cuamani en la Vía Atlixcáyotl, fueron identificados como estudiantes de la Anáhuac, además de que en el caso de una de ellas perteneció a las enfranjadas del Club Puebla Femenil y la Liga BBVA MX, incluso, ya hasta borró todas sus [...]The post Juniors ebrios de la Atlixcáyotl estudian en la Anáhuac; una jugó en el Club Puebla Femenil appeared first on Diario Cambio.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "policíaca",
-            "ebrios",
-            "juniors",
-            "vía atlixcáyotl",
-            "muerto",
-            "atropellado"
+            "notimomento",
+            "nacional"
         ],
         "creator": null,
         "language": "spanish",
@@ -147,16 +62,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 16:25:49",
+        "pubDate": "2026-03-10 17:48:58",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 16:41:08",
-        "image_url": "https://www.diariocambio.com.mx/wp-content/uploads/2026/03/Identifican-a-juniors-ebrios-que-mataron-a-Cesar-Cuamani_11zon-300x169.webp",
+        "fetched_at": "2026-03-10 17:51:11",
+        "image_url": null,
         "video_url": null,
-        "source_id": "diariocambio",
-        "source_name": "Diariocambio",
-        "source_priority": 137606,
-        "source_url": "https://www.diariocambio.com.mx",
-        "source_icon": "https://n.bytvi.com/diariocambio.jpg",
+        "source_id": "unomasuno",
+        "source_name": "Unomasuno Maxico",
+        "source_priority": 1956795,
+        "source_url": "https://unomasuno.com.mx",
+        "source_icon": "https://n.bytvi.com/unomasuno.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -166,81 +81,155 @@
         "duplicate": false
     },
     {
-        "article_id": "7f4412b9e424dfd1dc993c320dc3266f",
-        "link": "https://www.infobae.com/colombia/2026/03/10/colombia-subio-tres-puestos-en-el-ranking-mundial-de-pasaportes-mas-poderosos-ahora-ocupa-el-lugar-34/",
-        "title": "Colombia subió tres puestos en el ranking mundial de pasaportes más poderosos: ahora ocupa el lugar 34",
-        "description": "El índice internacional que mide la facilidad para viajar sin visa ubicó al documento colombiano tres posiciones más arriba frente al año pasado. El cambio refleja el número de destinos a los que pueden ingresar los ciudadanos sin solicitar permiso previo",
+        "article_id": "fd8b8b822421567e1d0fc5da95de3aeb",
+        "link": "https://nortedigital.mx/convocan-a-emprendedores-a-participar-en-premio-chihuahua-emprende-2026/",
+        "title": "Convocan a emprendedores a participar en Premio Chihuahua Emprende 2026",
+        "description": "Redacción Personas desarrolladoras de proyectos fueron convocadas a participar en el Premio Chihuahua Emprende 2026, que cuenta con cinco categorías y que otorgará un premio de 100 mil pesos a los primeros lugares de cada una y 50 mil pesos a los segundos, informó personal de la Secretaría de Innovación y Desarrollo Económico (SIDE). Añadió [...]La entrada Convocan a emprendedores a participar en Premio Chihuahua Emprende 2026 aparece primero en Norte de Ciudad Juárez.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "colombia-noticias",
-            "iata",
-            "ranking internacional",
-            "pasaporte colombiano",
-            "migración"
+            "economía",
+            "emprendedores",
+            "premio chihuahua emprende 2026",
+            "emprendimiento"
         ],
         "creator": [
-            "juan manuel correa"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "colombia",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 16:25:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 16:31:11",
-        "image_url": "https://www.infobae.com/resizer/v2/XJLFN674BVBKPCSUU5D4FKZK3Q.png?auth=fa517257ad904bfc163b1a6905fe035bb4f2b3a6cdbb487e2bb88c652785b6fb&height=1063&smart=true&width=1890",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "66af4588a053948cc6df46a7a5577632",
-        "link": "https://diario.mx/estado/2026/mar/10/abaten-en-operativo-en-san-juanito-a-civil-que-disparo-a-agentes-1108958.html",
-        "title": "Abaten en operativo en San Juanito a civil que disparó a agentes",
-        "description": "Los elementos de la Agencia Estatal de Investigación repelieron la agresión utilizando sus armas de cargo",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estado"
-        ],
-        "creator": [
-            "de la redacción / el diario"
+            "mauricio rodriguez"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 17:48:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 18:16:21",
+        "image_url": "https://nortedigital.mx/wp-content/uploads/2026/03/SIDE-702x526.jpeg",
+        "video_url": null,
+        "source_id": "nortedigital_mx",
+        "source_name": "Norte De Ciudad Juárez",
+        "source_priority": 602856,
+        "source_url": "https://nortedigital.mx",
+        "source_icon": "https://n.bytvi.com/nortedigital_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "55038bf3e13a4d13bfb499d01b616d2b",
+        "link": "https://www.cordobabn.com/articulo/cultura/plataforma-auditorio-cordoba-recibe-apoyo-premio-nacional-musica-cuarteto-quiroga-cibran-sierra/20260310184850252213.html",
+        "title": "“La plataforma Auditorio para Córdoba recibe el apoyo del Premio Nacional de Música con el Cuarteto Quiroga, Cibrán Sierra”",
+        "description": "La Plataforma Ciudadana “Auditorio para Córdoba” recibe un nuevo texto de apoyo a su reivindicación. Cibrán Sierra Vázquez es una de las numerosas personalidades del mundo de la cultura que, contactado por la plataforma, se ha manifestado a favor de su reivindicación ciudadana.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "cultura"
+        ],
+        "creator": [
+            "redacción"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 17:48:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 17:49:33",
+        "image_url": "https://www.cordobabn.com/media/cordobabn/images/2025/11/12/2025111211551656955.jpg",
+        "video_url": null,
+        "source_id": "cordobabn",
+        "source_name": "Cordoba",
+        "source_priority": 1219601,
+        "source_url": "https://www.cordobabn.com",
+        "source_icon": "https://n.bytvi.com/cordobabn.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "a1589fc42e5455f21fe53402cdd66e03",
+        "link": "https://misionesonline.net/2026/03/10/vecinos-del-barrio-villa-cabello-de-posadas-avistaron-un-mono-caraya/",
+        "title": "Vecinos del barrio Villa Cabello de Posadas avistaron un mono carayá en los árboles de la plaza San Pantaleón",
+        "description": "En el populoso barrio Villa Cabello de Posadas, vecinos alertaron sobre la presencia de un mono carayá que fue visto en los árboles de la plaza San Pantaleón, ubicada en la chacra 147. El animal fue observado por primera vez hace aproximadamente una semana y desde entonces se mantiene en la zona, generalmente en lo [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ambiente y ecología",
+            "ecología",
+            "medio ambiente"
+        ],
+        "creator": [
+            "antonela souza"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
             "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 16:25:47",
+        "pubDate": "2026-03-10 17:48:28",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 16:35:07",
-        "image_url": "https://diario.mx/core/dmx/assets/images/2026/03/10/sa-Q9VGVkrw7.jpg",
+        "fetched_at": "2026-03-10 19:15:16",
+        "image_url": "https://static.misionesonline.news/wp-content/uploads/2026/03/mono-caraya-300x202.jpeg",
         "video_url": null,
-        "source_id": "diario",
-        "source_name": "El Diario",
-        "source_priority": 14955,
-        "source_url": "https://diario.mx",
-        "source_icon": "https://n.bytvi.com/diario.png",
+        "source_id": "misionesonline",
+        "source_name": "Misionesonline",
+        "source_priority": 499523,
+        "source_url": "https://misionesonline.net",
+        "source_icon": "https://n.bytvi.com/misionesonline.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "da7f094541be993e264328754398983d",
+        "link": "https://elchorrillero.com/nota/2026/03/10/608847-el-gobierno-ratifico-su-intencion-de-continuar-con-la-baja-de-las-retenciones-en-la-argentina/amp/",
+        "title": "El Gobierno ratificó su intención de “continuar con la baja de las retenciones en la Argentina”",
+        "description": "El secretario de Agricultura, Sergio Iraeta, estuvo en la primera jornada de Expoagro en representación de Javier Milei.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "leonardo kram"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 17:48:15",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 21:16:13",
+        "image_url": "https://elchorrillero.com/nota/wp-content/uploads/2026/03/Untitled-1-810x540.jpg",
+        "video_url": null,
+        "source_id": "elchorrillero",
+        "source_name": "El Chorrillero",
+        "source_priority": 175495,
+        "source_url": "https://www.elchorrillero.com",
+        "source_icon": null,
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -250,99 +239,16 @@
         "duplicate": true
     },
     {
-        "article_id": "b14ead481b1096ca22609a08957efb37",
-        "link": "https://www.infobae.com/deportes/2026/03/10/historica-presentacion-del-argentino-kevin-vallejos-en-ufc-protagonizara-la-velada-estelar-contra-el-norteamericano-josh-emmett/",
-        "title": "Histórica presentación del argentino Kevin Vallejos en UFC: protagonizará la velada estelar contra el norteamericano Josh Emmett",
-        "description": "El Chino saltará a escena el 14 de marzo. Será el segundo luchador argentino en la historia de la compañía en encabezar una velada",
+        "article_id": "ad8f6f76bcbface8daf8882d67da7013",
+        "link": "https://www.eleconomista.com.mx/empresas/renault-quiere-dejar-vender-autos-motor-combustion-europa-20260310-803542.html",
+        "title": "Renault quiere dejar de vender autos con motor de combustión en Europa para el 2030",
+        "description": "El fabricante de automóviles francés pretende dejar de vender vehículos con sólo motores de combustión interna en Europa, en beneficio de los autos eléctricos e híbridos, para 2030.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "deportes-internacional",
-            "ufc",
-            "mma",
-            "kevin vallejos"
+            "empresas"
         ],
         "creator": [
-            "infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "colombia",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 16:25:43",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 16:31:31",
-        "image_url": "https://www.infobae.com/resizer/v2/ANCNLJFKLVEZFPRN56PORLWBMY.jpg?auth=7acaf7367af686670eca400ebadb3bbfbc5599af6676ab06998550e3127cd068&height=1079&smart=true&width=1918",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "8bb4e240819f0683836db18a4585fe26",
-        "link": "https://www.soyfutbol.com/noticias/santiago-gimenez-podria-salir-del-milan-clubes-de-inglaterra-preparan-ofertas-de-30-millones-20260310-0015.html",
-        "title": "Santiago Giménez podría salir del Milan: clubes de Inglaterra preparan ofertas de 30 millones",
-        "description": "El delantero mexicano todavía se recupera de una lesión, pero su futuro en Europa vuelve a generar rumores en el mercado de fichajes.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "noticias"
-        ],
-        "creator": [
-            "federico amarelle"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 16:25:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 16:48:45",
-        "image_url": "https://assets.soyfutbol.com/__export/1773159931868/sites/debate/img/2026/03/10/tevez-juventus_psd_-_2026-03-10t132447_709.png_2036031421.png",
-        "video_url": null,
-        "source_id": "soyfutbol",
-        "source_name": "Soyfutbol",
-        "source_priority": 877070,
-        "source_url": "https://www.soyfutbol.com",
-        "source_icon": "https://n.bytvi.com/soyfutbol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "6aaab384632febca654f3234d6894a2b",
-        "link": "https://oem.com.mx/elsoldemexico/finanzas/barclays-y-bbva-descartan-impacto-en-mexico-por-encarecimiento-del-crudo-28888021",
-        "title": "Barclays y BBVA descartan impacto en México por encarecimiento del petróleo",
-        "description": "Analistas prevén que la volatilidad en los precios de referencia del crudo tendrá efectos acotados en las finanzas públicas y en el costo de las gasolinas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "finanzas"
-        ],
-        "creator": [
-            "miguel ángel  ensástigue"
+            "afp"
         ],
         "language": "spanish",
         "country": [
@@ -353,16 +259,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 16:25:41",
+        "pubDate": "2026-03-10 17:48:04",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 21:39:32",
-        "image_url": "https://oem.com.mx/elsoldemexico/img/28888199/1773157999/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-03-10 18:05:18",
+        "image_url": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/03/10/69b0591976210.jpeg",
         "video_url": null,
-        "source_id": "elsoldemexico",
-        "source_name": "El Sol De Mexico",
-        "source_priority": 101294,
-        "source_url": "https://www.elsoldemexico.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldemexico.png",
+        "source_id": "eleconomista",
+        "source_name": "El Economista",
+        "source_priority": 19606,
+        "source_url": "https://www.eleconomista.com.mx",
+        "source_icon": "https://n.bytvi.com/eleconomista.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -372,40 +278,118 @@
         "duplicate": false
     },
     {
-        "article_id": "5b0f542e3900f61eb5f1adef24e371d5",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/03/10/g-7-pide-liberacion-de-reservas-de-petroleo-a-la-agencia-internacional-de-la-energia-por-guerra-en-iran/",
-        "title": "G-7 pide liberación de reservas de petróleo a la Agencia Internacional de la Energía por guerra en Irán",
-        "description": "Los precios del petróleo se dispararon el lunes en Londres hasta alcanzar casi 120 dólares por barril, un máximo en 4 años.",
+        "article_id": "fa6bd3c4e39c8ee44169db06bc2e4f2e",
+        "link": "https://www.proceso.com.mx/nacional/2026/3/10/es-muy-probable-que-sheinbaum-viaje-brasil-antes-de-junio-370002.html",
+        "title": "“Es muy probable” que Sheinbaum viaje a Brasil antes de junio",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "grupo de los 7",
-            "emp",
-            "grupo de los siete",
-            "países del grupo de los siete",
-            "agencia internacional de la energía"
+            "claudia sheinbaum",
+            "luiz inácio lula da silva",
+            "brasil",
+            "presidencia"
         ],
         "creator": [
-            "bloomberg / nayla razzouk y grant smith"
+            "dalila escobar"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "business",
+            "lifestyle",
+            "education",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 16:25:32",
+        "pubDate": "2026-03-10 17:48:02",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 16:32:42",
-        "image_url": "https://www.elfinanciero.com.mx/resizer/v2/UYIQUZTTOVGM7MV5JJFCICD3GE.png?auth=0b057cb56c3f30f8c68fae2d5db6ae9b7a0d0629671ada6660729c561a97efcd&height=225&quality=85&smart=true&width=400",
+        "fetched_at": "2026-03-10 21:07:31",
+        "image_url": "https://www.proceso.com.mx/u/fotografias/m/2026/3/10/f685x385-243521_281214_1931.jpg",
         "video_url": null,
-        "source_id": "elfinanciero",
-        "source_name": "El Financiero",
-        "source_priority": 6218,
-        "source_url": "https://www.elfinanciero.com.mx",
-        "source_icon": "https://n.bytvi.com/elfinanciero.jpg",
+        "source_id": "proceso",
+        "source_name": "Proceso",
+        "source_priority": 47805,
+        "source_url": "https://www.proceso.com.mx",
+        "source_icon": "https://n.bytvi.com/proceso.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "e6399116470c8168eeae37a410db696b",
+        "link": "https://intoleranciadiario.com/articles/inseguridad/2026/03/10/1050014-juan-pablo-kuri-sale-de-prision-y-continuara-su-proceso-penal-en-libertad.html",
+        "title": "Juan Pablo Kuri sale de prisión y continuarásu proceso penal en libertad",
+        "description": "La resolución se dio durante una audienciajudicial en la que se informó que la denunciante, su expareja, otorgó el perdónlegal.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "juan pablo kuri, cereso cholula"
+        ],
+        "creator": [
+            "intolerancia diario"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 17:47:59",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 17:47:59",
+        "image_url": "https://assets.intoleranciadiario.com/media/images/kuri-intolerancia-1773162751838.png",
+        "video_url": null,
+        "source_id": "intoleranciadiario",
+        "source_name": "Intolerancia Diario",
+        "source_priority": 800128,
+        "source_url": "https://intoleranciadiario.com",
+        "source_icon": "https://n.bytvi.com/intoleranciadiario.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "48045e7ce9b0022acc5932323f168689",
+        "link": "https://intoleranciadiario.com/articles/inseguridad/2026/03/10/1050023-asaltan-el-banco-del-bienestar-de-san-bernardino-tlaxcalancingo.html",
+        "title": "Asaltan el Banco del Bienestar de San Bernardino Tlaxcalancingo",
+        "description": "De manera extraoficial ha trascendido que el robo asciende a aproximadamente, un millón de pesos afectando a beneficiarios de dicho banco.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "banco del bienestar, san bernardino tlaxcalancingo, robo"
+        ],
+        "creator": [
+            "intolerancia diario"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 17:47:59",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 17:47:59",
+        "image_url": "https://assets.intoleranciadiario.com/media/images/sellos-de-agua-intolerancia-27-1773163768788.jpg",
+        "video_url": null,
+        "source_id": "intoleranciadiario",
+        "source_name": "Intolerancia Diario",
+        "source_priority": 800128,
+        "source_url": "https://intoleranciadiario.com",
+        "source_icon": "https://n.bytvi.com/intoleranciadiario.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
