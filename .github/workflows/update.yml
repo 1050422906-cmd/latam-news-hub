@@ -2,21 +2,22 @@ name: Daily News Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天北京时间早上 8:00 自动运行
-  workflow_dispatch:      # 允许你手动点击按钮测试
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # 授予 GitHub 往你仓库写文件的权限
+    # --- 新增下面这两行，强制开启写入权限 ---
     permissions:
       contents: write
+    # --------------------------------------
     steps:
       - name: 检查代码
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # 升级到 v4 更稳定
 
       - name: 安装 Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # 升级到 v5
         with:
           python-version: '3.9'
 
@@ -29,12 +30,9 @@ jobs:
         run: python fetch_news.py
 
       - name: 将更新后的数据存回仓库
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 使用系统默认生成的 Token
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add latest_news.json
-          # 如果文件没有变化，commit 会报错，加个判断让它优雅退出
-          git commit -m "自动更新拉美新闻: $(date)" || echo "No changes to commit"
-          git push origin main
+          # 检查是否有内容变化，没有就不提交，避免报错
+          git diff --quiet && git diff --staged --quiet || (git commit -m "自动更新拉美新闻: $(date)" && git push origin main)
