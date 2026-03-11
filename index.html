@@ -3,92 +3,124 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>拉美每日头条</title>
+    <title>拉美双语每日头条 - 研究生简报版</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f6; margin: 0; padding: 20px; }
-        .container { max-width: 1000px; margin: 0 auto; }
-        header { text-align: center; margin-bottom: 40px; }
-        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
-        .card { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1); transition: transform 0.2s; height: 100%; }
-        .card:hover { transform: translateY(-5px); }
-        .card img { width: 100%; height: 200px; object-fit: cover; background-color: #ddd; }
-        .card-content { padding: 15px; }
-        .card-title { font-size: 1.1em; font-weight: bold; margin-bottom: 10px; color: #333; }
-        .card-desc { font-size: 0.9em; color: #666; line-height: 1.4; margin-bottom: 10px; }
-        .card-meta { margin-top: auto; font-size: 0.8em; color: #999; display: flex; justify-content: space-between; align-items: center; }
-        a { text-decoration: none; color: inherit; }
-        .tag { background: #e0f2f1; color: #00796b; padding: 2px 8px; border-radius: 4px; font-weight: bold; }
+        :root {
+            --primary: #004d40; /* 拉美森林绿 */
+            --accent: #ff5722; /* 活力橙 */
+            --bg: #f4f7f6;
+            --text: #2c3e50;
+        }
+        body { font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; line-height: 1.6; }
+        .container { max-width: 850px; margin: 0 auto; }
+        
+        /* 页头设计 */
+        header { 
+            background: linear-gradient(135deg, var(--primary) 0%, #00796b 100%); 
+            color: white; padding: 40px 20px; border-radius: 16px; text-align: center;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1); margin-bottom: 30px;
+        }
+        header h1 { margin: 0; font-size: 2em; letter-spacing: 1px; }
+        header p { margin: 10px 0 0; opacity: 0.8; font-weight: 300; }
+
+        /* 卡片设计 */
+        .card { 
+            background: white; border-radius: 15px; margin-bottom: 25px; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05); overflow: hidden;
+            transition: transform 0.2s; border: 1px solid #eee;
+        }
+        .card:hover { transform: translateY(-3px); }
+        .card-img { width: 100%; height: 240px; object-fit: cover; background: #ddd; }
+        
+        .card-body { padding: 20px; }
+        
+        /* 标签样式 */
+        .tag-row { display: flex; gap: 10px; margin-bottom: 12px; align-items: center; }
+        .badge { padding: 4px 12px; border-radius: 6px; font-size: 0.8em; font-weight: bold; }
+        .badge-country { background: var(--primary); color: white; }
+        .badge-lang { background: #e0f2f1; color: var(--primary); border: 1px solid var(--primary); }
+        
+        /* 标题与摘要 */
+        .title-zh { font-size: 1.35em; font-weight: bold; color: #111; margin-bottom: 8px; line-height: 1.4; }
+        .title-orig { 
+            font-size: 0.95em; color: #666; font-style: italic; margin-bottom: 15px; 
+            padding-left: 10px; border-left: 3px solid #ccc; 
+        }
+        .desc-zh { font-size: 1em; color: #444; background: #f9f9f9; padding: 15px; border-radius: 8px; border: 1px dashed #ddd; }
+        
+        /* 页脚 */
+        .card-footer { 
+            display: flex; justify-content: space-between; margin-top: 20px;
+            padding-top: 15px; border-top: 1px solid #eee; font-size: 0.85em; color: #999;
+        }
+        .btn { color: var(--accent); font-weight: bold; text-decoration: none; }
+        .btn:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>🌎 拉美每日头条</h1>
-            <p>自动聚合阿根廷、墨西哥、智利等国最新资讯</p>
-        </header>
-        
-        <div id="news-container" class="news-grid">
-            <p>正在努力加载拉美新闻...</p>
-        </div>
-    </div>
 
-    <script>
-        async function loadNews() {
-            const container = document.getElementById('news-container');
-            
-            try {
-                // 1. 获取数据
-                const response = await fetch('latest_news.json?t=' + new Date().getTime());
-                if (!response.ok) throw new Error('找不到新闻数据文件 (latest_news.json)');
-                
-                const newsData = await response.json();
-                
-                // 2. 清空加载提示
-                container.innerHTML = ''; 
+<div class="container">
+    <header>
+        <h1>🌎 拉美双语每日头条</h1>
+        <p>自动抓取 · 智能翻译 · 专业科研信源</p>
+    </header>
 
-                if (!newsData || newsData.length === 0) {
-                    container.innerHTML = '<p>暂无新闻数据。</p>';
-                    return;
-                }
+    <div id="news-list">加载最新数据中...</div>
+</div>
 
-                // 3. 循环生成卡片
-                newsData.forEach(item => {
-                    const card = document.createElement('div');
-                    card.className = 'card';
-                    
-                    // 安全处理：国家标签
-                    const countryLabel = (item.country && typeof item.country === 'string') 
-                                        ? item.country.toUpperCase() 
-                                        : 'LATAM';
-                    
-                    // 安全处理：图片
-                    const imageUrl = item.image_url || 'https://via.placeholder.com/400x200?text=No+Image';
-                    
-                    card.innerHTML = `
-                        <a href="${item.link}" target="_blank">
-                            <img src="${imageUrl}" onerror="this.src='https://via.placeholder.com/400x200?text=LatAm+News'">
-                            <div class="card-content">
-                                <div class="card-title">${item.title || '无标题'}</div>
-                                <div class="card-desc">${item.description || '点击查看完整报道内容...'}</div>
-                                <div class="card-meta">
-                                    <span class="tag">${countryLabel}</span>
-                                    <span>${item.pubDate ? new Date(item.pubDate).toLocaleDateString() : ''}</span>
-                                </div>
-                            </div>
-                        </a>
-                    `;
-                    container.appendChild(card);
-                });
-            } catch (error) {
-                console.error('加载失败:', error);
-                if (container) {
-                    container.innerHTML = `<p style="color:red;">加载失败: ${error.message}</p>`;
-                }
-            }
+<script>
+    // 语种与国家映射表
+    const countryConfig = {
+        "mexico": { name: "墨西哥 🇲🇽", lang: "西班牙语 (ES)" },
+        "mx": { name: "墨西哥 🇲🇽", lang: "西班牙语 (ES)" },
+        "argentina": { name: "阿根廷 🇦🇷", lang: "西班牙语 (ES)" },
+        "ar": { name: "阿根廷 🇦🇷", lang: "西班牙语 (ES)" },
+        "brazil": { name: "巴西 🇧🇷", lang: "葡萄牙语 (PT)" },
+        "br": { name: "巴西 🇧🇷", lang: "葡萄牙语 (PT)" },
+        "chile": { name: "智利 🇨🇱", lang: "西班牙语 (ES)" },
+        "cl": { name: "智利 🇨🇱", lang: "西班牙语 (ES)" },
+        "colombia": { name: "哥伦比亚 🇨🇴", lang: "西班牙语 (ES)" },
+        "co": { name: "哥伦比亚 🇨🇴", lang: "西班牙语 (ES)" }
+    };
+
+    async function fetchNews() {
+        try {
+            const res = await fetch('latest_news.json?v=' + Date.now());
+            const data = await res.json();
+            const list = document.getElementById('news-list');
+            list.innerHTML = '';
+
+            data.forEach(item => {
+                // 获取国家代码并匹配配置
+                const cCode = (Array.isArray(item.country) ? item.country[0] : item.country).toLowerCase();
+                const config = countryConfig[cCode] || { name: cCode.toUpperCase(), lang: "未知语种" };
+
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    ${item.image_url ? `<img src="${item.image_url}" class="card-img" onerror="this.style.display='none'">` : ''}
+                    <div class="card-body">
+                        <div class="tag-row">
+                            <span class="badge badge-country">${config.name}</span>
+                            <span class="badge badge-lang">${config.lang}</span>
+                        </div>
+                        <div class="title-zh">${item.title_zh || '中文翻译处理中...'}</div>
+                        <div class="title-orig">${item.title}</div>
+                        <div class="desc-zh">${item.description_zh || '点击查看原文详细内容'}</div>
+                        <div class="card-footer">
+                            <span>来源: ${item.source_name || '媒体库'} | ${new Date(item.pubDate).toLocaleDateString()}</span>
+                            <a href="${item.link}" target="_blank" class="btn">阅读原文 →</a>
+                        </div>
+                    </div>
+                `;
+                list.appendChild(card);
+            });
+        } catch (e) {
+            document.getElementById('news-list').innerHTML = "数据加载失败，请检查 latest_news.json 是否生成。";
         }
+    }
+    window.onload = fetchNews;
+</script>
 
-        // 页面加载完成后运行
-        window.onload = loadNews;
-    </script>
 </body>
 </html>
