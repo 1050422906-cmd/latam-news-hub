@@ -20,15 +20,14 @@ jobs:
           python-version: '3.9'
 
       - name: 安装必要的库
-        # 这里增加了 deep-translator
-        run: pip install requests deep-translator
+        run: pip install requests
 
       - name: 执行抓取并翻译脚本
         env:
           NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
         run: python fetch_news.py
 
-      - name: 将更新后的双语数据存回仓库
+      - name: 将更新后的数据存回仓库
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
