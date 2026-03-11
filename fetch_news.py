@@ -4,66 +4,54 @@ import os
 import time
 from deep_translator import MyMemoryTranslator
 
-# 1. 基础配置
 API_KEY = os.getenv('NEWSDATA_API_KEY')
-# 严格遵守 5 个国家限制：阿根廷, 巴西, 智利, 哥伦比亚, 墨西哥
-COUNTRIES = "ar,br,cl,co,mx" 
+COUNTRIES = "ar,br,cl,co,mx"
 
-def translate_text(text):
-    """翻译核心函数，带容错机制"""
-    if not text or len(str(text).strip()) < 5:
+def translate_safe(text, lang='es'):
+    """针对不同国家强制指定源语言"""
+    if not text or len(str(text)) < 5:
         return ""
+    # 巴西用 pt (葡萄牙语)，其他用 es (西班牙语)
+    source_lang = 'pt' if lang == 'br' else 'es'
     try:
-        # MyMemory 自动识别西语/葡语并转为中文
-        return MyMemoryTranslator(source='auto', target='zh-CN').translate(text)
+        return MyMemoryTranslator(source=source_lang, target='zh-CN').translate(text)
     except Exception as e:
-        print(f"翻译接口暂不可用: {e}")
+        print(f"翻译跳过: {e}")
         return ""
 
 def fetch_latam_news():
     if not API_KEY:
-        print("错误：未检测到 API Key，请检查 GitHub Secrets 设置")
+        print("错误: 未找到 API_KEY")
         return
 
-    # 2. 抓取原文
     url = f"https://newsdata.io/api/1/news?apikey={API_KEY}&country={COUNTRIES}&language=es,pt"
     
     try:
-        print(f"正在抓取 {COUNTRIES} 的最新新闻...")
-        response = requests.get(url, timeout=20)
-        data = response.json()
+        print(f"正在抓取原文...")
+        res = requests.get(url, timeout=30)
+        data = res.json()
         
         if data.get('status') == "success":
-            results = data.get('results', [])
-            print(f"抓取成功，共 {len(results)} 条，开始进行中文翻译...")
+            raw_news = data.get('results', [])
+            print(f"抓取成功，开始强制语种翻译...")
             
-            for item in results:
-                # 获取原文内容
-                orig_title = item.get('title', '')
-                orig_desc = item.get('description', '')
-
-                # --- 核心翻译逻辑 (已修正变量名) ---
-                item['title_zh'] = translate_text(orig_title)
+            for item in raw_news:
+                # 获取该条新闻所属国家
+                c_code = item.get('country', ['mx'])[0] 
                 
-                if orig_desc:
-                    # 截取前250字防止翻译超时
-                    item['description_zh'] = translate_text(orig_desc[:250])
-                else:
-                    item['description_zh'] = "点击原文链接查看详细报道"
+                # 执行翻译
+                item['title_zh'] = translate_safe(item.get('title', ''), c_code)
+                item['description_zh'] = translate_safe(item.get('description', '')[:300], c_code)
                 
-                print(f"✅ 成功翻译：{item['title_zh'][:15]}...")
-                time.sleep(0.5) # 避开频率限制
-
-            # 3. 写入文件
+                # 打印日志以便我们确认
+                print(f"✅ [{c_code}] 翻译结果: {item['title_zh'][:15]}")
+                time.sleep(1) 
+            
             with open('latest_news.json', 'w', encoding='utf-8') as f:
-                json.dump(results, f, ensure_ascii=False, indent=4)
-            print("数据处理完毕，latest_news.json 已存回仓库。")
-            
-        else:
-            print(f"API 报错：{data}")
-            
+                json.dump(raw_news, f, ensure_ascii=False, indent=4)
+            print("数据处理完毕。")
     except Exception as e:
-        print(f"发生致命错误：{e}")
+        print(f"错误: {e}")
 
 if __name__ == "__main__":
     fetch_latam_news()
