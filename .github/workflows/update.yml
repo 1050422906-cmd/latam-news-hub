@@ -2,37 +2,35 @@ name: Daily News Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch: 
+    - cron: '0 0 * * *' # 每天北京时间早上 8:00 自动运行
+  workflow_dispatch:      # 允许手动运行测试
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # --- 新增下面这两行，强制开启写入权限 ---
     permissions:
       contents: write
-    # --------------------------------------
     steps:
       - name: 检查代码
-        uses: actions/checkout@v4 # 升级到 v4 更稳定
+        uses: actions/checkout@v4
 
       - name: 安装 Python
-        uses: actions/setup-python@v5 # 升级到 v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
-      - name: 安装必要的工具
-        run: pip install requests
+      - name: 安装必要的库
+        # 这里增加了 deep-translator
+        run: pip install requests deep-translator
 
-      - name: 执行抓取脚本
+      - name: 执行抓取并翻译脚本
         env:
           NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
         run: python fetch_news.py
 
-      - name: 将更新后的数据存回仓库
+      - name: 将更新后的双语数据存回仓库
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add latest_news.json
-          # 检查是否有内容变化，没有就不提交，避免报错
-          git diff --quiet && git diff --staged --quiet || (git commit -m "自动更新拉美新闻: $(date)" && git push origin main)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "自动更新拉美双语新闻: $(date)" && git push origin main)
