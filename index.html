@@ -55,3 +55,21 @@
                                 <div class="card-title">${item.title}</div>
                                 <div class="card-desc">${item.description || '点击查看详情...'}</div>
                                 <div class="card-meta">
+                                    <span class="tag">${item.country.toUpperCase()}</span>
+                                    <span>${new Date(item.pubDate).toLocaleDateString()}</span>
+                                </div>
+                            </div>
+                        </a>
+                    `;
+                    container.appendChild(card);
+                });
+            } catch (error) {
+                console.error('加载失败:', error);
+                document.getElementById('news-container').innerHTML = '<p>新闻加载失败，请稍后再试。</p>';
+            }
+        }
+
+        loadNews();
+    </script>
+</body>
+</html>
