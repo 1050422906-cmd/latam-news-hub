@@ -1,0 +1,37 @@
+name: Daily News Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天北京时间早上 8:00 自动运行
+  workflow_dispatch:      # 允许你手动点击按钮测试
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # 授予 GitHub 往你仓库写文件的权限
+    permissions:
+      contents: write
+    steps:
+      - name: 检查代码
+        uses: actions/checkout@v3
+
+      - name: 安装 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: 安装必要的工具
+        run: pip install requests
+
+      - name: 执行抓取脚本
+        env:
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+        run: python fetch_news.py
+
+      - name: 将更新后的数据存回仓库
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add latest_news.json
+          git commit -m "自动更新拉美新闻: $(date)" || exit 0
+          git push
