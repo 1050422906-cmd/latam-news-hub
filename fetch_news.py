@@ -2,88 +2,88 @@ import requests
 import json
 import os
 import time
+from datetime import datetime
 
-# 配置
+# 核心配置
 API_KEY = os.getenv('NEWSDATA_API_KEY')
-GEMINI_KEY = os.getenv('GEMINI_API_KEY')
-COUNTRIES = "ar,br,cl,co,mx"
 
-def ai_translate(text, country_code):
-    """使用 Gemini Pro 进行深度语义翻译"""
-    if not text or len(str(text)) < 10:
-        return text
-    
-    # 根据国家代码提示 AI 语种，确保精准度
-    lang_context = "葡萄牙语" if country_code == 'br' else "西班牙语"
-    
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_KEY}"
-    
-    prompt = f"""你是一位精通拉美区域研究的资深翻译。请将以下{lang_context}新闻内容翻译成地道、专业的中文。
-    要求：
-    1. 术语准确（如政治派系、政府机构名）。
-    2. 语气中立，符合学术规范。
-    3. 仅返回翻译后的文本，不要有任何解释。
-    
-    内容如下：
-    {text}"""
-
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.4} # 降低随机性，确保严谨
-    }
-
+def google_translate(text):
+    """极速版 Google 翻译镜像接口"""
+    if not text or len(str(text)) < 5:
+        return ""
     try:
-        response = requests.post(url, json=payload, timeout=15)
-        result = response.json()
-        translated = result['candidates'][0]['content']['parts'][0]['text'].strip()
+        url = "https://translate.googleapis.com/translate_a/single"
+        params = {
+            "client": "gtx",
+            "sl": "auto",  # 自动识别原文 (西语/葡语)
+            "tl": "zh-CN", # 目标语种：中文
+            "dt": "t",
+            "q": text
+        }
+        # 移除了长等待，设置 5 秒超时
+        response = requests.get(url, params=params, timeout=5)
+        data = response.json()
+        translated = "".join([sentence[0] for sentence in data[0]])
         return translated
     except Exception as e:
-        print(f"AI 翻译异常: {e}")
-        return "" # 失败则留空，网页会显示原文
+        print(f"翻译跳过: {e}")
+        return ""
 
 def get_news_batch(countries):
+    """分批抓取函数"""
+    if not API_KEY: return []
     url = f"https://newsdata.io/api/1/news?apikey={API_KEY}&country={countries}&language=es,pt"
     try:
         res = requests.get(url, timeout=20)
-        return res.json().get('results', []) if res.json().get('status') == "success" else []
-    except: return []
+        data = res.json()
+        if data.get('status') == "success":
+            return data.get('results', [])
+    except Exception as e:
+        print(f"抓取 {countries} 失败: {e}")
+    return []
 
 def fetch_latam_news():
-    print("🚀 启动 AI 赋能的拉美新闻抓取系统...")
+    print("🚀 启动极速抓取与翻译系统...")
     
+    # 分两组抓取，解决免费版 10 条限制问题
     batch1 = get_news_batch("ar,br")
-    time.sleep(1)
+    time.sleep(0.5) # 极短停顿
     batch2 = get_news_batch("cl,co,mx")
+    
     all_news = batch1 + batch2
     
-    if not all_news: return
+    if not all_news:
+        print("未获取到任何数据。")
+        return
+
+    print(f"成功获取 {len(all_news)} 条原始新闻，开始极速翻译...")
 
     for item in all_news:
-        c_code = (item.get('country') or ['mx'])[0].lower()
+        # 极速处理翻译
+        item['title_zh'] = google_translate(item.get('title', ''))
         
-        # 翻译标题
-        item['title_zh'] = ai_translate(item.get('title', ''), c_code)
-        
-        # 翻译摘要
         desc = item.get('description', '')
         if desc:
-            item['description_zh'] = ai_translate(desc[:400], c_code)
+            item['description_zh'] = google_translate(desc[:300])
+        else:
+            item['description_zh'] = "点击链接查看全文"
         
-        print(f"✅ [{c_code}] AI 翻译完成: {item.get('title_zh', '')[:12]}...")
-        time.sleep(2) # Gemini 免费层级有频率限制，每分钟建议不超过 15 次请求
+        c_code = (item.get('country') or ['未知'])[0].upper()
+        print(f"✅ [{c_code}] 处理完成")
 
-    # 保存
+    # 1. 保存为最新文件
     with open('latest_news.json', 'w', encoding='utf-8') as f:
         json.dump(all_news, f, ensure_ascii=False, indent=4)
+
+    # 2. 存档历史记录
+    if not os.path.exists('history'):
+        os.makedirs('history')
     
-    # 存档
-    if not os.path.exists('history'): os.makedirs('history')
-    from datetime import datetime
     date_str = datetime.now().strftime('%Y-%m-%d')
     with open(f'history/{date_str}.json', 'w', encoding='utf-8') as f:
         json.dump(all_news, f, ensure_ascii=False, indent=4)
-    
-    print("📊 数据归档与 AI 翻译全部完成。")
+        
+    print(f"✅ 任务圆满完成！已更新 latest_news.json 并存档至 history/{date_str}.json")
 
 if __name__ == "__main__":
     fetch_latam_news()
