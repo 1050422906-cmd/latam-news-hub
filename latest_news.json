@@ -1,269 +1,34 @@
 [
     {
-        "article_id": "0d6370ad8f83bcb560e3a1b1260ed10c",
-        "link": "https://www.laopinionline.ar/Crisis-y-caida-de-las-ventas-en-la-industria-del-pan",
-        "title": "Provincia: Advierten una caída del 45% en las ventas en las panaderías y un récord de cierres para 2026",
-        "description": "Panaderos de la provincia de Buenos Aires en esta de alerta por la reducción en las ventas, incluso con incertidumbre para varios industriales del sector.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "región"
-        ],
-        "creator": [
-            "la opinión online"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 18:18:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 18:48:44",
-        "image_url": "https://media.laopinionline.ar/p/0614fcdbd4abd627134787cae34d6fd7/adjuntos/370/imagenes/100/075/0100075596/1200x675/smart/panaderos-la-provincia-buenos-aires-afrontan-un-periodo-critico.jpg",
-        "video_url": null,
-        "source_id": "laopinionpergamino",
-        "source_name": "Inicio Pergamino",
-        "source_priority": 1069162,
-        "source_url": "https://www.laopinionpergamino.com.ar",
-        "source_icon": "https://n.bytvi.com/laopinionpergamino.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "91435ef8b4cdf44fbca00eb501bb524b",
-        "link": "https://diariopanorama.com/noticia/545474/enfermeria-seleccion-argentina-preocupa-scaloni-semanas-finalissima",
-        "title": "La enfermería de la Selección Argentina que preocupa a Scaloni a semanas de la Finalissima",
-        "description": "Después de que Qatar decidiera el retorno del fútbol, hay expectativa de que el choque ante España se realice el 27 de marzo próximo en Doha. ¿Quiénes llegarían a ese encuentro?",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "seleccion",
-            "argentina",
-            "semanas",
-            "diario panorama",
-            "finalissima",
-            "preocupa",
-            "somos deporte",
-            "scaloni",
-            "enfermeria"
-        ],
-        "creator": [
-            "redacción diario panorama"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 18:18:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 21:35:41",
-        "image_url": "https://diariopanorama.com/fotos/cache/notas/2025/09/09/1010x567_scaloni-528377-233805.jpg",
-        "video_url": null,
-        "source_id": "diariopanorama",
-        "source_name": "Diario Panorama",
-        "source_priority": 31285,
-        "source_url": "https://diariopanorama.com",
-        "source_icon": "https://n.bytvi.com/diariopanorama.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "5c746cdb3a583b63c8db88abf5b77b36",
-        "link": "https://www.infobae.com/colombia/2026/03/10/esta-es-la-millonada-que-recibiran-paloma-valencia-juan-daniel-oviedo-claudia-lopez-y-otros-candidatos-y-ganadores-de-las-consultas-por-reposicion-de-votos/",
-        "title": "Esta es la millonada que recibirán Paloma Valencia, Juan Daniel Oviedo, Claudia López y otros candidatos y ganadores de las consultas por reposición de votos",
-        "description": "De acuerdo con la ley colombiana, por cada voto válido los aspirantes a la Casa de Nariño recibirán $8.287",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "elecciones presidenciales",
-            "colombia-noticias",
-            "consulta de las soluciones",
-            "paloma valencia",
-            "campaña",
-            "roy barreras",
-            "gran consulta por colombia",
-            "claudia lópez",
-            "candidatos presidenciales",
-            "cne",
-            "frente por la vida",
-            "reposición de votos",
-            "juan daniel oviedo"
-        ],
-        "creator": [
-            "luciano niño"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "colombia",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 18:17:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 18:31:18",
-        "image_url": "https://www.infobae.com/resizer/v2/2PYIQTFZTRAIJM4CC7GMF4PYQI.jpg?auth=ab37958f39268bf4b63a101a873f6f2eaed80d7b15fbb8dc8e5cd87abf9f5889&height=1080&smart=true&width=2000",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "87df6bd86d793d70365cc91c7c4043ca",
-        "link": "https://www.publimetro.com.mx/noticias/2026/03/10/el-pentagono-anuncia-que-hoy-sera-el-dia-mas-intenso-de-bombardeos-sobre-iran/",
-        "title": "El Pentágono anuncia que hoy será el día más intenso de bombardeos sobre Irán",
-        "description": "El gobierno liderado por Donald Trump anticipó que la ofensiva aérea contra Irán alcanzará su punto más fuerte este 10 de marzo",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "antonio ramirez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 18:17:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 18:38:08",
-        "image_url": "https://www.publimetro.com.mx/resizer/v2/FXB63A4NIBETJFNR23KMD76Q3Q.jpg?auth=a5df5038e74e2d165ffcd88642dae12adb5a3c1c566c60797532d20a37a4c7de&height=3094&smart=true&width=5502",
-        "video_url": null,
-        "source_id": "publimetro",
-        "source_name": "Publimetro",
-        "source_priority": 59149,
-        "source_url": "https://www.publimetro.com.mx",
-        "source_icon": "https://n.bytvi.com/publimetro.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "8eb925494b28fa15cd5818e6b655461c",
-        "link": "https://www.poder360.com.br/poder-pesquisas/524-desaprovam-e-434-aprovam-governo-lula-em-mg/",
-        "title": "52,4% desaprovam e 43,4% aprovam governo Lula em MG",
-        "description": "Pesquisa do Paraná Pesquisas mostra que 38,2% avaliam a gestão como “péssima” e 13% como “ótimo”",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "política brasileira",
-            "eleições",
-            "desaprovação do governo lula",
-            "governo lula",
-            "paraná pesquisas",
-            "minas gerais",
-            "aprovação do governo lula",
-            "eleições 2026",
-            "avaliação de governo",
-            "luiz inácio lula da silva"
-        ],
-        "creator": [
-            "poder360"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-10 18:17:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 18:33:00",
-        "image_url": "https://static.poder360.com.br/2025/03/OAB-BetoSimonetti-Lula-RobertoBarroso-Alcolumbre-HugoMotta-12-848x477.jpg",
-        "video_url": null,
-        "source_id": "poder360_br",
-        "source_name": "Poder360",
-        "source_priority": 6639,
-        "source_url": "https://www.poder360.com.br",
-        "source_icon": "https://n.bytvi.com/poder360_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "e84c1101018f498b641fe6d790a7d291",
-        "link": "https://oem.com.mx/elsoldecordoba/deportes/torneo-gladiadores-del-ring-apuesta-al-crecimiento-del-boxeo-amateur-en-cordoba-28890296",
-        "title": "¡Regresa el box amateur a Córdoba! Alistan torneo Gladiadores del Ring",
-        "description": "El torneo Gladiadores del Ring en Córdoba apuesta al crecimiento del boxeo amateur, con pugilistas locales que han ganado medallas nacionales y profesionales",
+        "article_id": "62cf45644a8dbf76b5a4463dab4cdf1b",
+        "link": "https://www.minutouno.com/deportes/sorpresa-bolivia-el-entrenador-no-convoco-marcelo-moreno-martins-el-repechaje-del-mundial-2026-n6254356",
+        "title": "Sorpresa en Bolivia: el entrenador no convocó a Marcelo Moreno Martins para el repechaje del Mundial 2026",
+        "description": "El histórico delantero había salido del retiro para ayudar a su selección en el repechaje rumbo al Mundial 2026, pero el DT Óscar Villegas decidió no citarlo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
             "deportes"
         ],
         "creator": [
-            "roberto téllez"
+            "minutouno"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "argentina"
         ],
         "category": [
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 18:17:46",
+        "pubDate": "2026-03-10 18:21:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 23:51:28",
-        "image_url": "https://oem.com.mx/elsoldecordoba/img/28890787/1773165918/BASE_LANDSCAPE/1200/image.jpg",
+        "fetched_at": "2026-03-10 18:36:59",
+        "image_url": "https://media.minutouno.com/p/d92f52722a3dc4c345603f64ab2254c8/adjuntos/150/imagenes/043/223/0043223403/1200x675/smart/moreno-martins.jpg",
         "video_url": null,
-        "source_id": "elsoldecordoba_mx",
-        "source_name": "El Sol De Córdoba",
-        "source_priority": 2901881,
-        "source_url": "https://www.elsoldecordoba.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldecordoba_mx.jpg",
+        "source_id": "minutouno",
+        "source_name": "Minutouno",
+        "source_priority": 33172,
+        "source_url": "https://www.minutouno.com",
+        "source_icon": "https://n.bytvi.com/minutouno.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -271,24 +36,180 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
+        "title_zh": "玻利维亚的惊喜：教练没有征召马塞洛·莫雷诺·马丁斯参加2026年世界杯季后赛",
+        "description_zh": "这位历史悠久的前锋已经复出，帮助他的球队打进 2026 年世界杯的季后赛，但主教练奥斯卡·维勒加斯决定不提及他。"
     },
     {
-        "article_id": "cf2829e58a941f490e7e6643cab0b3bb",
-        "link": "https://www.correiodopovo.com.br/not%C3%ADcias/rural/exportacoes-de-ovos-crescem-163-em-fevereiro-1.1696587",
-        "title": "Exportações de ovos crescem 16,3% em fevereiro",
-        "description": "Receita mensal avança 25,1%; Chile e Japão impulsionam embarques do mês",
+        "article_id": "2d4b9f5f6651ea1e5aa1586c5872360c",
+        "link": "https://tribunaonline.com.br/internacional/trump-afirma-que-eua-destruiram-de-10-navios-com-minas-maritimas-nas-ultimas-horas-295029",
+        "title": "Trump afirma que EUA destruíram de 10 navios com minas marítimas nas \"últimas horas\"",
+        "description": "O presidente dos Estados Unidos, Donald Trump, disse nesta terça-feira, 10, que as forças militares americanas destruíram 10 embarcações que seriam usadas para implantar minas marítimas, sem informar onde os ataques aconteceram.\"Tenho o prazer de informar que, nas últimas horas, atingimos e destruímos completamente 10 embarcações ou navios inativos usados para a colocação de minas, e mais virão!\", disse Trump em publicação na Truth Social.As declarações ocorrem após o mandatário ameaçar o Irã com consequências militares \"de um nível nunca visto antes\", caso o país persa se recuse a retirar \"imediatamente\" os minas explosivas no Estreito de Ormuz, algo ainda não confirmado nem por Teerã nem por Washington.Trump também editou uma publicação anterior em seu perfil na Truth Social, acrescentando que as forças militares dos EUA estão usando na região do Estreito de Ormuz a mesma tecnologia de mísseis empregados contra embarcações no mar do Caribe, antes da captura do ex-presidente venezuelano Nicolás Maduro.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "exportação",
-            "rural",
-            "avicultura",
-            "ovos",
-            "agronegócio"
+            "internacional"
         ],
         "creator": [
-            "correio do povo"
+            "darlan de azevedo"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 18:21:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 21:47:59",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "tribunaonline_br",
+        "source_name": "Tribuna Online",
+        "source_priority": 1025555,
+        "source_url": "https://tribunaonline.com.br",
+        "source_icon": "https://n.bytvi.com/tribunaonline_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "特朗普称美国在“过去几个小时”内用水雷摧毁了10艘船只",
+        "description_zh": "美国总统唐纳德·特朗普本周二（10 日）表示，美国军队摧毁了 10 艘用于部署水雷的船只，但没有透露袭击发生的地点。 “我很高兴地通知您，在过去的几个小时内，我们已经到达并"
+    },
+    {
+        "article_id": "6fd62ae181809315ffd75291236fc974",
+        "link": "https://www.informador.mx/mexico/inapam-y-flexi-anuncian-descuento-especial-para-adultos-mayores-durante-marzo-20260310-0083.html",
+        "title": "INAPAM y Flexi anuncian descuento especial para adultos mayores durante marzo",
+        "description": "Los adultos mayores que cuenten con su credencial del INAPAM podrán acceder a diversos descuentos en las tiendas Flexi",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "méxico"
+        ],
+        "creator": [
+            "ximena citlallipacheco álvarez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 18:21:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 18:35:37",
+        "image_url": "https://www.informador.mx/__export/1773166684904/sites/elinformador/img/2026/03/10/inapam_-10-_1_version1773165135130.jpg_1389647151.jpg",
+        "video_url": null,
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://n.bytvi.com/informador_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "INAPAM 和 Flexi 宣布三月份为老年人提供特别折扣",
+        "description_zh": "拥有 INAPAM 证书的老年人将能够在 Flexi 商店享受各种折扣"
+    },
+    {
+        "article_id": "8565169a9513cb9da808cdf5b5fc562e",
+        "link": "https://www.minutouno.com/politica/causa-cuadernos-cristina-kirchner-sera-indagada-manera-presencial-n6254365",
+        "title": "Causa Cuadernos: Cristina Kirchner será indagada de manera presencial",
+        "description": "El Tribunal Oral Federal 7 desestimó los pedidos de nulidad presentados por la defensa de la exmandataria, que deberá presentarse el martes 17 de marzo en Comodoro Py junto a otros 85 imputados.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "política"
+        ],
+        "creator": [
+            "minutouno"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 18:21:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 18:36:59",
+        "image_url": "https://media.minutouno.com/p/1b24fa59cd0cb50a6e6cbb433a2661ef/adjuntos/150/imagenes/042/867/0042867585/1200x675/smart/cristina-kirchner-balcon-lealtad2.jpeg",
+        "video_url": null,
+        "source_id": "minutouno",
+        "source_name": "Minutouno",
+        "source_priority": 33172,
+        "source_url": "https://www.minutouno.com",
+        "source_icon": "https://n.bytvi.com/minutouno.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Cuadernos原因：克里斯蒂娜·基什内尔将接受亲自调查",
+        "description_zh": "联邦口头法院 7 驳回了前总统辩护方提出的撤销请求，前总统必须与其他 85 名被告一起于 3 月 17 日星期二在 Comodoro Py 出庭。"
+    },
+    {
+        "article_id": "00562beeafd0b1f71963bd941214f7d6",
+        "link": "https://tribunadepetropolis.com.br/noticias/operacao-da-pf-encerra-rede-de-trafico-de-mulheres-para-exploracao-sexual-e-apreende-r-47-mi/",
+        "title": "Operação da PF encerra rede de tráfico de mulheres para exploração sexual e apreende R$ 4,7 mi",
+        "description": "*Alerta: o texto abaixo aborda temas sensíveis como violência contra a mulher, violência doméstica e estupro. Se você se identifica ou conhece alguém que está passando por esse tipo de problema, ligue 180 e denuncie. A Polícia Federal deflagrou, nesta terça-feira, 10, uma operação para desarticular uma organização criminosa suspeita de aliciar e enviar mulheres [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "josé maria tomazela* / estadão"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 18:21:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 18:45:22",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "video_url": null,
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "PF 行动关闭了以性剥削为目的的妇女贩运网络并缴获 470 万雷亚尔",
+        "description_zh": "*警告：以下文字涉及暴力侵害妇女、家庭暴力和强奸等敏感话题。如果您表明自己身份或认识遇到此类问题的人，请拨打 180 报告。本周二，即 10 日，联邦警察发起了一项行动，"
+    },
+    {
+        "article_id": "85238752c0438f8d431a72d19ef0ac91",
+        "link": "https://www.dgabc.com.br/Noticia/4289485/operacao-da-pf-encerra-rede-de-trafico-de-mulheres-para-exploracao-sexual-e-apreende-rs-4-7-mi",
+        "title": "Operação da PF encerra rede de tráfico de mulheres para exploração sexual e apreende R$ 4,7 mi",
+        "description": "Operação da PF encerra rede de tráfico de mulheres para exploração sexual e apreende R$ 4,7 mi - Notícias e informações do Grande ABC: operação new girl,tráfico,mulheres,europa",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nacional"
+        ],
+        "creator": [
+            "agência estado"
         ],
         "language": "portuguese",
         "country": [
@@ -299,61 +220,56 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 18:17:45",
+        "pubDate": "2026-03-10 18:21:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 21:40:32",
-        "image_url": "https://www.correiodopovo.com.br/image/contentid/policy:1.1610162:1773166663/52226066427_5856112e13_k.jpg?%24p%24a%24q%24w=dbcb7ae&a=191%3A100&q=0.6&w=1200",
+        "fetched_at": "2026-03-10 18:50:50",
+        "image_url": "https://www.dgabc.com.br/img/ImagemPadrao.webp",
         "video_url": null,
-        "source_id": "correiodopovo",
-        "source_name": "Correio Do Povo",
-        "source_priority": 139621,
-        "source_url": "https://www.correiodopovo.com.br",
-        "source_icon": "https://n.bytvi.com/correiodopovo.png",
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://n.bytvi.com/dgabc.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
+        "duplicate": true,
+        "title_zh": "PF 行动关闭了以性剥削为目的的妇女贩运网络并缴获 470 万雷亚尔",
+        "description_zh": "PF 行动关闭了以性剥削为目的的妇女贩运网络，并缴获了 470 万雷亚尔 - 来自 Greater ABC 的新闻和信息：新的女孩行动、贩运、妇女、欧洲"
     },
     {
-        "article_id": "4d89cd64ca5da7bc14c2edc11936a93f",
-        "link": "https://www.infobae.com/america/agencias/2026/03/10/video-ribera-replica-a-von-der-leyen-por-llamar-a-recuperar-la-nuclear-no-puede-intervenir-en-politica-nacional/",
-        "title": "VÍDEO: Ribera replica a Von der Leyen por llamar a recuperar la nuclear: \"No puede intervenir en política nacional\"",
-        "description": "VÍDEO: Ribera replica a Von der Leyen por llamar a recuperar la nuclear: \"No puede intervenir en política nacional\"",
+        "article_id": "67e653bffcbb94650fbd3be05c7edc74",
+        "link": "https://www.minutouno.com/sociedad/subio-casi-un-40-la-cantidad-locales-comerciales-vacios-la-ciudad-buenos-aires-n6254361",
+        "title": "Subió casi un 40% la cantidad de locales comerciales vacíos en la Ciudad de Buenos Aires",
+        "description": "La Cámara Argentina de Comercio y Servicios publicó su relevamiento más reciente del sector, y la diferencia es notable con respecto a un año atrás.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "europapress"
+            "sociedad"
         ],
         "creator": [
-            "newsroom infobae"
+            "minutouno"
         ],
         "language": "spanish",
         "country": [
-            "united states of america",
-            "colombia",
-            "mexico",
             "argentina"
         ],
         "category": [
-            "lifestyle",
-            "entertainment",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 18:17:45",
+        "pubDate": "2026-03-10 18:21:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 18:30:57",
-        "image_url": "https://www.infobae.com/resizer/v2/IG4N4VV6I5FQLF5ZL6YMCBYLJE.jpg?auth=e9b4985c9e8e337463008a15dc66ee9d2695b8ca02670f8a06634d4ad5ca9c2f&height=1280&smart=true&width=1920",
+        "fetched_at": "2026-03-10 18:36:57",
+        "image_url": "https://media.minutouno.com/p/d8cb0423a6800411a524693422077976/adjuntos/150/imagenes/043/223/0043223198/1200x675/928x549:948x569/locales-vacios-caba.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "minutouno",
+        "source_name": "Minutouno",
+        "source_priority": 33172,
+        "source_url": "https://www.minutouno.com",
+        "source_icon": "https://n.bytvi.com/minutouno.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -361,22 +277,59 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
+        "title_zh": "布宜诺斯艾利斯市空置商业楼宇数量增加近 40%",
+        "description_zh": "阿根廷商业和服务商会发布了对该行业的最新调查，与一年前相比差异显着。"
     },
     {
-        "article_id": "2218399cf4f07251a117e023d295fdcb",
-        "link": "https://novedadesdetabasco.com.mx/2026/03/10/reconoce-gobierno-del-pueblo-participacion-de-mujeres-en-transformacion-del-estado/",
-        "title": "Reconoce Gobierno del Pueblo participación de mujeres en transformación del estado",
-        "description": "Novedades de Tabasco - El diario mas Fuerte de TabascoEn el marco del Día Internacional de la Mujer, que se conmemoró el pasado 8 de marzo en nuestro país, el Gobernador Javier May Rodríguez hizo un nuevo reconocimiento público a las tabasqueñas, “porque no puede haber transformación verdadera sin el desarrollo pleno de las mujeres”. En ese sentido, subrayó que el Gobierno del Pueblo ...La entrada Reconoce Gobierno del Pueblo participación de mujeres en transformación del estado se publicó primero en Novedades de Tabasco.",
+        "article_id": "d6455c983d4fe061210c38dad686cc92",
+        "link": "https://istoe.com.br/operacao-da-pf-encerra-rede-de-trafico-de-mulheres-para-exploracao-sexual-e-apreende-r-47-mi",
+        "title": "Operação da PF encerra rede de tráfico de mulheres para exploração sexual e apreende R$ 4,7 mi",
+        "description": "*Alerta: o texto abaixo aborda temas sensíveis como violência contra a mulher, violência doméstica e estupro. Se você se identifica ou conhece alguém que está passando por esse tipo de problema, ligue 180 e denuncie. A Polícia Federal deflagrou, nesta terça-feira, 10, uma operação para desarticular uma organização criminosa suspeita de aliciar e enviar mulheres [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "local",
-            "tabasco",
-            "banner 1"
+            "notícias"
         ],
         "creator": [
-            "novedades"
+            "istoé news"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-10 18:21:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-10 18:42:28",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "istoe",
+        "source_name": "Istoé Independente",
+        "source_priority": 239209,
+        "source_url": "https://istoe.com.br",
+        "source_icon": "https://n.bytvi.com/istoe.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "PF 行动关闭了以性剥削为目的的妇女贩运网络并缴获 470 万雷亚尔",
+        "description_zh": "*警告：以下文字涉及暴力侵害妇女、家庭暴力和强奸等敏感话题。如果您表明自己身份或认识遇到此类问题的人，请拨打 180 报告。本周二，即 10 日，联邦警察发起了一项行动，"
+    },
+    {
+        "article_id": "b9986a2a2562761bccae1cef6b39d90f",
+        "link": "https://aldialogo.mx/mexico/2026/03/10/quien-es-togo-el-perro-rescatista-que-encontro-a-victimas-en-derrumbe-de-cdmx-video",
+        "title": "¿Quién es Togo, el perro rescatista que encontró a víctimas en derrumbe de CDMX? (VIDEO)",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "jessica ignot"
         ],
         "language": "spanish",
         "country": [
@@ -384,20 +337,19 @@
         ],
         "category": [
             "lifestyle",
-            "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 18:17:42",
+        "pubDate": "2026-03-10 18:20:50",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 18:23:56",
-        "image_url": "https://i0.wp.com/novedadesdetabasco.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-10-at-12.13.06-PM.jpeg?resize=660%2C330&ssl=1",
+        "fetched_at": "2026-03-10 18:46:53",
+        "image_url": "https://aldialogo.sfo2.cdn.digitaloceanspaces.com/uploads/2026/03/Quien-es-Togo-el-perro-rescatista-que-encontro-a-victimas-en-derrumbe-de-CDMX-VIDEO.jpg",
         "video_url": null,
-        "source_id": "novedadesdetabasco_mx",
-        "source_name": "Novedades De Tabasco",
-        "source_priority": 3923723,
-        "source_url": "https://novedadesdetabasco.com.mx",
-        "source_icon": "https://n.bytvi.com/novedadesdetabasco_mx.jpg",
+        "source_id": "aldialogo",
+        "source_name": "Aldialogo Mx",
+        "source_priority": 673454,
+        "source_url": "https://aldialogo.mx",
+        "source_icon": "https://n.bytvi.com/aldialogo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -405,51 +357,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "",
+        "title_zh": "在 CDMX 倒塌事故中发现遇难者的救援犬 Togo 是谁？ （视频）",
         "description_zh": ""
     },
     {
-        "article_id": "faf7d0ce0c5e3bf44d11fe52ebc88b4c",
-        "link": "https://www.clarin.com/deportes/momento-furia-mirra-andreeva-indian-wells-ultima-campeonas-quedo-eliminada-insultos_0_iKnoANcLLR.html",
-        "title": "El momento de furia de Mirra Andreeva en Indian Wells: la última campeona quedó eliminada y se fue entre insultos",
-        "description": "La rusa de 18 años, campeona en 2025, quedó eliminada en la tercera ronda.Perdió con la checa Kateřina Siniaková tras un partido cambiante y muy parejo.Tras el final, descargó su bronca con gestos e insultos y luego pidió disculpas.",
+        "article_id": "eccb7a067f34ff6b1ad8ca1f36e09330",
+        "link": "https://diario.mx/juarez/2026/mar/10/atento-aviso-manana-cortaran-el-agua-a-estos-fraccionamientos-1108973.html",
+        "title": "ATENTO AVISO: Mañana cortarán el agua a estos fraccionamientos",
+        "description": "A los habitantes de la zona, se les pide hacer acopio del líquido para las necesidades más apremiantes",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "mirra",
-            "insultos",
-            "indian",
-            "momento",
-            "ultima",
-            "furia",
-            "quedo",
-            "wells",
-            "eliminada",
-            "tenis",
-            "andreeva",
-            "campeonas"
+            "juárez"
         ],
         "creator": [
-            "clarin.com - home"
+            "javier olmos / el diario de juárez"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
+            "mexico"
         ],
         "category": [
             "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-10 18:17:39",
+        "pubDate": "2026-03-10 18:20:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-10 18:30:54",
-        "image_url": "https://www.clarin.com/img/2026/03/10/Hr1qn5xux_2000x1500__1.jpg",
+        "fetched_at": "2026-03-10 18:34:36",
+        "image_url": "https://diario.mx/core/dmx/assets/images/2026/03/10/untitled-1-xjld3a64q-slL9Ahh2c.jpg",
         "video_url": null,
-        "source_id": "clarin",
-        "source_name": "Clarin",
-        "source_priority": 1115,
-        "source_url": "https://www.clarin.com",
-        "source_icon": "https://n.bytvi.com/clarin.png",
+        "source_id": "diario",
+        "source_name": "El Diario",
+        "source_priority": 14955,
+        "source_url": "https://diario.mx",
+        "source_icon": "https://n.bytvi.com/diario.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -457,7 +398,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
+        "title_zh": "注意通知：明天他们将切断这些分区的供水",
+        "description_zh": "该地区的居民被要求储备液体以满足最紧迫的需求。"
     }
 ]
