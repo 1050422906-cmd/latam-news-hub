@@ -1,106 +1,359 @@
 [
     {
-        "article_id": "a1138e5db7dca04ad36cf7a72ba64ae5",
-        "link": "https://www.dgabc.com.br/Noticia/4289823/bndes-recuperacao-extrajudicial-da-raizen-nao-afeta-diretamente-o-banco",
-        "title": "BNDES: recuperação extrajudicial da Raízen não afeta diretamente o banco",
-        "description": "BNDES: recuperação extrajudicial da Raízen não afeta diretamente o banco - Notícias e informações do Grande ABC: raízen,recuperação extrajudicial,pedido,bndes",
+        "article_id": "8b365312125def98b676e1abce734191",
+        "link": "https://www.losandes.com.ar/perpetua-el-femicida-que-asesino-su-pareja-un-baldio-las-heras-n5983905",
+        "title": "Perpetua para el femicida que asesinó a su pareja en un baldío de Las Heras",
+        "description": "En un juicio abreviado Jesús Molina admitió haber dado muerte a Flora Inés Moyano, quien murió en julio de 2025.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "economia"
+            "femicidio",
+            "las heras",
+            "juicio abreviado",
+            "prisión perpetua"
         ],
         "creator": [
-            "agência estado"
+            "redacción policiales"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:06:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:52:21",
-        "image_url": "https://www.dgabc.com.br/img/ImagemPadrao.webp",
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://n.bytvi.com/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "BNDES：Raízen 的法外追回不会直接影响银行",
-        "description_zh": "BNDES：Raízen 的法外追回不会直接影响银行 - Grande ABC 的新闻和信息：raízen、法外追回、请求、bndes"
-    },
-    {
-        "article_id": "fb9a153ba2f18e2abbca1db207b13da4",
-        "link": "https://istoe.com.br/bndes-recuperacao-extrajudicial-da-raizen-nao-afeta-diretamente-o-banco",
-        "title": "BNDES: recuperação extrajudicial da Raízen não afeta diretamente o banco",
-        "description": "O pedido de recuperação extrajudicial da Raízen, para renegociar cerca de R$ 65,1 bilhões em dívidas, não afeta diretamente o Banco Nacional de Desenvolvimento Econômico e Social (BNDES), informou a instituição em nota. “Os financiamentos do BNDES para a referida empresa contam com garantia real, que são as próprias usinas. Portanto, conforme informou a própria [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "notícias"
-        ],
-        "creator": [
-            "istoé news"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:06:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:42:57",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "istoe",
-        "source_name": "Istoé Independente",
-        "source_priority": 239209,
-        "source_url": "https://istoe.com.br",
-        "source_icon": "https://n.bytvi.com/istoe.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "BNDES：Raízen 的法外追回不会直接影响银行",
-        "description_zh": "该机构在一份报告中表示，Raízen 提出的法外追偿请求，即重新谈判约 651 亿雷亚尔的债务，不会直接影响国家经济和社会发展银行 (BNDES)。 “BNDES 对上述公司的融资有保证"
-    },
-    {
-        "article_id": "2034f9ac07f4b31b380b9e62a5588f45",
-        "link": "https://tribunadepetropolis.com.br/noticias/bndes-recuperacao-extrajudicial-da-raizen-nao-afeta-diretamente-o-banco/",
-        "title": "BNDES: recuperação extrajudicial da Raízen não afeta diretamente o banco",
-        "description": "O pedido de recuperação extrajudicial da Raízen, para renegociar cerca de R$ 65,1 bilhões em dívidas, não afeta diretamente o Banco Nacional de Desenvolvimento Econômico e Social (BNDES), informou a instituição em nota. “Os financiamentos do BNDES para a referida empresa contam com garantia real, que são as próprias usinas. Portanto, conforme informou a própria [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "gabriela da cunha / estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
+            "argentina"
         ],
         "category": [
             "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-12 17:06:00",
+        "pubDate": "2026-03-13 17:03:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:45:56",
+        "fetched_at": "2026-03-13 17:40:06",
+        "image_url": "https://media.losandes.com.ar/p/91777f7c3c4bc83b1bc71e3a7176c950/adjuntos/368/imagenes/100/640/0100640145/1200x675/smart/flora-ines-moyano-sexta-victima-femicidio-mendoza-lo-que-va-del-2025-fue-detenido-el-reincidente-walter-molina-que-tenia-salidas-transitorias.jpg",
+        "video_url": null,
+        "source_id": "losandes",
+        "source_name": "Los Andes",
+        "source_priority": 114641,
+        "source_url": "https://www.losandes.com.ar",
+        "source_icon": "https://n.bytvi.com/losandes.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "在拉斯赫拉斯的一块空地上谋杀了他的伴侣的杀戮女性者的生命",
+        "description_zh": "在一次简短的审判中，赫苏斯·莫利纳承认杀害了弗洛拉·伊内斯·莫亚诺，后者于 2025 年 7 月去世。"
+    },
+    {
+        "article_id": "ad6bf8669e0060ec25ad0f51e9d54032",
+        "link": "https://www.losandes.com.ar/policiales/versiones-cruzadas-el-incendio-del-casino-el-911-aseguran-que-bomberos-voluntarios-san-martin-se-habian-declarado-fuera-servicio-n5983906",
+        "title": "Versiones cruzadas por el incendio del casino: desde el 911 aseguran que Bomberos Voluntarios de San Martín se habían declarado fuera de servicio",
+        "description": "Fuentes vinculadas al sistema de emergencias sostienen que el cuartel habría informado la mañana del miércoles que no estaba operativo. La versión surge luego del reclamo público realizado por la asociación de bomberos voluntarios.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "policiales"
+        ],
+        "creator": [
+            "enrique pfaab"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:03:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:40:09",
+        "image_url": "https://media.losandes.com.ar/p/141c3e1084231ea1eef4738b64366ba9/adjuntos/368/imagenes/100/698/0100698630/1200x675/smart/incendio-2.jpg",
+        "video_url": null,
+        "source_id": "losandes",
+        "source_name": "Los Andes",
+        "source_priority": 114641,
+        "source_url": "https://www.losandes.com.ar",
+        "source_icon": "https://n.bytvi.com/losandes.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "赌场火灾的交叉版本：从911起，他们声称圣马丁志愿消防员已宣布退役",
+        "description_zh": "与应急系统有关的消息人士坚称，军营周三上午报告说该系统无法运行。该版本是在志愿消防员协会提出公众投诉后出现的。"
+    },
+    {
+        "article_id": "059ee0e1ab00071c99062850985c89b5",
+        "link": "https://www.laopinioncoruna.es/ocio/cine/2026/03/13/morire-amor-hangar-rojo-grandes-favoritas-biznagas-festival-cine-malaga-127935064.html",
+        "title": "'Yo no moriré de amor' y 'Hangar rojo', grandes favoritas a las Biznagas del Festival de Málaga",
+        "description": "Con la Sección Oficial a Concurso finiquitada (hoy se proyecta la última película, fuera de competición, 'La Familia Benetón +2'), es tiempo de quinielas, de que los aficionados hagan sus pronósticos y determinen qué películas son sus favoritas para llevarse las principales Biznagas del Festival de Málaga. Hay tres grandes favoritas entre las 21 cintas programadas por el certamen: el debut de Marta Matute, 'Yo no moriré de amor'; 'La buena hija', de Júlia de Paz, e 'Iván & Hadoum', de Ian de la Rosa. En el apartado latinoamericano destacan especialmente 'Hangar rojo', del chileno Juan Pablo Sallato, y la argentina 'La mujer de la fila', de Benjamín Ávila.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "actriz",
+            "películas",
+            "festival de cine de málaga"
+        ],
+        "creator": [
+            "víctor a. gómez"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:08:48",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32dabd98-3ee8-45f3-a7c1-fb5a50402d43_16-9-aspect-ratio_default_0_x680y203.jpg",
+        "video_url": null,
+        "source_id": "laopinioncoruna",
+        "source_name": "La Opinión A Coruña",
+        "source_priority": 50098,
+        "source_url": "https://www.laopinioncoruna.es",
+        "source_icon": "https://n.bytvi.com/laopinioncoruna.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "“我不会因爱而死”和“Hangar rojo”，马拉加音乐节 Biznagas 的最爱",
+        "description_zh": "随着官方竞赛部分的结束（今天正在放映最新的非竞赛影片《La Familia Benetón +2》），现在是池子的时候了，粉丝们可以做出预测并确定哪些电影是他们最喜欢的，以赢得电影节的主要 Biznagas"
+    },
+    {
+        "article_id": "304aa8e6324be1939fb9aef65c0b973b",
+        "link": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/03/sbt-diz-que-resolveu-polemica-de-ratinho-com-erika-hilton-e-trata-caso-como-solucionado.shtml",
+        "title": "SBT diz que resolveu polêmica de Ratinho com Erika Hilton e trata caso como solucionado",
+        "description": "SBT diz que resolveu polêmica de Ratinho com Erika Hilton e trata caso como solucionado",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "#fofices",
+            "vídeos",
+            "celebridades",
+            "estranho",
+            "fofices",
+            "televisão",
+            "sbt",
+            "horóscopo",
+            "humor",
+            "colunistas",
+            "tudo",
+            "humanos",
+            "estranho!",
+            "eu amo",
+            "césar filho",
+            "celso portiolli",
+            "bichos"
+        ],
+        "creator": [
+            "gabriel vaquer"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:02:41",
+        "image_url": "https://f.i.uol.com.br/fotografia/2019/06/24/15614286845d1182cc1f4e4_1561428684_3x2_rt.jpg",
+        "video_url": null,
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "SBT 表示已解决了拉蒂尼奥与埃里卡·希尔顿的争议，并将此案视为已解决",
+        "description_zh": "SBT 表示已解决了拉蒂尼奥与埃里卡·希尔顿的争议，并将此案视为已解决"
+    },
+    {
+        "article_id": "aa07fdfb4ee8dd845518a1891d7963ab",
+        "link": "https://www.uol.com.br/esporte/ultimas-noticias/2026/03/13/flamengo-enfrenta-independiente-medellin-na-libertadores-sub-20-com-transmissao-do-canal-uol-e-uol-play.htm",
+        "title": "Flamengo x Independiente Medellín na Libertadores Sub-20: onde assistir?",
+        "description": "Flamengo enfrenta Independiente Medellín na Libertadores Sub-20 nesta sexta (13), às 21h, com transmissão ao vivo pelo Canal UOL, UOL Play e YouTube.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:33",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:02:33",
+        "image_url": "https://conteudo.imguol.com.br/c/galeria/63/2026/03/13/flamengo-libertadores-sub-20-1773411844050_v2_615x300.jpg",
+        "video_url": null,
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "弗拉门戈队与麦德林独立队的 U20 解放者杯比赛：在哪里观看？",
+        "description_zh": "本周五（13 日）晚上 9 点，弗拉门戈将在 U20 解放者杯中迎战麦德林独立队，Canal UOL、UOL Play 和 YouTube 进行现场直播。"
+    },
+    {
+        "article_id": "83d480903fda4add0372a8bb42375ed0",
+        "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/03/13/quem-e-o-blogueiro-do-ma-alvo-do-stf.htm",
+        "title": "Alvo da PF por suposta perseguição a Dino já foi preso por extorsão em 2017",
+        "description": "Alvo da PF por suposta perseguição a Dino já foi preso por extorsão",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "carlos madeiro"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:28",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:02:28",
+        "image_url": "https://conteudo.imguol.com.br/c/noticias/bc/2026/03/13/jornalista-luis-pablo-1773410683025_v2_615x300.jpg",
+        "video_url": null,
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "涉嫌迫害迪诺的 PF 目标已于 2017 年因敲诈勒索被捕",
+        "description_zh": "涉嫌迫害迪诺的 PF 目标已因敲诈勒索被捕"
+    },
+    {
+        "article_id": "4b44b20270a918e068725f61910e6188",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2026/03/13/do-escape-room-ao-cemiterio-6-roles-sombrios-na-sexta-feira-13-em-sp.htm",
+        "title": "Do escape room ao cemitério, 6 rolês sombrios na Sexta-feira 13 em SP",
+        "description": "Do escape room ao cemitério: veja seis rolês sombrios na Sexta-feira 13 em São Paulo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "glau gasparetto"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:19",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:02:19",
+        "image_url": "https://conteudo.imguol.com.br/c/entretenimento/15/2026/03/12/sexta-feira-13-no-escape-60-1773347171676_v2_615x300.jpg",
+        "video_url": null,
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "从密室逃脱到墓地，13 日星期五在 SP 举办 6 场黑暗游乐设施",
+        "description_zh": "从密室逃脱到墓地：13 日星期五在圣保罗观看六场黑暗游乐设施"
+    },
+    {
+        "article_id": "b1bba9d62c9b2c1f86d1ac9677a331d2",
+        "link": "https://www.capitalnews.com.br/politica-e-poder/executivo/servidora-e-exonerada-apos-suspeita-de-fraude-no-mais-social-em-mato-grosso-do-sul/437208",
+        "title": "Servidora é exonerada após suspeita de fraude no Mais Social em Mato Grosso do Sul",
+        "description": "O Governo de Mato Grosso do Sul, por meio da Secretaria de Estado de Assistência Social e Direitos Humanos (SEAD), instaurou um procedimento administrativo para apurar possível fraude envolvendo servidores públicos na utilização de cartões do programa Mais Social.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "viviane freitas"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:16:35",
+        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2025/11/25/800x600/1be34f245018337a7758afd8237d19cf-capitalnews-com-br.jpg",
+        "video_url": null,
+        "source_id": "capitalnews",
+        "source_name": "Capital News",
+        "source_priority": 505998,
+        "source_url": "https://www.capitalnews.com.br",
+        "source_icon": "https://n.bytvi.com/capitalnews.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "南马托格罗索州 Mais Social 的服务器因涉嫌欺诈而被解雇",
+        "description_zh": "南马托格罗索州政府通过社会援助和人权国务秘书处 (SEAD) 启动了一项行政程序，调查涉及公务员使用马斯社会计划卡的可能欺诈行为。"
+    },
+    {
+        "article_id": "41a399fa711dc968f48e08d146d4c4c9",
+        "link": "https://tribunadepetropolis.com.br/noticias/bolsonaro-esta-internado-com-broncopneumonia-bacteriana-bilateral-diz-hospital/",
+        "title": "Bolsonaro está internado com broncopneumonia bacteriana bilateral, diz hospital",
+        "description": "O hospital DF Star informou em boletim médico que o ex-presidente Jair Bolsonaro (PL) foi internado na manhã desta sexta-feira, 13, com “quadro de febre alta, queda da saturação de oxigênio, sudorese e calafrios”. Segundo os médicos, os exames confirmaram “broncopneumonia bacteriana bilateral de provável origem aspirativa”, ou seja, uma infecção bacteriana nos dois pulmões, [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "maria magnabosco / estadão"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:45:49",
         "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
         "source_id": "tribunadepetropolis_br",
@@ -115,215 +368,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "BNDES：Raízen 的法外追回不会直接影响银行",
-        "description_zh": "该机构在一份报告中表示，Raízen 提出的法外追偿请求，即重新谈判约 651 亿雷亚尔的债务，不会直接影响国家经济和社会发展银行 (BNDES)。 “BNDES 对上述公司的融资有保证"
+        "title_zh": "医院称博尔索纳罗因双侧细菌性支气管肺炎住院",
+        "description_zh": "DF Star医院在一份医疗通报中称，前总统雅伊尔·博尔索纳罗（PL）于13日周五上午入院，症状为“高烧、血氧饱和度下降、出汗和发冷”。据医生介绍，检测结果证实“双侧细菌性支气管肺炎”"
     },
     {
-        "article_id": "c0bc628e42c2b1b03994e3b557ba2fba",
-        "link": "https://www.lanacion.com.ar/propiedades/asi-quedo-una-vieja-estacion-de-tren-abandonada-que-fue-transformada-en-un-hotel-de-lujo-nid12032026/",
-        "title": "Así quedó una vieja estación de tren abandonada que fue transformada en un hotel de lujo",
-        "description": "Tras décadas de abandono, la histórica estación ferroviaria fue transformada en un hotel con 104 habitaciones",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "propiedades"
-        ],
-        "creator": [
-            "la nacion"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:06:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:33:32",
-        "image_url": "https://resizer.glanacion.com/resizer/v2/HRD2JXMUKVCJ3MTBFRGZ3YDLCM.JPG?auth=35196b678987f43e0c2f6ce927b3818f48dc2cf12c4f0bac45f8f05de1480e51&height=1325&smart=true&width=2000",
-        "video_url": null,
-        "source_id": "lanacion",
-        "source_name": "La Nacion",
-        "source_priority": 7204,
-        "source_url": "https://www.lanacion.com.ar",
-        "source_icon": "https://n.bytvi.com/lanacion.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "这就是一个废弃的旧火车站被改造成豪华酒店的过程",
-        "description_zh": "经过几十年的废弃，历史悠久的火车站被改造成拥有 104 间客房的酒店"
-    },
-    {
-        "article_id": "288291a5a55543edb9095ef675959959",
-        "link": "https://www.diariocronica.com.ar/noticias/2026/03/12/135052-mataron-a-un-perro-de-un-disparo-en-medio-de-una-gresca-en-una-plaza-del-quirno-costa",
-        "title": "Mataron a un perro de un disparo en medio de una gresca en una plaza del Quirno Costa",
-        "description": "Dos hombres discutieron en barrio Quirno Costa y uno de ellos comenzó a disparar contra el restante, hiriendo a un perro en situación de calle. Debido a la gravedad de la lesión el animal perdió la vida. El hecho ocurrió a plena luz del día y en una plaza barrial.",
+        "article_id": "458a188cb681a7131f086dc5290acd27",
+        "link": "https://tribunadepetropolis.com.br/noticias/taxas-de-fretes-maritimos-para-graos-dos-eua-sobem-com-conflito-no-oriente-medio/",
+        "title": "Taxas de fretes marítimos para grãos dos EUA sobem com conflito no Oriente Médio",
+        "description": "As taxas de frete para transporte de grãos dos Estados Unidos ao exterior estão subindo, refletindo o aumento dos custos de combustível. Em seu relatório semanal de transporte de grãos, o Departamento de Agricultura dos EUA (USDA, na sigla em inglês) informou que a taxa para transportar grãos do Golfo dos EUA para o Japão [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "diario crónica"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:05:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:25:22",
-        "image_url": "https://diariocronica-s3.cdn.net.ar/s3i233/2025/10/diariocronica/images/02/30/05/2300571_f570ba667adfb0bb5635133368ef8ddf3829860e770a42d68f8328a71a8bd353/md.webp",
-        "video_url": null,
-        "source_id": "diariocronica_ar",
-        "source_name": "Diariocronica Ar",
-        "source_priority": 2931989,
-        "source_url": "https://www.diariocronica.com.ar",
-        "source_icon": "https://n.bytvi.com/diariocronica_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们在奎尔诺科斯塔广场的一场斗殴中射杀了一只狗",
-        "description_zh": "两名男子在奎尔诺科斯塔社区发生争执，其中一人开始向其他人开枪，打伤了街上的一只狗。由于伤势严重，该动物失去了生命。这起事件发生在光天化日之下，地点是附近的一个广场。"
-    },
-    {
-        "article_id": "7678918506b13eb7f1d42c1cfbe274cb",
-        "link": "https://www.adnsur.com.ar/cultura---espectaculos/aseguran-que-una-participante-de-gran-hermano-engano-a-su-novio-con-l-gante-antes-de-entrar-a-la-casa_a69b2e588e92994801e8a7488",
-        "title": "Aseguran que una participante de Gran Hermano engañó a su novio con L-Gante antes de entrar a la casa",
-        "description": "Según trascendió, la joven habría conocido al cantante en un boliche y, desde entonces, habrían mantenido un affaire mientras ella estaba de novia.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "engañó a su novio con l-gante",
-            "sexo",
-            "infidelidad",
-            "gran hermano",
-            "lucas exnovio de luana",
-            "l-gante",
-            "boliche",
-            "luana de gran hermano",
-            "derecho a réplica"
-        ],
-        "creator": [
-            "adnsur"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:05:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:09:44",
-        "image_url": "https://adnsur-assets.tadevel-cdn.com/69b2f162e92994801e8ba611/720.jpeg",
-        "video_url": null,
-        "source_id": "adnsur",
-        "source_name": "Adnsur",
-        "source_priority": 80627,
-        "source_url": "https://www.adnsur.com.ar",
-        "source_icon": "https://n.bytvi.com/adnsur.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们声称，一名“老大哥”参与者在进屋前与 L-Gante 欺骗了她的男友",
-        "description_zh": "据报道，这名年轻女子在保龄球馆遇见了这位歌手，从那时起，他们就在她约会时发生了外遇。"
-    },
-    {
-        "article_id": "65bb0108a9b3e3680981300bad512fd0",
-        "link": "https://www.infobae.com/colombia/deportes/2026/03/12/ivan-rene-valenciano-respaldo-al-pibe-valderrama-tras-la-dura-respuesta-de-jhon-jader-duran-al-exjugador-carlos-tiene-los-argumentos/",
-        "title": "Iván René Valenciano respaldó al Pibe Valderrama en su polémica con Jhon Jáder Durán: “Tiene los argumentos”",
-        "description": "El exdelantero del Junior de Barranquilla y la selección Colombia habló sobre los comentarios del delantero del Zenit de Rusia, respondiendo a la opinión del exvolante de la Tricolor",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "selección colombia",
-            "mundial 2026",
-            "pibe valderrama",
-            "iván rené valenciano",
-            "colombia-deportes",
-            "carlos valderrama",
-            "jhon jáder durán",
-            "jhon durán"
-        ],
-        "creator": [
-            "carlos pulido"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "colombia",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:05:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:31:58",
-        "image_url": "https://www.infobae.com/resizer/v2/ZPBEJNDO4NFLBO4SLWYH57USPA.jpeg?auth=e429e958b7a40bbfa6dd0a3dc994679637ad020243048d2bc6097b29ff8b1d13&height=3648&smart=true&width=5472",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "伊万·雷内·瓦伦西亚诺 (Iván René Valenciano) 在皮贝·瓦尔德拉玛 (Pibe Valderrama) 与乔恩·贾德·杜兰 (Jhon Jáder Durán) 的争论中支持皮贝·瓦尔德拉玛 (Pibe Valderrama)：“他有论据”",
-        "description_zh": "前少年德巴兰基亚和哥伦比亚国家队前锋谈到了俄罗斯泽尼特前锋的言论，回应了前三色旗中场的观点"
-    },
-    {
-        "article_id": "610a67788efc16390e2a4ff17ae28e8c",
-        "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/03/12/eleitor-tende-a-buscar-algo-novo-diz-rafael-cortez-sobre-2026.htm",
-        "title": "MERCADO ABERTO",
-        "description": "'Maioria desaprova governo e tende a buscar o novo', diz cientista político",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "do uol"
+            "equipe ae* / estadão"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "other"
+            "top",
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-12 17:05:47",
+        "pubDate": "2026-03-13 17:02:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:05:47",
-        "image_url": "https://conteudo.imguol.com.br/c/noticias/03/2026/03/10/presidente-lula-pt-e-senador-flavio-bolsonaro-pl-1773153006355_v2_615x300.jpg",
+        "fetched_at": "2026-03-13 17:45:48",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://n.bytvi.com/uol.png",
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -331,80 +407,45 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "公开市场",
-        "description_zh": "政治学家表示，“大多数人不赞成政府并倾向于寻找新的东西”"
+        "title_zh": "中东冲突导致美国谷物海运费上涨",
+        "description_zh": "从美国向海外运输谷物的运费正在上涨，反映出燃料成本的上涨。美国农业部 (USDA) 在其每周粮食运输报告中表示，粮食运输率"
     },
     {
-        "article_id": "7ee383395ea6ad9c09c2d6b73cfd18be",
-        "link": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/03/12/estrategica-para-o-petroleo-do-ira-ilha-de-kharg-entra-no-radar-como-alvo-na-guerra-no-oriente-medio.htm",
-        "title": "Por que uma pequena ilha no Golfo se tornou alvo estratégico na guerra entre EUA e Irã",
-        "description": "Por que uma pequena ilha no Golfo se tornou estratégica na guerra entre EUA e Irã",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "rfi"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "other"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:05:41",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:05:41",
-        "image_url": "https://conteudo.imguol.com.br/c/noticias/4a/2026/03/12/12mar26---imagem-de-satelite-da-ilha-de-kharg-principal-terminal-petrolifero-do-ira-1773318938541_v2_615x300.jpg",
-        "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://n.bytvi.com/uol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "海湾小岛为何成为美伊战争战略目标",
-        "description_zh": "为什么海湾的一个小岛在美国和伊朗之间的战争中变得具有战略意义"
-    },
-    {
-        "article_id": "dbcac7aaa1c2b7027a9c647ea14dad77",
-        "link": "https://www.perfil.com/noticias/canal-e/en-que-consiste-el-proyecto-de-movilidad-que-se-busca-implementar-en-el-area-metropolitana-de-uruguay.phtml",
-        "title": "En qué consiste el proyecto de movilidad que se busca implementar en el área metropolitana de Uruguay",
-        "description": "Para el economista uruguayo, Juan Sánchez, “el gobierno, en este caso, tomó, en lugar de tomar las iniciativas privadas, hizo algo que para mí es un poco poner la carreta por delante de los bueyes”. Leer más",
+        "article_id": "453a8bd1619eb75c592d3fa448a3f148",
+        "link": "https://www.elheraldo.co/sucre/2026/03/13/dian-y-grupo-anticontrabando-de-sucre-inspeccionan-establecimientos-en-sincelejo/",
+        "title": "Dian y Grupo Anticontrabando de Sucre inspeccionan establecimientos en Sincelejo",
+        "description": "Estas acciones hacen parte de las estrategias interinstitucionales que buscan combatir el comercio ilegal y fortalecer las finanzas públicas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "juan sánchez",
-            "uruguay",
-            "movilidad"
+            "sucre",
+            "grupo-anticontrabando",
+            "establecimientos",
+            "inspeccion",
+            "sincelejo",
+            "dian"
         ],
         "creator": [
-            "alejandro dubini"
+            "el heraldo colombia"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
+            "colombia"
         ],
         "category": [
             "top",
-            "sports"
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-12 17:05:35",
+        "pubDate": "2026-03-13 17:02:59",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:38:22",
-        "image_url": "https://fotos.perfil.com/2026/03/12/trim/540/304/uruguay-2201691.jpg",
+        "fetched_at": "2026-03-13 17:07:06",
+        "image_url": "https://www.elheraldo.co/resizer/v2/KD5DPFIYIRBWZBWH7CVMAPJ4J4.png?auth=f2bee0583836916adcd1a39d854eb900cd57d42e584738b3a62e50d2ad010dea&height=675&smart=true&width=1200",
         "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
+        "source_id": "elheraldo",
+        "source_name": "Elheraldo",
+        "source_priority": 38752,
+        "source_url": "https://www.elheraldo.co",
+        "source_icon": "https://n.bytvi.com/elheraldo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -412,171 +453,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "寻求在乌拉圭大都市区实施的交通项目包括哪些内容？",
-        "description_zh": "For the Uruguayan economist, Juan Sánchez, “the government, in this case, took, instead of taking private initiatives, did something that for me is a bit like putting the cart before the horse.”阅读更多"
+        "title_zh": "迪安和苏克雷反走私小组检查辛塞莱霍的场所",
+        "description_zh": "这些行动是旨在打击非法贸易和加强公共财政的机构间战略的一部分。"
     },
     {
-        "article_id": "1eb20d8e9aad07d8a8ebf192d07af53f",
-        "link": "https://redgol.cl/udechile/nos-duele-pero-el-futbol-es-asi-franco-calderon-desdramatiza-la-salida-de-meneghini-de-la-u",
-        "title": "“Nos duele, pero el fútbol es así”: Franco Calderón desdramatiza la salida de Meneghini de la U",
-        "description": "El defensor argentino además le entregó todo su apoyo a Jhon Valladares, el DT interino. Universidad de Chile vive un momento complejo luego de la partida de Francisco Meneghini por malos resultados. Franco Calderón dio su impresión por toda la situación.Paqui no pudo darle una identidad al equipo y tuvo más problemas que puntos en el CDA. En siete partidos dirigidos, solo ganó un partido. La eliminación de la Copa Sudamericana ante Palestino terminó costándole el cargo al entrenador argentino.La postura de CalderónLuego del empate 1-1 de Universidad de Chile y Universidad de Concepción, la dirigencia llegó a un acuerdo con Francisco Meneghini y este dejó de ser entrenador del club. Si bien su ciclo duró muy poco tiempo, los resultados no ayudaron a sostenerlo en el cargo.El próximo partido de los Azules será ante Coquimbo Unido en el sábado 14 de marzo a las 18:00 horas, en el Estadio Francisco Sánchez Rumoroso. Franco Calderón, uno de los referentes del plantel, se refirió a este encuentro clave para las aspiraciones del club. “Hay que ganar si o sí“, indicó el Chaco a Radio ADN. El Romántico Viajero tiene solo 7 puntos en la Liga de Primera, mientras el líder es Colo Colo con 12 unidades. Ya sin la Copa Sudamericana por delante, el único objetivo es ganar el título nacional.Jhon Valladares será el entrenador interino de Universidad de Chile ante los Piratas. Calderón le dio su respaldo al ex jugador del club y aseguró que “estamos bien, estamos preparados y listos“. Franco Calderón es una de las figuras de U. de Chile. Imagen: PhotosportRespecto a la salida de Paqui Meneghini, Franco Calderón lamentó el adiós del entrenador, pero reflexionó que las cosas funcionan de esta manera. “Clararamente estamos tristes, a todos nos duele, pero el fútbol es así”, cerró el defensor.",
+        "article_id": "0462bc1bd5d5e7b97fcbc20e2bfe9c83",
+        "link": "https://laprensaaustral.cl/2026/03/13/consejeros-regionales-se-reunen-con-delegada-farias-y-califican-cita-como-una-reunion-de-buenas-intenciones/",
+        "title": "Consejeros regionales se reúnen con delegada Farías y califican cita como “una reunión de buenas intenciones”",
+        "description": "“Como una reunión de buenas intenciones” calificaron los consejeros regionales que la tarde del miércoles asistieron a la Casa de los Intendentes para reunirse con la delegada presidencial regional, Ericka Farías. El encuentro fue descrito como ameno y distendido, y se extendió por cerca de una hora. Hasta la cita con la máxima autoridad regional...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "u de chile"
+            "crónica",
+            "consejeros regionales se reúnen con delegada farías y califican cita como “una reunión de buenas intenciones”"
         ],
         "creator": [
-            "césar vásquez"
+            "la prensa austral"
         ],
         "language": "spanish",
         "country": [
             "chile"
         ],
         "category": [
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:05:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:12:32",
-        "image_url": "https://media.redgol.cl/wp-content/uploads/sites/8/2026/03/12131953/meneghini-calderon-u-de-chile-e1773332435339-1200x740.jpg",
-        "video_url": null,
-        "source_id": "redgol_cl",
-        "source_name": "Red Gol",
-        "source_priority": 179990,
-        "source_url": "https://redgol.cl",
-        "source_icon": "https://n.bytvi.com/redgol_cl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“这伤害了我们，但足球就是这样”：弗朗哥·卡尔德龙淡化梅内吉尼离开美国队",
-        "description_zh": "这位阿根廷后卫也对临时主帅乔恩·瓦拉达雷斯给予了全力支持。由于成绩不佳，弗朗西斯科·梅内吉尼离开后，智利大学正经历着一个复杂的时刻。弗朗哥·卡尔德隆表达了他对整个情况的印象。帕基无法为团队提供身份信息"
-    },
-    {
-        "article_id": "65bb0108a9b3e3680981300bad512fd0",
-        "link": "https://www.infobae.com/colombia/deportes/2026/03/12/ivan-rene-valenciano-respaldo-al-pibe-valderrama-tras-la-dura-respuesta-de-jhon-jader-duran-al-exjugador-carlos-tiene-los-argumentos/",
-        "title": "Iván René Valenciano respaldó al Pibe Valderrama en su polémica con Jhon Jáder Durán: “Tiene los argumentos”",
-        "description": "El exdelantero del Junior de Barranquilla y la selección Colombia habló sobre los comentarios del delantero del Zenit de Rusia, respondiendo a la opinión del exvolante de la Tricolor",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "selección colombia",
-            "mundial 2026",
-            "pibe valderrama",
-            "iván rené valenciano",
-            "colombia-deportes",
-            "carlos valderrama",
-            "jhon jáder durán",
-            "jhon durán"
-        ],
-        "creator": [
-            "carlos pulido"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "colombia",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:05:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:31:58",
-        "image_url": "https://www.infobae.com/resizer/v2/ZPBEJNDO4NFLBO4SLWYH57USPA.jpeg?auth=e429e958b7a40bbfa6dd0a3dc994679637ad020243048d2bc6097b29ff8b1d13&height=3648&smart=true&width=5472",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "伊万·雷内·瓦伦西亚诺 (Iván René Valenciano) 在皮贝·瓦尔德拉玛 (Pibe Valderrama) 与乔恩·贾德·杜兰 (Jhon Jáder Durán) 的争论中支持皮贝·瓦尔德拉玛 (Pibe Valderrama)：“他有论据”",
-        "description_zh": "前少年德巴兰基亚和哥伦比亚国家队前锋谈到了俄罗斯泽尼特前锋的言论，回应了前三色旗中场的观点"
-    },
-    {
-        "article_id": "4650bac540b0c969d8e00640f3f67b04",
-        "link": "https://www.tvazteca.com/aztecadeportes/america-anuncia-operacion-exitosa-tendon-aquiles-luis-angel-malagon-recuperacion-ocho-meses",
-        "title": "América anuncia operación exitosa sobre tendón de Aquiles de Luis Ángel Malagón y el tiempo OFICIAL de recuperación",
-        "description": "América informó esta mañana que su jugador Luis Ángel Malagón ha sido operado con éxito del tendón de Aquiles en Guadalajara, fue muy claro sobre el tiempo que estará fuera de las canchas.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "selección azteca"
-        ],
-        "creator": [
-            "rodrigo ornelas gutiérrez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:05:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:34:59",
-        "image_url": "https://tvazteca.brightspotcdn.com/3c/b5/2d245ad64b68b21b4332c9490c7c/romo-mal-3.jpg",
-        "video_url": null,
-        "source_id": "tvazteca",
-        "source_name": "Azteca Deportes",
-        "source_priority": 17594,
-        "source_url": "https://www.tvazteca.com",
-        "source_icon": "https://n.bytvi.com/tvazteca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "美国宣布路易斯·安赫尔·马拉贡的跟腱手术成功并官方恢复时间",
-        "description_zh": "《美洲报》今天上午报道称，该队球员路易斯·安赫尔·马拉贡在瓜达拉哈拉成功接受了跟腱手术，并且非常清楚他将缺席比赛的时间。"
-    },
-    {
-        "article_id": "13305ca17b633f7ba0f867dd26f115c5",
-        "link": "https://www.diariocambio.com.mx/2026/municipios/san-pedro-cholula/tonantzin-fernandez-encabeza-jornada-de-miercoles-del-pueblo-en-san-pedro-cholula/",
-        "title": "Tonantzin Fernández encabeza jornada de “Miércoles del Pueblo” en San Pedro Cholula",
-        "description": "Con el objetivo de mantener un gobierno de puertas abiertas y cercano a la ciudadanía, la presidenta municipal de San Pedro Cholula, Tonantzin Fernández, encabezó una nueva jornada del programa Miércoles del Pueblo, espacio de atención directa en el que autoridades municipales escuchan y atienden las peticiones de las y los ciudadanos. Durante la jornada, [...]The post Tonantzin Fernández encabeza jornada de “Miércoles del Pueblo” en San Pedro Cholula appeared first on Diario Cambio.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tonantzin fenández díaz",
-            "miércoles del pueblo",
-            "san pedro cholula",
-            "ayuntamiento de san pedro cholula"
-        ],
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-12 17:05:42",
+        "pubDate": "2026-03-13 17:02:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:11:07",
-        "image_url": "https://www.diariocambio.com.mx/wp-content/uploads/2026/03/Miercoles-del-Pueblo-300x169.webp",
+        "fetched_at": "2026-03-13 17:14:49",
+        "image_url": "https://cdn.lpa.cl/2026/02/4CORE-RM9-667x400.jpg",
         "video_url": null,
-        "source_id": "diariocambio",
-        "source_name": "Diariocambio",
-        "source_priority": 137606,
-        "source_url": "https://www.diariocambio.com.mx",
-        "source_icon": "https://n.bytvi.com/diariocambio.jpg",
+        "source_id": "laprensaaustral_cl",
+        "source_name": "La Prensa Austral",
+        "source_priority": 330673,
+        "source_url": "https://laprensaaustral.cl",
+        "source_icon": "https://n.bytvi.com/laprensaaustral_cl.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -584,24 +494,20 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "托南钦·费尔南德斯 (Tonantzin Fernández) 在圣佩德罗乔卢拉 (San Pedro Cholula) 主持“人民星期三”活动",
-        "description_zh": "为了维持一个门户开放、贴近公民的政府，圣佩德罗乔卢拉市主席托南钦·费尔南德斯 (Tonantzin Fernández) 领导了新一天的“人民星期三”计划，这是一个市政当局倾听和参与的直接关注空间。"
+        "title_zh": "地区议员会见代表法里亚斯，并将这次会议描述为“一次充满善意的会议”",
+        "description_zh": "“这是一次善意的会议”，周三下午出席市长官邸会见地区总统代表埃里卡·法里亚斯的地区议员如此形容。这次会议被描述为愉快和轻松，持续了大约一年"
     },
     {
-        "article_id": "2d8f5885f705d786b4203372bcd63f7d",
-        "link": "https://90minutos.co/deportes/deportivo-cali/sancion-titi-rodriguez-rafael-dudamel-12-03-2026/",
-        "title": "La sanción que recibió el ‘Tití’ Rodríguez: Rafael Dudamel deberá buscar alternativas",
-        "description": "El delantero vio la tarjeta roja en el último partido del Deportivo Cali y estaba siendo titular habitual de los 'azucareros'.La sanción que recibió el ‘Tití’ Rodríguez: Rafael Dudamel deberá buscar alternativas aparece en Noticiero 90 Minutos.",
+        "article_id": "08150eccb5752ab7a3fc6b8a97c21ec4",
+        "link": "https://www.elespectador.com/judicial/fiscalia-imputara-a-exviceministro-por-presuntas-irregularidades-en-contrato-de-helicopteros/",
+        "title": "Fiscalía imputará a exviceministro por presuntas irregularidades en contrato de helicópteros",
+        "description": "El exviceministro de Defensa Luis Edmundo Suárez abría participado en irregularidades en el contrato millonario.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "juan dinenno",
-            "gol",
-            "palmaseca",
-            "rafael dudamel",
-            "deportivo cali"
+            "noticias hoy, noticias de colombia, helipcópteros mi-17"
         ],
         "creator": [
-            "redacción noticiero 90 minutos"
+            "el espectador"
         ],
         "language": "spanish",
         "country": [
@@ -611,16 +517,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-12 17:05:41",
+        "pubDate": "2026-03-13 17:02:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:21:43",
-        "image_url": null,
+        "fetched_at": "2026-03-13 17:17:01",
+        "image_url": "https://www.elespectador.com/resizer/v2/TTDXXVH6DJCURIT2B3HZSQXZH4.jpeg?auth=5ea475de6c1694e5cefc1a2ae4342a6f876435e90c4a34db34f8aa72efa869b9&smart=true",
         "video_url": null,
-        "source_id": "90minutos_co",
-        "source_name": "90 Minutos",
-        "source_priority": 1674507,
-        "source_url": "https://90minutos.co",
-        "source_icon": "https://n.bytvi.com/90minutos_co.png",
+        "source_id": "elespectador",
+        "source_name": "Elespectador.com",
+        "source_priority": 589787,
+        "source_url": "http://elespectador.com",
+        "source_icon": "https://n.bytvi.com/elespectador.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -628,49 +534,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "“蒂蒂”罗德里格斯受到的制裁：拉斐尔·杜达梅尔必须寻找替代方案",
-        "description_zh": "这位前锋在卡利拉科鲁尼亚队的最后一场比赛中吃到了红牌，并且是“糖工”的常规首发球员。 “蒂蒂”罗德里格斯收到的制裁：拉斐尔·杜达梅尔将不得不寻找替代者，这一消息出现在《90 分钟消息》中。"
+        "title_zh": "检察官办公室将指控前副部长涉嫌直升机合同违规",
+        "description_zh": "前国防部副部长路易斯·埃德蒙多·苏亚雷斯涉嫌参与了这份价值百万美元合同的违规行为。"
     },
     {
-        "article_id": "ff15f6702e7b42ceec3588d5455fbbf6",
-        "link": "https://www.lajornadadeoriente.com.mx/puebla/onu-condena-a-iran-exige-cese-el-fuego-pero-no-a-eu-e-israel/",
-        "title": "La ONU condena a Irán y le exige cese el fuego, pero no a EU ni a Israel",
-        "description": "Nueva York. El Consejo de Seguridad de la Organización de Naciones Unidas (ONU) aprobó ayer una resolución que exige a Irán cesar de inmediato sus ataques contra los países del golfo Pérsico y Jordania por violar el derecho internacional y representar una “grave amenaza para la paz y la seguridad internacionales”, al tiempo que rechazó otro proyecto de resolución que pedía el cese de acciones militares en Medio Oriente.El Consejo de Seguridad no se pronunció sobre la ofensiva que Estados Unidos e Israel lanzaron contra la república islámica desde el pasado 28 de febrero.La resolución fue aprobada por 13 votos a favor y dos abstenciones y exigió “el cese inmediato de todos los ataques de la República Islámica de Irán contra Bahréin, Kuwait, Omán, Qatar, Arabia Saudita, Emiratos Árabes Unidos (EUA) y Jordania”.Además, condenó “toda acción o amenaza” de Irán “destinada a cerrar, obstaculizar o interferir de cualquier manera con la navegación internacional en el estrecho de Ormuz”, estratégico para el transporte mundial de petróleo y gas natural.El texto sometido a votación en el Consejo de Seguridad, fue presentado por Bahréin junto con los demás integrantes del Consejo de Cooperación del Golfo (Arabia Saudita, EUA, Kuwait, Omán y Qatar) y por Jordania.Consulta: Sheinbaum señala “pérdida de fuerza” de la ONU; llama a recuperar su papel ante escalada en Medio OrienteUn total de 135 países miembros de Naciones Unidas expresaron su apoyo a la resolución que es vinculante.Otro proyecto de resolución patrocinado por Rusia, en el que se exhortaba a todas las partes “a cesar inmediatamente sus actividades militares y a abstenerse de una nueva escalada en Medio Oriente y más allá”, y en la que se condenaban todos los ataques contra “civiles e infraestructura civil”, no logró ser aprobado por el órgano principal de la ONU.El Consejo rechazó el proyecto de resolución, con cuatro votos a favor, dos en contra y nueve abstenciones. Rusia, China, Pakistán y Somalia votaron a favor, mientras Estados Unidos y Letonia votaron en contra.En otra reunión convocada por Francia, una veintena de países que apoyan a las fuerzas de mantenimiento de paz de la ONU en Líbano y a la subsecretaria general de las Naciones Unidas, Rosemary DiCarlo, llamaron a una “desescalada” entre Hezbollah e Israel en ese país.Por último, Teherán rechazó nuevas sanciones de la Unión Europea a 18 funcionarios suyos, mientras Rumanía aprobó que Estados Unidos utilice sus bases en el país para el “reabastecimiento” de aviones y el despliegue de fuerzas, informó el presidente del país, Nicusor Dan.Te puede interesar: Ataca Irán centrales energéticas en Israel y bases militares de EULa entrada La ONU condena a Irán y le exige cese el fuego, pero no a EU ni a Israel aparece primero en La Jornada de Oriente.",
+        "article_id": "b720bfcb6c3398c1ee6c6109b5e3ac52",
+        "link": "https://www.diariocordoba.com/ocio/cine/2026/03/13/morire-amor-hangar-rojo-grandes-favoritas-biznagas-festival-cine-malaga-127935066.html",
+        "title": "'Yo no moriré de amor' y 'Hangar rojo', grandes favoritas a las Biznagas del Festival de Málaga",
+        "description": "Con la Sección Oficial a Concurso finiquitada (hoy se proyecta la última película, fuera de competición, 'La Familia Benetón +2'), es tiempo de quinielas, de que los aficionados hagan sus pronósticos y determinen qué películas son sus favoritas para llevarse las principales Biznagas del Festival de Málaga. Hay tres grandes favoritas entre las 21 cintas programadas por el certamen: el debut de Marta Matute, 'Yo no moriré de amor'; 'La buena hija', de Júlia de Paz, e 'Iván & Hadoum', de Ian de la Rosa. En el apartado latinoamericano destacan especialmente 'Hangar rojo', del chileno Juan Pablo Sallato, y la argentina 'La mujer de la fila', de Benjamín Ávila.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "puebla",
-            "israel",
-            "derecho internacional",
-            "golfo pérsico",
-            "francia",
-            "estados unidos",
-            "rumania",
-            "rusia",
-            "internacional",
-            "irán",
-            "organización de ls naciones unidas (onu)"
+            "festival de cine de málaga",
+            "películas",
+            "actriz"
         ],
         "creator": [
-            "la jornada"
+            "víctor a. gómez"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "world"
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-12 17:05:40",
+        "pubDate": "2026-03-13 17:02:46",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:19:57",
-        "image_url": "https://www.lajornadadeoriente.com.mx/wp-content/uploads/2026/03/Organizacion-de-las-Naciones-Unidas.jpg",
+        "fetched_at": "2026-03-13 17:07:59",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32dabd98-3ee8-45f3-a7c1-fb5a50402d43_16-9-aspect-ratio_default_0_x680y203.jpg",
         "video_url": null,
-        "source_id": "lajornadadeoriente_mx",
-        "source_name": "Lajornadadeoriente Mx",
-        "source_priority": 981450,
-        "source_url": "https://www.lajornadadeoriente.com.mx",
-        "source_icon": "https://n.bytvi.com/lajornadadeoriente_mx.jpg",
+        "source_id": "diariocordoba",
+        "source_name": "Cordoba",
+        "source_priority": 48787,
+        "source_url": "https://www.diariocordoba.com",
+        "source_icon": "https://n.bytvi.com/diariocordoba.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -678,20 +576,20 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "",
-        "description_zh": "纽约。联合国安理会昨天通过一项决议，要求伊朗立即停止对波斯湾和约旦国家的袭击，因为其违反国际法并构成“对和平与安全的严重威胁”。"
+        "title_zh": "“我不会因爱而死”和“Hangar rojo”，马拉加音乐节 Biznagas 的最爱",
+        "description_zh": "随着官方竞赛部分的结束（今天正在放映最新的非竞赛影片《La Familia Benetón +2》），现在是池子的时候了，粉丝们可以做出预测并确定哪些电影是他们最喜欢的，以赢得电影节的主要 Biznagas"
     },
     {
-        "article_id": "1ed2d46384bb7dc12f43beeaadd86e90",
-        "link": "https://oem.com.mx/elsoldesanluis/local/casa-muestra-de-vivienda-para-el-bienestar-en-ciudad-valles-en-que-horario-puedes-visitarla-28929277",
-        "title": "Casa muestra de Vivienda para el Bienestar en Ciudad Valles: en qué horario puedes visitarla",
-        "description": "Las viviendas disponibles tienen un costo muy por debajo del valor de mercado, de 600 mil a 650 mil pesos máximo",
+        "article_id": "2c5fb8f91931729125adec33fdf646d6",
+        "link": "https://oem.com.mx/elsoldepuebla/local/se-recaudaron-168-mil-pesos-por-parquimetros-diariamente-en-puebla-capital-durante-febrero-28949850",
+        "title": "Se recaudaron 168 mil pesos por parquímetros diariamente en Puebla capital durante febrero",
+        "description": "Las cifras oficiales señalan que más del 94.9% de los usuarios se concentraron en estancias de entre una y tres horas",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
             "local"
         ],
         "creator": [
-            "mayra tristán"
+            "jared carcaño"
         ],
         "language": "spanish",
         "country": [
@@ -702,16 +600,16 @@
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-12 17:05:39",
+        "pubDate": "2026-03-13 17:02:38",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 22:18:51",
-        "image_url": "https://oem.com.mx/elsoldesanluis/img/28813045/1772806110/BASE_LANDSCAPE/1200/image.jpg",
+        "fetched_at": "2026-03-13 22:11:38",
+        "image_url": "https://oem.com.mx/elsoldepuebla/img/23085254/1746195313/BASE_LANDSCAPE/1200/image.jpg",
         "video_url": null,
-        "source_id": "elsoldesanluis_mx",
-        "source_name": "Elsoldesanluis Mx",
-        "source_priority": 972129,
-        "source_url": "https://www.elsoldesanluis.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldesanluis_mx_.jpg",
+        "source_id": "elsoldepuebla_mx",
+        "source_name": "El Sol De Puebla",
+        "source_priority": 167831,
+        "source_url": "https://www.elsoldepuebla.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldepuebla_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -719,20 +617,176 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "巴耶斯城福利住房样板房：什么时候可以参观？",
-        "description_zh": "可用房屋的成本远低于市场价值，最高为 60 万至 65 万比索"
+        "title_zh": "2月份，普埃布拉首府的停车计时器每天收取16.8万比索的费用",
+        "description_zh": "官方数据显示，超过94.9%的用户停留时间集中在1-3小时之间"
     },
     {
-        "article_id": "e233299ce9c78b7550be897548bd9608",
-        "link": "https://www.adn40.mx/ciudad/2026-03-12/tarjeta-violeta-convocatoria-para-recibir-15-mil-pesos-requisitos/",
-        "title": "Lanzan convocatoria para recibir la Tarjeta Violeta, el apoyo de 15 mil pesos",
-        "description": "La tarjeta violeta de la alcaldía Cuauhtémoc no solo entrega un apoyo económico, sino también acceso a jornadas de salud.",
+        "article_id": "d3e2cb13013fd05d0131e4ec9b12e540",
+        "link": "https://www.elnorte.com/reabre-monterrey-carril-expres-de-morones-tras-reparacion/ar3168994",
+        "title": "Reabre Monterrey carril exprés de Morones tras reparación",
+        "description": "Tras el tira-tira con Estado, Monterrey reabre carril exprés de Morones luego de que empresa responsable reparó daño causado por obra de L4.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "el norte/staff"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:40:02",
+        "image_url": "https://img.gruporeforma.com/imagenes/960x640/7/146/6145271.jpg",
+        "video_url": null,
+        "source_id": "elnorte",
+        "source_name": "Elnorte",
+        "source_priority": 107502,
+        "source_url": "https://www.elnorte.com",
+        "source_icon": "https://n.bytvi.com/elnorte.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "蒙特雷莫罗内斯快速通道修复后重新开放",
+        "description_zh": "经过与政府的拉锯战，蒙特雷在责任公司修复了 L4 工程造成的损坏后重新开放了莫罗内斯快速通道。"
+    },
+    {
+        "article_id": "091013e08ba05e0e33224860b98f7ef0",
+        "link": "https://www.elnorte.com/abre-monterrey-carril-expres-de-morones/ar3168994",
+        "title": "Abre Monterrey carril exprés de Morones",
+        "description": "Tras el tira-tira con Estado, Monterrey reabre carril exprés de Morones luego de que empresa responsable reparó daño causado por obra de L4.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "el norte/staff"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment",
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:10:21",
+        "image_url": "https://img.gruporeforma.com/imagenes/960x640/7/146/6145268.jpg",
+        "video_url": null,
+        "source_id": "elnorte",
+        "source_name": "Elnorte",
+        "source_priority": 107502,
+        "source_url": "https://www.elnorte.com",
+        "source_icon": "https://n.bytvi.com/elnorte.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "蒙特雷开通莫罗内斯快速通道",
+        "description_zh": "经过与政府的拉锯战，蒙特雷在责任公司修复了 L4 工程造成的损坏后重新开放了莫罗内斯快速通道。"
+    },
+    {
+        "article_id": "7a70b1bca551b876426384a9edcc8bf9",
+        "link": "https://www.marca.com/futbol/premier-league/2026/03/13/reece-james-renueva-chelsea-2032.html",
+        "title": "Reece James renueva con el Chelsea",
+        "description": "El capitán de los 'Blues' seguirá siendo el jugador mejor pagado de la plantilla",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "ciudad"
+            "premier league"
         ],
         "creator": [
-            "adriana.pacheco@tvazteca.com.mx (adriana pacheco)"
+            "césar burgos"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:33",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:35:25",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/uploads/2026/03/13/69b4421eb32bd.jpeg",
+        "video_url": null,
+        "source_id": "marca",
+        "source_name": "Marca Claro",
+        "source_priority": 426,
+        "source_url": "https://www.marca.com",
+        "source_icon": "https://n.bytvi.com/marca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "里斯·詹姆斯与切尔西续约",
+        "description_zh": "“蓝军”队长将继续成为队内收入最高的球员"
+    },
+    {
+        "article_id": "1d20463bb39efb95c27dc878a60fed4e",
+        "link": "https://www.diario-deportes.com/futbol/actualizacion-sobre-lesiones-de-alexander-isak-y-alisson-fitness/242850/",
+        "title": "Actualización sobre lesiones de Alexander Isak y Alisson Fitness",
+        "description": "Arne Slot nos ha proporcionado información actualizada sobre las lesiones de Alexander Isak y Alisson, y ahora tenemos la fecha para el partido de cuartos de final de la Copa FA del Liverpool contra el Man City. Actualización sobre la lesión de Alexander Isak Desde que se fracturó la pierna mientras marcaba contra el Tottenham [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "benito garcía"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-13 17:02:33",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-13 17:33:29",
+        "image_url": "https://www.diario-deportes.com/wp-content/uploads/2026/03/ROUNDUP-COLLAGE-136.jpg",
+        "video_url": null,
+        "source_id": "diariodeportes",
+        "source_name": "Diario Deportes",
+        "source_priority": 5090,
+        "source_url": "http://diario-deportes.com",
+        "source_icon": "https://n.bytvi.com/diariodeportes.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "亚历山大·伊萨克和阿利森健身伤病更新",
+        "description_zh": "阿恩·斯洛特向我们通报了亚历山大·伊萨克和阿利森伤病的最新情况，现在我们知道了利物浦足总杯四分之一决赛对阵曼城的比赛日期。亚历山大·伊萨克 (Alexander Isak) 伤情更新，因为他在比赛中摔断了腿"
+    },
+    {
+        "article_id": "af487c1c7e85224a305b12fe69af01e6",
+        "link": "https://www.adn40.mx/es-tendencia/2026-03-13/la-historia-richard-un-repartidor-que-tiene-casi-80-anos/",
+        "title": "La historia de Richard, un repartidor que tiene casi 80 años",
+        "description": "La historia de Richard, repartidor de casi 80 años se hizo viral en redes sociales.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "es tendencia"
+        ],
+        "creator": [
+            "itandehui.cervantes@tvazteca.com.mx (itandehui cervantes)"
         ],
         "language": "spanish",
         "country": [
@@ -742,10 +796,10 @@
             "world"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-12 17:05:38",
+        "pubDate": "2026-03-13 17:02:31",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:13:11",
-        "image_url": "https://tvazteca.brightspotcdn.com/1c/b3/a1d1c59b449eb3a10c429b3b2925/tarjeta-violeta-cuauhtemoc.jpg",
+        "fetched_at": "2026-03-13 17:13:10",
+        "image_url": "https://tvazteca.brightspotcdn.com/e0/63/f06bd007407cbc6f5e097f12f6f8/adultos-mayores-mexico-2026-portada-1300-x-732-px.webp",
         "video_url": null,
         "source_id": "adn40",
         "source_name": "Adn40",
@@ -759,95 +813,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们发起呼吁，领取紫罗兰卡，即 15,000 比索的支持",
-        "description_zh": ""
-    },
-    {
-        "article_id": "d71d055597df4e9ce5596dac4f9f1fd2",
-        "link": "https://www.lajornadadeoriente.com.mx/puebla/bazar-salvajes-creadoras-arte-mujeres-parque-del-carmen/",
-        "title": "Alistan Salvajes creadoras, bazar para visibilizar y valorar el trabajo artístico de mujeres",
-        "description": "El bazar Salvajes creadoras no sólo es una forma de exponer a un conjunto de creadoras locales que buscan dar a conocer su trabajo en fotografía, cerámica, textil, reciclado, tejido, grabado, serigrafía, joyería y gastronomía, entre otras disciplinas más. Salvajes creadoras es también una manera de exigir que exista una mayor visibilización y valorización del trabajo artístico de las mujeres, a la par de expresar la necesidad que existe por ocupar el espacio público.Programado para el sábado 14 y el domingo 15 de marzo de 11 a 19 horas en el parque de El Carmen -ubicado entre las calles 17 Oriente y la 16 de Septiembre, en el Centro Histórico de Puebla-, el bazar es organizado por Salvajes Viajeras, una colectiva conformada hace más de cinco años e integrada por creadoras de Puebla y Estado de México que busca promocionar y gestionar el arte de mujeres a nivel nacional.El bazar Salvajes creadoras, indica Victoria González, una de las fundadoras de la colectiva, busca ser el primero de varios proyectos que tengan continuidad y se desarrollen más allá del mes de marzo, considerado el Mes de la mujer por englobar el 8 de marzo, Día internacional de las mujeres.El bazar, que se suma a otros proyectos como Raya, dedicado al muralismo femenil, así como talleres y espacios para artistas urbanas, es una respuesta a la necesidad que tienen como creadoras para tener un espacio donde movilizar su trabajo, que éste sea visto y pueda ser adquirido por el público.“Como creadoras independientes no tenemos muchos lugares donde mostrar el trabajo. Hay bazares, pero sus organizadores suelen estar interesados en que la ganancia sea solo para ellos. En tiendas, aunque se nos facilita estar en ellas, cobran un porcentaje alto por la exhibición”, relata la artista durante una breve entrevista telefónica.Añade que, por tanto, el bazar Salvajes creadoras es un proyecto autogestivo e independiente que se ha organizado por entusiasmo de sus participantes, quienes han rentado el mobiliario e incluso se han hecho cargo de la vigilancia del lugar donde permanecerán durante dos días.Consulta: El pulque, los fósiles y las biznagas gigantes animan la visita al Eco Festival de Zapotitlán SalinasEn ese sentido, la artista refiere que el único “trato” que la colectiva ha establecido con las instituciones, en este caso el gobierno local, ha sido “el permiso” de ocupar el parque del Carmen, pese a que es un espacio público. De lo que se trata, afirma, es de “generar espacios de forma independiente” para las mujeres creadoras.Sobre todo, continúa, porque persiste la desigualdad y la invisibilización del trabajo artístico hecho por mujeres. Como ejemplo, recuerda que, en una reciente participación para realizar una acción mural en la Arena Puebla, de 15 artistas solamente tres fueron mujeres.A la desigualdad y la poca visibilidad, agrega González, se suma la pauperización y la poca dignificación de la labor creativa de las mujeres. En ese sentido, recuerda que recientemente la Secretaría de Arte y Cultura le abrió la puerta para dar un taller de cartel que sí tenía “un presupuesto digno”, no obstante, al final por “un recorte”, la dependencia ofreció pagar menos de la mitad de lo ofrecido, ello sin contar los materiales.“El trabajo artístico de las mujeres merece respeto y un trato digno. Sobre todo, que se abran los espacios y no sólo a proyectos a modo, sino a los que sean críticos”, pidió la artista urbana y muralista.En el bazar Salvajes creadoras participarán artistas y proyectos como Tierrapinta, La Hash, Pixeles Muertos, Rebelpress, Un jardín, María Maya de Kalpoli, La caja de sorpresas, Tonanzin Tlalli medicina Ancestral, Lilián Gómez (Niña Diablo), Freida.mx, Macabria, Suave Mutante y la propia Victoria González (Santa merca).Para cualquier duda o información se puede escribir al correo electrónico salvajesviajeras@gmail.com o visitar el sitio https://www.instagram.com/salvajes_viajeras/Lee: Una jornada de huapango, centro del Festival Cultural de la Sierra de PahuatlánLa entrada Alistan Salvajes creadoras, bazar para visibilizar y valorar el trabajo artístico de mujeres aparece primero en La Jornada de Oriente.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "puebla",
-            "arte de mujeres",
-            "cultura",
-            "artistas independientes",
-            "parque del carmen",
-            "centro histórico de puebla",
-            "bazar autogestivo",
-            "salvajes viajeras"
-        ],
-        "creator": [
-            "paula carrizosa"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:05:31",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 17:49:42",
-        "image_url": "https://www.lajornadadeoriente.com.mx/wp-content/uploads/2026/03/Copia-de-IMAGENES-NOTAS-1365-x-768-px-46.jpg",
-        "video_url": null,
-        "source_id": "lajornadadeoriente_mx",
-        "source_name": "Lajornadadeoriente Mx",
-        "source_priority": 981450,
-        "source_url": "https://www.lajornadadeoriente.com.mx",
-        "source_icon": "https://n.bytvi.com/lajornadadeoriente_mx.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Alistan Salvajes 创作者，集市让人们看到并重视女性的艺术作品",
-        "description_zh": "Savage Creators 集市不仅是展示一群当地创作者的一种方式，他们寻求宣传他们在摄影、陶瓷、纺织、回收、编织、雕刻、丝网印刷、珠宝和美食等领域的作品。狂野的创作者也是一位妈妈"
-    },
-    {
-        "article_id": "1521bb3d513322b212167f6288a6d2ae",
-        "link": "https://www.elnuevosiglo.com.co/nacion/roy-barreras-elige-martha-lucia-zamora-como-formula-vicepresidencial",
-        "title": "Barreras elige a Martha Lucía Zamora como fórmula vicepresidencial",
-        "description": "Barreras elige a Martha Lucía Zamora como fórmula vicepresidencial El candidato presidencial oficializó en Cartagena la designación de la exfiscal y magistrada, destacando su vasta experiencia en las altas cortes y la defensa jurídica del Estado como pilares de su propuesta de Gobierno.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "roy barreras",
-            "martha lucia zamora"
-        ],
-        "creator": [
-            "daniela.diaz"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-12 17:05:29",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-12 18:23:42",
-        "image_url": "https://www.elnuevosiglo.com.co/sites/default/files/2026-03/Roy%20Barreras%20designa%20a%20la%20exfiscal%20Martha%20Luc%C3%ADa%20Zamora%20como%20su%20f%C3%B3rmula%20vicepresidencial.png",
-        "video_url": null,
-        "source_id": "elnuevosiglo",
-        "source_name": "El Nuevo Siglo",
-        "source_priority": 3048165,
-        "source_url": "http://elnuevosiglo.com.co",
-        "source_icon": "https://n.bytvi.com/elnuevosiglo.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "巴雷拉斯选择玛莎·卢西亚·萨莫拉作为副总统候选人",
-        "description_zh": "巴雷拉斯选择玛莎·卢西亚·萨莫拉作为副总统候选人。总统候选人任命了卡塔赫纳的前检察官和治安法官，强调她在高等法院和国家法律辩护方面的丰富经验是其政府提案的支柱。"
+        "title_zh": "快80岁的送货员理查德的故事",
+        "description_zh": "理查德是一位快 80 岁的送货司机，他的故事在社交网络上疯传。"
     }
 ]
