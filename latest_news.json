@@ -1,18 +1,25 @@
 [
     {
-        "article_id": "8b365312125def98b676e1abce734191",
-        "link": "https://www.losandes.com.ar/perpetua-el-femicida-que-asesino-su-pareja-un-baldio-las-heras-n5983905",
-        "title": "Perpetua para el femicida que asesinó a su pareja en un baldío de Las Heras",
-        "description": "En un juicio abreviado Jesús Molina admitió haber dado muerte a Flora Inés Moyano, quien murió en julio de 2025.",
+        "article_id": "36179783ca1ca2024a463f7301bbdd36",
+        "link": "https://diariopanorama.com/noticia/545865/corazon-solidario-santiaguenos-organizan-colectas-para-ayudar-damnificados-inundaciones",
+        "title": "El corazón solidario de los santiagueños: organizan colectas para ayudar a los damnificados por las inundaciones",
+        "description": "Organizaciones sociales, agrupaciones y vecinos de diferentes barrios impulsan campañas solidarias para reunir alimentos, ropa y elementos de primera necesidad destinados a las familias afectadas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "femicidio",
-            "las heras",
-            "juicio abreviado",
-            "prisión perpetua"
+            "corazon",
+            "inundaciones",
+            "diario panorama",
+            "organizan",
+            "damnificados",
+            "santiaguenos",
+            "solidario",
+            "locales",
+            "para",
+            "colectas",
+            "ayudar"
         ],
         "creator": [
-            "redacción policiales"
+            "redacción diario panorama"
         ],
         "language": "spanish",
         "country": [
@@ -23,16 +30,16 @@
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:03:00",
+        "pubDate": "2026-03-14 17:45:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:40:06",
-        "image_url": "https://media.losandes.com.ar/p/91777f7c3c4bc83b1bc71e3a7176c950/adjuntos/368/imagenes/100/640/0100640145/1200x675/smart/flora-ines-moyano-sexta-victima-femicidio-mendoza-lo-que-va-del-2025-fue-detenido-el-reincidente-walter-molina-que-tenia-salidas-transitorias.jpg",
+        "fetched_at": "2026-03-14 21:05:57",
+        "image_url": "https://diariopanorama.com/fotos/cache/notas/2026/03/14/1010x567_colectas-para-inundados-545865-174547.jpg",
         "video_url": null,
-        "source_id": "losandes",
-        "source_name": "Los Andes",
-        "source_priority": 114641,
-        "source_url": "https://www.losandes.com.ar",
-        "source_icon": "https://n.bytvi.com/losandes.png",
+        "source_id": "diariopanorama",
+        "source_name": "Diario Panorama",
+        "source_priority": 31285,
+        "source_url": "https://diariopanorama.com",
+        "source_icon": "https://n.bytvi.com/diariopanorama.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -40,39 +47,46 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "在拉斯赫拉斯的一块空地上谋杀了他的伴侣的杀戮女性者的生命",
-        "description_zh": "在一次简短的审判中，赫苏斯·莫利纳承认杀害了弗洛拉·伊内斯·莫亚诺，后者于 2025 年 7 月去世。"
+        "title_zh": "圣地亚哥人民的团结之心：他们组织募捐来帮助受洪水影响的人们",
+        "description_zh": "社会组织、团体和不同社区的居民发起团结运动，为受影响家庭筹集食物、衣服和基本必需品。"
     },
     {
-        "article_id": "ad6bf8669e0060ec25ad0f51e9d54032",
-        "link": "https://www.losandes.com.ar/policiales/versiones-cruzadas-el-incendio-del-casino-el-911-aseguran-que-bomberos-voluntarios-san-martin-se-habian-declarado-fuera-servicio-n5983906",
-        "title": "Versiones cruzadas por el incendio del casino: desde el 911 aseguran que Bomberos Voluntarios de San Martín se habían declarado fuera de servicio",
-        "description": "Fuentes vinculadas al sistema de emergencias sostienen que el cuartel habría informado la mañana del miércoles que no estaba operativo. La versión surge luego del reclamo público realizado por la asociación de bomberos voluntarios.",
+        "article_id": "39a4f611b7d171da0ff27cf5c518a12e",
+        "link": "https://www.infobae.com/movant/2026/03/14/la-logistica-del-petroleo-los-corredores-que-sostienen-la-energia-global/",
+        "title": "La logística del petróleo: los corredores que sostienen la energía global",
+        "description": "Más del 70% del petróleo comercializado internacionalmente se transporta por mar. Rutas estratégicas como Ormuz, Malaca o Suez concentran el flujo energético global, lo que las vuelve fichas geopolíticas clave",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "policiales"
+            "geopolítica",
+            "logística",
+            "petróleo",
+            "comercio exterior"
         ],
         "creator": [
-            "enrique pfaab"
+            "infobae"
         ],
         "language": "spanish",
         "country": [
+            "united states of america",
+            "colombia",
+            "mexico",
             "argentina"
         ],
         "category": [
-            "top"
+            "top",
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:03:00",
+        "pubDate": "2026-03-14 17:45:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:40:09",
-        "image_url": "https://media.losandes.com.ar/p/141c3e1084231ea1eef4738b64366ba9/adjuntos/368/imagenes/100/698/0100698630/1200x675/smart/incendio-2.jpg",
+        "fetched_at": "2026-03-14 18:00:45",
+        "image_url": "https://www.infobae.com/resizer/v2/7A5A4PVGONGYBIOFZEFLO4B4HE.jpeg?auth=b4bba0723b1d610081901dcc52c9570bfa3015ade281404dbb7ab80e1a415bbd&height=1024&smart=true&width=1536",
         "video_url": null,
-        "source_id": "losandes",
-        "source_name": "Los Andes",
-        "source_priority": 114641,
-        "source_url": "https://www.losandes.com.ar",
-        "source_icon": "https://n.bytvi.com/losandes.png",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -80,114 +94,179 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "赌场火灾的交叉版本：从911起，他们声称圣马丁志愿消防员已宣布退役",
-        "description_zh": "与应急系统有关的消息人士坚称，军营周三上午报告说该系统无法运行。该版本是在志愿消防员协会提出公众投诉后出现的。"
+        "title_zh": "石油物流：支持全球能源的走廊",
+        "description_zh": "国际贸易石油70%以上通过海运。霍尔木兹、马六甲、苏伊士等战略路线集中全球能源流，是重要的地缘政治筹码"
     },
     {
-        "article_id": "059ee0e1ab00071c99062850985c89b5",
-        "link": "https://www.laopinioncoruna.es/ocio/cine/2026/03/13/morire-amor-hangar-rojo-grandes-favoritas-biznagas-festival-cine-malaga-127935064.html",
-        "title": "'Yo no moriré de amor' y 'Hangar rojo', grandes favoritas a las Biznagas del Festival de Málaga",
-        "description": "Con la Sección Oficial a Concurso finiquitada (hoy se proyecta la última película, fuera de competición, 'La Familia Benetón +2'), es tiempo de quinielas, de que los aficionados hagan sus pronósticos y determinen qué películas son sus favoritas para llevarse las principales Biznagas del Festival de Málaga. Hay tres grandes favoritas entre las 21 cintas programadas por el certamen: el debut de Marta Matute, 'Yo no moriré de amor'; 'La buena hija', de Júlia de Paz, e 'Iván & Hadoum', de Ian de la Rosa. En el apartado latinoamericano destacan especialmente 'Hangar rojo', del chileno Juan Pablo Sallato, y la argentina 'La mujer de la fila', de Benjamín Ávila.",
+        "article_id": "9decfcd84954fcd32bed0f4d148104ae",
+        "link": "https://www.elonce.com/policiales/mantienen-medidas-de-seguridad-para-tavi-celis-y-amplian-beneficios-en-prision.htm",
+        "title": "Supuesto plan criminal: mantienen medidas en prisión para Tavi Celis y amplían beneficios",
+        "description": "La Justicia federal mantuvo las medidas de seguridad para Tavi Celis en la cárcel de Paraná y autorizó recreos, visitas familiares y el ingreso de una heladera.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "actriz",
-            "películas",
-            "festival de cine de málaga"
+            "unidad penal",
+            "tavi celis",
+            "leonardo airaldi"
         ],
         "creator": [
-            "víctor a. gómez"
+            "redacción elonce"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top"
+            "top",
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:02:46",
+        "pubDate": "2026-03-14 17:45:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:08:48",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32dabd98-3ee8-45f3-a7c1-fb5a50402d43_16-9-aspect-ratio_default_0_x680y203.jpg",
+        "fetched_at": "2026-03-14 18:48:46",
+        "image_url": "https://elonce-media.elonce.com/fotos/2024/11/29/m_1732867841_9505.webp",
         "video_url": null,
-        "source_id": "laopinioncoruna",
-        "source_name": "La Opinión A Coruña",
-        "source_priority": 50098,
-        "source_url": "https://www.laopinioncoruna.es",
-        "source_icon": "https://n.bytvi.com/laopinioncoruna.png",
+        "source_id": "elonce",
+        "source_name": "Elonce",
+        "source_priority": 1130131,
+        "source_url": "https://www.elonce.com",
+        "source_icon": "https://n.bytvi.com/elonce.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "“我不会因爱而死”和“Hangar rojo”，马拉加音乐节 Biznagas 的最爱",
-        "description_zh": "随着官方竞赛部分的结束（今天正在放映最新的非竞赛影片《La Familia Benetón +2》），现在是池子的时候了，粉丝们可以做出预测并确定哪些电影是他们最喜欢的，以赢得电影节的主要 Biznagas"
+        "duplicate": false,
+        "title_zh": "涉嫌犯罪计划：他们维持塔维·塞利斯的监狱措施并扩大福利",
+        "description_zh": "联邦司法部维持巴拉那监狱塔维·赛利斯的安全措施，并授权休息、家人探视和进入冰箱。"
     },
     {
-        "article_id": "304aa8e6324be1939fb9aef65c0b973b",
-        "link": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/03/sbt-diz-que-resolveu-polemica-de-ratinho-com-erika-hilton-e-trata-caso-como-solucionado.shtml",
-        "title": "SBT diz que resolveu polêmica de Ratinho com Erika Hilton e trata caso como solucionado",
-        "description": "SBT diz que resolveu polêmica de Ratinho com Erika Hilton e trata caso como solucionado",
+        "article_id": "cbb6e0e480d38fdb58a9ff689122dc6a",
+        "link": "https://www.surenio.com.ar/menor-de-16-anos-demorado-por-robo-con-cuchillo/",
+        "title": "Menor de 16 años demorado por robo con un cuchillo",
+        "description": "Un hecho delictivo ocurrió en la noche del viernes en un sector de la Margen Sur de Río Grande. Un adolescente había robado en un comercio y amenazado a una... La entrada Menor de 16 años demorado por robo con un cuchillo se publicó primero en Diario El Sureño.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "#fofices",
-            "vídeos",
-            "celebridades",
-            "estranho",
-            "fofices",
-            "televisão",
-            "sbt",
-            "horóscopo",
-            "humor",
-            "colunistas",
-            "tudo",
-            "humanos",
-            "estranho!",
-            "eu amo",
-            "césar filho",
-            "celso portiolli",
-            "bichos"
+            "policiales",
+            "y amenazo con un cuchillo a una mujer",
+            "margen sur",
+            "al ser menor de edad fue demorado",
+            "rio grande",
+            "un adolescente robo en un comercio"
         ],
         "creator": [
-            "gabriel vaquer"
+            "diario el sureño"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-14 17:44:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-14 17:51:20",
+        "image_url": "https://www.surenio.com.ar/wp-content/uploads/2026/03/rrrr.jpg",
+        "video_url": null,
+        "source_id": "surenio_ar",
+        "source_name": "Diario El Sureño",
+        "source_priority": 2233889,
+        "source_url": "https://www.surenio.com.ar",
+        "source_icon": "https://n.bytvi.com/surenio_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "16岁以下未成年人持刀抢劫被拘留",
+        "description_zh": "周五晚上，里奥格兰德南岸的一个地区发生了一起犯罪事件。一名青少年抢劫了一家企业并威胁... 16 岁以下未成年人因持刀抢劫而被拘留的条目首次发表在《Diario El Sureño》上。"
+    },
+    {
+        "article_id": "5ffe02c2ddca88aae2732c021abb96cb",
+        "link": "https://www.diariodocentrodomundo.com.br/por-que-vorcaro-foi-transferido-para-ala-medica-da-penitenciaria-federal/",
+        "title": "Por que Vorcaro foi transferido para ala médica da penitenciária federal",
+        "description": "O ex-banqueiro Daniel Vorcaro, ligado ao Banco Master, foi transferido na sexta-feira (13) da cela de isolamento para a ala de saúde da Penitenciária Federal em Brasília. A mudança ocorreu por decisão da administração do presídio com o objetivo de aumentar o monitoramento e garantir a segurança do detento dentro do sistema penitenciário federal. De [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "sicário mourão morte",
+            "escândalo banco master",
+            "penitenciária federal brasília",
+            "corrupção sistema financeiro",
+            "stf prisão preventiva",
+            "banqueiro preso brasil",
+            "brasil",
+            "transferência para ala médica",
+            "ala médica presídio federal",
+            "decisão stf vorcaro",
+            "crise no caso banco master",
+            "daniel vorcaro",
+            "prisão daniel vorcaro",
+            "monitoramento em presídio federal",
+            "caso vorcaro pf",
+            "sistema penitenciário federal brasil",
+            "caso banco master investigação",
+            "andré mendonça stf",
+            "destaques",
+            "presídio de segurança máxima brasil",
+            "segurança em presídio federal",
+            "integridade física preso",
+            "relações financeiras políticos",
+            "luiz fux kassio nunes marques",
+            "prisão de empresário brasil",
+            "investigação financeira brasil",
+            "segunda turma stf",
+            "nomes citados por vorcaro",
+            "noblat vorcaro",
+            "aliado de vorcaro",
+            "políticos citados por vorcaro",
+            "banco master",
+            "delação banco master"
+        ],
+        "creator": [
+            "guilherme arandas"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
+            "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:02:41",
+        "pubDate": "2026-03-14 17:44:46",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:02:41",
-        "image_url": "https://f.i.uol.com.br/fotografia/2019/06/24/15614286845d1182cc1f4e4_1561428684_3x2_rt.jpg",
+        "fetched_at": "2026-03-14 18:07:17",
+        "image_url": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/03/imagens-cn-31.webp",
         "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://n.bytvi.com/uol.png",
+        "source_id": "diariodocentrodomundo",
+        "source_name": "Dcm",
+        "source_priority": 46634,
+        "source_url": "https://www.diariodocentrodomundo.com.br",
+        "source_icon": "https://n.bytvi.com/diariodocentrodomundo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "SBT 表示已解决了拉蒂尼奥与埃里卡·希尔顿的争议，并将此案视为已解决",
-        "description_zh": "SBT 表示已解决了拉蒂尼奥与埃里卡·希尔顿的争议，并将此案视为已解决"
+        "duplicate": false,
+        "title_zh": "为什么沃卡罗被转移到联邦监狱的医疗部门",
+        "description_zh": "与 Banco Master 有联系的前银行家 Daniel Vorcaro 于周五（13 日）从隔离牢房转移到巴西利亚联邦监狱的卫生部门。这一变化是监狱管理部门决定的，目的是加强监控并确保安全"
     },
     {
-        "article_id": "aa07fdfb4ee8dd845518a1891d7963ab",
-        "link": "https://www.uol.com.br/esporte/ultimas-noticias/2026/03/13/flamengo-enfrenta-independiente-medellin-na-libertadores-sub-20-com-transmissao-do-canal-uol-e-uol-play.htm",
-        "title": "Flamengo x Independiente Medellín na Libertadores Sub-20: onde assistir?",
-        "description": "Flamengo enfrenta Independiente Medellín na Libertadores Sub-20 nesta sexta (13), às 21h, com transmissão ao vivo pelo Canal UOL, UOL Play e YouTube.",
+        "article_id": "4e734a23849282ad6d36047f9ddcf24b",
+        "link": "https://odocumento.com.br/estudo-mostra-que-mais-de-700-pessoas-vivem-em-area-de-risco-na-fronteira-de-mt/",
+        "title": "Estudo mostra que mais de 700 pessoas vivem em área de risco na fronteira de MT",
+        "description": "DESASTRES AMBIENTAIS",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "cidades"
+        ],
         "creator": [
             "redação"
         ],
@@ -196,19 +275,20 @@
             "brazil"
         ],
         "category": [
+            "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:02:33",
+        "pubDate": "2026-03-14 17:44:43",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:02:33",
-        "image_url": "https://conteudo.imguol.com.br/c/galeria/63/2026/03/13/flamengo-libertadores-sub-20-1773411844050_v2_615x300.jpg",
+        "fetched_at": "2026-03-14 17:54:10",
+        "image_url": "https://odocumento.com.br/content/images/2026/03/180f4e3ac8e568ffdb53889bec5de3a0.jpg",
         "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://n.bytvi.com/uol.png",
+        "source_id": "odocumento",
+        "source_name": "O Documento",
+        "source_priority": 6912852,
+        "source_url": "https://odocumento.com.br",
+        "source_icon": "https://n.bytvi.com/odocumento.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -216,18 +296,59 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "弗拉门戈队与麦德林独立队的 U20 解放者杯比赛：在哪里观看？",
-        "description_zh": "本周五（13 日）晚上 9 点，弗拉门戈将在 U20 解放者杯中迎战麦德林独立队，Canal UOL、UOL Play 和 YouTube 进行现场直播。"
+        "title_zh": "研究显示超过700人居住在MT边境的危险地区",
+        "description_zh": "环境灾难"
     },
     {
-        "article_id": "83d480903fda4add0372a8bb42375ed0",
-        "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/03/13/quem-e-o-blogueiro-do-ma-alvo-do-stf.htm",
-        "title": "Alvo da PF por suposta perseguição a Dino já foi preso por extorsão em 2017",
-        "description": "Alvo da PF por suposta perseguição a Dino já foi preso por extorsão",
+        "article_id": "837575bbd65acd873ca51a9ae5e488e4",
+        "link": "https://atarde.com.br/politica/internautas-resgatam-fala-de-flavio-apos-piora-de-bolsonaro-1382663",
+        "title": "Internautas resgatam fala de Flávio após piora de Bolsonaro",
+        "description": "Internautas recuperaram uma fala do senador Flávio Bolsonaro (PL) sobre políticos presos que alegam problemas graves de saúde para \"saírem da cadeia\". A fala do filho do ex-presidente vem à tona nas redes sociais após uma piora do funcionamento dos rins de Jair Bolsonaro (PL), neste sábado, 14, O comentário foi feito no ano de 2017, um ano antes de Jair Bolsonaro ser eleito, no X, antigo Twitter, acompanhada de uma votação.Comentário polêmico“Políticos corruptos têm alegado problemas graves de saúde para saírem da cadeia. Você é a favor de cemitérios ao lado das carceragens da Polícia Federal para que o Estado gaste menos com o transporte dos corpos? SIM ou NÃO” Diz o filho do ex-presidente do Brasil.A votação que acompanha a postagem possui uma adesão de 96,1% na alternativa “SIM”.Políticos corruptos têm alegado problemas graves de saúde para saírem da cadeia. Você é a favor de cemitérios ao lado das carceragens da Polícia Federal para que o Estado gaste menos com o transporte dos corpos?— Flávio Bolsonaro (@FlavioBolsonaro) December 22, 2017Internautas zombam de situaçãoApós uma série de complicações de saúde apresentadas por Jair Bolsonaro depois de ser preso, incluindo o diagnóstico de Broncopneumonia feito nesta sexta-feira, 13, internautas comentaram em tom irônico.“Igual ao teu pai agora, né? Que ironia da vida! Kkkkk Manda logo construir um cemitério ao lado da sede da PF, em Brasília!”, disse um delesOutro utilizou uma comparação com Nostradamus, famoso astrólogo francês conhecido por fazer previsões. “Eita, nem Nostradamus conseguiu ser tão certeiro...kkkkk”.Estado de saúde de BolsonaroNeste sábado, o ex-presidente do Brasil, Jair Bolsonaro, apresentou uma piora no funcionamento de seus rins, conforme aponta o boletim médico divulgado pelo hospital DF Star, em Brasília, onde está internado desde a sexta-feira, 13.Ele segue internado na UTI com uma elevação dos marcadores inflamatórios.Porém, o informe aponta que Bolsonaro está clinicamente estável e seguirá realizando tratamentos com antibióticos. Ainda não há previsão de alta da UTI.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "política"
+        ],
+        "creator": [
+            "gustavo zambianco"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-14 17:44:07",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-14 21:07:26",
+        "image_url": "https://cdn.atarde.com.br/img/Artigo-Destaque/1380000/flavio-bolsonaro-adota-pronome-neutro-em-publicaca0138066100202602231923.jpg?xid=7015744",
+        "video_url": null,
+        "source_id": "atarde",
+        "source_name": "A Tarde",
+        "source_priority": 57528,
+        "source_url": "https://www.atarde.com.br",
+        "source_icon": "https://n.bytvi.com/atarde.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "博尔索纳罗局势恶化后，互联网用户挽救了弗拉维奥的讲话",
+        "description_zh": "互联网用户检索了参议员弗拉维奥·博尔索纳罗（PL）的一篇演讲，内容涉及被监禁的政客，他们声称有严重的健康问题以“出狱”。贾尔·博尔索纳罗 (PL) 肾脏功能恶化后，前总统儿子的演讲于本周六 1"
+    },
+    {
+        "article_id": "7f3de1f4b9b1c0cf1bcadf628dd486ca",
+        "link": "https://tribunadepetropolis.com.br/noticias/zoologico-de-sao-paulo-recebe-quatro-cangurus-vermelhos/",
+        "title": "Zoológico de São Paulo recebe quatro cangurus-vermelhos",
+        "description": "A partir deste sábado, 14, visitantes do Zoológico de São Paulo podem conhecer Theca, Luiza, Pipoca e Boomer. Os quatro cangurus-vermelhos – três fêmeas e um macho – chegaram do Texas, Estados Unidos, no começo do mês como parte das comemorações de 68 anos do local, celebrados na próxima segunda, 16. A espécie é originária [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "carlos madeiro"
+            "nanny cox / estadão"
         ],
         "language": "portuguese",
         "country": [
@@ -237,123 +358,9 @@
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:02:28",
+        "pubDate": "2026-03-14 17:44:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:02:28",
-        "image_url": "https://conteudo.imguol.com.br/c/noticias/bc/2026/03/13/jornalista-luis-pablo-1773410683025_v2_615x300.jpg",
-        "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://n.bytvi.com/uol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "涉嫌迫害迪诺的 PF 目标已于 2017 年因敲诈勒索被捕",
-        "description_zh": "涉嫌迫害迪诺的 PF 目标已因敲诈勒索被捕"
-    },
-    {
-        "article_id": "4b44b20270a918e068725f61910e6188",
-        "link": "https://www.uol.com.br/nossa/noticias/redacao/2026/03/13/do-escape-room-ao-cemiterio-6-roles-sombrios-na-sexta-feira-13-em-sp.htm",
-        "title": "Do escape room ao cemitério, 6 rolês sombrios na Sexta-feira 13 em SP",
-        "description": "Do escape room ao cemitério: veja seis rolês sombrios na Sexta-feira 13 em São Paulo",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "glau gasparetto"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-13 17:02:19",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:02:19",
-        "image_url": "https://conteudo.imguol.com.br/c/entretenimento/15/2026/03/12/sexta-feira-13-no-escape-60-1773347171676_v2_615x300.jpg",
-        "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://n.bytvi.com/uol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "从密室逃脱到墓地，13 日星期五在 SP 举办 6 场黑暗游乐设施",
-        "description_zh": "从密室逃脱到墓地：13 日星期五在圣保罗观看六场黑暗游乐设施"
-    },
-    {
-        "article_id": "b1bba9d62c9b2c1f86d1ac9677a331d2",
-        "link": "https://www.capitalnews.com.br/politica-e-poder/executivo/servidora-e-exonerada-apos-suspeita-de-fraude-no-mais-social-em-mato-grosso-do-sul/437208",
-        "title": "Servidora é exonerada após suspeita de fraude no Mais Social em Mato Grosso do Sul",
-        "description": "O Governo de Mato Grosso do Sul, por meio da Secretaria de Estado de Assistência Social e Direitos Humanos (SEAD), instaurou um procedimento administrativo para apurar possível fraude envolvendo servidores públicos na utilização de cartões do programa Mais Social.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "viviane freitas"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-13 17:02:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:16:35",
-        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2025/11/25/800x600/1be34f245018337a7758afd8237d19cf-capitalnews-com-br.jpg",
-        "video_url": null,
-        "source_id": "capitalnews",
-        "source_name": "Capital News",
-        "source_priority": 505998,
-        "source_url": "https://www.capitalnews.com.br",
-        "source_icon": "https://n.bytvi.com/capitalnews.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "南马托格罗索州 Mais Social 的服务器因涉嫌欺诈而被解雇",
-        "description_zh": "南马托格罗索州政府通过社会援助和人权国务秘书处 (SEAD) 启动了一项行政程序，调查涉及公务员使用马斯社会计划卡的可能欺诈行为。"
-    },
-    {
-        "article_id": "41a399fa711dc968f48e08d146d4c4c9",
-        "link": "https://tribunadepetropolis.com.br/noticias/bolsonaro-esta-internado-com-broncopneumonia-bacteriana-bilateral-diz-hospital/",
-        "title": "Bolsonaro está internado com broncopneumonia bacteriana bilateral, diz hospital",
-        "description": "O hospital DF Star informou em boletim médico que o ex-presidente Jair Bolsonaro (PL) foi internado na manhã desta sexta-feira, 13, com “quadro de febre alta, queda da saturação de oxigênio, sudorese e calafrios”. Segundo os médicos, os exames confirmaram “broncopneumonia bacteriana bilateral de provável origem aspirativa”, ou seja, uma infecção bacteriana nos dois pulmões, [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "maria magnabosco / estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-13 17:02:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:45:49",
+        "fetched_at": "2026-03-14 18:14:45",
         "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
         "source_id": "tribunadepetropolis_br",
@@ -368,18 +375,58 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "医院称博尔索纳罗因双侧细菌性支气管肺炎住院",
-        "description_zh": "DF Star医院在一份医疗通报中称，前总统雅伊尔·博尔索纳罗（PL）于13日周五上午入院，症状为“高烧、血氧饱和度下降、出汗和发冷”。据医生介绍，检测结果证实“双侧细菌性支气管肺炎”"
+        "title_zh": "圣保罗动物园接收四只红袋鼠",
+        "description_zh": "从本周六（14 日）开始，圣保罗动物园的游客可以见到 Theca、Luiza、Pipoca 和 Boomer。这四只红袋鼠（三只雌性和一只雄性）于本月初从美国德克萨斯州抵达，作为该地点下周庆祝活动 68 周年庆典的一部分。"
     },
     {
-        "article_id": "458a188cb681a7131f086dc5290acd27",
-        "link": "https://tribunadepetropolis.com.br/noticias/taxas-de-fretes-maritimos-para-graos-dos-eua-sobem-com-conflito-no-oriente-medio/",
-        "title": "Taxas de fretes marítimos para grãos dos EUA sobem com conflito no Oriente Médio",
-        "description": "As taxas de frete para transporte de grãos dos Estados Unidos ao exterior estão subindo, refletindo o aumento dos custos de combustível. Em seu relatório semanal de transporte de grãos, o Departamento de Agricultura dos EUA (USDA, na sigla em inglês) informou que a taxa para transportar grãos do Golfo dos EUA para o Japão [...]",
+        "article_id": "076d5bd681325f856721f1ef316d9aac",
+        "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/03/14/zoologico-de-sao-paulo-recebe-quatro-cangurus-vermelhos.htm",
+        "title": "Zoológico de São Paulo recebe quatro cangurus-vermelhos",
+        "description": "Zoológico de São Paulo recebe quatro cangurus-vermelhos dos EUA",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "equipe ae* / estadão"
+            "estadão conteúdo"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-14 17:44:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-15 01:01:57",
+        "image_url": "https://conteudo.imguol.com.br/c/noticias/8c/2026/03/14/canguru-vermelho-no-zoologico-de-sao-paulo-1773511474756_v2_615x300.png",
+        "video_url": null,
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "圣保罗动物园接收四只红袋鼠",
+        "description_zh": "圣保罗动物园接收四只来自美国的红袋鼠"
+    },
+    {
+        "article_id": "11eaa553e6be865cb2aa3d16ea7af98c",
+        "link": "https://www.dgabc.com.br/Noticia/4290145/zoologico-de-sao-paulo-recebe-quatro-cangurus-vermelhos",
+        "title": "Zoológico de São Paulo recebe quatro cangurus-vermelhos",
+        "description": "A espécie é originária das savanas e regiões áridas da Austrália",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nacional"
+        ],
+        "creator": [
+            "agência estado"
         ],
         "language": "portuguese",
         "country": [
@@ -390,185 +437,16 @@
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:02:00",
+        "pubDate": "2026-03-14 17:44:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:45:48",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "fetched_at": "2026-03-14 18:20:55",
+        "image_url": "https://www.dgabc.com.br/Imagens/Home/Index/2026314145738.jpg?altura=100",
         "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "中东冲突导致美国谷物海运费上涨",
-        "description_zh": "从美国向海外运输谷物的运费正在上涨，反映出燃料成本的上涨。美国农业部 (USDA) 在其每周粮食运输报告中表示，粮食运输率"
-    },
-    {
-        "article_id": "453a8bd1619eb75c592d3fa448a3f148",
-        "link": "https://www.elheraldo.co/sucre/2026/03/13/dian-y-grupo-anticontrabando-de-sucre-inspeccionan-establecimientos-en-sincelejo/",
-        "title": "Dian y Grupo Anticontrabando de Sucre inspeccionan establecimientos en Sincelejo",
-        "description": "Estas acciones hacen parte de las estrategias interinstitucionales que buscan combatir el comercio ilegal y fortalecer las finanzas públicas.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "sucre",
-            "grupo-anticontrabando",
-            "establecimientos",
-            "inspeccion",
-            "sincelejo",
-            "dian"
-        ],
-        "creator": [
-            "el heraldo colombia"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-13 17:02:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:07:06",
-        "image_url": "https://www.elheraldo.co/resizer/v2/KD5DPFIYIRBWZBWH7CVMAPJ4J4.png?auth=f2bee0583836916adcd1a39d854eb900cd57d42e584738b3a62e50d2ad010dea&height=675&smart=true&width=1200",
-        "video_url": null,
-        "source_id": "elheraldo",
-        "source_name": "Elheraldo",
-        "source_priority": 38752,
-        "source_url": "https://www.elheraldo.co",
-        "source_icon": "https://n.bytvi.com/elheraldo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "迪安和苏克雷反走私小组检查辛塞莱霍的场所",
-        "description_zh": "这些行动是旨在打击非法贸易和加强公共财政的机构间战略的一部分。"
-    },
-    {
-        "article_id": "0462bc1bd5d5e7b97fcbc20e2bfe9c83",
-        "link": "https://laprensaaustral.cl/2026/03/13/consejeros-regionales-se-reunen-con-delegada-farias-y-califican-cita-como-una-reunion-de-buenas-intenciones/",
-        "title": "Consejeros regionales se reúnen con delegada Farías y califican cita como “una reunión de buenas intenciones”",
-        "description": "“Como una reunión de buenas intenciones” calificaron los consejeros regionales que la tarde del miércoles asistieron a la Casa de los Intendentes para reunirse con la delegada presidencial regional, Ericka Farías. El encuentro fue descrito como ameno y distendido, y se extendió por cerca de una hora. Hasta la cita con la máxima autoridad regional...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "crónica",
-            "consejeros regionales se reúnen con delegada farías y califican cita como “una reunión de buenas intenciones”"
-        ],
-        "creator": [
-            "la prensa austral"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-13 17:02:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:14:49",
-        "image_url": "https://cdn.lpa.cl/2026/02/4CORE-RM9-667x400.jpg",
-        "video_url": null,
-        "source_id": "laprensaaustral_cl",
-        "source_name": "La Prensa Austral",
-        "source_priority": 330673,
-        "source_url": "https://laprensaaustral.cl",
-        "source_icon": "https://n.bytvi.com/laprensaaustral_cl.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "地区议员会见代表法里亚斯，并将这次会议描述为“一次充满善意的会议”",
-        "description_zh": "“这是一次善意的会议”，周三下午出席市长官邸会见地区总统代表埃里卡·法里亚斯的地区议员如此形容。这次会议被描述为愉快和轻松，持续了大约一年"
-    },
-    {
-        "article_id": "08150eccb5752ab7a3fc6b8a97c21ec4",
-        "link": "https://www.elespectador.com/judicial/fiscalia-imputara-a-exviceministro-por-presuntas-irregularidades-en-contrato-de-helicopteros/",
-        "title": "Fiscalía imputará a exviceministro por presuntas irregularidades en contrato de helicópteros",
-        "description": "El exviceministro de Defensa Luis Edmundo Suárez abría participado en irregularidades en el contrato millonario.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "noticias hoy, noticias de colombia, helipcópteros mi-17"
-        ],
-        "creator": [
-            "el espectador"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-13 17:02:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:17:01",
-        "image_url": "https://www.elespectador.com/resizer/v2/TTDXXVH6DJCURIT2B3HZSQXZH4.jpeg?auth=5ea475de6c1694e5cefc1a2ae4342a6f876435e90c4a34db34f8aa72efa869b9&smart=true",
-        "video_url": null,
-        "source_id": "elespectador",
-        "source_name": "Elespectador.com",
-        "source_priority": 589787,
-        "source_url": "http://elespectador.com",
-        "source_icon": "https://n.bytvi.com/elespectador.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "检察官办公室将指控前副部长涉嫌直升机合同违规",
-        "description_zh": "前国防部副部长路易斯·埃德蒙多·苏亚雷斯涉嫌参与了这份价值百万美元合同的违规行为。"
-    },
-    {
-        "article_id": "b720bfcb6c3398c1ee6c6109b5e3ac52",
-        "link": "https://www.diariocordoba.com/ocio/cine/2026/03/13/morire-amor-hangar-rojo-grandes-favoritas-biznagas-festival-cine-malaga-127935066.html",
-        "title": "'Yo no moriré de amor' y 'Hangar rojo', grandes favoritas a las Biznagas del Festival de Málaga",
-        "description": "Con la Sección Oficial a Concurso finiquitada (hoy se proyecta la última película, fuera de competición, 'La Familia Benetón +2'), es tiempo de quinielas, de que los aficionados hagan sus pronósticos y determinen qué películas son sus favoritas para llevarse las principales Biznagas del Festival de Málaga. Hay tres grandes favoritas entre las 21 cintas programadas por el certamen: el debut de Marta Matute, 'Yo no moriré de amor'; 'La buena hija', de Júlia de Paz, e 'Iván & Hadoum', de Ian de la Rosa. En el apartado latinoamericano destacan especialmente 'Hangar rojo', del chileno Juan Pablo Sallato, y la argentina 'La mujer de la fila', de Benjamín Ávila.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "festival de cine de málaga",
-            "películas",
-            "actriz"
-        ],
-        "creator": [
-            "víctor a. gómez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-13 17:02:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:07:59",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32dabd98-3ee8-45f3-a7c1-fb5a50402d43_16-9-aspect-ratio_default_0_x680y203.jpg",
-        "video_url": null,
-        "source_id": "diariocordoba",
-        "source_name": "Cordoba",
-        "source_priority": 48787,
-        "source_url": "https://www.diariocordoba.com",
-        "source_icon": "https://n.bytvi.com/diariocordoba.png",
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://n.bytvi.com/dgabc.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -576,40 +454,46 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "“我不会因爱而死”和“Hangar rojo”，马拉加音乐节 Biznagas 的最爱",
-        "description_zh": "随着官方竞赛部分的结束（今天正在放映最新的非竞赛影片《La Familia Benetón +2》），现在是池子的时候了，粉丝们可以做出预测并确定哪些电影是他们最喜欢的，以赢得电影节的主要 Biznagas"
+        "title_zh": "圣保罗动物园接收四只红袋鼠",
+        "description_zh": "该物种起源于澳大利亚的稀树草原和干旱地区"
     },
     {
-        "article_id": "2c5fb8f91931729125adec33fdf646d6",
-        "link": "https://oem.com.mx/elsoldepuebla/local/se-recaudaron-168-mil-pesos-por-parquimetros-diariamente-en-puebla-capital-durante-febrero-28949850",
-        "title": "Se recaudaron 168 mil pesos por parquímetros diariamente en Puebla capital durante febrero",
-        "description": "Las cifras oficiales señalan que más del 94.9% de los usuarios se concentraron en estancias de entre una y tres horas",
+        "article_id": "39a4f611b7d171da0ff27cf5c518a12e",
+        "link": "https://www.infobae.com/movant/2026/03/14/la-logistica-del-petroleo-los-corredores-que-sostienen-la-energia-global/",
+        "title": "La logística del petróleo: los corredores que sostienen la energía global",
+        "description": "Más del 70% del petróleo comercializado internacionalmente se transporta por mar. Rutas estratégicas como Ormuz, Malaca o Suez concentran el flujo energético global, lo que las vuelve fichas geopolíticas clave",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "local"
+            "geopolítica",
+            "logística",
+            "petróleo",
+            "comercio exterior"
         ],
         "creator": [
-            "jared carcaño"
+            "infobae"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "united states of america",
+            "colombia",
+            "mexico",
+            "argentina"
         ],
         "category": [
             "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:02:38",
+        "pubDate": "2026-03-14 17:45:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 22:11:38",
-        "image_url": "https://oem.com.mx/elsoldepuebla/img/23085254/1746195313/BASE_LANDSCAPE/1200/image.jpg",
+        "fetched_at": "2026-03-14 18:00:45",
+        "image_url": "https://www.infobae.com/resizer/v2/7A5A4PVGONGYBIOFZEFLO4B4HE.jpeg?auth=b4bba0723b1d610081901dcc52c9570bfa3015ade281404dbb7ab80e1a415bbd&height=1024&smart=true&width=1536",
         "video_url": null,
-        "source_id": "elsoldepuebla_mx",
-        "source_name": "El Sol De Puebla",
-        "source_priority": 167831,
-        "source_url": "https://www.elsoldepuebla.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldepuebla_mx.png",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -617,37 +501,39 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "2月份，普埃布拉首府的停车计时器每天收取16.8万比索的费用",
-        "description_zh": "官方数据显示，超过94.9%的用户停留时间集中在1-3小时之间"
+        "title_zh": "石油物流：支持全球能源的走廊",
+        "description_zh": "国际贸易石油70%以上通过海运。霍尔木兹、马六甲、苏伊士等战略路线集中全球能源流，是重要的地缘政治筹码"
     },
     {
-        "article_id": "d3e2cb13013fd05d0131e4ec9b12e540",
-        "link": "https://www.elnorte.com/reabre-monterrey-carril-expres-de-morones-tras-reparacion/ar3168994",
-        "title": "Reabre Monterrey carril exprés de Morones tras reparación",
-        "description": "Tras el tira-tira con Estado, Monterrey reabre carril exprés de Morones luego de que empresa responsable reparó daño causado por obra de L4.",
+        "article_id": "d6befd67f14b74673c5d4b45475f369e",
+        "link": "https://durangopress.com/la-laguna/refuerzan-protocolos-por-amenazas-de-tiroteos-en-escuelas-219950",
+        "title": "Refuerzan protocolos por amenazas de tiroteos en escuelas",
+        "description": "El objetivo es garantizar la seguridad en las escuelasThe post Refuerzan protocolos por amenazas de tiroteos en escuelas appeared first on Durango PRESS.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "la laguna"
+        ],
         "creator": [
-            "el norte/staff"
+            "rosalba lópez g. / corresponsal"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top"
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:02:34",
+        "pubDate": "2026-03-14 17:44:53",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:40:02",
-        "image_url": "https://img.gruporeforma.com/imagenes/960x640/7/146/6145271.jpg",
+        "fetched_at": "2026-03-14 17:55:06",
+        "image_url": "https://durangopress.com/wp-content/uploads/2026/03/Autoridades-educativas-y-de-seguridad-refuerzan-protocolos-por-amenazas-de-tiroteos-300x225.jpeg",
         "video_url": null,
-        "source_id": "elnorte",
-        "source_name": "Elnorte",
-        "source_priority": 107502,
-        "source_url": "https://www.elnorte.com",
-        "source_icon": "https://n.bytvi.com/elnorte.png",
+        "source_id": "durangopress",
+        "source_name": "Durango Press",
+        "source_priority": 16019617,
+        "source_url": "https://durangopress.com",
+        "source_icon": "https://n.bytvi.com/durangopress.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -655,111 +541,32 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "蒙特雷莫罗内斯快速通道修复后重新开放",
-        "description_zh": "经过与政府的拉锯战，蒙特雷在责任公司修复了 L4 工程造成的损坏后重新开放了莫罗内斯快速通道。"
+        "title_zh": "由于学校枪击威胁而加强了协议",
+        "description_zh": "目标是保证学校的安全。由于学校发生枪击威胁，他们加强了协议，该帖子首先出现在杜兰戈出版社。"
     },
     {
-        "article_id": "091013e08ba05e0e33224860b98f7ef0",
-        "link": "https://www.elnorte.com/abre-monterrey-carril-expres-de-morones/ar3168994",
-        "title": "Abre Monterrey carril exprés de Morones",
-        "description": "Tras el tira-tira con Estado, Monterrey reabre carril exprés de Morones luego de que empresa responsable reparó daño causado por obra de L4.",
+        "article_id": "a431263388f8e3abf13f6fc97b78d9e4",
+        "link": "https://www.diario-deportes.com/noticias/cilacap-regent-supuestamente-extorsiono-a-satker-por-thr-desde-eid-2025/243902/",
+        "title": "Cilacap Regent supuestamente extorsionó a Satker por THR desde Eid 2025",
+        "description": "domingo 15 de marzo de 2026 – 00:13 WIB Jacarta – La Comisión para la Erradicación de la Corrupción (KPK) dijo que el regente de Cilacap, Syamsul Auliya Rachman (AUL), era sospechoso de extorsionar a las unidades de trabajo (satker) del gobierno del distrito para obtener subsidios de vacaciones (THR) desde el Eid de 2025. [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "el norte/staff"
+            "james thornton"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "colombia"
         ],
         "category": [
-            "entertainment",
             "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:02:34",
+        "pubDate": "2026-03-14 17:44:31",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:10:21",
-        "image_url": "https://img.gruporeforma.com/imagenes/960x640/7/146/6145268.jpg",
-        "video_url": null,
-        "source_id": "elnorte",
-        "source_name": "Elnorte",
-        "source_priority": 107502,
-        "source_url": "https://www.elnorte.com",
-        "source_icon": "https://n.bytvi.com/elnorte.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "蒙特雷开通莫罗内斯快速通道",
-        "description_zh": "经过与政府的拉锯战，蒙特雷在责任公司修复了 L4 工程造成的损坏后重新开放了莫罗内斯快速通道。"
-    },
-    {
-        "article_id": "7a70b1bca551b876426384a9edcc8bf9",
-        "link": "https://www.marca.com/futbol/premier-league/2026/03/13/reece-james-renueva-chelsea-2032.html",
-        "title": "Reece James renueva con el Chelsea",
-        "description": "El capitán de los 'Blues' seguirá siendo el jugador mejor pagado de la plantilla",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "premier league"
-        ],
-        "creator": [
-            "césar burgos"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-13 17:02:33",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:35:25",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/uploads/2026/03/13/69b4421eb32bd.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "里斯·詹姆斯与切尔西续约",
-        "description_zh": "“蓝军”队长将继续成为队内收入最高的球员"
-    },
-    {
-        "article_id": "1d20463bb39efb95c27dc878a60fed4e",
-        "link": "https://www.diario-deportes.com/futbol/actualizacion-sobre-lesiones-de-alexander-isak-y-alisson-fitness/242850/",
-        "title": "Actualización sobre lesiones de Alexander Isak y Alisson Fitness",
-        "description": "Arne Slot nos ha proporcionado información actualizada sobre las lesiones de Alexander Isak y Alisson, y ahora tenemos la fecha para el partido de cuartos de final de la Copa FA del Liverpool contra el Man City. Actualización sobre la lesión de Alexander Isak Desde que se fracturó la pierna mientras marcaba contra el Tottenham [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "benito garcía"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-13 17:02:33",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:33:29",
-        "image_url": "https://www.diario-deportes.com/wp-content/uploads/2026/03/ROUNDUP-COLLAGE-136.jpg",
+        "fetched_at": "2026-03-14 18:04:15",
+        "image_url": "https://www.diario-deportes.com/wp-content/uploads/2026/03/1773510272_69b58eaad5990-bupati-cilacap-syamsul-auliya-rachman-keluar-dari-gedung-satreskrim-polresta-banyumas_gemini_1265_711.jpg",
         "video_url": null,
         "source_id": "diariodeportes",
         "source_name": "Diario Deportes",
@@ -773,21 +580,62 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "亚历山大·伊萨克和阿利森健身伤病更新",
-        "description_zh": "阿恩·斯洛特向我们通报了亚历山大·伊萨克和阿利森伤病的最新情况，现在我们知道了利物浦足总杯四分之一决赛对阵曼城的比赛日期。亚历山大·伊萨克 (Alexander Isak) 伤情更新，因为他在比赛中摔断了腿"
+        "title_zh": "据称自 2025 年开斋节以来，Cilacap Regent 就向 Satker 勒索 THR",
+        "description_zh": "2026 年 3 月 15 日星期日 – 00:13 WIB 雅加达 – 根除腐败委员会 (KPK) 表示，Cilacap Regent Syamsul Auliya Rachman (AUL) 涉嫌勒索区政府工作单位 (satker) 以获得假期补贴 ("
     },
     {
-        "article_id": "af487c1c7e85224a305b12fe69af01e6",
-        "link": "https://www.adn40.mx/es-tendencia/2026-03-13/la-historia-richard-un-repartidor-que-tiene-casi-80-anos/",
-        "title": "La historia de Richard, un repartidor que tiene casi 80 años",
-        "description": "La historia de Richard, repartidor de casi 80 años se hizo viral en redes sociales.",
+        "article_id": "2fdddc1a56b6d533f39063dd5b468da1",
+        "link": "https://www.larepublica.co/globoeconomia/fin-de-semana-con-calor-extremo-y-lluvias-en-mexico-nuevo-frente-frio-ya-se-acerca-4349765",
+        "title": "Fin de semana con calor extremo y lluvias en México; nuevo frente frío ya se acerca",
+        "description": "En los días posteriores, el frente frío podría intensificar las lluvias en estados del Golfo de México el sureste.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "es tendencia"
+            "globoeconomía"
         ],
         "creator": [
-            "itandehui.cervantes@tvazteca.com.mx (itandehui cervantes)"
+            "el economista - ciudad de méxico"
         ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-14 17:44:17",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-14 18:07:01",
+        "image_url": "https://img.lalr.co/cms/2026/03/14124556/6903c8440fe5c.jpg?f=jpg&ratio=r40_21&size=xl",
+        "video_url": null,
+        "source_id": "larepublicacl",
+        "source_name": "Larepublica",
+        "source_priority": 43349,
+        "source_url": "https://www.larepublica.co",
+        "source_icon": "https://n.bytvi.com/larepublicacl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "周末墨西哥酷热多雨；新的冷锋即将来临",
+        "description_zh": "接下来的几天，冷锋可能会加剧墨西哥湾东南部各州的降雨。"
+    },
+    {
+        "article_id": "36bf33a8513f47108beeed099093f930",
+        "link": "https://abcnoticias.mx/global/2026/3/14/eu-pide-sus-ciudadanos-salir-de-irak-ante-posibles-ataques-iranies-276215.html",
+        "title": "EU pide a sus ciudadanos salir de Irak ante posibles ataques iraníes",
+        "description": "El espacio aéreo está cerrado y no hay vuelos comerciales desde allí, pero sí se mantienen abiertas las rutas terrestres hacia Jordania, Kuwait, Arabia Saudita y Turquía.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "estados unidos",
+            "irak",
+            "irán"
+        ],
+        "creator": null,
         "language": "spanish",
         "country": [
             "mexico"
@@ -796,16 +644,16 @@
             "world"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-13 17:02:31",
+        "pubDate": "2026-03-14 17:44:01",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-13 17:13:10",
-        "image_url": "https://tvazteca.brightspotcdn.com/e0/63/f06bd007407cbc6f5e097f12f6f8/adultos-mayores-mexico-2026-portada-1300-x-732-px.webp",
+        "fetched_at": "2026-03-15 00:12:20",
+        "image_url": "https://abcnoticias.mx/u/fotografias/m/2026/3/14/f960x540-339227_413302_5050.jpg",
         "video_url": null,
-        "source_id": "adn40",
-        "source_name": "Adn40",
-        "source_priority": 220795,
-        "source_url": "https://www.adn40.mx",
-        "source_icon": "https://n.bytvi.com/adn40.png",
+        "source_id": "abcnoticias",
+        "source_name": "Abc Noticias",
+        "source_priority": 300132,
+        "source_url": "https://abcnoticias.mx",
+        "source_icon": "https://n.bytvi.com/abcnoticias.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -813,7 +661,216 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "快80岁的送货员理查德的故事",
-        "description_zh": "理查德是一位快 80 岁的送货司机，他的故事在社交网络上疯传。"
+        "title_zh": "面对伊朗可能发动的袭击，美国要求其公民离开伊拉克",
+        "description_zh": "空域已关闭，没有从那里起飞的商业航班，但飞往约旦、科威特、沙特阿拉伯和土耳其的陆路仍然开放。"
+    },
+    {
+        "article_id": "367bf5e554c3cb57c10dc471486cd8db",
+        "link": "https://durangopress.com/la-laguna/solicitara-gomez-palacio-adelanto-de-participaciones-federales-219948",
+        "title": "Solicitará Gómez Palacio adelanto de participaciones federales",
+        "description": "El empréstito será por 42 mdpThe post Solicitará Gómez Palacio adelanto de participaciones federales appeared first on Durango PRESS.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "la laguna"
+        ],
+        "creator": [
+            "rosalba lópez g. / corresponsal"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-14 17:43:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-14 17:55:07",
+        "image_url": "https://durangopress.com/wp-content/uploads/2026/03/Solicitara-Ayuntamiento-de-Gomez-Palacio-adelanto-de-participaciones-federales-1024x696.jpeg",
+        "video_url": null,
+        "source_id": "durangopress",
+        "source_name": "Durango Press",
+        "source_priority": 16019617,
+        "source_url": "https://durangopress.com",
+        "source_icon": "https://n.bytvi.com/durangopress.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "戈麦斯·帕拉西奥将请求联邦政府提前参与",
+        "description_zh": "贷款金额为 4200 万比索。戈麦斯·帕拉西奥将请求联邦政府提前参与的帖子首先出现在杜兰戈出版社。"
+    },
+    {
+        "article_id": "88de7d77d9eb567c441080e657fdeaa5",
+        "link": "https://diariodelcauca.com.co/analisis-sangre-diagnostico-temprano-demencia/",
+        "title": "Análisis de sangre abre puerta a diagnóstico temprano de la demencia",
+        "description": "Un grupo de científicos de la University of California San Diego desarrolló un nuevo análisis de sangre que podría anticipar el riesgo de demencia hasta 25 años antes de que aparezcan los primeros síntomas, lo que representa un avance importante en la detección temprana de enfermedades neurodegenerativas. El estudio, publicado en la revista científica JAMA [...]La entrada Análisis de sangre abre puerta a diagnóstico temprano de la demencia se publicó primero en Diario del Cauca.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "salud",
+            "noticias"
+        ],
+        "creator": [
+            "valerie rosero"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-14 17:43:33",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-14 17:48:01",
+        "image_url": "https://diariodelcauca.com.co/wp-content/uploads/2026/03/images-2026-03-14T124247.632.jpg",
+        "video_url": null,
+        "source_id": "diariodelcauca_co",
+        "source_name": "Diario Del Cauca",
+        "source_priority": 994611,
+        "source_url": "https://diariodelcauca.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelcauca_co.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "血液测试为痴呆症的早期诊断打开了大门",
+        "description_zh": "加州大学圣地亚哥分校的一组科学家开发了一种新的血液测试，可以在首次症状出现前 25 年内预测痴呆症的风险，这代表了神经退行性疾病早期检测的重要进展。"
+    },
+    {
+        "article_id": "5cf3f7b609ea20d8d0e61a2f628a6994",
+        "link": "https://www.infobae.com/colombia/2026/03/14/medellin-fue-nombrada-capital-mundial-del-libro-y-gustavo-petro-felicito-a-la-embajadora-de-colombia-ante-la-unesco-por-lograrlo/",
+        "title": "Medellín fue nombrada “capital mundial del libro” y Gustavo Petro felicitó a la embajadora de Colombia ante la Unesco por lograrlo",
+        "description": "La capital antioqueña fue destacada por su dinámica red de más de 110 librerías y 25 bibliotecas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "capital mundial del libro 2027",
+            "unesco",
+            "gustavo petro",
+            "medellín",
+            "colombia-noticias",
+            "laura guillén"
+        ],
+        "creator": [
+            "sebastián vargas rueda"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "colombia",
+            "mexico",
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-14 17:43:24",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-14 18:00:58",
+        "image_url": "https://www.infobae.com/resizer/v2/6K6ZU3KPE5ABXGDSTGOGGOFGR4.jpg?auth=859446718b136e6c6f4153bf12fcc7efc80632efd4ff78017f7b3cde9668a725&height=1063&smart=true&width=1890",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "麦德林被评为“世界图书之都”，古斯塔沃·佩特罗祝贺哥伦比亚驻联合国教科文组织大使实现这一目标",
+        "description_zh": "安蒂奥基亚省首府因其拥有 110 多家书店和 25 家图书馆的动态网络而备受瞩目"
+    },
+    {
+        "article_id": "ad375be41b3bbb0d13c61e8783aff11f",
+        "link": "https://www.diariodelsur.com.co/prueba-anticipar-demencia-decadas-antes/",
+        "title": "Avance científico: prueba podría anticipar la demencia décadas antes",
+        "description": "Un grupo de científicos de la University of California San Diego desarrolló un nuevo análisis de sangre que podría anticipar el riesgo de demencia hasta 25 años antes de que aparezcan los primeros síntomas, lo que representa un avance importante en la detección temprana de enfermedades neurodegenerativas. El estudio, publicado en la revista científica JAMA [...]La entrada Avance científico: prueba podría anticipar la demencia décadas antes se publicó primero en Diario del Sur.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "valerie rosero"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-14 17:43:19",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-14 17:47:01",
+        "image_url": "https://www.diariodelsur.com.co/wp-content/uploads/2026/03/images-2026-03-14T124247.632.jpg",
+        "video_url": null,
+        "source_id": "diariodelsur",
+        "source_name": "Diario Del Sur",
+        "source_priority": 832974,
+        "source_url": "http://diariodelsur.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelsur.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "科学突破：测试可以提前几十年预测痴呆症",
+        "description_zh": "加州大学圣地亚哥分校的一组科学家开发了一种新的血液测试，可以在首次症状出现前 25 年内预测痴呆症的风险，这代表了神经退行性疾病早期检测的重要进展。"
+    },
+    {
+        "article_id": "f4e1b85bdda6b2f7a217b5adcd16d24a",
+        "link": "https://jornadaveracruz.com.mx/quejas-de-alcaldes-entrantes-por-bienes-perdidos-omisiones-y-anomalias-orfis/",
+        "title": "Quejas de alcaldes entrantes por bienes perdidos, omisiones y anomalías: Orfis",
+        "description": "Presidentes municipales en funciones han promovido quejas por bienes faltantes, omisiones y posibles irregularidades detectadas al asumir el cargo en diversos ayuntamientos de Veracruz, informó la auditora general del Órgano de Fiscalización Superior (Orfis), Delia González Cobos. Entrevistada al finalizar una capacitación a presidentes municipales de esta región, señaló que las inconformidades incluyen la ausencia [...]El cargo Quejas de alcaldes entrantes por bienes perdidos, omisiones y anomalías: Orfis apareció primero en La Jornada Veracruz.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "sección principal"
+        ],
+        "creator": [
+            "agencias"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-14 17:43:08",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-14 17:49:47",
+        "image_url": "https://jornadaveracruz.com.mx/wp-content/uploads/2026/03/p08-avc.webp",
+        "video_url": null,
+        "source_id": "jornadaveracruz_mx",
+        "source_name": "La Jornada Veracruz",
+        "source_priority": 1502698,
+        "source_url": "https://jornadaveracruz.com.mx",
+        "source_icon": "https://n.bytvi.com/jornadaveracruz_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "新任市长关于丢失财产、遗漏和异常现象的投诉：Orfis",
+        "description_zh": "高级监督机构 (Orfis) 总审计师迪莉娅·冈萨雷斯·科沃斯 (Delia González Cobos) 报告说，代理市政主席已就韦拉克鲁斯州各市就职时发现的资产丢失、遗漏和可能存在的违规行为提出投诉。接受采访"
     }
 ]
