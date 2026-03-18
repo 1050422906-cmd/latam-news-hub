@@ -1,45 +1,75 @@
 [
     {
-        "article_id": "8fd31c95798239d59c99e48ca554794d",
-        "link": "https://elpais.com/deportes/futbol/2026-03-16/la-premier-castiga-al-chelsea-con-la-mayor-multa-de-su-historia-124-millones-de-euros-y-un-ano-sin-fichar-por-irregularidades-financieras.html",
-        "title": "La Premier castiga al Chelsea con la mayor multa de su historia: 12,4 millones de euros y un año sin fichar por irregularidades financieras",
-        "description": "El cuadro londinense pagará por el incumplimiento de las normas durante la etapa de Román Abramóvich al frente del club",
+        "article_id": "b16d235ce70173116171ec980362c8bd",
+        "link": "https://www.iprofesional.com/negocios/450423-polemica-en-la-fuerza-aerea-pese-a-compra-de-los-f-16-por-falta-de-fondos-se-vuela-menos",
+        "title": "Polémica en la Fuerza Aérea: pese a compra de los F-16, por falta de fondos hay menos vuelos",
+        "description": "La falta de mejoras en el presupuesto complica la operatoria de la Fuerza Aérea, que sigue sin recuperar su capacidad plena. Detalle de los números en rojo",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "chelsea fc",
-            "competiciones",
-            "fútbol",
-            "román abramóvich",
-            "entrenadores",
-            "premier league",
-            "stamford bridge",
-            "the fa",
-            "futbolistas",
-            "todd boehly",
-            "deportes"
+            "noticias",
+            "marketing",
+            "f16",
+            "periodismo",
+            "iprofesional",
+            "presupuesto",
+            "economía",
+            "diario",
+            "news",
+            "argentina",
+            "milei",
+            "finance",
+            "ads",
+            "real estate",
+            "negocios",
+            "management",
+            "legal",
+            "life and style",
+            "tecnología",
+            "vinos",
+            "newspaper",
+            "taxation",
+            "media",
+            "defensa",
+            "buenos aires",
+            "business",
+            "breaking",
+            "argentine",
+            "legales",
+            "politics",
+            "technology",
+            "autos",
+            "f-16",
+            "impuestos",
+            "finanzas",
+            "economy",
+            "empleos",
+            "militar",
+            "campus",
+            "fuerza áerea",
+            "comex",
+            "avion"
         ],
         "creator": [
-            "daniel arribas fernández"
+            "patricio eleisegui"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top",
-            "lifestyle"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:45",
+        "pubDate": "2026-03-17 17:40:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:31:22",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SN4OL6YV55JR3OBROGH5X2HHGQ.jpg?auth=e3be4695e8ac87b3d2f484469bf4c23e3b8350e148b2c621a8e59c296a89b00d&width=1200",
+        "fetched_at": "2026-03-17 18:03:05",
+        "image_url": "https://resizer.iproimg.com/unsafe/1200x674/filters:format(webp):quality(75):max_bytes(102400)/https://assets.iprofesional.com/assets/jpg/2025/12/607872_landscape.jpg",
         "video_url": null,
-        "source_id": "elpais",
-        "source_name": "El Pais",
-        "source_priority": 830,
-        "source_url": "https://elpais.com",
-        "source_icon": "https://n.bytvi.com/elpais.png",
+        "source_id": "iprofesional",
+        "source_name": "Iprofesional",
+        "source_priority": 120704,
+        "source_url": "https://www.iprofesional.com",
+        "source_icon": "https://n.bytvi.com/iprofesional.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -47,45 +77,210 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "英超对切尔西处以史上最大罚款：1240万欧元，并因财务违规行为一年不得签约",
-        "description_zh": "伦敦队将为罗曼·阿布拉莫维奇担任俱乐部主席期间不遵守规则付出代价"
+        "title_zh": "空军争议：尽管购买了F-16，但由于缺乏资金，航班数量减少",
+        "description_zh": "预算缺乏改进使空军的行动变得复杂，空军尚未恢复其全部能力。红色数字的详细信息"
     },
     {
-        "article_id": "edb5084a880236d002a930789f7e4937",
-        "link": "https://www.infobae.com/espana/2026/03/16/valladolid-y-burgos-tienen-las-mejores-hamburguesas-de-todo-castilla-y-leon/",
-        "title": "Valladolid y Burgos tienen las mejores hamburguesas de todo Castilla y León",
-        "description": "El campeonato nacional Best Burger Spain se ha encargado de recorrer España para encontrar las mejores hamburguesas de cada comunidad autónoma",
+        "article_id": "c0ca954fdecbe026d58c9181b13e400c",
+        "link": "https://www.lagaceta.com.ar/nota/1128671/politica/fuerte-cruce-yerba-buena-walter-kabuby-araoz-acuso-lvaro-apud-mentir-sembrar-odio-politico.html",
+        "title": "Fuerte cruce en Yerba Buena: Walter “Kabuby” Araoz acusó a Álvaro Apud de “mentir” y sembrar odio político",
+        "description": "El concejal justicialista respondió con dureza a las declaraciones de su par opositor y defendió al gobernador Osvaldo Jaldo y al ministro Darío Monteros. Apuntó contra La Libertad Avanza por “construir relatos” y fomentar divisiones.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "castilla y león",
-            "burgos",
-            "españa-noticias",
-            "restaurantes españa",
-            "españa-gastronomía",
-            "león",
-            "restaurantes",
-            "hamburguesas",
-            "valladolid"
+            "violencia verbal",
+            "darío monteros",
+            "yerba buena",
+            "osvaldo jaldo",
+            "manera perversa",
+            "178142"
         ],
         "creator": [
-            "ana plaza"
+            "redacción la gaceta"
         ],
         "language": "spanish",
         "country": [
-            "united states of america",
-            "colombia",
-            "mexico",
             "argentina"
         ],
         "category": [
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:43",
+        "pubDate": "2026-03-17 17:40:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:31:15",
-        "image_url": "https://www.infobae.com/resizer/v2/QP64V4S5XZCO7K6XAOC7TFMPA4.jpg?auth=6dfe5e372a13bb6d10321e9254f3074984c92c3903d1c5e960662a41e8e0dd26&height=768&smart=true&width=1024",
+        "fetched_at": "2026-03-17 20:42:07",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/03/17/fuerte-cruce-yerba-buena-walter-kabuby-araoz-acuso-lvaro-apud-mentir-sembrar-odio-politico-1128671-173936.jpg",
         "video_url": null,
+        "source_id": "lagaceta_ar",
+        "source_name": "Lagaceta",
+        "source_priority": 975335,
+        "source_url": "https://www.lagaceta.com.ar",
+        "source_icon": "https://n.bytvi.com/LaGaceta_Ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "耶尔巴布埃纳的强渡：沃尔特·“卡布比”·阿劳兹指责阿尔瓦罗·阿普德“撒谎”并散布政治仇恨",
+        "description_zh": "这位正义党议员对反对派同僚的言论作出了严厉回应，并为州长奥斯瓦尔多·哈尔多和部长达里奥·蒙特罗斯辩护。他以 La Libertad Avanza 为目标，指责其“编造故事”并煽动分裂。"
+    },
+    {
+        "article_id": "3b7fb8bedd8623f75a9671d132c1c675",
+        "link": "https://www.bahianoticias.com.br/noticia/314867-felix-mendonca-junior-agradece-contribuicao-de-leo-prates-ao-pdt",
+        "title": "Félix Mendonça Júnior agradece contribuição de Leo Prates ao PDT",
+        "description": "O presidente do PDT na Bahia, deputado federal Félix Mendonça Júnior, se manifestou sobre a saída do deputado federal Leo Prates do partido, anunciada pelo agora ex-pedetista nesta terça-feira (17), por meio de uma carta pública.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "leo prates",
+            "félix mendonça jr",
+            "pdt"
+        ],
+        "creator": [
+            "redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-17 17:40:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-17 18:03:40",
+        "image_url": "https://www.bahianoticias.com.br/fotos/principal_noticias/314867/IMAGEM_NOTICIA_original.jpg",
+        "video_url": null,
+        "source_id": "bahianoticias",
+        "source_name": "Bahia Notícias",
+        "source_priority": 164044,
+        "source_url": "https://www.bahianoticias.com.br",
+        "source_icon": "https://n.bytvi.com/bahianoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Félix Mendonça Júnior 感谢 Leo Prates 对 PDT 的贡献",
+        "description_zh": "巴伊亚 PDT 主席、联邦众议员费利克斯·门多萨·茹尼奥尔 (Félix Mendonça Júnior) 谈到了联邦众议员利奥·普拉特斯 (Leo Prates) 退出该党的事，这位现任前足协主席于本周二 (17 日) 通过一封公开信宣布了这一消息。"
+    },
+    {
+        "article_id": "9cb9d1c7eff906f50a93ba65878a8f5e",
+        "link": "https://www.mdzol.com/tendencias/bolitas-queso-la-receta-del-snack-saludable-base-dos-ingredientes-que-te-salvara-cualquier-picada-n1476686",
+        "title": "Bolitas de queso: la receta del snack saludable a base de dos ingredientes que te salvará cualquier picada",
+        "description": "Hay una receta sencilla para preparar un snack que te salvará en cualquier reunión improvisada en el hogar.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "snack saludable",
+            "snack",
+            "receta"
+        ],
+        "creator": [
+            "agus ruiz"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-17 17:40:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-17 18:21:27",
+        "image_url": "https://media.mdzol.com/p/5534143bfce07177d439d104f2b399ed/adjuntos/373/imagenes/001/901/0001901746/1200x675/smart/bolitas-queso-snack-saludable.png",
+        "video_url": null,
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://n.bytvi.com/mdzol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "奶酪球：基于两种成分的健康零食配方，可让您免遭咬伤",
+        "description_zh": "有一个简单的零食食谱可以帮助您在家里的任何即兴聚会中节省开支。"
+    },
+    {
+        "article_id": "6f593ce0d310d8a0fab49833063ce005",
+        "link": "https://www.lance.com.br/fluminense/fluminense-e-o-clube-com-mais-crias-na-convocacao-da-selecao-brasileira-confira.html",
+        "title": "54761700216_1416413e1f_k-aspect-ratio-512-320",
+        "description": "Com quatro nomes revelados em Xerém, o Fluminense domina a lista da Seleção Brasileira de Ancelotti para os amistosos contra França e Croácia",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "seleção brasileira",
+            "fluminense"
+        ],
+        "creator": [
+            "márcio iannacca"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-17 17:40:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-17 18:28:29",
+        "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,format=webp/uploads/2026/03/54761700216_1416413e1f_k-aspect-ratio-512-320.jpg",
+        "video_url": null,
+        "source_id": "lance",
+        "source_name": "Lance!",
+        "source_priority": 12891,
+        "source_url": "https://www.lance.com.br",
+        "source_icon": "https://n.bytvi.com/lance.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "54761700216_1416413e1f_k-纵横比-512-320",
+        "description_zh": "泽雷姆公布了四名球员名单，弗鲁米嫩塞在安切洛蒂麾下的巴西队对阵法国和克罗地亚的友谊赛名单中占据主导地位"
+    },
+    {
+        "article_id": "530656e6baf5cdf54340fae6ce85d480",
+        "link": "https://www.infobae.com/sociedad/2026/03/17/hay-alerta-amarilla-por-tormentas-en-el-amba-y-mas-de-medio-pais-esta-bajo-distintas-alertas-meteorologicas/",
+        "title": "Árboles caídos y una marcada baja de la temperatura: las imágenes de la fuerte tormenta que se desató sobre el AMBA",
+        "description": "El SMN advirtió que se preven lluvias con actividad eléctrica durante toda la jornada, con vientos que podrían alcanzar los 59 km/h",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "servicio meteorológico nacional",
+            "clima",
+            "últimas noticias"
+        ],
+        "creator": [
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "united states of america",
+            "mexico",
+            "colombia"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-17 17:39:55",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-17 18:05:08",
+        "image_url": "https://www.infobae.com/resizer/v2/CC5LRCKSV5AXLN76XFI73SEAMU.jpeg?auth=3e6c2e89063b88064b3f8c6533c384020bfac925c0921473270734a4b0ebc0d0&smart=true&width=1599&height=899",
+        "video_url": "https://cdn.jwplayer.com/videos/INGXqs8r-2KgaOY5Z.mp4",
         "source_id": "infobae",
         "source_name": "Infobae",
         "source_priority": 1056,
@@ -98,33 +293,36 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "巴利亚多利德和布尔戈斯拥有卡斯蒂利亚莱昂最好的汉堡",
-        "description_zh": "西班牙最佳汉堡全国锦标赛一直负责走遍西班牙，寻找各个自治区最好的汉堡"
+        "title_zh": "倒下的树木和显着的气温下降：AMBA 上空发生的强风暴的图像",
+        "description_zh": "SMN 警告称，预计全天都会下雨并伴有电力活动，风速可能达到 59 公里/小时"
     },
     {
-        "article_id": "32364a382e2f55dbbbc28065b92167fb",
-        "link": "https://odia.ig.com.br/diversao/celebridades/2026/03/7222558-anitta-grava-clipe-com-mayara-lima-e-ironiza-ao-rebater-intolerancia-religiosa-ta-repreendido.html",
-        "title": "Anitta grava clipe com Mayara Lima e ironiza ao rebater intolerância religiosa: 'Tá repreendido'",
-        "description": "Cantora e rainha de bateria da Paraiso do Tuiuti se juntaram em uma coreografia de 'Meia-Noite'",
+        "article_id": "4df3948e7ef3379251914efaa1531d1f",
+        "link": "https://odia.ig.com.br/barra-do-pirai/2026/03/7223129-apos-mutirao-com-mais-de-500-castracoes-prefeitura-inicia-atendimento-veterinario-itinerante-nos-distritos-de-barra-do-pirai.html",
+        "title": "Após mutirão com mais de 500 castrações, Prefeitura inicia atendimento veterinário itinerante nos distritos de Barra do Piraí",
+        "description": "Ação da Secretaria de Bem-Estar Animal levará assistência veterinária e agendamento para futuras castrações a quatro distritos do município",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "celebridades"
+            "barra do pirai",
+            "saúde",
+            "animal",
+            "castração"
         ],
         "creator": [
-            "redacao@odia.com.br (o dia)"
+            "o dia"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "lifestyle"
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:41",
+        "pubDate": "2026-03-17 17:39:49",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:41:37",
-        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/03/16/k-38305423.jpg",
+        "fetched_at": "2026-03-17 18:04:47",
+        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/03/17/whatsapp_image_2026_03_16_at_17_29_09-38312015.jpeg",
         "video_url": null,
         "source_id": "odia_ig_br",
         "source_name": "Odia Ig Br",
@@ -138,18 +336,56 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿尼塔与玛雅拉·利马录制了一段视频，并开玩笑地反驳了宗教不宽容：“它受到了谴责”",
-        "description_zh": "来自 Paraiso do Tuiuti 的歌手和鼓女王共同为“Meia-Noite”编舞"
+        "title_zh": "经过 500 多名阉割者的共同努力，市政厅开始在 Barra do Piraí 地区提供巡回兽医护理",
+        "description_zh": "动物福利部的行动将为该市的四个区提供兽医援助并安排未来的阉割"
     },
     {
-        "article_id": "0d6f3c5125d1492b2498a9442ebfc68b",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/mauricio-do-palmeiras-e-convocado-pela-1a-vez-para-a-selecao-do-paraguai/",
-        "title": "Maurício, do Palmeiras, é convocado pela 1a vez para a seleção do Paraguai",
-        "description": "Meia se naturalizou em fevereiro e foi chamado para amistosos contra Grécia e Marrocos",
+        "article_id": "6f50faf3092d9ae41612e9ce6cf05797",
+        "link": "https://www.estadao.com.br/paladar/um-cafe-para-dividir/o-kit-kat-e-o-cacau-do-bacalhau/",
+        "title": "O Kit Kat e o Cacau do Bacalhau",
+        "description": "Entenda porque o símbolo do novo mercado do chocolate é o Kit Kat.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "gabriel teles"
+            "ensei neto"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "other"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-17 17:39:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-17 18:06:33",
+        "image_url": "https://www.estadao.com.br/resizer/v2/7RVC27OGE5MAVAVB2HR5YH4JTM.jpg?auth=f715969ae7170683666172f228a9ed5b6799e16b09b56d053e6f767b9c8ff068&smart=true&width=760&height=559",
+        "video_url": null,
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "奇巧和鳕鱼可可",
+        "description_zh": "了解为什么新巧克力市场的标志是 Kit Kat。"
+    },
+    {
+        "article_id": "31e6e856a7f08d568a0eff12bbf583d3",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/slot-abafa-criticas-antes-de-decisao-na-champions-temos-apoio-da-torcida/",
+        "title": "Slot abafa críticas antes de decisão na Champions: “Temos apoio da torcida”",
+        "description": "Técnico do Liverpool foi vaiado após empatar contra o Tottenham no último domingo (15)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "cnn brasil"
         ],
         "language": "portuguese",
         "country": [
@@ -159,10 +395,10 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:38",
+        "pubDate": "2026-03-17 17:39:44",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:30:56",
-        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/mauricio-palmeiras.png?crop=1&h=630&w=1200",
+        "fetched_at": "2026-03-17 18:31:06",
+        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Arne-Slot-e1764242011400.png?w=1200&h=1200&crop=1",
         "video_url": null,
         "source_id": "cnnbrasil_br",
         "source_name": "Cnn Brasil",
@@ -176,78 +412,39 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "来自帕尔梅拉斯的毛里西奥首次入选巴拉圭国家队",
-        "description_zh": "中场球员于二月入籍，并被征召参加对阵希腊和摩洛哥的友谊赛"
+        "title_zh": "斯洛特在欧冠决定前平息批评：“我们得到了球迷的支持”",
+        "description_zh": "利物浦主帅上周日战平热刺后遭到嘘声 (15)"
     },
     {
-        "article_id": "34d7cc9502ae90e6e2b0f20efafa75ca",
-        "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/03/16/com-jingle-inspirado-nas-campanhas-de-lula-orleans-brandao-lanca-pre-candidatura-ao-governo-do-ma.ghtml",
-        "title": "Com jingle inspirado nas campanhas de Lula, Orleans Brandão lança pré-candidatura ao governo do MA",
-        "description": "Com jingle inspirado nas campanhas de Lula, Orleans Brandão lança pré-candidatura ao governo do MADivulgação/AssessoriaCom um jingle inspirado nas campanhas do presidente Luiz Inácio Lula da Silva (PT) — “Olê, olê, olê, Orleans” – o secretário de Assuntos Municipalistas do Maranhão, Orleans Brandão (MDB), lançou sua pré-candidatura ao governo do Maranhão.O evento foi realizado no último sábado (14), no Multicenter Negócios e Eventos, em São Luís. A pré-candidatura marca o início da articulação política em torno da possível candidatura de Orleans ao governo do estado.📲 Clique aqui e se inscreva no canal do g1 Maranhão no WhatsAppAlém do jingle fazendo alusão ao “Olê, olê, olê, olá, Lula, Lula!” do petista, o evento exibiu imagens do presidente antes da definição oficial do apoio de Lula a Orleans.Com jingle inspirado nas campanhas de Lula, Orleans Brandão lança pré-candidatura ao governo do MAReprodução/Redes sociais“Sou jovem, sim. Mas tenho orgulho de dizer que em poucos anos já realizei mais do que muitos que tiveram oportunidade e mais tempo de fazer”, disse Orleans Brandão durante seu discurso.Segundo o governador Carlos Brandão, Orleans tem experiência administrativa e conhecimento sobre o Maranhão.“Ele tem o trabalho, a dedicação e o conhecimento do estado como características essenciais”, disse.De acordo com os organizadores, o evento reuniu milhares de participantes e contou com a presença de prefeitos, além de representantes de 11 partidos políticos, entre eles PDT, PRD, União Brasil, Republicanos, Progressistas, Cidadania, Avante, Podemos, Partido Verde e Solidariedade.Entre as autoridades e lideranças políticas presentes estavam: o governador do Maranhão, Carlos Brandão (sem partido); o senador Weverton Rocha (PDT); a presidente da Assembleia Legislativa, Iracema Vale (MDB); o ministro do Esporte, André Fufuca (PP); e o presidente da Federação dos Municípios do Maranhão (Famem), Roberto Costa (MDB), que é prefeito da cidade de Bacabal.Orleans Brandão é o terceiro nome a lançar pré-candidatura ao governo do Maranhão para as Eleições 2026. Antes dele, já anunciaram ser pré-candidatos Lahesio Bonfim (Novo) e Enilton Rodrigues (Psol).Veja os vídeos que estão em alta no g1",
+        "article_id": "b4079220389168103da2d1624b9735f7",
+        "link": "https://misionesonline.net/2026/03/17/mcdonalds-apuesta-a-misiones/",
+        "title": "En medio de la recesión nacional, McDonald’s apuesta a Misiones y busca cubrir 60 puestos de trabajo",
+        "description": "En medio de un contexto económico marcado por la recesión a nivel nacional, la multinacional McDonald’s apuesta a la ciudad de Posadas con la apertura de un nuevo local y la generación de 60 puestos de trabajo. La convocatoria, impulsada en conjunto con la Oficina de Empleo municipal, representa una oportunidad concreta de inserción laboral, [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "g1"
+            "mcdonald's apuesta a misiones"
         ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
+        "creator": [
+            "redacción"
         ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-16 17:13:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:35:34",
-        "image_url": "https://s2-g1.glbimg.com/yCWov0hFAGk_FEPxRs4ush3vyco=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/B/hpXWbxTnWHj3h1VhPYRw/dscf3816.jpg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "奥尔良·布兰达奥 (Orleans Brandão) 受卢拉 (Lula) 竞选活动的启发，开始了马萨诸塞州政府的预选活动",
-        "description_zh": "奥尔良·布兰达奥 (Orleans Brandão) 在一首受卢拉 (Lula) 竞选活动启发的广告歌曲中，启动了 MADisclosure/Advisory 政府的预选活动。"
-    },
-    {
-        "article_id": "1b1a5c5535ae612649759a67fb6bbbaf",
-        "link": "https://www.lavozdejujuy.com/grid-1/23942-demora-en-comisiones-de-la-legislatura-genera-criticas-y-frena-el-tratamiento-de-proyectos",
-        "title": "Demora en comisiones de la Legislatura genera críticas y frena el tratamiento de proyectos",
-        "description": "El diputado provincial del Frente de Izquierda, Gastón Remy, cuestionó la demora en la conformación de las comisiones de trabajo de la Legislatura de Jujuy y advirtió que esta situación impide avanzar con el tratamiento de proyectos que ya tomaron estado parlamentario.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "grilla 01",
-            "destacado",
-            "root"
-        ],
-        "creator": null,
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top",
-            "lifestyle"
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:19",
+        "pubDate": "2026-03-17 17:39:42",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:26:27",
-        "image_url": "https://www.lavozdejujuy.com/images/MARZO%2026/GastonRemy_diputadoprovincial_2026_.jpg",
+        "fetched_at": "2026-03-17 18:10:23",
+        "image_url": "https://static.misionesonline.news/wp-content/uploads/2026/03/MacDonald.jpeg",
         "video_url": null,
-        "source_id": "lavozdejujuy",
-        "source_name": "La Voz De Jujuy",
-        "source_priority": 9614323,
-        "source_url": "https://www.lavozdejujuy.com",
-        "source_icon": "https://n.bytvi.com/lavozdejujuy.png",
+        "source_id": "misionesonline",
+        "source_name": "Misionesonline",
+        "source_priority": 499523,
+        "source_url": "https://misionesonline.net",
+        "source_icon": "https://n.bytvi.com/misionesonline.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -255,77 +452,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "立法机关委员会的拖延招致批评并减慢了项目的处理速度",
-        "description_zh": "左翼阵线省代表加斯顿·雷米 (Gastón Remy) 对胡胡伊省立法机构工作委员会迟迟组建提出质疑，并警告说，这种情况阻碍了已取得议会地位的项目的处理取得进展。"
+        "title_zh": "在国家经济衰退期间，麦当劳押注米西奥内斯并寻求填补 60 个职位",
+        "description_zh": "在全国经济衰退的背景下，跨国公司麦当劳将赌注押在波萨达斯市，开设新店并创造 60 个就业岗位。该呼吁是与市就业办公室联合发起的，代表"
     },
     {
-        "article_id": "72540f59add8c8498614c6d51ff7ca5f",
-        "link": "https://tribunadepetropolis.com.br/noticias/alisson-e-apresentado-no-fluminense-e-revela-acordo-assinado-com-o-corinthians/",
-        "title": "Alisson é apresentado no Fluminense e revela ‘acordo assinado’ com o Corinthians",
-        "description": "Sonho do técnico Dorival Júnior, o meio-campista Alisson ficou muito perto de defender o Corinthians. O clube, contudo, não fez o pagamento do empréstimo ao São Paulo e a negociação acabou sendo desfeita. Nesta segunda-feira, o jogador foi apresentado pelo Fluminense e revelou que já tinha uma acordo assinado com o rival paulista. “Infelizmente não [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-16 17:13:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:46:06",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "阿利森亮相弗鲁米嫩塞并透露与科林蒂安队签署的“协议”",
-        "description_zh": "教练多里瓦尔·儒尼奥尔的梦想是，中场球员阿利森非常接近防守科林蒂安。然而，俱乐部没有向圣保罗支付贷款，谈判最终被取消。本周一，这名球员在弗鲁米嫩塞接受了采访，并透露他已经拥有了一份"
-    },
-    {
-        "article_id": "e0be92ee2e229d59853f4b6af17f890c",
-        "link": "https://istoe.com.br/libano-registra-mais-de-um-milhao-de-deslocados-pela-guerra-entre-israel-e-hezbollah",
-        "title": "Líbano registra mais de um milhão de deslocados pela guerra entre Israel e Hezbollah",
-        "description": "Mais de um milhão de pessoas foram registradas como deslocadas no Líbano desde o início da guerra entre Israel e o movimento islamista Hezbollah, informaram as autoridades nesta segunda-feira (16). No total, 1.049.328 pessoas deslocadas se inscreveram em uma página na internet do Ministério de Assuntos Sociais, e 132.742 delas estão alojadas em mais de [...]",
+        "article_id": "6ef4f1f0268958f85196bb903c8b12f4",
+        "link": "https://lasillarota.com/mundo/2026/3/17/claves-de-la-reapertura-en-cuba-que-cambia-como-impacta-590731.html",
+        "title": "Claves de la reapertura en Cuba: qué cambia y cómo impacta",
+        "description": "Cuba abre inversión, banca y campo al capital del exterior; el modelo incorpora esquemas mixtos bajo control estatal",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "mundo"
+            "economía",
+            "crisis en cuba"
         ],
         "creator": [
-            "istoé news"
+            "vic gerardo balderas"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "mexico"
         ],
         "category": [
             "world"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:00",
+        "pubDate": "2026-03-17 17:40:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:42:56",
-        "image_url": null,
+        "fetched_at": "2026-03-17 18:10:20",
+        "image_url": "https://lasillarota.com/u/fotografias/m/2026/3/17/f1280x720-842938_974613_5050.jpg",
         "video_url": null,
-        "source_id": "istoe",
-        "source_name": "Istoé Independente",
-        "source_priority": 239209,
-        "source_url": "https://istoe.com.br",
-        "source_icon": "https://n.bytvi.com/istoe.jpg",
+        "source_id": "lasillarota",
+        "source_name": "La Silla Rota",
+        "source_priority": 200644,
+        "source_url": "https://lasillarota.com",
+        "source_icon": "https://n.bytvi.com/lasillarota.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -333,143 +493,22 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "黎巴嫩记录超过一百万人因以色列和真主党之间的战争而流离失所",
-        "description_zh": "据当局周一 (16) 报道，自以色列和伊斯兰运动真主党之间的战争爆发以来，黎巴嫩已有超过一百万人登记为流离失所者。共有 1,049,328 名流离失所者在该部运营的网站上登记"
+        "title_zh": "古巴重新开放的关键：发生了什么变化及其影响",
+        "description_zh": "古巴向国外资本开放投资、银行业和农村；该模型包含国家控制下的混合方案"
     },
     {
-        "article_id": "dbfb3c03f59a49ff5ce6bb500290adc5",
-        "link": "https://www.losandes.com.ar/deportes/tras-su-paso-falso-argentinos-juniors-chiquito-sergio-romero-anuncio-su-retiro-del-futbol-n5984165",
-        "title": "Tras su paso en falso en Argentinos Juniors, \"Chiquito\" Sergio Romero, anunció su retiro del fútbol",
-        "description": "Surgido de Racing, campeón con Boca y Manchester United y de largo ciclo en la Selección Argentina, el experimentado arquero le puso punto final a su carrera. Había quedado libre en diciembre de Argentinos Juniors.",
+        "article_id": "7ab51b28f82958915241277cf309be78",
+        "link": "https://miled.com/2026/03/17/mexico-y-luxemburgo-cierran-litigio-por-buque/",
+        "title": "México y Luxemburgo cierran litigio por buque",
+        "description": "El Tribunal Internacional del Derecho del Mar (TIDM) ordenó el cierre del litigio entre México y Luxemburgo por el buque Zheng He, luego de que ambas naciones alcanzaran una solución amistosa, informaron la Secretaría de Relaciones Exteriores (SRE) y el Servicio de Administración Tributaria (SAT). COMUNICADO CONJUNTO. “México y Luxemburgo alcanzan solución amistosa en caso [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "deportes"
+            "luxemburgo",
+            "buque",
+            "méxico"
         ],
         "creator": [
-            "redacción deportes"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-16 17:13:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:40:01",
-        "image_url": "https://media.losandes.com.ar/p/5097def57c1c29b8aa064e059283aaf0/adjuntos/368/imagenes/100/699/0100699239/1200x675/smart/sergio-romero.png",
-        "video_url": null,
-        "source_id": "losandes",
-        "source_name": "Los Andes",
-        "source_priority": 114641,
-        "source_url": "https://www.losandes.com.ar",
-        "source_icon": "https://n.bytvi.com/losandes.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "在阿根廷青年队失误后，“Chiquito”塞尔吉奥·罗梅罗宣布退役",
-        "description_zh": "这位经验丰富的门将从竞技队出身，曾随博卡和曼联夺得冠军，并在阿根廷国家队度过了很长一段时间，但他结束了自己的职业生涯。 12月，他被阿根廷青年队裁掉。"
-    },
-    {
-        "article_id": "dd5fe7ca92cfc8b7bc2dcfc366d63b5d",
-        "link": "https://titulares.ar/quienes-pueden-anotarse-y-cuanto-cuesta-dejar-el-organismo/",
-        "title": "¿Quiénes pueden anotarse y cuánto cuesta dejar el organismo?",
-        "description": "El Gobierno nacional aprobó un nuevo plan de retiro voluntario destinado al personal de la Administración Nacional de la Seguridad Social (ANSES). La medida fue formalizada mediante la Resolución 68/2026, publicada este lunes en el Boletín Oficial. La iniciativa forma parte de la política de reorganización del Estado que impulsa la administración de Javier Milei. [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "economía"
-        ],
-        "creator": [
-            "marisol medrano"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "sports",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-16 17:12:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:26:42",
-        "image_url": "https://titulares.ar/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "video_url": null,
-        "source_id": "titulares",
-        "source_name": "Titulares",
-        "source_priority": 10683503,
-        "source_url": "https://titulares.ar",
-        "source_icon": "https://n.bytvi.com/titulares.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "谁可以注册以及离开该组织需要花费多少费用？",
-        "description_zh": "国家政府批准了国家社会保障局（ANSES）人员新的自愿退休计划。该措施通过本周一在官方公报上发布的第 68/2026 号决议正式确定。该举措是重新政策的一部分"
-    },
-    {
-        "article_id": "5bb7c1be549018afcaf99da6260cb5cd",
-        "link": "https://www.launion.com.mx/morelos/nacional/noticias/290679-senadores-de-morena-pvem-y-pt-respaldan-plan-b-electoral-de-sheinbaum.html",
-        "title": "Senadores de Morena, PVEM y PT respaldan Plan B electoral de Sheinbaum",
-        "description": "Senadores de Morena, el Partido Verde Ecologista de México (PVEM) y el Partido del Trabajo expresaron su respaldo al “Plan B” de la reforma electoral anunciado por la presidenta Claudia Sheinbaum, después de que su iniciativa original no alcanzara la mayoría calificada en la Cámara de Diputados.En un comunicado, los legisladores señalaron que la nueva propuesta busca fortalecer la austeridad republicana y ampliar los mecanismos de democracia participativa. Explicaron que el objetivo es eliminar privilegios que durante años han encarecido el funcionamiento del sistema político y destinar esos recursos al bienestar de la población mediante programas sociales.Indicaron que el proyecto se basa en principios que, aseguran, han guiado al actual gobierno federal, como la austeridad republicana y la idea de que no puede haber un gobierno rico con un pueblo pobre, así como la participación directa de la ciudadanía en las decisiones públicas.Los senadores también afirmaron que la reforma constitucional no afectaría el federalismo ni la autonomía de las entidades federativas. Según explicaron, los recursos que se logren ahorrar permanecerían en los estados y se destinarían a obra pública, infraestructura y proyectos que beneficien directamente a la población.Asimismo, señalaron que la propuesta contempla fortalecer instrumentos de participación ciudadana, como la revocación de mandato y la ampliación de la consulta popular para incluir temas electorales. De acuerdo con el posicionamiento, la intención es avanzar hacia una democracia más austera, cercana a la población y con una redistribución más justa de los recursos públicos.El documento concluye con un respaldo político a la presidenta, en el que las senadoras y senadores de la coalición oficialista reafirman su apoyo total a la mandataria.Por separado, la bancada del Partido Verde coincidió con varios puntos del planteamiento presidencial, especialmente en la necesidad de generar ahorros presupuestales para destinarlos a programas sociales. Los legisladores señalaron que comparten la idea de hacer un manejo racional de los recursos públicos y eliminar privilegios en el uso del presupuesto.Entre las propuestas que respaldan se encuentra reducir el presupuesto de los congresos locales en las 32 entidades del país y establecer topes máximos en sueldos y prestaciones de los legislativos estatales. También manifestaron su acuerdo con disminuir el número de integrantes de los cabildos en los municipios, con el fin de reducir gastos públicos y ajustar su integración de acuerdo con el tamaño de la población.Además, expresaron su apoyo a posibles cambios en el proceso de revocación de mandato y en los procedimientos para realizar consultas populares.En redes sociales, el coordinador de los senadores de Morena, Ignacio Mier, publicó una fotografía de una reunión con dirigentes y legisladores aliados, entre ellos Manuel Velasco, Alberto Anaya, Arturo Escobar y Carlos Puente, junto con la secretaria de Gobernación, Rosa Icela Rodríguez.En la publicación señaló que continúan los trabajos para construir el llamado Plan B y reiteró el respaldo a la presidenta.El Partido del Trabajo también manifestó su apoyo a la mandataria y a la continuidad de la coalición oficialista rumbo a los próximos procesos electorales. En una publicación en la red social X, el partido afirmó que la fuerza del movimiento está en la unidad, la lucha y el trabajo para consolidar el proyecto de la llamada Cuarta Transformación rumbo a 2027 y 2030.Estas expresiones de respaldo se producen después de que el viernes pasado la presidenta Sheinbaum reconociera, durante su conferencia matutina, que su iniciativa de reforma electoral no logró la mayoría calificada en la Cámara de Diputados y adelantó que presentará una nueva propuesta.La mandataria explicó que era posible negociar para obtener los votos necesarios, pero decidió no hacerlo. También señaló que prevé presentar el nuevo proyecto, conocido como “Plan B”, entre el lunes 16 y el martes 17 de marzo.Sheinbaum admitió además que existía la posibilidad de que algunos partidos aliados no respaldaran la iniciativa original, debido a diferencias sobre temas como el nombramiento de legisladores plurinominales y la reducción de recursos destinados a los partidos políticos. Sin embargo, dejó abierta la expectativa sobre la postura que adoptarán frente a la nueva propuesta. “Vamos a ver”, señaló.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "nacional"
-        ],
-        "creator": [
-            "administrador@launion.com.mx (an / mds)"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-16 17:13:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:49:11",
-        "image_url": "https://www.launion.com.mx/media/k2/items/cache/30d1fa77062426ed9ce773d29c717df8_L.jpg",
-        "video_url": null,
-        "source_id": "launionmk",
-        "source_name": "Launion Maxico",
-        "source_priority": 928030,
-        "source_url": "https://www.launion.com.mx",
-        "source_icon": "https://n.bytvi.com/launionmk.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Morena、PVEM 和 PT 的参议员支持 Sheinbaum 的选举计划 B",
-        "description_zh": "莫雷纳参议员、墨西哥绿色生态党（PVEM）和工党的参议员表示支持克劳迪娅·希因鲍姆总统宣布的选举改革“B计划”，因为她最初的倡议没有在众议院获得合格多数。"
-    },
-    {
-        "article_id": "b86df00fcffbdbb45e06dac8ccc045fd",
-        "link": "https://www.eluniversal.com.mx/espectaculos/elohim-corona-se-une-a-fobia-en-el-vive-latino-se-gana-la-ovacion-del-publico/",
-        "title": "Elohim Corona se une a Fobia en el Vive Latino; se gana la ovación del público",
-        "description": "Mucho se cuestionaba acerca de quién tomaría en lugar de Jay de la Cueva",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "elohim corona,quién tocó con fobia en el vive latino"
-        ],
-        "creator": [
-            "el universal"
+            "billy"
         ],
         "language": "spanish",
         "country": [
@@ -479,16 +518,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:56",
+        "pubDate": "2026-03-17 17:40:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:35:21",
-        "image_url": "https://www.eluniversal.com.mx/resizer/v2/YMUHBZDHFBAQZOUPJ3BL7S7FNY.png?auth=b52f513bfd3d9e938aef1f3cd053382b3715b52cf81f85c06da71153831b8c32&height=521&smart=true&width=854",
+        "fetched_at": "2026-03-17 18:19:17",
+        "image_url": "https://miled.com/wp-content/uploads/2026/03/19-3.webp",
         "video_url": null,
-        "source_id": "eluniversal",
-        "source_name": "El Universal",
-        "source_priority": 8884,
-        "source_url": "https://www.eluniversal.com.mx",
-        "source_icon": "https://n.bytvi.com/eluniversal.png",
+        "source_id": "miled_mexico",
+        "source_name": "Miled México",
+        "source_priority": 9319350,
+        "source_url": "https://miled.com",
+        "source_icon": "https://n.bytvi.com/miled_mexico.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -496,46 +535,37 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Elohim Corona 加入 Vive Latino 的 Fobia；赢得公众的喝彩",
-        "description_zh": "关于谁将接替杰伊·德拉奎瓦的位置存在很多疑问"
+        "title_zh": "墨西哥和卢森堡就船舶问题展开激烈争端",
+        "description_zh": "据外交部（SRE）和税务管理局（SA）报道，在双方达成友好解决方案后，国际海洋法法院（ITLOS）下令结束墨西哥和卢森堡之间关于郑和船的争端。"
     },
     {
-        "article_id": "e02fa792ecc37f6c4dc58eb13aa27cb1",
-        "link": "https://www.capitalmexico.com.mx/politica/morena-pt-y-pvem-cierran-filas-para-respaldar-el-plan-b-de-sheinbaum-tras-reves-legislativo/",
-        "title": "Morena, PT y PVEM cierran filas para respaldar el “Plan B” de Sheinbaum tras revés legislativo",
-        "description": "Líderes de la coalición oficialista reiteraron su apoyo a la nueva iniciativa electoral del Ejecutivo y aseguraron que mantendrán la unidad para impulsar la agenda de la Cuarta TransformaciónThe post Morena, PT y PVEM cierran filas para respaldar el “Plan B” de Sheinbaum tras revés legislativo appeared first on Capital México.",
+        "article_id": "f92d5878ba7674f5ed4984dafefef62a",
+        "link": "https://abcnoticias.mx/negocios/distrito-abc/2026/3/17/ellas-transforman-el-rumbo-en-organizacion-soriana-276421.html",
+        "title": "Ellas transforman el rumbo en Organización Soriana",
+        "description": "Estas ejecutivas comparten las historias detrás de su liderazgo en Soriana: sus trayectorias manifiestan la convicción de lograr un impacto humano y abrir camino para otras mujeres.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "pt",
-            "reporteros",
-            "morena",
-            "plan b",
-            "pvem",
-            "respaldar a sheinbaum",
-            "política"
-        ],
+        "keywords": null,
         "creator": [
-            "ruben arizmendi"
+            "distrito abc"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top",
-            "lifestyle"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:51",
+        "pubDate": "2026-03-17 17:40:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 18:19:29",
-        "image_url": "https://www.capitalmexico.com.mx/wp-content/uploads/2026/03/Respaldo-al-plan-B.jpg",
+        "fetched_at": "2026-03-17 18:12:48",
+        "image_url": "https://abcnoticias.mx/u/fotografias/m/2026/3/17/f1280x720-339519_471194_5050.png",
         "video_url": null,
-        "source_id": "capitalmexico_mx",
-        "source_name": "Capital México",
-        "source_priority": 1073243,
-        "source_url": "https://www.capitalmexico.com.mx",
-        "source_icon": "https://n.bytvi.com/capitalmexico_mx.png",
+        "source_id": "abcnoticias",
+        "source_name": "Abc Noticias",
+        "source_priority": 300132,
+        "source_url": "https://abcnoticias.mx",
+        "source_icon": "https://n.bytvi.com/abcnoticias.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -543,44 +573,133 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Morena、PT 和 PVEM 在立法受挫后紧密合作支持 Sheinbaum 的“B 计划”",
-        "description_zh": "执政联盟领导人重申支持行政长官的新选举倡议，并保证将保持团结，推动第四次转型议程后莫雷纳、PT和PVEM在立法受挫后紧密团结起来支持希恩鲍姆的“B计划”"
+        "title_zh": "他们改变了索里亚纳组织的进程",
+        "description_zh": "这些高管分享了她们在 Soriana 的领导背后的故事：她们的轨迹表达了实现人类影响并为其他女性铺平道路的信念。"
     },
     {
-        "article_id": "edb5084a880236d002a930789f7e4937",
-        "link": "https://www.infobae.com/espana/2026/03/16/valladolid-y-burgos-tienen-las-mejores-hamburguesas-de-todo-castilla-y-leon/",
-        "title": "Valladolid y Burgos tienen las mejores hamburguesas de todo Castilla y León",
-        "description": "El campeonato nacional Best Burger Spain se ha encargado de recorrer España para encontrar las mejores hamburguesas de cada comunidad autónoma",
+        "article_id": "530656e6baf5cdf54340fae6ce85d480",
+        "link": "https://www.infobae.com/sociedad/2026/03/17/hay-alerta-amarilla-por-tormentas-en-el-amba-y-mas-de-medio-pais-esta-bajo-distintas-alertas-meteorologicas/",
+        "title": "Árboles caídos y una marcada baja de la temperatura: las imágenes de la fuerte tormenta que se desató sobre el AMBA",
+        "description": "El SMN advirtió que se preven lluvias con actividad eléctrica durante toda la jornada, con vientos que podrían alcanzar los 59 km/h",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "castilla y león",
-            "burgos",
-            "españa-noticias",
-            "restaurantes españa",
-            "españa-gastronomía",
-            "león",
-            "restaurantes",
-            "hamburguesas",
-            "valladolid"
+            "servicio meteorológico nacional",
+            "clima",
+            "últimas noticias"
         ],
         "creator": [
-            "ana plaza"
+            "infobae"
         ],
         "language": "spanish",
         "country": [
+            "argentina",
             "united states of america",
-            "colombia",
             "mexico",
-            "argentina"
+            "colombia"
         ],
         "category": [
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:43",
+        "pubDate": "2026-03-17 17:39:55",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:31:15",
-        "image_url": "https://www.infobae.com/resizer/v2/QP64V4S5XZCO7K6XAOC7TFMPA4.jpg?auth=6dfe5e372a13bb6d10321e9254f3074984c92c3903d1c5e960662a41e8e0dd26&height=768&smart=true&width=1024",
+        "fetched_at": "2026-03-17 18:05:08",
+        "image_url": "https://www.infobae.com/resizer/v2/CC5LRCKSV5AXLN76XFI73SEAMU.jpeg?auth=3e6c2e89063b88064b3f8c6533c384020bfac925c0921473270734a4b0ebc0d0&smart=true&width=1599&height=899",
+        "video_url": "https://cdn.jwplayer.com/videos/INGXqs8r-2KgaOY5Z.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "倒下的树木和显着的气温下降：AMBA 上空发生的强风暴的图像",
+        "description_zh": "SMN 警告称，预计全天都会下雨并伴有电力活动，风速可能达到 59 公里/小时"
+    },
+    {
+        "article_id": "60316c7c5e3a192dc1adbf56d716ae6a",
+        "link": "https://www.infobae.com/entretenimiento/2026/03/17/anne-hathaway-bromea-sobre-las-criticas-a-su-rostro-tras-su-aparicion-en-los-premios-oscar-el-regreso-de-la-gran-bruja-suprema/",
+        "title": "Anne Hathaway bromea sobre las críticas a su rostro tras su aparición en los Premios Oscar: “El regreso de la Gran Bruja Suprema”",
+        "description": "La estrella de cine recurrió al humor para responder a los comentarios virales sobre su apariencia",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "entretenimiento",
+            "anne hathaway",
+            "estrellas de hollywood",
+            "premios oscar",
+            "oscar 2026"
+        ],
+        "creator": [
+            "antonela rabanal"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "united states of america",
+            "mexico",
+            "colombia"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-17 17:39:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-17 18:05:08",
+        "image_url": "https://www.infobae.com/resizer/v2/CIL27CMDHZGB7AAPWCGNVQBBKA.jpg?auth=9b808b7c80cdd11cc7d5daa4c2a96785037ec830ed18035afd6812d8fe61c2dd&smart=true&width=1920&height=1080",
+        "video_url": "https://cdn.jwplayer.com/videos/EwtIUjqL-vM6j8t5y.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "安妮·海瑟薇在出席奥斯卡颁奖典礼后开玩笑说，她的脸受到了批评：《至尊女巫归来》",
+        "description_zh": "这位电影明星用幽默来回应有关她外表的病毒评论"
+    },
+    {
+        "article_id": "01136ab8f06e27dadf7c37c21b2bcf7d",
+        "link": "https://www.infobae.com/colombia/2026/03/17/alias-primo-gay-lider-de-las-disidencias-en-antioquia-resulto-herido-en-operativo-del-ejercito-esto-se-sabe/",
+        "title": "Alias Primo Gay, líder de las disidencias en Antioquia, resultó herido en operativo del Ejército: esto se sabe",
+        "description": "La operación se efectuó en la vereda La Palestina de Briceño, que permitió la captura de un escolta y una mujer vinculada a la cúpula criminal, así como la incautación de equipos y municiones",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "disidencias de las farc",
+            "ejército nacional",
+            "primo gay",
+            "colombia-violencia",
+            "antioquia",
+            "colombia-noticias"
+        ],
+        "creator": [
+            "jhon bernal"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "united states of america",
+            "mexico",
+            "colombia"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-17 17:39:35",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-17 18:05:08",
+        "image_url": "https://www.infobae.com/resizer/v2/OHBRRCUFBBDLBKTASCCEIDQ2BQ.jpg?auth=5055221610d0487fa194673b8b52da2f54412bed199e55930528b9684c18aa6d&smart=true&width=1920&height=1080",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -594,161 +713,46 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "巴利亚多利德和布尔戈斯拥有卡斯蒂利亚莱昂最好的汉堡",
-        "description_zh": "西班牙最佳汉堡全国锦标赛一直负责走遍西班牙，寻找各个自治区最好的汉堡"
+        "title_zh": "安蒂奥基亚持不同政见者领袖阿丽亚斯·普里莫·盖伊在一次陆军行动中受伤：这是已知的",
+        "description_zh": "此次行动在巴勒斯坦布里塞尼奥村进行，抓获了一名保镖和一名与犯罪头目有联系的妇女，并没收了设备和弹药。"
     },
     {
-        "article_id": "940d56a5b300f23e59d3f91028c9ece0",
-        "link": "https://www.adn40.mx/seguridad/2026-03-16/que-acordaron-mexico-dea-detalles-encuentro-omar-garcia-harfuch-eua/",
-        "title": "García Harfuch se reúne con el director de la DEA en Washington; reafirman cooperación contra el narcotráfico",
-        "description": "El titular de la SSPC sostuvo un encuentro con el administrador de la DEA para reforzar la captura de objetivos y el intercambio de información estratégica.",
+        "article_id": "b975b1c31e5f8afb9c124a9b0c02e9ba",
+        "link": "https://www.futbolred.com/champions-league/sporting-vs-bodo-glimt-en-vivo-con-luis-suarez-y-compania-vuelta-de-octavos-de-champions-264610",
+        "title": "Sporting 0-0 Bodo Glimt EN VIVO Luis Suárez y compañía, a remontar",
+        "description": "El equipo portugués tiene la ardua tarea de remontar tres goles en la serie de octavos.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "seguridad"
+            "luis suarez",
+            "bodo glimt",
+            "glimt",
+            "champions league",
+            "sporting",
+            "remontar",
+            "suarez",
+            "compania"
         ],
         "creator": [
-            "ximena.ochoa@tvazteca.com.mx (ximena ochoa)"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "world"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-16 17:13:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:42:58",
-        "image_url": "https://tvazteca.brightspotcdn.com/de/ae/c532c6c044688860cb3c6e02eae6/dea-harfuch-2026-portada-1300-x-732-px.webp",
-        "video_url": null,
-        "source_id": "adn40",
-        "source_name": "Adn40",
-        "source_priority": 220795,
-        "source_url": "https://www.adn40.mx",
-        "source_icon": "https://n.bytvi.com/adn40.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "加西亚·哈富赫在华盛顿会见美国缉毒局局长；重申合作打击贩毒",
-        "description_zh": "SSPC 负责人与 DEA 局长举行了会议，以加强目标的捕捉和战略信息的交流。"
-    },
-    {
-        "article_id": "5e9c11005a74a0a37e66853524932074",
-        "link": "https://www.eldinamo.cl/politica/2026/03/16/pnl-solicita-comision-investigadora-por-estallido-social-y-acusa-a-partidos-politicos-queremos-saber-hasta-que-punto-participaron-en-la-organizacion-de-la-violencia/",
-        "title": "PNL solicita comisión investigadora por estallido social y acusa a partidos políticos: \"Queremos saber hasta qué punto participaron en la organización de la violencia\"",
-        "description": "“Esto lo debió haber aclarado hace ya bastante tiempo la Fiscalía”, aseguró Johannes Kaiser, quien también busca que se investigue la respuesta institucional a los hechos relacionados al 18-O.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "política",
-            "estallido social",
-            "partido nacional libertario",
-            "johannes kaiser"
-        ],
-        "creator": [
-            "francisco rosales"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-16 17:13:36",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:41:16",
-        "image_url": "https://media.eldinamo.cl/2026/03/Kaiser-PNL-comision-estallido-social.png",
-        "video_url": null,
-        "source_id": "eldinamo",
-        "source_name": "El Dinamo",
-        "source_priority": 139625,
-        "source_url": "https://www.eldinamo.cl",
-        "source_icon": "https://n.bytvi.com/eldinamo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "PNL要求成立调查委员会对社会爆发事件进行调查，并指责政党：“我们想知道他们在多大程度上参与了暴力组织”",
-        "description_zh": "“检察官办公室早就应该澄清这一点，”约翰内斯·凯泽 (Johannes Kaiser) 说，他还试图调查机构对 18-O 相关事件的反应。"
-    },
-    {
-        "article_id": "932413bc4da31276e8d03395b09c1e29",
-        "link": "https://actualidad.rt.com/actualidad/593296-preguntan-trump-israel-atacaria-iran",
-        "title": "Trump responde si Israel atacaría a Irán con armas nucleares",
-        "description": "\"Nunca lo harían\", afirmó el mandatario estadounidense.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "rt en español"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-16 17:13:31",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:35:11",
-        "image_url": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b83eeb59bf5b23a71517f8.jpg",
-        "video_url": null,
-        "source_id": "rt_mx",
-        "source_name": "Rt",
-        "source_priority": 19092,
-        "source_url": "https://actualidad.rt.com",
-        "source_icon": "https://n.bytvi.com/rt_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "特朗普回答以色列是否会用核武器攻击伊朗",
-        "description_zh": "“他们永远不会这样做，”美国总统说。"
-    },
-    {
-        "article_id": "8d1874781c938be6dabf56925cf65f4a",
-        "link": "https://www.elespectador.com/politica/elecciones-colombia-2026/asi-quedara-el-tarjeton-electoral-de-la-primera-vuelta-la-mesa-redonda-noticias-hoy/",
-        "title": "Así quedará el tarjetón electoral de la primera vuelta presidencial|La Mesa Redonda",
-        "description": "Así quedará el tarjetón electoral de la primera vuelta a la Presidencia. Este fue el análisis de La Mesa Redonda.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "política, noticias, noticias de política, colombia hoy, noticias políticas, política de colombia, colombia, candidatos presidenciales, candidatos a la presidencia, paloma valencia, sergio fajardo, abelardo de la espriella, tarjetón primera vuelta"
-        ],
-        "creator": [
-            "el espectador"
+            "casa editorial el tiempo; ramon eduardo castro daza"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "top",
-            "lifestyle"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:29",
+        "pubDate": "2026-03-17 17:39:22",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:16:38",
-        "image_url": "https://www.elespectador.com/resizer/v2/SIJ756ARYJHIXNLKZ3EJGQC6YQ.jpeg?auth=2cd6f2941f310e299101ffb3f90886d932f88c83da3002483a4cd15dc839eea0&smart=true",
+        "fetched_at": "2026-03-17 18:01:51",
+        "image_url": "https://www.futbolred.com/files/og_thumbnail/uploads/2026/03/07/69ac932380336.jpeg",
         "video_url": null,
-        "source_id": "elespectador",
-        "source_name": "Elespectador.com",
-        "source_priority": 589787,
-        "source_url": "http://elespectador.com",
-        "source_icon": "https://n.bytvi.com/elespectador.png",
+        "source_id": "futbolred",
+        "source_name": "Futbolred",
+        "source_priority": 17422,
+        "source_url": "https://www.futbolred.com",
+        "source_icon": "https://n.bytvi.com/futbolred.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -756,38 +760,88 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "这就是第一轮总统选举卡的样子|拉梅萨雷东达",
-        "description_zh": "这就是第一轮总统选举的选举卡的样子。这是圆桌会议的分析。"
+        "title_zh": "体育 0-0 Bodo Glimt LIVE 路易斯·苏亚雷斯和他的同伴将卷土重来",
+        "description_zh": "葡萄牙队在16强系列赛中三球逆转的任务艰巨。"
     },
     {
-        "article_id": "2267d780e709eab085e021bfff582bb9",
-        "link": "https://www.diario-deportes.com/futbol/descripcion-general-man-utd-contra-sunderland-cuartos-de-final-de-la-copa-fa-juvenil-2026/245927/",
-        "title": "Descripción general | Man Utd contra Sunderland | Cuartos de final de la Copa FA Juvenil 2026",
-        "description": "El equipo de Darren Fletcher llegó a esta fase con victorias en casa contra el Peterborough United (1-0) y el Derby County (2-1). En la última ronda ganamos 4-1 al Oxford United, con goles de Albert Mills, Gabriel, Chido Obi y Noah Ajayi. Sunderland venció a Brighton & Hove Albion en la quinta ronda. En [...]",
+        "article_id": "b9196145cc4ce350d192e61ceefd29e4",
+        "link": "https://www.infobae.com/colombia/2026/03/17/armando-benedetti-afirmo-que-estados-unidos-le-reactivo-su-visa-hasta-agosto-pero-aclaro-que-esta-tendra-vigencia-limitada/",
+        "title": "Armando Benedetti afirmó que Estados Unidos le reactivó su visa, pero aclaró que esta tendrá vigencia limitada: “Yo no me monto en ningún avión”",
+        "description": "La autorización que permite al jefe de la cartera del Interior ingresar a territorio estadounidense caducará al término del actual periodo presidencial",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "visa estados unidos",
+            "gustavo petro",
+            "7 de agosto",
+            "armando benedetti",
+            "colombia-noticias"
+        ],
         "creator": [
-            "benito garcía"
+            "frank  saavedra"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "united states of america",
+            "mexico",
+            "colombia"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-17 17:39:21",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-17 18:05:08",
+        "image_url": "https://www.infobae.com/resizer/v2/7IC3MKACZ5GH5FPB2T7AAPPNUA.jpg?auth=4572aaea6db1457673a8c7eda322d254e48760b1ae7a1e2594f866350eaa2cb0&smart=true&width=900&height=600",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "阿曼多·贝内代蒂确认美国重新激活了他的签证，但澄清说签证的有效期有限：“我不会乘坐任何飞机。”",
+        "description_zh": "允许内政部长进入美国领土的授权将在本届总统任期结束时到期"
+    },
+    {
+        "article_id": "b5c5a7386ef94a72448adbca68f995fd",
+        "link": "https://90minutos.co/emisiones-anteriores/emision-central-noticiero-90-minutos-17-marzo-2026-17-03-2026/",
+        "title": "Emisión central Noticiero 90 Minutos - 17 de marzo de 2026",
+        "description": "Las noticias más importantes de Cali y todo el suroccidente colombiano en 90 Minutos, el mejor noticiero regional más visto de Colombia. Emisión central Noticiero 90 Minutos - 17 de marzo de 2026 aparece en Noticiero 90 Minutos .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "valle del cauca",
+            "colombia",
+            "cali"
+        ],
+        "creator": [
+            "ana maría marles muñoz"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "top",
-            "lifestyle"
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:29",
+        "pubDate": "2026-03-17 17:39:21",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:33:15",
-        "image_url": "https://www.diario-deportes.com/wp-content/uploads/2026/03/IMG_8223_OQqOQE931773660659233_large.jpg",
+        "fetched_at": "2026-03-17 17:44:37",
+        "image_url": "https://90minutos.co/90minutos.co/wp-content/uploads/2026/03/fenomeno-el-nino-colombia-.jpg",
         "video_url": null,
-        "source_id": "diariodeportes",
-        "source_name": "Diario Deportes",
-        "source_priority": 5090,
-        "source_url": "http://diario-deportes.com",
-        "source_icon": "https://n.bytvi.com/diariodeportes.png",
+        "source_id": "90minutos_co",
+        "source_name": "90 Minutos",
+        "source_priority": 1674507,
+        "source_url": "https://90minutos.co",
+        "source_icon": "https://n.bytvi.com/90minutos_co.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -795,20 +849,31 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "概述 |曼联 vs 桑德兰 | 2026年青年足总杯四分之一决赛",
-        "description_zh": "达伦·弗莱彻的球队在主场战胜了彼得伯勒联队（1-0）和德比郡队（2-1），进入了这一阶段。上一轮我们凭借阿尔伯特·米尔斯、加布里埃尔、奇多·奥比和诺阿·阿贾伊的进球以 4-1 击败牛津联队。桑德兰在第五轮比赛中击败布莱顿"
+        "title_zh": "中央广播新闻联播90分钟-2026年3月17日",
+        "description_zh": "《90 分钟》是哥伦比亚最好、收视率最高的地区新闻节目，提供来自卡利和整个哥伦比亚西南部的最重要新闻。中央广播《Noticiero 90 Minutos》 - 2026 年 3 月 17 日出现在《Noticiero 90 Minutos》上。"
     },
     {
-        "article_id": "e67be9a8d30671def717745507831e8b",
-        "link": "https://www.eluniversal.com.mx/nacion/sheinbaum-anuncia-intervencion-territorial-contra-desnutricion-infantil-admite-que-aun-hay-casos/",
-        "title": "Sheinbaum anuncia intervención territorial contra desnutrición infantil; admite que aún hay casos",
-        "description": "La Presidenta dijo que con esta intervención se busca garantizar la alimentación de la madre y de los pequeños en la primera infancia",
+        "article_id": "c41b9ffc5585a64d7e2474fa9cd477bb",
+        "link": "https://lineadirectaportal.com/entretenimiento/dune-parte-3-lanza-primer-trailer-y-adelanta-un-final-mas-oscuro-cuando-se-estrena-en-cines-2026-03-17__1592100",
+        "title": "Dune: Parte 3 lanza primer tráiler y adelanta un final más oscuro ¿Cuándo se estrena en cines?",
+        "description": "La tercera y última parte de esta trilogía dirigida por Denis Villeneuve, promete dar un cierre estelar y de lo más épico a la historia de Paul Atreides",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "claudia sheinbaum,la mañanera de sheinbaum,la mañanera del pueblo,desnutricion infantil,indisces de desnutricion en mexico"
+            "entretenimiento",
+            "película",
+            "tráiler de dune 3",
+            "cine",
+            "warner bros",
+            "películas",
+            "estrenos",
+            "zendaya",
+            "dune 3",
+            "noticias entretenimiento",
+            "dune",
+            "timothée chalamet"
         ],
         "creator": [
-            "el universal"
+            "melissa martínez"
         ],
         "language": "spanish",
         "country": [
@@ -818,16 +883,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-16 17:13:26",
+        "pubDate": "2026-03-17 17:39:15",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-16 17:35:24",
-        "image_url": "https://www.eluniversal.com.mx/resizer/v2/3O6SDUHUVRFTLPJDMJXV5325CA.jpg?auth=c11c457c32fcb81eea35d5a2f5eedf415b2d50860abab707d6683adcb4519b3c&height=740&smart=true&width=1201",
+        "fetched_at": "2026-03-17 18:02:30",
+        "image_url": "https://lineadirectaportal.com/wp-content/uploads/2026/03/dune-3.png",
         "video_url": null,
-        "source_id": "eluniversal",
-        "source_name": "El Universal",
-        "source_priority": 8884,
-        "source_url": "https://www.eluniversal.com.mx",
-        "source_icon": "https://n.bytvi.com/eluniversal.png",
+        "source_id": "lineadirectaportal",
+        "source_name": "Linea Directa",
+        "source_priority": 133115,
+        "source_url": "https://lineadirectaportal.com",
+        "source_icon": "https://n.bytvi.com/lineadirectaportal.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -835,7 +900,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "希因鲍姆宣布对儿童营养不良进行领土干预；承认仍有病例",
-        "description_zh": "总统表示，这项干预措施旨在保证母亲和儿童幼儿期的营养。"
+        "title_zh": "沙丘：第 3 部分发布了第一部预告片并预告了一个更黑暗的结局。什么时候在影院上映？",
+        "description_zh": "这部三部曲的第三部也是最后一部由丹尼斯·维伦纽瓦执导，有望为保罗·阿特雷迪斯的故事提供一个精彩、最史诗般的结局"
     }
 ]
