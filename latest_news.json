@@ -1,13 +1,22 @@
 [
     {
-        "article_id": "02fcccbc0b77be473e6b0ba0ec674b58",
-        "link": "https://whiplash.net/materias/news_673/377770-luismariutti.html",
-        "title": "O dia que Luis Mariutti e Roy Z vandalizaram as linhas de bateria de Rafael Rosa",
-        "description": "Segundo o baixista, o baterista Rafael Rosa tinha um método bastante meticuloso de trabalho, onde escrevia todas as suas linhas de bateria em um caderno...",
+        "article_id": "7a52371ab1cb03685dfe0a4d25392a84",
+        "link": "https://www.correiobraziliense.com.br/revista-do-correio/2026/03/7383761-caspa-em-bebes-e-criancas-entenda-as-causas-e-tratamentos.html",
+        "title": "Caspa em bebês e crianças: entenda as causas, sintomas e tratamentos",
+        "description": "A condição, comum na infância, pode gerar coceira e desconforto; veja dicas de especialistas para cuidar da saúde do couro cabeludo dos pequenos",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "crianças",
+            "saúde",
+            "& family",
+            "relationships",
+            "caspa",
+            "infância",
+            "cuidados",
+            "friends"
+        ],
         "creator": [
-            "luis fernando ribeiro e leandro abrantes"
+            "jéssica andrade"
         ],
         "language": "portuguese",
         "country": [
@@ -18,16 +27,16 @@
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-24 17:17:00",
+        "pubDate": "2026-03-25 17:52:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 18:10:20",
-        "image_url": "https://whiplash.net/imagens_promo_22/luismariutti_facebook_por_thiago_kiss_arte_joao_duarte.jpg",
+        "fetched_at": "2026-03-25 18:59:29",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/03/25/caspas-em-bebes-e-criancas-65613438.jpg",
         "video_url": null,
-        "source_id": "whiplash",
-        "source_name": "Whiplash",
-        "source_priority": 97693,
-        "source_url": "https://whiplash.net",
-        "source_icon": "https://n.bytvi.com/whiplash.png",
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -35,18 +44,18 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "路易斯·马里乌蒂 (Luis Mariutti) 和罗伊·Z (Roy Z) 破坏拉斐尔·罗莎 (Rafael Rosa) 鼓线的那一天",
-        "description_zh": "据贝斯手介绍，鼓手拉斐尔·罗莎（Rafael Rosa）的工作方法非常细致，他将所有的鼓线写在笔记本上......"
+        "title_zh": "婴儿和儿童的头皮屑：了解原因、症状和治疗方法",
+        "description_zh": "这种情况在儿童时期很常见，会引起瘙痒和不适。查看有关照顾孩子头皮健康的专家提示"
     },
     {
-        "article_id": "1279b587ec6f2fa03b5ac58a049b462a",
-        "link": "https://oantagonista.com.br/ladooa/entretenimento/onde-estao-os-descendentes-de-hitler-atualmente/",
-        "title": "Onde estão os descendentes de Hitler atualmente",
-        "description": "Conheça a história dos descendentes vivos de Hitler, familiares colaterais que evitaram a fama e mantêm suas vidas longe do legado do ditador The post Onde estão os descendentes de Hitler atualmente appeared first on O Antagonista .",
+        "article_id": "6314757eeacc8bb21a2c5d94a4532f97",
+        "link": "https://tribunadepetropolis.com.br/noticias/franca-afirma-que-danos-no-golfo-reduzem-fornecimento-de-petroleo-em-11-milhoes-de-bpd/",
+        "title": "França afirma que danos no Golfo reduzem fornecimento de petróleo em 11 milhões de bpd",
+        "description": "O ministro das Finanças da França, Roland Lescure, disse na quarta-feira, 25, que 30% a 40% da capacidade de refino no Golfo foi danificada ou destruída, levando a uma crise de petróleo, especialmente em alguns países asiáticos. “Como resultado, estamos agora enfrentando um mercado de petróleo onde faltam 11 milhões de barris por dia”, afirmou. [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "nicolas otto"
+            "por associated press; estadão"
         ],
         "language": "portuguese",
         "country": [
@@ -54,19 +63,20 @@
         ],
         "category": [
             "top",
-            "entertainment"
+            "crime",
+            "health"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-03-24 17:17:00",
+        "datatype": "news",
+        "pubDate": "2026-03-25 17:52:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:53:00",
-        "image_url": "https://cdn.oantagonista.com/uploads/2026/03/descendentes-de-hitler.png",
-        "video_url": "https://www.youtube.com/watch?v=ttkt5pdArZY",
-        "source_id": "oantagonista",
-        "source_name": "O Antagonista",
-        "source_priority": 2104208,
-        "source_url": "https://www.oantagonista.com",
-        "source_icon": "https://n.bytvi.com/oantagonista.png",
+        "fetched_at": "2026-03-25 18:02:16",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "video_url": null,
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -74,133 +84,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "希特勒的后裔如今在哪里？",
-        "description_zh": "探索希特勒活着的后裔的故事，他们是避免名声、让自己的生活远离独裁者遗产的旁系家庭成员的故事。《希特勒的后裔今天在哪里》一文首先出现在《O Antagonista》上。"
+        "title_zh": "法国称海湾地区石油供应减少1100万桶/日",
+        "description_zh": "法国财政部长罗兰·莱斯库尔周三表示，海湾地区30%至40%的炼油能力遭到破坏或摧毁，导致石油危机，特别是在一些亚洲国家。 “因此，我们现在面临着石油市场"
     },
     {
-        "article_id": "b7c07767894156d20328be27f7ebf65d",
-        "link": "https://www.terra.com.br/vida-e-estilo/saude/patente-do-ozempic-ja-expirou-e-a-do-mounjaro-quando-cai,73c653a9efaaf04e2aec5d1ecdfe28f1murko2o8.html",
-        "title": "Patente do Ozempic já expirou — e a do Mounjaro, quando cai?",
-        "description": "A patente da semaglutida (princípio-ativo de Ozempic e Wegovy) expirou na última sexta-feira, ...",
+        "article_id": "69aacaffbb6d747de8830a7eece8fb35",
+        "link": "https://www.lanacion.com.ar/estados-unidos/la-regla-del-irs-para-obtener-un-cheque-de-us500-que-aplica-a-personas-de-entre-18-y-24-anos-nid25032026/",
+        "title": "La regla del IRS para obtener un cheque de US$500, que aplica a personas de entre 18 y 24 años: requisitos",
+        "description": "IRS ofrece crédito de hasta US$500 por hijos de 18 a 24 años: quiénes califican, requisitos clave y cómo aplicarlo en la declaración de impuestos.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "diabete",
-            "semaglutida",
-            "medicina e estudos",
-            "obesidade",
-            "ozempic",
-            "mounjaro",
-            "tirzepatida",
-            "patente"
+            "las últimas noticias sobre irs y declaración de impuestos",
+            "agenda de temas específicos de us hispanic"
         ],
         "creator": [
-            "isabela moya"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-24 17:16:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:36:12",
-        "image_url": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-        "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "Ozempic 的专利已经过期——Mounjaro 的专利什么时候过期？",
-        "description_zh": "索马鲁肽（Ozempic 和 Wegovy 的活性成分）的专利于上周五到期，..."
-    },
-    {
-        "article_id": "f9fed84981d2242a2ba563064606c6c7",
-        "link": "https://www.infobae.com/america/agencias/2026/03/24/detenidos-tres-sospechosos-del-ataque-en-republica-checa-a-una-empresa-de-defensa-israeli/",
-        "title": "Detenidos tres sospechosos del ataque en República Checa a una empresa de defensa israelí",
-        "description": "Detenidos tres sospechosos del ataque en República Checa a una empresa de defensa israelí",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "europapress"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "argentina",
-            "mexico",
-            "united states of america"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-24 17:16:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:30:56",
-        "image_url": "https://www.infobae.com/resizer/v2/EONMS2FVT5HGLILVAE3C2HMQDI.jpg?auth=5cde307774681d90522e4cec01ead8c0908ead7cfc38d0390537c803ec761ea5&smart=true&width=1920&height=1282",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "三名嫌疑人因袭击捷克共和国一家以色列国防公司而被捕",
-        "description_zh": "三名嫌疑人因袭击捷克共和国一家以色列国防公司而被捕"
-    },
-    {
-        "article_id": "89fe8ccb219f7372b55a2c3fc58f793f",
-        "link": "https://www.clarin.com/fama/50-anos-golpe-marcos-giles-revelo-familiar-desaparecido-abuela-todavia-encontro-cuerpo_0_pHMo5nCaTb.html",
-        "title": "A 50 años del golpe, Marcos Giles reveló que tiene un familiar desaparecido: \"Mi abuela todavía no encontró el cuerpo\"",
-        "description": "El streamer contó una dura historia personal en LUZU TV. La reflexión de Nicolás Occhiato sobre del golpe de Estado del 24 de marzo de 1976.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ángela torres",
-            "nicolás occhiato",
-            "luzu tv"
-        ],
-        "creator": [
-            "redacción clarín"
+            "la nacion"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
+            "top",
             "lifestyle"
         ],
-        "datatype": "news",
-        "pubDate": "2026-03-24 17:16:51",
+        "datatype": "multimedia",
+        "pubDate": "2026-03-25 17:52:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:32:02",
-        "image_url": "https://cdn.jwplayer.com/v2/media/Qmiyc3O4/poster.jpg?width=320",
+        "fetched_at": "2026-03-25 18:14:39",
+        "image_url": "https://resizer.glanacion.com/resizer/v2/3ZBJD5TQARB5HE5JPXIAEESS4Q.jpg?auth=4087b2c6ca44001d695bb2b308ae479565ac6633f460199229b72c32422fbdb5&smart=true&width=2000&height=1333",
         "video_url": null,
-        "source_id": "clarin",
-        "source_name": "Clarin",
-        "source_priority": 1115,
-        "source_url": "https://www.clarin.com",
-        "source_icon": "https://n.bytvi.com/clarin.png",
+        "source_id": "lanacion",
+        "source_name": "La Nacion",
+        "source_priority": 7204,
+        "source_url": "https://www.lanacion.com.ar",
+        "source_icon": "https://n.bytvi.com/lanacion.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -208,35 +126,282 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "政变50年后，马科斯贾尔斯透露他有一名失踪的亲戚：“我的祖母仍然没有找到尸体”",
-        "description_zh": "这位主播在 LUZU TV 上讲述了一个艰难的个人故事。尼古拉斯·奥奇亚托 (Nicolás Occhiato) 对 1976 年 3 月 24 日政变的反思。"
+        "title_zh": "IRS 规定获得 500 美元支票，适用于 18 岁至 24 岁之间的人：要求",
+        "description_zh": "IRS 为 18 至 24 岁的儿童提供高达 500 美元的抵免额：谁符合资格、关键要求以及如何在纳税申报表上应用该抵免额。"
     },
     {
-        "article_id": "e65b01defcce434e5f8978720e12d0d1",
-        "link": "https://www.infobae.com/espana/agencias/2026/03/24/uriarte-asegura-que-las-amenazas-incluso-le-han-dado-fuerza-para-seguir-adelante/",
-        "title": "Uriarte asegura que las amenazas incluso le \"han dado fuerza para seguir adelante\"",
-        "description": "Uriarte asegura que las amenazas incluso le \"han dado fuerza para seguir adelante\"",
+        "article_id": "ce58b45e77f61a12a4d555e23435072f",
+        "link": "https://valor.globo.com/financas/noticia/2026/03/25/ouro-dispara-e-se-afasta-das-minimas-do-ano-com-recuo-do-petroleo.ghtml",
+        "title": "Ouro dispara e se afasta das mínimas do ano com recuo do petróleo",
+        "description": "Os contratos futuros de ouro dispararam nesta quar...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
+        "keywords": [
+            "nymex",
+            "petróleo",
+            "guerra do irã em 2026",
+            "new york times (empresa)",
+            "comex",
+            "contrato futuro",
+            "título público",
+            "estados unidos"
         ],
-        "language": "spanish",
+        "creator": null,
+        "language": "portuguese",
         "country": [
-            "colombia",
-            "argentina",
-            "mexico",
-            "united states of america"
+            "brazil"
         ],
         "category": [
             "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-24 17:16:51",
+        "pubDate": "2026-03-25 17:51:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:30:56",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "fetched_at": "2026-03-25 18:19:54",
+        "image_url": "https://s2-valor.glbimg.com/oM6iXclMfgWObheWuoMch-DZSFQ=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/k/f/e2wv5aSqeTMGzPzV41Aw/434553121.jpg",
+        "video_url": null,
+        "source_id": "valor_globo",
+        "source_name": "Valor Globo",
+        "source_priority": 2786,
+        "source_url": "https://valor.globo.com",
+        "source_icon": "https://n.bytvi.com/valor_globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "随着油价下跌，金价飙升并脱离今年低点",
+        "description_zh": "黄金期货周三大幅上涨..."
+    },
+    {
+        "article_id": "69fe66d2b807f02880148a03751018aa",
+        "link": "https://www.bemparana.com.br/noticias/regiao-metropolitana/tarifa-social-faz-numero-de-passageiros-crescer-quase-36-em-campo-largo/",
+        "title": "Tarifa social faz número de passageiros crescer quase 36% em Campo Largo",
+        "description": "A redução no valor da passagem de ônibus já começa a mudar a rotina em Campo Largo. Desde a implantação... O post Tarifa social faz número de passageiros crescer quase 36% em Campo Largo apareceu primeiro em Bem Paraná .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-25 17:51:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-26 01:33:57",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "bemparana_br",
+        "source_name": "Bemparana Br",
+        "source_priority": 2047682,
+        "source_url": "https://www.bemparana.com.br",
+        "source_icon": "https://n.bytvi.com/bemparana_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "社会票价使 Campo Largo 的乘客数量增加了近 36%",
+        "description_zh": "巴士票价的降低已经开始改变 Campo Largo 的生活习惯。自实施以来......后社会票价使 Campo Largo 的乘客数量增加了近 36%，首先出现在 Bem Paraná。"
+    },
+    {
+        "article_id": "9b71ad137144ecf377a7843d4dc5a236",
+        "link": "http://folha.qconcursos.com/n/processo-seletivo-ifg-formosa-go-1-vaga-professor-de-educacao-fisica",
+        "title": "Processo seletivo IFG Formosa GO: 1 vaga professor de Educação Física",
+        "description": "IFG Campus Formosa GO abre 1 vaga para professor substituto de Educação Física. Salário até R$ 8.058",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "redação folha dirigida"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-25 17:51:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-25 19:27:31",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "folhaqconcursos",
+        "source_name": "Folha Dirigida",
+        "source_priority": 133192,
+        "source_url": "https://folha.qconcursos.com",
+        "source_icon": "https://n.bytvi.com/folhaqconcursos.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "IFG Formosa GO选拔流程：1名体育教师空缺",
+        "description_zh": "IFG 福尔摩沙校区 GO 开设 1 个代课体育老师空缺。薪资高达 8,058 雷亚尔"
+    },
+    {
+        "article_id": "0564d9b99a27028fe536d4cd4eff6f61",
+        "link": "https://g1.globo.com/pi/piaui/noticia/2026/03/25/estudantes-piauienses-bullying.ghtml",
+        "title": "Quatro em cada dez estudantes piauienses sofreram bullying na escola, aponta pesquisa do IBGE",
+        "description": "Mais de 40% dos estudantes piauienses dizem ter sofrido bullying Jesús Rodríguez / Unsplash A Pesquisa Nacional de Saúde do Escolar (PeNSE) 2024 divulgada nesta quarta-feira (25) pelo Instituto Brasileiro de Geografia e Estatística (IBGE) apontou que quatro em cada dez (41,8%) dos estudantes do Piauí com idades entre 13 a 17 anos de idade afirmaram ter sofrido bullying em algum momento da vida. A proporção da pesquisa em 2019 havia sido de 39,6%, o que representa um aumento de 2,2 pontos percentuais em relação ao último levantamento. ✅ Siga o canal do g1 Piauí no WhatsApp Veja os vídeos que estão em alta no g1 🔎 A PeNSE é realizada pelo IBGE em parceria com o Ministério da Saúde e com apoio do Ministério da Educação, e fornece indicadores sobre fatores de risco e proteção de escolares. A divulgação desta quarta-feira é a quinta edição do levantamento, realizado no ano de 2024 e oferece um retrato de uma população estimada em mais de 12,3 milhões de jovens entre 13 e 17 anos matriculados em escolas públicas e privadas de todo o país. Entre os motivos apontados pelos jovens, estão: 29,8% - aparência do rosto ou do cabelo; 20,7% - aparência do corpo; 13,2% - cor ou raça; 10,8% - sotaque ou jeito de falar; 9% - roupas, calçados, mochila ou material escolar; 5,8% - religião; 5,5% - identidade de gênero ou orientação sexual; 3,3% - deficiência. 35,5% dos estudantes indicaram outras razões não especificadas no questionário. Entretanto, no âmbito da internet, o número de estudantes que sofreram bullying cai. Cerca de 13,8% dos estudantes piauienses afirmaram o recebimento de ofensas ou ameaças nas redes sociais. Em relação ao gênero, o bullying virtual foi denunciado por 14% meninas e 13,6% meninos. No Brasil, a proporção de estudantes que se sentiram humilhados pelos colegas foi de 40,3%, pouco menor que a proporção registrada no o Piauí (41,8%). VÍDEOS: assista aos vídeos mais vistos da Rede Clube",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-25 17:51:43",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-25 18:11:42",
+        "image_url": "https://s2-g1.glbimg.com/5dsqZtLIo48-q9d73cOkfxrVnKA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/P/9AsubZSHqZJWw14yCzag/edicao-imagens-g1-30-.png",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "根据 IBGE 研究，十分之四的皮奥伊学生在学校遭受欺凌",
+        "description_zh": "皮奥伊州超过 40% 的学生表示，他们遭受过欺凌 Jesús Rodríguez / Unsplash 巴西地理与统计研究所 (IBGE) 本周三 (25 日) 发布的 2024 年全国学校健康调查 (PeNSE) 显示，十分之四 (41.8%) 的学生"
+    },
+    {
+        "article_id": "cc609913cbbe5ecc01793575b3e8c6fb",
+        "link": "https://www.tribunapr.com.br/variedades/ozempic-e-mau-halito-entenda-a-relacao-do-medicamento-com-a-halitose/",
+        "title": "Ozempic e mau hálito: entenda a relação do medicamento com a halitose",
+        "description": "O uso de medicamentos para emagrecimento à base de semaglutida, como o Ozempic, tem acendido um alerta entre profissionais de [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "saúde",
+            "saúde &amp; bem-estar",
+            "bem-estar",
+            "edicase",
+            "saúde bucal"
+        ],
+        "creator": [
+            "edicase"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-25 17:51:36",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-25 22:04:53",
+        "image_url": "https://www.tribunapr.com.br/wp-content/uploads/2026/03/25175119/ozempic-canetas.jpg",
+        "video_url": null,
+        "source_id": "tribunapr_br",
+        "source_name": "Tribuna Pr",
+        "source_priority": 1000827,
+        "source_url": "https://www.tribunapr.com.br",
+        "source_icon": "https://n.bytvi.com/tribunapr_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "臭氧与口臭：了解药物与口臭之间的关系",
+        "description_zh": "基于索马鲁肽的减肥药物（例如 Ozempic）的使用引起了医疗保健专业人员的警惕 [...]"
+    },
+    {
+        "article_id": "c66f16fbc5362764161ddca2f1e5c67c",
+        "link": "https://www.diariolavozdelchaco.com/2026/03/25/caso-navarro-los-dos-sospechosos-del-crimen-se-abstuvieron-de-declarar-ante-la-justicia/",
+        "title": "Caso Navarro: los dos sospechosos del crimen se abstuvieron de declarar ante la Justicia",
+        "description": "En el marco de la investigación por la muerte de Bernabé Navarro, el hombre hallado sin vida tras permanecer desaparecido casi dos meses, este miércoles los dos hombres detenidos como principales sospechosos se abstuvieron de declarar ante la Justicia. Así lo confirmó la fiscal Gisela Oñuk quien además señaló que aún se aguardan los resultados [...] La entrada Caso Navarro: los dos sospechosos del crimen se abstuvieron de declarar ante la Justicia se publicó primero en Diario La Voz del Chaco .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "santiago angarola"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-25 17:51:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-25 18:39:18",
+        "image_url": "https://www.diariolavozdelchaco.com/wp-content/uploads/2026/03/1-201.jpg",
+        "video_url": null,
+        "source_id": "diariolavozdelchaco",
+        "source_name": "Diariolavozdelchaco",
+        "source_priority": 3887517,
+        "source_url": "https://www.diariolavozdelchaco.com",
+        "source_icon": "https://n.bytvi.com/diariolavozdelchaco.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "纳瓦罗案：两名犯罪嫌疑人放弃在法官面前作证",
+        "description_zh": "在伯纳贝·纳瓦罗（Bernabé Navarro）死亡调查的框架内，这名男子在失踪近两个月后被发现死亡，本周三，这两名男子因主要嫌疑人没有在司法面前作证而被拘留。检察官吉塞拉·奥努克（Gisela Oñuk）证实了这一点。"
+    },
+    {
+        "article_id": "eae134f8708fb0b82259995d799c9f28",
+        "link": "https://www.infobae.com/mexico/2026/03/25/unam-e-imss-buscan-fomentar-la-donacion-de-sangre-con-campana-latido-puma-esta-es-la-fecha-limite-para-participar/",
+        "title": "La UNAM e IMSS buscan fomentar la donación de sangre con campaña Latido Puma, esta es la fecha límite para participar",
+        "description": "Las autoridades universitarias y de salud exhortaron a la población a participar en esta jornada que concluye el jueves 26 de marzo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mexico-noticias",
+            "unam",
+            "imss",
+            "donación de sangre",
+            "salud"
+        ],
+        "creator": [
+            "diana morán reyes"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "argentina",
+            "united states of america",
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-25 17:51:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-25 18:10:40",
+        "image_url": "https://www.infobae.com/resizer/v2/XHURXNYOSVBOXNYLJ4T3RTIFRM.png?auth=19fb5f7b16809fd4a2f1ed326c5f2388e827168f371ade18a4f378849c2eb4c8&smart=true&width=1920&height=1080",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -250,37 +415,80 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "乌里亚特保证，这些威胁甚至“给了他前进的力量”",
-        "description_zh": "乌里亚特保证，这些威胁甚至“给了他前进的力量”"
+        "title_zh": "UNAM 和 IMSS 寻求通过 Latido Puma 活动促进献血，这是参与的最后期限",
+        "description_zh": "大学和卫生当局敦促民众参加这一于 3 月 26 日星期四结束的日子"
     },
     {
-        "article_id": "d3c6c3193d2aa99e3f2b565ff3f875b8",
-        "link": "https://br.investing.com/news/stock-market-news/acoes-de-software-sofrem-novamente-com-claude-e-outros-seis-fatores-1878835",
-        "title": "Ações de software sofrem novamente com Claude e outros seis fatores",
-        "description": "Ações de software sofrem novamente com Claude e outros seis fatores",
+        "article_id": "d85bcc6b7d8f6b3c335a33bfda09c530",
+        "link": "https://www.diariodelsur.com.co/seis-recomendaciones-claves-para-un-viaje-seguro-en-motocicleta-mi-familia-me-espera/",
+        "title": "Seis recomendaciones claves, para un viaje seguro en motocicleta “Mi familia me espera”",
+        "description": "Bajo su campaña de seguridad vial, “Mi Familia me Espera” pretende generar conciencia en los motociclistas para disfruta de sus motos de forma segura. La entrada Seis recomendaciones claves, para un viaje seguro en motocicleta “Mi familia me espera” se publicó primero en Diario del Sur .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "frank dematteo"
+            "dagoberto gonzalez"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-25 17:51:57",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-25 18:33:12",
+        "image_url": "https://www.diariodelsur.com.co/wp-content/uploads/2026/03/image-48.jpg",
+        "video_url": null,
+        "source_id": "diariodelsur",
+        "source_name": "Diario Del Sur",
+        "source_priority": 832974,
+        "source_url": "http://diariodelsur.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelsur.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "安全摩托车出行六大建议 “我的家人在等我”",
+        "description_zh": "在道路安全运动中，“我的家人等我”旨在提高摩托车手安全享受摩托车的意识。安全摩托车旅行的六大建议“我的家人在等我”最初发表在《Diario del Sur》上。"
+    },
+    {
+        "article_id": "e025da5776dc65072fd9c29b0eaa5a6e",
+        "link": "https://www.elimparcial.com/son/hermosillo/2026/03/25/mejoran-con-recarpeteo-la-olivares-entre-callejon-rosales-y-camino-del-seri-en-hermosillo-para-agilizar-el-transito-en-las-praderas/",
+        "title": "Mejoran con recarpeteo la Olivares entre callejón Rosales y Camino del Seri en Hermosillo para agilizar el tránsito en Las Praderas",
+        "description": "La obra forma parte del Programa de Recarpeteo 2026, que contempla mejorar 18 vialidades en Hermosillo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "calles de hermosillo",
+            "rehabilitación de calles",
+            "ayuntamiento de hermosillo"
+        ],
+        "creator": [
+            "redacción gh"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
         ],
         "category": [
             "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-24 17:16:48",
+        "pubDate": "2026-03-25 17:51:51",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:37:10",
-        "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXNPEL4S0K0_L.jpg",
+        "fetched_at": "2026-03-25 18:17:46",
+        "image_url": "https://www.elimparcial.com/resizer/v2/JLTYW3FN65D7ZIA754EHQLID2Y.jpeg?auth=2e82af276616ada2d65ad78a48b51b35e71c25e9268e5b5c1495b95f2ab9c557&smart=true&width=2048&height=1366",
         "video_url": null,
-        "source_id": "investing_br",
-        "source_name": "Investing Brasil",
-        "source_priority": 33451,
-        "source_url": "https://br.investing.com",
-        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -288,87 +496,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "软件股再次受到克劳德和其他六个因素的影响",
-        "description_zh": "软件股再次受到克劳德和其他六个因素的影响"
+        "title_zh": "他们通过重新铺设埃莫西约 Calle Rosales 和 Camino del Seri 之间的 Olivares 路面来改善拉斯普拉德拉斯的交通",
+        "description_zh": "这项工程是 2026 年 Recarpeteo 计划的一部分，该计划旨在改善埃莫西约的 18 条道路。"
     },
     {
-        "article_id": "d69b1798a4a18fdcf4469dbac242979e",
-        "link": "https://elintransigente.com/2026/03/un-monton-de-deudas-la-turbia-trama-que-se-esconde-detras-de-la-vuelta-de-maxi-lopez-a-argentina/",
-        "title": "«Un montón de deudas»: la turbia trama que se esconde detrás de la vuelta de Maxi López a Argentina",
-        "description": "Agobiado y sin salida. The post «Un montón de deudas»: la turbia trama que se esconde detrás de la vuelta de Maxi López a Argentina appeared first on El Intransigente .",
+        "article_id": "eae134f8708fb0b82259995d799c9f28",
+        "link": "https://www.infobae.com/mexico/2026/03/25/unam-e-imss-buscan-fomentar-la-donacion-de-sangre-con-campana-latido-puma-esta-es-la-fecha-limite-para-participar/",
+        "title": "La UNAM e IMSS buscan fomentar la donación de sangre con campaña Latido Puma, esta es la fecha límite para participar",
+        "description": "Las autoridades universitarias y de salud exhortaron a la población a participar en esta jornada que concluye el jueves 26 de marzo",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "fernanda iglesias",
-            "ezequiel schelotto",
-            "maxi lópez",
-            "puro show"
-        ],
-        "creator": [
-            "marcosperucca"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-03-24 17:16:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:23:06",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/03/640335779_1335743851922919_1299344873655846298_n-1.jpg?fit=1209%2C680&quality=95&ssl=1",
-        "video_url": null,
-        "source_id": "elintransigente",
-        "source_name": "El Intransigente",
-        "source_priority": 3446332,
-        "source_url": "https://elintransigente.com",
-        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“大量债务”：马克西·洛佩斯重返阿根廷背后的阴暗阴谋",
-        "description_zh": "不堪重负，无路可走。 “大量债务”的帖子：马克西·洛佩斯返回阿根廷背后的阴暗阴谋首先出现在《El Intransigente》上。"
-    },
-    {
-        "article_id": "6a68c2e9c658ff76e226b5f775ac11b8",
-        "link": "https://www.infobae.com/mexico/2026/03/24/sheinbaum-reconoce-irregularidades-en-consulados-de-mexico-en-eeuu-tras-denuncias-de-malos-tratos/",
-        "title": "Sheinbaum reconoce irregularidades en consulados de México en EEUU tras denuncias de malos tratos",
-        "description": "“Los consulados tienen una función principal, y más ahora que están sufriendo tanto nuestros paisanos”, declaró la mandataria mexicana",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "consulado de méxico",
-            "política mexicana",
-            "mañanera del pueblo",
-            "claudia sheinbaum",
-            "migrantes",
             "mexico-noticias",
-            "estados unidos"
+            "unam",
+            "imss",
+            "donación de sangre",
+            "salud"
         ],
         "creator": [
-            "samantha godinez"
+            "diana morán reyes"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "argentina",
             "mexico",
-            "united states of america"
+            "argentina",
+            "united states of america",
+            "colombia"
         ],
         "category": [
             "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-24 17:16:45",
+        "pubDate": "2026-03-25 17:51:30",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:30:56",
-        "image_url": "https://www.infobae.com/resizer/v2/VXFBCSABFBHX3GQ25KQBTOTCFI.jpg?auth=5a3c7270f705e1b45d5832bf4f2e3fbccd199a73a4e426a39ec53d475fa56da7&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-03-25 18:10:40",
+        "image_url": "https://www.infobae.com/resizer/v2/XHURXNYOSVBOXNYLJ4T3RTIFRM.png?auth=19fb5f7b16809fd4a2f1ed326c5f2388e827168f371ade18a4f378849c2eb4c8&smart=true&width=1920&height=1080",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -382,68 +544,56 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "希因鲍姆在接到虐待投诉后承认墨西哥驻美国领事馆存在违规行为",
-        "description_zh": "墨西哥总统宣称：“领事馆具有主要职能，在我们的同胞遭受如此多苦难的情况下更是如此。”"
+        "title_zh": "UNAM 和 IMSS 寻求通过 Latido Puma 活动促进献血，这是参与的最后期限",
+        "description_zh": "大学和卫生当局敦促民众参加这一于 3 月 26 日星期四结束的日子"
     },
     {
-        "article_id": "73e8c71851fee65e67490d6dc1071b40",
-        "link": "https://www.infobae.com/america/agencias/2026/03/24/al-menos-un-muerto-y-seis-heridos-por-un-ataque-del-ejercito-de-ucrania-contra-la-region-de-kursk-en-rusia/",
-        "title": "Al menos un muerto y seis heridos por un ataque del Ejército de Ucrania contra la región de Kursk, en Rusia",
-        "description": "Al menos un muerto y seis heridos por un ataque del Ejército de Ucrania contra la región de Kursk, en Rusia",
+        "article_id": "8480306b84ca02441aed5d648995f05a",
+        "link": "https://diariofarma.com/2026/03/25/las-eerr-necesitan-una-respuesta-europea-estructurada-y-si-es-posible-legislativa",
+        "title": "“Las EERR necesitan una respuesta europea estructurada y, si es posible, legislativa”",
+        "description": "Entrevista con Nicolás González Casares, eurodiputado del PSOE y ponente del Informe de Iniciativa Legislativa en el Parlamento Europeo sobre el Plan Europeo de Enfermedades Raras.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "europapress"
-        ],
+        "keywords": null,
         "creator": [
-            "newsroom infobae"
+            "josé maría lópez alemany"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "argentina",
-            "mexico",
-            "united states of america"
+            "mexico"
         ],
         "category": [
-            "top",
-            "lifestyle"
+            "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-24 17:16:36",
+        "pubDate": "2026-03-25 17:51:27",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:30:56",
-        "image_url": "https://www.infobae.com/resizer/v2/RKIEKIMS7RBATMEL4LP6UNAWMI.jpg?auth=3ab95f0ade88680efd238f8d7f03b74e9e5e1948fb619122d82b654b02091a67&smart=true&width=1920&height=1280",
+        "fetched_at": "2026-03-25 18:31:16",
+        "image_url": "https://diariofarma.com/wp-content/uploads/2025/02/202501-Nicolas-Gonzalez-Casares-SD-Parlamento-Europeo-3-1200x800.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "diariofarma",
+        "source_name": "Diariofarma",
+        "source_priority": 423201,
+        "source_url": "https://www.diariofarma.com",
+        "source_icon": "https://n.bytvi.com/diariofarma.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "乌克兰军队袭击俄罗斯库尔斯克地区 造成至少1人死亡、6人受伤",
-        "description_zh": "乌克兰军队袭击俄罗斯库尔斯克地区 造成至少1人死亡、6人受伤"
+        "duplicate": false,
+        "title_zh": "“ERRs 需要一个结构化的，如果可能的话，欧洲立法的回应”",
+        "description_zh": "采访尼古拉斯·冈萨雷斯·卡萨雷斯 (Nicolás González Casares)、PSOE 欧洲议会议员、欧洲议会关于欧洲罕见疾病计划立法倡议报告的发言人。"
     },
     {
-        "article_id": "ea52a72ad6f7562043072ff04cb03589",
-        "link": "https://24-horas.mx/mexico/eu-no-respeta-reglas-de-origen-sobre-componentes-a-automotrices-en-mexico-sheinbaum/",
-        "title": "EU no respeta reglas de origen sobre componentes a automotrices en México: Sheinbaum",
-        "description": "EU no está cumpliendo con el descuento acordado para el fortalecimiento de las reglas de origen en componentes automotrices.",
+        "article_id": "7ec880e7658dfeb346f86f168093f192",
+        "link": "https://eldiariodechihuahua.mx/local/2026/mar/25/consolidan-red-universitaria-chihuahua-green-782264.html",
+        "title": "Consolidan Red Universitaria Chihuahua Green",
+        "description": "Tras la firma de un Memorándum de Entendimiento (MOU) con las diez instituciones de educación superior más destacadas de la región.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estados unidos",
-            "claudia sheinbaum",
-            "armadoras",
-            "componentes automotrices",
-            "reglas de origen"
-        ],
+        "keywords": null,
         "creator": [
-            "karina aguilar"
+            "de la redacción / el diario"
         ],
         "language": "spanish",
         "country": [
@@ -453,59 +603,17 @@
             "top",
             "lifestyle"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-03-24 17:17:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:46:41",
-        "image_url": "https://bunny-wp-pullzone-szblh4ncqp.b-cdn.net/wp-content/uploads/mexico//2026/03/eu-no-respeta-reglas-de-origen-sobre-componentes-a-automotrices-en-mexico-sheinbaum.webp",
-        "video_url": null,
-        "source_id": "24horas",
-        "source_name": "24 Horas",
-        "source_priority": 469594,
-        "source_url": "https://www.24-horas.mx",
-        "source_icon": "https://n.bytvi.com/24horas.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Sheinbaum：美国不尊重墨西哥汽车零部件的原产地规则",
-        "description_zh": "美国没有遵守为加强汽车零部件原产地规则而同意的折扣。"
-    },
-    {
-        "article_id": "335e5b8a0aacc06e063d5da0bc0037d3",
-        "link": "https://www.infobae.com/america/agencias/2026/03/24/polonia-activa-patrullas-aereas-por-segunda-vez-en-doce-horas-por-ataques-rusos-en-ucrania/",
-        "title": "Polonia activa patrullas aéreas por segunda vez en doce horas por ataques rusos en Ucrania",
-        "description": "Polonia activa patrullas aéreas por segunda vez en doce horas por ataques rusos en Ucrania",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "argentina",
-            "mexico",
-            "united states of america"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
         "datatype": "news",
-        "pubDate": "2026-03-24 17:17:58",
+        "pubDate": "2026-03-25 17:51:23",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:30:55",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "fetched_at": "2026-03-25 18:21:44",
+        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/03/25/firma-4wU8eZ8xj.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "eldiariodechihuahua",
+        "source_name": "Eldiariodechihuahua",
+        "source_priority": 77437,
+        "source_url": "https://www.eldiariodechihuahua.mx",
+        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -513,43 +621,123 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "由于俄罗斯袭击乌克兰，波兰十二小时内第二次启动空中巡逻",
-        "description_zh": "由于俄罗斯袭击乌克兰，波兰十二小时内第二次启动空中巡逻"
+        "title_zh": "奇瓦瓦绿色大学网络综合",
+        "description_zh": "与该地区十家最著名的高等教育机构签署谅解备忘录（MOU）后。"
     },
     {
-        "article_id": "fc1f3e12b61897e4eacfe5fa49887c6d",
-        "link": "https://www.infobae.com/espana/agencias/2026/03/24/el-congreso-estudia-reincorporar-militares-de-complemento-para-paliar-la-falta-de-personal-a-peticion-del-pp/",
-        "title": "El Congreso estudia reincorporar militares de complemento para paliar la falta de personal, a petición del PP",
-        "description": "El Congreso estudia reincorporar militares de complemento para paliar la falta de personal, a petición del PP",
+        "article_id": "1ce2ae7af47c7f48b210fcc71d4cd1b0",
+        "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/03/25/la-ignorancia-es-atrevida-briones-sale-a-contradecir-la-afirmacion-de-que-el-estado-esta-quebrado.shtml",
+        "title": "\"La ignorancia es atrevida\": Briones sale a contradecir la afirmación de que el Estado está \"quebrado\"",
+        "description": "Diversas voces han salido a reaccionar ante las polémicas ideas expresadas desde las comunicaciones del Gobierno, en cuanto a que por medio de unos posteos en redes afirmaron que no pueden bajar los precios de los combustibles porque les dejaron “un Estado sin plata, endeudado y quebrado”. Sin embargo, el propio ministro de Hacienda, Jorge ... Continua leyendo \"\"La ignorancia es atrevida\": Briones sale a contradecir la afirmación de que el Estado está \"quebrado\"\" The post \"La ignorancia es atrevida\": Briones sale a contradecir la afirmación de que el Estado está \"quebrado\" appeared first on BioBioChile .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "europapress"
+            "impacto de la alza",
+            "video gubernamental",
+            "segundo gobierno de sebastián piñera",
+            "plan gobierno",
+            "costo medidas",
+            "ajuste al alza en los combustibles",
+            "precios de la parafina",
+            "bajar precios combustibles",
+            "alza combustibles",
+            "bencina",
+            "estado en quiebra",
+            "precios parafina",
+            "precios de los combustibles",
+            "situación fiscal del país",
+            "guerra en oriente medio",
+            "exjefe de las finanzas públicas",
+            "polémicas afirmaciones",
+            "bono taxistas",
+            "precios internacionales.",
+            "guerra de irán",
+            "ajuste combustibles",
+            "contraloría",
+            "comunicaciones del gobierno",
+            "precios del petróleo",
+            "economista",
+            "inflación combustibles.",
+            "proyecto de medidas",
+            "ingresos fiscales",
+            "medidas gubernamentales",
+            "teatinos 120",
+            "diversas voces",
+            "ministro de hacienda",
+            "estado de las finanzas públicas",
+            "costo de las medidas",
+            "impuesto diésel",
+            "impacto fiscal",
+            "polémicas ideas",
+            "congelamiento pasaje",
+            "ignacio briones",
+            "riesgo país"
         ],
         "creator": [
-            "newsroom infobae"
+            "franco lópez"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "argentina",
-            "mexico",
-            "united states of america"
+            "chile"
         ],
         "category": [
-            "food",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-24 17:17:49",
+        "pubDate": "2026-03-25 17:51:17",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:30:55",
-        "image_url": "https://www.infobae.com/resizer/v2/I6M33I4JLJAGDHQGLJ7OPXRRJY.jpg?auth=e8b3f00795e573321fb3472651cc8ed6afe2a7996e07e6198d174f14cea54c86&smart=true&width=1920&height=1280",
+        "fetched_at": "2026-03-25 18:45:17",
+        "image_url": "https://media.biobiochile.cl/wp-content/uploads/2026/03/social-la-ignorancia-es-atrevida__-briones-sale-a-contradecir-la-afirmacion-de-que-el-estado-esta-_quebrado_.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "biobiochile",
+        "source_name": "Biobiochile",
+        "source_priority": 13427,
+        "source_url": "https://www.biobiochile.cl",
+        "source_icon": "https://n.bytvi.com/biobiochile.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“无知就是大胆”：布里奥内斯站出来反驳国家“破碎”的说法",
+        "description_zh": "针对政府通讯中所表达的有争议的想法，人们提出了不同的声音，他们通过网络上的一些帖子表示，他们无法降低燃油价格，因为他们面临的是“一个没有钱、负债累累、破产的国家”。无包装"
+    },
+    {
+        "article_id": "fa2f53fd3c79b6d10f9368f88ed3dcb2",
+        "link": "https://vanguardia.com.mx/opinion/la-fragilidad-del-culto-a-trump-IH19690091",
+        "title": "La fragilidad del culto a Trump",
+        "description": "Jan-Werner Mueller, Project Syndicate.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "política",
+            "opinión",
+            "casa blanca",
+            "estados unidos",
+            "donald trump"
+        ],
+        "creator": [
+            "project syndicate"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-25 17:51:15",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-25 18:17:28",
+        "image_url": "https://vanguardia.com.mx/binrepository/96ad7fcacd5521a45c9f8dd114ca2bfad549_1-14864346_20260325175727.jpg",
+        "video_url": null,
+        "source_id": "vanguardia",
+        "source_name": "Vanguardia",
+        "source_priority": 24302,
+        "source_url": "https://vanguardia.com.mx",
+        "source_icon": "https://n.bytvi.com/vanguardia.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -557,18 +745,68 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "应人民党的要求，国会研究恢复更多军事人员以缓解人员短缺问题",
-        "description_zh": "应人民党的要求，国会研究恢复更多军事人员以缓解人员短缺问题"
+        "title_zh": "特朗普崇拜的脆弱性",
+        "description_zh": "Jan-Werner Mueller，项目辛迪加。"
     },
     {
-        "article_id": "0989aa713c6bc8f0d4881cb6c9208111",
-        "link": "https://24horaspuebla.com/2026/03/nasa-pausa-gateway-y-busca-construir-una-colonia-lunar/",
-        "title": "NASA pausa Gateway y busca construir una colonia lunar",
-        "description": "La NASA anunció este martes que suspenderá su proyecto de estación espacial Gateway, que orbitaba la Luna, y ahora enfocará recursos en construir una colonia lunar. Este cambio se produce tras la reestructuración del programa Artemis, diseñado para enviar astronautas a la superficie lunar y establecer una presencia permanente. También servirá como preparación para futuras [...] The post NASA pausa Gateway y busca construir una colonia lunar appeared first on Diario 24 Horas Puebla .",
+        "article_id": "e8063d5d446263aef82e48231af129e4",
+        "link": "https://www.infobae.com/colombia/2026/03/25/ecopetrol-afirmo-que-la-produccion-de-combustibles-fosiles-en-colombia-seguira-siendo-clave-hasta-2040/",
+        "title": "Ecopetrol afirmó que la producción de combustibles fósiles en Colombia seguirá siendo clave hasta 2040",
+        "description": "El escenario previsto por entidades estatales indica que la dependencia nacional de hidrocarburos se mantendrá, incluso cuando aumente la adopción de energías renovables en la matriz energética, afectando los volúmenes de importación para abastecer el mercado interno",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "combustibles fósiles",
+            "energías limpias",
+            "ecopetrol",
+            "refinería barrancabermeja",
+            "colombia-noticias"
+        ],
         "creator": [
-            "redacción"
+            "frank  saavedra"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "argentina",
+            "united states of america",
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-25 17:51:13",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-25 18:10:40",
+        "image_url": "https://www.infobae.com/resizer/v2/NPERJ5C645DCFMB7TDDZ5SYDBA.jpg?auth=bbc86090bcb4bdd379028a3a2b052a54f0a80cbb1f5a051436f64e3bb9bba76e&smart=true&width=900&height=600",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Ecopetrol 确认，到 2040 年，哥伦比亚的化石燃料生产仍将是关键",
+        "description_zh": "国家实体预见的情况表明，即使能源矩阵中可再生能源的采用增加，国家对碳氢化合物的依赖仍将存在，从而影响供应国内市场的进口量。"
+    },
+    {
+        "article_id": "4c0dbf0b28b6579ff051c75bf4bccd0f",
+        "link": "https://www.adn40.mx/enlace-latino/2026-03-24/crisis-en-pemex-por-que-aumenta-la-gasolina-en-ee-uu/",
+        "title": "Crisis en PEMEX: ¿Por qué sube la gasolina en EUA?",
+        "description": "Análisis del mercado de PEMEX y la gasolina en México. Un estudio técnico sobre la producción nacional y los precios de los combustibles",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "pemex"
+        ],
+        "creator": [
+            "paola hernández | stoic media"
         ],
         "language": "spanish",
         "country": [
@@ -578,16 +816,16 @@
             "world"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-24 17:17:47",
+        "pubDate": "2026-03-25 17:51:12",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:47:19",
-        "image_url": "https://bunny-wp-pullzone-19zk8kfr6r.b-cdn.net/wp-content/uploads/puebla//2026/03/nasa-suspende-proyecto-de-estacion-espacial-ahora-busca-crear-una-colonia-lunar-1200x675-1.webp",
+        "fetched_at": "2026-03-25 17:57:38",
+        "image_url": "https://tvazteca.brightspotcdn.com/71/78/951339cc4047815b52453d8eb026/2infografia-gasolina-1.png",
         "video_url": null,
-        "source_id": "24horaspuebla",
-        "source_name": "24 Horas Puebla",
-        "source_priority": 649883,
-        "source_url": "https://24horaspuebla.com",
-        "source_icon": "https://n.bytvi.com/24horaspuebla.png",
+        "source_id": "adn40",
+        "source_name": "Adn40",
+        "source_priority": 220795,
+        "source_url": "https://www.adn40.mx",
+        "source_icon": "https://n.bytvi.com/adn40.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -595,140 +833,22 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "NASA暂停Gateway并寻求建立月球殖民地",
-        "description_zh": "美国宇航局本周二宣布，将暂停绕月轨道空间站项目，并将集中资源建设月球殖民地。这一变化是在阿耳忒弥斯计划重组之后发生的，该计划旨在将宇航员送上月球表面，"
+        "title_zh": "PEMEX危机：美国汽油价格为何上涨？",
+        "description_zh": "墨西哥 PEMEX 和汽油市场分析。国家产量和燃料价格的技术研究"
     },
     {
-        "article_id": "ea27dde49bb9a833373bc24429216e69",
-        "link": "https://www.marca.com/futbol/futbol-femenino/champions-league/2026/03/24/real-madrid-barcelona-horario-canal-ver-tv-partido-champions-league.html",
-        "title": "Real Madrid - Barcelona: horario, canal y dónde ver en TV el partido de Champions League",
-        "description": "Los detalles del Clásico de la ida de los cuartos de final de la Champions League",
+        "article_id": "59dbc549ca76c286336a1136a072569d",
+        "link": "https://lasillarota.com/metropoli/2026/3/25/choque-entre-dos-unidades-del-metrobus-deja-15-lesionados-en-san-juan-de-aragon-591838.html",
+        "title": "Choque entre dos unidades del Metrobús deja 15 lesionados en San Juan de Aragón",
+        "description": "Autoridades han informado que no hay servicio en la estación San Juan de Aragón, dirección Río de los Remedios, debido al fuerte percance... ¡Toma tus precauciones!",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "madrid",
-            "canal",
-            "horario",
-            "barcelona",
-            "real"
+            "metrobus",
+            "estación san juan de aragón",
+            "río de los remedios"
         ],
         "creator": [
-            "aitor canal"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-24 17:17:44",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:32:52",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/03/24/69c2c6143bef7.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "皇家马德里 - 巴塞罗那：时间表、频道以及在电视上观看冠军联赛比赛的地点",
-        "description_zh": "欧冠四分之一决赛首回合国家德比详情"
-    },
-    {
-        "article_id": "7cc1536341a19f99f26b6fce03ac6124",
-        "link": "https://www.elcolombiano.com/negocios/como-participar-red-bull-basement-2026-colombia-emprendimiento-BJ34865602",
-        "title": "Buscan emprendimientos colombianos para competir en Silicon Valley con apoyo de IA: premios de hasta US$25.000",
-        "description": "En un contexto donde la innovación y la inteligencia artificial están redefiniendo el emprendimiento , Colombia abrió la convocatoria para participar en Red Bull Basement 2026 , un programa global que busca identificar y potenciar ideas con potencial de convertirse en negocios. La iniciativa está dirigida a estudiantes y emprendedores en etapa inicial , quienes podrán postularse hasta el 30 de marzo de 2026. El equipo ganador a nivel nacional representará al país en la final mundial que se realizará en Silicon Valley , Estados Unidos, donde competirá con propuestas de más de 40 países. El programa, que opera bajo un modelo de incubación, ofrece acceso a mentorías y herramientas tecnológicas para desarrollar proyectos desde su fase conceptual hasta prototipos funcionales. Entre los recursos disponibles se incluyen soluciones basadas en inteligencia artificial , así como plataformas de desarrollo y créditos en la nube. Le puede interesar: Con más de 18.000 puntos y 72.000 empleos generados: así crece el negocio de las franquicias en Colombia En la fase final, los equipos seleccionados presentarán sus proyectos ante un jurado compuesto por inversionistas, líderes de la industria y expertos tecnológicos. El equipo ganador global recibirá una financiación de US$100.000 sin cesión de participación, además de créditos tecnológicos y acompañamiento especializado. El proceso contempla varias etapas. En la primera, los participantes deberán registrar su idea a través de la plataforma oficial (dele clic a este enlace). Posteriormente, los mejores proyectos avanzarán a una fase de selección en la que deberán presentar un video , y ocho equipos llegarán a la final nacional en Colombia, prevista para el 18 de abril en Bogotá. Allí, los finalistas deberán presentar un pitch de dos minutos ante un jurado local, que definirá al representante colombiano. Lea más: Viralidad en TikTok impulsó a estos emprendimientos paisas Los equipos seleccionados avanzarán a una fase de desarrollo en la que transformarán sus propuestas en un Producto Mínimo Viable (MVP) . Para ello, contarán con acceso a mentorías, herramientas de inteligencia artificial y recursos tecnológicos que facilitan la construcción de prototipos, incluso para quienes no tienen formación técnica. La etapa final se llevará a cabo entre el 1° y el 3 de junio de 2026 en Silicon Valley, considerado el principal hub tecnológico del mundo. Allí, los participantes no solo competirán por el premio global, sino que también tendrán acceso a espacios de formación, retroalimentación de expertos y oportunidades de conexión con inversionistas. El programa se realiza en alianza con Microsoft, AMD y Red Bull Ventures , y hace parte de una estrategia global para impulsar nuevas generaciones de emprendedores en un entorno cada vez más competitivo y marcado por la transformación digital. Conozca también: Medellín abre convocatoria 2026 de la Ruta del Emprendimiento con 700 cupos y capital semilla de hasta $15 millones",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-24 17:17:44",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 19:10:13",
-        "image_url": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/FXLR/colombia-emprendedores-convocatoria-red-bull-basement-2026-silicon-valley_50221347_20260324121033.jpg",
-        "video_url": null,
-        "source_id": "elcolombiano",
-        "source_name": "Elcolombiano",
-        "source_priority": 109876,
-        "source_url": "https://www.elcolombiano.com",
-        "source_icon": "https://n.bytvi.com/elcolombiano.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们正在寻找哥伦比亚初创公司在人工智能支持下在硅谷竞争：奖金高达 25,000 美元",
-        "description_zh": "在创新和人工智能重新定义创业精神的背景下，哥伦比亚公开呼吁参加 Red Bull Basement 2026，这是一项全球计划，旨在识别和推广有潜力成为企业的创意。该倡议是"
-    },
-    {
-        "article_id": "94f59608d47e586fd5a3ae65d1aeaf2b",
-        "link": "https://www.infobae.com/america/agencias/2026/03/24/el-segundo-dia-de-debate-en-peru-pone-en-escena-a-12-candidatos-con-baja-intencion-de-voto/",
-        "title": "El segundo día de debate en Perú pone en escena a 12 candidatos con baja intención de voto",
-        "description": "El segundo día de debate en Perú pone en escena a 12 candidatos con baja intención de voto",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "argentina",
-            "mexico",
-            "united states of america"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-24 17:17:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:30:55",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "秘鲁第二天辩论有 12 名投票意向较低的候选人",
-        "description_zh": "秘鲁第二天辩论有 12 名投票意向较低的候选人"
-    },
-    {
-        "article_id": "6770e276fb2a5225e18de21e42a2132d",
-        "link": "https://aldialogo.mx/municipio-de-queretaro/2026/03/24/toma-precauciones-carambola-provoca-cierre-en-la-autopista-mexico-queretaro",
-        "title": "¡Toma precauciones! Carambola provoca cierre en la autopista México-Querétaro",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "zyanya paulina hernández"
+            "alejandro garita"
         ],
         "language": "spanish",
         "country": [
@@ -739,17 +859,17 @@
             "lifestyle",
             "entertainment"
         ],
-        "datatype": "news",
-        "pubDate": "2026-03-24 17:17:31",
+        "datatype": "multimedia",
+        "pubDate": "2026-03-25 17:51:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 18:48:06",
-        "image_url": "https://aldialogo.sfo2.digitaloceanspaces.com/uploads/2026/03/Toma-precauciones-Carambola-provoca-cierre-en-la-autopista-Mexico-Queretaro.jpg",
+        "fetched_at": "2026-03-25 17:59:18",
+        "image_url": "https://lasillarota.com/u/fotografias/m/2026/3/25/f1280x720-845543_977218_4933.jpg",
         "video_url": null,
-        "source_id": "aldialogo",
-        "source_name": "Aldialogo Mx",
-        "source_priority": 673454,
-        "source_url": "https://aldialogo.mx",
-        "source_icon": "https://n.bytvi.com/aldialogo.png",
+        "source_id": "lasillarota",
+        "source_name": "La Silla Rota",
+        "source_priority": 200644,
+        "source_url": "https://lasillarota.com",
+        "source_icon": "https://n.bytvi.com/lasillarota.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -757,97 +877,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "未雨绸缪！杨桃导致墨西哥-克雷塔罗高速公路关闭",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "8a749b82420574d267e9668b4c04d55f",
-        "link": "https://www.infobae.com/espana/agencias/2026/03/24/el-pnv-considera-una-aberracion-que-azcon-comente-el-fisico-de-alegria-y-montero-en-serio-ha-dicho-eso/",
-        "title": "El PNV considera una \"aberración\" que Azcón comente el físico de Alegría y Montero: \"¿En serio ha dicho eso?\"",
-        "description": "El PNV considera una \"aberración\" que Azcón comente el físico de Alegría y Montero: \"¿En serio ha dicho eso?\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "europapress"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "argentina",
-            "mexico",
-            "united states of america"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-24 17:17:30",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 17:30:55",
-        "image_url": "https://www.infobae.com/resizer/v2/NMEEYF7ZJVH5VKBBPXAG3DHI6A.jpg?auth=1e18cfe0b4a8f5b0651e7e36bd57e3c9db543530decec90a02ab76384910fe80&smart=true&width=1920&height=1438",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "PNV 认为 Azcón 对 Alegría y Montero 体格的评论是“失常”：“他真的这么说吗？”",
-        "description_zh": "PNV 认为 Azcón 对 Alegría y Montero 体格的评论是“失常”：“他真的这么说吗？”"
-    },
-    {
-        "article_id": "8f8c3ba87d6b737815e59378bf2b842b",
-        "link": "https://oem.com.mx/elsoldetlaxcala/deportes/conquistan-escaramuzas-tlaxcaltecas-los-primeros-lugares-en-la-feria-internacional-del-caballo-en-texcoco-29147334",
-        "title": "Conquistan escaramuzas tlaxcaltecas los primeros lugares en la Feria Internacional del Caballo, en Texcoco",
-        "description": "Los equipos libre y juvenil obtuvieron el primer y segundo lugar, respectivamante",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "escaramuzas",
-            "concursos",
-            "edúcame",
-            "diviérteme",
-            "inspírame",
-            "charrería"
-        ],
-        "creator": [
-            "mónica vargas"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-24 17:17:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-24 22:43:50",
-        "image_url": "https://oem.com.mx/elsoldetlaxcala/img/29147342/1774372336/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldetlaxcala_mx",
-        "source_name": "Elsoldetlaxcala Mx",
-        "source_priority": 348815,
-        "source_url": "https://www.elsoldetlaxcala.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldetlaxcala_mx.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "特拉斯卡拉小规模冲突在特斯科科国际马术博览会上获得第一名",
-        "description_zh": "自由队和青年队分别获得第一名和第二名。"
+        "title_zh": "阿拉贡圣胡安两辆 Metrobús 列车发生相撞事故，造成 15 人受伤",
+        "description_zh": "当局报告称，由于发生严重事故，阿拉贡圣胡安车站前往里约德洛斯雷梅迪奥斯的方向没有任何服务......请采取预防措施！"
     }
 ]
