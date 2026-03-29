@@ -1,241 +1,33 @@
 [
     {
-        "article_id": "cd0b74f5ef3f2bcfc97d4c52068e6612",
-        "link": "https://www.infobae.com/america/agencias/2026/03/27/la-bolsa-de-paris-cae-un-087-lastrada-por-la-incertidumbre-de-la-coyuntura-global/",
-        "title": "La Bolsa de París cae un 0,87 % lastrada por la incertidumbre de la coyuntura global",
-        "description": "La Bolsa de París cae un 0,87 % lastrada por la incertidumbre de la coyuntura global",
+        "article_id": "9444e5354fef182b607f9b6d5e5eafbb",
+        "link": "https://www.capitalnews.com.br/politica-e-poder/executivo/atlas-das-rotas-migratorias-permite-monitorar-aves-com-precisao-inedita/438041",
+        "title": "Atlas das Rotas Migratórias permite monitorar aves com precisão inédita",
+        "description": "O Atlas das Rotas Migratórias das Américas foi lançado durante a COP15, em Campo Grande (MS), e permite acompanhar 622 espécies de aves migratórias com detalhes inéditos.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "newsroom infobae"
+            "viviane freitas"
         ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "united states of america",
-            "argentina"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-27 17:15:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:37:00",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "受全球局势不确定性拖累 巴黎证券交易所下跌0.87%",
-        "description_zh": "受全球局势不确定性拖累 巴黎证券交易所下跌0.87%"
-    },
-    {
-        "article_id": "9b01e032f2431c5d023a43feccb13209",
-        "link": "https://www.infobae.com/mexico/2026/03/27/popocatepetl-registro-10-exhalaciones-este-27-de-marzo/",
-        "title": "Popocatépetl registró 10 exhalaciones este 27 de marzo",
-        "description": "El Popocatépetl es uno de los seis volcanes de alto riesgo detectados por el Cenapred, razón por la cual es monitoreado de forma constante",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "exhalaciones del popocatépetl hoy",
-            "actividad popocatépetl hoy",
-            "últimas actualizaciones"
-        ],
-        "creator": [
-            "infobae noticias"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "united states of america",
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "health"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-27 17:15:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:37:00",
-        "image_url": "https://www.infobae.com/resizer/v2/D7S2Y4X6PRB3ZDCSXRIB7AJHYU.jpg?auth=62c0b74c760baefe30b4da5f6b15c04dd6dc6649d3cc6e787188cb50a91484ad&smart=true&width=1920&height=1279",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "今年 3 月 27 日，Popocatépetl 记录了 10 次呼气",
-        "description_zh": "波波卡特佩特火山是塞纳普雷德检测到的六座高风险火山之一，因此受到持续监测"
-    },
-    {
-        "article_id": "a80c88b94866d6cc0302f3ea18bdf541",
-        "link": "https://www.inforegion.com.ar/2026/03/27/ypf-cristina-kirchner-reivindico-la-estatizacion-tras-el-fallo-favorable-en-ee-uu/",
-        "title": "YPF: Cristina Kirchner reivindicó la estatización tras el fallo favorable en EE.UU.",
-        "description": "La ex presidenta celebró la decisión de la Cámara de Apelaciones de Nueva York que dejó sin efecto la millonaria condena contra la Argentina y defendió la legalidad de la expropiación de YPF en 2012. La entrada YPF: Cristina Kirchner reivindicó la estatización tras el fallo favorable en EE.UU. se publicó primero en InfoRegión .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cristina kirchner",
-            "fallo ypf",
-            "estatización ypf"
-        ],
-        "creator": [
-            "redacción ir"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-27 17:15:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:27:37",
-        "image_url": "https://www.inforegion.com.ar/wp-content/uploads/2022/06/Cristina-Kirchner-Alberto-Fernandez.jpg",
-        "video_url": null,
-        "source_id": "inforegion",
-        "source_name": "Info Region",
-        "source_priority": 694042,
-        "source_url": "https://www.inforegion.com.ar",
-        "source_icon": "https://n.bytvi.com/inforegion.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "YPF：克里斯蒂娜·基什内尔（Cristina Kirchner）在美国做出有利裁决后证明国有化是正确的。",
-        "description_zh": "这位前总统庆祝纽约上诉法院撤销对阿根廷的百万美元判决的裁决，并为 2012 年征用 YPF 的合法性进行了辩护。 YPF 条目：克里斯蒂娜·基什内尔 (Cristina Kirchner) 在美国做出有利裁决后证明国有化是正确的"
-    },
-    {
-        "article_id": "6ef46b7d8fba36961d3c89fafe486445",
-        "link": "https://www.elcordillerano.com.ar/noticias/2026/03/27/232836-corte-en-juan-herman-por-trabajos-de-pavimentacion",
-        "title": "Corte en Juan Herman por trabajos de pavimentación",
-        "description": "La interrupción comenzará este viernes 27 de marzo y se extenderá por aproximadamente 20 días en un tramo clave de la ciudad.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "diario el cordillerano"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-27 17:15:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:17:24",
-        "image_url": "https://elcordillerano-s3.cdn.net.ar/s3i233/2025/05/elcordillerano/images/01/89/48/1894807_b0aca30f7a89d5a915fcf4ad67d712281e4dc58a5c8c8908a4d317d6ef44a4d0/md.webp",
-        "video_url": null,
-        "source_id": "elcordillerano",
-        "source_name": "Diario El Cordillerano",
-        "source_priority": 79460,
-        "source_url": "https://www.elcordillerano.com.ar",
-        "source_icon": "https://n.bytvi.com/elcordillerano.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "胡安·赫尔曼 (Juan Herman) 切入铺路工作",
-        "description_zh": "中断将于 3 月 27 日星期五开始，并将在该市的一个关键地区持续大约 20 天。"
-    },
-    {
-        "article_id": "9970a228893150b7170fec1cee03d605",
-        "link": "https://www.infobae.com/america/agencias/2026/03/27/impulsando-servicios-publicos-que-prioricen-a-los-ciudadanos-a-traves-de-la-ia-y-la-transformacion-digital/",
-        "title": "Impulsando servicios públicos que prioricen a los ciudadanos a través de la IA y la transformación digital",
-        "description": "Impulsando servicios públicos que prioricen a los ciudadanos a través de la IA y la transformación digital",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "united states of america",
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-03-27 17:15:41",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:37:00",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "通过人工智能和数字化转型促进以公民为先的公共服务",
-        "description_zh": "通过人工智能和数字化转型促进以公民为先的公共服务"
-    },
-    {
-        "article_id": "2295119d051e503c5aa0895326613be1",
-        "link": "https://jornal24horas.com.br/?p=39191",
-        "title": "Quarta temporada de Jujutsu Kaisen é confirmada! Veja o que esperar",
-        "description": "No dia 19 de março, os fãs de Jujutsu Kaisen puderam acompanhar o fim de sua terceira temporada, que se encerrou sem a garantia de quando o anime iria continuar. A boa notícia para eles é que, na última quinta-feira (26), a conta oficial da série no X garantiu a produção de uma quarta rodada [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
+            "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:36",
+        "pubDate": "2026-03-28 17:55:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 19:04:26",
-        "image_url": null,
+        "fetched_at": "2026-03-28 22:50:48",
+        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2026/03/28/1200x900/5c9aa001ca8e99c4ff80a34a55fd7693-capitalnews-com-br.png",
         "video_url": null,
-        "source_id": "jornal24horas",
-        "source_name": "Jornal24horas",
-        "source_priority": 42157300,
-        "source_url": "http://jornal24horas.com.br",
-        "source_icon": "https://n.bytvi.com/jornal24horas.png",
+        "source_id": "capitalnews",
+        "source_name": "Capital News",
+        "source_priority": 505998,
+        "source_url": "https://www.capitalnews.com.br",
+        "source_icon": "https://n.bytvi.com/capitalnews.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -243,41 +35,76 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "《柔术会战》第四季已确定！看看会发生什么",
-        "description_zh": "3 月 19 日，《Jujutsu Kaisen》的粉丝们可以观看第三季的结尾，但无法保证动画何时继续。对他们来说好消息是，上周四（26日），该系列在X上的官方账号保证了第四轮的制作"
+        "title_zh": "迁徙路线图集让您能够以前所未有的精度监测鸟类",
+        "description_zh": "《美洲迁徙路线图集》在 COP15 期间于大坎普 (MS) 发布，可让您以前所未有的详细程度追踪 622 种候鸟。"
     },
     {
-        "article_id": "b9329174c367eb96d81fe3053bba399e",
-        "link": "https://www.infobae.com/espana/agencias/2026/03/27/0-7-espana-apabulla-a-chipre/",
-        "title": "0-7. España apabulla a Chipre",
-        "description": "0-7. España apabulla a Chipre",
+        "article_id": "da340b484e786e4ce09e07680b4b4026",
+        "link": "https://www.estadao.com.br/internacional/protesto-no-kings-contra-donald-trump-leva-americanos-as-ruas-npr/",
+        "title": "Protesto contra Donald Trump leva americanos às ruas de várias cidades dos Estados Unidos",
+        "description": "Organizadores das manifestações “No Kings” (sem reis) esperam até nove milhões de pessoas em atos contra guinada autoritária do chefe da Casa Branca",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "newsroom infobae"
+            "redação"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "colombia",
-            "mexico",
-            "united states of america",
-            "argentina"
+            "brazil"
+        ],
+        "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-28 17:54:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-28 18:09:56",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "针对唐纳德·特朗普的抗议活动让美国人走上美国多个城市的街头",
+        "description_zh": "“无王”示威活动的组织者预计将有多达 900 万人参加反对白宫首脑专制转向的示威活动"
+    },
+    {
+        "article_id": "412e461c2ce077e4191b695a8e9e0d5f",
+        "link": "https://www.terra.com.br/noticias/brasil/cidades/caso-princesa-isabel-stj-decide-que-policiais-denunciados-por-morte-serao-julgados-por-juri-popular,65d56f34e1dc36071c0f84dcc8a0120ex7772uiy.html",
+        "title": "Caso Princesa Isabel: STJ decide que policiais denunciados por morte serão julgados por júri popular",
+        "description": "O Superior Tribunal de Justiça decidiu que o julgamento da morte de um morador do Condomínio ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "juliano haesbaert"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
         ],
         "category": [
             "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:21",
+        "pubDate": "2026-03-28 17:54:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:37:00",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "fetched_at": "2026-03-28 18:11:21",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/03/28/1285908391-captura-de-tela-2026-03-28-145044.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "terra",
+        "source_name": "Terra",
+        "source_priority": 24247,
+        "source_url": "https://www.terra.com.br",
+        "source_icon": "https://n.bytvi.com/terra.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -285,22 +112,23 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "0-7。西班牙大胜塞浦路斯",
-        "description_zh": "0-7。西班牙大胜塞浦路斯"
+        "title_zh": "伊莎贝尔公主案：STJ 决定，被指控死亡的警察将由大众陪审团审判",
+        "description_zh": "高等法院裁定，对该公寓居民死亡的审判......"
     },
     {
-        "article_id": "3638cf78bbc382decfbd0970b3463065",
-        "link": "https://odia.ig.com.br/esporte/flamengo/2026/03/7228213-flamengo-sinaliza-desejo-de-renovar-com-leo-pereira-e-rossi.html",
-        "title": "Flamengo sinaliza desejo de renovar com Léo Pereira e Rossi",
-        "description": "Jogadores também devem receber aumento salarial",
+        "article_id": "1387a90772cc2ff959efaecbb69f7f6d",
+        "link": "https://www.meutimao.com.br/noticias-do-corinthians/529941/meio-campista-do-corinthians-participa-de-derrota-do-peru-para-senegal",
+        "title": "Meio-campista do Corinthians participa de derrota do Peru para Senegal",
+        "description": "André Carrillo entrou em campo na tarde deste sábado em amistoso pelo Peru. No Stade de France, em Paris, na França, o meio-campista do Corinthians participou da derrota para Senegal, por 2 a 0.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "rossi",
-            "léo pereira",
-            "flamengo"
+            "sport club corinthians paulista",
+            "corinthians",
+            "andré carrillo",
+            "corinthianos na seleção"
         ],
         "creator": [
-            "o dia"
+            "matheus fiuza"
         ],
         "language": "portuguese",
         "country": [
@@ -310,16 +138,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:14",
+        "pubDate": "2026-03-28 17:54:45",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:20:02",
-        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/03/19/398x267/1_55153541015_58479d96ac_o-38329319.jpg",
+        "fetched_at": "2026-03-28 18:18:03",
+        "image_url": "https://cdn.meutimao.com.br/_upload/noticia/2026/03/28/andre-carrillo-foi-titular-na-estreia-do-tecnico-z7.jpg",
         "video_url": null,
-        "source_id": "odia_ig_br",
-        "source_name": "Odia Ig Br",
-        "source_priority": 144458,
-        "source_url": "https://odia.ig.com.br",
-        "source_icon": "https://n.bytvi.com/odia_ig_br.jpg",
+        "source_id": "meutimao",
+        "source_name": "Meu Timão",
+        "source_priority": 142685,
+        "source_url": "https://www.meutimao.com.br",
+        "source_icon": "https://n.bytvi.com/meutimao.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -327,80 +155,85 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "弗拉门戈队表示希望与莱奥·佩雷拉和罗西续约",
-        "description_zh": "球员也应该获得加薪"
+        "title_zh": "科林蒂安中场参加秘鲁击败塞内加尔的比赛",
+        "description_zh": "安德烈·卡里略于本周六下午参加了秘鲁队的一场友谊赛。在法国巴黎法兰西体育场，科林蒂安中场参加了0-2负于塞内加尔的比赛。"
     },
     {
-        "article_id": "dd7cda2d26b9ce48d476cdb3b2a79ce5",
-        "link": "https://oriobranco.net/mercosul-e-canada-se-aproximam-de-acordo-de-livre-comercio-com-negociacoes-em-abril/",
-        "title": "Mercosul e Canadá se aproximam de acordo de livre comércio com negociações em abril",
-        "description": "Autoridades governamentais de Canadá, Argentina e Brasil disseram à Reuters que esperam que o acordo seja concluído em 2026. O Canadá e o Mercosul estão avançando em direção a um acordo de livre comércio que poderá ser assinado até o final do ano, com outra rodada de negociações agendada para o próximo...",
+        "article_id": "4880d8ac791bd0c65ce46aa75c8bacf9",
+        "link": "https://www.terra.com.br/diversao/musica/open-air-brasil-retorna-ao-rio-e-jockey-vira-festival-de-cinema-a-ceu-aberto,c7e60d9659d70cf91a1eb031a8a690bbrocrwit4.html",
+        "title": "Open Air Brasil retorna ao Rio e Jockey vira festival de cinema a céu aberto",
+        "description": "O Open Air Brasil está de volta ao Rio de Janeiro após dois anos de pausa. Apresentado pelo ...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "antonio muniz"
+            "gabriel von borell"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
+            "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:13",
+        "pubDate": "2026-03-28 17:54:34",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:33:39",
-        "image_url": "https://oriobranco.net/wp-content/uploads/2026/03/exportacoes-agosto.avif",
+        "fetched_at": "2026-03-28 18:11:21",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/03/28/1297390152-open-air-brasil-retorna-ao-rio-e-jockey-vira-festival-de-cinema-a-ceu-aberto.png",
         "video_url": null,
-        "source_id": "oriobranco",
-        "source_name": "Oriobranco Net",
-        "source_priority": 2791953,
-        "source_url": "https://oriobranco.net",
-        "source_icon": "https://n.bytvi.com/oriobranco.jpg",
+        "source_id": "terra",
+        "source_name": "Terra",
+        "source_priority": 24247,
+        "source_url": "https://www.terra.com.br",
+        "source_icon": "https://n.bytvi.com/terra.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "南方共同市场和加拿大通过四月份的谈判进一步接近自由贸易协定",
-        "description_zh": "加拿大、阿根廷和巴西的政府官员告诉路透社，他们预计该协议将于 2026 年完成。加拿大和南方共同市场正在朝着可能在今年年底签署的自由贸易协定迈进，并计划进行另一轮谈判。"
+        "duplicate": false,
+        "title_zh": "巴西露天电影节重返里约，赛马会成为露天电影节",
+        "description_zh": "巴西露天音乐节 (Open Air Brasil) 时隔两年重返里约热内卢。提出者..."
     },
     {
-        "article_id": "51e73b1e293c3093046d071fcebdda9b",
-        "link": "https://www.acidadeon.com/ribeiraopreto/cotidiano/primeira-onda-de-calor-do-ano-eleva-temperatura-a-quase-40c-veja-regioes-afetadas/",
-        "title": "Primeira onda de calor do ano eleva temperatura a quase 40°C; Veja regiões afetadas",
-        "description": "Segundo a Climatempo, fenômeno tem início neste sábado (28) e está associado a uma bolha de calor entre Paraguai e Argentina O post Primeira onda de calor do ano eleva temperatura a quase 40°C; Veja regiões afetadas apareceu primeiro em ACidade ON Ribeirão Preto .",
+        "article_id": "b7a7b0cce0c8af5e3cb6ede6502ea49a",
+        "link": "https://www.infobae.com/estados-unidos/2026/03/28/american-airlines-facilita-la-gestion-de-demoras-y-cancelaciones-desde-su-plataforma-digital/",
+        "title": "American Airlines facilita la gestión de demoras y cancelaciones desde su plataforma digital",
+        "description": "La herramienta renovada permite a los usuarios resolver inconvenientes de forma directa, acceder a información precisa y solicitar compensaciones en caso de alteraciones en sus vuelos",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "climatempo",
-            "primera onda de calor do ano",
-            "onda de calor",
-            "onda de calor 2026"
+            "oneworld",
+            "american airlines",
+            "esados-unidos-noticias",
+            "transformación digital"
         ],
         "creator": [
-            "ricardo canaveze"
+            "jeremías baldantoni"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "united states of america",
+            "argentina",
+            "colombia",
+            "mexico"
         ],
         "category": [
-            "lifestyle"
+            "sports",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:03",
+        "pubDate": "2026-03-28 17:54:34",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:51:44",
-        "image_url": "https://www.acidadeon.com/ribeiraopreto/wp-content/uploads/sites/3/2025/07/WhatsApp-Image-2025-07-11-at-06.44.02_2025-07-11_09-53-52.webp",
+        "fetched_at": "2026-03-28 18:04:55",
+        "image_url": "https://www.infobae.com/resizer/v2/AKAJLVAIXFA5XNYZHR5MSW2O3I.png?auth=f270485fea6dffd5141c1547e61a9296325c1f322c22a5d07490b60524ac9a7e&smart=true&width=1408&height=768",
         "video_url": null,
-        "source_id": "acidadeon",
-        "source_name": "Acidade On",
-        "source_priority": 166626,
-        "source_url": "https://www.acidadeon.com",
-        "source_icon": "https://n.bytvi.com/acidadeon.png",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -408,33 +241,39 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "今年第一波热浪将气温升至近 40°C；查看受影响地区",
-        "description_zh": "据Climatempo报道，这种现象从本周六（28日）开始，与巴拉圭和阿根廷之间的热泡有关。今年的第一场热浪使气温升至近40°C；请参阅受影响的地区首先出现在 ACidade ON Ribeirão Preto。"
+        "title_zh": "美国航空通过其数字平台更轻松地管理延误和取消",
+        "description_zh": "新工具允许用户直接解决问题、获取准确信息并在航班变更时请求赔偿"
     },
     {
-        "article_id": "cd0b74f5ef3f2bcfc97d4c52068e6612",
-        "link": "https://www.infobae.com/america/agencias/2026/03/27/la-bolsa-de-paris-cae-un-087-lastrada-por-la-incertidumbre-de-la-coyuntura-global/",
-        "title": "La Bolsa de París cae un 0,87 % lastrada por la incertidumbre de la coyuntura global",
-        "description": "La Bolsa de París cae un 0,87 % lastrada por la incertidumbre de la coyuntura global",
+        "article_id": "03f837d75155375418e300d4b824cd3c",
+        "link": "https://www.infobae.com/colombia/2026/03/28/paloma-valencia-se-pronuncio-tras-la-ultima-encuesta-presidencial-que-la-pone-en-un-cabeza-a-cabeza-con-abelardo-de-la-espriella-una-opcion-que-puede-derrotar-al-heredero-de-petro/",
+        "title": "Paloma Valencia se pronunció tras la última encuesta presidencial que la pone en un “cabeza a cabeza” con Abelardo de la Espriella: “Una opción que puede derrotar al heredero de Petro”",
+        "description": "Crecen los apoyos emergentes y se perfila un final abierto según el peso de alianzas y percepciones públicas",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "voto en blanco",
+            "iván cepeda",
+            "elecciones presidenciales colombia",
+            "intención de voto"
+        ],
         "creator": [
             "newsroom infobae"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
             "united states of america",
-            "argentina"
+            "argentina",
+            "colombia",
+            "mexico"
         ],
         "category": [
-            "top"
+            "top",
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:58",
+        "pubDate": "2026-03-28 17:54:31",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:37:00",
+        "fetched_at": "2026-03-28 18:04:55",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
         "video_url": null,
         "source_id": "infobae",
@@ -449,46 +288,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "受全球局势不确定性拖累 巴黎证券交易所下跌0.87%",
-        "description_zh": "受全球局势不确定性拖累 巴黎证券交易所下跌0.87%"
+        "title_zh": "帕洛玛·瓦伦西亚在最新的总统民意调查后与阿韦拉多·德拉埃斯普里埃拉“正面交锋”后发表讲话：“这是一个可以击败佩特罗继承人的选择”",
+        "description_zh": "新兴的支持正在增长，开放式结局正在出现，具体取决于联盟的分量和公众的看法"
     },
     {
-        "article_id": "ab40baa40eac4602bd6a96606695bc8b",
-        "link": "https://lineadirectaportal.com/sinaloa/que-son-las-pensiones-doradas-y-por-que-el-congreso-esta-poniendo-especial-atencion-2026-03-27__1598644",
-        "title": "¿Qué son las “pensiones doradas” y por qué el Congreso está poniendo especial atención?",
-        "description": "Tere Guerra destacó la reciente reforma al artículo 127 constitucional, en donde se establece el tope máximo de pensión",
+        "article_id": "9ea2b184bd3684ba205c4ce718ad47e0",
+        "link": "https://www.correiobraziliense.com.br/webstories/flipar/2026/03/7386138-o-que-e-cosplay-e-como-funciona-essa-arte-e-cultura.html",
+        "title": "O que é cosplay e como funciona essa arte e cultura",
+        "description": "Cosplay é mais do que vestir uma fantasia: é a arte de dar vida a personagens da cultura pop. Surgido nos Estados Unidos nos anos 1930, em convenções de ficção científica, e popularizado no Japão nas décadas de 1970 e 1980, tornou-se um fenômeno cultural global. Hoje, é símbolo de criatividade, identidade e paixão, reunindo fãs em eventos que celebram animes, mangás, filmes, séries e games.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tere guerra",
-            "congreso de la unión",
-            "tope de pensiones nacional",
-            "noticias culiacán",
-            "artículo 127 constitucional",
-            "sinaloa",
-            "congreso del estado"
-        ],
+        "keywords": null,
         "creator": [
-            "carola rojo"
+            "flipar"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "mexico"
+            "brazil"
         ],
         "category": [
             "top",
-            "entertainment"
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:53",
+        "pubDate": "2026-03-28 17:54:28",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:19:14",
-        "image_url": "https://lineadirectaportal.com/wp-content/uploads/2026/03/Pension-1200x630.jpeg",
+        "fetched_at": "2026-03-28 18:22:28",
+        "image_url": "https://www.flipar.com.br/wp-content/uploads/2026/03/1280px-20140118174713IMG_5618_M_-_Desucon_Frostbite_2014_-_matiast1_cropped.jpg",
         "video_url": null,
-        "source_id": "lineadirectaportal",
-        "source_name": "Linea Directa",
-        "source_priority": 133115,
-        "source_url": "https://lineadirectaportal.com",
-        "source_icon": "https://n.bytvi.com/lineadirectaportal.png",
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -496,41 +327,133 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "什么是“黄金养老金”？为什么国会特别关注？",
-        "description_zh": "Tere Guerra 强调了最近对《宪法》第 127 条的改革，该条规定了养老金最高限额"
+        "title_zh": "什么是角色扮演以及这种艺术和文化如何运作",
+        "description_zh": "角色扮演不仅仅是穿着服装：它是将流行文化角色带入生活的艺术。它于 20 世纪 30 年代出现在美国的科幻大会上，并于 1970 年代和 80 年代在日本流行，已成为一种全球文化现象。如今，它已成为创造力的象征"
     },
     {
-        "article_id": "50310b2cf8afd35fa55d2ca9bb9099ba",
-        "link": "https://www.elrancaguino.cl/2026/03/27/codelco-cerro-2025-con-un-ebitda-de-us-6-670-millones-una-utilidad-consolidada-de-us-2-423-millones-y-un-aporte-al-fisco-de-us-1-778-millones/",
-        "title": "Codelco cerró 2025 con un Ebitda de US$ 6.670 millones, una utilidad consolidada de US$ 2.423 millones y un aporte al Fisco de US$ 1.778 millones",
-        "description": "Mientras el primer indicador financiero creció 23% respecto de 2024, el aporte el Fisco lo hizo en 16%. La utilidad consolidada final tuvo un incremento de US$ 2.178 millones con relación a 2024, gracias a la asociación Novandino Litio, y a un aumento de US$ 143 millones en las utilidades por cobre. El artículo Codelco cerró 2025 con un Ebitda de US$ 6.670 millones, una utilidad consolidada de US$ 2.423 millones y un aporte al Fisco de US$ 1.778 millones se publicó primero en El Rancagüino .",
+        "article_id": "649488d12cc7a512a7cb1d86e2a6222a",
+        "link": "https://g1.globo.com/ma/maranhao/noticia/2026/03/28/mutirao-do-inss-realiza-mais-de-2-mil-pericias-no-maranhao-neste-fim-de-semana.ghtml",
+        "title": "Mutirão do INSS realiza mais de 2 mil perícias no Maranhão neste fim de semana",
+        "description": "Mutirão de perícias médicas mobiliza o país no fim de semana O Instituto Nacional do Seguro Social (INSS) promove, neste sábado (28) e domingo (29), um mutirão com a realização de 2.210 perícias médicas em sete agências da Previdência Social no Maranhão. ✅ Clique aqui para seguir o canal do g1 Maranhão no WhatsApp A ação acontece em todo o país e deve somar mais de 30 mil perícias. O foco é analisar pedidos de pessoas com incapacidade e de beneficiários de programas assistenciais. Em São Luís, estão previstas mais de 800 perícias. Apenas em uma agência, localizada na Praça Deodoro, no Centro da capital, a estimativa é de 450 atendimentos. Além do atendimento presencial, o mutirão também oferece a chamada perícia conectada para moradores do interior do estado. A empregada doméstica Aline Soares passou pelo atendimento e saiu com o benefício liberado. “Consegui, sim, e foi rápido. Muito mesmo. Ele falou que vou receber novamente”, afirmou. INSS realiza perícias médicas no Maranhão Reprodução/TV Mirante Já a lavradora Francisca Telma saiu do município de Vitorino Freire para tentar garantir o benefício do pai, que recebe o Benefício de Prestação Continuada (BPC), destinado a idosos e pessoas com deficiência em situação de vulnerabilidade. “Em nome de Jesus vai dar certo. Como o problema dele é esse, ele vive internado, é meio agressivo. As coisas eu não tenho, porque ele quebra tudo”, relatou. Com várias limitações no dia a dia, principalmente pelo uso de cadeira de rodas, a trabalhadora autônoma Nastea Pereira afirma que o benefício pago pela Previdência Social é sua única fonte de renda. “Eu estava recebendo direitinho, mas foi bloqueado. Vim aqui com urgência, mas já estou preocupada porque ele [atendente do INSS] disse que vai precisar do laudo, e eu não trouxe”, disse.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-28 17:54:19",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-28 18:08:01",
+        "image_url": "https://s2-g1.glbimg.com/pzIejfstHxLCvcP5SDNBzXgng9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/B/inS60BQ2SrYAkP25Lfqg/montagens-1920-x-1080-px-1-.png",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "INSS 联合努力，本周末在马拉尼昂州进行了 2000 多次检查",
+        "description_zh": "医疗专家小组周末动员全国 国家社会保障研究所 (INSS) 在本周六（28 日）和周日（29 日）推动马拉尼昂州七个社会保障机构进行了 2,210 次医疗检查。 ✅ 点击这里关注频道"
+    },
+    {
+        "article_id": "fb06df3c0e8f886a333fe4498f046f85",
+        "link": "https://contilnetnoticias.com.br/2026/03/video-mostra-como-funciona-prova-oral-de-portugues-em-concurso-da-policia-civil/",
+        "title": "Vídeo mostra como funciona prova oral de português em concurso da Polícia Civil",
+        "description": "Um vídeo que circula nas redes sociais mostra como funciona a prova oral de português em concursos da Polícia Civil, etapa considerada decisiva na seleção de candidatos. Nas imagens, o...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "destacadas",
-            "codelco"
+            "prova"
         ],
         "creator": [
-            "redacción el rancagüino"
+            "dry"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-03-28 17:54:15",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-28 18:17:58",
+        "image_url": "https://contilnetnoticias.com.br/wp-content/uploads/2026/03/prova.jpg",
+        "video_url": null,
+        "source_id": "contilnetnoticias",
+        "source_name": "Contilnet Notícias",
+        "source_priority": 155904,
+        "source_url": "https://contilnetnoticias.com.br",
+        "source_icon": "https://n.bytvi.com/contilnetnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "视频展示葡萄牙语口语测试在民警比赛中的表现",
+        "description_zh": "社交媒体上流传的一段视频展示了葡萄牙语口试在民警比赛中的运作情况，这一阶段被认为对候选人的选择具有决定性作用。在图像中，..."
+    },
+    {
+        "article_id": "5fd2ab5a6e039ce3701428c05f5e8bb5",
+        "link": "https://www.portafolio.co/economia/gobierno/escandalo-mas-de-30-congresistas-bajo-la-lupa-por-presunto-intercambio-de-votos-490964",
+        "title": "Escándalo: más de 30 congresistas bajo la lupa por presunto intercambio de votos",
+        "description": "La Corte Suprema investiga la presunta red de corrupción que sacude a las ramas ejecutiva y legislativa.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "noticias",
+            "congreso de la república",
+            "escandalo",
+            "ley",
+            "partidos políticos",
+            "opinión pública",
+            "intercambio de votos",
+            "gobierno",
+            "poder legislativo",
+            "crisis política",
+            "corrupción",
+            "debate político",
+            "política",
+            "investigación",
+            "congresistas",
+            "justicia"
+        ],
+        "creator": [
+            "valentina delgadillo abello"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "colombia"
         ],
         "category": [
             "business",
-            "top"
+            "politics"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-03-27 17:15:47",
+        "datatype": "news",
+        "pubDate": "2026-03-28 17:54:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:23:54",
-        "image_url": "https://www.elrancaguino.cl/wp-content/uploads/2026/03/codelco-resultados-1-scaled.jpg",
+        "fetched_at": "2026-03-28 18:11:44",
+        "image_url": "https://imagenes.portafolio.co/files/image_1200_675/files/fp/uploads/2026/03/09/69aeeb5a4962c.r_d.603-264-0.png",
         "video_url": null,
-        "source_id": "elrancaguino_cl",
-        "source_name": "El Rancagüino",
-        "source_priority": 236223,
-        "source_url": "https://www.elrancaguino.cl",
-        "source_icon": "https://n.bytvi.com/elrancaguino_cl.jpg",
+        "source_id": "portafolio",
+        "source_name": "Noticias Economicas De Colombia Y El Mundo | Porta",
+        "source_priority": 37310,
+        "source_url": "https://www.portafolio.co",
+        "source_icon": null,
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -538,39 +461,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Codelco 2025 年的税息折旧及摊销前利润 (Ebitda) 为 66.70 亿美元，综合利润为 24.23 亿美元，对国库的贡献为 17.78 亿美元",
-        "description_zh": "虽然第一项财务指标与 2024 年相比增长了 23%，但国库贡献增加了 16%。最终综合利润较2024年增加了21.78亿美元，这得益于Novandino Litio协会，来自COB的利润增加了1.43亿美元"
+        "title_zh": "丑闻：30多名国会议员因涉嫌交换选票而受到审查",
+        "description_zh": "最高法院正在调查涉嫌动摇行政和立法部门的腐败网络。"
     },
     {
-        "article_id": "9b01e032f2431c5d023a43feccb13209",
-        "link": "https://www.infobae.com/mexico/2026/03/27/popocatepetl-registro-10-exhalaciones-este-27-de-marzo/",
-        "title": "Popocatépetl registró 10 exhalaciones este 27 de marzo",
-        "description": "El Popocatépetl es uno de los seis volcanes de alto riesgo detectados por el Cenapred, razón por la cual es monitoreado de forma constante",
+        "article_id": "b7a7b0cce0c8af5e3cb6ede6502ea49a",
+        "link": "https://www.infobae.com/estados-unidos/2026/03/28/american-airlines-facilita-la-gestion-de-demoras-y-cancelaciones-desde-su-plataforma-digital/",
+        "title": "American Airlines facilita la gestión de demoras y cancelaciones desde su plataforma digital",
+        "description": "La herramienta renovada permite a los usuarios resolver inconvenientes de forma directa, acceder a información precisa y solicitar compensaciones en caso de alteraciones en sus vuelos",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "exhalaciones del popocatépetl hoy",
-            "actividad popocatépetl hoy",
-            "últimas actualizaciones"
+            "oneworld",
+            "american airlines",
+            "esados-unidos-noticias",
+            "transformación digital"
         ],
         "creator": [
-            "infobae noticias"
+            "jeremías baldantoni"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
             "united states of america",
-            "argentina"
+            "argentina",
+            "colombia",
+            "mexico"
         ],
         "category": [
-            "top",
-            "health"
+            "sports",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:45",
+        "pubDate": "2026-03-28 17:54:34",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:37:00",
-        "image_url": "https://www.infobae.com/resizer/v2/D7S2Y4X6PRB3ZDCSXRIB7AJHYU.jpg?auth=62c0b74c760baefe30b4da5f6b15c04dd6dc6649d3cc6e787188cb50a91484ad&smart=true&width=1920&height=1279",
+        "fetched_at": "2026-03-28 18:04:55",
+        "image_url": "https://www.infobae.com/resizer/v2/AKAJLVAIXFA5XNYZHR5MSW2O3I.png?auth=f270485fea6dffd5141c1547e61a9296325c1f322c22a5d07490b60524ac9a7e&smart=true&width=1408&height=768",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -584,34 +508,39 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "今年 3 月 27 日，Popocatépetl 记录了 10 次呼气",
-        "description_zh": "波波卡特佩特火山是塞纳普雷德检测到的六座高风险火山之一，因此受到持续监测"
+        "title_zh": "美国航空通过其数字平台更轻松地管理延误和取消",
+        "description_zh": "新工具允许用户直接解决问题、获取准确信息并在航班变更时请求赔偿"
     },
     {
-        "article_id": "9970a228893150b7170fec1cee03d605",
-        "link": "https://www.infobae.com/america/agencias/2026/03/27/impulsando-servicios-publicos-que-prioricen-a-los-ciudadanos-a-traves-de-la-ia-y-la-transformacion-digital/",
-        "title": "Impulsando servicios públicos que prioricen a los ciudadanos a través de la IA y la transformación digital",
-        "description": "Impulsando servicios públicos que prioricen a los ciudadanos a través de la IA y la transformación digital",
+        "article_id": "03f837d75155375418e300d4b824cd3c",
+        "link": "https://www.infobae.com/colombia/2026/03/28/paloma-valencia-se-pronuncio-tras-la-ultima-encuesta-presidencial-que-la-pone-en-un-cabeza-a-cabeza-con-abelardo-de-la-espriella-una-opcion-que-puede-derrotar-al-heredero-de-petro/",
+        "title": "Paloma Valencia se pronunció tras la última encuesta presidencial que la pone en un “cabeza a cabeza” con Abelardo de la Espriella: “Una opción que puede derrotar al heredero de Petro”",
+        "description": "Crecen los apoyos emergentes y se perfila un final abierto según el peso de alianzas y percepciones públicas",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "voto en blanco",
+            "iván cepeda",
+            "elecciones presidenciales colombia",
+            "intención de voto"
+        ],
         "creator": [
             "newsroom infobae"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
             "united states of america",
-            "argentina"
+            "argentina",
+            "colombia",
+            "mexico"
         ],
         "category": [
             "top",
-            "entertainment"
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:41",
+        "pubDate": "2026-03-28 17:54:31",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:37:00",
+        "fetched_at": "2026-03-28 18:04:55",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
         "video_url": null,
         "source_id": "infobae",
@@ -626,36 +555,35 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "通过人工智能和数字化转型促进以公民为先的公共服务",
-        "description_zh": "通过人工智能和数字化转型促进以公民为先的公共服务"
+        "title_zh": "帕洛玛·瓦伦西亚在最新的总统民意调查后与阿韦拉多·德拉埃斯普里埃拉“正面交锋”后发表讲话：“这是一个可以击败佩特罗继承人的选择”",
+        "description_zh": "新兴的支持正在增长，开放式结局正在出现，具体取决于联盟的分量和公众的看法"
     },
     {
-        "article_id": "2335cc82e4ec234f6424c6db8c9274aa",
-        "link": "https://www.quadratin.com.mx/deportes/muere-el-periodista-deportivo-axel-solis/",
-        "title": "Muere el periodista deportivo Axel Solís",
-        "description": "Fue un referente en Monterrey La entrada Muere el periodista deportivo Axel Solís aparece primero en Quadratín Michoacán .",
+        "article_id": "4507e1f49986aef05ebea1a8938b4f98",
+        "link": "https://www.quadratin.com.mx/salud/toma-sindical-deja-sin-servicio-a-2-mil-pacientes-diarios-en-morelia/",
+        "title": "Toma sindical deja sin servicio a 2 mil pacientes diarios en Morelia",
+        "description": "En el Centro de Salud Juan Manuel González Urueña La entrada Toma sindical deja sin servicio a 2 mil pacientes diarios en Morelia aparece primero en Quadratín Michoacán .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "periodista",
-            "deportivo",
-            "cadena"
+            "morelia",
+            "ssm",
+            "snitss"
         ],
         "creator": [
-            "redacción quadratín michoacán"
+            "francisco calderón"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top",
-            "lifestyle"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:28",
+        "pubDate": "2026-03-28 17:54:29",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:24:24",
-        "image_url": "https://www.quadratin.com.mx/www/wp-content/uploads/2026/03/1500x500-7-e1774631666472-1160x700.jpg",
+        "fetched_at": "2026-03-28 18:22:32",
+        "image_url": "https://www.quadratin.com.mx/www/wp-content/uploads/2023/12/Presentan-SNITSS-nuevo-sindicato-para-trabajadores-del-sector-Salud-1160x700.jpg",
         "video_url": null,
         "source_id": "quadratin",
         "source_name": "Quadratín",
@@ -669,26 +597,115 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "体育记者阿克塞尔·索利斯去世",
-        "description_zh": "他是蒙特雷的参考文献 体育记者阿克塞尔·索利斯去世的条目首先出现在米却肯州。"
+        "title_zh": "莫雷利亚工会接管后，每天有 2,000 名患者无法获得服务",
+        "description_zh": "胡安·曼努埃尔·冈萨雷斯·乌鲁埃尼亚 (Juan Manuel González Urueña) 健康中心 莫雷利亚 (Morelia) 的工会接管后，每天有 2,000 名患者无法获得服务，这首先出现在米却肯州 (Quadratín Michoacán)。"
     },
     {
-        "article_id": "1ced21a2e572ff770a9c6f409a87ffab",
-        "link": "https://www.elsiglodetorreon.com.mx/noticia/2026/inauguran-instalaciones-de-empresa-flowserve-gtec-en-torreon.html",
-        "title": "Inauguran instalaciones de empresa Flowserve GTEC en Torreón",
-        "description": "Con una inversión de 40 millones de dólares, el gobernador Manolo Jiménez Salinas y el alcalde Román Alberto Cepeda González, inauguraron las instalaciones de Flowserve GTEC en Torreón, las cuales generarán empleos de calidad, y fortalecerán el desarrollo económico de la región. El presidente destacó las estrategias impulsadas por el gobernador Manolo Jiménez Salinas para el fortalecimiento del estado en materia de inversiones, y señaló que la seguridad es uno de los factores que favorece a la atracción de empresas. Ver también: Espera Coahuila atraer 80 industrias en 2026 <... Más información -- Inauguran instalaciones de empresa Flowserve GTEC en Torreón »",
+        "article_id": "4c49a2eff06da2cc680ff9ad9a332f33",
+        "link": "https://www.elimparcial.com/deporte/2026/03/28/en-que-posicion-iniciara-checo-perez-el-gp-de-japon-2026/",
+        "title": "¿En qué posición iniciará ‘Checo’ Pérez el GP de Japón 2026?",
+        "description": "‘Checo’ Pérez arrancará junto a su compañero de equipo Valtteri Bottas, mientras el joven Andrea Kimi Antonelli logra la pole una vez más en la temprana.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "estado",
-            "gobernador",
-            "gobierno de coahuila",
-            "flowserve",
-            "coahuila",
-            "manolo jiménez",
-            "empresas"
+            "gran premio de japón",
+            "f1",
+            "sergio checo pérez",
+            "fórmula 1",
+            "cadillac"
         ],
         "creator": [
-            "maria elena holguin"
+            "brandon espinoza"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-03-28 17:54:18",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-28 18:11:24",
+        "image_url": "https://www.elimparcial.com/resizer/v2/52PHKELHGRGPXLQXUDNO6D4K4I.jpg?auth=bc7cf3df6c2ddba7eeb38f4db9d5436cacb898f8ad8bcfcd6caacf2f36a67693&smart=true&width=3300&height=2200",
+        "video_url": null,
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“Checo”佩雷斯将以什么位置开始 2026 年日本大奖赛？",
+        "description_zh": "“Checo”佩雷斯将与他的队友瓦尔特利·博塔斯一起发车，而年轻的安德里亚·基米·安东内利则在早些时候再次获得杆位。"
+    },
+    {
+        "article_id": "91fd549d303a79e47ad088a771856215",
+        "link": "https://www.cordobabn.com/articulo/nacional/morant-valora-regreso-oltra-noticia-positiva-todos/20260328185413254707.html",
+        "title": "Morant valora el regreso de Oltra: una noticia positiva para todos",
+        "description": "El regreso de Mónica Oltra en Valencia Respaldo de la secretaria general del PSPV-PSOE El regreso de Mónica Oltra en Valencia Mónica Oltra, exvicepresidenta de la Generalitat valenciana y antigua líder de Compromís, ha confirmado...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "politicavalenciana",
+            "pol&iacute;tica",
+            "m&oacute;nicaoltra",
+            "dianamorant"
+        ],
+        "creator": [
+            "redacci&oacute;n"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-03-28 17:54:13",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-03-28 17:58:25",
+        "image_url": "https://www.cordobabn.com/media/cordobabn/images/2026/03/28/2026032817521092247.jpg",
+        "video_url": null,
+        "source_id": "cordobabn",
+        "source_name": "Cordoba",
+        "source_priority": 1219601,
+        "source_url": "https://www.cordobabn.com",
+        "source_icon": "https://n.bytvi.com/cordobabn.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "莫兰特看重奥尔特拉的回归：对每个人来说都是好消息",
+        "description_zh": "莫妮卡·奥尔特拉 (Mónica Oltra) 回归巴伦西亚 得到 PSPV-PSOE 秘书长的支持 莫妮卡·奥尔特拉 (Mónica Oltra) 回归巴伦西亚 巴伦西亚自治区前副主席、康普罗米斯 (Compromís) 前领导人莫妮卡·奥尔特拉 (Mónica Oltra) 已确认..."
+    },
+    {
+        "article_id": "29ead65a514e2c53afca3400be59200e",
+        "link": "https://www.poresto.com/quintana-roo/2026/3/28/quintana-roo-lidera-trata-de-personas-en-mexico-con-64-casos-en-2026.html",
+        "title": "Quintana Roo lidera trata de personas en México con 64 casos en 2026",
+        "description": "Quintana Roo encabeza la trata de personas en México con 64 casos en 2026, concentrando casi el 60% nacional y superando ampliamente a otras entidades, según datos oficiales.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "casos",
+            "roo",
+            "quintana",
+            "personas",
+            "quintana roo",
+            "lidera",
+            "méxico",
+            "península de yucatán"
+        ],
+        "creator": [
+            "redacción por esto"
         ],
         "language": "spanish",
         "country": [
@@ -699,16 +716,16 @@
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:25",
+        "pubDate": "2026-03-28 17:53:42",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:47:10",
-        "image_url": "https://www.elsiglodetorreon.com.mx/m/i/2026/03/1995789.jpeg",
+        "fetched_at": "2026-03-28 19:28:34",
+        "image_url": "https://www.poresto.com/media/2026/3/28/quintana-roo-registro-64-casos-de-trata-de-personas-en-el-primer-bimestre-de-2026.jpg",
         "video_url": null,
-        "source_id": "elsiglodetorreon",
-        "source_name": "El Siglo De Torreón",
-        "source_priority": 99698,
-        "source_url": "https://www.elsiglodetorreon.com.mx",
-        "source_icon": "https://n.bytvi.com/elsiglodetorreon.png",
+        "source_id": "poresto",
+        "source_name": "Por Esto!",
+        "source_priority": 1266292,
+        "source_url": "https://www.poresto.com",
+        "source_icon": "https://n.bytvi.com/poresto.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -716,41 +733,44 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Flowserve GTEC 公司工厂在托雷翁落成",
-        "description_zh": "州长 Manolo Jiménez Salinas 和市长 Román Alberto Cepeda González 投资 4000 万美元为位于托雷翁的福斯 GTEC 工厂揭幕，这将创造优质就业机会并加强该地区的经济发展。他主持"
+        "title_zh": "金塔纳罗奥州是墨西哥人口贩运的领头羊，2026 年将发生 64 起案件",
+        "description_zh": "根据官方数据，金塔纳罗奥州在 2026 年将发生 64 起人口贩运案件，占墨西哥全国人口贩运案件的近 60%，远远超过其他实体。"
     },
     {
-        "article_id": "b9329174c367eb96d81fe3053bba399e",
-        "link": "https://www.infobae.com/espana/agencias/2026/03/27/0-7-espana-apabulla-a-chipre/",
-        "title": "0-7. España apabulla a Chipre",
-        "description": "0-7. España apabulla a Chipre",
+        "article_id": "5f623fcf2b4e588a2d65c1e6438ce795",
+        "link": "https://tribunacampeche.com/28/4-obreros-siguen-bajo-tierra-a-3-dias-del-colapso-de-una-mina-de-oro-en-el-rosario-sinaloa-enviaran-mas-personal-especializado/739597/",
+        "title": "4 OBREROS SIGUEN BAJO TIERRA A 3 DÍAS DEL COLAPSO DE UNA MINA DE ORO EN EL ROSARIO, SINALOA; ENVIARÁN MÁS PERSONAL ESPECIALIZADO",
+        "description": "Intensa movilización de fuerzas federales y estatales se mantiene hoy sábado 28 de marzo en... The post 4 OBREROS SIGUEN BAJO TIERRA A 3 DÍAS DEL COLAPSO DE UNA MINA DE ORO EN EL ROSARIO, SINALOA; ENVIARÁN MÁS PERSONAL ESPECIALIZADO first appeared on Tribuna Campeche .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "tierra",
+            "tendencias",
+            "mina",
+            "sinaloa",
+            "bajo"
+        ],
         "creator": [
-            "newsroom infobae"
+            "editor 2"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
-            "united states of america",
-            "argentina"
+            "mexico"
         ],
         "category": [
             "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:21",
+        "pubDate": "2026-03-28 17:53:25",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:37:00",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "fetched_at": "2026-03-28 17:59:46",
+        "image_url": "https://tribunacampeche.com/wp-content/uploads/2023/05/imagen-fonto-periodico.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "tribunacampeche",
+        "source_name": "Tribuna Campeche",
+        "source_priority": 1508810,
+        "source_url": "https://tribunacampeche.com",
+        "source_icon": "https://n.bytvi.com/tribunacampeche.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -758,44 +778,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "0-7。西班牙大胜塞浦路斯",
-        "description_zh": "0-7。西班牙大胜塞浦路斯"
+        "title_zh": "锡那罗亚州埃尔罗萨里奥金矿崩塌三天后，4 名工人仍在地下；将派遣更多专业人员",
+        "description_zh": "今天，即 3 月 28 日星期六，联邦和州军队继续密集动员……锡那罗亚州埃尔罗萨里奥金矿倒塌三天后，4 名工人仍在地下；他们将派遣更多专业人员首次出现在坎佩切论坛报上。"
     },
     {
-        "article_id": "141676ce9dfaac832e484e60d929cb46",
-        "link": "https://www.cnnchile.com/pais/colegio-de-profesores-por-muerte-inspectora-colegio-atacama-hecho-mas-grave-que-ha-ocurrido-en-la-educacion-chilena_20260327/",
-        "title": "“Es el hecho más grave que ha ocurrido en la educación chilena”: Colegio de Profesores por muerte de inspectora en Atacama",
-        "description": "El presidente del Colegio de Profesores lamentó el hecho y comentó que \"los colegios hoy no son espacios 100% seguros; nosotros no tenemos la posibilidad de garantizarle a las familias que sus niños van a estar total y absolutamente protegidos\".",
+        "article_id": "66d2b2e7987853146226b3105df84c08",
+        "link": "https://www.elfinanciero.com.mx/cdmx/2026/03/28/partido-mexico-vs-portugal-hoy-a-que-hora-comienzan-y-terminan-los-cierres-viales/",
+        "title": "Partido México vs. Portugal HOY: ¿A qué hora comienzan y terminan los cierres viales?",
+        "description": "Debido al partido México vs. Portugal, el Centro de Orientación Vial de la Secretaría de Seguridad Ciudadana de la Ciudad de México detalló los cierres y desvíos en la zona.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "calama",
-            "mario aguilar",
-            "colegio de profesores",
-            "región de antofagasta",
-            "educación"
+            "estadio-banorte",
+            "cdmx"
         ],
         "creator": [
-            "cnn chile"
+            "redacción"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "mexico"
         ],
         "category": [
             "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:07",
+        "pubDate": "2026-03-28 17:53:16",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:27:14",
-        "image_url": "https://media.cnnchile.com/sites/2/2026/03/A_UNO_1698328-e1774630952737-740x430.jpg",
+        "fetched_at": "2026-03-28 18:07:49",
+        "image_url": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/GagRgNudHLq2pEU0P8jRpm1yejs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LCXNIOB6F5EOBHBAWTRT233QZA.jpg",
         "video_url": null,
-        "source_id": "cnnchile",
-        "source_name": "Cnn Chile",
-        "source_priority": 575108,
-        "source_url": "https://www.cnnchile.com",
-        "source_icon": "https://n.bytvi.com/cnnchile.png",
+        "source_id": "elfinanciero",
+        "source_name": "El Financiero",
+        "source_priority": 6218,
+        "source_url": "https://www.elfinanciero.com.mx",
+        "source_icon": "https://n.bytvi.com/elfinanciero.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -803,43 +820,44 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "“这是智利教育中发生的最严重的事件”：阿塔卡马教师学院一名督察死亡",
-        "description_zh": "师范学院院长对这一事实表示遗憾，并评论说：“今天的学校并不是100%安全的空间；我们无法向家庭保证他们的孩子将得到完全和绝对的保护。”"
+        "title_zh": "今日墨西哥对阵葡萄牙：封路什么时间开始和结束？",
+        "description_zh": "由于墨西哥队对阵墨西哥队的比赛。葡萄牙，墨西哥城公民安全秘书处道路指导中心详细介绍了该地区的封闭和绕行情况。"
     },
     {
-        "article_id": "7738098d6df1a984180b62cf78127239",
-        "link": "https://www.infobae.com/politica/2026/03/27/cristina-kirchner-y-kicillof-tambien-celebraron-el-fallo-por-ypf-y-contestaron-las-criticas-de-milei-el-juicio-era-absurdo/",
-        "title": "Cristina Kirchner y Kicillof también celebraron el fallo por YPF y contestaron las críticas de Milei: “El juicio era absurdo”",
-        "description": "La exmandaria se expresó a través de sus redes y destacó que estatizar la empresa petrolera “se hizo conforme a derecho”. El gobernador bonaerense, a su vez, señaló que el Presidente tiene “que pedir perdón por haber apoyado a los fondos buitres”",
+        "article_id": "a99a8767e094e49ba92289efa394f158",
+        "link": "https://www.elgrafico.mx//la-roja/2026/03/28/cuales-son-las-alcaldias-de-la-cdmx-con-mas-homicidios/",
+        "title": "¿Cuáles son las alcaldías de la CDMX con más homicidios?",
+        "description": "Los asesinatos directos han impactado a la capital en los primeros meses de este año y en el oriente es donde más se han dado",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "ypf"
+            "cdmx",
+            "homicidios",
+            "alcaldías cdmx",
+            "asesinatos",
+            "iztapalapa"
         ],
         "creator": [
-            "infobae"
+            "el gráfico"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
-            "united states of america",
-            "argentina"
+            "mexico"
         ],
         "category": [
             "top",
-            "entertainment"
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-03-27 17:15:02",
+        "pubDate": "2026-03-28 17:53:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-03-27 17:37:00",
-        "image_url": "https://www.infobae.com/resizer/v2/X2VL5APVN5EVZI6N4OBBNOBLGU.jpg?auth=83d0188b94608f9fe58ce2e8e26329901f99202bc64f804c2bd608807d3f2b3d&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-03-28 18:22:02",
+        "image_url": "https://www.elgrafico.mx/resizer/v2/KD6RWF2XUZHIFPV4CRS66PXJPI.jpg?auth=771f5adea91b952cd37079e13c6e49006084ddc04f948b7597961b2ebea9d377&smart=true&width=1200&height=740",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "elgrafico",
+        "source_name": "Elgrafico Mx",
+        "source_priority": 360449,
+        "source_url": "https://www.elgrafico.mx",
+        "source_icon": "https://n.bytvi.com/elgrafico.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -847,7 +865,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Cristina Kirchner 和 Kicillof 也对 YPF 的裁决表示庆祝，并回应 Milei 的批评：“审判是荒谬的”",
-        "description_zh": "这位前总统通过她的网络表达了自己的观点，并强调将该石油公司国有化“是依法进行的”。布宜诺斯艾利斯省长则指出，总统必须“为支持秃鹫基金而道歉”。"
+        "title_zh": "CDMX 凶杀案最多的城市是哪些？",
+        "description_zh": "今年头几个月，首都发生了直接谋杀案，其中东部地区是此类案件发生最多的地方。"
     }
 ]
