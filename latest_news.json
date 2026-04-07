@@ -1,56 +1,21 @@
 [
     {
-        "article_id": "a7fda5f7e0b0c2833a886d79be643071",
-        "link": "https://misionesonline.net/2026/04/05/santa-catarina-femicidios-brasil/",
-        "title": "Dos femicidios en un fin de semana causa conmoción en Santa Catarina: las parejas de las víctimas son los principales sospechosos",
-        "description": "Dos mujeres fueron asesinadas en Florianópolis y São Domingos durante el fin de semana. En ambos casos, sus parejas son los principales sospechosos. Los crímenes exponen un patrón alarmante que confirma un informe del Ministerio Público: el 71% de las víctimas fueron ultimadas por sus compañeros sentimentales.",
+        "article_id": "ae5e8121a7b160987de9e7697b3c2950",
+        "link": "https://odia.ig.com.br/rio-de-janeiro/2026/04/7232322-agentes-da-seop-iniciam-fiscalizacao-de-ciclomotores-e-autopropelidos-no-rio.html",
+        "title": "Agentes da Seop iniciam fiscalização de ciclomotores e autopropelidos no Rio",
+        "description": "Motos elétricas não podem circular em ciclovias a partir dessa segunda-feira",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "femicidios"
+            "decreto",
+            "rua",
+            "ciclomotor",
+            "moto",
+            "bicicleta",
+            "elétrica",
+            "ciclovia"
         ],
         "creator": [
-            "redacción"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-04-05 18:19:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:43:04",
-        "image_url": "https://static.misionesonline.news/wp-content/uploads/2026/04/external-b29c78a34cea8be3015c9b35bd5fdcd0.jpg",
-        "video_url": null,
-        "source_id": "misionesonline",
-        "source_name": "Misionesonline",
-        "source_priority": 499523,
-        "source_url": "https://misionesonline.net",
-        "source_icon": "https://n.bytvi.com/misionesonline.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "圣卡塔琳娜州周末发生两名女性被杀事件，引发骚乱：受害者伴侣是主要嫌疑人",
-        "description_zh": "周末，两名妇女在弗洛里亚诺波利斯和圣多明戈斯被谋杀。在这两起案件中，他们的伴侣都是主要嫌疑人。这些犯罪行为暴露了一个令人震惊的模式，证实了公共部的一份报告：71％的受害者是被同伴杀害的。"
-    },
-    {
-        "article_id": "3264547ed44d6b5eedad9464907c0dbd",
-        "link": "https://odocumento.com.br/criminoso-invade-bar-e-atira-contra-pescadores-em-mt-um-e-baleado/",
-        "title": "Criminoso invade bar e atira contra pescadores em MT; um é baleado",
-        "description": "CAÇANDO CONFUSÃO",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "policial"
-        ],
-        "creator": [
-            "redação"
+            "fred vidal"
         ],
         "language": "portuguese",
         "country": [
@@ -61,16 +26,16 @@
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-05 18:18:48",
+        "pubDate": "2026-04-06 18:04:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:22:20",
-        "image_url": "https://odocumento.com.br/content/images/2026/04/tiro-atirando.jpg",
+        "fetched_at": "2026-04-06 18:40:18",
+        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/04/06/whatsapp_image_2026_04_06_at_12_47_40-38434306.jpeg",
         "video_url": null,
-        "source_id": "odocumento",
-        "source_name": "O Documento",
-        "source_priority": 6912852,
-        "source_url": "https://odocumento.com.br",
-        "source_icon": "https://n.bytvi.com/odocumento.png",
+        "source_id": "odia_ig_br",
+        "source_name": "Odia Ig Br",
+        "source_priority": 144458,
+        "source_url": "https://odia.ig.com.br",
+        "source_icon": "https://n.bytvi.com/odia_ig_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -78,47 +43,46 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "罪犯闯入MT酒吧并射杀渔民；一个被枪杀",
-        "description_zh": "春日混乱"
+        "title_zh": "Seop 特工开始在里约检查轻便摩托车和自行式车辆",
+        "description_zh": "从本周一开始，电动摩托车不能在自行车道上行驶"
     },
     {
-        "article_id": "595fe17f12ae129528c35138e4d74777",
-        "link": "https://www.infobae.com/colombia/2026/04/05/no-paran-las-criticas-de-petro-al-banco-de-la-republica-acuso-a-la-junta-directiva-de-estar-en-contra-de-la-economia-colombiana/",
-        "title": "No paran las críticas de Petro al Banco de la República: acusó a la junta directiva de “estar en contra” de la economía colombiana",
-        "description": "El presidente colombiano reiteró que la decisión del Banco de la República de incrementar las tasas de interés es supuestamente inconstitucional",
+        "article_id": "4481c99d3d239184c0f9e0d57da61eae",
+        "link": "https://odia.ig.com.br/rio-de-janeiro/2026/04/7232322-agentes-da-seop-iniciam-fiscalizacao-de-ciclomotores-e-bicicletas-eletricas-no-rio.html",
+        "title": "Agentes da Seop iniciam fiscalização de ciclomotores e bicicletas elétricas no Rio",
+        "description": "Motos elétricas não podem circular em ciclovias a partir dessa segunda-feira",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "economía colombiana",
-            "banco de la república",
-            "gustavo petro",
-            "colombia-noticias",
-            "tasas de interés"
+            "decreto",
+            "rua",
+            "ciclomotor",
+            "moto",
+            "bicicleta",
+            "elétrica",
+            "ciclovia"
         ],
         "creator": [
-            "daniel mauricio rodríguez sevilla"
+            "fred vidal"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "mexico",
-            "united states of america",
-            "colombia",
-            "argentina"
+            "brazil"
         ],
         "category": [
             "top",
             "lifestyle"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-04-05 18:18:43",
+        "datatype": "news",
+        "pubDate": "2026-04-06 18:04:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:49:18",
-        "image_url": "https://www.infobae.com/resizer/v2/KGJRK6IUBBBRBHTZICBLBEEEBI.jpg?auth=755ce7a34b181aba7223aa4ffb6add43970274af3bf231159fc09475efbe9969&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/ORwP7rL8-cRfOFDLx.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "fetched_at": "2026-04-06 18:10:14",
+        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/04/06/whatsapp_image_2026_04_06_at_12_47_40-38434306.jpeg",
+        "video_url": null,
+        "source_id": "odia_ig_br",
+        "source_name": "Odia Ig Br",
+        "source_priority": 144458,
+        "source_url": "https://odia.ig.com.br",
+        "source_icon": "https://n.bytvi.com/odia_ig_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -126,17 +90,180 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "佩特罗对共和银行的批评并未停止：他指责董事会“反对”哥伦比亚经济",
-        "description_zh": "哥伦比亚总统重申，共和国银行加息的决定据称是违宪的"
+        "title_zh": "Seop 特工开始在里约检查轻便摩托车和电动自行车",
+        "description_zh": "从本周一开始，电动摩托车不能在自行车道上行驶"
     },
     {
-        "article_id": "072b6bbb8ba872c62f06e77d427e3fcb",
-        "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/04/05/colisao-frontal-na-br-226-em-patu.ghtml",
-        "title": "VÍDEO: Motorista faz 'cavalo de pau' em posto e bate caminhonete de frente com caminhão na BR-226 no RN",
-        "description": "Motorista faz 'cavalo de pau' em posto de gasolina e bate de frente com caminhão na BR-226 Uma mulher de 35 anos ficou gravemente ferida após uma colisão frontal entre a caminhonete conduzida por ela e um caminhão na BR-226. O caso aconteceu por volta das 7h20 manhã de sábado (4) em Patu, na região Oeste do Rio Grande do Norte. Segundo a polícia, a motorista teria realizado uma manobra conhecida como \"cavalo de pau\" em um posto de combustíveis. Em seguida, ela invadiu a BR-226 e bateu de frente com o caminhão. Testemunhas registraram a cena em vídeos de celular. 📳 Clique aqui para seguir o canal do g1 RN no WhatsApp Ao chegar ao local, a equipe da Polícia Militar encontrou a condutora de uma Toyota Hilux com múltiplos ferimentos. Ela foi socorrida pelo Serviço de Atendimento Móvel de Urgência (Samu), levada inicialmente a uma unidade hospitalar da região e, devido à gravidade do quadro, transferida para Mossoró. Segundo relato colhido pelos policiais, a mulher havia abastecido o veículo em um posto de combustíveis momentos antes do acidente. Ao sair do local, ela teria realizado a manobra perigosa algumas vezes, perdido o controle da direção e invadido a contramão, causando o acidente. Colisão frontal entre caminhonete e caminhão ocorreu na manhã de sábado (4) na BR-226 Reprodução Testemunhas informaram à polícia que a condutora apresentava sinais de embriaguez antes do acidente, mas essa condição não foi confirmada oficialmente pelas autoridades. O motorista do caminhão, de 39 anos, não se feriu. Ele permaneceu no local e prestou esclarecimentos às autoridades. A ocorrência foi assumida pela Polícia Rodoviária Federal. Veja os vídeos mais assistidos no g1 RN",
+        "article_id": "827eec311e8d634626beea99ab4a89ca",
+        "link": "https://www.bigbangnews.com/politica/milei-veta-periodistas-casa-rosa-burdo-intento-censura-tapar-chanchullos-adorni-n100583",
+        "title": "Milei veta a periodistas en Casa Rosa en un burdo intento de censura para tapar los chanchullos de Adorni",
+        "description": "¿Hasta dónde está dispuesto a llegar el oficialismo para mantener sus secretos bajo llave?",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "manuel adorni",
+            "casa rosa",
+            "manu jove",
+            "javier milei"
+        ],
+        "creator": [
+            "big bang! news"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-06 18:04:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-06 18:21:09",
+        "image_url": "https://statics.bigbangnews.com/2026/04/crop/69d3f7312eff6__993x610.webp",
+        "video_url": null,
+        "source_id": "bigbangnews",
+        "source_name": "Big Bang! News",
+        "source_priority": 2472367,
+        "source_url": "https://www.bigbangnews.com",
+        "source_icon": "https://n.bytvi.com/bigbangnews.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "米莱禁止记者进入卡萨罗莎，这是一种粗暴的审查制度，试图掩盖阿多尼的恶作剧",
+        "description_zh": "执政党愿意在多大程度上保守其秘密？"
+    },
+    {
+        "article_id": "3b729c80abc2b61cf5ed09158150e6de",
+        "link": "https://www.bigbangnews.com/politica/milei-veta-periodistas-casa-rosada-burdo-intento-censura-tapar-chanchullos-adorni-n100583",
+        "title": "Milei veta a periodistas en Casa Rosada en un burdo intento de censura para tapar los chanchullos de Adorni",
+        "description": "¿Hasta dónde está dispuesto a llegar el oficialismo para mantener sus secretos bajo llave?",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "manu jove",
+            "manuel adorni",
+            "javier milei",
+            "casa rosa"
+        ],
+        "creator": [
+            "big bang! news"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-06 18:04:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-06 20:20:36",
+        "image_url": "https://statics.bigbangnews.com/2026/04/crop/69d3f7312eff6__993x610.webp",
+        "video_url": null,
+        "source_id": "bigbangnews",
+        "source_name": "Big Bang! News",
+        "source_priority": 2472367,
+        "source_url": "https://www.bigbangnews.com",
+        "source_icon": "https://n.bytvi.com/bigbangnews.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "米莱否决了玫瑰宫的记者，这是一次粗暴的审查，试图掩盖阿多尼的恶作剧",
+        "description_zh": "执政党愿意在多大程度上保守其秘密？"
+    },
+    {
+        "article_id": "9da7e31c8b1d76f6177ea8e17aa79dca",
+        "link": "https://www.uol.com.br/carros/avaliacao/avaliacao-renault-kardian-techno-2027.htm",
+        "title": "Renault Kardian Techno: por que versão intermediária é a mais interessante",
+        "description": "Análise: por que versão intermediária do Renault Kardian Techno é a mais interessante",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "alessandro reis"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "review",
+        "pubDate": "2026-04-06 18:03:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-06 18:03:54",
+        "image_url": "https://imguol.com/c/entretenimento/a7/2026/04/02/renault-kardian-techno-2026-1775158645279_v2_300x225.jpg",
+        "video_url": null,
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Renault Kardian Techno：为什么中间版本最有趣",
+        "description_zh": "分析：为什么雷诺Kardian Techno的中级版本最有趣"
+    },
+    {
+        "article_id": "ff12e5135b46ad9afade14c4c395e774",
+        "link": "https://valor.globo.com/empresas/marketing/noticia/2026/04/06/piracanjuba-leva-informacao-sobre-autismo-as-caixinhas-de-leite.ghtml",
+        "title": "Piracanjuba leva informação sobre autismo às caixinhas de leite",
+        "description": "A fabricante de laticínios Piracanjuba vai estampa...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-06 18:03:49",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-06 18:32:47",
+        "image_url": "https://s2-valor.glbimg.com/Wok3qw1axUx32K6KFs7-q0EYX84=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/w/P/sgEZUTTXeQKS31WFgxJg/divulgacao-piracanjuba.jpg",
+        "video_url": null,
+        "source_id": "valor_globo",
+        "source_name": "Valor Globo",
+        "source_priority": 2786,
+        "source_url": "https://valor.globo.com",
+        "source_icon": "https://n.bytvi.com/valor_globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "皮拉坎朱巴 (Piracanjuba) 将有关自闭症的信息带到牛奶盒上",
+        "description_zh": "乳制品制造商 Piracanjuba 将打印..."
+    },
+    {
+        "article_id": "8531baae9f79a3f40d8898b850aebdd7",
+        "link": "https://www.estadao.com.br/cultura/series/se-algo-horrivel-vai-acontecer-te-prendeu-essas-5-producoes-vao-te-perturbar-ainda-mais-nprec/",
+        "title": "Se ‘Algo Horrível Vai Acontecer’ te prendeu, essas 5 produções vão te perturbar ainda mais",
+        "description": "Com clima denso, tensão psicológica e narrativas inquietantes, série da Netflix conquista o público e reacende o interesse por histórias que vão além do terror convencional; saiba onde assistir",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "eduarda menina"
+        ],
         "language": "portuguese",
         "country": [
             "brazil"
@@ -145,16 +272,16 @@
             "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-05 18:18:30",
+        "pubDate": "2026-04-06 18:03:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:33:48",
-        "image_url": "https://s2-g1.glbimg.com/zJ86yoSjr-XFPPxAbzH-WGauPb4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/P/YUk2yhTumnRCGfhFlPLw/colisao-frontal.jpg",
+        "fetched_at": "2026-04-06 18:33:50",
+        "image_url": "https://www.estadao.com.br/resizer/v2/25E64AHF6FH7XO7VUPGG6PBDXI.jpg?auth=cd5e6907954a8b83453f920b1726689d7db437ec2b01e72f7e4b2426f642657e&smart=true&width=1200&height=675",
         "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -162,103 +289,66 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "视频：司机在加油站制造了一匹“木马”，并在 RN 的 BR-226 上与卡车正面相撞",
-        "description_zh": "司机在加油站玩“木马”，与 BR-226 上的卡车正面相撞 一名 35 岁的妇女在她驾驶的卡车与 BR-226 上的一辆卡车正面相撞后受重伤。该案件于周六早上（4）上午7点20分左右发生在R省巴图市"
+        "title_zh": "如果《可怕的事情即将发生》让你着迷，这 5 部作品会让你更加不安",
+        "description_zh": "凭借浓厚的氛围、紧张的心理和令人不安的叙事，这部 Netflix 剧集赢得了公众的青睐，并重新点燃了人们对超越传统恐怖故事的兴趣；知道在哪里观看"
     },
     {
-        "article_id": "7b7b1de391badfa85711e266746d4445",
-        "link": "https://www.alagoas24horas.com.br/1731039/pmal-apreende-mais-de-40-quilos-de-entorpecentes-e-28-armas-de-fogo/",
-        "title": "PMAL apreende mais de 40 quilos de entorpecentes e 28 armas de fogo",
-        "description": "A Polícia Militar de Alagoas (PM-AL) apreendeu mais de 40 quilos de drogas e 28 armas de fogo em ações por todo o estado, entre o último domingo (29) e sábado (4). Os exatos 40,062 quilos de entorpecentes estão distribuídos entre maconha, crack e cocaína. Já as armas, foram 17 revólveres, sete espingardas, três pistolas...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "apreensão de armas e drogas"
-        ],
-        "creator": [
-            "cláudia galvão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-04-05 18:18:13",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:22:43",
-        "image_url": "https://www.alagoas24horas.com.br/wp-content/uploads/2026/04/pm-al-apreende-mais-de-40-quilos-de-entorpecentes-e-28-armas-de-fogo-scaled.jpg",
-        "video_url": null,
-        "source_id": "alagoas24horas",
-        "source_name": "Alagoas 24 Horas",
-        "source_priority": 7284912,
-        "source_url": "https://www.alagoas24horas.com.br",
-        "source_icon": "https://n.bytvi.com/alagoas24horas.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "PMAL 查获超过 40 公斤毒品和 28 支枪支",
-        "description_zh": "上周日（29 日）至周六（4 日），阿拉戈斯宪兵 (PM-AL) 在全州各地行动中缴获了 40 多公斤毒品和 28 支枪支。确切的 40,062 公斤毒品分布在大麻、强效快克和可卡因中。至于武器，有17把左轮手枪，"
-    },
-    {
-        "article_id": "80895a108162677bda53a8ba31681347",
-        "link": "https://catracalivre.com.br/noticias/como-os-japoneses-lidam-com-afinamento-e-queda-de-cabelo/",
-        "title": "Como os japoneses lidam com afinamento e queda de cabelo",
-        "description": "Aprenda técnicas inspiradas na cultura oriental para combater o afinamento e a queda de cabelo com massagem capilar e estímulos que melhoram a saúde dos fios. O post Como os japoneses lidam com afinamento e queda de cabelo apareceu primeiro em Catraca Livre .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "dicas",
-            "japão",
-            "curiosidade"
-        ],
-        "creator": [
-            "joaquim luppi fernandes"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports",
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-04-05 18:18:11",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:34:37",
-        "image_url": "https://i.catracalivre.com.br/mmsPTS63VNvkDdpzz0aEtzg4Fes=/1200x630/smart/filters:quality(60)/catracalivre.com.br/wp-content/uploads/2026/04/freepik-couro-cabeludo-saudavel-visto-de-perto-com-fios-densos-e-fortes-saindo-da-raiz-maos-realizan.jpg",
-        "video_url": "https://www.youtube.com/watch?v=FHzg-2IPgEU",
-        "source_id": "catracalivre_br",
-        "source_name": "Catraca Livre",
-        "source_priority": 20092,
-        "source_url": "https://catracalivre.com.br",
-        "source_icon": "https://n.bytvi.com/catracalivre_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "日本人如何应对头发稀疏和脱发",
-        "description_zh": "学习受东方文化启发的技术，通过头发按摩和刺激来改善头发健康，以对抗稀疏和脱发。日本人如何应对头发稀疏和脱发的帖子首先出现在 Catraca Livre 上。"
-    },
-    {
-        "article_id": "d342dff134065b539949c6051660921d",
-        "link": "https://www.folhabv.com.br/comportamento/jardinagem/mini-costela-de-adao-luz-ideal-para-folhas-maiores-g4/",
-        "title": "Mini Costela-de-Adão: 4 ajustes de luz que favorecem folhas maiores e recortes mais definidos",
-        "description": "A Mini Costela-de-Adão responde diretamente à luz; ajustes simples revelam folhas maiores, recortes marcantes e crescimento mais equilibrado O post Mini Costela-de-Adão: 4 ajustes de luz que favorecem folhas maiores e recortes mais definidos apareceu primeiro em Folha BV .",
+        "article_id": "8142d73d43bb960374d6aa3e0be33680",
+        "link": "https://www.uol.com.br/splash/noticias/2026/04/06/dinho-ouro-preto-lamenta-morte-de-alvin-l-compositor-do-capital.ghtm",
+        "title": "Dinho Ouro Preto lamenta morte de Alvin L, compositor do Capital",
+        "description": "Dinho Ouro Preto lamenta morte de Alvin L, compositor do Capital",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "fabiano souza"
+            "bruna calazans"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-06 18:03:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-06 18:03:42",
+        "image_url": "https://imguol.com/c/splash/32/2026/04/06/alvin-l-compositor-do-capital-inicial-1775495669450_v2_300x225.png",
+        "video_url": null,
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "迪尼奥·欧鲁·普雷图 (Dinho Ouro Preto) 哀悼《资本论》作曲家阿尔文·L (Alvin L) 的去世",
+        "description_zh": "迪尼奥·欧鲁·普雷图 (Dinho Ouro Preto) 哀悼《资本论》作曲家阿尔文·L (Alvin L) 的去世"
+    },
+    {
+        "article_id": "3031a0d83f9cea10b7243ec20f3a8bf9",
+        "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/cndh-pede-investigacao-de-juiz-e-advogado-por-homenagem-ao-golpe-de-64.shtml",
+        "title": "Mônica Bergamo: CNDH pede investigação de juiz e advogado por homenagem ao golpe de 64",
+        "description": "ONG pede investigação de juiz e advogado por homenagem ao golpe de 64 durante sessão",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "oab",
+            "ditadura militar",
+            "tribunal de justiça",
+            "31 de março",
+            "folha",
+            "veja vídeo",
+            "democracia",
+            "folha de s.paulo",
+            "paraiba"
+        ],
+        "creator": [
+            "karina matias"
         ],
         "language": "portuguese",
         "country": [
@@ -268,16 +358,16 @@
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-05 18:18:00",
+        "pubDate": "2026-04-06 18:03:42",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:21:44",
-        "image_url": "https://uploads.folhabv.com.br/2026/04/Mini-Costela-de-Adao-4-ajustes-de-luz-que-favorecem-folhas-maiores.webp",
+        "fetched_at": "2026-04-06 18:03:42",
+        "image_url": "https://imguol.com/c/home/9a/2026/04/06/sessao-em-que-houve-homenagem-a-ditadura-1775496579640_v2_300x225.png",
         "video_url": null,
-        "source_id": "folhabv_br",
-        "source_name": "Folha Bv",
-        "source_priority": 2913228,
-        "source_url": "https://www.folhabv.com.br",
-        "source_icon": "https://n.bytvi.com/folhabv_br.png",
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -285,127 +375,25 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "迷你亚当肋骨：4 种灯光设置，有利于更大的叶子和更清晰的切口",
-        "description_zh": "迷你亚当肋骨直接对光做出反应；简单的调整揭示了更大的叶子、引人注目的切口和更平衡的生长 Mini Rib-de-Adão 后：4 种光线调整有利于更大的叶子和更明确的切口首先出现在 Folha BV 上。"
+        "title_zh": "莫尼卡·贝加莫：全国人权委员会呼吁调查对 64 政变表示敬意的法官和律师",
+        "description_zh": "非政府组织呼吁调查法官和律师在会议期间赞扬64政变"
     },
     {
-        "article_id": "7d374c954838b687ba45f90277de682b",
-        "link": "https://www.elchubut.com.ar/regionales/2026-4-5-15-18-0-gran-cierre-de-la-pesca-de-altura-en-la-43-fiesta-nacional-del-salmon",
-        "title": "Gran cierre de la pesca de altura en la 43° Fiesta Nacional del Salmón",
-        "description": "La localidad de Camarones vivió una jornada inolvidable en el marco del tradicional certamen de pesca de altura, uno de los eventos centrales de la 43° Fiesta Nacional del Salmón, que volvió a consolidarse como un verdadero emblema de la identidad local.",
+        "article_id": "49c9cd1b3296a66cb43d0e501b448ecb",
+        "link": "https://www.laopinioncoruna.es/videos/a-coruna-metro/2026/04/06/tareas-extincion-incendio-caion-obligo-128804341.html",
+        "title": "Tareas de extinción en el incendio de Caión que obligó a desalojar a los vecinos de al menos diez viviendas",
+        "description": "Los vecinos de al menos diez viviendas han tenido que ser desalojados por la proximidad de sus casas al incendio forestal declarado este lunes en la parroquia de Caión, en A Laracha. Según detalla la Guardia Civil, presenta un fuego con un frente de 2 kilómetros que afecta tanto a monte arbolado como a monte raso, y está activo desde las 13:13 horas.Trabajan en la zona medios de extinción tanto aéreos como terrestres: dos helicópteros, cinco motobombas, seis brigradas, dos agentes y una pala.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "nacional",
-            "cierre",
-            "salmón",
-            "fiesta",
-            "pesca",
-            "altura"
+            "incendio forestal",
+            "caión",
+            "vecinos"
         ],
         "creator": [
-            "el chubut"
+            "casteleiro"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-05 18:18:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:38:21",
-        "image_url": "https://pxbcdn.elchubut.com.ar/chubut/042026/1775413399827.jpg?cw=1170&ch=645",
-        "video_url": null,
-        "source_id": "elchubut_ar",
-        "source_name": "El Chubut",
-        "source_priority": 110150,
-        "source_url": "https://www.elchubut.com.ar",
-        "source_icon": "https://n.bytvi.com/elchubut_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "第43届全国三文鱼节深海捕捞全面休渔",
-        "description_zh": "卡马罗内斯镇在传统深海钓鱼比赛中度过了难忘的一天，这是第 43 届全国鲑鱼节的核心活动之一，再次成为当地身份的真正象征。"
-    },
-    {
-        "article_id": "d02e958ac685b118b2fd803d81ccfc01",
-        "link": "https://www.infobae.com/estados-unidos/2026/04/05/el-40-de-los-participantes-en-el-programa-contra-la-indigencia-en-los-angeles-abandonan-el-refugio-y-retornan-a-la-calle/",
-        "title": "El 40% de los participantes en el programa contra la indigencia en Los Ángeles abandonan el refugio y retornan a la calle",
-        "description": "El ambicioso programa de la alcaldía, destinado a ofrecer soluciones habitacionales, enfrenta críticas tras conocerse que una parte significativa de los beneficiarios ha dejado la vivienda temporal y retomado la vida en situación de calle",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "personas sin hogar",
-            "inside safe",
-            "los ángeles",
-            "salud mental",
-            "estados-unidos-noticias"
-        ],
-        "creator": [
-            "francesco enrico"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico",
-            "united states of america",
-            "colombia",
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-05 18:17:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:49:18",
-        "image_url": "https://www.infobae.com/resizer/v2/6Q3WEKJPGVAA3DRKZL7N45XOJE.jpg?auth=13ad23536275afe92154033f1db323e01ffbf5f86584e774dbe02ac65e7466c1&smart=true&width=5000&height=3335",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "洛杉矶反无家可归计划的 40% 参与者离开庇护所并返回街头",
-        "description_zh": "市长旨在提供住房解决方案的雄心勃勃的计划在得知很大一部分受益人已经离开临时住房并恢复街头生活后面临批评。"
-    },
-    {
-        "article_id": "231498e7469ef24df69e58be72199d45",
-        "link": "https://www.infobae.com/peru/2026/04/05/cardenal-carlos-castillo-advierte-que-sacerdotes-no-pueden-influir-en-el-voto-de-los-fieles-eso-esta-prohibido-en-la-iglesia/",
-        "title": "Cardenal Carlos Castillo advierte que sacerdotes no pueden influir en el voto de los fieles: “Eso está prohibido en la Iglesia”",
-        "description": "Las declaraciones del arzobispo se producen tras el lanzamiento de la plataforma del padre Omar Sánchez, donde entrevista a figuras de la política peruana. Su primera invitada fue Keiko Fujimori, a quien apoyó activamente durante la campaña de 2021",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "irtp",
-            "arzobispo",
-            "conferencia episcopal",
-            "misas",
-            "cardenal",
-            "peru-politica",
-            "arzobispo de lima",
-            "carlos castillo"
-        ],
-        "creator": [
-            "mariana quilca catacora"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico",
-            "united states of america",
-            "colombia",
             "argentina"
         ],
         "category": [
@@ -413,16 +401,16 @@
             "lifestyle"
         ],
         "datatype": "multimedia",
-        "pubDate": "2026-04-05 18:17:53",
+        "pubDate": "2026-04-06 18:03:41",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:49:18",
-        "image_url": "https://www.infobae.com/resizer/v2/QLKIKPDCXJH6VDD5GFSVQP5GW4.png?auth=9a73066e4a0bf2cc8ae1e5c6a9721ea5cb1078871b753105ea74168441e401c2&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/Vca5sw8a-xPNvTglZ.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "fetched_at": "2026-04-06 18:06:04",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4539b1c0-4647-4ff3-af7f-7a6ac1b5d5ec_16-9-aspect-ratio_default_0_x1024y455.jpg",
+        "video_url": "https://www.laopinioncoruna.es/videos/a-coruna-metro/2026/04/06/tareas-extincion-incendio-caion-obligo-128804341.html",
+        "source_id": "laopinioncoruna",
+        "source_name": "La Opinión A Coruña",
+        "source_priority": 50098,
+        "source_url": "https://www.laopinioncoruna.es",
+        "source_icon": "https://n.bytvi.com/laopinioncoruna.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -430,47 +418,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "红衣主教卡洛斯·卡斯蒂略警告神父不能影响信徒的投票：“这在教会是被禁止的”",
-        "description_zh": "大主教是在奥马尔·桑切斯神父采访秘鲁政坛人物的平台推出后发表上述言论的。他的第一位嘉宾是藤森惠子，他在 2021 年竞选期间积极支持她。"
+        "title_zh": "卡翁火灾中的灭火任务迫使至少十户居民撤离",
+        "description_zh": "阿拉查省卡翁教区周一宣布发生森林火灾，至少十户人家的居民不得不撤离。根据国民警卫队的详细信息，火灾范围达 2 公里，影响了两座树木繁茂的山脉"
     },
     {
-        "article_id": "595fe17f12ae129528c35138e4d74777",
-        "link": "https://www.infobae.com/colombia/2026/04/05/no-paran-las-criticas-de-petro-al-banco-de-la-republica-acuso-a-la-junta-directiva-de-estar-en-contra-de-la-economia-colombiana/",
-        "title": "No paran las críticas de Petro al Banco de la República: acusó a la junta directiva de “estar en contra” de la economía colombiana",
-        "description": "El presidente colombiano reiteró que la decisión del Banco de la República de incrementar las tasas de interés es supuestamente inconstitucional",
+        "article_id": "bcb0c8618191f8142a827527453e6334",
+        "link": "https://www.eldivisadero.cl/_noticia/Avanza-futura-direcci%C3%B3n-de-fiscalizaci%C3%B3n-y-expulsiones-en-el-Servicio-Nacional-de-Migraciones/ODI0MTg=",
+        "title": "Avanza futura dirección de fiscalización y expulsiones en el Servicio Nacional de Migraciones",
+        "description": "La nueva área buscará acelerar la salida de migrantes irregulares, fiscalizar a los empleadores y coordinar expulsiones.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "economía colombiana",
-            "banco de la república",
-            "gustavo petro",
-            "colombia-noticias",
-            "tasas de interés"
+            "divisadero",
+            "coyhaique",
+            "noticias",
+            "aysén"
         ],
         "creator": [
-            "daniel mauricio rodríguez sevilla"
+            "el divisadero"
         ],
         "language": "spanish",
         "country": [
-            "mexico",
-            "united states of america",
-            "colombia",
-            "argentina"
+            "chile"
         ],
         "category": [
-            "top",
-            "lifestyle"
+            "food",
+            "top"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-04-05 18:18:43",
+        "datatype": "news",
+        "pubDate": "2026-04-06 18:04:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:49:18",
-        "image_url": "https://www.infobae.com/resizer/v2/KGJRK6IUBBBRBHTZICBLBEEEBI.jpg?auth=755ce7a34b181aba7223aa4ffb6add43970274af3bf231159fc09475efbe9969&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/ORwP7rL8-cRfOFDLx.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "fetched_at": "2026-04-06 22:12:49",
+        "image_url": "http://www.eldivisadero.cl/media/Noticias/for_fot23498.JPG",
+        "video_url": null,
+        "source_id": "eldivisadero",
+        "source_name": "El Divisadero",
+        "source_priority": 453157,
+        "source_url": "http://eldivisadero.cl",
+        "source_icon": "https://n.bytvi.com/eldivisadero.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -478,43 +462,55 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "佩特罗对共和银行的批评并未停止：他指责董事会“反对”哥伦比亚经济",
-        "description_zh": "哥伦比亚总统重申，共和国银行加息的决定据称是违宪的"
+        "title_zh": "国家移民局检查和驱逐的未来方向取得进展",
+        "description_zh": "新区将寻求加速非正规移民的离开、监督雇主并协调驱逐。"
     },
     {
-        "article_id": "7b91c34468344a4c2422d797ccfc054e",
-        "link": "https://www.marca.com/futbol/real-sociedad/2026/04/05/debuta-real-sociedad-19-anos-cuadrilla-le-monta-recibimiento-champions-video.html",
-        "title": "Debuta con la Real Sociedad con 19 años y su cuadrilla le monta un recibimiento de Champions",
-        "description": "Ibai Aguirre, que comenzó la temporada en el tercer equipo realista, debutó en Primera ante el Levante y sus colegas de cuadrilla en Mutriku le montaron una genial 'emboscada' en plena calle en su regreso a casa tras el partido.",
+        "article_id": "4b978e2d63f4824c24102017ae64e674",
+        "link": "https://www.elespectador.com/bogota/nueva-modalidad-de-robo-en-bogota-enganan-con-excremento-de-perro-para-hurtar/",
+        "title": "Nueva modalidad de robo en Bogotá: engañan con excremento de perro para hurtar comercios",
+        "description": "Todo empezó con una supuesta suciedad en la entrada. Terminó en un robo millonario en segundos.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "19",
-            "real",
-            "años",
-            "sociedad",
-            "debuta"
+            "noticias hoy",
+            "distrito",
+            "robo",
+            "noticias",
+            "policía",
+            "bogota hoy",
+            "inseguridad",
+            "hurto",
+            "noticias de bogotá hoy",
+            "alcaldía",
+            "comercios en bogotá",
+            "noticias de bogotá",
+            "engañan con excremento de perro",
+            "inseguridad en comercios",
+            "nueva modalidad de robo en bogotá: engañan con excremento de perro para hurtar comercios",
+            "bogotá"
         ],
         "creator": [
-            "alberto ortega"
+            "redacción bogotá"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "sports"
+            "top",
+            "lifestyle"
         ],
-        "datatype": "news",
-        "pubDate": "2026-04-05 18:18:28",
+        "datatype": "multimedia",
+        "pubDate": "2026-04-06 18:03:55",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:32:03",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/04/05/aUXVO1fqgT7vBEosr.jpeg",
+        "fetched_at": "2026-04-06 21:24:55",
+        "image_url": "https://www.elespectador.com/resizer/v2/NXZUNGF3BZEINMCHW4X7EMXL7A.jpeg?auth=6f9c9052d1ee1133ecbbfbe93851d79c37ac90727a242fef2f2a60048cd0ea8c&smart=true",
         "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
+        "source_id": "elespectador",
+        "source_name": "Elespectador.com",
+        "source_priority": 589787,
+        "source_url": "http://elespectador.com",
+        "source_icon": "https://n.bytvi.com/elespectador.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -522,13 +518,89 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "19岁时，他在皇家社会首次亮相，他的球队给了他欧洲冠军联赛的接待",
-        "description_zh": "伊拜·阿吉雷（Ibai Aguirre）在第三现实球队中开始了本赛季，他在对阵莱万特的甲级联赛中首次亮相，他在穆特里库的队友在赛后回家时在街道中央为他设置了精彩的“伏击”。"
+        "title_zh": "波哥大新型抢劫：用狗屎行骗抢劫商家",
+        "description_zh": "这一切都始于入口处据称的污垢。几秒钟内就以百万美元的抢劫告终。"
     },
     {
-        "article_id": "efd39ba07f5fcf580131067f7019627a",
-        "link": "https://www.mural.com.mx/yankees-marlins-el-juego-mas-largo-con-reloj-en-mlb/ar3181525",
-        "title": "Yankees-Marlins, el juego más largo con reloj en MLB",
+        "article_id": "661ec92526d08e4314f7365679f92239",
+        "link": "https://eldiariodechihuahua.mx/internacional/2026/apr/06/video-sobrevuelo-de-artemis-ii-en-cara-oculta-de-luna-785083.html",
+        "title": "Video.- Sobrevuelo de Artemis II en cara oculta de Luna",
+        "description": "Sigue la transmisión en vivo de la NASA",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "agencia reforma"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-06 18:03:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-06 18:36:54",
+        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/04/06/middle-imagetransformer-25o9vwu4f-WubznJ2Ld.jpg",
+        "video_url": null,
+        "source_id": "eldiariodechihuahua",
+        "source_name": "Eldiariodechihuahua",
+        "source_priority": 77437,
+        "source_url": "https://www.eldiariodechihuahua.mx",
+        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "视频-阿耳忒弥斯二号飞越月球背面",
+        "description_zh": "关注NASA的直播"
+    },
+    {
+        "article_id": "a9c7ebaba0d93aa20c82df5893c39ece",
+        "link": "https://www.reporteindigo.com/monterrey/mujer-atropella-accidentalmente-a-su-esposo-y-muere-en-guadalupe-nl-20260406-0024.html",
+        "title": "Mujer atropella accidentalmente a su esposo y muere en Guadalupe, NL",
+        "description": "El accidente se registró en la colonia Tierra Propia; la mujer quedó detenida bajo investigación por este hecho",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-06 18:03:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-06 20:39:47",
+        "image_url": "https://assets.reporteindigo.com/__export/1770755421524/sites/reporteindigo/img/2025/02/24/cinta-de-investigacion-muere-en-casa-garcia_png.png_1371860089.png",
+        "video_url": null,
+        "source_id": "reporteindigo",
+        "source_name": "Reporte Indigo",
+        "source_priority": 159031,
+        "source_url": "https://www.reporteindigo.com",
+        "source_icon": "https://n.bytvi.com/reporteindigo.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "荷兰瓜达卢佩市一名妇女意外碾压丈夫身亡",
+        "description_zh": "事故发生在 Tierra Proopia 社区；该女子因该事件被拘留接受调查"
+    },
+    {
+        "article_id": "c88466b95522d85d5201a294f0a63554",
+        "link": "https://www.mural.com.mx/juventus-aprovecha-buen-inicio-y-supera-al-genoa-en-turin/ar3181906",
+        "title": "Juventus aprovecha buen inicio y supera al Genoa en Turín",
         "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
@@ -541,9 +613,9 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-05 18:18:13",
+        "pubDate": "2026-04-06 18:03:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:46:06",
+        "fetched_at": "2026-04-06 18:16:56",
         "image_url": null,
         "video_url": null,
         "source_id": "mural",
@@ -558,14 +630,14 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "洋基队与马林鱼队，MLB 中计时时间最长的比赛",
+        "title_zh": "尤文图斯凭借开门红在都灵击败热那亚",
         "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "5fbe9de553f2e0d4128f04e3569e3dfa",
-        "link": "https://www.mural.com.mx/red-bull-apostara-por-el-sistema-aduo/ar3181524",
-        "title": "Red Bull apostará por el sistema ADUO",
-        "description": null,
+        "article_id": "49070c6c4d39cd58bd3fd107e5e3b7f8",
+        "link": "https://www.eledenmx.com.mx/204070-2/",
+        "title": "Encabezará Miguel Torruco Jornada de Desarme Voluntario en Tabasco",
+        "description": "Este martes estará en Tabasco, Miguel Torruco Garza, subsecretario de Prevención de las Violencias de la SSPC, para poner en marcha la jornada de desarme voluntario, programada del 7 al 10 de abril, así lo informó el gobernador, Javier May Rodríguez. Precisó que, la jornada se llevará a cabo del 7 al 10 de abril [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -574,269 +646,117 @@
             "mexico"
         ],
         "category": [
-            "sports"
+            "top",
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-05 18:18:13",
+        "pubDate": "2026-04-06 18:03:36",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:45:29",
+        "fetched_at": "2026-04-06 18:22:56",
         "image_url": null,
         "video_url": null,
-        "source_id": "mural",
-        "source_name": "Mural",
-        "source_priority": 966477,
-        "source_url": "https://www.mural.com.mx",
-        "source_icon": "https://n.bytvi.com/mural.png",
+        "source_id": "eledenmx",
+        "source_name": "El Edén Mx",
+        "source_priority": 7373666,
+        "source_url": "https://www.eledenmx.com.mx",
+        "source_icon": "https://n.bytvi.com/eledenmx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "红牛将押注ADUO系统",
-        "description_zh": "查看原文了解更多详情"
+        "duplicate": false,
+        "title_zh": "米格尔·托鲁科将主持塔巴斯科州自愿裁军日活动",
+        "description_zh": "据州长哈维尔·梅·罗德里格斯报道，本周二，SSPC 负责暴力预防的副部长米格尔·托鲁科·加尔萨 (Miguel Torruco Garza) 将在塔巴斯科州启动自愿解除武装日活动，该日定于 4 月 7 日至 10 日举行。他指定这一天将会发生"
     },
     {
-        "article_id": "ec5d6a400facd2bdc8276be1753bac9c",
-        "link": "https://www.larepublica.co/economia/petro-dijo-que-venta-de-electricos-se-duplico-por-sus-aranceles-a-vehiculos-de-gasolina-4364127",
-        "title": "Petro dijo que venta de eléctricos se duplicó por sus aranceles a carros de gasolina",
-        "description": "El Presidente aseguró que el país debe avanzar en procesos de ensamblaje y producción de carros, motos y buses eléctricos para mercado nación y exportación",
+        "article_id": "80750ab94647dc03933138b8414d1145",
+        "link": "https://imparcialoaxaca.mx/istmo/hacinadas-y-moribundas-hallan-192-iguanas-en-la-cajuela-de-un-autobus-en-oaxaca/",
+        "title": "Hacinadas y moribundas: hallan 192 iguanas en la cajuela de un autobús en Oaxaca",
+        "description": "De los 192 ejemplares adultos asegurados, el panorama fue agridulce para las autoridades ambientales El cargo Hacinadas y moribundas: hallan 192 iguanas en la cajuela de un autobús en Oaxaca apareció primero en El Imparcial de Oaxaca .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "transporte",
-            "energía y minas",
-            "salud",
-            "agro",
-            "deporte",
-            "legislación-marcas",
-            "bolsas",
-            "seguros",
-            "bancos",
-            "comunicaciones",
-            "turismo",
-            "educación",
-            "laboral",
-            "construcción",
-            "moda",
-            "hacienda",
-            "espectáculos",
-            "comercio",
-            "cultura",
-            "entretenimento",
-            "judicial",
-            "industria",
+            "delitos ambientales istmo tehuantepec",
+            "rescate de iguanas verdes oaxaca",
+            "especies protegidas nom-059 méxico",
+            "tráfico ilegal de fauna silvestre",
+            "profepa operativo matías romero"
+        ],
+        "creator": [
+            "agencias"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-06 18:03:33",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-06 18:10:04",
+        "image_url": "https://imparcialoaxaca.mx/wp-content/uploads/2026/04/Iguanas.webp",
+        "video_url": null,
+        "source_id": "imparcialoaxaca",
+        "source_name": "El Imparcial De Oaxaca",
+        "source_priority": 149125,
+        "source_url": "https://imparcialoaxaca.mx",
+        "source_icon": "https://n.bytvi.com/imparcialoaxaca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "过度拥挤和死亡：瓦哈卡州一辆公共汽车后备箱中发现 192 只鬣蜥",
+        "description_zh": "在投保的 192 只成年标本中，环境主管部门的前景是苦乐参半的。指控 过度拥挤和濒临死亡：在瓦哈卡州一辆公共汽车后备箱中发现的 192 只鬣蜥首先出现在 El Imparcial de Oaxaca。"
+    },
+    {
+        "article_id": "d153f49eddadabff189e71e569d316a4",
+        "link": "https://www.elcolombiano.com/tecnologia/project-maven-ia-cerebro-digital-guerra-ee-uu-contra-iran-LB35251219",
+        "title": "Así es ‘Project Maven’, la IA que actúa como cerebro digital en la guerra de Estados Unidos contra Irán",
+        "description": "El programa de inteligencia artificial (IA) ‘ Project Maven’ del Pentágono se encuentra en el centro de la campaña militar contra Irán y es potencialmente una de las transformaciones más trascendentes en la guerra moderna. ‘Project Maven’ es el programa estrella de IA del Ejército de Estados Unidos. Fue lanzado en 2017 como un experimento para ayudar a los analistas militares a procesar los enormes flujos de imágenes enviados por drones. Los operadores estaban desbordados, obligados a trabajar imagen por imagen para localizar elementos de información que podían aparecer incluso en solo una fracción de segundo. Maven fue diseñado para ayudarles a encontrar la aguja en el pajar. Ocho años después, el programa se ha ampliado considerablemente. Se ha convertido en un sistema de orientación asistido por IA y de gestión del campo de batalla, que ha multiplicado la velocidad de ejecución de lo que en la guerra se conoce como la “cadena de ataque” ( kill chain ) , el proceso va desde la detección hasta la destrucción. Entérese: Así funciona la guerra millonaria por la inteligencia artificial: Google, Meta y Nvidia lideran Maven combina las funciones del control aéreo de combate y de cabina de pilotaje. El director del Wadhwani AI Center, Aalok Mehta, describe este sistema como “una superposición” que fusiona datos de sensores, imágenes satelitales y la información sobre fuerzas amigas y enemigas. El experto explica que Maven analiza a alta velocidad imágenes satelitales para detectar movimientos o identificar objetivos , al tiempo que “elabora un cuadro instantáneo del teatro de operaciones” para determinar el mejor plan de ataque. Lea también: Trump asegura que derribo de avión de combate estadounidense por Irán no afectará las negociaciones entre ambos países Maven transforma “como por arte de magia” una amenaza detectada en un proceso de selección de objetivos, evalúa las soluciones disponibles y presenta al mando una gama de opciones , describió un funcionario del Pentágono durante una reciente demostración en línea. La irrupción de la IA generativa en los últimos tres años ha supuesto un salto al permitir interactuar con el sistema en lenguaje natural, facilitando el uso de esta tecnología más allá de los técnicos del Ejército. Esta capacidad la proporciona el modelo Claude, de Anthropic, pero quizá no por mucho tiempo. La startup estadounidense fue sancionada por el Pentágono tras rechazar el uso de sus herramientas de IA para ataques totalmente automatizados o para la vigilancia de ciudadanos estadounidenses. Le puede interesar: Trump revela que piloto rescatado en Irán tras el derribo de su avión “está gravemente herido” Las cuestiones éticas entorno a la IA ya eran delicadas desde los primeros años del programa, cuando Google era el proveedor original. En 2018, más de 3.000 empleados del gigante de Mountain View firmaron una carta abierta para denunciar que el contrato cruzaba una línea roja. Varios ingenieros dimitieron. Google se negó después a renovar el contrato y publicó una carta ética sobre IA que excluía cualquier participación en sistemas de armamento. Este episodio puso de relieve una línea divisoria dentro de Silicon Valley , entre ingenieros que lo consideran como un límite ético infranqueable y altos responsables militares que lo estiman indispensable. Sin embargo, Google acaba de eliminar sus restricciones y anunció que se implicará más en los contratos militares. Conozca: La cara oculta de la Luna: las disputas políticas entre Apolo y Artemis II, de la Unión Soviética a China Google, así como OpenAI, principal rival de Anthropic, y la empresa xAI de Elon Musk compiten para sustituir a Claude en Maven , según indicó el Pentágono. Palantir, empresa fundada en parte gracias a fondos vinculados a la CIA , ocupó en 2024 el lugar que Google dejó vacante. La compañía se ha convertido desde entonces en el principal proveedor de ‘Project Maven’, y su tecnología de IA constituye el armazón operativo del programa. Entérese: El precio de volver a la Luna: la misión Artemis II de la Nasa cuesta 4.000 millones de dólares Para su director ejecutivo, Alex Karp, el mundo se divide ahora en dos: entre quienes tienen esta tecnología y quienes no la tienen. Según él, es esencial que Occidente consiga dominar capacidades que el resto del mundo no posee. Un sistema que reduzca el tiempo de la “cadena de ataque” a unos pocos segundos es capaz de volver obsoleto a un adversario, añadió. El Pentágono y Palantir han rechazado hacer comentarios sobre el rendimiento de Maven en la guerra con Irán. El ritmo sostenido de los ataques estadounidenses muestra que Maven probablemente ha acelerado el proceso de selección de objetivos y de disparo. Durante las primeras 24 horas de la operación Furia Épica, que se inició el 28 de febrero, las fuerzas estadounidenses alcanzaron más de mil objetivos. El ataque mortal que alcanzó ese día a una escuela instalada en un antiguo edificio militar formaría parte de ellos, según el cruce de información de varios medios. El Pentágono abrió una investigación por ese hecho. Siga leyendo: Por una gotera cayó red de semisumergibles que movían cocaína a Estados Unidos",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "google",
             "tecnología",
-            "automotor",
-            "gastronomía",
-            "ambiente"
+            "ia",
+            "guerra",
+            "inteligencia artificial",
+            "medio oriente",
+            "el pentágono",
+            "inteligencia militar",
+            "mundo",
+            "openai",
+            "estados unidos",
+            "irán",
+            "agencias de inteligencia"
         ],
         "creator": [
-            "sara ibañez pita"
+            "afp"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-05 18:18:05",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:35:16",
-        "image_url": "https://img.lalr.co/cms/2025/11/28111732/54948998908_8825227a5d_o-1.jpg?size=xl&ratio=r40_21",
-        "video_url": null,
-        "source_id": "larepublicacl",
-        "source_name": "Larepublica",
-        "source_priority": 43349,
-        "source_url": "https://www.larepublica.co",
-        "source_icon": "https://n.bytvi.com/larepublicacl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Petro表示，由于对汽油车征收关税，电动汽车销量翻了一番",
-        "description_zh": "总统保证，该国必须推进国内和出口市场的电动汽车、摩托车和公共汽车的组装和生产流程。"
-    },
-    {
-        "article_id": "d02e958ac685b118b2fd803d81ccfc01",
-        "link": "https://www.infobae.com/estados-unidos/2026/04/05/el-40-de-los-participantes-en-el-programa-contra-la-indigencia-en-los-angeles-abandonan-el-refugio-y-retornan-a-la-calle/",
-        "title": "El 40% de los participantes en el programa contra la indigencia en Los Ángeles abandonan el refugio y retornan a la calle",
-        "description": "El ambicioso programa de la alcaldía, destinado a ofrecer soluciones habitacionales, enfrenta críticas tras conocerse que una parte significativa de los beneficiarios ha dejado la vivienda temporal y retomado la vida en situación de calle",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "personas sin hogar",
-            "inside safe",
-            "los ángeles",
-            "salud mental",
-            "estados-unidos-noticias"
-        ],
-        "creator": [
-            "francesco enrico"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico",
-            "united states of america",
-            "colombia",
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-05 18:17:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:49:18",
-        "image_url": "https://www.infobae.com/resizer/v2/6Q3WEKJPGVAA3DRKZL7N45XOJE.jpg?auth=13ad23536275afe92154033f1db323e01ffbf5f86584e774dbe02ac65e7466c1&smart=true&width=5000&height=3335",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "洛杉矶反无家可归计划的 40% 参与者离开庇护所并返回街头",
-        "description_zh": "市长旨在提供住房解决方案的雄心勃勃的计划在得知很大一部分受益人已经离开临时住房并恢复街头生活后面临批评。"
-    },
-    {
-        "article_id": "efadd5dbc2506267608e01631b17ae07",
-        "link": "https://entrelineas.com.mx/asegura-sspe-vehiculo-con-droga-en-meoqui-durante-operativo-semana-santa-segura/",
-        "title": "Asegura SSPE vehículo con droga en Meoqui durante operativo Semana Santa Segura",
-        "description": "La Secretaría de Seguridad Pública del Estado (SSPE), encabezada por el secretario Gilberto Loya, informó sobre el aseguramiento de un vehículo con diversas porciones de droga, como resultado de los recorridos de prevención y vigilancia implementados durante el operativo Semana Santa Segura en la región centro-sur. Los hechos se registraron el 4 de abril de [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-05 18:17:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:44:43",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "entrelineas",
-        "source_name": "Entrelineas",
-        "source_priority": 655477,
-        "source_url": "https://entrelineas.com.mx",
-        "source_icon": "https://n.bytvi.com/entrelineas.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "SSPE 在安全圣周行动期间在 Meoqui 保护装有毒品的车辆",
-        "description_zh": "由秘书长吉尔伯托·洛亚 (Gilberto Loya) 领导的国家公共安全秘书处 (SSPE) 报告称，由于在安全圣周行动期间实施的预防和监视巡查，查获了一辆装有各种毒品的车辆。"
-    },
-    {
-        "article_id": "231498e7469ef24df69e58be72199d45",
-        "link": "https://www.infobae.com/peru/2026/04/05/cardenal-carlos-castillo-advierte-que-sacerdotes-no-pueden-influir-en-el-voto-de-los-fieles-eso-esta-prohibido-en-la-iglesia/",
-        "title": "Cardenal Carlos Castillo advierte que sacerdotes no pueden influir en el voto de los fieles: “Eso está prohibido en la Iglesia”",
-        "description": "Las declaraciones del arzobispo se producen tras el lanzamiento de la plataforma del padre Omar Sánchez, donde entrevista a figuras de la política peruana. Su primera invitada fue Keiko Fujimori, a quien apoyó activamente durante la campaña de 2021",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "irtp",
-            "arzobispo",
-            "conferencia episcopal",
-            "misas",
-            "cardenal",
-            "peru-politica",
-            "arzobispo de lima",
-            "carlos castillo"
-        ],
-        "creator": [
-            "mariana quilca catacora"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico",
-            "united states of america",
-            "colombia",
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-04-05 18:17:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:49:18",
-        "image_url": "https://www.infobae.com/resizer/v2/QLKIKPDCXJH6VDD5GFSVQP5GW4.png?auth=9a73066e4a0bf2cc8ae1e5c6a9721ea5cb1078871b753105ea74168441e401c2&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/Vca5sw8a-xPNvTglZ.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "红衣主教卡洛斯·卡斯蒂略警告神父不能影响信徒的投票：“这在教会是被禁止的”",
-        "description_zh": "大主教是在奥马尔·桑切斯神父采访秘鲁政坛人物的平台推出后发表上述言论的。他的第一位嘉宾是藤森惠子，他在 2021 年竞选期间积极支持她。"
-    },
-    {
-        "article_id": "892d7d9395f722f23cb0a7e4cbaf2c04",
-        "link": "https://www.infobae.com/mexico/2026/04/05/declaraciones-de-poncho-de-nigris-dejan-fuera-a-su-madre-de-lcdlfmx-ella-explota-y-ventila-nombre-del-primer-confirmado/",
-        "title": "Declaraciones de Poncho de Nigris dejan fuera a su madre de LCDLFMX: ella explota y ventila nombre del primer confirmado",
-        "description": "La productora Rosa María Noguerón confirmó que la madre del influencer regiomontano no formará parte de la cuarta temporada del reality",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "rosa maría noguerón",
-            "la casa de los famosos méxico 2026",
-            "mexico-entretenimiento",
-            "doña alegría",
-            "poncho de nigris"
-        ],
-        "creator": [
-            "víctor cisneros"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico",
-            "united states of america",
-            "colombia",
-            "argentina"
-        ],
-        "category": [
-            "top",
             "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-05 18:17:50",
+        "pubDate": "2026-04-06 18:03:31",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:49:18",
-        "image_url": "https://www.infobae.com/resizer/v2/QSKSL3PBARB7PBRQZILC6HGLAI.jpg?auth=184128cb409bef55c9a9139b416e6477d08ae911d8362659bdfa8ad8708d21a9&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-04-06 18:39:04",
+        "image_url": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/GGNC/1-foto-42_50311196_20260406124732.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "elcolombiano",
+        "source_name": "Elcolombiano",
+        "source_priority": 109876,
+        "source_url": "https://www.elcolombiano.com",
+        "source_icon": "https://n.bytvi.com/elcolombiano.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -844,44 +764,85 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Poncho de Nigris 的声明将他的母亲排除在 LCDLFMX 之外：她爆炸并播出了第一个确认的名字",
-        "description_zh": "制片人罗莎·玛丽亚·诺格隆证实，这位蒙特雷网红的母亲不会出现在真人秀第四季中。"
+        "title_zh": "这就是“Project Maven”，在美国对伊朗战争中充当数字大脑的人工智能",
+        "description_zh": "五角大楼的“Project Maven”人工智能（AI）计划是针对伊朗的军事行动的核心，并且可能是现代战争中最重要的变革之一。 “Project Maven”是美国陆军的旗舰人工智能项目"
     },
     {
-        "article_id": "402477025a462c676e02c37cd009ec97",
-        "link": "https://www.reforma.com/yankees-marlins-el-juego-mas-largo-con-reloj-en-mlb/ar3181523",
-        "title": "Yankees-Marlins, el juego más largo con reloj en MLB",
-        "description": "El triunfo de los Yankees el sábado por 9-7 sobre los Marlins duró 3:49, el juego más largo desde que se instauró el reloj de lanzamientos.",
+        "article_id": "fa77af2754a4e18fc7beb1d3ebcc35a2",
+        "link": "https://www.publimetro.cl/noticias/2026/04/06/iran-rechaza-propuesta-mas-reciente-de-alto-el-fuego-cuando-se-acerca-fecha-limite-de-trump/",
+        "title": "Irán rechaza propuesta más reciente de alto el fuego cuando se acerca fecha límite de Trump",
+        "description": "“Sólo aceptamos un fin de la guerra con garantías de que no volveremos a ser atacados”, dijo Mojtaba Ferdousi Pour, jefe de la misión diplomática iraní en",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "marlins",
-            "yankees",
-            "beisbol",
-            "cancha",
-            "mlb",
-            "grandes ligas"
+            "donald trump"
         ],
         "creator": [
-            "ap"
+            "ap y angélica baeza"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-06 18:03:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-06 18:15:57",
+        "image_url": "https://www.publimetro.cl/resizer/v2/REYLB7WDD5DSFCL6CEWLPVJDL4.jpg?auth=092f5e2a942eaac92d6b7ef6d26be4a88f86d2dd116d692af07506fb815c5d62&smart=true&width=1024&height=682",
+        "video_url": null,
+        "source_id": "publimetrocl",
+        "source_name": "Publimetro",
+        "source_priority": 612493,
+        "source_url": "https://www.publimetro.cl",
+        "source_icon": "https://n.bytvi.com/publimetrocl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "随着特朗普最后期限的临近，伊朗拒绝最新的停火提议",
+        "description_zh": "伊朗驻伊朗外交使团团长莫吉塔巴·费杜西·普尔 (Mojtaba Ferdousi Pour) 表示：“我们只有在保证我们不会再次受到攻击的情况下才接受结束战争。”"
+    },
+    {
+        "article_id": "7f3f5c7aeca3b4188a2a416a7ef679ef",
+        "link": "https://www.noticiasdealmeria.com/francisco-corral-asume-el-mando-de-la-seguridad-ciudadana-en-almeria",
+        "title": "Francisco Corral asume el mando de la Seguridad Ciudadana en Almería",
+        "description": "La seguridad en Almería inicia una nueva etapa con la incorporación de Francisco Corral Fernández como máximo responsable del área de Seguridad Ciudadana de la policía nacional. El subdelegado del Gobierno en la provincia, José María Martín, ha sido el en",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "subdelegación del gobierno",
+            "policía nacional",
+            "seguridad ciudadana",
+            "almería",
+            "francisco corral"
+        ],
+        "creator": [
+            "noticias de almeria"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "sports"
+            "top",
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-05 18:17:42",
+        "pubDate": "2026-04-06 18:03:24",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-05 18:35:16",
-        "image_url": "https://img.gruporeforma.com/imagenes/960x640/7/162/6161749.jpg",
+        "fetched_at": "2026-04-06 18:23:00",
+        "image_url": "https://www.noticiasdealmeria.com/fotos/2919/260406-reunion-sga-comisario-seguridad-ciudadana-1.jpg",
         "video_url": null,
-        "source_id": "reforma",
-        "source_name": "Reforma",
-        "source_priority": 30519,
-        "source_url": "https://www.reforma.com",
-        "source_icon": "https://n.bytvi.com/reforma.jpg",
+        "source_id": "noticiasdealmeria",
+        "source_name": "Noticiasde Almeria",
+        "source_priority": 4446190,
+        "source_url": "https://www.noticiasdealmeria.com",
+        "source_icon": "https://n.bytvi.com/noticiasdealmeria.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -889,7 +850,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "洋基队与马林鱼队，MLB 中计时时间最长的比赛",
-        "description_zh": "周六，洋基队以 9-7 战胜马林鱼队，这场比赛持续了 3 分 49 秒，这是实施进攻计时以来最长的一场比赛。"
+        "title_zh": "弗朗西斯科·科拉尔 (Francisco Corral) 接任阿尔梅里亚公民安全局局长",
+        "description_zh": "随着弗朗西斯科·科拉尔·费尔南德斯 (Francisco Corral Fernández) 担任国家警察公民安全部门负责人，阿尔梅里亚的安全工作进入了一个新阶段。该省政府分代表何塞·玛丽亚·马丁 (José María Martín) 担任"
     }
 ]
