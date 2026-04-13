@@ -1,18 +1,65 @@
 [
     {
-        "article_id": "4119459b765517c17556e630447e680b",
-        "link": "https://www.mdzol.com/policiales/confirman-que-el-juicio-la-desaparicion-loan-comenzara-el-16-junio-n1495440",
-        "title": "Confirman que el juicio por la desaparición de Loan comenzará el 16 de junio",
-        "description": "A casi dos años de la desaparición de Loan Peña, la Justicia Federal de Corrientes fijó la fecha del inicio del juicio. Hay 17 acusados.",
+        "article_id": "f93a9dc06a057a6750025272e2a3862f",
+        "link": "https://www.meutimao.com.br/noticias-do-corinthians/530807/corinthians-busca-evitar-jejum-em-classicos-que-nao-acontece-ha-mais-de-dois-anos-saiba-qual",
+        "title": "Corinthians busca evitar jejum em clássicos que não acontece há mais de dois anos; saiba qual",
+        "description": "Na noite deste domingo, o Corinthians enfrenta o Palmeiras. O Dérbi deste fim de semana pode encerrar uma má sequência alvinegra em clássicos neste ano.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "loan danilo peña",
-            "juicio",
-            "corrientes",
-            "loan"
+            "corinthians",
+            "próximos jogos do corinthians",
+            "corinthians x palmeiras",
+            "brasileirão série a",
+            "dérbi",
+            "sport club corinthians paulista",
+            "campeonato brasileiro"
         ],
         "creator": [
-            "mdz policiales"
+            "bruno pantarotto"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-12 15:35:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 15:40:20",
+        "image_url": "https://cdn.meutimao.com.br/fotos-do-corinthians/w614/2025/11/21/memphis_comemora_gol_contra_o_sao_paulo_pelo_c1fn.jpg",
+        "video_url": null,
+        "source_id": "meutimao",
+        "source_name": "Meu Timão",
+        "source_priority": 142685,
+        "source_url": "https://www.meutimao.com.br",
+        "source_icon": "https://n.bytvi.com/meutimao.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "科林蒂安试图避免古典文学中两年多没有发生过的禁食；知道哪个",
+        "description_zh": "本周日晚上，科林蒂安队将迎战帕尔梅拉斯。本周末的德比可能会结束今年经典赛的糟糕记录。"
+    },
+    {
+        "article_id": "55e0e788399bfd4ca912bacb21a91f89",
+        "link": "https://www.ambito.com/mundo/iran-proyecta-recuperar-el-80-su-produccion-petrolera-un-mes-los-ataques-su-infraestructura-energetica-n6265723",
+        "title": "Irán proyecta recuperar hasta el 80% de su producción petrolera en un mes, tras los ataques a su infraestructura energética",
+        "description": "El Gobierno iraní estima que en semanas reactivará gran parte de su capacidad energética y apunta a volver al 100% a mediano plazo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "estados unidos",
+            "medio oriente",
+            "irán",
+            "israel",
+            "petróleo"
+        ],
+        "creator": [
+            "ámbito.com"
         ],
         "language": "spanish",
         "country": [
@@ -23,16 +70,16 @@
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-11 15:29:00",
+        "pubDate": "2026-04-12 15:35:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 16:01:17",
-        "image_url": "https://media.mdzol.com/p/d7f4d6a9069c4c9678fd8232faaf2098/adjuntos/373/imagenes/001/294/0001294509/1200x675/816x473:836x493/a-un-ano-la-desaparicion-del-loan-pena.png",
+        "fetched_at": "2026-04-12 16:06:44",
+        "image_url": "https://media.ambito.com/p/067475b65750d91d12afe5b1e907f6e4/adjuntos/239/imagenes/043/200/0043200221/1200x675/528x165:548x185/1772301633323-iran-petroleojpg-1.jpg",
         "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://n.bytvi.com/mdzol.png",
+        "source_id": "ambito",
+        "source_name": "Ambito",
+        "source_priority": 37705,
+        "source_url": "https://www.ambito.com",
+        "source_icon": "https://n.bytvi.com/ambito.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -40,18 +87,166 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们确认，Loan 失踪案的审判将于 6 月 16 日开始",
-        "description_zh": "洛安·佩纳失踪近两年后，科连特斯联邦法官确定了审判开始的日期。有17名被告。"
+        "title_zh": "伊朗能源基础设施遭受袭击后计划在一个月内恢复高达 80% 的石油产量",
+        "description_zh": "伊朗政府估计，将在几周内重新启动大部分能源产能，并计划在中期恢复到 100%。"
     },
     {
-        "article_id": "6cf31ec25dbd3297a09ac3cd3394cd74",
-        "link": "https://www.diariodecuiaba.com.br/esportes/auxiliar-da-selecao-acredita-que-neymar-ainda-tem-chance-de-ir-a-copa-do-mundo/733311",
-        "title": "Auxiliar da Seleção acredita que Neymar ainda \"tem chance\" de ir à Copa do Mundo",
-        "description": "Auxiliar técnico da seleção brasileira, Davide Ancelotti acredita que ainda dá tempo de Neymar garantir uma vaga entre os 26 jogadores que vão para a Copa do Mundo dos Estados unidos, Canadá e México. — É uma decisão do treinador. Ele (Carlo Ancelotti) tem tempo para tomá-la. A lista final sai no dia 18 de maio. É claro, ele (Neymar) é o maior artilheiro da seleção e tem chance. Tem tempo para fazer seu melhor e tentar se colocar na lista — declarou Davide em entrevista à BBC divulgada na última quinta-feira. A última vez que Neymar foi chamado foi em 2023, quando ele ainda estava no Al Hilal. Sob o comando de Fernando Diniz, ele esteve presente no plantel que disputou jogos das Eliminatórias da Copa do Mundo 2026. Entretanto, no mês seguinte, ele teve uma grave lesão no joelho, que o deixou fora de ação por um longo período. Desde então, o craque não foi mais convocado. Em 128 jogos pelo Brasil, Neymar tem 79 gols marcados e é o maior artilheiro da seleção, à frente de grande ídolos do futebol brasileiro como Pelé, Ronaldo, Romário e Zico. Elogios a EstevãoDavide Ancelotti também afirmou que o jovem Estêvão, atacante do Chelsea, pode ser a grande surpresa do Brasil na próxima Copa do Mundo. Para ele, o jogador de 18 anos tem tudo para se destacar: — Em termos de jogadores de ataque, temos muito talento e perfis diferentes. Se eu tiver que dizer um nome, Estêvão é um dos talentos em ascensão no Brasil. Na última Data Fifa, não esteve, porque estava voltando de lesão. — Para nós, como comissão técnica, é importante ter todos os jogadores em forma. É claro, na lista final será diferente. Se tivermos jogadores importantes que possam se recuperar a tempo do primeiro jogo, podemos chamá-los. (Estêvão) É um grande talento, grande finalizador, um jogador que pode dominar na Europa como seu talento nos próximos anos — disse. E Vini?Outro jogador elogiado pelo auxiliar técnico da seleção foi Vinic...",
+        "article_id": "28e4e012dd3410fb71e405850aad747e",
+        "link": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/04/11/dirigentes-do-mirassol-disparam-contra-arbitragem-apos-derrota-uma-das-maiores-vergonhas.htm",
+        "title": "Dirigentes do Mirassol disparam contra arbitragem: 'Das maiores vergonhas'",
+        "description": "Dirigentes do Mirassol disparam contra arbitragem: 'Das maiores vergonhas'",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "estadão conteúdo"
+            "estadão"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "other"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-12 15:34:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 15:34:56",
+        "image_url": "https://imguol.com/c/esporte/f4/2025/03/01/paulinho-ex-volante-atual-coordenador-tecnico-do-mirassol-e-idolo-do-corinthians-1740877991001_v2_300x225.jpg",
+        "video_url": null,
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "米拉索尔董事向裁判开枪：“最大的耻辱”",
+        "description_zh": "米拉索尔董事向裁判开枪：“最大的耻辱”"
+    },
+    {
+        "article_id": "ba1324bfef4fb6c8de61d9b301a8aa8b",
+        "link": "https://www.infobae.com/teleshow/2026/04/12/camila-morrone-deslumbro-con-su-costado-argentino-cuando-quisieron-tomarle-examen-de-espanol-mas-canchero/",
+        "title": "Camila Morrone deslumbró con su costado argentino cuando quisieron tomarle examen de español: “Más canchero”",
+        "description": "La actriz, hija de Lucila Solá, reivindicó su identidad nacional durante una entrevista por la promoción de su nueva serie Algo terrible está a punto de suceder",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "something very bad is goingo to happen",
+            "algo terrible está a punto de suceder",
+            "serie",
+            "netflix",
+            "camila morrone",
+            "argentina"
+        ],
+        "creator": [
+            "martina cortés"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "united states of america",
+            "argentina",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-04-12 15:34:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 16:00:32",
+        "image_url": "https://www.infobae.com/resizer/v2/VPDB243JDZDGBFZ6EYFESGI2RY.jpg?auth=e70af8a29657501cdecaf2c28e82c8c6254cf4032f93a19a79b6633262defabb&smart=true&width=1920&height=1080",
+        "video_url": "https://cdn.jwplayer.com/videos/HnKvN7Bj-HeIT2Id1.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "当阿根廷队想要参加她的西班牙语考试时，卡米拉·莫罗内 (Camila Morrone) 表现得令人眼花缭乱：“更酷”",
+        "description_zh": "这位女演员是露西拉·索拉的女儿，在接受采访以宣传她的新剧《可怕的事情即将发生》时声称自己的民族身份"
+    },
+    {
+        "article_id": "782074e6f2fbe1ab7951346f149d36c4",
+        "link": "https://www.laopinioncoruna.es/deportes/2026/04/12/gesta-van-aert-roubaix-pogacar-enorme-129016626.html",
+        "title": "Gesta de Van Aert en Roubaix ante un Pogacar enorme",
+        "description": "Hay victorias de justicia. Hay triunfos que siempre se deben celebrar por mucho cariño que se sienta al aparentemente derrotado. Y hay recompensas, premios que se deben cobrar como si fuera un acto de fe, algo que se le debía a un corredor brillante, polivalente, astuto y tantas veces perseguido por la desdicha como es Wout van Aert. No sólo ganó una París-Roubaix memorable, sino que todavía engrandeció más el triunfo porque venció nada menos que a Tadej Pogacar.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "wout van aert",
+            "mathieu van der poel",
+            "tadej pogacar"
+        ],
+        "creator": [
+            "sergi lópez-egea"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-12 15:34:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 15:36:42",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c95171fc-6f52-41d2-9f7a-132fd74e7514_16-9-aspect-ratio_default_0_x600y266.jpg",
+        "video_url": null,
+        "source_id": "laopinioncoruna",
+        "source_name": "La Opinión A Coruña",
+        "source_priority": 50098,
+        "source_url": "https://www.laopinioncoruna.es",
+        "source_icon": "https://n.bytvi.com/laopinioncoruna.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "范阿尔特在鲁贝对阵巨大的波加卡的壮举",
+        "description_zh": "有正义的胜利。无论一个人对看似失败的人有多少感情，总有一些胜利值得庆祝。还有一些奖励、奖品必须被收集起来，就好像这是一种信仰的行为，这是对一位才华横溢、多才多艺、精明但经常受到迫害的跑步者的回报。"
+    },
+    {
+        "article_id": "11a98e4d1d3f75c3110fb141ab0e1972",
+        "link": "https://jornaldebrasilia.com.br/brasilia/gdf-leva-servicos-e-gabinete-movel-ao-paranoa-de-13-a-17-de-abril/",
+        "title": "GDF leva serviços e gabinete móvel ao Paranoá de 13 a 17 de abril",
+        "description": "O Governo do Distrito Federal (GDF) organiza a segunda edição do programa GDF na Sua Porta, que ocorrerá no Paranoá entre os dias 13 e 17 de abril, ao lado da administração regional. \"Quando o programa GDF na Sua Porta passa, a cidade é transformada. A gente reúne todas as secretarias, levanta as demandas e executa tudo de forma unificada, poupando tempo e dando respostas mais rápidas para a população\", afirma a governadora Celina Leão. A iniciativa visa levar um gabinete móvel e diversos serviços públicos à região, com atendimentos, escuta à população e levantamento de demandas locais. O programa conta com a participação de secretarias como Governo, Economia, Justiça e Cidadania, Saúde, Desenvolvimento Social, Mobilidade e Transporte, Segurança Pública, Meio Ambiente, Proteção Animal, Obras e Infraestrutura, além de órgãos como DF Legal, Detran-DF, DER, SLU, Novacap, Terracap, Procon-DF, Controladoria-Geral e as administrações regionais. A coordenação fica a cargo da Secretaria de Governo, por meio da Secretaria Executiva das Cidades, com equipes técnicas no local para atender demandas e efetuar encaminhamentos imediatos. Como referência, a primeira edição do programa, realizada no Itapoã no mês passado, incluiu um gabinete móvel e ações por cerca de 15 dias. Durante o evento, foram assinados 18 documentos, sendo 15 ordens de serviço para obras de zeladoria e infraestrutura, como construção de calçadas, reforma de espaços comunitários, melhorias na iluminação pública e intervenções viárias. Além disso, foram autorizadas duas ordens de serviço para o transporte público, com a implantação e substituição de 22 abrigos de passageiros e a ampliação de duas linhas de ônibus na região. Com informações da Agência Brasília",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "terracap",
+            "paranoá",
+            "governo do distrito federal",
+            "ordens de serviço",
+            "df",
+            "itapoã",
+            "secretaria de governo",
+            "zeladoria",
+            "slu",
+            "detran-df",
+            "novacap",
+            "procon/df",
+            "gdf",
+            "brasília",
+            "gdf na sua porta",
+            "der",
+            "celina leão"
+        ],
+        "creator": [
+            "redação jornal de brasília"
         ],
         "language": "portuguese",
         "country": [
@@ -62,16 +257,16 @@
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-11 15:29:00",
+        "pubDate": "2026-04-12 15:34:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 19:08:50",
-        "image_url": "https://diariodecuiaba.nyc3.digitaloceanspaces.com/storage/webdisco/2024/10/25/1200x900/7a25d616c57bd35a9fbbc163692b03ef.jpg",
+        "fetched_at": "2026-04-12 15:51:00",
+        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/04/12123401/dentro-74.jpg",
         "video_url": null,
-        "source_id": "diariodecuiaba",
-        "source_name": "Diariodecuiaba",
-        "source_priority": 12245876,
-        "source_url": "https://www.diariodecuiaba.com.br",
-        "source_icon": "https://n.bytvi.com/diariodecuiaba.jpg",
+        "source_id": "jornaldebrasilia",
+        "source_name": "Jornal De Brasília",
+        "source_priority": 1815808,
+        "source_url": "https://jornaldebrasilia.com.br",
+        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -79,16 +274,24 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "队助教认为内马尔仍有“机会”参加世界杯",
-        "description_zh": "巴西队助理教练安切洛蒂认为，内马尔还有时间保证在参加美国、加拿大和墨西哥世界杯的26名球员中获得一席之地。 ——这是教练的决定。他（卡洛·安切洛蒂）有时间接受它。最终名单"
+        "title_zh": "GDF 于 4 月 13 日至 17 日在帕拉诺阿提供服务和移动办公室",
+        "description_zh": "联邦区政府 (GDF) 将组织第二届 GDF na Sua Porta 计划，该计划将于 4 月 13 日至 17 日在帕拉诺阿与地区政府一起举行。 “当 GDF na Sua Porta 计划通过后，这座城市发生了翻天覆地的变化。我们将所有部门聚集在一起，将"
     },
     {
-        "article_id": "6b7f8d67dca7500cabb12f309fccd5fb",
-        "link": "https://g1.globo.com/am/amazonas/noticia/2026/04/11/brasileiro-preso-na-turquia-e-transferido-para-o-amazonas-para-cumprir-pena-de-25-anos.ghtml",
-        "title": "Brasileiro preso na Turquia é transferido para o Amazonas para cumprir pena de 25 anos",
-        "description": "Brasileiro preso na Turquia é transferido para o Amazonas para cumprir pena de 25 anos Foto: Reprodução/PF A Polícia Federal trouxe para o Brasil, nesta sexta-feira (14), um brasileiro condenado por tráfico internacional de drogas. Ele estava preso em Istambul, na Turquia, e foi transferido com autorização do Ministério da Justiça e Segurança Pública. O homem foi condenado a 25 anos de prisão e havia sido detido em 2022 no aeroporto de Istambul. Agora, seguirá para o Amazonas, onde vai cumprir o restante da pena, conforme prevê a lei. Segundo a Polícia Federal, a transferência faz parte de um acordo de cooperação jurídica internacional. O mecanismo permite que brasileiros condenados no exterior cumpram pena em seu país de origem, seguindo as normas vigentes. 📲 Participe do canal do g1 AM no WhatsApp Veja os vídeos que estão em alta no g1",
+        "article_id": "828ce2f7ffb58c3b3e3ee0719697bae5",
+        "link": "https://valor.globo.com/mundo/noticia/2026/04/12/guarda-revolucionaria-do-ira-alerta-que-erro-de-calculo-em-ormuz-levara-eua-a-redemoinhos-mortais.ghtml",
+        "title": "Guarda Revolucionária do Irã diz que erro de cálculo em Ormuz levará EUA a “redemoinhos mortais”",
+        "description": "A Guarda Revolucionária Islâmica do Irã (IRGC, na...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "estados unidos",
+            "exploração e produção de petróleo e gás natural",
+            "defesa nacional",
+            "paquistão",
+            "redes sociais online",
+            "irã",
+            "agências de notícias"
+        ],
         "creator": null,
         "language": "portuguese",
         "country": [
@@ -96,19 +299,19 @@
         ],
         "category": [
             "top",
-            "lifestyle"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-11 15:28:49",
+        "pubDate": "2026-04-12 15:34:44",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 16:05:46",
-        "image_url": "https://s2-g1.glbimg.com/Ml23iYxO26L59YQE0cR-_gbPV5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/I/Vuat0JSgSVnMvaOgnCJw/pf-brasileiro.jpg",
+        "fetched_at": "2026-04-12 16:02:40",
+        "image_url": "https://s2-valor.glbimg.com/2sknjjddWFaPUFdN6L6Qm2zP-kw=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/e/8/PGGi1lSHKgcZ6BKe2y3A/2026-03-25t060228z-783709528-rc2b2ka0avty-rtrmadp-3-iran-crisis-usa-hormuz.jpg",
         "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "source_id": "valor_globo",
+        "source_name": "Valor Globo",
+        "source_priority": 2786,
+        "source_url": "https://valor.globo.com",
+        "source_icon": "https://n.bytvi.com/valor_globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -116,37 +319,298 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "在土耳其被捕的巴西人被转移到亚马逊州服刑 25 年",
-        "description_zh": "在土耳其被捕的巴西人被转移到亚马逊州服 25 年徒刑 照片：复制/PF 联邦警察于本周五（14 日）将一名因国际贩毒罪被定罪的巴西人带回巴西。他被关押在土耳其伊斯坦布尔，并被转移到"
+        "title_zh": "伊朗革命卫队表示，霍尔木兹海峡的误算将使美国陷入“致命旋风”",
+        "description_zh": "伊朗伊斯兰革命卫队（IRGC）..."
     },
     {
-        "article_id": "a58d909d308311eb8ce067f2be8135a5",
-        "link": "https://br.investing.com/news/world-news/eua-e-ira-iniciam-conversas-diretas-no-paquistao-buscando-o-fim-da-guerra-de-seis-semanas-1895367",
-        "title": "EUA e Irã iniciam conversas diretas no Paquistão, buscando o fim da guerra de seis semanas",
-        "description": "EUA e Irã iniciam conversas diretas no Paquistão, buscando o fim da guerra de seis semanas",
+        "article_id": "05b260c73de1b68711adbb83559843af",
+        "link": "https://atarde.com.br/mundo/trump-avanca-e-anuncia-bloqueio-total-do-estreito-de-ormuz-1385657",
+        "title": "Trump avança e anuncia bloqueio total do Estreito de Ormuz",
+        "description": "O presidente dos Estados Unidos, Donald Trump, anunciou, neste domingo, 12, que a Marinha do país iniciou, de maneira imediata, o processo de bloqueio do Estreito de Ormuz, além da interceptação das embarcações que tivessem passado pela região.O anúncio, que aconteceu meio a mais uma tentativa de negociações entre Estados Unidos e Irã, foi feito em uma rede social. O chefe da Casa Branca afirmou que, apesar dos avanços nos diálogos, não foi possível chegar a um acordo sobre o programa nuclear do país asiático.\"Com efeito imediato, a Marinha dos Estados Unidos, a melhor do mundo, iniciará o processo de BLOQUEIO de todos os navios que tentarem entrar ou sair do Estreito de Ormuz\", escreveu o presidente americano. Leia Também: Trump elogia brasileiro durante UFC: “Bonito demais para ser lutador” Trump se autodeclara vencedor e minimiza acordo com o Irã Fim do tarifaço? Decisão judicial leva EUA a liberar reembolsos Fala recenteNo sábado, 11, ao sair da Casa Branca para uma viagem para Miami, Trump falou sobre as tratativas com o Irã para chegar a um acordo de paz, encerrando o conflito entre as nações. O chefe de Estado, no entanto, se colocou na condição de 'vencedor' nos confrontos, independente do que fosse acordado.“Independentemente do que aconteça, nós vencemos [...] Para mim, tanto faz se fizermos um acordo ou não\", disparou o presidente.Irã reageOs iranianos reagiram ao posicionamento de Trump, logo após o anúncio do bloqueio do estreito. Em pronunciamento, o Guardiões da Revolução prometeram considerar qualquer aproximação militar como um gesto de fim ao cessar fogo proposto nos últimos dias. \"O inimigo ficará preso em um turbilhão mortal no estreito se der um passo em falso\", escreveram em uma publicação no X, antigo Twitter.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "marinha dos eua",
+            "donald trump anuncia bloqueio de ormuz",
+            "geopolítica",
+            "estreito de ormuz",
+            "bloqueio naval",
+            "irã",
+            "crise do petróleo",
+            "trump",
+            "casa branca"
+        ],
         "creator": [
-            "investing.com"
+            "cássio moreira"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "world"
+            "top",
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-11 15:28:36",
+        "pubDate": "2026-04-12 15:34:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 15:36:29",
-        "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3A09O_1200_L.jpg",
+        "fetched_at": "2026-04-12 19:54:53",
+        "image_url": "https://cdn.atarde.com.br/img/Chamada-Home/1380000/fim-do-tarifaco-decisao-judicial-leva-eua-a-libera0138556000202604110818.jpg?xid=7043200",
         "video_url": null,
-        "source_id": "investing_br",
-        "source_name": "Investing Brasil",
-        "source_priority": 33451,
-        "source_url": "https://br.investing.com",
-        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "source_id": "atarde",
+        "source_name": "A Tarde",
+        "source_priority": 57528,
+        "source_url": "https://www.atarde.com.br",
+        "source_icon": "https://n.bytvi.com/atarde.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "特朗普向前推进并宣布全面封锁霍尔木兹海峡",
+        "description_zh": "美国总统唐纳德·特朗普12日周日宣布，美国海军立即开始封锁霍尔木兹海峡，并拦截经过该地区的船只。"
+    },
+    {
+        "article_id": "573abc4514780725aa0663f0620f7348",
+        "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/04/12/comemoracoes-sao-novo-capitulo-da-rivalidade-entre-corinthians-e-palmeiras.ghtm",
+        "title": "Comemorações recentes acirram rivalidade entre Corinthians e Palmeiras",
+        "description": "Comemorações recentes aumentam temperatura para Corinthians x Palmeiras",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "flavio latif"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-12 15:34:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 15:34:37",
+        "image_url": "https://imguol.com/c/esporte/16/2026/02/11/flaco-lopez-do-palmeiras-da-voadora-em-bandeirinha-do-corinthians-apos-marcar-em-classico-pelo-campeonato-paulista-1770819012553_v2_300x225.png",
+        "video_url": null,
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "最近的庆祝活动加剧了科林蒂安队和帕尔梅拉斯队之间的竞争",
+        "description_zh": "最近的庆祝活动让科林蒂安队与帕尔梅拉斯队的气氛升温"
+    },
+    {
+        "article_id": "91e7843462481c7ad87e8617a63f10be",
+        "link": "https://www.lacapitalmdp.com/sinner-se-quedo-con-la-final-y-el-1-de-alcaraz/",
+        "title": "Sinner se quedó con la final y el “1” de Alcaraz",
+        "description": "El italiano Jannik Sinner logró su título más importante sobre polvo de ladrillo, el Masters 1.000 de Montecarlo, que estaba en poder de Carlos Alcaraz, al que arrebató también la condición de número uno del mundo tras vencer por 7-6 (5) y 6-3. El cara a cara entre los dos mejores tenistas del planeta cayó [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "diaro la capital de mar del plata"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-12 15:34:17",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 15:46:57",
+        "image_url": "http://storage.lacapitalmdp.com/2026/04/sinneralcarazmontecarlo-1024x713.jpg",
+        "video_url": null,
+        "source_id": "lacapitalmdp",
+        "source_name": "Lacapitalmdp",
+        "source_priority": 945868,
+        "source_url": "https://www.lacapitalmdp.com",
+        "source_icon": "https://n.bytvi.com/lacapitalmdp.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Sinner 赢得了决赛，Alcaraz 获得了“1”",
+        "description_zh": "意大利选手詹尼克·辛纳赢得了他在红土赛场上最重要的冠军——蒙特卡洛大师赛 1,000，该赛事由卡洛斯·阿尔卡拉斯 (Carlos Alcaraz) 保持，他还以 7-6 (5) 和 6-3 获胜后从阿尔卡拉斯手中夺走了世界第一的地位。两位最优秀的网球运动员之间的面对面"
+    },
+    {
+        "article_id": "db1e63b772a8bce23d8f2416c0e2c990",
+        "link": "https://www.eleconomista.com.mx/internacionales/iran-afirma-3-375-personas-han-muerto-guerra-eu-e-israel-20260412-808316.html",
+        "title": "Irán afirma que 3,375 personas han muerto en la guerra contra EU e Israel",
+        "description": "Por su parte, la ONG Human Rights Activists News Agency (HRANA) registró hasta el 6 de abril al menos 3,597 decesos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "estados unidos",
+            "conflicto israel-irán"
+        ],
+        "creator": [
+            "afp"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-12 15:35:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 16:03:59",
+        "image_url": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/04/07/69d5824aa2f36.jpeg",
+        "video_url": null,
+        "source_id": "eleconomista",
+        "source_name": "El Economista",
+        "source_priority": 19606,
+        "source_url": "https://www.eleconomista.com.mx",
+        "source_icon": "https://n.bytvi.com/eleconomista.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "伊朗称3,375人在针对美国和以色列的战争中丧生",
+        "description_zh": "就非政府组织人权活动家通讯社 (HRANA) 而言，截至 4 月 6 日，至少有 3,597 人死亡。"
+    },
+    {
+        "article_id": "ba1324bfef4fb6c8de61d9b301a8aa8b",
+        "link": "https://www.infobae.com/teleshow/2026/04/12/camila-morrone-deslumbro-con-su-costado-argentino-cuando-quisieron-tomarle-examen-de-espanol-mas-canchero/",
+        "title": "Camila Morrone deslumbró con su costado argentino cuando quisieron tomarle examen de español: “Más canchero”",
+        "description": "La actriz, hija de Lucila Solá, reivindicó su identidad nacional durante una entrevista por la promoción de su nueva serie Algo terrible está a punto de suceder",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "something very bad is goingo to happen",
+            "algo terrible está a punto de suceder",
+            "serie",
+            "netflix",
+            "camila morrone",
+            "argentina"
+        ],
+        "creator": [
+            "martina cortés"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "united states of america",
+            "argentina",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-04-12 15:34:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 16:00:32",
+        "image_url": "https://www.infobae.com/resizer/v2/VPDB243JDZDGBFZ6EYFESGI2RY.jpg?auth=e70af8a29657501cdecaf2c28e82c8c6254cf4032f93a19a79b6633262defabb&smart=true&width=1920&height=1080",
+        "video_url": "https://cdn.jwplayer.com/videos/HnKvN7Bj-HeIT2Id1.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "当阿根廷队想要参加她的西班牙语考试时，卡米拉·莫罗内 (Camila Morrone) 表现得令人眼花缭乱：“更酷”",
+        "description_zh": "这位女演员是露西拉·索拉的女儿，在接受采访以宣传她的新剧《可怕的事情即将发生》时声称自己的民族身份"
+    },
+    {
+        "article_id": "a3d46426cf102cc29e0e0a94b3633395",
+        "link": "https://www.soyfutbol.com/los-7-tecnicos-top-que-dirigieron-en-la-liga-mx-menotti-bielsa-maradona-y-mas-quien-dejo-la-mayor-huella-t202604120006.html",
+        "title": "Los 7 técnicos top que dirigieron en la Liga MX: Menotti, Bielsa, Maradona y más, ¿quién dejó la mayor huella?",
+        "description": "Un repaso por los entrenadores de élite mundial que pasaron por la Liga MX, desde campeones del mundo hasta estrategas revolucionarios que dejaron su marca en el fútbol mexicano.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "liga mx"
+        ],
+        "creator": [
+            "luciadomínguez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-12 15:34:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 15:46:03",
+        "image_url": "https://assets.soyfutbol.com/__export/1776007692275/sites/debate/img/2026/04/12/6.png_2137053187.png",
+        "video_url": null,
+        "source_id": "soyfutbol",
+        "source_name": "Soyfutbol",
+        "source_priority": 877070,
+        "source_url": "https://www.soyfutbol.com",
+        "source_icon": "https://n.bytvi.com/soyfutbol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "曾执教MX联赛的7位顶级教练：梅诺蒂、贝尔萨、马拉多纳等，谁留下的印记最深？",
+        "description_zh": "回顾了墨西哥足球甲级联赛的世界精英教练，从世界冠军到在墨西哥足球留下印记的革命战略家。"
+    },
+    {
+        "article_id": "e7c7fffc0359feb60daca40fc56b1f4f",
+        "link": "https://www.diariocordoba.com/deportes/2026/04/12/gesta-van-aert-roubaix-pogacar-enorme-129016632.html",
+        "title": "Gesta de Van Aert en Roubaix ante un Pogacar enorme",
+        "description": "Hay victorias de justicia. Hay triunfos que siempre se deben celebrar por mucho cariño que se sienta al aparentemente derrotado. Y hay recompensas, premios que se deben cobrar como si fuera un acto de fe, algo que se le debía a un corredor brillante, polivalente, astuto y tantas veces perseguido por la desdicha como es Wout van Aert. No sólo ganó una París-Roubaix memorable, sino que todavía engrandeció más el triunfo porque venció nada menos que a Tadej Pogacar.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mathieu van der poel",
+            "wout van aert",
+            "tadej pogacar"
+        ],
+        "creator": [
+            "sergi lópez-egea"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-12 15:34:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 15:36:49",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c95171fc-6f52-41d2-9f7a-132fd74e7514_16-9-aspect-ratio_default_0_x600y266.jpg",
+        "video_url": null,
+        "source_id": "diariocordoba",
+        "source_name": "Cordoba",
+        "source_priority": 48787,
+        "source_url": "https://www.diariocordoba.com",
+        "source_icon": "https://n.bytvi.com/diariocordoba.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -154,227 +618,121 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "美国和伊朗在巴基斯坦开始直接会谈，寻求结束六周的战争",
-        "description_zh": "美国和伊朗在巴基斯坦开始直接会谈，寻求结束六周的战争"
+        "title_zh": "范阿尔特在鲁贝对阵巨大的波加卡的壮举",
+        "description_zh": "有正义的胜利。无论一个人对看似失败的人有多少感情，总有一些胜利值得庆祝。还有一些奖励、奖品必须被收集起来，就好像这是一种信仰的行为，这是对一位才华横溢、多才多艺、精明但经常受到迫害的跑步者的回报。"
     },
     {
-        "article_id": "dc4b9b8dd9dccfb3e49b0bc074a1d058",
-        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/04/um-escritorio-de-advocacia-baiano-na-mira-da-pf-nas-investigacoes-do-caso-master.ghtml",
-        "title": "Um escritório de advocacia baiano na mira da PF nas investigações do caso Master",
-        "description": "Entre os 91 escritórios de advocacia nos quais o Master despejou R$ 543 milhões em quatro anos, segundo revelou a \"Folha de S. Paulo\", um em especial terá tratamento mais atento pela PF em suas investigações. É o Gabino Kruschewsky Advogados, o quarto que mais recebeu do banco de Daniel Vorcaro: R$ 54 milhões de 2022 a 2025. Tendo entre os sócios Eugênio Kruschewsky, procurador do estado da Bahia, o escritório tem sede em Salvador, origem de um dos mais bem sucedidos negócios do Master, o Credcesta. Em nota, o escritório disse à \"folha de S. Paulo\" que advogou em 45 mil processos em favor do Banco Master, estando ainda ativos mais de 30 mil processos. Beleza. Só que, de acordo com certidão de distribuição emitida pelo TJBA, tramitam em nome do Banco Master aproximadamente 7 mil processos. Dentre os processos movidos contra o Master, dois se destacam. São ações coletivas propostas pela Associação dos Funcionários Públicos do Estado da Bahia (AFPEB), cujo presidente era Carlos Kauark Kruschewsky, supostamente ajuizadas para discutir a ilegalidades dos empréstimos consignados do Credcesta, que pertenceu à Empresa Baiana de Alimentos, cuja gerente jurídica era Luiá Kruschewsky. O advogado contratado pelo Master, por meio do seu então diretor jurídico, André Kruschewsky, para defendê-lo nestas ações propostas pela AFPEB, foi o seu primo procurador do Estado da Bahia, Eugênio Kruschewsky, que passou a atuar na causa. Leia mais: Clique, acesse e confira todas as notas da coluna sobre política, economia, negócios, esporte e cultura Canal Lauro Jardim no WhatsApp: Siga e ative as notificações 🔔 para receber bastidores exclusivos",
+        "article_id": "93eabd9c3c1e47c1068cb8493766088c",
+        "link": "https://www.qore.com/big-tech/lentes-de-apple-con-ia-4-disenos-para-desafiar-a-meta/",
+        "title": "Lentes de Apple con IA: 4 diseños para desafiar a Meta",
+        "description": "✨︎ Resumen (TL;DR): Apple prueba cuatro diseños in-house para sus próximos lentes inteligentes enfocados en IA. Entrarán en producción masiva en diciembre de 2026 y prescindirán de pantallas de realidad aumentada. El dispositivo N50 buscará dominar el mercado dando contexto visual del entorno a Siri. Apple está probando activamente al menos cuatro diseños de armazones para sus próximos lentes inteligentes. La compañía busca diferenciar su hardware frente a los exitosos Ray-Ban de Meta mediante el uso de materiales premium y un ecosistema basado directamente en comandos de inteligencia artificial. Según Mark Gurman de Bloomberg, Apple descartó el plástico convencional. La empresa fabricará los armazones con acetato, un material que el periodista describe en su boletín dominical como \"duradero\" y \"lujoso\". El objetivo central es lograr una estética que sea \"instantáneamente reconocible\", similar al impacto visual que lograron los AirPods en su momento. Proyecto N50 es un dispositivo wearable impulsado por IA que elimina por completo las pantallas de realidad aumentada. Su función real es enlazarse con un iPhone para utilizar sensores integrados, recibir notificaciones, reproducir música y ejecutar comandos de voz sin manos para Siri. Te podría interesar: “Código rojo” en Microsoft: Nadella urge mejorar Copilot Foto: Ruslan Sikunov / Pexels Cámaras duales y la estrategia visual de Apple El desarrollo corre a cargo de la Vision Products Group , el mismo equipo detrás de las Vision Pro. Ellos integraron las cámaras frontales en un patrón ovalado rodeado de luces indicadoras. Los prototipos actuales exploran acabados en negro, azul océano y marrón claro, divididos en las siguientes opciones: Una montura rectangular grande estilo Wayfarer. Una versión rectangular delgada, similar a los anteojos que usa el CEO Tim Cook. Dos modelos de marcos circulares u ovalados de diferentes dimensiones y refinamiento. Gurman detalla que el dispositivo contará con dos lentes fotográficos. El primero será un sensor de alta resolución para capturar imágenes y video, mientras que el segundo estará dedicado exclusivamente a la visión por computadora y el reconocimiento del entorno. Este hardware forma parte de una estrategia agresiva de tres dispositivos portátiles de la compañía. La línea incluirá en el futuro AirPods con cámaras y un collar inteligente, todos creados para otorgar a Siri contexto visual en tiempo real sobre los alrededores del usuario. La producción en masa de estos lentes arrancará en diciembre de 2026 . Apple planea anunciar el producto a finales de este año o principios de 2027, preparando su llegada comercial para la primavera o el verano de 2027 . La decisión de diseñar los armazones internamente confirma la confianza de la empresa en su división de diseño industrial, descartando cualquier alianza comercial con marcas ópticas tradicionales. Fuentes: 1 , 2 , 3 , 4 , 5 The post Lentes de Apple con IA: 4 diseños para desafiar a Meta appeared first on Qore .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "apple",
+            "wearables",
+            "inteligencia artificial"
+        ],
+        "creator": [
+            "humberto toledo"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-12 15:34:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 15:52:34",
+        "image_url": "https://i0.wp.com/qore.buscafs.com/lentes-de-apple-con-ia-4-dise-os-para-desafiar-a-meta-60ba0f.jpg?fit=1536,1024&quality=75&strip=all",
+        "video_url": null,
+        "source_id": "qore",
+        "source_name": "Qore",
+        "source_priority": 5247943,
+        "source_url": "https://www.qore.com",
+        "source_icon": "https://n.bytvi.com/qore.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "苹果人工智能眼镜：挑战 Meta 的 4 款设计",
+        "description_zh": "✨︎ 摘要（TL；DR）：苹果为其即将推出的专注于人工智能的智能眼镜测试了四种内部设计。它们将于 2026 年 12 月进入量产，并且不会配备增强现实屏幕。 N50 设备将通过提供环境的视觉背景来寻求主导市场"
+    },
+    {
+        "article_id": "ae0b224583237fb94bf608c918603232",
+        "link": "https://www.cordobabn.com/articulo/deportes/unicaja-corona-campeon-cadeba-cadete-femenino-2026-cierre-inolvidable/20260412173422255905.html",
+        "title": "Unicaja se corona en el CADEBA Cadete Femenino 2026 con un final inolvidable",
+        "description": "El Campeonato de Andalucía de Clubes CADEBA 2026 en categoría Cadete Femenino ha llegado a su final este domingo en Benahavís y Estepona , poniendo el broche a varios días de competición marcados por la emoción, el talento y el...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "deportes",
+            "cadeba",
+            "unicaja",
+            "baloncesto"
+        ],
+        "creator": [
+            "vicente borrego castro"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-12 15:34:22",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-12 15:48:06",
+        "image_url": "https://www.cordobabn.com/media/cordobabn/images/2026/04/12/2026041217325934714.jpg",
+        "video_url": null,
+        "source_id": "cordobabn",
+        "source_name": "Cordoba",
+        "source_priority": 1219601,
+        "source_url": "https://www.cordobabn.com",
+        "source_icon": "https://n.bytvi.com/cordobabn.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Unicaja 在 2026 年 CADEBA Cadete Femenino 比赛中以令人难忘的结局加冕",
+        "description_zh": "CADEBA 2026 年安达卢西亚俱乐部锦标赛女子学员类别于本周日在贝纳阿维斯和埃斯特波纳落下帷幕，为为期数天的充满情感、才华和……的比赛画上了最后的句号。"
+    },
+    {
+        "article_id": "7f37988c4a0e40b7fbf0046c6f0f01a3",
+        "link": "https://entrelineas.com.mx/lista-convocatoria-para-apoyo-en-semilla-de-sorgo-forrajero/",
+        "title": "Lista convocatoria para apoyo en semilla de sorgo forrajero",
+        "description": "Con el objetivo de fortalecer la producción pecuaria y agrícola en el estado, la Secretaría de Desarrollo Rural (SDR), informó que ya se encuentra disponible la convocatoria para acceder al apoyo de semilla de sorgo forrajero, como parte del programa Cuenta Conmigo en el Campo. Este apoyo está dirigido a las personas vinculadas al sector [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-04-11 15:28:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 16:08:43",
-        "image_url": "https://s2-oglobo.glbimg.com/WlR6aIgCz8jhtKzykbCR3Ky8jLc=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/0/K/ejS0RnR1653T5CZox8PQ/107404387-pa-brasilia-df-21-06-2024-predio-da-sede-da-policia-federal-em-brasilia-fotografia-brenn.jpg",
-        "video_url": null,
-        "source_id": "oglobo_globo",
-        "source_name": "O Globo",
-        "source_priority": 93485,
-        "source_url": "https://oglobo.globo.com",
-        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "PF 在马斯特案调查中关注的一家巴伊亚律师事务所",
-        "description_zh": "据《圣保罗页报》透露，Master在四年内向91家律师事务所投入了5.43亿雷亚尔，其中一家律师事务所将受到PF在调查中更加认真的对待。这是加比诺·克鲁舍夫斯基·阿沃加多斯 (Gabino Kruschewsky Advogados)，丹尼尔·沃卡 (Daniel Vorcar) 银行收入第四高的人"
-    },
-    {
-        "article_id": "b18d94fe70888a5f082ce4ea41f064ac",
-        "link": "https://www.correiobraziliense.com.br/webstories/flipar/2026/04/7395615-onde-comecam-e-terminam-as-rodovias-mais-extensas-do-planeta.html",
-        "title": "Onde começam e terminam as rodovias mais extensas do planeta",
-        "description": "Espalhadas por diferentes países, algumas rodovias chamam atenção pela enorme extensão. Essas estradas atravessam territórios vastos e acabam atraindo viajantes em busca de aventura.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "flipar"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
+            "mexico"
         ],
         "category": [
             "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-11 15:28:26",
+        "pubDate": "2026-04-12 15:34:17",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 15:43:17",
-        "image_url": "https://www.flipar.com.br/wp-content/uploads/2022/07/rodovia-panamericana-North-of-Lima-Peru-Palmer-Flickr.jpg",
-        "video_url": null,
-        "source_id": "correiobraziliense",
-        "source_name": "Correio Braziliense",
-        "source_priority": 267296,
-        "source_url": "https://www.correiobraziliense.com.br",
-        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "地球上最长的高速公路的起点和终点",
-        "description_zh": "一些高速公路分布在不同的国家，因其长度巨大而引起人们的关注。这些道路穿越广阔的领土，最终吸引了寻求冒险的旅行者。"
-    },
-    {
-        "article_id": "6c1306e9acf86ec324b539bbbfdbf021",
-        "link": "https://www.poder360.com.br/poder-internacional/eua-e-ira-iniciam-conversas-por-um-acordo-para-encerrar-guerra/",
-        "title": "EUA e Irã iniciam conversas por um acordo para encerrar guerra",
-        "description": "Autoridades dos 2 países estão em Islamabad, no Paquistão, para rodada de negociações neste sábado (11.abr)",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "oriente médio",
-            "conflito no oriente médio",
-            "shehbaz sharif",
-            "israel",
-            "j.d. vance",
-            "negociações de paz",
-            "jared kushner",
-            "steve witkoff",
-            "abbas araghchi",
-            "donald trump",
-            "irã",
-            "paquistão",
-            "cessar-fogo",
-            "estados unidos",
-            "mohammad baqer ghalibaf",
-            "hezbollah",
-            "estreito de ormuz",
-            "islamabad",
-            "líbano"
-        ],
-        "creator": [
-            "poder360"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-11 15:28:18",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 15:32:17",
-        "image_url": "https://static.poder360.com.br/2026/04/autoridades-Ira-Islamabad-11-abr-2026-848x477.jpeg",
-        "video_url": null,
-        "source_id": "poder360_br",
-        "source_name": "Poder360",
-        "source_priority": 6639,
-        "source_url": "https://www.poder360.com.br",
-        "source_icon": "https://n.bytvi.com/poder360_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "美国和伊朗开始就结束战争协议进行谈判",
-        "description_zh": "两国当局本周六（4月11日）将在巴基斯坦伊斯兰堡进行一轮谈判"
-    },
-    {
-        "article_id": "0b1b8d172f5d4d7eb09861d15625fb44",
-        "link": "https://www.em.com.br/cultura/2026/04/7395696-tremembe-leticia-rodrigues-deixara-papel-de-sandrao.html",
-        "title": "'Tremembé': Letícia Rodrigues deixará papel de Sandrão",
-        "description": "Decisão foi tomada depois de a artista ser informada que a personagem não faria mais parte do núcleo principal na segunda temporada da série",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "victoria borges"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-11 15:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 19:01:52",
-        "image_url": "https://midias.em.com.br/_midias/png/2026/04/11/1200x720/1_leticia-rodrigues-interpreta-sandrao-em-tremembe-124656-800x600-66062949.png?20260411142642?20260411142642",
-        "video_url": null,
-        "source_id": "estadodeminas",
-        "source_name": "Jornal Estado De Minas",
-        "source_priority": 6179,
-        "source_url": "https://www.em.com.br",
-        "source_icon": "https://n.bytvi.com/estadodeminas.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "《Tremembé》：莱蒂西亚·罗德里格斯将退出桑德拉奥一角",
-        "description_zh": "这一决定是在艺术家被告知该角色将不再是该系列第二季的主要角色的一部分后做出的。"
-    },
-    {
-        "article_id": "08f02a7ed4a7832a72380f0605584d12",
-        "link": "https://www.estrelando.com.br/nota/2026/04/11/ex-integrante-do-grupo-molejo-morre-aos-60-anos-de-idade-326249",
-        "title": "Ex-integrante do grupo Molejo morre aos 60 anos de idade",
-        "description": "Notícia triste para os fãs de Molejo. Na última sexta-feira, dia 10, o perfil oficial do grupo anunciou a morte de Willian Araújo, que fez parte da primeira formação da banda, nos anos 90. Ao compartilhar uma série de registros do músico, o perfil lamentou a perda com um comunicado: Com profunda tristeza, nos despedimos de nosso querido amigo e irmão, Willian Araújo. Nossas condolências à sua família neste momento difícil. Agradecemos por ter feito parte da 1a formação do Molejo, onde sua voz e talento brilharam em nossos primeiros CDs, eternizando sucessos que marcaram a década de 90. Que Deus o tenha em um lugar de paz e luz. Sua música e legado viverão para sempre em nossas memórias. Obrigado por tudo, Willian. Veja a publicação: Ver essa foto no Instagram Um post compartilhado por Grupo Molejo (@molejooficial) O enterro acontece neste sábado, dia 11, no Cemitério Pechincha, no Rio de Janeiro, a partir das 14h da tarde.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "enquetes",
-            "celebridades",
-            "séries",
-            "foruns",
-            "red carpet",
-            "estilo",
-            "rakings",
-            "quizes",
-            "perfis",
-            "realities",
-            "fotos",
-            "famosos",
-            "notícias",
-            "teens"
-        ],
-        "creator": [
-            "portal estrelando"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-11 15:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 15:48:10",
+        "fetched_at": "2026-04-12 15:45:37",
         "image_url": null,
         "video_url": null,
-        "source_id": "estrelando_br",
-        "source_name": "Estrelando",
-        "source_priority": 1214650,
-        "source_url": "https://www.estrelando.com.br",
-        "source_icon": null,
+        "source_id": "entrelineas",
+        "source_name": "Entrelineas",
+        "source_priority": 655477,
+        "source_url": "https://entrelineas.com.mx",
+        "source_icon": "https://n.bytvi.com/entrelineas.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -382,82 +740,45 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Molejo 乐队前成员去世，享年 60 岁",
-        "description_zh": "对于 Molejo 粉丝来说是一个悲伤的消息。上周五，即10日，该乐队的官方简介宣布了Willian Araújo的去世，他是该乐队90年代第一支乐队的成员。通过分享这位音乐家的一系列唱片，该简介对这位音乐家的去世表示哀悼，并发表声明：与教授一起"
+        "title_zh": "饲料高粱种子支持呼吁名单",
+        "description_zh": "为了加强该州的畜牧业和农业生产，农村发展部 (SDR) 报告称，作为“乡村依靠我”计划的一部分，现已呼吁获得饲用高粱种子支持。这个支持是"
     },
     {
-        "article_id": "4398f7079e607d54b98b46d032fe4072",
-        "link": "https://www.aplateia.com.br/2026/04/zucco-entrega-manifesto-a-flavio-bolsonaro-com-demandas-do-rio-grande-do-sul/",
-        "title": "Zucco entrega manifesto a Flávio Bolsonaro com demandas do Rio Grande do Sul",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "por grupo aplateia"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-11 15:27:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 15:52:38",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "aplateia",
-        "source_name": "Jornal A Plateia",
-        "source_priority": 2643259,
-        "source_url": "https://www.aplateia.com.br",
-        "source_icon": "https://n.bytvi.com/aplateia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "祖科向弗拉维奥·博尔索纳罗递交宣言，满足南里奥格兰德州的要求",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "a2788066fde6f2bf73897b205355abfd",
-        "link": "https://www.elmostrador.cl/noticias/mundo/2026/04/11/bachelet-lanza-su-apuesta-para-liderar-la-onu-en-crisis-el-momento-de-actuar-es-ahora/",
-        "title": "Bachelet lanza su apuesta para liderar la ONU en crisis: “El momento de actuar es ahora”",
-        "description": "A través de un documento patrocinado por los gobiernos de Brasil y México, Bachelet presentó su visión par la ONU proponiendo una reforma del multilateralismo con menos burocracia, más resultados y con capacidad para anticipar conflictos en un escenario global marcado por disputas de poder.",
+        "article_id": "abe84b13bee5b8123cd3796786db7c39",
+        "link": "https://www.elespectador.com/economia/ecopetrol-asi-esta-la-petrolera-colombiana-frente-a-petrobras-en-medio-de-escandalos-de-ricardo-roa/",
+        "title": "Así está Ecopetrol frente a otras petroleras en medio de los escándalos de Ricardo Roa",
+        "description": "En este análisis comparamos algunos de sus resultados claves de Ecopetrol con compañías de la región, principalmente con Petrobras.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "visión",
-            "mundo",
-            "bachelet",
-            "onu"
+            "ricardo roa",
+            "petrobras",
+            "noticias económicas",
+            "economía",
+            "ecopetrol"
         ],
         "creator": [
-            "mesa de noticias de el mostrador"
+            "karen vanessa quintero martínez"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "colombia"
         ],
         "category": [
             "top",
-            "lifestyle"
+            "lifestyle",
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-11 15:28:56",
+        "pubDate": "2026-04-12 15:34:13",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 16:35:40",
-        "image_url": "https://media-front.elmostrador.cl/2026/04/bachel.png",
+        "fetched_at": "2026-04-12 15:45:15",
+        "image_url": "https://www.elespectador.com/resizer/v2/EREYO6PDZNEZDDNJXBPZDAASGI.JPG?auth=eeca2ca9ceca83327b7ce179054e3478d5406073078d75c51d024d0d1965b5cd&smart=true",
         "video_url": null,
-        "source_id": "elmostrador",
-        "source_name": "El Mostrador",
-        "source_priority": 30342,
-        "source_url": "https://www.elmostrador.cl",
-        "source_icon": "https://n.bytvi.com/elmostrador.png",
+        "source_id": "elespectador",
+        "source_name": "Elespectador.com",
+        "source_priority": 589787,
+        "source_url": "http://elespectador.com",
+        "source_icon": "https://n.bytvi.com/elespectador.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -465,23 +786,20 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "巴切莱特发起了领导联合国应对危机的努力：“现在是采取行动的时候了”",
-        "description_zh": "通过巴西和墨西哥政府赞助的一份文件，巴切莱特提出了她对联合国的愿景，提议对多边主义进行改革，减少官僚主义，取得更多成果，并能够在以权力争端为特征的全球局势中预测冲突。"
+        "title_zh": "这是在里卡多·罗阿丑闻中，Ecopetrol 与其他石油公司的比较",
+        "description_zh": "在本分析中，我们将 Ecopetrol 的一些主要结果与该地区的公司（主要是巴西国家石油公司）进行了比较。"
     },
     {
-        "article_id": "a6834af2d0aec81f6379cc0e57216b3e",
-        "link": "https://www.futboltotal.com.mx/futbol-mexicano/liga-mx/pachuca-vs-santos-en-vivo-jornada-14-clausura-2026/2026/04/",
-        "title": "Pachuca vs Santos Laguna Jornada 14 EN VIVO HOY",
-        "description": "Sigue AQUÍ el Pachuca vs Santos EN VIVO por la Jornada 14. Los Tuzos buscan el subliderato ante el colero general y no te lo puedes perder. The post Pachuca vs Santos Laguna Jornada 14 EN VIVO HOY appeared first on Futbol Total: Un juego auténtico lleno de nobleza y emoción. .",
+        "article_id": "3ce9f3d8172a53f7328c56ae9d542afa",
+        "link": "https://www.soyfutbol.com/noticias/la-seleccion-mexicana-planea-un-regreso-historico-a-cu-antes-del-mundial-2026-revivira-su-antigua-fortaleza-20260412-0004.html",
+        "title": "La Selección Mexicana planea un regreso histórico a CU antes del Mundial 2026, ¿revivirá su antigua fortaleza?",
+        "description": "El Tri podría volver a Ciudad Universitaria tras décadas de ausencia en un movimiento estratégico rumbo a la Copa del Mundo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "liga mx",
-            "santos laguna",
-            "pachuca",
-            "clausura 2026"
+            "la selección mexicana"
         ],
         "creator": [
-            "luis esteban lozano"
+            "franco emiliolayus"
         ],
         "language": "spanish",
         "country": [
@@ -491,16 +809,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-11 15:28:52",
+        "pubDate": "2026-04-12 15:34:13",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 15:36:38",
-        "image_url": "https://www.futboltotal.com.mx/wp-content/uploads/2026/04/pachuca-vs-santos-en-vivo-jornada-14-clausura-2026.jpg",
+        "fetched_at": "2026-04-12 15:46:03",
+        "image_url": "https://assets.soyfutbol.com/__export/1776008022033/sites/debate/img/2026/04/12/_image.jpg_2137053156.jpg",
         "video_url": null,
-        "source_id": "futboltotal",
-        "source_name": "Futbol Total",
-        "source_priority": 59829,
-        "source_url": "https://www.futboltotal.com.mx",
-        "source_icon": "https://n.bytvi.com/futboltotal.png",
+        "source_id": "soyfutbol",
+        "source_name": "Soyfutbol",
+        "source_priority": 877070,
+        "source_url": "https://www.soyfutbol.com",
+        "source_icon": "https://n.bytvi.com/soyfutbol.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -508,27 +826,18 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "帕丘卡 vs 桑托斯拉古纳第 14 场比赛今日直播",
-        "description_zh": "关注第 14 比赛日帕丘卡 vs 桑托斯的直播。洛斯图佐斯正在寻找与一般科莱罗的次领先，你不能错过。帕丘卡 vs 桑托斯拉古纳第 14 场比赛直播今天首先出现在 Futbol Total：一场充满高贵和情感的真实比赛中。 。"
+        "title_zh": "墨西哥国家队计划在2026年世界杯前历史性回归CU，是否会重振雄风？",
+        "description_zh": "三角队可能会在缺席数十年之后重返大学城，以战略性地迈向世界杯。"
     },
     {
-        "article_id": "ea4ac52bdcc1aa1950e991c56b5601dc",
-        "link": "https://www.marca.com/mx/futbol/liga-mx/2026/04/11/69da67cf46163f251e8b456c.html",
-        "title": "Tigres vs Chivas: Dónde ver a Ángel Correa vs \"Hormiga\" González y a qué hora juegan hoy",
-        "description": "Las escuadras de Guido Pizarro y Gabriel Milito se enfrentarán por la fecha 14 del vigente torneo de la Liga MX Leer",
+        "article_id": "0c5875e08d95193dc0d65e018a9e1398",
+        "link": "https://psn.si/pumas-contra-mazatlan-rm-2/2026/04/12/",
+        "title": "Pumas enfrenta a Mazatlán, hoy",
+        "description": "CIUDAD DE MEXICO.- Los Pumas de la UNAM reciben la visita del Mazatlán este domingo al seguir las acciones de la Jornada 14 del Torneo Clausura Mx. El juego inicia a las 12 del día del centro de México, las 11 en Baja California y se juega en el Estadio Olimpico Universitario. Para el cuadro [...] La entrada Pumas enfrenta a Mazatlán, hoy aparece primero en PSN Noticias .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "liga mx - mx",
-            "futbol/liga-mx",
-            "ángel correa - mx",
-            "tigres uanl",
-            "cd guadalajara",
-            "armando gonzález - mx",
-            "mariana ramírez - raíz",
-            "chivas"
-        ],
+        "keywords": null,
         "creator": [
-            "raíz"
+            "rene mora"
         ],
         "language": "spanish",
         "country": [
@@ -538,16 +847,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-11 15:28:50",
+        "pubDate": "2026-04-12 15:34:09",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 16:03:34",
-        "image_url": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2026/04/11/17759210627299.png",
+        "fetched_at": "2026-04-12 15:51:22",
+        "image_url": "https://psn.si/wp-content/uploads/2026/04/PUMAS.jpg",
         "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
+        "source_id": "psn_si",
+        "source_name": "Psn Si",
+        "source_priority": 3190229,
+        "source_url": "https://psn.si",
+        "source_icon": "https://n.bytvi.com/psn_si.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -555,302 +864,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "老虎 vs 芝华士：哪里可以观看安赫尔·科雷亚 vs “Hormiga”冈萨雷斯以及他们今天的比赛时间",
-        "description_zh": "吉多·皮萨罗 (Guido Pizarro) 和加布里埃尔·米利托 (Gabriel Milito) 的球队将在当前墨西哥足球甲级联赛第 14 场比赛中对阵。读"
-    },
-    {
-        "article_id": "89e460c6e8ed882d234edd9ffa7e4ec6",
-        "link": "https://eltiempomx.com/noticia/2026/trump-afirma-inicio-del-desbloqueo-del-estrecho-de-ormuz.html",
-        "title": "Trump afirma inicio del desbloqueo del estrecho de Ormuz",
-        "description": "Donald Trump afirmó que Estados Unidos inició el desbloqueo del estrecho de Ormuz, en medio de tensiones con Irán y negociaciones diplomáticas en curso actuales. El presidente de Estados Unidos, Donald Trump, aseguró este sábado que su país inició el proceso para “desbloquear” el estrecho de ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "internacional",
-            "el tiempo de monclova",
-            "periódico monclova",
-            "guerra"
-        ],
-        "creator": [
-            "el tiempo de monclova"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "world"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-11 15:28:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 15:48:20",
-        "image_url": "https://eltiempomx.com/monclova/2026/04/69da68da4a6bd.jpg",
-        "video_url": null,
-        "source_id": "eltiempomonclova_mx",
-        "source_name": "El Tiempo - Coahuila México",
-        "source_priority": 1168091,
-        "source_url": "https://eltiempomonclova.mx",
-        "source_icon": "https://n.bytvi.com/eltiempomonclova_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "特朗普确认霍尔木兹海峡开始解封",
-        "description_zh": "唐纳德·特朗普表示，在与伊朗关系紧张以及当前正在进行的外交谈判之际，美国开始解除霍尔木兹海峡的封锁。美国总统唐纳德·特朗普本周六保证，他的国家已开始“畅通”海峡"
-    },
-    {
-        "article_id": "05fbc03abc9d3d9202532329a6023be6",
-        "link": "https://contactohoy.com.mx/policia/hallaron-a-un-hombre-muerto-en-una-banqueta/",
-        "title": "Hallaron a un hombre muerto en una banqueta",
-        "description": "Gómez Palacio, Dgo. Un hombre de momento no identificado fue encontrado muerto el viernes por la noche en la zona urbana de Gómez Palacio; su cuerpo estaba en una banqueta y todo indica que fue víctima de un infarto y la caída accidental que este ocasionó. La persona fallecida es un varón hasta ahora no [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "contacto hoy"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-04-11 15:28:26",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 22:46:11",
-        "image_url": "https://contactohoy.com.mx/wp-content/uploads/2026/04/SEMEFO-1-200x200.jpg",
-        "video_url": null,
-        "source_id": "contactohoy_mx",
-        "source_name": "Contacto Hoy",
-        "source_priority": 933953,
-        "source_url": "https://contactohoy.com.mx",
-        "source_icon": "https://n.bytvi.com/contactohoy_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们在人行道上发现一名死者",
-        "description_zh": "戈麦斯·帕拉西奥，Dgo。周五晚上，一名身份不明的男子被发现死在戈麦斯帕拉西奥市区；他的尸体躺在人行道上，一切都表明他是心脏病发作以及由此导致的意外跌倒的受害者。死者是一名男性，直到"
-    },
-    {
-        "article_id": "63afefffabe2d481cb5b84fcfc5f1aed",
-        "link": "https://www.elnuevodia.com.co/ibague/concejo-de-ibague-realizo-control-al-orden-publico-535826",
-        "title": "Concejo de Ibagué realizó control al orden público",
-        "description": "Concejo de Ibagué realizó control al orden público jferreira Sáb, 11/04/2026 - 10:28 Fecha nodo Sáb, 11/04/2026 - 10:28 Image /sites/default/files/imagenes/2026/04/NOTA%203%20-%20Concejo%20de%20Ibagu%C3%A9%20realiz%C3%B3%20control%20al%20orden%20p%C3%BAblico..jpg Body En el Concejo de Ibagué se llevó a cabo un debate de control político enfocado en lo que está pasando en zonas de la ciudad donde la convivencia se ha visto afectada. Durante la sesión, varios concejales pusieron sobre la mesa situaciones que vienen generando inconformidad entre los ciudadanos el funcionamiento de bares y discotecas y la percepción de falta de control en algunos sectores. El análisis incluyó puntos críticos como El Salado, Mirolindo y Pedregal, donde residentes han venido reportando afectaciones relacionadas problemas de convivencia en horarios nocturnos. A la discusión asistieron funcionarios de la Administración Municipal, entre ellos representantes de la Secretaría de Gobierno y Planeación, quienes expusieron las acciones que se han venido adelantando, como operativos de inspección, vigilancia y control a establecimientos comerciales. También participó la Policía Metropolitana, que explicó cómo se vienen aplicando medidas en territorio, incluyendo comparendos y acompañamiento en operativos para atender situaciones que afectan el orden público. Sin embargo, más allá de los informes, desde el Concejo se insistió en que las medidas deben fortalecerse. La percepción general es que, aunque hay acciones en marcha, estas no han sido suficientes para responder a las quejas de la comunidad. La jornada enfatizó en que se deben mejorar los controles, hacerlos más constantes y lograr que las acciones realmente se sientan en la calle. Desde el Concejo se reiteró que este tipo de espacios buscan precisamente hacer seguimiento, exigir resultados y presionar soluciones frente a problemas que siguen afectando el día a día de muchos ibaguereños. Creado por REDACCIÓN IBAGUÉ",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "-"
-        ],
-        "creator": [
-            "redacción ibagué"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-11 15:28:02",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 16:34:36",
-        "image_url": "https://www.elnuevodia.com.co/sites/default/files/styles/galeria_1200x600_/public/imagenes/2026/04/NOTA%203%20-%20Concejo%20de%20Ibagu%C3%A9%20realiz%C3%B3%20control%20al%20orden%20p%C3%BAblico..jpg?itok=w_Ukou2B",
-        "video_url": null,
-        "source_id": "elnuevodia",
-        "source_name": "El Nuevo Día",
-        "source_priority": 14300,
-        "source_url": "https://www.elnuevodia.com",
-        "source_icon": "https://n.bytvi.com/elnuevodia.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "伊瓦格市议会实施公共秩序控制",
-        "description_zh": "伊巴格市议会执行公共秩序控制 jferreira 周六，04/11/2026 - 10:28 节点日期 周六，04/11/2026 - 10:28 图片/sites/default/files/imagenes/2026/04/NOTA%203%20-%20Concejo%20de%20Ibagu%C3%A9%20realiz%C3%B3%20control%20al%20orden%20p%C3%BAblico..jpg 伊巴格议会中的机构"
-    },
-    {
-        "article_id": "cf9fe6c7b61ec7491d99630cdf5a8b7c",
-        "link": "https://www.vanguardia.com/economia/2026/04/11/esto-debe-saber-de-la-nueva-reforma-tributaria-que-prepara-el-gobierno-para-recaudar-16-billones/",
-        "title": "Esto debe saber de la nueva reforma tributaria que prepara el Gobierno para recaudar $16 billones",
-        "description": "La iniciativa será presentada como respuesta al hundimiento del primer intento de emergencia económica.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "emergencia económica",
-            "gustavo petro",
-            "reforma tributaria",
-            "corte constitucional",
-            "ministerio de hacienda"
-        ],
-        "creator": [
-            "redacción economía"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-11 15:27:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 15:34:53",
-        "image_url": "https://www.vanguardia.com/resizer/v2/G3CSQJ2AJZARFAUIMABY4RCSWQ.jpeg?auth=e0c6c254cb4ba0276433981dc58c9dfd9b44f443f2882e493cf8f1aad24a843f&smart=true&width=1280&height=855",
-        "video_url": null,
-        "source_id": "vanguardia",
-        "source_name": "Vanguardia",
-        "source_priority": 24302,
-        "source_url": "https://vanguardia.com.mx",
-        "source_icon": "https://n.bytvi.com/vanguardia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "关于政府准备筹集160亿澳元的新税制改革，你应该知道这一点",
-        "description_zh": "该倡议将作为对经济紧急情况第一次尝试失败的回应。"
-    },
-    {
-        "article_id": "cbb35c8c5b0cf00da38027a269d8bdca",
-        "link": "https://eldiariodechihuahua.mx/estado/2026/apr/11/suspendidos-por-fallas-14-centros-medicos-en-juarez-786869.html",
-        "title": "Suspendidos por fallas 14 centros médicos en Juárez",
-        "description": "Deterioro en la infraestructura y falta de documentación profesional, entre las causas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "verónica domínguez / el diario de juárez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-11 15:27:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 16:38:11",
-        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/04/11/cemn-EM36tYSVT.jpg",
-        "video_url": null,
-        "source_id": "eldiariodechihuahua",
-        "source_name": "Eldiariodechihuahua",
-        "source_priority": 77437,
-        "source_url": "https://www.eldiariodechihuahua.mx",
-        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "华雷斯市14家医疗中心因故障而暂停",
-        "description_zh": "原因包括基础设施恶化和缺乏专业文件"
-    },
-    {
-        "article_id": "5a18a0c1318199da79284cac4232856d",
-        "link": "https://depor.com/futbol-internacional/argentina/river-vs-racing-en-vivo-fecha-cuando-juegan-en-que-canales-ver-horarios-y-donde-ver-espn-tnt-sports-pelota-libre-tv-disney-plus-argentina-noticia/",
-        "title": "River vs. Racing: fecha, horarios y canales de TV por la Liga Profesional Argentina",
-        "description": "¿Qué canales transmitirán el partido entre River vs. Racing, por la Liga Profesional Argentina 2025? Revisa la guía completa en Depor.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "liga profesional argentina",
-            "racing",
-            "river plate"
-        ],
-        "creator": [
-            "redacción depor"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-11 15:27:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 15:36:34",
-        "image_url": "https://depor.com/resizer/v2/AN6WW6WXBVCOTLZA263JV4VY2U.jpg?width=1200&height=680&auth=e48bb8a1b1c338ceecd943d12f83393a7cacd3745b8a2fb2565c5bcdc378d783&smart=true",
-        "video_url": null,
-        "source_id": "depor",
-        "source_name": "Depor",
-        "source_priority": 36977,
-        "source_url": "https://depor.com",
-        "source_icon": "https://n.bytvi.com/depor.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "河流与赛车：阿根廷职业联赛的日期、时间和电视频道",
-        "description_zh": "哪些频道将转播 2025 年阿根廷职业联赛 River 与 Racing 之间的比赛？查看拉科的完整指南。"
-    },
-    {
-        "article_id": "4eeb766460401960b595b435ac49ef5f",
-        "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/04/11/hombre-muere-acribillado-en-puente-alto-le-dispararon-mas-de-30-veces-cuando-visitaba-familiares.shtml",
-        "title": "Hombre muere acribillado en Puente Alto: le dispararon más de 30 veces cuando visitaba familiares",
-        "description": "Un hombre murió acribillado en Puente Alto, Santiago, cerca de las 21:00 horas de este viernes. El hecho ocurrió en el Pasaje Estación Selva Oscura, tratándose la víctima de un hombre de cerca de 30 años de edad y nacionalidad chilena, quien estaba al volante de un vehículo, informó la Fiscalía. La Brigada de Homicidios ... Continua leyendo \"Hombre muere acribillado en Puente Alto: le dispararon más de 30 veces cuando visitaba familiares\" The post Hombre muere acribillado en Puente Alto: le dispararon más de 30 veces cuando visitaba familiares appeared first on BioBioChile .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "asesinato",
-            "región metropolitana",
-            "acribillado",
-            "puente alto",
-            "fiscalía",
-            "asalto"
-        ],
-        "creator": [
-            "matías vega"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-11 15:27:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-11 16:33:45",
-        "image_url": "https://media.biobiochile.cl/wp-content/uploads/2026/04/social-acribillado-puente-alto-santiago.png",
-        "video_url": null,
-        "source_id": "biobiochile",
-        "source_name": "Biobiochile",
-        "source_priority": 13427,
-        "source_url": "https://www.biobiochile.cl",
-        "source_icon": "https://n.bytvi.com/biobiochile.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Puente Alto男子被枪杀：他在探望亲戚时被枪击了30多枪",
-        "description_zh": "晚上 9:00 左右，一名男子在圣地亚哥 Puente Alto 被枪杀。这个星期五。检察官办公室称，这起事件发生在 Selva Oscura 车站通道，受害者是一名 30 岁左右的智利籍男子，当时坐在一辆汽车的方向盘上。"
+        "title_zh": "美洲狮今天对阵马萨特兰",
+        "description_zh": "墨西哥城 - ​​UNAM 美洲狮队本周日迎来了马萨特兰队的来访，他们正在关注 Clausura Mx 锦标赛第 14 比赛日的比赛。比赛于墨西哥中部中午 12 点开始，下加利福尼亚州中午 11 点开始，比赛地点为奥林匹克大学体育场。对于这幅画[..."
     }
 ]
