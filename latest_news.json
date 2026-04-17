@@ -1,9 +1,120 @@
 [
     {
-        "article_id": "bcd723651fada6f40be7a19ab64af029",
-        "link": "https://www.tudocelular.com/dell/noticias/n252266/dell-pro-linha-2026-notebooks-workstations-ia-espe.html",
-        "title": "Visual de elite: Dell renova linha Pro com design fino, IA e novos chips Intel e AMD",
-        "description": "Dell apresenta a nova linha Pro com design inspirado na série XPS, processadores Intel Core Ultra 3 e foco total em inteligência artificial",
+        "article_id": "2372afff2522e5776ce539d272ae249b",
+        "link": "https://www.lagaceta.com.ar/nota/1132868/deportes/enzo-fernandez-vuelve-chelsea-tras-sancion-interna-ha-estado-entrenando-normalidad.html",
+        "title": "Enzo Fernández vuelve en Chelsea tras la sanción interna: \"Ha estado entrenando con normalidad”",
+        "description": "El mediocampista argentino cumplió dos partidos de castigo por sus declaraciones sobre su futuro y podría reaparecer ante Manchester United en un duelo clave por la Champions.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "liga premier",
+            "enzo fernández",
+            "manchester city football club",
+            "fa cup",
+            "javier pastore",
+            "deseo",
+            "fútbol",
+            "champions league",
+            "551042",
+            "partidos de castigo",
+            "premier league",
+            "el club",
+            "manchester united football club",
+            "manchester united",
+            "liga de campeones de la uefa",
+            "chelsea football club",
+            "mediocampista argentino"
+        ],
+        "creator": [
+            "benjamín papaterra"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:26:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 22:37:44",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/04/16/enzo-fernandez-estara-disponible-para-duelo-entre-chelsea-manchester-united-1132868-151353.jpg",
+        "video_url": null,
+        "source_id": "lagaceta",
+        "source_name": "La Gaceta",
+        "source_priority": 41850,
+        "source_url": "http://www.lagaceta.com.ar",
+        "source_icon": "https://n.bytvi.com/lagaceta.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "恩佐·费尔南德斯在内部制裁后返回切尔西：“他一直在正常训练”",
+        "description_zh": "这位阿根廷中场球员因对自己未来的言论而受到两场比赛的处罚，并且可能会在欧冠联赛的关键对决中再次出现在对阵曼联的比赛中。"
+    },
+    {
+        "article_id": "1ddb3fbff6015f3925c06326167c9e28",
+        "link": "https://www.lagaceta.com.ar/nota/1132866/deportes/atencion-boca-estas-son-bajas-tiene-beda-cara-al-superclasico-contra-river.html",
+        "title": "Atención Boca: estas son las bajas que tiene Úbeda de cara al Superclásico contra River",
+        "description": "La buena noticia para el entrenador es que el equipo mostró un buen nivel en los últimos partidos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "edinson cavani",
+            "adam bareiro",
+            "133538",
+            "carlos palacios",
+            "leandro brey",
+            "claudio úbeda",
+            "agustín marchesín",
+            "contundente victoria",
+            "buenos aires",
+            "copa libertadores",
+            "copa libertadores de américa",
+            "rodrigo battaglia",
+            "barcelona de ecuador",
+            "javier garcía",
+            "club atlético boca juniors",
+            "torneo apertura 2026"
+        ],
+        "creator": [
+            "bruno farano"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:26:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 22:37:44",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/02/27/goleador-adam-bareiro-debuto-pie-derecho-dt-le-daria-confianza-para-ser-titular-tambien-apertura-1126121-165339.jpg",
+        "video_url": null,
+        "source_id": "lagaceta",
+        "source_name": "La Gaceta",
+        "source_priority": 41850,
+        "source_url": "http://www.lagaceta.com.ar",
+        "source_icon": "https://n.bytvi.com/lagaceta.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "博卡注意：这些是乌贝达在对阵河床的超级德比之前的伤亡情况",
+        "description_zh": "对于教练来说，好消息是球队在最近的比赛中表现出了不错的水平。"
+    },
+    {
+        "article_id": "98a2548eb3d90b9181c2bbd024e5ef52",
+        "link": "https://br.investing.com/news/stock-market-news/petrolifera-espanhola-fecha-acordo-para-ampliar-producao-na-venezuela-1900297",
+        "title": "Petrolífera espanhola fecha acordo para ampliar produção na Venezuela",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -12,257 +123,19 @@
             "brazil"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-15 15:31:00",
+        "pubDate": "2026-04-16 15:25:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 20:34:28",
+        "fetched_at": "2026-04-16 16:06:31",
         "image_url": null,
         "video_url": null,
-        "source_id": "tudocelular",
-        "source_name": "Tudocelular.com",
-        "source_priority": 14359,
-        "source_url": "https://www.tudocelular.com",
-        "source_icon": "https://n.bytvi.com/tudocelular.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "精英外观：戴尔更新 Pro 系列，采用纤薄设计、人工智能以及全新英特尔和 AMD 芯片",
-        "description_zh": "戴尔推出全新 Pro 系列，其设计灵感源自 XPS 系列、英特尔酷睿 Ultra 3 处理器以及对人工智能的全面关注"
-    },
-    {
-        "article_id": "62f4becba21547ce6af5b9ca7bc19e9b",
-        "link": "https://www.perfil.com/noticias/modo-fontevecchia/roberto-cachanosky-el-personaje-milei-complica-la-economia.phtml",
-        "title": "Roberto Cachanosky: “El personaje Milei complica la economía”",
-        "description": "El economista cuestionó la estrategia política del Gobierno, alertó por la debilidad del plan económico y señaló que la incertidumbre desalienta la llegada de capitales. \"Milei sabe que está metido en un problema del cual no sale tan fácilmente\", señaló. Leer más",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mercado",
-            "economia",
-            "roberto cachanosky"
-        ],
-        "creator": [
-            "raquel marconi"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:31:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 16:06:59",
-        "image_url": "https://fotos.perfil.com/2026/03/30/trim/540/304/cachanosky-2211928.jpg",
-        "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "罗伯托·卡查诺斯基：“米莱这个角色让经济变得复杂”",
-        "description_zh": "这位经济学家质疑政府的政治策略，对经济计划的弱点发出警告，并指出不确定性阻碍了资本的到来。 “米雷知道他遇到了一个无法轻易摆脱的问题，”他说。阅读更多"
-    },
-    {
-        "article_id": "1657eaf33530f8d0c4e13034f91a0194",
-        "link": "https://catracalivre.com.br/saude-bem-estar/socializacao-leve-a-tendencia-da-geracao-z-que-esta-transformando-encontros-sem-pressao/",
-        "title": "Socialização leve: a tendência da geração Z que está transformando encontros sem pressão",
-        "description": "A socialização leve é uma tendência da Geração Z que propõe encontros sem pressão, com foco em atividades simples, menos álcool e mais autenticidade. O post Socialização leve: a tendência da geração Z que está transformando encontros sem pressão apareceu primeiro em Catraca Livre .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "amizades"
-        ],
-        "creator": [
-            "silvia melo"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:30:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:33:56",
-        "image_url": "https://catracalivre.com.br/wp-content/uploads/2026/01/freepik-grupo-pequeno-de-amigos-conversando-em-torno-de-um-4559.jpeg",
-        "video_url": null,
-        "source_id": "catracalivre_br",
-        "source_name": "Catraca Livre",
-        "source_priority": 20092,
-        "source_url": "https://catracalivre.com.br",
-        "source_icon": "https://n.bytvi.com/catracalivre_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "轻松社交：Z 世代趋势正在改变无压力约会",
-        "description_zh": "轻度社交是 Z 世代的趋势，提倡无压力的会议、专注于简单的活动、更少的酒精和更多的真实性。后轻社交：正在改变无压力会议的 Z 世代趋势首先出现在 Catraca Livre 上。"
-    },
-    {
-        "article_id": "163a1e5ac32d13f22c74bcbde871b671",
-        "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/04/15/prisao-procurado-assassinato-esposa-parana-1989.ghtml",
-        "title": "Homem que matou ex-mulher com 72 facadas em 1989 no Paraná é preso no Paraguai",
-        "description": "Marcos Panissa matou ex-mulher em Londrina Senad Marcos Panissa, condenado a mais de 20 anos de prisão, por matar a ex-mulher Fernanda Estruzani Panissa com 72 facadas, foi preso nesta quarta-feira (15) no Paraguai. Ainda não há informações sobre circunstância da prisão nem quando ele deve ser enviado ao Brasil. Crime que chocou Londrina completa 30 anos sem autor cumprir a pena O crime aconteceu em Londrina, no Norte do Paraná, no dia 6 de agosto de 1989. Marcos confessou ter cometido o crime por ciúmes, na época, ele tinha 23 anos e Fernanda 21. Marcos foi condenado duas vezes pelo assassinato da ex-mulher, em 1991 e 1992, mas seus advogados recorreram e conseguiram com que ele respondesse ao processo em liberdade. No dia do terceiro julgamento, em 1995, ele não compareceu ao Tribunal, teve a prisão preventiva decretada e, desde então, estava foragido. * Esta reportagem está em atualização Leia também: Petróleo no Paraná: produtores vivem há 14 anos sob incerteza se moram em propriedade com petróleo PMs amigos que trocaram tiros: desabafo entre esposas sobre crise no casamento deu início à confusão Árvore centenária: oliveiras contrabandeadas seriam levadas para o interior de SP VÍDEOS: Mais assistidos do g1 Paraná Leia mais notícias em g1 Oeste e Sudoeste.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports",
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-04-15 15:30:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 16:02:52",
-        "image_url": "https://s2-g1.glbimg.com/m4yQhuIJeZHnAnXXkcrY7tPWfC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/x/X2mrfJRcSQwerFABT6IA/novo-projeto.jpg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "1989 年在巴拉那州用 72 刀刺伤前妻的男子在巴拉圭被捕",
-        "description_zh": "马科斯·帕尼萨 (Marcos Panissa) 在隆德里纳·塞纳德 (Londrina Senad) 杀害前妻 马科斯·帕尼萨 (Marcos Panissa) 因刺杀前妻费尔南达·埃斯特鲁扎尼·帕尼萨 (Fernanda Estruzani Panissa) 72 刀而被判处 20 多年监禁，于本周三 (15 日) 在巴拉圭被捕。目前还没有关于他被捕的情况或何时应释放的信息。"
-    },
-    {
-        "article_id": "a01b7bb63d66fb56db6a6e63ce2dbd8c",
-        "link": "https://g1.globo.com/se/sergipe/noticia/2026/04/15/falta-de-energia-afeta-10-municipios-em-sergipe.ghtml",
-        "title": "Falta de energia afeta 10 municípios em Sergipe",
-        "description": "Lâmpada Freepik/Arquivo Dez municípios de Sergipe foram afetados por falta de energia, nesta quarta-feira (15). A informação foi confirmada pela Energisa. Segundo a empresa, o problema em uma transmissora que fornece energia provocou a interrupção no fornecimento. ✅ Clique aqui para seguir o canal do g1 SE no WhatsApp Os municípios afetados são: Aracaju, Barra dos Coqueiros, Nossa Senhora do Socorro, São Cristóvão, Neópolis, Santana de São Francisco, Ilha das Flores, Brejo Grande, Pacatuba e Japoatã. Veja os vídeos que estão em alta no g1 A Energisa informou que está realizando manobras automáticas para normalizar o fornecimento o mais breve possível. Ainda de acordo com a empresa, na região do Rosa Elze o fornecimento foi restabelecido em 95% dos imóveis.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:30:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 16:02:52",
-        "image_url": "https://s2-g1.glbimg.com/fzD0FC3aLXJ455EKlc0gOV6nU60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/z/8/QelSQBSuShaAH1mfbZXA/lampada-acesa.jpg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "塞尔希培州10个城市停电",
-        "description_zh": "本周三（15日），塞尔希培州的十个城市受到停电影响。该消息得到了Energisa的证实。据该公司称，供应能源的发射器​​出现问题导致供应中断。 ✅ 点击这里关注c"
-    },
-    {
-        "article_id": "f44d42720e0e9ef30490718c642db34d",
-        "link": "https://odia.ig.com.br/rio-de-janeiro/2026/04/7236735-golpe-da-maquininha-homem-e-preso-por-vender-churrasquinho-por-rs-10-mil-para-turista.html",
-        "title": "'Golpe da maquininha': homem é preso por vender churrasquinho por R$ 10 mil para turista",
-        "description": "Suspeito havia cobrado R$ 100 pelo produto, mas manipulou a máquina para cobrar valor muito acima",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:30:34",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:40:51",
-        "image_url": "https://odia.ig.com.br/_midias/jpg/2025/09/05/deat-36955245.jpeg",
-        "video_url": null,
-        "source_id": "odia_ig_br",
-        "source_name": "Odia Ig Br",
-        "source_priority": 144458,
-        "source_url": "https://odia.ig.com.br",
-        "source_icon": "https://n.bytvi.com/odia_ig_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“机器骗局”：男子因向游客兜售烧烤价值 10,000 雷亚尔而被捕",
-        "description_zh": "嫌疑人对该产品收取了 100 雷亚尔的费用，但通过操纵机器收取了更高的费用"
-    },
-    {
-        "article_id": "0363d284dbc65cfc40cf69d3da36666b",
-        "link": "https://www.laopinioncoruna.es/sucesos/2026/04/15/espanol-critico-atacado-tiburon-durante-129141219.html",
-        "title": "Un español, en estado crítico tras ser atacado por un tiburón durante su luna de miel en las Islas Maldivas",
-        "description": "La luna de miel de una pareja de españoles, una castellonense y un alcantino, se convirtió hace pocos días en una tragedia en las Islas Maldivas. Durante su estancia, un tiburón atacó al hombre de una manera tan brutal que en estos momentos se debate entre la vida y la muerte en un hospital de ese archipiélago del océano Índico.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tiburón",
-            "ataques"
-        ],
-        "creator": [
-            "pablo ramón ochoa"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:30:31",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:36:39",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bda918ca-5058-4348-9979-9f1c7cf29804_16-9-aspect-ratio_default_0_x800y298.jpg",
-        "video_url": null,
-        "source_id": "laopinioncoruna",
-        "source_name": "La Opinión A Coruña",
-        "source_priority": 50098,
-        "source_url": "https://www.laopinioncoruna.es",
-        "source_icon": "https://n.bytvi.com/laopinioncoruna.png",
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -270,77 +143,112 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "一名西班牙人在马尔代夫度蜜月时遭到鲨鱼袭击，情况危急",
-        "description_zh": "一对西班牙夫妇（一名来自卡斯特利翁的女子和一名来自阿尔坎塔拉的男子）的蜜月几天前在马尔代夫变成了一场悲剧。在他逗留期间，一条鲨鱼以如此残酷的方式袭击了该男子，导致他目前在医院里处于生死攸关的境地。"
+        "title_zh": "西班牙石油公司签署扩大在委内瑞拉产量的协议",
+        "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "70941d2d6324d1766c1776cbbc85b07a",
-        "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/04/15/video-criminoso-com-mascara-de-palhaco-e-comparsa-furtam-dinheiro-e-refrigerantes-de-lanchonete-em-uberlandia.ghtml",
-        "title": "VÍDEO: Criminoso com máscara de palhaço e comparsa furtam dinheiro e refrigerantes de lanchonete em Uberlândia",
-        "description": "Dupla com máscara de palhaço arromba comércio e furta dinheiro e bebidas em Uberlândia Uma dupla de criminosos invadiu e furtou uma lanchonete na Avenida Floriano Peixoto, no bairro Nossa Senhora Aparecida, em Uberlândia, na madrugada de terça-feira (14). Um dos invasores usava uma máscara de palhaço para esconder o rosto. Câmeras de segurança registraram a ação dentro do estabelecimento e, em seguida, a fuga. Veja as imagens acima. Segundo a Polícia Militar (PM), os criminosos arrombaram a porta lateral do comércio por volta de 1h15. Durante a ação, foram levados cerca de R$ 480 em dinheiro que estavam no caixa, além de latas de refrigerante e garrafas de suco armazenadas nos freezers. Após o furto, os suspeitos fugiram. De acordo com a PM, até o momento, ninguém foi localizado. ✅ Clique aqui para seguir o canal do g1 Triângulo no WhatsApp Ponto a ponto do vídeo: Câmera de monitoramento mostra um dos suspeitos usando uma máscara de palhaço já dentro da lanchonete por volta da 1h21 da madrugada; Instantes depois, ele retorna ao freezer e o abre para pegar as bebidas; Minutos depois, é possível observar o criminoso e o comparsa fugindo pela via. Furto aconteceu na madrugada desta última terça-feira (14) Arquivo pessoal/Divulgação LEIA TAMBÉM: Loja de ferramentas é arrombada e PM recupera itens furtados com ajuda de motoristas de aplicativos em Uberlândia VÍDEO: Assaltantes armados com revólver roubam mercado e deixam prejuízo de R$ 1 mil em MG VÍDEO: Ladrão invade loja de festas e furta ovos de Páscoa em MG VÍDEOS: veja tudo sobre o Triângulo, Alto Paranaíba e Noroeste de Minas",
+        "article_id": "bdf2ecdf316a133e18ba4b3c3a3ba4e3",
+        "link": "https://www.tiempoar.com.ar/ta_article/massive-attack-y-tom-waits/",
+        "title": "Massive Attack y Tom Waits se unen en una canción contra el autoritarismo de Trump",
+        "description": "El dúo británico y el artista estadounidense lanzaron \"Boots On The Ground\", un tema con fuerte contenido político. Denuncia la militarización, la violencia estatal y las políticas migratorias en EE.UU.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:30:31",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 16:02:52",
-        "image_url": "https://s2-g1.glbimg.com/5elZ7nnczi6-lqDCSOAOFX_pN0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/7/rXOYuJQfuLMmIlbc1wHw/design-sem-nome-57-.jpg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "视频：戴着小丑面具的罪犯和他的同伙从乌贝兰迪亚的一家小吃店偷钱和软饮料",
-        "description_zh": "戴着小丑面具的二人闯入乌贝兰迪亚的商店偷钱和饮料 周二（14 日）凌晨，一对犯罪分子闯入并抢劫了乌贝兰迪亚 Nossa Senhora Aparecida 社区弗洛里亚诺佩肖托大道 (Avenida Floriano Peixoto) 上的一家小吃店。其中一名袭击者戴着面具"
-    },
-    {
-        "article_id": "a2c81550cdc4929230dce8dfeccfcd90",
-        "link": "https://flipr.com.ar/nacionales/diagonales/milei-culpo-a-la-politica-por-la-aceleracion-de-la-inflacion-y-prometio-mas-motosierra/",
-        "title": "Milei culpó a “la política” por la aceleración de la inflación y prometió más motosierra",
-        "description": "A pesar de que el Índice de Precios al Consumidor subió en los últimos diez meses, para Milei el dato...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "inflación",
-            "política nacional"
-        ],
-        "creator": [
-            "diagonales"
-        ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top"
+            "entertainment"
         ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-04-15 15:30:28",
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:34",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:44:56",
+        "fetched_at": "2026-04-16 15:38:10",
         "image_url": null,
         "video_url": null,
-        "source_id": "flipr_ar",
-        "source_name": "Flipr.news",
-        "source_priority": 459507,
-        "source_url": "https://flipr.com.ar",
-        "source_icon": null,
+        "source_id": "tiempoar",
+        "source_name": "Tiempo Argentino",
+        "source_priority": 115844,
+        "source_url": "https://www.tiempoar.com.ar",
+        "source_icon": "https://n.bytvi.com/tiempoar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Massive Attack 和 Tom Waits 合作创作一首反对特朗普独裁主义的歌曲",
+        "description_zh": "英国二人组合和美国艺术家发行了《Boots On The Ground》，这是一首带有强烈政治内容的歌曲。谴责美国的军事化、国家暴力和移民政策。"
+    },
+    {
+        "article_id": "1eb665d9e76bf41eb44e17d179437ab3",
+        "link": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/04/16/policia-descobre-fabrica-clandestina-de-placas-de-veiculos-e-apreende-22-kg-de-cocaina-no-local-em-sp.ghtml",
+        "title": "Polícia descobre fábrica clandestina de placas de veículos e apreende 22 kg de cocaína no local, em SP",
+        "description": "A Polícia Militar de São Paulo descobriu um imóvel usado para a fabricação ilegal de placas de veículos em Santo Amaro, na Zona Sul da capital, durante ação realizada nesta quarta-feira. No local, foram apreendidas placas falsificadas, drogas, dinheiro e outros materiais ilícitos. Um homem de 40 anos foi preso em flagrante. Assista: Mc Ryan SP mostrou conta bancária longa como 'número de CPF' em vídeo; 'A Polícia Civil já tava me seguindo' Entenda: MC Ryan SP é apontado como líder de esquema de lavagem de dinheiro ligado ao tráfico internacional, diz PF A operação foi conduzida por equipes do 3o Batalhão de Choque após denúncia anônima que apontava a atuação de um suspeito com tráfico de drogas, posse de armas de fogo e movimentação intensa associada a atividades criminosas. Ao chegar ao endereço, os policiais encontraram o suspeito na laje do imóvel. Ao perceber a presença da equipe, ele tentou fugir, mas foi alcançado e detido dentro da residência. Esquema incluía produção de placas no padrão Mercosul Durante as buscas, os agentes identificaram que o local funcionava como uma base clandestina de produção de placas veiculares no padrão Mercosul. Foram apreendidos dois maquinários utilizados na fabricação, dezenas de peças metálicas com letras e números e 107 placas prontas — 95 destinadas a carros e 12 a motocicletas. Além da estrutura de falsificação, a polícia encontrou itens ligados ao tráfico de drogas e a armamento. Foram apreendidos um colete balístico, cartuchos de munição, três balanças de precisão e cerca de 22 quilos de cocaína, entre porções fracionadas e tijolos da droga. Um caderno com anotações de vendas também foi localizado. Polícia descobre fábrica clandestina de placas de veículos e apreende 22 kg de cocaína no local, em SP Secretaria de Segurança Pública de São Paulo (SSP) Outros objetos foram recolhidos no imóvel, incluindo seis celulares, duas máquinas de cartão, dez relógios de pulso e R$ 131 mil em dinheiro. O suspeito foi encaminhado ao 11o Distrito Policial de Santo Amaro, onde permaneceu à disposição da Justiça. O caso foi registrado como tráfico de drogas e adulteração de sinal identificador de veículo automotor.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "radar",
+            "hard news"
+        ],
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:33",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 16:07:22",
+        "image_url": "https://s2-oglobo.glbimg.com/n7RN9rvCBv-tnB7I4fxvlYOTgBo=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/O/m/5MheqxQDqlcfNrxBhnww/whatsapp-image-2026-04-16-at-11.59.42-am.jpeg",
+        "video_url": null,
+        "source_id": "oglobo_globo",
+        "source_name": "O Globo",
+        "source_priority": 93485,
+        "source_url": "https://oglobo.globo.com",
+        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "警方在新加坡发现了一个秘密车辆牌照工厂，并在现场查获了 22 公斤可卡因",
+        "description_zh": "圣保罗军警在本周三的一次行动中，在首都南区圣保罗阿马罗发现了一处用于非法制造车辆牌照的财产。现场起获假冒车牌、毒品、金钱和其他非法物品。一个男人"
+    },
+    {
+        "article_id": "1c97c07f89a456a819fd551ffad7a8eb",
+        "link": "https://jornaldebrasilia.com.br/entenda-a-corrida-do-brb-para-cobrir-o-rombo-deixado-pelo-master/",
+        "title": "Entenda a corrida do BRB para cobrir o rombo deixado pelo Master",
+        "description": "JÚLIA MOURA SÃO PAULO, SP (FOLHAPRESS) Nos últimos meses, o BRB (Banco de Brasília) está numa corrida para cobrir o rombo bilionário deixado por operações feitas com o Banco Master. Segundo investigações, a instituição do Distrito Federal comprou R$ 12,2 bilhões em créditos falsificados do banco de Daniel Vorcaro, mas disse ter recuperado parcialmente esse valor. De acordo com o Banco Central, o montante necessário para a instituição cobrir as perdas decorrentes dos negócios poderia chegar a R$ 5 bilhões, em razão da baixa qualidade dos ativos. Segundo os últimos dados disponíveis, referentes ao terceiro trimestre de 2025, o banco tinha um patrimônio líquido de R$ 4,9 bilhões. A extensão real dos danos ainda é incerta, dado que diversos membros da gestão passada são investigados por possível participação na fraude. Nesta quinta (16), a Polícia Federal prendeu o ex-presidente do BRB Paulo Henrique Costa, acusado de corrupção passiva e lavagem de dinheiro. O executivo comandou o banco público do final de janeiro de 2019 a novembro de 2025. Para avaliar a real condição do BRB, foi feita uma auditoria conduzida pelo escritório Machado Meyer Advogados, com suporte técnico da Kroll. A investigação foi concluída no início de abril e o relatório final para a Polícia Federal para a adoção de \"eventuais medidas cabíveis\". Já o raio-x financeiro da instituição após auditoria ainda não foi divulgado. A estatal deveria ter apresentado o balanço de 2025 ao fim de março. Segundo o BRB, a publicação das demonstrações financeiras foi postergada \"em razão da necessidade de conclusão dos trabalhos da auditoria forense contratada para apuração dos eventos relacionados à operação Compliance Zero, bem como da adequada avaliação, pela administração da companhia e pelo auditor independente, de seus potenciais impactos.\" Neste meio tempo, a atual governadora do Distrito Federal Celina Leão busca levantar capital para evitar a quebra do banco. Ela disse que apresentou um plano técnico ao Banco Central. Entre os planos estão um eventual empréstimo junto ao FGC (Fundo Garantidor de Créditos) e a venda dos ativos vindos do Master para uma gestora, o que daria R$ 4 bilhões à vista ao banco. Outro caminho seriam aportes do controlador. O banco é organizado sob a forma de sociedade de economia mista, de capital aberto, e seu acionista majoritário é o governo do Distrito Federal (com 53,71% das ações). O DF, porém, não tem os recursos necessários e recorreu a um processo de captação. Em março, foi sancionada uma lei autorizando o governo distrital a executar ações para socorrer o banco, como a contratação de até R$ 6,6 bilhões em operações de crédito com o FGC ou instituições financeiras. O banco também tenta a venda de outros ativos para se capitalizar. Segundo dados de setembro do ano passado disponibilizados pela instituição e divulgados pelo BC, o BRB tinha uma carteira de crédito de R$ 57,2 bilhões. Metade destes empréstimos era de crédito consignado para pessoas físicas. O segundo maior produto era de crédito imobiliário (23%), seguido de crédito a empresas (9%). Neste ano, a ação do banco se desvaloriza mais de 40% na Bolsa de Valores. Em novembro de 2025, as agências de classificação de risco rebaixaram a nota da instituição. A Fitch moveu a avaliação para CCC, que significa risco de crédito substancial, com possibilidade de calote. \"As questões de governança e as investigações sobre carteiras de crédito supostamente fraudulentas adquiridas do Banco Master aumentaram substancialmente o risco de falha do BRB e revelaram graves deficiências nas práticas de supervisão e gestão de riscos\", disse a Fitch na ocasião. Em 1o de abril, a Moody's rebaixou novamente a nota de crédito do BRB. A classificação foi de BBB- para CCC+, ou seja de médio para alto risco de calote. \"O patamar atual de rating reflete a nossa visão de que a qualidade de crédito do BRB é muito fraca em relação a outras entidades nacionais e provavelmente está perto de default, sem a concretização de um aporte de capital\", afirmou em relatório. O BRB já trabalhava com um provisionamento (reserva financeira) de R$ 8,8 bilhões, de acordo com o atual presidente do BRB, Nelson de Souza. O valor, contudo, poderia ser ainda maior. \"Qualquer impacto negativo adicional nos resultados do banco pode ser crítico para seu perfil de crédito, especialmente considerando os já enfraquecidos níveis de capital regulatório, o que oferece uma proteção limitada contra possíveis perdas\", disse a Moody's em novembro. RAIO-X | BRB NO 3o TRIMESTRE 2025 Lucro: R$ 184,6 milhões Fundação: 1964 Funcionários: 3.404 (em março de 2025) Agências: 69 Concorrentes: Caixa Econômica Federal, Banco do Brasil, Itaú, Bradesco, Santander",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:20",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 15:49:22",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "jornaldebrasilia",
+        "source_name": "Jornal De Brasília",
+        "source_priority": 1815808,
+        "source_url": "https://jornaldebrasilia.com.br",
+        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -348,82 +256,189 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "米莱将通胀加速归咎于“政治”，并承诺提供更多电锯",
-        "description_zh": "尽管消费者价格指数在过去十个月有所上升，但对于 Milei 来说，数据..."
+        "title_zh": "了解 BRB 的比赛以弥补大师留下的差距",
+        "description_zh": "JÚLIA MOURA São PAULO, SP (FOLHAPRESS) 近几个月来，BRB (Banco de Brasília) 一直在竞相填补与 Banco Master 开展业务留下的数十亿美元的缺口。据调查，联邦区机构购买了 122 亿雷亚尔的伪造信贷"
     },
     {
-        "article_id": "4d93c58f068aaea5cdde6b2e69c0d060",
-        "link": "https://jc.uol.com.br/politica/2026/04/15/moraes-abre-acao-contra-flavio-bolsonaro-por-suposta-calunia-a-lula.html",
-        "title": "Moraes abre ação contra Flávio Bolsonaro por suposta calúnia a Lula",
-        "description": "Caso remonta a uma publicação feita por Flávio na rede social X no dia 3 de janeiro, em que atribui a Lula a prática de diversos crimes",
+        "article_id": "e600440f47a1dcec4efd2be4ad43e743",
+        "link": "https://www.mixvale.com.br/2026/04/16/lords-of-outland-traz-novas-raides-e-temporada-de-arena-para-wow-burning-crusade-classic-em-maio/",
+        "title": "Lords of Outland traz novas raides e temporada de arena para WoW Burning Crusade Classic em maio",
+        "description": "A Blizzard anunciou a data de lançamento da próxima grande atualização de World of Warcraft Burning Crusade Classic Anniversary Edition. A fase Lords of Outland começa no dia 14 de maio em todos os reinos, às 15h no horário do Pacífico. Jogadores vão enfrentar novos desafios em Terralém contra os tenentes de Illidan Tempesfúria. A [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "lula",
-            "alexandre de moraes",
-            "flavio bolsonaro"
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
         ],
+        "category": [
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:13",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 16:07:07",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "mixvale",
+        "source_name": "Mix Vale",
+        "source_priority": 95409,
+        "source_url": "https://www.mixvale.com.br",
+        "source_icon": "https://n.bytvi.com/mixvale.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "《外域之王》为五月的《魔兽世界燃烧远征经典》带来了新的突袭和竞技场赛季",
+        "description_zh": "暴雪宣布了《魔兽世界》燃烧远征经典周年纪念版下一次重大更新的发布日期。外域领主阶段将于太平洋时间 5 月 14 日下午 3 点在所有领域开始。玩家将在 Terralém 中面临新的挑战"
+    },
+    {
+        "article_id": "a4994b32aaf60faac53be10d8b46544f",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/celta-de-vigo-x-freiburg-horario-e-onde-assistir-ao-jogo-da-europa-league/",
+        "title": "Celta de Vigo x Freiburg: horário e onde assistir ao jogo da Europa League",
+        "description": "Equipes se enfrentam nesta quinta-feira (16) pelas quartas de final do torneio",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
         "creator": [
-            "agência brasil"
+            "cnn brasil"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
+            "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-15 15:30:22",
+        "pubDate": "2026-04-16 15:25:08",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 16:15:25",
-        "image_url": "https://imagens.ne10.uol.com.br/veiculos/_midias/webp/2026/03/12/dia_do_soldado_mcamgo_abr_22082024_12_e1750952082363-36535541.webp",
+        "fetched_at": "2026-04-16 15:32:05",
+        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/Estadio-de-Balaidos-e1776351589467.jpg?w=1200&h=1200&crop=1",
         "video_url": null,
-        "source_id": "jcne10uol",
-        "source_name": "Jc Notiacute",
-        "source_priority": 652888,
-        "source_url": "https://jc.ne10.uol.com.br",
-        "source_icon": "https://n.bytvi.com/jcne10uol.png",
+        "source_id": "cnnbrasil_br",
+        "source_name": "Cnn Brasil",
+        "source_priority": 1209,
+        "source_url": "https://www.cnnbrasil.com.br",
+        "source_icon": "https://n.bytvi.com/cnnbrasil_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "莫赖斯对弗拉维奥·博尔索纳罗提起诉讼，指控其诽谤卢拉",
-        "description_zh": "该案可以追溯到1月3日弗拉维奥在社交网络X上发表的一篇文章，其中他将卢拉归咎于犯有几项罪行"
+        "duplicate": false,
+        "title_zh": "塞尔塔维戈 x 弗莱堡：观看欧罗巴联赛比赛的时间和地点",
+        "description_zh": "两队将于本周四（16 场）在锦标赛四分之一决赛中交锋"
     },
     {
-        "article_id": "1fbc01ef07125c06efdf2bda4ad4ca68",
-        "link": "https://24horaspuebla.com/2026/04/prestamo-para-el-ayuntamiento-no-es-deuda-diputado/",
-        "title": "Préstamo para el Ayuntamiento no es deuda: Diputado",
-        "description": "El diputado local por Morena, Andrés Mendoza Villegas, afirmó que la línea de crédito por 440 millones de pesos solicitada para el Ayuntamiento de Puebla no debe interpretarse como un endeudamiento, sino como un mecanismo para agilizar la atención de necesidades prioritarias en el municipio. Durante una rueda de prensa, el legislador rechazó que se [...] The post Préstamo para el Ayuntamiento no es deuda: Diputado appeared first on Diario 24 Horas Puebla .",
+        "article_id": "beaa43e49a4822e3f0264cef1f0b25cc",
+        "link": "https://g1.globo.com/pa/para/noticia/2026/04/16/acara-no-pa-completa-151-com-show-gratuito-de-vocal-livre-veja-programacao-completa.ghtml",
+        "title": "Acará, no PA, completa 151 anos com show gratuito de Vocal Livre; veja programação completa",
+        "description": "Grupo \"Vocal Livre\", de Engenheiro Coelho, recebeu indicação ao Grammy Latino 2024 Jonathan Gonçalves A cidade de Acará, no nordeste do Pará, completa 151 anos de Acará no sábado (18). A comemoração será marcada com show gratuito do grupo, indicado ao Grammy Latino 2024, Vocal Livre. A apresentação faz parte do projeto “É Tempo de Louvar” e integra a programação oficial organizada pela prefeitura, que valoriza cultura, tradição e fé paraense. A celebração ocorre ao longo de três dias, de 17 a 19 de abril, reunindo moradores e visitantes em diferentes espaços do município. Com o lema “Acará 151 anos – orgulho de ser acaraense”, a festa destaca as raízes locais por meio de shows, festivais e atividades que promovem lazer e identidade cultural. Vocal Livre Bia Mota / Divulgação O Vocal Livre, um dos principais nomes da música cristã contemporânea no Brasil, chega a Acará após conquistas recentes. O grupo venceu o quadro “Caldeirão de Vozes”, do Caldeirão com Mion na Globo, com o projeto paralelo Coral Livre, ampliando a projeção nacional. Além disso, lançou o filme “Por Outros Olhos”, exibido em cinemas pelo país no último ano, misturando música e narrativa emocional. No repertório do show em Acará, sucessos dividem espaço com canções recentes, priorizando a emoção ao vivo e a interação com o público. Confira a programação completa: Quinta-feira (17/04): 3o Rainha da Mandioca, DJ Rodrigo, Banda Sayonara e Benny Pérola Negra. Sábado (18/04): DJ Matheus Ultra, Louvores ao Rei, Taliely Souza (cantora acaraense) e show principal do Vocal Livre. Domingo (19/04): 31o Festival da Farinhada com Victor Lima, Banda Sol Nascente, Margareth Sarué, Marcela, Projeto Reggae, além de DJ Alex Showman, Edu Farias, Diogo Oliveira, Manu Batidão e banda Tôpinhão no grande show de aniversário. VÍDEOS: veja todas as notícias do Pará",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:01",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 15:34:03",
+        "image_url": "https://s2-g1.glbimg.com/ug91hwigmkhlTZJcsp2Pva3S1cI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/8/NknAcpSiqGntMUKrtjUQ/credito-biamotafotografia.jpg",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "宾夕法尼亚州的阿卡拉 (Acará) 举办免费 Vocal Livre 演出庆祝 151 岁生日；查看完整的时间表",
+        "description_zh": "Engenheiro Coelho 乐队的“Vocal Livre”乐队获得 2024 年拉丁格莱美奖提名 Jonathan Gonçalves 位于帕拉州东北部的阿卡拉市于周六 (18 日) 庆祝阿卡拉成立 151 周年。庆祝活动将以由获得 2024 年拉丁格莱美奖提名的乐队《Vocal Livre》免费表演来庆祝。四月"
+    },
+    {
+        "article_id": "31dec44821386773e8babb55e3f8296d",
+        "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/04/16/corpo-do-cinegrafista-rodrigo-lapa-da-band-e-velado-em-bh.ghtml",
+        "title": "Corpo do cinegrafista Rodrigo Lapa, da Band, é velado em BH",
+        "description": "O velório do corpo do cinegrafista Rodrigo Lapa Dani, de 49 anos, será realizado nesta quinta-feira (16), em Belo Horizonte. A cerimônia de despedida começou ao 12h, na Capela 1 do Cemitério do Bonfim, localizado na Rua do Bonfim, no bairro Bonfim. O enterro está previsto para as 16h, no mesmo local. Rodrigo Lapa morreu após um acidente envolvendo um carro da Band Minas e um caminhão, na BR-381, em Sabará, na Região Metropolitana de Belo Horizonte, na tarde de quarta-feira (15). A repórter Alice Ribeiro, de 35 anos, que também estava no veículo, ficou gravemente ferida. Segundo informações da ocorrência, o carro de reportagem e o caminhão bateram de frente na altura do km 444 da rodovia. Rodrigo dirigia o veículo no momento da colisão e morreu ainda no local. Já a repórter foi socorrida e levada de helicóptero para o Hospital João XXIII, na capital. A equipe retornava de uma reportagem sobre a importância da duplicação da BR-381 para a redução de acidentes quando ocorreu a batida. A parte dianteira do carro ficou completamente destruída. Equipes da concessionária responsável pela rodovia e do Corpo de Bombeiros atuaram no resgate. A Polícia Civil realizou perícia no local e informou que vai investigar as causas e circunstâncias do acidente. Em nota, a Band Minas lamentou a morte do cinegrafista e informou que presta assistência aos familiares das vítimas. O cinegrafista Rodrigo Lapa e a repórter Alice Ribeiro, da Band Minas, que estavam no carro envolvido no acidente. Reprodução/Redes Sociais",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 15:34:03",
+        "image_url": "https://s2-g1.glbimg.com/XdxN_dERpSoMqpUUK0eg7pCnJzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/9/Auh8SBRrAayVBs5BKWgQ/1776276448342701.jpg",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Band 摄影师罗德里戈·拉帕 (Rodrigo Lapa) 的遗体安葬于 BH",
+        "description_zh": "49 岁摄影师罗德里戈·拉帕·达尼 (Rodrigo Lapa Dani) 的遗体守灵活动将于本周四（16 日）在贝洛奥里藏特举行。告别仪式于中午 12 点在邦芬公墓 (Bonfim Cemetery) 1 号礼拜堂开始，该公墓位于邦芬街 (Rua do Bonfim) 街区。葬礼定于下午4点举行，同一时间"
+    },
+    {
+        "article_id": "43d757dada7496be55a059e3edd7ebab",
+        "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-04-16/australia-repollo-col-talio-tesoro-tecnologico-1qrt_4339257/",
+        "title": "Australia cultiva repollo y col rizada en sus minas más contaminadas y logra extraer un 'tesoro' que necesita la industria tecnológica",
+        "description": "El experimento, centrado en la fitominería, ha permitido documentar cómo estas plantas pueden extraer talio del suelo. Un material tóxico, pero también imprescindible",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "puebla"
+            "minería",
+            "australia"
         ],
         "creator": [
-            "mariana valenzuela"
+            "r. badillo"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "technology"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-15 15:31:00",
+        "pubDate": "2026-04-16 15:26:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:46:23",
-        "image_url": "https://bunny-wp-pullzone-19zk8kfr6r.b-cdn.net/wp-content/uploads/puebla//2026/04/NOTA-2-Diputado.jpeg",
+        "fetched_at": "2026-04-16 16:19:29",
+        "image_url": "https://images.ecestaticos.com/eLRPwrLlUkmu44qVkcUHoke6-Qw=/0x0:1544x1032/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F54c%2F095%2Faaf%2F54c095aaf0fe23a7d91c478a2124dbc8.jpg",
         "video_url": null,
-        "source_id": "24horaspuebla",
-        "source_name": "24 Horas Puebla",
-        "source_priority": 649883,
-        "source_url": "https://24horaspuebla.com",
-        "source_icon": "https://n.bytvi.com/24horaspuebla.png",
+        "source_id": "elconfidencial",
+        "source_name": "El Confidencial",
+        "source_priority": 1147,
+        "source_url": "https://www.elconfidencial.com",
+        "source_icon": "https://n.bytvi.com/elconfidencial.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -431,42 +446,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "市议员的贷款不是债务",
-        "description_zh": "莫雷纳当地代表 Andrés Mendoza Villegas 表示，向普埃布拉市议会申请的 4.4 亿比索信贷额度不应被解释为债务，而应被视为一种加快关注该市优先需求的机制。杜"
+        "title_zh": "澳大利亚在污染最严重的矿山种植卷心菜和羽衣甘蓝，并成功开采出科技行业所需的“宝藏”",
+        "description_zh": "该实验的重点是植物采矿，使我们能够记录这些植物如何从土壤中提取铊。有毒物质，但也是必需的"
     },
     {
-        "article_id": "3596be8936134ea588c6f2e3067e7494",
-        "link": "https://www.quadratin.com.mx/justicia/atacan-a-balazos-a-uno-en-la-profesor-jesus-romero-flores-morelia/",
-        "title": "Atacan a balazos a uno en la Profesor Jesús Romero Flores, Morelia",
-        "description": "Permanece bajo resguardo de las autoridades La entrada Atacan a balazos a uno en la Profesor Jesús Romero Flores, Morelia aparece primero en Quadratín Michoacán .",
+        "article_id": "7f663d3c002b92f1f97c39d8bdaf6a0b",
+        "link": "https://www.elporvenir.mx/economico/en-ranking-de-prosperidad-del-imd-mexico-obtiene-b1/974446",
+        "title": "En ranking de Prosperidad del IMD México obtiene B1",
+        "description": "En este nuevo estudio, se sitúa a los países en ocho niveles que van del A1, el mejor, al D2, el más bajo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "profesor jesús romero flores",
-            "balazos",
-            "morelia"
+            "b1",
+            "méxico",
+            "prosperidad",
+            "imd",
+            "ranking"
         ],
         "creator": [
-            "cecilia sierra/quadratín michoacán"
+            "el universal"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-15 15:30:57",
+        "pubDate": "2026-04-16 15:26:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:43:46",
-        "image_url": "https://www.quadratin.com.mx/www/wp-content/uploads/2026/01/BALAS-1160x700.png",
+        "fetched_at": "2026-04-16 15:44:37",
+        "image_url": "https://blob.elporvenir.mx/images/2026/04/16/puertolazarocardenas-08a5b601-focus-0.17-0.14-960-690.jpg",
         "video_url": null,
-        "source_id": "quadratin",
-        "source_name": "Quadratín",
-        "source_priority": 320781,
-        "source_url": "https://www.quadratin.com.mx",
-        "source_icon": "https://n.bytvi.com/quadratin.png",
+        "source_id": "elporvenir_mx",
+        "source_name": "El Porvenir",
+        "source_priority": 589407,
+        "source_url": "https://elporvenir.mx",
+        "source_icon": "https://n.bytvi.com/elporvenir_mx.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -474,32 +490,202 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们用子弹攻击莫雷利亚赫苏斯·罗梅罗·弗洛雷斯教授的一名学生",
-        "description_zh": "他仍然受到当局的保护。条目 One 是在 Jesus Romero Flores 教授中拍摄的，Morelia 首先出现在 Quadratín Michoacán 中。"
+        "title_zh": "在 IMD 繁荣排名中，墨西哥获得 B1",
+        "description_zh": "在这项新研究中，国家被分为八个级别，从 A1（最好）到 D2（最低）。"
     },
     {
-        "article_id": "6746a1f83b5145b39c0f34f870858d8a",
-        "link": "https://redgol.cl/apuestas/codigos/codigo-promocional-stake",
-        "title": "Código promocional Stake REDVIP en Abril 2026",
-        "description": "Aprovecha el código promocional REDVIP en Stake de hoy y reclama el 200% de tu primer depósito hasta $2.000 USD. ¿Cuál es el código promocional Stake? El código promocional Stake es REDVIP . Al registrarte con él, obtendrás un bono del 200 % sobre tu primer depósito, que puedes usar tanto en apuestas deportivas como en juegos de casino, haciendo tu inicio en la plataforma mucho más rentable. ¿Qué obtengo con el código de bonificación Stake? Al usar el código promocional Stake REDVIP podrás obtener un 200% de tu primer depósito por hasta $2,000 en Chile , una variedad de promociones, incluyendo sorteos semanales y apuestas deportivas gratuitas, además de disfrutar de un excelente programa VIP. Promoción Detalles de la oferta Código Stake Bono de deportes 200% hasta $2,000 USD en Chile. REDVIP Bono de Casino Bono del 200% hasta $2,000 USD en Chile. REDVIP Ten en cuenta que, al pasar las semanas, el operador puede lanzar la promoción del bono de bienvenida Stake con el código promocional, por lo que te recomendamos estar atento a las nuevas ofertas. Es aconsejable ingresar regularmente al apartado de ‘promociones’ de la casa de apuestas antes de apostar y revisar los detalles de cada oferta disponible en la plataforma. Bono de bienvenida Stake: hasta $2,000 USD para deportes Una vez crees tu cuenta de usuario al registrarte con el código promocional Stake, entonces podrás reclamar el bono de bienvenida con tu primer depósito. Esta es una bonificación que se activa con un primer depósito de al menos $10 USD y te entrega el 200% de ese valor hasta los $2,000 dólares. Te presentamos a continuación todos los Términos y Condiciones de esta oferta. Para mayor información te invitamos a visitar la web del operador. Términos y Condiciones de la oferta de deportes Todos los nuevos usuarios que se registren con el código promocional Stake podrán reclamar un bono de bienvenida para deportes de hasta $2,000 USD por el 100% de su primer depósito. Pero antes, debes cumplir con los siguientes TyC: El bono consta del 200% del primer depósito Solo para mayores de 18 años Residentes de Chile Depósito mínimo de $10 USD (o su equivalente) Monto máximo del bono: $2,000 USD El valor del bono será acreditado dentro de las siguientes 24-48 horas Rollover: 40x Debes verificar tu cuenta en el nivel 2 KYC Solicita el bono ante el soporte al cliente ¿Cómo activo el código de Stake en Chile? Te explicamos paso a paso cómo obtener el código de Stake: Ingresa a la página principal de Stake Chile. En la esquina superior derecha de la página de inicio, ubica el botón “ Registrarse ” y dale clic para iniciar tu aventura en esta web. Completa el formulario con tu información personal. El operador te pide tu nombre completo, dirección de correo electrónico y número de teléfono celular. El código promocional Stake “ REDVIP “, introdúcelo en el espacio designado. Una vez que hayas verificado tu cuenta, tendrás acceso a las secciones de casino y apuestas deportivas del sitio Stake, donde podrás realizar tu primer depósito y comenzar a disfrutar de las ofertas. La verificación de la cuenta es un proceso estándar de seguridad en la plataforma que garantiza la protección tanto del usuario como de la casa de apuestas. Una vez completado este proceso, podrás disfrutar de un bono de bienvenida del 200% de tu primer depósito hasta US $2,000 en Chile, todas las ofertas, bono, código y realizar apuestas sin restricciones. Oferta de casino de Stake Stake ofrece un premio de $50.000 USD cada semana si juegas con los nuevos juegos de casino, específicamente 10. Tienes que mantener la primera posición en las tablas de clasificación de Lucky Wins o Big Wins después de una semana en cualquier juego clasificatorio para conseguir grandes premios. BIG WINS: El mayor pago en el juego de casino de esta semana. LUCKY WINS: Mayor multiplicador del juego esta semana. Esta oferta está diseñada específicamente para los amantes del casino en la plataforma de Stake, y según las opiniones de Stake permite ganar bonos adicionales mientras disfrutas de tus juegos favoritos. Juegos disponibles en el casino de Stake: Tragamonedas (slots) con variados temas y mecánicas. Juegos de mesa clásicos como blackjack, ruleta y baccarat. Poker en diferentes variantes. Juegos con crupier en vivo para una experiencia más inmersiva. Juegos exclusivos del sitio web. Ventajas del código bonus Stake Chile El código promocional Stake te permite acceder a un bono de bienvenida del 200% hasta $2,000 USD para deportes o casino, una oferta pensada para potenciar tu primera experiencia en la plataforma. Aquí tienes algunas de las ventajas más del código Stake: Bono de bienvenida por hasta $2,000 USD , ideal para duplicar tu primer depósito y comenzar con mayor saldo disponible. Acceso a promociones exclusivas que solo se activan utilizando el código durante el registro. Mejores condiciones para apuestas deportivas en eventos destacados a nivel nacional e internacional. Ofertas especiales para juegos de casino , incluyendo torneos, giros gratis y eventos temáticos. Plataforma adaptada al mercado latinoamericano , con bonificaciones pensadas para jugadores de países como Chile. Mayor valor en cada depósito gracias a un sistema de beneficios acumulativos. Promociones activas en Stake Además del código de registro Stake REDVIP, también puedes acceder a otra serie de promociones disponibles en la web hoy. Stake se destaca por ofrecer constantemente nuevas ofertas y bono tanto para la sección de casino como para apuestas deportivas. De entre todas, estas son las más interesantes. Stake sorteo semanal Por cada $1,000 USD que apuestes en la sección de deportivas o en el casino, conseguirás una entrada para el sorteo semanal que ofrece la web. Puedes ganar todas las entradas que quieras para tener más posibilidades de ganar, lo que convierte a esta promoción de bienvenida en una de las más atractivas de Stake. Específicamente son $75,000.00 USD repartidos entre 15 ganadores, convirtiéndose en uno de los bonos más generosos del mercado. Para participar en esta promoción, tienes que tomar en cuenta estos términos y condiciones del sitio web: El sorteo incluye apuestas de casino y deportivas El operador tiene todos los derechos reservados de anular, suspender, cancelar o modificar esta promoción cuando sea necesario Las participaciones se declararán nulas si se descubre que el participante ha cometido fraude, tergiversación, piratería informática o abuso en la plataforma Esta oferta es especialmente atractiva para los jugadores habituales que vayan a utilizar o apostar con frecuencia, a deportes como futbol, ya que cada depósito y apuesta aumenta tus posibilidades de ganar en el sorteo semanal de la plataforma. Stake vs Eddie La promoción se basa en que tienes que superar el multiplicador de Eddie para ganar grandes premios en tu apuesta. Se reparten $30.000 entre todos los ganadores, lo que convierte esta oferta en una de las más generosas dentro de la web de Stake. De igual forma, esta promoción tiene sus propios requisitos: Eddie elegirá un juego o un grupo de cuatro juegos de casino que se decidirán mediante una encuesta en la página oficial de Stake en Twitter. Si Eddie elige el juego, Stake organizará un concurso y recompensará para sus apuestas online a un jugador con un premio si acierta el juego. Si se realiza una encuesta, el juego que gane será el protagonista de la promoción de la semana siguiente. Una vez finalizada la encuesta o revelado el juego elegido, Stake publicará online en Twitter el nombre del ganador o del juego ganador. Esta promoción añade un elemento de competición directa que muchos jugadores de casino encuentran estimulante, diferenciándose de los típicos bonos de depósito que ofrecen otras casas de casinos, segun muchas de las opiniones de jugadores chilenos. Comparativa del código de Stake con otros códigos promocionales Revisa a continuación una comparativa del stake codigo de bienvenida en Chile frente a otras casas de apuestas , con sus respectivas ofertas de bienvenida y códigos exclusivos en 2026 : Operador Promoción Código promocional Stake 200 % hasta $2,000 USD con primer depósito REDVIP Betano $10000 gratis con tu primer depósito de $5000 REDVIP 1xBet 100 % gratis hasta 500000 CLP en primer depósito REDBONO Jugabet Hasta 1500000 CLP gratis + 41000 CLP en apuestas gratis REDVIP Código promocional Stake en Perú: “BOLATOP”, S/50 adicionales Si te encuentras en Perú, puedes aprovechar el código promocional Stake BOLATOP para recibir un bono de bienvenida exclusivo. Con este stake codigo de afiliado, los nuevos usuarios que hagan un primer depósito de S/50 obtendrán S/50 adicionales para jugar en la plataforma. Es una oferta ideal si estás pensando en comenzar a apostar y utilizar saldo extra. Este bono está disponible únicamente para residentes en Perú y puede se puede utilizar tanto en deportes como casino. Además del bono inicial, también podrás obtener beneficios adicionales como una apuesta gratis por el mismo monto, siempre que cumplas las condiciones establecidos. Si estás listo para jugar con ventaja en una plataforma confiable, es una excelente forma de comenzar a apostar y jugar en línea desde Perú. Código promocional Stake México: BOLAMAX, hasta $11,300 MXN En México, los nuevos usuarios de Stake pueden aprovechar el código promocional Stake BOLAMAX , que ofrece un 100% de bono sobre el primer depósito hasta $11,300 MXN . Con este extra, tendrás más oportunidades de apostar en tus deportes favoritos y en juegos de casino, desde Liga MX y NBA hasta la Champions League . El bono es solo para nuevos usuarios, con un depósito mínimo de $30 USD y un máximo de $11,300 MXN, y requiere apostar 30 veces el depósito más el bono antes de retirar ganancias. Además, la promoción incluye acceso a sorteos especiales y beneficios VIP, diseñados para mejorar tu experiencia de juego. Mercados de apuesta de Stake Chile Stake ofrece una amplia cobertura en apuestas deportivas en vivo centradas en las competiciones más seguidas por los usuarios en Chile. El operador destaca especialmente en eventos nacionales e internacionales y deportes en vivo que tienen gran audiencia en el país, como el fútbol chileno y torneos continentales. Es una de las casas de Chile con mejores opiniones de apostadores online Estas son algunas de las competiciones en las que puedes apostar y utilizar el codigo desde Chile con Stake usando la oferta de bienvenida de Stake: Primera División de Chile (Campeonato Nacional) Copa Chile de fútbol Supercopa de Chile de fútbol Copa Libertadores de fútbol Copa Sudamericana de fútbol Eliminatorias CONMEBOL rumbo al Mundial Amistosos y partidos de La Roja NBA Además del resultado final, puedes encontrar mercados como número de goles, hándicaps, córners, doble oportunidad, primer goleador, entre otros , y cuotas muy buenas para muchos deportes y apuestas en vivo. Esta variedad de opciones de deportes para apostar en torneos locales e internacionales convierte a Stake en una web ideal para los fanáticos del deporte chileno, y las opiniones lo valoran mucho. Tambien hay disponibles juegos de casinos para obtener ganancias. Eventos de fútbol a los que apostar con el código promocional Stake Si te gusta apostar a fútbol en Chile, ¡estos son los mejores eventos de la semana para usar el código promocional Stake! Torneo Fecha Partido Código promocional Stake Copa Sudamericana 14/04/26 São Paulo vs O’Higgins REDVIP Copa Sudamericana 14/04/26 Vasco da Gama vs Audax Italiano REDVIP Copa Sudamericana 14/04/26 Palestino vs Montevideo City Torque REDVIP Copa Libertadores 14/04/26 Universitario de Deportes vs Coquimbo Unido REDVIP Copa Sudamericana 15/04/26 Cruzeiro vs Universidad Católica REDVIP UEFA Champions League 15/04/26 Bayern de Múnich vs Real Madrid REDVIP Código cortesía de Stake Chile y vigente en el momento de su publicación Verificación de cuenta en Stake y aspectos legales en Chile Para aprovechar al máximo el código promocional Stake REDVIP , es necesario completar la verificación de tu cuenta . Este proceso desbloquea el bono de bienvenida del 100 % hasta $2,000 USD y asegura que tu información y fondos estén protegidos. Stake aplica el protocolo KYC (Know Your Customer) , utilizado en todas las casas de apuestas de prestigio. Para validarte deberás presentar tu cédula de identidad o pasaporte, un comprobante de domicilio y, en algunos casos, una selfie. Con esto podrás depositar, retirar y acceder sin limitaciones a promociones y juegos . En cuanto a la situación legal, en Chile aún no existe una regulación específica para apuestas online, aunque tampoco están prohibidas. Stake opera bajo licencia internacional, lo que garantiza un entorno confiable y transparente. En resumen, verificar tu cuenta no solo activa el codigo de registro stake REDVIP , sino que también asegura una experiencia segura y responsable en Stake. Métodos de pago disponibles en Stake Chile Para facilitar tanto los depósitos como los retiros, Stake ofrece diversos métodos de pago adaptados al mercado chileno para apostar y obtener el bono de bienvenida. Entre los métodos de pago disponibles en Stake Chile se encuentran: Transferencias bancarias locales Tarjetas de crédito y débito Monederos electrónicos Criptomonedas Nuestra reseña sobre Stake Creemos que el código promocional Stake tiene potencial para ser uno de los mejores en Chile , ya que ahora mismo ofrece un bono del 200% hasta 2,000 USD. Esta oferta destaca no solo por su generoso importe, sino porque forma parte de una estrategia más amplia con la que Stake busca consolidarse en el competitivo mercado chileno. Sin embargo, por el momento, la casa de apuestas se sigue adaptando al mercado. Aunque la plataforma ofrece una interfaz moderna y bien diseñada, los métodos de pago pueden resultar confusos para algunos usuarios nuevos. En particular, el uso predominante de criptomoneda s como opción de depósito y retiro puede ser una barrera para jugadores que prefieren métodos más tradicionales como tarjetas bancarias o transferencias. Lo que nos gustó Lo que no nos gustó – Atractivas promociones para los jugadores del operador. – Diversos mercados de apuestas. – Variedad de juegos de casino. – Métodos de pago confusos. – Streaming ni app disponible actualmente en Chile A pesar de estos aspectos negativos, el sitio Stake se posiciona como una plataforma prometedora en el mercado chileno de apuestas y casino online, algo que también se refleja en muchas opiniones positivas compartidas por los usuarios. Las numerosas promociones recurrentes y el programa VIP compensan la ausencia de un bono de bienvenida tradicional, especialmente para usuarios que planean usar la plataforma de manera regular. Estas características, sumadas al uso del codigo de registro Stake REDVIP para apostar con el bono, convierten a la plataforma en una opción cada vez más atractiva para quienes buscan una experiencia de juego completa y moderna. El futuro del código promocional Stake en Chile A medida que Stake continúa consolidando su presencia en el mercado chileno, es probable que veamos evolucionar sus ofertas, bono de bienvenida, codigo y otras promociones. La plataforma está en constante adaptación para satisfacer las expectativas de los usuarios locales. Entre los posibles desarrollos futuros de Stake en Chile podríamos encontrar: Desarrollo de una aplicación móvil dedicada Ampliación de los métodos de depósito y retiro disponibles Implementación de transmisiones en vivo para apuestas deportivas Nuevas promociones y ofertas exclusivas para usuarios chilenos Estos cambios potenciales harían que la experiencia en Stake fuera aún más completa, consolidando su posición como una de las principales plataformas de apuestas y casino en Chile. Preguntas frecuentes código de Stake + ¿Cuál es el código promocional Stake en Chile? El código promocional Stake es REDVIP en 2026 y te permite obtener un 200% de tu primera recarga por hasta US$2,000. + ¿Dónde usar el código promocional Stake? Inserta el código promocional Stake REDVIP en la casilla indicada en el registro tras indicar tus datos personales. + ¿Quién puede reclamar esta oferta de código promocional? Absolutamente todos los nuevos jugadores en la casas de apuestas pueden usar el código promocional para sus apuestas en deporte o casinos. + Parece que no puedo obtener el bono, ¿qué debo hacer? Puedes contactarte con el servicio al cliente del operador si no puedes acceder al bono, stake codigo de bienvenida o otras ofertas del operador. + ¿Stake ofrece juegos de casino además? Sí, además de su oferta en apuestas deportivas, Stake cuenta con una sección completa de juegos de casinos, donde los usuarios pueden disfrutar de tragamonedas, ruleta, blackjack y otros juegos populares. + ¿Cómo se comparan las cuotas y ganancias de Stake con otras casas de apuestas? Las cuotas del sitio Stake son competitivas frente a otros operadores de deportes o casinos de Chile. Esto se traduce en mejores ganancias potenciales.",
+        "article_id": "70a43b67e7eec5cc1992e9880a26da39",
+        "link": "https://www.fayerwayer.com/entretenimiento/2026/04/16/ian-mckellen-y-elijah-wood-regresan-a-lord-of-the-rings-con-nueva-pelicula/",
+        "title": "Ian McKellen y Elijah Wood regresan a “Lord of the Rings” con nueva película",
+        "description": "Ian McKellen y Elijah Wood regresan a Lord of the Rings en una nueva película que se estrenará en 2027.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "cine"
+        ],
         "creator": [
-            "guillermo maza"
+            "efe"
         ],
         "language": "spanish",
         "country": [
             "chile"
         ],
         "category": [
-            "business",
+            "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-15 15:30:56",
+        "pubDate": "2026-04-16 15:25:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:40:45",
-        "image_url": "https://media.redgol.cl/wp-content/uploads/sites/8/2025/06/17073559/codigo-promocional-stake-REDGOL-001-1200x740.jpg",
+        "fetched_at": "2026-04-17 00:17:44",
+        "image_url": "https://www.fayerwayer.com/resizer/v2/SHRVRTUW5NB2BBY4225CFMXY6I.jpg?auth=71f48bd8a52a18faffe48f9a73f24d66498c167af33e14f4a6948673fd2c493a&smart=true&width=1788&height=1920",
+        "video_url": null,
+        "source_id": "fayerwayer",
+        "source_name": "Fayerwayer",
+        "source_priority": 1020865,
+        "source_url": "https://www.fayerwayer.com",
+        "source_icon": "https://n.bytvi.com/fayerwayer.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "伊恩·麦凯伦和伊利亚·伍德带着新电影回归《指环王》",
+        "description_zh": "伊恩·麦凯伦和伊利亚·伍德在一部将于 2027 年上映的新电影中回归《指环王》。"
+    },
+    {
+        "article_id": "e5b69948dd276d0cd04754471e74d1d4",
+        "link": "https://www.zocalo.com.mx/nepotismo-quien-es-kin-yael-villafana-el-hijo-de-norona-que-tiene-sueldazo-en-la-cfe/",
+        "title": "¿Nepotismo? Quién es Kin Yael Villafaña, el hijo de Noroña que tiene ‘sueldazo’ en la CFE",
+        "description": "Una confrontación entre Luis Felipe Calderón y Noroña revivió el debate sobre el meteórico ascenso de Kin Yael Villafaña, hijo del senador de Morena",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 15:40:03",
+        "image_url": "https://www.zocalo.com.mx/wp-content/uploads/2026/04/Copia-de-hijo-norona.jpg",
+        "video_url": null,
+        "source_id": "zocalo",
+        "source_name": "Periódico Zócalo",
+        "source_priority": 208655,
+        "source_url": "http://zocalo.com.mx",
+        "source_icon": "https://n.bytvi.com/zocalo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "裙带关系？谁是诺罗尼亚 (Noroña) 的儿子金·雅埃尔·维拉法纳 (Kin Yael Villafaña)，他在 CFE 领取“高薪”",
+        "description_zh": "路易斯·费利佩·卡尔德隆 (Luis Felipe Calderón) 和诺罗尼亚 (Noroña) 之间的对抗再次引发了关于莫雷纳参议员之子金·雅埃尔·维拉法纳 (Kin Yael Villafaña) 迅速崛起的争论"
+    },
+    {
+        "article_id": "b1a1206a1770eef1881ee5ef8722b78d",
+        "link": "https://www.eluniversal.com.mx/mundo/exvicegobernador-de-virginia-justin-fairfax-mata-a-su-esposa-y-se-quita-la-vida-estaban-en-proceso-de-divorcio/",
+        "title": "Exvicegobernador de Virginia, Justin Fairfax, mata a su esposa y se quita la vida; estaban en proceso de divorcio",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "justin fairfax",
+            "agresión sexual",
+            "asesinato en virginia",
+            "exvicegobernador de virginia"
+        ],
+        "creator": [
+            "el universal"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 15:31:37",
+        "image_url": "https://www.eluniversal.com.mx/resizer/v2/P54JQ6RAVNDY3GFXVTGR4VYFTU.jpeg?auth=d2d457c0cc2658cb6a4da4235b8469f0071902ff71acac07982b3d7b2371180a&smart=true&width=1203&height=800",
+        "video_url": null,
+        "source_id": "eluniversal",
+        "source_name": "El Universal",
+        "source_priority": 8884,
+        "source_url": "https://www.eluniversal.com.mx",
+        "source_icon": "https://n.bytvi.com/eluniversal.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "前弗吉尼亚州副州长贾斯汀·费尔法克斯杀死了妻子并结束了自己的生命；他们正在办理离婚手续。",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "aef9f064f251266a44cc5b36162dc0a5",
+        "link": "https://www.pulzo.com/nacion/que-es-economia-circular-ocde-ibague-sera-sede-mesa-circular-PP5136761",
+        "title": "¿Qué es la economía circular de la OCDE? Ibagué tendrá evento clave del 21 al 23 de abril",
+        "description": "Ibagué fue elegida por la OCDE como sede de su Mesa de Economía Circular, un evento internacional que reunirá líderes globales en abril.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "medio ambiente",
+            "ocde",
+            "ibagué"
+        ],
+        "creator": [
+            "redacción nación"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "domestic"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 15:36:57",
+        "image_url": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5136761-h-o.webp",
+        "video_url": null,
+        "source_id": "pulzo",
+        "source_name": "Pulzo",
+        "source_priority": 81875,
+        "source_url": "https://www.pulzo.com",
+        "source_icon": "https://n.bytvi.com/pulzo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "什么是经合组织循环经济？伊瓦格将于 4 月 21 日至 23 日举办一场重要活动",
+        "description_zh": "伊巴格被经合组织选为循环经济圆桌会议的举办地，这是一项国际活动，全球领导人将于四月齐聚一堂。"
+    },
+    {
+        "article_id": "6d480ee0c15941ce9b913dbaa9e09a1a",
+        "link": "https://redgol.cl/chile/trabajo-con-mourinho-en-el-chelsea-y-duro-muy-poco-en-el-futbol-chileno-pidieron-poner-de-titular-un-jugador-no-apto",
+        "title": "Trabajó con Mourinho en el Chelsea y duró muy poco en el fútbol chileno: “Pidieron poner de titular un jugador no apto”",
+        "description": "Jorge Alvial ratificó su decisión de salir de Deportes Linares y reveló las presiones de un inversor que lo llevaron a irse con viento fresco. ¡Apunta a un capitalista del proyecto! Alguna vez, el delantero argentino Franco di Santo sorprendió a varios en el Chelsea cuando saltó desde el fútbol chileno a la Premier League. Una ruta que un experimentado chileno también vivió. Llegó a los Blues, donde coincidió con José Mourinho y Carlo Ancelotti . Dos entrenadores de élite. También trabajó para el Manchester United, un laureado club inglés que para muchos es el más poderoso del mundo. Se trata de Jorge Alvial , quien hace poco tiempo anunció su vuelta al balompié nacional. Quedó ligado a Deportes Linares. En febrero de este año, Alvial participó de la compra del Depo. Pero esa aventura duró menos de dos meses. “Desafortunadamente me encontré con cosas que no estaba de acuerdo. Esa es la verdad”, le contó el avezado ojeador chileno a RedGol para revelar los motivos de su salida. Jorge Alvial junto a Alphonso Davies, lateral zurdo del Bayern Múnich. (Archivo). “No me caso con nadie ese aspecto. Que le dé una oportunidad a un joven de probarse o entrenar. Sí, eso siempre. Es lo que más he gozado en mi vida: darles oportunidades a los chicos. Pero cuando te piden que pongan a un jugador que no está listo para jugar 60 minutos y de un principio, no. De ninguna manera” , aseguró. Eso derivó en la salida del DT europeo, Nikolaos Issaris . ¿Cómo fue la historia? ¿Hay un empresario indio implicado? El indio no tiene nada que ver. Más que nada era el segundo inversionista que traje yo. El primero era el empresario (Nick Huoseh). Representa en este momento a Alfonso Téllez. El hijo de él (Adam Huoseh) puso presión para jugar. El indio llegó un poquito después. Iba a ser socio, le expliqué lo que estaba pensando. Que yo me iba, pero prefería que se quedara. Él respetó ese deseo y se quedó para hacer un trabajo ahí. ¿Guillermo Lee tiene algo que ver con esto? Sinceramente no sé. Eso se lo debería preguntar a Mariela (Vásquez), que es la presidenta. Ella está muy cercana a él. Jorge Alvial, el ex veedor del Chelsea que se despide con retorno del fútbol chileno A este avezado ojeador de jugadores que pasó por el Chelsea, el Manchester United y tuvo una cortísima experiencia en una plana mayor del fútbol chileno, aunque en la segunda división. Es decir, la tercera categoría, donde por el momento milita Deportes Linares. ¿Qué hará después de esto? Uno de mis sueños es poder juntar estos 20 años en el nivel más alto del mundo para ayudar a Chile. Veo muy, muy mal lo que está pasando en el fútbol. Si pudiera ayudar en algo, feliz. Fui a Linares, no fue por un sueldo. Gracias a dios estoy muy bien. Tengo intenciones de ayudar, nada más. Jorge Alvial tiene decidido salir de Deportes Linares. (Foto: El Heraldo). ¿Va a quedarse en Chile? Volveré a Estados Unidos y vendré a Santiago. Para estar seguro. Me encantaría volver a Chile, pero uno más viejo se pone más sentimental. En Estados Unidos tengo a mis nietos y quiero aprovechar de estar con ellos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "jorge alvial",
+            "josé mourinho",
+            "carlo ancelotti",
+            "deportes linares",
+            "manchester united",
+            "chelsea"
+        ],
+        "creator": [
+            "jorge rubio"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 15:39:33",
+        "image_url": "https://media.redgol.cl/wp-content/uploads/sites/8/2026/04/16105215/jorge-alvial-chelsea-pulisic-mourinho-deportes-linares-segunda-division-e1776351169155-1200x740.jpg",
         "video_url": null,
         "source_id": "redgol_cl",
         "source_name": "Red Gol",
@@ -513,239 +699,127 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "2026 年 4 月质押 REDVIP 促销代码",
-        "description_zh": "利用今日股份的 REDVIP 促销代码，领取首笔存款的 200%，最高可达 2,000 美元。股份促销代码是什么？股份促销代码是 REDVIP。通过注册，您将在首次存款时获得 200% 的奖金，您可以将其用于两笔存款"
+        "title_zh": "他在切尔西与穆里尼奥共事，但在智利足坛却没能坚持多久：“他们要求首发一名不适合的球员”",
+        "description_zh": "豪尔赫·阿尔维尔（Jorge Alvial）批准了他离开利纳雷斯体育俱乐部的决定，并透露了来自投资者的压力，导致他带着清新的心情离开。瞄准项目资本家！有一次，阿根廷前锋弗兰科·迪·桑托从足球场上跳下，令切尔西队的许多人大吃一惊。"
     },
     {
-        "article_id": "af8653cc20ba654a7e557ef38d5ea97e",
-        "link": "https://www.elheraldo.co/judicial/2026/04/15/fiscalia-destapa-red-que-habria-direccionado-contratos-de-regalias-por-496000-millones/",
-        "title": "Fiscalía destapa red que habría direccionado contratos de regalías por $496.000 millones",
-        "description": "Nueve personas fueron capturadas en operativos realizados en Barranquilla, Arauca y Cantagallo.",
+        "article_id": "81bc1fa8736ee8faac8799d30213864a",
+        "link": "https://www.eluniversal.com.mx/nacion/canasta-basica-se-mantiene-por-debajo-de-la-meta-afirma-profeco-reporta-que-gasolina-en-mexico-esta-entre-las-mas-baratas/",
+        "title": "Canasta básica se mantiene por debajo de la meta, afirma Profeco; reporta que gasolina en México está \"entre las más baratas\"",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cti",
-            "atlantico",
-            "fiscalia",
-            "corrupcion",
-            "investigacion",
-            "barranquilla"
+            "ivan escalante",
+            "profeco",
+            "precios baratos",
+            "precio de la canasta basica",
+            "costo de la gasolina"
         ],
         "creator": [
-            "redacción judiciales"
+            "el universal"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:26",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 15:31:37",
+        "image_url": "https://www.eluniversal.com.mx/resizer/v2/VQJYAM47GZD2ZJ7TI5M3IX4JWU.jpg?auth=d6048c2183cbff7720d8928870a6a1d293619297e3d558a7297dce5eff7ca652&smart=true&width=1201&height=740",
+        "video_url": null,
+        "source_id": "eluniversal",
+        "source_name": "El Universal",
+        "source_priority": 8884,
+        "source_url": "https://www.eluniversal.com.mx",
+        "source_icon": "https://n.bytvi.com/eluniversal.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Profeco 表示，基本篮子仍低于目标；报道称墨西哥的汽油是“最便宜的”",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "69c413be431d7fa2c9eaa01f7e4b7da2",
+        "link": "https://www.levelup.com/noticia/experto-cree-que-el-futuro-de-xbox-game-pass-esta-en-los-comerciales-y-en-un-plan-muy-economico-xbox-empezara-a-depender-mucho-mas-de-la-publicidad/",
+        "title": "Experto cree que el futuro de Xbox Game Pass está en los comerciales y en un plan muy económico: “Xbox empezará a depender mucho más de la publicidad”",
+        "description": "La mayoría de la comunidad está de acuerdo con algo: Xbox Game Pass ahora es demasiado caro. La reestructuración del servicio trajo cambios que afectaron nuestros bolsillos en una época donde los videojuegos son un pasatiempo cada vez más costoso. Reportes sugieren que Microsoft prepara ajustes al servicio para equilibrar su oferta de costo-beneficio, pero sus planes aún son un misterio. Se dice que Asha Sharma también está inconforme con los precios actuales de la plataforma. Así pues, la nueva jefa de Microsoft Gaming podría hacer cambios importantes a Xbox Game Pass en los próximos meses. Un experto de la industria cree que las mejores alternativas son apostar por una suscripción con comerciales y un plan mucho más económico, que esté al alcance de cualquier cartera. Joost van Dreunen , investigador y académico, considera que Xbox Game Pass debe recurrir a la publicidad para ofrecer una oferta más accesible a sus usuarios. Desde su perspectiva, es cuestión de tiempo para que los videojuegos apuesten de lleno por los comerciales, tal como otras industrias lo han hecho. Sin embargo, cree que Microsoft no podrá resolver de raíz el gran problema de su servicio, ni siquiera con cambios importantes. Video relacionado: Xbox está en crisis, pero Project Helix podría salvarlo todo https://www.dailymotion.com/video/x9z5skq Xbox Game Pass debe inclinarse por la publicidad y planes más baratos Microsoft se enfrenta a un gran dilema. Por un lado, quiere aumentar de forma exponencial el número de usuarios de Xbox Game Pass, pero a la vez quiere hacerlo más rentable con aumentos de precio. Los ajustes recientes generaron una oleada de desuscripciones y bastante malestar entre los jugadores, quienes tienen la esperanza de que Asha Sharma ofrezca planes de suscripción más económicos, aunque eso implique recibir menos contenido. Joost van Dreunen concuerda en que Microsoft debe ofrecer un plan más barato y accesible para los jugadores. Cree que un plan de $6 USD (poco más de $100 MXN) le daría mucha más flexibilidad a la plataforma y le ayudaría a llamar la atención de más personas que ya disfrutan de los videojuegos en su tiempo libre. El experto ve en la publicidad una posible respuesta a parte de los problemas actuales de Xbox Game Pass. Señaló que la industria de los videojuegos se ha \"resistido a esta lógica durante más tiempo que cualquier otro medio\", pero considera que las cosas cambiarán tarde o temprano. Desde su perspectiva, la industria dejará de lado su \"orgullo cultural\" para apostar por la publicidad en los servicios de suscripción. Los comerciales podrían ser el futuro del servicio de suscripción Van Dreunen añadió que el servicio de Microsoft necesita diversificar su audiencia , pues los jugadores dispuestos a pagar $30 USD al mes no son suficientes para hacerlo sostenible. Una posible alternativa sería apostar por las millones de personas que están dispuestas a consumir contenido gratis a cambio de ver publicidad. Xbox \"empezará a depender mucho más de la publicidad\" , afirmó el analista sobre el futuro del servicio. Cree que Sharma tiene la experiencia necesaria para llevar a Xbox Game Pass a un modelo basado en los comerciales. \"Las plataformas de streaming se resistieron a la publicidad hasta que dejaron de hacerlo. Las aplicaciones de transporte compartido la incorporaron. Los televisores inteligentes construyeron modelos de negocio completos en torno a ella. El patrón es tan consistente que podría considerarse una ley: los anuncios acaban llegando a todas las superficies accesibles\". Xbox Game Pass y el problema de su modelo de negocios Joost van Dreunen piensa que Microsoft tiene varias alternativas para hacer Xbox Game Pass más accesible y contentar a sus usuarios. Sin embargo, considera que incluir publicidad y ofrecer un plan muy económico no solucionarán los problemas de fondo de la plataforma. Explicó que los servicios de videojuegos cambian los hábitos de consumo de las personas, pero no expanden el mercado. Servicios como Xbox Game Pass y PlayStation Plus ayudan a las acompañáis a retener jugadores, pero su impacto al momento de conseguir nuevos clientes es mucho menor. Desde esta perspectiva, el reto para Microsoft es complicado, pues sus ambiciones iniciales eran que la plataforma tuviera 100 millones de suscripciones para 2030 . Actualmente, el servicio ronda entre 30 y 35 millones de usuarios, por lo que está muy lejos de cumplir con sus metas de crecimiento. \"Las investigaciones sobre los modelos de suscripción en la industria de las consolas han revelado que, si bien las suscripciones modifican los hábitos de compra (los suscriptores adquieren menos títulos individuales), no expanden significativamente el mercado general. Añadir más juegos a un catálogo no atrae a jugadores que antes no jugaban . Las suscripciones son excelentes para la retención de clientes, pero su rendimiento como motor de crecimiento es mucho peor\". En esta página están todas las noticias relacionadas con Xbox Game Pass. Video relacionado: México dice adiós a Xbox; cómo Microsoft perdió su territorio más fiel https://www.dailymotion.com/video/xa27l64 Fuente The post Experto cree que el futuro de Xbox Game Pass está en los comerciales y en un plan muy económico: “Xbox empezará a depender mucho más de la publicidad” appeared first on LevelUp .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "xbox series x|s",
+            "xbox game pass",
+            "xbox",
+            "pcgaming",
+            "xbox one",
+            "pc game pass"
+        ],
+        "creator": [
+            "daniel laguna"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-16 15:25:19",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-16 15:40:00",
+        "image_url": "https://i0.wp.com/levelup.buscafs.com/2026/04/Xbox-Game-Pass-comerciales.jpg?fit=1280,960&quality=75&strip=all",
+        "video_url": null,
+        "source_id": "levelup",
+        "source_name": "Levelup",
+        "source_priority": 191312,
+        "source_url": "https://www.levelup.com",
+        "source_icon": "https://n.bytvi.com/levelup.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "专家认为Xbox Game Pass的未来在于广告和一个非常经济的计划：“Xbox将开始更多地依赖广告”",
+        "description_zh": "大多数社区都同意一件事：Xbox Game Pass 现在太贵了。在电子游戏成为一种越来越昂贵的爱好的时代，服务的重组带来了影响我们口袋的变化。报道称微软正在准备调整"
+    },
+    {
+        "article_id": "43f0a60548805224d35273886f21a7fb",
+        "link": "https://diario.mx/internacional/2026/apr/16/arzobispa-de-canterbury-respalda-al-papa-por-la-paz-en-iran-1114249.html",
+        "title": "Arzobispa de Canterbury respalda al Papa por la paz en Irán",
+        "description": "“Mientras personas inocentes son asesinadas y desplazadas, familias quedan destrozadas y futuros son destruidos, el costo humano de la guerra es incalculable”, declaró Mullally en un comunicado.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "associated press"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
         ],
         "category": [
             "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-15 15:30:43",
+        "pubDate": "2026-04-16 15:25:15",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:37:11",
-        "image_url": "https://www.elheraldo.co/resizer/v2/WRVIIGC3F5DVVNFVER3XBU6VOU.jpg?auth=d0b919c2a3b9a87d8988fe7052de2af984e3bc346c42940e2d03240a42ea9a82&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-04-16 17:03:34",
+        "image_url": "https://diario.mx/core/dmx/assets/images/2026/04/16/dimsapnews-cKiwuXpCS.jpg",
         "video_url": null,
-        "source_id": "elheraldo",
-        "source_name": "Elheraldo",
-        "source_priority": 38752,
-        "source_url": "https://www.elheraldo.co",
-        "source_icon": "https://n.bytvi.com/elheraldo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "检察官办公室发现了一个曾指导 4,960 亿美元特许权使用费合同的网络",
-        "description_zh": "在巴兰基亚、阿劳卡和坎塔加洛开展的行动中，有 9 人被抓获。"
-    },
-    {
-        "article_id": "09b2c88f3e4cd2c3b1c212ec9ca380af",
-        "link": "https://www.adslzone.net/noticias/internet/cierre-tienda-online-bloqueos-laliga-tebas/",
-        "title": "Esta tienda online afirma haber cerrado por los bloqueos de los operadores ordenados por LaLiga",
-        "description": "LaLiga lleva mucho tiempo ya intentando frenar la piratería, con métodos que para nada parecen lógicos y proporcionados. Lo peor es que, por culpa de estos procesos de bloqueos , son muchos los pequeños comercios españoles que se están viendo perjudicados. Durante los últimos años, el organismo presidido por Javier Tebas ha sacado pecho de sus herramientas tecnológicas para tumbar emisiones ilegales de partidos. El problema es el daño colateral que está causando, ante el que no tiene otra respuesta que hacer oídos sordos. En ADSLZone llevamos unos meses informando de los peligros que supone otorgar a una entidad privada el poder de ordenar bloqueos dinámicos de direcciones IP a las operadoras de internet sin una supervisión judicial exhaustiva caso por caso. Cuando disparas con cañones para matar moscas, terminas arrasando con todo a tu paso, y eso es justo lo que está pasando. Tebas, cerrando negocios El último ejemplo de esta desproporción lo acaba de protagonizar Brasi , una pequeña marca española de lencería nacida en 2023, que se ha visto obligada a anunciar el cese de su actividad a partir del 30 de diciembre tras quedar su web inutilizable durante los bloqueos de LaLiga. Brasi, la web que se ve obligada a cerrar por los bloqueos de LaLiga. Captura de ADSLZone Para entender el atropello, basta con leer el desolador comunicado que el fundador de la marca ha publicado en la web oficial de la misma. Según explica, la decisión de pausar el negocio llega tras una situación incomprensible: «Una empresa que factura más de cinco mil millones de euros al año ha logrado en los tribunales el derecho de bloquear nuestra web durante las retransmisiones de fútbol nacional». ¿Cómo es posible que una modesta tienda de ropa interior acabe bloqueada por LaLiga? La respuesta está en la ignorancia con la que se aplican estos bloqueos, y es que no es el único caso en el que ha pasado esto. Lo más grave, en las últimas semanas, un hijo que no podía ver la ubicación de su padre con demencia a través del dispositivo GPS que lleva, porque también lo había bloqueado Tebas. Pero no se queda ahí, y es que incluso se ha creado una plataforma de Afectados por LaLiga , en la que se mencionan los casi 2 millones de euros que muchos comercios han perdido con estos bloqueos. Pérdidas totales estimadas. Captura de ADSLZone En sus primeros meses de vida, la web de Brasi sufrió constantes ataques de denegación de servicio (DDoS) procedentes de Rusia y Estados Unidos, los cuales tumbaban sus servidores. Para protegerse, su creador hizo lo que cualquier administrador de sistemas recomienda: contratar Cloudflare , el escudo de seguridad y red de distribución de contenidos más utilizado del planeta.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "iván dávila"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:30:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 16:40:11",
-        "image_url": "https://www.adslzone.net/app/uploads-adslzone.net/2026/03/Tebas-LaLiga.jpg",
-        "video_url": null,
-        "source_id": "adslzone",
-        "source_name": "Adslzone",
-        "source_priority": 120666,
-        "source_url": "https://www.adslzone.net",
-        "source_icon": "https://n.bytvi.com/adslzone.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "这家网上商店声称因西甲联盟下令运营商封锁而关闭",
-        "description_zh": "西甲长期以来一直在努力阻止盗版，其方法似乎根本不合逻辑或不相称。最糟糕的是，由于这些封锁过程，许多西班牙小企业受到了伤害。近几年来，该组织"
-    },
-    {
-        "article_id": "8c765f23a289481c9449ff9653d53b47",
-        "link": "https://www.elciudadano.com/reels/%F0%9F%94%B4-mario-marcel-se-refiere-al-uso-del-mepco-era-un-problema-economico-o-simplemente-ideologico-%C2%B7-reel/04/15/",
-        "title": "🔴 Mario Marcel se refiere al uso del MEPCO. ¿Era un problema económico... o simplemente ideológico? · [REEL]",
-        "description": "El Ciudadano El Ministro de Hacienda, Mario Marcel, aborda el uso del Mecanismo de Estabilización de Precios de los Combustibles (MEPCO) para analizar si los desafíos enfrentados fueron de naturaleza económica o ideológica. Un debate que cuestiona las verdaderas razones detrás de las decisiones políticas y su impacto en la gestión económica del país. La entrada 🔴 Mario Marcel se refiere al uso del MEPCO. ¿Era un problema económico... o simplemente ideológico? · [REEL] se publicó primero en El Ciudadano .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "cristian"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "health"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-04-15 15:30:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:45:06",
-        "image_url": "https://www.elciudadano.com/wp-content/uploads/2026/04/dcf18062-85f1-43c1-b5ee-c5f7f70098ad.jpg",
-        "video_url": "https://iframe.mediadelivery.net/embed/291718/dcf18062-85f1-43c1-b5ee-c5f7f70098ad?autoplay=true&loop=true&muted=true&preload=true&responsive=true",
-        "source_id": "elciudadano",
-        "source_name": "El Ciudadano",
-        "source_priority": 583045,
-        "source_url": "https://www.elciudadano.com",
-        "source_icon": "https://n.bytvi.com/elciudadano.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "🔴Mario Marcel 提到了 MEPCO 的使用。这是一个经济问题……还是仅仅是意识形态问题？ · [卷轴]",
-        "description_zh": "El Ciudadano 财政部长马里奥·马塞尔 (Mario Marcel) 谈到如何使用燃料价格稳定机制 (MEPCO) 来分析所面临的挑战本质上是经济挑战还是意识形态挑战。一场质疑决策背后真正原因的辩论"
-    },
-    {
-        "article_id": "5d0b6a8e38e008fcd1b17de2d97e50b5",
-        "link": "https://mx.investing.com/news/stock-market-news/las-bolsas-de-valores-de-dinamarca-cerraron-con-subidas-el-omx-copenhagen-20-gano-un-084-3564899",
-        "title": "Las bolsas de valores de Dinamarca cerraron con subidas; el OMX Copenhagen 20 ganó un 0.84%",
-        "description": "Las bolsas de valores de Dinamarca cerraron con subidas; el OMX Copenhagen 20 ganó un 0.84%",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "investing.com"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:30:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 16:02:45",
-        "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM280Z9_L.jpg",
-        "video_url": null,
-        "source_id": "investing_mx",
-        "source_name": "Investing México",
-        "source_priority": 1205,
-        "source_url": "https://mx.investing.com",
-        "source_icon": "https://n.bytvi.com/investing_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "丹麦股市收高； OMX哥本哈根20指数上涨0.84%",
-        "description_zh": "丹麦股市收高； OMX哥本哈根20指数上涨0.84%"
-    },
-    {
-        "article_id": "1b1c56c447f841de20aef1fa10f86002",
-        "link": "https://www.eldesmarque.com/futbol/champions-league/20260415/real-madrid-apercibidos-hipotetica-semifinales_18_018885300.html",
-        "title": "Los cinco apercibidos titulares del Real Madrid que podrían perderse una hipotética ida de semifinales",
-        "description": "El Real Madrid deberá tener cuidado con las tarjetas amarillas Arbeloa responde a Kompany, al sustituto de Tchouaméni y a la baza del Madrid: \"Con el escudo o sobre él\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "diego páez de roque"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:30:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 16:49:39",
-        "image_url": "https://album.mediaset.es/eimg/2026/04/15/jude-bellingham-mbappe-y-vinicius-en-un-partido-del-real-madrid-16-9-aspect-ratio-default-1039382_da39.jpg?w=1024",
-        "video_url": null,
-        "source_id": "eldesmarque",
-        "source_name": "Eldesmarque",
-        "source_priority": 44851,
-        "source_url": "https://motor.eldesmarque.com",
-        "source_icon": "https://n.bytvi.com/eldesmarque.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "可能错过假想的半决赛首回合的五名皇家马德里首发球员",
-        "description_zh": "皇马必须小心黄牌，阿韦洛亚回应孔帕尼、查梅尼的替补和皇马的伎俩：“有盾牌还是在盾牌上”"
-    },
-    {
-        "article_id": "97c99159d10205141f06215826102d63",
-        "link": "https://www.diariocordoba.com/sucesos-tribunales/2026/04/15/espanol-critico-atacado-tiburon-durante-129141237.html",
-        "title": "Un español, en estado crítico tras ser atacado por un tiburón durante su luna de miel en las Islas Maldivas",
-        "description": "La luna de miel de una pareja de españoles, una castellonense y un alcantino, se convirtió hace pocos días en una tragedia en las Islas Maldivas. Durante su estancia, un tiburón atacó al hombre de una manera tan brutal que en estos momentos se debate entre la vida y la muerte en un hospital de ese archipiélago del océano Índico.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tiburón",
-            "ataques"
-        ],
-        "creator": [
-            "pablo ramón ochoa"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:30:31",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:37:12",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bda918ca-5058-4348-9979-9f1c7cf29804_16-9-aspect-ratio_default_0_x800y298.jpg",
-        "video_url": null,
-        "source_id": "diariocordoba",
-        "source_name": "Cordoba",
-        "source_priority": 48787,
-        "source_url": "https://www.diariocordoba.com",
-        "source_icon": "https://n.bytvi.com/diariocordoba.png",
+        "source_id": "diario",
+        "source_name": "El Diario",
+        "source_priority": 14955,
+        "source_url": "https://diario.mx",
+        "source_icon": "https://n.bytvi.com/diario.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -753,47 +827,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "一名西班牙人在马尔代夫度蜜月时遭到鲨鱼袭击，情况危急",
-        "description_zh": "一对西班牙夫妇（一名来自卡斯特利翁的女子和一名来自阿尔坎塔拉的男子）的蜜月几天前在马尔代夫变成了一场悲剧。在他逗留期间，一条鲨鱼以如此残酷的方式袭击了该男子，导致他目前在医院里处于生死攸关的境地。"
-    },
-    {
-        "article_id": "62ee3fc4a08180739b0b0bf375a0f224",
-        "link": "https://actualidad.rt.com/actualidad/599366-israel-fustigar-pais-otan",
-        "title": "\"No los queremos cerca\": Israel fustiga a un país de la OTAN",
-        "description": "\"No son una influencia positiva, particularmente respecto el Líbano\", aseveró Yechiel Leiter.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "rt en español"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle",
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-15 15:30:22",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-15 15:34:33",
-        "image_url": "https://mfes.b37m.ru/actualidad/public_images/2026.04/article/69df503359bf5b47c46d6da7.jpg",
-        "video_url": null,
-        "source_id": "rt_mx",
-        "source_name": "Rt",
-        "source_priority": 19092,
-        "source_url": "https://actualidad.rt.com",
-        "source_icon": "https://n.bytvi.com/rt_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“我们不希望他们在身边”：以色列猛烈抨击北约国家",
-        "description_zh": "“它们不会产生积极影响，特别是对于黎巴嫩而言，”叶切尔·莱特说。"
+        "title_zh": "坎特伯雷大主教支持教宗促进伊朗和平",
+        "description_zh": "穆拉利在一份声明中说：“无辜者被杀害、流离失所、家庭破裂、未来被毁，战争造成的人员损失是无法估量的。”"
     }
 ]
