@@ -1,96 +1,19 @@
 [
     {
-        "article_id": "22a217f0a53b1df580495024d1f2e185",
-        "link": "https://www.sonoticias.com.br/policia/empresario-denuncia-ameacas-de-ex-funcionario-em-sorriso/",
-        "title": "Empresário denuncia ameaças de ex-funcionário em Sorriso",
-        "description": "O morador do bairro Morada do Sol, de 60 anos, procurou a Polícia Civil no último sábado (18) para denunciar ter sido ameaçado de morte por um ex-funcionário de sua empresa, de 58, que teria abordado a vítima nas proximidades da residência de outro colaborador, quando este o levava para casa. Segundo o boletim de [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "wellinton cunha"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-20 15:27:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:48:47",
-        "image_url": "https://www.sonoticias.com.br/wp-content/uploads/2024/02/Delegacia-de-Sorriso-19-fevereiro-2024-So-NoticiasLucas-Torres.jpg",
-        "video_url": null,
-        "source_id": "sonoticias",
-        "source_name": "So Noticias",
-        "source_priority": 5011382,
-        "source_url": "https://www.sonoticias.com.br",
-        "source_icon": "https://n.bytvi.com/sonoticias.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "商人谴责索里索前雇员的威胁",
-        "description_zh": "Morada do Sol社区的60岁居民上周六（18日）联系了民警，报告说他受到了公司一名58岁前雇员的死亡威胁，这名前雇员在送受害人回家时在另一名雇员家附近接近了受害人。"
-    },
-    {
-        "article_id": "cbb9fe62652483c68d9cd107dc2fb549",
-        "link": "https://www.elcordillerano.com.ar/noticias/2026/04/20/234684-bicharracosaurus-hallaron-una-nueva-especie-de-dinosaurio-en-chubut",
-        "title": "Bicharracosaurus: hallaron una nueva especie de dinosaurio en Chubut",
-        "description": "Los fósiles fueron hallados en la formación Cañadón Calcáreo, un sitio de gran importancia geológica en la Patagonia.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "diario el cordillerano"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-20 15:26:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:38:46",
-        "image_url": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/04/elcordillerano/images/02/56/07/2560790_d4a5b2305c05eaeed65bbd5925c8f19a42c713bf648e23626d05dd0265c8695e/md.webp",
-        "video_url": null,
-        "source_id": "elcordillerano",
-        "source_name": "Diario El Cordillerano",
-        "source_priority": 79460,
-        "source_url": "https://www.elcordillerano.com.ar",
-        "source_icon": "https://n.bytvi.com/elcordillerano.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Bicharracosaurus：在丘布特省发现了一种新的恐龙物种",
-        "description_zh": "这些化石是在 Cañadón Calcáreo 地层中发现的，该地层是巴塔哥尼亚具有重要地质意义的地点。"
-    },
-    {
-        "article_id": "4021f25dcd5379fce8bf49963f51273e",
-        "link": "https://www.lanacion.com.ar/espectaculos/eduardo-blanco-companero-de-brandoni-en-parque-lezama-fue-un-actor-enorme-un-tipo-apasionado-nid20042026/",
-        "title": "Eduardo Blanco, compañero de Brandoni en Parque Lezama: “Fue un actor enorme, un tipo apasionado”",
-        "description": "“Siempre me decía cómo uno tiene que dar todo cada noche porque la gente hace un acto de fe cuando compra la entrada sin haber visto las obras, y que no hay que traicionar esa fe”, rememoró el actor",
+        "article_id": "1a9c52f12a98b4455dc859972992a9f4",
+        "link": "https://launion.com.ar/espectaculos/el-terrible-accidente-domestico-que-llevo-ian-lucas-urgencia-un-hospital-n5441856",
+        "title": "El terrible accidente doméstico que llevó Ian Lucas de urgencia a un hospital",
+        "description": "Ian Lucas tuvo que ser trasladado de urgencia luego de sufrir un accidente. Luego, el ganador de MasterChef Celebrity contó todo lo sucedido. Qué dijo Ian Lucas sobre si le daría una segunda oportunidad a Evangelina Anderson",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cine argentino",
-            "teatro",
-            "luis brandoni",
-            "eduardo blanco-ia"
+            "evangelina anderson",
+            "masterchef celebrity",
+            "ian lucas",
+            "telefe",
+            "show"
         ],
         "creator": [
-            "la nacion"
+            "diario la unión"
         ],
         "language": "spanish",
         "country": [
@@ -101,16 +24,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-20 15:26:55",
+        "pubDate": "2026-04-21 15:25:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:30:53",
-        "image_url": "https://resizer.glanacion.com/resizer/v2/72HXNESLHZEPTP3VZ3J5OLCVUU.jpg?auth=f2a4f257465a537e2fb393d677f2cf33deabbc676fcfdf597f1d6c83cc47f8bd&smart=true&width=2000&height=1333",
+        "fetched_at": "2026-04-21 15:42:57",
+        "image_url": "https://media.launion.com.ar/p/1fdc109d4310e90aeb4b23cc6b4a8f4d/adjuntos/379/imagenes/100/136/0100136934/1200x675/smart/k1rxsnq2.jpg",
         "video_url": null,
-        "source_id": "lanacion",
-        "source_name": "La Nacion",
-        "source_priority": 7204,
-        "source_url": "https://www.lanacion.com.ar",
-        "source_icon": "https://n.bytvi.com/lanacion.png",
+        "source_id": "launion",
+        "source_name": "Inicio",
+        "source_priority": 418574,
+        "source_url": "https://www.launion.com.ar",
+        "source_icon": "https://n.bytvi.com/launion.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -118,112 +41,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "布兰多尼在莱萨马公园的搭档爱德华多·布兰科：“他是一位伟大的演员，一个充满激情的人”",
-        "description_zh": "“他总是告诉我，一个人每天晚上必须付出一切，因为人们在没有看过戏剧的情况下买票时就采取了一种信仰行为，而人们不应该背叛这种信仰，”这位演员回忆道。"
+        "title_zh": "可怕的家庭事故将伊恩·卢卡斯送往医院",
+        "description_zh": "伊恩·卢卡斯 (Ian Lucas) 遭遇事故后不得不被紧急送往医院。然后，《厨艺大师》名人奖得主讲述了发生的一切。伊恩·卢卡斯关于给伊万杰琳娜·安德森第二次机会的评价"
     },
     {
-        "article_id": "b9be6fa7d18b540ee2ac7f4f09a8a832",
-        "link": "https://valor.globo.com/brasil/noticia/2026/04/20/exclusivo-bndes-capta-r-41-bi-com-alemanha-para-fundo-clima-e-projetos-verdes-no-brasil.ghtml",
-        "title": "Exclusivo: BNDES capta R$ 4,1 bi com Alemanha para Fundo Clima e projetos verdes no Brasil",
-        "description": "O Banco Nacional de Desenvolvimento Econômico e So...",
+        "article_id": "69ec011d2e5b23dcbe3834901769154a",
+        "link": "https://www.mdzol.com/policiales/mi-papa-estaba-perdido-tiempo-y-espacio-el-crudo-relato-gianinna-maradona-n1497444",
+        "title": "\"Mi papá estaba perdido en tiempo y espacio\": el crudo relato de Gianinna Maradona",
+        "description": "El debate está a cargo del Tribunal Oral en lo Criminal N°7 de San Isidro. Siete de los ocho acusados de \"homicidio simple con dolo eventual” serán juzgados.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
+        "keywords": [
+            "leopoldo luque",
+            "juicio",
+            "diego maradona",
+            "muerte"
         ],
-        "category": [
-            "business",
-            "top"
+        "creator": [
+            "mdzol"
         ],
-        "datatype": "news",
-        "pubDate": "2026-04-20 15:26:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 16:02:06",
-        "image_url": "https://s2-valor.glbimg.com/srnN9XKMsudeR-vlJSCoZ5O1l-0=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/Z/9/blDDEyQL6BQ167BTZoBw/e2782f19-c06d-43fe-b2a3-76158bbfe698.jpeg",
-        "video_url": null,
-        "source_id": "valor_globo",
-        "source_name": "Valor Globo",
-        "source_priority": 2786,
-        "source_url": "https://valor.globo.com",
-        "source_icon": "https://n.bytvi.com/valor_globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "独家：BNDES 与德国合作筹集 41 亿雷亚尔，用于气候基金和巴西的绿色项目",
-        "description_zh": "国家经济和社会发展银行..."
-    },
-    {
-        "article_id": "15519f9ae6ad29750b71228e79ccade5",
-        "link": "https://agenciasanluis.com/2026/04/20/1158305-rafael-chocho-arancibia-el-musico-que-dejo-obras-inolvidables-para-el-cancionero-cuyano/",
-        "title": "Rafael ‘Chocho’ Arancibia, el músico que dejó obras inolvidables para el cancionero cuyano",
-        "description": "A 43 años de su partida, 'El Chocho' Arancibia sigue latiendo en el alma cultural de San Luis. Este 19 de abril se cumplió un nuevo aniversario de su fallecimiento. Fue una de las figuras más representativas de la cultura puntana, cuya obra continúa viva en el cancionero popular de San Luis y en la memoria colectiva de Cuyo.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-20 15:26:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:41:25",
-        "image_url": "https://agenciasanluis.com/wp-content/uploads/2026/04/CHOCHO-ARANCIBIA-3-740x420.jpg",
-        "video_url": null,
-        "source_id": "agenciasanluis",
-        "source_name": "Agenciasanluis",
-        "source_priority": 174112,
-        "source_url": "https://agenciasanluis.com",
-        "source_icon": "https://n.bytvi.com/agenciasanluis.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Rafael 'Chocho' Arancibia，为 Cuyo 歌集留下难忘作品的音乐家",
-        "description_zh": "离开 43 年后，“El Chocho”Arancibia 继续在圣路易斯的文化灵魂中跳动。今年 4 月 19 日是他逝世的又一个周年纪念日。他是蓬塔纳文化最具代表性的人物之一，他的作品在圣路易斯的流行歌曲集中和在"
-    },
-    {
-        "article_id": "547dc5f9dc3b4d796ba85ba18a3c01e4",
-        "link": "https://www.acidadeon.com/ribeiraopreto/cotidiano/veja-como-fica-o-horario-do-comercio-de-ribeirao-durante-o-feriado-de-tiradentes/",
-        "title": "Veja como fica o horário do comércio de Ribeirão durante o feriado de Tiradentes",
-        "description": "Funcionamento do comércio e dos shoppings de Ribeirão Preto têm alteração nesta terça-feira (21) O post Veja como fica o horário do comércio de Ribeirão durante o feriado de Tiradentes apareceu primeiro em ACidade ON Ribeirão Preto .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ribeirão"
-        ],
-        "creator": [
-            "vítor neves"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "domestic"
+            "lifestyle",
+            "top"
         ],
         "datatype": "blog",
-        "pubDate": "2026-04-20 15:26:45",
+        "pubDate": "2026-04-21 15:25:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 17:10:22",
-        "image_url": "https://www.acidadeon.com/ribeiraopreto/wp-content/uploads/sites/3/2024/11/shopping-iguatemi-1024x576-1_2024-11-19_14-14-44_jpeg_2024-11-19_14-14-44.webp",
+        "fetched_at": "2026-04-21 15:31:42",
+        "image_url": "https://media.mdzol.com/p/53c45905d7e3c2cc8e6b27bc06d20f04/adjuntos/373/imagenes/001/916/0001916078/1200x675/1023x801:1043x821/dalma-y-gianinna-maradona-junto-veronica-ojeda.jpg",
         "video_url": null,
-        "source_id": "acidadeon",
-        "source_name": "Acidade On",
-        "source_priority": 166626,
-        "source_url": "https://www.acidadeon.com",
-        "source_icon": "https://n.bytvi.com/acidadeon.png",
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://n.bytvi.com/mdzol.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -231,84 +85,53 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "查看蒂拉登特斯假期期间 Ribeirão 的营业时间",
-        "description_zh": "里贝朗普雷图 (Ribeirão Preto) 的商店和购物中心的运营将于本周二 (21 日) 发生变化 看看里贝朗普雷图 (Ribeirão Preto) 假期期间里贝朗 (Ribeirão) 商店的营业时间如何，这篇文章首先出现在 ACidade ON Ribeirão Preto 上。"
+        "title_zh": "“我的父亲迷失在时间和空间中”：贾妮娜·马拉多纳的原始故事",
+        "description_zh": "辩论由圣伊西德罗第七口头刑事法庭负责。八名被指控“具有可能意图的简单杀人罪”的人中，有七人将接受审判。"
     },
     {
-        "article_id": "18f76bb53778c60135db80cb99b1107d",
-        "link": "https://www.lanacion.com.ar/seguridad/aparecio-muerto-el-profesor-brasileno-de-35-anos-que-era-buscado-desde-la-ultima-semana-nid20042026/",
-        "title": "Apareció muerto el profesor brasileño de 35 años que era buscado desde la última semana",
-        "description": "Fuentes de la investigación confirmaron a LA NACION que el joven ingresó descompensado y como NN al Hospital Ramos Mejía el mismo día que se reportó su desaparición; a las 24 horas, falleció",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "valeria musse"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-20 15:26:29",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:30:53",
-        "image_url": "https://resizer.glanacion.com/resizer/v2/BPLKEEJZHVHNDFV6WEHZ5FLNC4.jpg?auth=0210d74e37b3ee342369bae8d44202bcbeced2f7098e5a73790e5a81e05b8870&smart=true&width=2000&height=1333",
-        "video_url": null,
-        "source_id": "lanacion",
-        "source_name": "La Nacion",
-        "source_priority": 7204,
-        "source_url": "https://www.lanacion.com.ar",
-        "source_icon": "https://n.bytvi.com/lanacion.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "自上周以来一直被通缉的 35 岁巴西教授被发现死亡",
-        "description_zh": "调查消息人士向 LA NACION 证实，这名年轻人因精神失常而入院，并在接到失踪报告的同一天作为一名 NN 被送往拉莫斯梅希亚医院 (Ramos Mejía Hospital)； 24小时内，他去世了"
-    },
-    {
-        "article_id": "4cc1b6734c334ba46f4e2bba261d9b4e",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/04/20/celina-leao-diz-que-flavio-bolsonaro-devia-pedir-perdao-a-michelle.ghtml",
-        "title": "Celina Leão diz que Flávio Bolsonaro devia pedir perdão a Michelle",
-        "description": "A governadora do Distrito Federal, Celina Leão (PL-DF), disse nesta segunda-feira que o senador e pré-candidato à Presidência, Flávio Bolsonaro, deveria pedir perdão à Michelle Bolsonaro, após trocas de críticas públicas entre os dois. Em entrevista ao canal Amado Mundo, a governadora em exercício do DF afirmou que a iniciativa pela reconciliação deve vir de Flávio. — Primeiro, é o homem que tem que sempre tem que pedir perdão para a mulher. Ainda mais quando ele faz uma agressão pública, precisa pedir perdão, sim — disse Celina Leão. Na última semana, Michelle criticou a atuação de seu enteado para retirada da candidatura de Soraya Santos (PL-RJ) ao Tribunal de Contas da União. Amigo próximo da ex-primeira-dama Michelle Bolsonaro, o maquiador Agustin Fernandez também disse na quinta-feira que Flávio deve perder nas eleições deste ano, pois seu \"ego e vaidade são maiores que a própria causa\". A ex-primeira-dama e a atual governadora são aliadas políticas. Na última sexta, Michelle reforçou o apoio à candidatura de Celina, após o senador Izalci Lucas (PL-DF) também se postular como candidato ao governo do DF. Na entrevista desta segunda, Celina retribuiu o gesto, disse que Michelle é uma amiga pessoal e que enfrenta resistência de políticos de direita desde que contribuiu com a campanha de Bolsonaro em 2024. — Eu acho que o método para pedir o apoio da Michelle é errado. Quando você quer trazer alguém para perto, você conversa, você aproxima, você demonstra, e você não expõe nem tenta bater nas redes sociais. Isso foi o que começou a acontecer com ela, com Nikolas, e com todos os outros — completou a governadora. No entanto, ela reforçou que acredita que o filho de Bolsonaro e Michelle encontrarão uma solução para uma reconciliação — Acho que o caminho, e eu tenho certeza que isso vai acontecer, e da conciliação. Até porque estamos no mesmo campo. Essas divergências, essas diferenças, as mulheres sempre que crescem demasiadamente, sem autorizações, a gente incomoda. Mas eu tenho certeza que a família Bolsonaro vai sentar, ter um momento de diálogo.",
+        "article_id": "fc1b0f5217cf98d532a973a4decbf6f7",
+        "link": "https://www.estrelando.com.br/nota/2026/04/21/vem-beb%C3%AA-por-ai-raquel-brito-ex-a-fazenda-16-anuncia-gravidez-326667",
+        "title": "Vem bebê por aí! Raquel Brito, ex-A Fazenda 16, anuncia gravidez",
+        "description": "Tem bebê a caminho! Raquel Brito, ex-participante da 16a edição de A Fazenda, reality rural da TV Record , anunciou que está à espera do primeiro filho, fruto do casamento com Cleiton Souza. Nas redes sociais, a irmã de Davi Brito postou um vídeo ao lado do amado caminhando em uma praia. Em determinado momento da gravação, Raquel mostra o resultado positivo de um teste e a imagem do ultrassom. Estamos grávidos , escreveu na legenda. Confira: Ver essa foto no Instagram Um post compartilhado por Raquel Brito (@raquelbritoofc) Vale lembrar que Raquel foi desclassificada da competição após passar mal em uma das provas. Outra participante de A Fazenda que anunciou gravidez foi a jornalista Michelle Barros, que engatou um relacionamento com Shia Phoenix durante o confinamento. Estamos grávidos! Vamos compartilhar tudo por aqui com vocês , escreveu ela ao compartilhar cliques com o amado. Confira: Ver essa foto no Instagram Um post compartilhado por Michelle Barros (@michellebarros) Já nos segue no Instagram ? Por lá, compartilhamos tudo sobre celebridades, estilo, realities , séries, teen , bastidores do entretenimento e reportagens exclusivas. Vai ficar de fora dessa? O nosso perfil é @portal.estrelando .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "celina leão",
-            "michelle bolsonaro",
-            "ex-primeira dama do país",
-            "brasília",
-            "flávio bolsonaro",
-            "deputado federal",
-            "hard news",
-            "é casada com o ex-presidente jair bolsonaro"
+            "foruns",
+            "celebridades",
+            "quizes",
+            "realities",
+            "teens",
+            "enquetes",
+            "famosos",
+            "red carpet",
+            "séries",
+            "estilo",
+            "fotos",
+            "rakings",
+            "notícias",
+            "perfis"
         ],
-        "creator": null,
+        "creator": [
+            "portal estrelando"
+        ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "sports",
+            "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-20 15:26:11",
+        "pubDate": "2026-04-21 15:25:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:38:43",
-        "image_url": "https://s2-oglobo.glbimg.com/68qvtdu_kZaMTnhdmEdJ63LJC3k=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/6/f/Cu3P8CTMAV4NtbGvnJjg/54405126014-9756369c09-b.jpg",
+        "fetched_at": "2026-04-21 15:45:26",
+        "image_url": null,
         "video_url": null,
-        "source_id": "oglobo_globo",
-        "source_name": "O Globo",
-        "source_priority": 93485,
-        "source_url": "https://oglobo.globo.com",
-        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
+        "source_id": "estrelando_br",
+        "source_name": "Estrelando",
+        "source_priority": 1214650,
+        "source_url": "https://www.estrelando.com.br",
+        "source_icon": null,
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -316,26 +139,231 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "塞琳娜·莱奥表示弗拉维奥·博尔索纳罗应该请求米歇尔的原谅",
-        "description_zh": "联邦区州长塞琳娜·莱奥 (PL-DF) 周一表示，参议员兼总统候选人弗拉维奥·博尔索纳罗在两人公开批评后，应该请求米歇尔·博尔索纳罗的原谅。州长在接受 Amado Mundo 频道采访时"
+        "title_zh": "来吧宝贝！前 A Fazenda 16 成员拉奎尔·布里托 (Raquel Brito) 宣布怀孕",
+        "description_zh": "有个宝宝已经在路上了！ TV Record 乡村真人秀节目《A Fazenda》第 16 期的前参与者拉克尔·布里托 (Raquel Brito) 宣布，她即将迎来自己的第一个孩子，这是她与克莱顿·苏扎 (Cleiton Souza) 结婚的结果。在社交媒体上，达维·布里托的姐姐发布了一段视频，和她心爱的人一起在海滩上散步。因数"
     },
     {
-        "article_id": "113005f6294516a2fd53f6391e465b31",
-        "link": "https://www.primeraedicion.com.ar/nota/101097808/imponen-controles-a-estaciones-de-servicio-con-fuertes-sanciones-en-caso-de-incumplimiento/",
-        "title": "Imponen más controles a estaciones de servicio con fuertes sanciones en caso de incumplimiento",
-        "description": "Las estaciones de servicio quedaron en el centro del nuevo esquema de control sobre combustibles dispuesto por la Agencia de Recaudación y Control Aduanero (ARCA), que mediante la Resolución General 5835/2026 reemplazó el régimen vigente y estableció una batería de obligaciones que impactan directamente en la operatoria diaria del sector. El cambio no es menor. [...] La entrada Imponen más controles a estaciones de servicio con fuertes sanciones en caso de incumplimiento se publicó primero en Primera Edición .",
+        "article_id": "d5b2501d2cc596d5af7db2f16983dab8",
+        "link": "https://www.poder360.com.br/poder-governo/lula-omc-nunca-mais-funcionou-depois-da-eleicao-de-obama/",
+        "title": "Lula: OMC “nunca mais funcionou” depois da eleição de Obama",
+        "description": "Petista também criticou protecionismo dos países e defendeu acordo Mercosul-UE; declaração foi durante visita a Portugal",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "ensayos obligatorios",
-            "agencia de recaudación y control aduanero (arca)",
-            "surtidores",
-            "controles",
-            "estaciones de servicio",
-            "#combustibles",
-            "trazabilidad"
+            "barcelona",
+            "portugal",
+            "china",
+            "márcio moreira",
+            "globalização",
+            "lisboa",
+            "aima",
+            "comercio internacional",
+            "rússia",
+            "antónio josé seguro",
+            "george w. bush",
+            "livre comércio",
+            "barack obama",
+            "hannover",
+            "palácio de belém",
+            "mauro vieira",
+            "fiocruz",
+            "luís montenegro",
+            "marcelo rebelo de sousa",
+            "espanha"
         ],
         "creator": [
-            "ezequiel miño"
+            "marina ferraz"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-21 15:24:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-21 15:31:54",
+        "image_url": "https://static.poder360.com.br/2026/04/lula-encontro-bracil-alemanha-21-abr-2026-848x477.jpg",
+        "video_url": null,
+        "source_id": "poder360_br",
+        "source_name": "Poder360",
+        "source_priority": 6639,
+        "source_url": "https://www.poder360.com.br",
+        "source_icon": "https://n.bytvi.com/poder360_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "卢拉：奥巴马当选后世贸组织“再也没有发挥过作用”",
+        "description_zh": "劳工党还批评各国的保护主义并捍卫南方共同市场-欧盟协议；在访问葡萄牙期间发表的声明"
+    },
+    {
+        "article_id": "567f7fea0f8f7771220014c718055e54",
+        "link": "https://cnnespanol.cnn.com/2026/04/21/eeuu/estadounidenses-muertos-chihuahua-mexico-cia-orix",
+        "title": "Estadounidenses muertos en accidente automovilístico en México tras redada antidrogas trabajaban para la CIA, según fuentes",
+        "description": "Dos funcionarios de la embajada estadounidense que murieron en un accidente automovilístico en México el domingo trabajaban para la CIA y colaboraban con funcionarios mexicanos en la ampliación de las operaciones antidrogas en el país, según confirmaron a CNN dos personas con conocimiento del caso.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "dea",
+            "méxico",
+            "cia",
+            "chihuahua"
+        ],
+        "creator": [
+            "natasha bertrand"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "peru",
+            "uruguay",
+            "puerto rico",
+            "panama",
+            "el salvador",
+            "cuba",
+            "dominican republic",
+            "guatemala",
+            "mexico",
+            "honduras",
+            "bolivia",
+            "nicaragua",
+            "guinea",
+            "costa rica",
+            "paraguay",
+            "spain",
+            "argentina",
+            "venezuela",
+            "ecuador",
+            "chile"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-21 15:24:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-21 16:04:32",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/accidente-mexico-cia.jpg?c=original/w_800",
+        "video_url": null,
+        "source_id": "cnnespanol",
+        "source_name": "Cnn",
+        "source_priority": 16314,
+        "source_url": "https://cnnespanol.cnn.com",
+        "source_icon": "https://n.bytvi.com/cnnespanol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "消息人士称，在为中央情报局工作的缉毒行动后，美国人在墨西哥遭遇车祸身亡",
+        "description_zh": "两名知情人士向美国有线电视新闻网证实，周日在墨西哥车祸中丧生的两名美国大使馆官员为中央情报局工作，并正在与墨西哥官员合作扩大在该国的反毒品行动。"
+    },
+    {
+        "article_id": "6a0e722604de6d58e68e655643d81dca",
+        "link": "https://diariodopara.com.br/entretenimento/luto-em-chaves-morre-ator-que-viveu-o-iconico-ladrao-da-vila/",
+        "title": "Luto em Chaves: morre ator que viveu o icônico “ladrão da vila”",
+        "description": "Ricardo de Pascual marcou gerações com papel inesquecível no clássico da TV Ricardo de Pascual marcou gerações com papel inesquecível no clássico da TV O post Luto em Chaves: morre ator que viveu o icônico “ladrão da vila” apareceu primeiro em Diário do Pará .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ator",
+            "chaves",
+            "senhor furtado",
+            "televisão",
+            "sbt",
+            "luto"
+        ],
+        "creator": [
+            "matheus de oliveira"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-21 15:24:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-21 15:47:07",
+        "image_url": "https://uploads.diariodopara.com.br/imagens/2026/04/IMG_3633.jpeg",
+        "video_url": null,
+        "source_id": "diariodopara",
+        "source_name": "Diário Do Pará",
+        "source_priority": 1552501,
+        "source_url": "https://diariodopara.dol.com.br",
+        "source_icon": "https://n.bytvi.com/diariodopara.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "查韦斯哀悼：扮演标志性“村贼”的演员去世",
+        "description_zh": "里卡多·德·帕斯夸尔 (Ricardo de Pascual) 在电视经典剧《查韦斯的哀悼》中扮演了令人难忘的角色，为几代人留下了难忘的印象：扮演标志性“村贼”的演员在《帕拉日报》(Diário do Pará) 中首次亮相。"
+    },
+    {
+        "article_id": "0fd6f658ff3380f142aa0fec22f07873",
+        "link": "https://www.folhabv.com.br/cotidiano/procon-assembleia-oferece-servicos-gratuitos-renegociacao-de-dividas-e-orientacao-ao-consumidor-em-acao-de-aniversario/",
+        "title": "Procon Assembleia oferece serviços gratuitos, renegociação de dívidas e orientação ao consumidor em ação de aniversário",
+        "description": "O Procon da Assembleia Legislativa de Roraima (ALERR) preparou uma programação especial que marca seus 14 anos de atuação no estado. A ação será realizada nesta quinta-feira (23), das 8h às 18h, na sede do órgão, localizada na avenida General Ataíde Teive, no 3510, no bairro Buritis. A iniciativa foi pensada para reforçar o papel do [...] O post Procon Assembleia oferece serviços gratuitos, renegociação de dívidas e orientação ao consumidor em ação de aniversário apareceu primeiro em Folha BV .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "folha web"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-21 15:24:28",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-21 15:49:15",
+        "image_url": "https://uploads.folhabv.com.br/2026/04/Diretor-do-Procon-Assembleia-Aldo-Carvalho-foto-Eduardo-Andrade1-scaled.jpg",
+        "video_url": null,
+        "source_id": "folhabv_br",
+        "source_name": "Folha Bv",
+        "source_priority": 2913228,
+        "source_url": "https://www.folhabv.com.br",
+        "source_icon": "https://n.bytvi.com/folhabv_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Procon Assembly 在周年纪念行动中提供免费服务、债务重新谈判和消费者指导",
+        "description_zh": "罗赖马州立法议会 (ALERR) 的 Procon 准备了一项特别计划，以纪念其在该州运作 14 周年。该行动将于本周四（23 日）上午 8 点至下午 6 点在该组织总部举行，总部位于 Buritis 社区的 Avenida General Ataíde Teive, no 3510。一个在"
+    },
+    {
+        "article_id": "ad3facc7ca16d050387517599a1a62df",
+        "link": "https://www.lavozdemisiones.com/policiales/detienen-a-una-empleada-domestica-por-la-muerte-de-un-anciano-en-garupa/",
+        "title": "Detienen a una empleada doméstica por la muerte de un anciano en Garupá",
+        "description": "Una joven empleada doméstica se encuentra detenida y a disposición de la Justicia desde el lunes a la tarde, en el marco de una investigación iniciada por la muerte de un anciano de 89 años, quien ese mismo día fue encontrado sin vida y con un golpe en la cabeza dentro de su casa en [...] La entrada Detienen a una empleada doméstica por la muerte de un anciano en Garupá se publicó primero en La Voz de Misiones .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "featured",
+            "policiales",
+            "garupá"
+        ],
+        "creator": [
+            "jorge posdeley"
         ],
         "language": "spanish",
         "country": [
@@ -343,20 +371,69 @@
         ],
         "category": [
             "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-21 15:24:15",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-21 15:44:28",
+        "image_url": "https://www.lavozdemisiones.com/wp-content/uploads/2026/04/image-3.jpg",
+        "video_url": null,
+        "source_id": "lavozdemisiones",
+        "source_name": "La Voz De Misiones",
+        "source_priority": 770454,
+        "source_url": "https://www.lavozdemisiones.com",
+        "source_icon": "https://n.bytvi.com/lavozdemisiones.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "一名家政工人因加鲁帕一名老人的死亡而被捕",
+        "description_zh": "自周一下午以来，一名年轻家庭佣工已被拘留，并由司法部门处理，该调查是在一名 89 岁男子死亡事件引发的调查框架内进行的，该男子于同一天在 La en 的家中被发现死亡，头部受到重击。"
+    },
+    {
+        "article_id": "b8bf75424074b6f1a0dd4cb4a9582fff",
+        "link": "https://www.infobae.com/tendencias/2026/04/21/dia-internacional-de-la-banana-cinco-recetas-innovadoras-originales-y-saludables/",
+        "title": "Día Internacional de la Banana: cinco recetas innovadoras, originales y saludables",
+        "description": "Este día se celebra con propuestas culinarias que destacan la versatilidad y el valor nutricional de la fruta, invitando a sumarla en preparaciones dulces y saladas para aprovechar todos sus beneficios",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "cocina de argentina",
+            "recetas",
+            "últimas noticias",
+            "banana",
+            "día internacional de la banana",
+            "frutas",
+            "recetas fáciles"
+        ],
+        "creator": [
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "united states of america",
+            "argentina",
+            "mexico"
+        ],
+        "category": [
             "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-20 15:26:08",
+        "pubDate": "2026-04-21 15:24:10",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:40:19",
-        "image_url": "https://www.primeraedicion.com.ar/wp-content/uploads/2025/11/Combustible.jpg",
+        "fetched_at": "2026-04-21 15:31:30",
+        "image_url": "https://www.infobae.com/resizer/v2/SHSES2MHHVHV7H34ZCGWU2K5YI.jpg?auth=c7ddc7013ecacd8fa374791b50f5feb69ba218a39a60113c2b6113bc6d8356fd&smart=true&width=1456&height=816",
         "video_url": null,
-        "source_id": "primeraedicion",
-        "source_name": "Primera Edicion",
-        "source_priority": 141050,
-        "source_url": "https://www.primeraedicion.com.ar",
-        "source_icon": "https://n.bytvi.com/primeraedicion.jpg",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -364,43 +441,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们对加油站实施更多控制，对违规行为实施严厉处罚",
-        "description_zh": "加油站是海关征收和管制机构 (ARCA) 制定的新燃料管制计划的核心，该计划通过第 5835/2026 号一般决议取代了现行制度，并制定了一系列影响"
+        "title_zh": "国际香蕉日：五种创新、原创且健康的食谱",
+        "description_zh": "庆祝这一天的烹饪建议强调了这种水果的多功能性和营养价值，邀请您将其添加到甜味和咸味食品中，以充分利用其所有好处。"
     },
     {
-        "article_id": "39988cc07fd9a79c873508b336f31728",
-        "link": "https://www.infomoney.com.br/politica/chanceler-alemao-defende-ratificacao-de-acordo-mercosul-ue-o-mais-rapido-possivel/",
-        "title": "Chanceler alemão defende ratificação de acordo Mercosul-UE “o mais rápido possível”",
-        "description": "'Não vamos dar um passo atrás', diz Merz na feira da Hanôver, que tem Brasil como país-parceiro The post Chanceler alemão defende ratificação de acordo Mercosul-UE “o mais rápido possível” appeared first on InfoMoney .",
+        "article_id": "3002c782bda418a5c1a6824a3b9425eb",
+        "link": "https://veja.abril.com.br/mundo/ataque-a-tiros-em-complexo-de-piramides-do-mexico-foi-atentado-planejado-diz-governo/",
+        "title": "Ataque a tiros em complexo de pirâmides do México foi atentado planejado, diz governo",
+        "description": "Turista canadense morreu e outras 13 pessoas ficaram feridas na segunda-feira no sítio arqueológico de Teotihuacan",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "acordo mercosul-ue",
-            "friedrich merz",
-            "alemanha",
-            "lula",
-            "união europeia"
+            "américa do norte",
+            "claudia sheinbaum",
+            "violência",
+            "méxico"
         ],
         "creator": [
-            "agência o globo"
+            "caio saad"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "politics"
+            "lifestyle",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-20 15:26:04",
+        "pubDate": "2026-04-21 15:24:05",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:38:08",
-        "image_url": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-22-141332.png?fit=694%2C511&quality=70&strip=all",
+        "fetched_at": "2026-04-21 15:31:46",
+        "image_url": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2271773625.jpg?quality=70&strip=info",
         "video_url": null,
-        "source_id": "infomoney",
-        "source_name": "Infomoney",
-        "source_priority": 68762,
-        "source_url": "https://www.infomoney.com.br",
-        "source_icon": "https://n.bytvi.com/infomoney.png",
+        "source_id": "veja_abril_br",
+        "source_name": "Veja",
+        "source_priority": 5562,
+        "source_url": "https://veja.abril.com.br",
+        "source_icon": "https://n.bytvi.com/veja_abril_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -408,39 +485,45 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "德国总理捍卫“尽快”批准南方共同市场-欧盟协议",
-        "description_zh": "默茨在以巴西为合作伙伴国的汉诺威博览会上表示，“我们不会后退一步”。德国总理为“尽快”批准南方共同市场与欧盟协议进行辩护。"
+        "title_zh": "政府称墨西哥金字塔群枪击事件是有计划的袭击",
+        "description_zh": "周一，加拿大游客在特奥蒂瓦坎考古遗址死亡，另有 13 人受伤"
     },
     {
-        "article_id": "0931bd469a748b34d3a972fffae8c15d",
-        "link": "https://horacero.com.mx/nacional/mueren-en-accidente-director-de-la-aei-y-dos-funcionarios-de-eu",
-        "title": "Mueren en accidente director de la AEI y dos funcionarios de EU",
-        "description": "La madrugada de este domingo se registró un accidente en la zona serrana de Chihuahua, donde fallecieron el titular de la Agencia Estatal de Investigaciones (AEI), así como dos oficiales instructores de la Embajada de Estados Unidos y un elemento de seguridad, cuya muerte fue lamentada por el embajador de ese país en México, Ronald Johnson. The post Mueren en accidente director de la AEI y dos funcionarios de EU appeared first on Hora Cero Web .",
+        "article_id": "b7f6ca9d7cc615bd035427639811789f",
+        "link": "https://www.elimparcial.com/mundo/2026/04/21/los-dos-estadounidenses-fallecidos-en-chihuahua-eran-de-la-cia-segun-revelo-el-nyt-y-mexico-investiga-si-su-presencia-tras-operativo-antidrogas-violo-la-ley-de-seguridad-nacional/",
+        "title": "Los dos estadounidenses fallecidos en Chihuahua eran de la CIA, según reveló el NYT, y México investiga si su presencia tras operativo antidrogas violó la Ley de Seguridad Nacional",
+        "description": "Reportes de NYT señalan que eran agentes de la CIA, mientras autoridades mexicanas investigan si su presencia tras el operativo antidrogas en Chihuahua ocurrió sin autorización federal y violó la Ley de Seguridad Nacional.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "secundarias"
+            "operativo antidrogas",
+            "méxico",
+            "claudia sheinbaum pardo",
+            "chihuahua",
+            "donald trump",
+            "estados unidos-méxico",
+            "cia"
         ],
         "creator": [
-            "el universal"
+            "ana karen celaya"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-20 15:27:00",
+        "pubDate": "2026-04-21 15:25:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:45:29",
-        "image_url": "https://horacero.com.mx/wp-content/uploads/2026/04/La-madrugada-de-este-domingo-se-registro-un-accidente-en-la-zona-serrana-de-Chihuahua-donde-fallecieron-el-titular-de-la-Agencia-Estatal-de-Investigaciones-AEI-asi-como-dos-oficiales-instructo.webp",
+        "fetched_at": "2026-04-21 15:35:04",
+        "image_url": "https://www.elimparcial.com/resizer/v2/TDE3PKDUOVB3TNYXKI53KR5VI4.jpg?auth=6bd9f163055a973b1b32891ce9587a75c384eeab38a284f2841fdb95d54bf343&smart=true&width=1200&height=750",
         "video_url": null,
-        "source_id": "horacero_mx",
-        "source_name": "Horacero Mx",
-        "source_priority": 868697,
-        "source_url": "https://horacero.com.mx",
-        "source_icon": "https://n.bytvi.com/horacero_mx.png",
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -448,22 +531,155 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "AEI 主任和两名美国官员意外身亡",
-        "description_zh": "周日早些时候，奇瓦瓦州山区发生一起事故，国家调查局（AEI）负责人以及美国大使馆两名教官和一名安保人员死亡，使馆对他们的去世表示哀悼。"
+        "title_zh": "据《纽约时报》透露，在奇瓦瓦州死亡的两名美国人来自中央情报局，墨西哥正在调查他们在禁毒行动后的存在是否违反国家安全法",
+        "description_zh": "《纽约时报》报道称，他们是中央情报局特工，而墨西哥当局正在调查他们在奇瓦瓦缉毒行动后的出现是否未经联邦授权，并违反了《国家安全法》。"
     },
     {
-        "article_id": "e344ed99123d39be427299e9a2938215",
-        "link": "https://oem.com.mx/elsoldesanluis/local/crecimiento-urbano-y-sobreexplotacion-afectan-acuifero-de-slp-alertan-autoridades-29587609",
-        "title": "Crecimiento urbano y sobreexplotación afectan acuífero de SLP, alertan autoridades",
-        "description": "La Cuenca del Altiplano contempla la capital de San Luis Potosí que vive un agudo estrés hídrico producto de la extracción excesiva de agua desde los mantos freáticos",
+        "article_id": "613baf73aba0cd00c1c065659660dfe1",
+        "link": "https://periodicolavoz.com.mx/coahuila/cinco-manantiales/aseguran-casi-10-kilos-de-droga-tras-cateo-en-allende/369265",
+        "title": "Aseguran casi 10 kilos de droga en cateo en comunidad Río Bravo",
+        "description": "Operativo conjunto también decomisó cigarrillos electrónicos prohibidos y detectó envío de marihuana por paquetería.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "slp",
-            "consejos",
-            "agua"
+            "cateo en r&#237;o bravo",
+            "operativo ej&#233;rcito allende",
+            "cigarrillos electr&#243;nicos prohibidos",
+            "drogas en coahuila",
+            "fiscal&#237;a del estado allende"
         ],
         "creator": [
-            "raymundo rocha"
+            "alberto ibarra riojas"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-21 15:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-21 21:43:20",
+        "image_url": "https://blobcore.periodicolavoz.com.mx/images/2026/04/21/sin-titulo-1-7bb120fa.jpg",
+        "video_url": null,
+        "source_id": "periodicolavoz_mx",
+        "source_name": "Periodicolavoz Mx",
+        "source_priority": 462138,
+        "source_url": "https://periodicolavoz.com.mx",
+        "source_icon": "https://n.bytvi.com/periodicolavoz_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们在 Río Bravo 社区搜查中查获近 10 公斤毒品",
+        "description_zh": "联合行动还查获了违禁电子烟，并查获通过包裹运送大麻。"
+    },
+    {
+        "article_id": "9fec83d5932263f2acd408394793d06a",
+        "link": "https://www.eldivisadero.cl/_noticia/Senadora-Ordenes-sobre-ley-miscelanea-Menos-ingresos-fiscales-significa-menos-estado-donde-m%C3%A1s-se-necesita/ODI1OTA=",
+        "title": "Senadora Ordenes sobre ley miscelanea: \"Menos ingresos fiscales significa menos estado donde más se necesita\"",
+        "description": "La legisladora se suma a las crĒticas transversales que ha suscitado esta iniciativa que, entre sus varios distintos ejes, contempla una decena de modificaciones econ3⁄4micas, que se traducirĒan en una importante reducci3⁄4n de lo que percibe el Estado en materia tributaria.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "aysén",
+            "divisadero",
+            "noticias",
+            "coyhaique"
+        ],
+        "creator": [
+            "el divisadero"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-21 15:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-21 19:43:15",
+        "image_url": "http://www.eldivisadero.cl/media/Noticias/for_fot23681.jpeg",
+        "video_url": null,
+        "source_id": "eldivisadero",
+        "source_name": "El Divisadero",
+        "source_priority": 453157,
+        "source_url": "http://eldivisadero.cl",
+        "source_icon": "https://n.bytvi.com/eldivisadero.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "参议员关于杂项法律的命令：“税收收入减少意味着最需要税收的州减少”",
+        "description_zh": "立法者加入了对该倡议提出的横向批评，该倡议在其几个不同的轴心中考虑了十几项经济改革，这将导致国家在税收方面的收入大幅减少。"
+    },
+    {
+        "article_id": "0debe2d23d2894f5c11e694ef0ed3834",
+        "link": "https://www.eldivisadero.cl/_noticia/Senadora-%C3%93rdenes-sobre-Ley-Miscel%C3%A1nea-Menos-ingresos-fiscales-significa-menos-Estado-donde-m%C3%A1s-se-necesita/ODI1OTA=",
+        "title": "Senadora Órdenes sobre Ley Miscelánea: \"Menos ingresos fiscales significa menos Estado donde más se necesita\"",
+        "description": "La legisladora se suma a las crĒticas transversales que ha suscitado esta iniciativa que, entre sus varios distintos ejes, contempla una decena de modificaciones econ3⁄4micas, que se traducirĒan en una importante reducci3⁄4n de lo que percibe el Estado en materia tributaria.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "aysén",
+            "divisadero",
+            "noticias",
+            "coyhaique"
+        ],
+        "creator": [
+            "el divisadero"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-21 15:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-21 23:12:20",
+        "image_url": "http://www.eldivisadero.cl/media/Noticias/for_fot23681.jpeg",
+        "video_url": null,
+        "source_id": "eldivisadero",
+        "source_name": "El Divisadero",
+        "source_priority": 453157,
+        "source_url": "http://eldivisadero.cl",
+        "source_icon": "https://n.bytvi.com/eldivisadero.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "参议员关于杂项法的命令：“税收收入减少意味着最需要的州减少”",
+        "description_zh": "立法者加入了对该倡议提出的横向批评，该倡议在其几个不同的轴心中考虑了十几项经济改革，这将导致国家在税收方面的收入大幅减少。"
+    },
+    {
+        "article_id": "7c7f486943fa96d6fa183c7b8dceb658",
+        "link": "https://oem.com.mx/elsoldemexico/finanzas/envejecimiento-de-fuerza-laboral-desafio-para-mas-de-la-mitad-de-las-empresas-29588626",
+        "title": "Envejecimiento de fuerza laboral, el desafío para más de la mitad de las empresas",
+        "description": "Un estudio de ManpowerGroup sugiere que quienes utilicen la IA para capturar, analizar y sintetizar conocimiento de los trabajadores que se jubilan podrían enfrentar mejor este reto",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "empresas",
+            "inspírame",
+            "inteligencia artificial",
+            "retiro"
+        ],
+        "creator": [
+            "bertha becerra"
         ],
         "language": "spanish",
         "country": [
@@ -474,16 +690,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-20 15:26:54",
+        "pubDate": "2026-04-21 15:24:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 20:45:47",
-        "image_url": "https://oem.com.mx/elsoldesanluis/img/29588800/1776698803/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-04-21 20:37:55",
+        "image_url": "https://oem.com.mx/publications/elsoldemexico/logo1200x630.jpg",
         "video_url": null,
-        "source_id": "elsoldesanluis_mx",
-        "source_name": "Elsoldesanluis Mx",
-        "source_priority": 972129,
-        "source_url": "https://www.elsoldesanluis.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldesanluis_mx_.jpg",
+        "source_id": "elsoldemexico",
+        "source_name": "El Sol De Mexico",
+        "source_priority": 101294,
+        "source_url": "https://www.elsoldemexico.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldemexico.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -491,43 +707,87 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "当局警告称，城市发展和过度开发会影响 SLP 含水层",
-        "description_zh": "阿尔蒂普拉诺盆地位于圣路易斯波托西州首府附近，由于从地下水位过度抽取水，该地区正面临严重的水资源压力。"
+        "title_zh": "劳动力老龄化是超过一半公司面临的挑战",
+        "description_zh": "万宝盛华集团的一项研究表明，那些使用人工智能来捕获、分析和综合退休工人知识的人可以更好地应对这一挑战"
     },
     {
-        "article_id": "1e8fc4234aa886a5e453092b65ce68e2",
-        "link": "https://www.vanguardia.com/judicial/2026/04/20/asesinan-a-ingeniero-tras-ataque-de-sicarios-en-santander/",
-        "title": "Asesinan a ingeniero mientras se movilizaba en su vehículo tras un ataque de sicarios en Santander",
-        "description": "Por ahora, las causas del homicidio son materia de investigación.. Esto es lo que se sabe.",
+        "article_id": "c10e473f3b4009316f9f36da3477ab7e",
+        "link": "https://www.noroeste.com.mx/nacional/embajador-de-eu-ofrece-ayuda-a-mexico-tras-tiroteo-en-teotihuacan-AB21756969",
+        "title": "Embajador de EU ofrece ayuda a México tras tiroteo en Teotihuacán",
+        "description": "Ronald Johnson, Embajador de Estados Unidos en México, ofreció la colaboración del Gobierno de su país a las autoridades mexicanas tras el tiroteo perpetrado por un sujeto contra turistas en la zona de las Pirámides de Teotihuacán, en el Estado de México. El ataque, ocurrido en la Pirámide de la Luna, dejó una mujer de nacionalidad canadiense sin vida, al menos 13 personas lesionadas y al atacante muerto. A través de un mensaje difundido en sus redes sociales, Johnson expresó preocupación y tristeza por los hechos. “He seguido con profunda preocupación y tristeza el tiroteo ocurrido en Teotihuacán, que resultó en la trágica pérdida de vidas y múltiples personas heridas, incluyendo a varios ciudadanos estadounidenses”, señaló. “Estamos listos para apoyar en lo que se requiera mientras las autoridades mexicanas continúan con la investigación. Nuestras oraciones están con las personas afectadas y sus familias”. Entre las 13 víctimas lesionadas se encuentran ciudadanos de diversas nacionalidades, así como dos menores de edad: Gerónimo González, de 6 años, de nacionalidad colombiana, y Leticia Mondea, de 13 años, originaria de Brasil. El atacante actuó en solitario y también perdió la vida durante el incidente. La Secretaría de Gobernación confirmó que ocho personas permanecen hospitalizadas bajo vigilancia médica, en tanto que otras cinco ya recibieron el alta correspondiente. Las autoridades mexicanas mantienen abierta la investigación sobre el ataque.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "barrancabermeja",
-            "sicarios",
-            "santander",
-            "homicidio"
+            "ronald johnson",
+            "embajador de eu",
+            "teotihuacán",
+            "seguridad",
+            "estados unidos",
+            "tiroteo",
+            "carlos álvarez"
         ],
         "creator": [
-            "redacción judicial"
+            "carlos álvarez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-21 15:24:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-21 18:43:59",
+        "image_url": "https://www.noroeste.com.mx/binrepository/embajador_1-13162707_20260421082424.jpg",
+        "video_url": null,
+        "source_id": "noroeste",
+        "source_name": "Noroeste",
+        "source_priority": 841816,
+        "source_url": "https://www.noroeste.com.mx",
+        "source_icon": "https://n.bytvi.com/noroeste.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "美国大使在特奥蒂瓦坎枪击事件后向墨西哥提供帮助",
+        "description_zh": "在墨西哥州特奥蒂瓦坎金字塔地区发生枪击事件后，美国驻墨西哥大使罗纳德·约翰逊向墨西哥当局表示美国政府将提供合作。此次袭击发生在金字塔内"
+    },
+    {
+        "article_id": "782aa09926e982fe2708d09658ced853",
+        "link": "https://santamartaaldia.co/barranquillera-desaparecida-en-europa-murio-en-derrumbe-en-chipre-ahora-su-familia-lucha-por-identificarla-y-traerla-al-pais/",
+        "title": "Barranquillera desaparecida en Europa murió en derrumbe en Chipre; ahora su familia lucha por identificarla y traerla al país",
+        "description": "La joven creadora de contenido, reportada como desaparecida tras el derrumbe ocurrido en Limassol, figura entre las víctimas fatales. Sus familiares adelantan gestiones para cumplir con los requisitos de identificación y traer sus restos a Colombia. La incertidumbre terminó en dolor para una familia barranquillera. Este martes se confirmó el fallecimiento de Leonela Alemán Morales, [...] The post Barranquillera desaparecida en Europa murió en derrumbe en Chipre; ahora su familia lucha por identificarla y traerla al país appeared first on Santa Marta Al Día .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "portada",
+            "judiciales"
+        ],
+        "creator": [
+            "redacción smad"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-20 15:26:38",
+        "pubDate": "2026-04-21 15:24:45",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:34:55",
-        "image_url": "https://www.vanguardia.com/resizer/v2/ZG5UWU2GJJBWHKE5APNF3YMJ7A.jpeg?auth=36879625e98bcab973a00cddab6aa2ff1db3bb7e7641df09d0ba477a35a1ed63&smart=true&width=1600&height=1200",
+        "fetched_at": "2026-04-21 15:45:01",
+        "image_url": "https://santamartaaldia.co/wp-content/uploads/2026/04/Foto-2-de-Canva-3-3.jpg",
         "video_url": null,
-        "source_id": "vanguardia",
-        "source_name": "Vanguardia",
-        "source_priority": 24302,
-        "source_url": "https://vanguardia.com.mx",
-        "source_icon": "https://n.bytvi.com/vanguardia.png",
+        "source_id": "santamartaaldia_co",
+        "source_name": "Santamartaaldia Co",
+        "source_priority": 819227,
+        "source_url": "https://santamartaaldia.co",
+        "source_icon": "https://n.bytvi.com/santamartaaldia_co.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -535,42 +795,86 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "一名工程师在桑坦德遭到杀手袭击后驾车行驶时被谋杀",
-        "description_zh": "目前，凶杀原因正在调查中。这是已知的。"
+        "title_zh": "在欧洲失踪的巴兰基耶拉在塞浦路斯的塌方中丧生；现在，她的家人正在努力寻找她的身份并将她带回该国。",
+        "description_zh": "据报道，这位年轻的内容创作者在利马索尔发生倒塌事故后失踪，也是死亡人数之一。他的亲属正在采取措施遵守身份识别要求，并将他的遗体运回哥伦比亚。不确定性最终给一个家庭带来了痛苦"
     },
     {
-        "article_id": "263cc35f06815dd66537450fdf058568",
-        "link": "https://oem.com.mx/elsoldecuernavaca/seguridad/homicidio-en-boulevard-del-lago-cuernavaca-matan-a-hombre-en-situacion-de-calle-29588793",
-        "title": "Homicidio en Boulevard del Lago Cuernavaca: Matan a hombre en situación de calle",
-        "description": "Un hombre que recolectaba reciclaje para sobrevivir fue asesinado en la colonia Villas del Lago, Cuernavaca. Autoridades resguardan la escena en espera de la Fiscalía",
+        "article_id": "a9ad82f6269d79e001bae9b2720fa0ff",
+        "link": "https://oem.com.mx/elheraldodetabasco/local/encabeza-javier-may-conmemoracion-de-la-gesta-heroica-del-puerto-de-veracruz-29604212",
+        "title": "Encabeza Javier May conmemoración de la Gesta Heroica del Puerto de Veracruz",
+        "description": "La ceremonia se realizó en la Tercera Región Naval con sede en Paraíso, Tabasco",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "veracruz",
+            "sedena",
+            "tabasco"
+        ],
+        "creator": [
+            "josé pérez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-21 15:24:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-21 21:11:44",
+        "image_url": "https://oem.com.mx/elheraldodetabasco/img/29604693/1776787226/BASE_LANDSCAPE/400/image.jpg",
+        "video_url": null,
+        "source_id": "elheraldodetabasco_mx",
+        "source_name": "El Heraldo De Tabasco",
+        "source_priority": 342600,
+        "source_url": "https://www.elheraldodetabasco.com.mx",
+        "source_icon": "https://n.bytvi.com/elheraldodetabasco_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "哈维尔·梅主持韦拉克鲁斯港英雄事迹纪念活动",
+        "description_zh": "仪式在塔巴斯科州帕拉伊索的第三海军区举行"
+    },
+    {
+        "article_id": "24578622314483a0126754c9ea2f3775",
+        "link": "https://www.informateymas.com/2026/04/21/la-independencia-tambien-se-gano-en-el-mar-llega-exposicion-al-mucic/",
+        "title": "La Independencia también se ganó en el mar: llega exposición al MuCiC",
+        "description": "Cuernavaca, 21 de abril 2026 (Infórmate y +).- La exposición “200 años de la consolidación de la Independencia en el Mar. Origen y evolución de la Secretaría de Marina-Armada de México”, llega al Museo de la Ciudad de Cuernavaca (MuCiC), la cual permanecerá vigente hasta el 04 de mayo. La inauguración estuvo encabezada por la [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
             "cuernavaca",
-            "violencia",
-            "homicidio"
+            "paula trade",
+            "museo",
+            "síndica municipal",
+            "exposición"
         ],
         "creator": [
-            "miriam estrada"
+            "p a"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-20 15:26:35",
+        "pubDate": "2026-04-21 15:24:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 21:15:00",
-        "image_url": "https://oem.com.mx/elsoldecuernavaca/img/29588739/1776698626/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-04-21 15:48:44",
+        "image_url": "https://www.informateymas.com/wp-content/uploads/2026/04/La-Independencia-tambien-se-gano-en-el-mar-llega-exposicion-al-MuCiC-1.jpg",
         "video_url": null,
-        "source_id": "elsoldecuernavaca_mx",
-        "source_name": "El Sol De Cuernavaca",
-        "source_priority": 1039602,
-        "source_url": "https://www.elsoldecuernavaca.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldecuernavaca_mx.png",
+        "source_id": "informateymas",
+        "source_name": "Infórmate Y Más",
+        "source_priority": 2963921,
+        "source_url": "https://www.informateymas.com",
+        "source_icon": "https://n.bytvi.com/informateymas.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -578,265 +882,44 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "库埃纳瓦卡湖大道上的凶杀案：他们在街头杀死了一名男子",
-        "description_zh": "一名为生存而收集垃圾的男子在库埃纳瓦卡的 Villas del Lago 社区被谋杀。当局守卫现场等待检察官办公室"
+        "title_zh": "独立也在海上赢得：展览抵达 MuCiC",
+        "description_zh": "库埃纳瓦卡，2026 年 4 月 21 日（了解更多和 +）。- 展览“海上独立巩固 200 年。墨西哥海军秘书处的起源和演变”抵达库埃纳瓦卡市博物馆 (MuCiC)，展览有效期至 5 月 4 日。"
     },
     {
-        "article_id": "aef79b622b05a142e3e9ac0535443290",
-        "link": "https://www.redeszone.net/noticias/redes/problemas-usar-vpn-prueba/",
-        "title": "Problemas que puedes tener al usar una VPN de prueba",
-        "description": "Contar con una VPN para navegar por Internet, es algo habitual y que puede ser necesario para acceder a ciertas plataformas restringidas geográficamente o incluso mejorar la privacidad. Ahora bien, ¿pasa algo si instalas una VPN de prueba ? Vamos a hablarte de cuáles son las limitaciones que podrías tener. Te explicaremos qué posibles problemas podrías tener y así lograr un funcionamiento óptimo. Al instalar una VPN, vas a encontrarte con muchas opciones gratuitas y también de pago . Pero podrías ver una tercera opción: las que son de prueba. Generalmente, van a tener ciertas restricciones, ya que se trata de un software gratuito, simplemente para que lo pruebes y, posteriormente, adquieras la versión completa. Limitaciones si utilizas una VPN de prueba Si quieres tener la máxima velocidad, estabilidad y poder acceder a ubicaciones muy variadas, posiblemente no sea la mejor idea utilizar una VPN de prueba. Es más probable que tengas limitaciones de este tipo, como vamos a explicarte. Te recomendamos algunas opciones como Surfshark o NordVPN . Limitación de descargas Lo primero que puedes notar, es que tengas limitaciones en la capacidad de descarga . Es decir, podrías tener, por ejemplo, 500 MB o 1 GB para navegar por la red. A poco que visualices contenido en Streaming en alta calidad, podrías consumirlo rápidamente y ya no poder seguir utilizando esa VPN. Esto también suele estar presente en las que son gratuitas. Podrían darte la posibilidad de descargar hasta cierta cantidad al mes y, a partir de ahí, ya cobrar. Velocidad reducida También puedes notar que la velocidad es reducida. No va tan bien como te gustaría y esto puede ser un problema a la hora de jugar online o ver contenido en Streaming, que son algunos ejemplos en los que vas a necesitar que la conexión funcione más rápida. Según la calidad de la VPN que utilices, puedes tener más o menos velocidad. Por ello, es muy importante siempre elegir una que sea fiable, que funcione bien y te permita controlar la conexión, para que no haya limitaciones.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "javier jiménez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-20 15:26:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 16:10:43",
-        "image_url": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/imagen-vpn.jpg",
-        "video_url": null,
-        "source_id": "redeszone",
-        "source_name": "Redes Zone",
-        "source_priority": 229449,
-        "source_url": "https://www.redeszone.net",
-        "source_icon": "https://n.bytvi.com/redeszone.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "使用试用 VPN 时可能遇到的问题",
-        "description_zh": "使用 VPN 浏览互联网很常见，并且可能需要访问某些受地理限制的平台，甚至提高隐私性。现在，如果您安装试用版 VPN 会发生什么情况吗？我们将与您讨论可能存在哪些限制"
-    },
-    {
-        "article_id": "cf5633d16aa5192c021cd635e68f4ccc",
-        "link": "https://www.semana.com/politica/articulo/sergio-fajardo-presento-en-la-registraduria-un-comite-para-frenar-la-asamblea-nacional-constituyente-promovida-por-el-gobierno/202625/",
-        "title": "Sergio Fajardo presentó en la Registraduría un comité para frenar la Asamblea Nacional Constituyente promovida por el gobierno",
-        "description": "El candidato estuvo acompañado de su fórmula vicepresidencial, Edna Bonilla. Esperan recoger más de 2 millones de firmas para respaldar su iniciativa.",
+        "article_id": "f09381fb4896ea6d13c4dd4fc3e45a14",
+        "link": "https://oem.com.mx/elsoldetlaxcala/local/recibiran-mas-de-dos-mil-700-tlaxcaltecas-sus-tarjetas-de-bienestar-29601516",
+        "title": "Recibirán más de dos mil 700 tlaxcaltecas sus tarjetas de Bienestar",
+        "description": "Con el plástico podrán cobrar los recursos de la pensión de Adultos Mayores y Mujeres Bienestar",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "asamblea nacional constituyente",
-            "sergio fajardo",
-            "elecciones presidenciales 2026 en colombia"
-        ],
-        "creator": [
-            "redacción semana"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-20 15:26:25",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:36:28",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/TXZOCUN2AJGJFHIK2HCMKMKXPI.jpg?width=2048&height=1536&auth=1bc2d12e4eea09d6053d51db74c9a6f4173b62f1f06690f6027b1894581480d1&smart=true",
-        "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://n.bytvi.com/semana.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "塞尔吉奥·法哈多在登记处成立了一个委员会，以阻止政府推动的国民制宪会议",
-        "description_zh": "该候选人由副总统候选人埃德娜·博尼拉陪同。他们希望收集超过 200 万个签名来支持他们的倡议。"
-    },
-    {
-        "article_id": "b4e182c38a7ce617d556bfb8229bc94a",
-        "link": "https://www.larepublica.co/economia/encuesta-mensual-de-expectativas-de-analistas-economicos-del-banco-de-la-republica-abril-2026-4375076",
-        "title": "Analistas proyectan que la inflación cierre el año en 5,62%, mientras que las tasas en 12,25%",
-        "description": "Respecto a la inflación sin alimentos ni regulados, se espera que el costo de vida alcance 5,84% en abril, con un máximo de 6,31% en diciembre",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "espectáculos",
-            "moda",
-            "laboral",
-            "construcción",
-            "energía y minas",
-            "bancos",
-            "industria",
-            "salud",
-            "hacienda",
-            "deporte",
-            "transporte",
-            "turismo",
-            "ambiente",
-            "seguros",
-            "legislación-marcas",
-            "agro",
-            "entretenimento",
-            "gastronomía",
-            "comercio",
-            "educación"
-        ],
-        "creator": [
-            "juan diego murcia"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-20 15:26:21",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:36:17",
-        "image_url": "https://img.lalr.co/cms/2026/01/05132516/54994476610_f5332d8799_o-1.jpg?size=xl&ratio=r40_21",
-        "video_url": null,
-        "source_id": "larepublicacl",
-        "source_name": "Larepublica",
-        "source_priority": 43349,
-        "source_url": "https://www.larepublica.co",
-        "source_icon": "https://n.bytvi.com/larepublicacl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "分析师预计今年年底通胀率为 5.62%，而利率则为 12.25%",
-        "description_zh": "关于不包括食品或管制物品的通货膨胀，预计4月份生活成本将达到5.84%，12月份最高可达6.31%"
-    },
-    {
-        "article_id": "08a366f0f3fb8962e8180d6e4c94f033",
-        "link": "https://www.marca.com/premios/marca-laureus/2026/04/20/reaccion-biles-ver-imagen-pequena-video.html",
-        "title": "La reacción de Biles al ver su imagen de pequeña",
-        "description": "Simone Biles recibe a MARCA en la antesala de la gran noche de Los Laureus y protagonizó un tierno y bonito momento cuando le mostramos una foto sorpresa que resultó ser una instantánea suya de pequeña cuando empezaba en el mundo de la gimnasia con la intención de que le diera un consejo, \"le diría que se divierta, que mantenga la cabeza en alto y que simplemente sea ella misma. Que siga siendo auténtica, que se exprese y que crea en sus sueños y vaya a por ellos\".",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "biles",
-            "pequeña",
-            "reacción",
-            "imagen",
-            "ver"
-        ],
-        "creator": [
-            "javier mancebo"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-20 15:26:15",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 16:07:59",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/04/20/NX.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "拜尔斯看到自己小时候的照片时的反应",
-        "description_zh": "西蒙·拜尔斯 (Simone Biles) 在劳伦斯 (Los Laureus) 盛大之夜的前奏中接受了《马卡报》的采访，并在一个温柔而美丽的时刻中扮演主角，当时我们向她展示了一张令人惊讶的照片，这张照片原来是她小时候刚开始进入体操世界时的快照，目的是给她一些建议，“我会"
-    },
-    {
-        "article_id": "72cb3bb572a1cf9bd3becd4e60f977ce",
-        "link": "https://entrelineas.com.mx/congreso-del-estado-sera-sede-del-foro-sobre-politica-migratoria-en-chihuahua/",
-        "title": "Congreso del Estado será sede del foro sobre política migratoria en Chihuahua",
-        "description": "*Congreso del Estado será sede del foro sobre política migratoria en Chihuahua* El estado de Chihuahua, reconocido como punto estratégico en el tránsito y destino de personas migrantes, será sede del foro “Nueva Política Migratoria y de Asilo en el Estado de Chihuahua”, que se realizará este martes 21 de abril, de 9:00 a 11:00 [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-20 15:26:12",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 15:43:39",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "entrelineas",
-        "source_name": "Entrelineas",
-        "source_priority": 655477,
-        "source_url": "https://entrelineas.com.mx",
-        "source_icon": "https://n.bytvi.com/entrelineas.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "州议会将在奇瓦瓦州举办移民政策论坛",
-        "description_zh": "*州议会将主办奇瓦瓦州移民政策论坛* 奇瓦瓦州被认为是移民过境和目的地的战略要地，将主办“奇瓦瓦州新移民和庇护政策”论坛，该论坛将于今年举行"
-    },
-    {
-        "article_id": "659f5af058d164a702f84d41223da132",
-        "link": "https://oem.com.mx/elsoldepuebla/deportes/que-paso-con-las-jugadoras-de-estrellas-de-puebla-29587774",
-        "title": "¿Qué pasó con las jugadoras de Estrellas de Puebla?",
-        "description": "Así se reubicaron tras la desaparición de la franquicia en la Liga de México de Baloncesto Femenil",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "basquetbol",
+            "ayúdame",
+            "adultos mayores",
             "mantenme informado",
-            "mujeres",
-            "fallas"
+            "mijares",
+            "pensiones bienestar"
         ],
         "creator": [
-            "marian flores vazquez"
+            "nadia mendoza"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "sports",
-            "entertainment",
+            "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-20 15:26:03",
+        "pubDate": "2026-04-21 15:24:39",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-20 21:08:51",
-        "image_url": "https://oem.com.mx/elsoldepuebla/img/29587600/1776698292/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-04-21 20:42:43",
+        "image_url": "https://oem.com.mx/elsoldetlaxcala/img/29599908/1776784984/BASE_LANDSCAPE/400/image.jpg",
         "video_url": null,
-        "source_id": "elsoldepuebla_mx",
-        "source_name": "El Sol De Puebla",
-        "source_priority": 167831,
-        "source_url": "https://www.elsoldepuebla.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldepuebla_mx.png",
+        "source_id": "elsoldetlaxcala_mx",
+        "source_name": "Elsoldetlaxcala Mx",
+        "source_priority": 348815,
+        "source_url": "https://www.elsoldetlaxcala.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldetlaxcala_mx.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -844,7 +927,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "普埃布拉星队球员发生了什么？",
-        "description_zh": "这就是墨西哥女子篮球联赛球队消失后她们的搬迁方式"
+        "title_zh": "超过 2,700 名特拉斯卡拉人将收到健康卡",
+        "description_zh": "有了塑料，他们将能够收集老年人养老金和妇女福利的资源"
     }
 ]
