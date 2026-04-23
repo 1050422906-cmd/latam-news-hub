@@ -1,39 +1,37 @@
 [
     {
-        "article_id": "1a9c52f12a98b4455dc859972992a9f4",
-        "link": "https://launion.com.ar/espectaculos/el-terrible-accidente-domestico-que-llevo-ian-lucas-urgencia-un-hospital-n5441856",
-        "title": "El terrible accidente doméstico que llevó Ian Lucas de urgencia a un hospital",
-        "description": "Ian Lucas tuvo que ser trasladado de urgencia luego de sufrir un accidente. Luego, el ganador de MasterChef Celebrity contó todo lo sucedido. Qué dijo Ian Lucas sobre si le daría una segunda oportunidad a Evangelina Anderson",
+        "article_id": "2075de48db9ea4631673517fd2ba5f07",
+        "link": "https://www.lagaceta.com.ar/nota/1133722/sociedad/capital-humano-suspende-vouchers-formacion-laboral-pasara-programa-volver-al-trabajo.html",
+        "title": "Capital Humano suspende los vouchers de formación laboral: qué pasará con el programa Volver al Trabajo",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "evangelina anderson",
-            "masterchef celebrity",
-            "ian lucas",
-            "telefe",
-            "show"
+            "formando capital humano",
+            "ministerio de capital humano",
+            "políticas clave del gobierno",
+            "178142"
         ],
         "creator": [
-            "diario la unión"
+            "daniel medina"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-21 15:25:00",
+        "pubDate": "2026-04-22 15:29:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:42:57",
-        "image_url": "https://media.launion.com.ar/p/1fdc109d4310e90aeb4b23cc6b4a8f4d/adjuntos/379/imagenes/100/136/0100136934/1200x675/smart/k1rxsnq2.jpg",
+        "fetched_at": "2026-04-22 18:36:28",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2025/04/03/sandra-pettovello-1077576-094835.jpg",
         "video_url": null,
-        "source_id": "launion",
-        "source_name": "Inicio",
-        "source_priority": 418574,
-        "source_url": "https://www.launion.com.ar",
-        "source_icon": "https://n.bytvi.com/launion.png",
+        "source_id": "lagaceta",
+        "source_name": "La Gaceta",
+        "source_priority": 41850,
+        "source_url": "http://www.lagaceta.com.ar",
+        "source_icon": "https://n.bytvi.com/lagaceta.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -41,97 +39,134 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "可怕的家庭事故将伊恩·卢卡斯送往医院",
-        "description_zh": "伊恩·卢卡斯 (Ian Lucas) 遭遇事故后不得不被紧急送往医院。然后，《厨艺大师》名人奖得主讲述了发生的一切。伊恩·卢卡斯关于给伊万杰琳娜·安德森第二次机会的评价"
+        "title_zh": "人力资本暂停职业培训券：重返工作岗位计划会发生什么",
+        "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "69ec011d2e5b23dcbe3834901769154a",
-        "link": "https://www.mdzol.com/policiales/mi-papa-estaba-perdido-tiempo-y-espacio-el-crudo-relato-gianinna-maradona-n1497444",
-        "title": "\"Mi papá estaba perdido en tiempo y espacio\": el crudo relato de Gianinna Maradona",
-        "description": "El debate está a cargo del Tribunal Oral en lo Criminal N°7 de San Isidro. Siete de los ocho acusados de \"homicidio simple con dolo eventual” serán juzgados.",
+        "article_id": "bb7d63a8066717c7f200156926bd17c3",
+        "link": "https://www.elterritorio.com.ar/noticias/2026/04/22/880587-amenazas-en-escuelas-hay-casos-detectados-por-estados-de-whatsapp-o-publicaciones-digitales",
+        "title": "Amenazas en escuelas: \"Hay casos detectados por estados de WhatsApp o publicaciones digitales”",
+        "description": "Autoridades educativas confirmaron existieron casos que se originaron en WhatsApp y otras plataformas digitales. Hay estudiantes identificados y causas en curso.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "leopoldo luque",
-            "juicio",
-            "diego maradona",
-            "muerte"
+            "misiones"
         ],
         "creator": [
-            "mdzol"
+            "el territorio"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "lifestyle",
+            "education",
             "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-22 15:28:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-22 15:49:19",
+        "image_url": "https://elterritorio-s3.cdn.net.ar/s3i233/2026/04/elterritorio/images/02/56/40/2564086_dfde970b3f98f88009bc9755df0c4624e1d55a1caf2d7b5c0c88fd76b8df2141/md.webp",
+        "video_url": null,
+        "source_id": "elterritorio",
+        "source_name": "El Territorio",
+        "source_priority": 1548937,
+        "source_url": "https://www.elterritorio.com.ar",
+        "source_icon": "https://n.bytvi.com/elterritorio.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "学校中的威胁：“WhatsApp 状态或数字出版物发现了一些案例”",
+        "description_zh": "教育当局确认存在源自 WhatsApp 和其他数字平台的案例。有学生被识别，案件正在处理中。"
+    },
+    {
+        "article_id": "4c7673c889caa1864f8fbf32351c12c1",
+        "link": "https://www.eldiarioar.com/blog/relatos-ambientales/dia-tierra-energias-renovables-tres-paises-latinoamerica_132_13164425.html",
+        "title": "Día de la Tierra: energías renovables que transforman comunidades en tres países de Latinoamérica",
+        "description": "El Día de la Tierra se celebra cada 22 de abril y este año destaca la urgencia de transitar hacia las energías renovables. En Argentina, a pesar de los constantes apagones, existe un pueblo que nunca se queda sin electricidad gracias a una planta de generación de energía con cáscaras de maní. Desde 1970, cada 22 de abril se conmemora el Día Internacional de la Tierra, establecido por la Organización de Naciones Unidas (ONU). Cada año esta fecha es dedicada a reflexionar sobre la importancia de cuidar y preservar el planeta. Al igual que en 2025, la temática para este año sigue siendo el impulso a las energías renovables, ya que la energía está en el centro de la discusión sobre la crisis climática y también es clave para su solución. Según la ONU, el 75 % de las emisiones de gases de efecto invernadero a nivel mundial provienen del sector energético, particularmente de la quema de combustibles fósiles, como el gas, el petróleo y el carbón. A pesar de los avances en normativas ambientales y del impulso de tecnologías más limpias, el camino hacia un futuro sostenible continúa siendo difícil en Latinoamérica . Muchos sectores industriales, incluidos los relacionados con la generación de energía, están en un proceso de adaptación a nuevos estándares que buscan reducir su huella ambiental sin comprometer la productividad. Leer más | Bolivia: la ley de tierras del gobierno de Paz detona un nuevo conflicto con ambientalistas, pueblos indígenas y campesinos *************** FOTO PANEL SOLAR ESPINAR En el Día Internacional de la Tierra, Mongabay Latam presenta algunos proyectos que intentan impulsar la energía circular en Colombia, Perú y Argentina. Proyectos orientados a implementar energías renovables y, a la vez, emplear educación climática para el cuidado del medio ambiente. Un proyecto que ilumina a todo un pueblo en Colombia En Colombia existe un proyecto novedoso: las comunidades energéticas , que son grupos organizados —ciudadanos, asociaciones, entidades— que generan, gestionan y consumen su propia energía, principalmente renovable, bajo el marco de la transición energética justa. Esta iniciativa fue creada por el Gobierno colombiano, pero tiene el apoyo de organizaciones sin fines de lucro, como Transforma, entidad que promueve la acción climática con un enfoque de justicia para construir un futuro sostenible y que apoya proyectos sostenibles en localidades de la costa del Caribe colombiano. Uno de estos proyectos está en Palmor (departamento de Magdalena), donde se cuenta con una central hidroeléctrica pequeña. Leer más | Ecuador: minería ilegal y grupos armados desplazan a cientos de indígenas chachi en la costa norte David Ardila, economista y asociado senior en Energía de Transforma, relató a Mongabay Latam que l a pequeña hidroeléctrica tuvo un impacto favorable en la población de esta localidad y por eso colaboran para que la planta hidroeléctrica siga vigente. Según Ardila, se trabaja bajo tres enfoques: administración local, operatividad y mantenimiento . “Si las comunidades no asumen sus roles de administradores, operadores y de mantenimiento, los impactos no podrían ser efectivos y habría riesgos. Así, ahora la gente ve la transición energética como un impacto real”, afirmó. La pequeña hidroeléctrica de Palmor logró que la población tenga energía a bajo costo. Foto: cortesía Transforma. Palmor genera su propia energía y eso no es un asunto menor. Este corregimiento del municipio de Ciénaga (Magdalena) está situado en la parte alta de la Sierra Nevada de Santa Marta y fue fundado en la década de 1960 por campesinos, en su mayoría provenientes del interior del país, quienes se establecieron en estas tierras fértiles con la esperanza de reconstruir sus vidas. Es una zona que se dedica principalmente a la producción cafetera. A finales de los años 80, la luz era un lujo al que pocos podían acceder. La Junta de Acción Comunal de Palmor soñó con un proyecto que parecía imposible: construir una pequeña central hidroeléctrica que lleve electricidad a sus hogares. En esa época, la central tenía una capacidad inicial de 125 kilovatios (KW), suficiente para abastecer a unas 90 casas. La idea era ambiciosa y las dificultades parecían insuperables. Sin embargo, la comunidad respondió con entusiasmo y se unió al proyecto, aportando mano de obra y esfuerzo. La microcentral hidroeléctrica empezó a dar luz a las casas entre los años 1990 y 1991. En 2018, la Asociación de Usuarios del Servicio de Energía de Palmor de la Sierra (Electropalmor ESP) fue seleccionada por el Departamento Nacional de Planeación (DNP) de Colombia como una de las tres empresas en zonas no interconectadas de Colombia —que no están vinculadas al Sistema Interconectado Nacional (SIN) y carecen de un suministro eléctrico constante y de calidad— como referente para replicar su sistema de generación de energía eléctrica y aplicarlo en otros municipios del país. La planta hidroeléctrica de Palmor tiene equipos que son operados y mantenidos por la misma población. Foto: cortesía Transforma. Hoy, Electropalmor ESP produce hasta 400 KW y es un ejemplo de electrificación sostenible . “Nosotros estamos comprometidos con el desarrollo social a través de la generación , distribución y comercialización de energía sostenible , con el objetivo de proteger el medio ambiente y construir un futuro para las nuevas generaciones”, afirmó a Mongabay Latam Sol Viviana Zapata, directora de la empresa. Por su parte, Ardila calificó a Electropalmor ESP como la “cereza de la torta” por ser un proyecto exitoso y con resultados positivos. “ Es la única empresa que logró sobrevivir con un esquema local, con comunidades campesinas, indígenas. Esta empresa se sostiene sola prestando el servicio a bajo costo, con un régimen tarifario y haciendo mantenimiento a las turbinas”, relató. Cultivos de fresas a más de 4 000 metros de altura en Perú Elsa Merma vive en pleno Altiplano peruano, en Espinar, una población ubicada en pampas altas y frías a casi 4000 metros sobre el nivel del mar. Ahí, Merma hizo lo que muchos no pueden hacer: cultivar fresas de exportación . “Todos se sorprendían y nadie nos creía, pero lo hicimos”, relató a Mongabay Latam. La agricultora añadió que ese proyecto lo ejecuta junto a otras seis mujeres de Espinar. “Como en Espinar estamos en altura, no había verduras ni frutas”, afirmó Merma. Pero fue en ese momento cuando la producción de fresas apareció como una opción sostenible para zonas interandinas de Perú como esta, donde vienen desarrollándose proyectos desde hace varios años gracias a la implementación de invernaderos. Mujeres campesinas de Espinar, en Perú, cultivan fresas a más de 4 000 metros sobre el nivel del mar. Foto: Leopoldo Zambrana. Esos invernaderos permitieron que en zonas muy altas se puedan cultivar las fresas e incluso diferentes productos que requieren calor y mucho cuidado, como zanahorias, lechugas o tomates. La propuesta surgió de la profunda crisis económica que se vivió en el mundo durante la pandemia por el Covid-19. En plena emergencia sanitaria, la organización CooperAcción implementó tres microsistemas de bombeo de agua utilizando energía solar para la producción de fresas en invernaderos y producción de pasto a campo abierto . Dos de los microsistemas de bombeo benefician a dos asociaciones de mujeres dedicadas a la producción de fresas en Espinar (donde vive Elsa Merma) y en Chamaca, así como a dos familias en el sector de Pacpaco, de la comunidad campesina de Alto Huancané, dedicadas a la producción de pasto para ganados vacuno y ovino. Todas estas poblaciones son parte del departamento de Cusco y están muy cerca del lago Titicaca, fuente de agua compartida con Bolivia. Leer más | Los pendientes con el Acuerdo de Escazú en Colombia: protección a defensores, impunidad y acceso a la información | Informe Leopoldo Zambrano, antropólogo y especialista en comunidades campesinas de CooperAcción, detalló a Mongabay Latam que para la producción de fresas en Espinar se abastece 0.3 litros por segundo de agua a un tanque elevado . Con esa agua —dijo-— se riega un área de 100 metros cuadrados a través de riego por goteo. Por su parte, en Chamaca se tiene la capacidad de bombear 0.6 litros por segundo de agua hacia un geotanque de cinco metros cúbicos, con lo que se riega, bajo el mismo modelo de Espinar, un área de 340 metros cuadrados. “ En la construcción han participado en forma activa las beneficiarias con mano de obra no calificada. En la actualidad, las que operan estos microsistemas de bombeo de ‘agua solar’ son las propias beneficiarias, que en ocasiones especiales involucran a sus parejas con mantenimiento de fuentes de agua, reposición de accesorios deteriorados y reinstalación del sistema de goteo”, afirmó Zambrano. Las fresas de Espinar son producidas con riego obtenido por energía solar. Foto: Leopoldo Zambrano. El experto añadió que las fresas se producen sólo entre los meses de octubre a mayo y que en periodo seco o heladas no es posible la producción, ya que la temperatura desciende hasta -15°C en Espinar y -8°C en Chamaca. Aún así, en los meses de alta producción se cosechan aproximadamente 100 kilos cada 10 días en Espinar , explicó Merma. En Chamaca, por su parte, se producen 100 kilos cada semana. El cultivo de fresas se ha convertido en una alternativa de ingreso económico importante en Espinar, donde la minería es la principal fuente de trabajo. Las mujeres están felices porque hoy tienen un ingreso que viene de una actividad sostenible que les permite ganarse la vida sin contaminar su territorio. Un lugar en Argentina donde la cáscara de maní produce energía eléctrica El 1 de marzo de 2023 Argentina sufrió un apagón de más de tres horas que dejó sin energía eléctrica a más de 20 millones de personas. Muchas ciudades quedaron afectadas, pero en Ticino, una localidad en la provincia de Córdoba a 467 kilómetros de Buenos Aires, la luz siguió brillando. ¿La razón? En esa población de casi 3 000 habitantes se produce energía eléctrica con cáscaras de maní. Este producto vegetal autoabastece al pueblo con energía limpia y permitió dar respuesta a un problema ambiental y social que se arrastró durante años. Leer más | México: comunidades lograron un fallo que ordena descontaminar los ríos de la cuenca La Antigua y ahora luchan por restaurarlos Todo empezó hace 18 años. Argentina es el tercer productor de maní en el mundo y Ticino es parte del corredor de esa cadena productiva. En 2008, la cáscara de maní era considerada como basura que afectaba el medio ambiente e incluso era uno de los principales focos para el inicio de los incendios. La planta de energía eléctrica en Ticino, Argentina, funciona con cáscaras de maní. Foto: cortesía SGCT. El plan, que hasta ese entonces era una iniciativa privada de la empresa manisera Lorenzatti Ruech, comenzó a tomar ritmo con una inversión inicial de ocho millones de dólares y consistió en la creación de la firma Generación Ticino Biomasa y la construcción de la gran planta de generación eléctrica. En 2018, a los capitales privados se le sumó la asistencia del Estado argentino a través de RenovAR, un programa orientado a asistir a industrias de distintos puntos del país en proyectos para la generación eléctrica a partir de fuentes renovables. El acuerdo consistía en que el propio Estado sea el comprador a un precio estable de la energía que, una vez que ingresa a la red general, está disponible para abastecer al pueblo. “ Generación Ticino Biomasa es una central de generación de energía eléctrica con capacidad de 4.63 MW (megavatios) que opera en base a cáscara de maní y eventualmente en base a pequeños fragmentos de madera”, explicó a Mongabay Latam Fabio Bruschini, presidente de la empresa Generación Ticino Biomasa. El emprendedor detalló el proceso técnico. Según dijo, mediante la quema de la cáscara de maní se produce calor que genera vapor de alta presión en el domo de una caldera grande. Ese vapor expuesto a alta presión y alta temperatura ingresa a la turbina, donde se expande para generar trabajo mecánico en su eje. Finalmente, este eje acciona un generador eléctrico que es el que produce la electricidad en la central de biomasa. Las cáscaras de maní antes eran un desperdicio en Ticino. Ahora, son la materia principal para generar energía eléctrica. Foto: cortesía SGCT. “El vapor de baja presión que sale de la turbina se introduce en un condensador, donde cambia al estado líquido. Posteriormente, una bomba se encarga de aumentar la presión del fluido en la fase líquida para volver a introducirlo nuevamente en la caldera, cerrando de esta manera el ciclo”, detalló Bruschini. El vapor generado se expande en la turbina y acciona un generador eléctrico que entrega energía en 13,2 KV. El rendimiento global de la central es de 22.6 %. Ese rendimiento es algo positivo , según Bruschini, ya que se vinculan con la red de la Cooperativa de Servicios Públicos, Vivienda y Crédito “Ticinense” Ltda. Hace unas décadas la cáscara de maní era un desperdicio en Ticino, pero ahora es necesaria para la generación de energía eléctrica. En el pueblo tienen claro que la generación de energía renovable llegó para resolver dos problemas: la falta de electricidad de calidad y la dificultad de gestionar adecuadamente la enorme cantidad de cáscara de maní que dejaban los procesos industriales. El artículo original fue publicado por Ivan Paredes en Mongabay Latam. Puedes revisarlo aquí . Si quieres leer más noticias ambientales en Latinoamérica, puedes revisar nuestra colección de artículos . Y si quieres estar al tanto de las mejores historias de Mongabay Latam, puedes suscribirte al boletín aquí, unirte a nuestro canal de WhatsApp o seguirnos en Facebook , X , Instagram , Tiktok y Youtube .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "paises",
+            "dia",
+            "latinoamerica",
+            "renovables",
+            "energias",
+            "tierra",
+            "tres"
+        ],
+        "creator": [
+            "eldiarioar.com"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "business",
+            "environment"
         ],
         "datatype": "blog",
-        "pubDate": "2026-04-21 15:25:00",
+        "pubDate": "2026-04-22 15:28:51",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:31:42",
-        "image_url": "https://media.mdzol.com/p/53c45905d7e3c2cc8e6b27bc06d20f04/adjuntos/373/imagenes/001/916/0001916078/1200x675/1023x801:1043x821/dalma-y-gianinna-maradona-junto-veronica-ojeda.jpg",
+        "fetched_at": "2026-04-22 15:42:44",
+        "image_url": "https://static.eldiario.es/clip/61673f56-6e70-4ad7-b333-4662b361491b_16-9-discover-aspect-ratio_default_0.jpg",
         "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://n.bytvi.com/mdzol.png",
+        "source_id": "eldiarioar",
+        "source_name": "El Diario Ar",
+        "source_priority": 233338,
+        "source_url": "https://www.eldiarioar.com",
+        "source_icon": "https://n.bytvi.com/eldiarioar.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“我的父亲迷失在时间和空间中”：贾妮娜·马拉多纳的原始故事",
-        "description_zh": "辩论由圣伊西德罗第七口头刑事法庭负责。八名被指控“具有可能意图的简单杀人罪”的人中，有七人将接受审判。"
+        "duplicate": true,
+        "title_zh": "地球日：可再生能源改变三个拉丁美洲国家的社区",
+        "description_zh": "每年 4 月 22 日是地球日，今年凸显了转向可再生能源的紧迫性。在阿根廷，尽管经常停电，但有一个小镇的电力从未耗尽，这要归功于使用花生壳的发电厂。"
     },
     {
-        "article_id": "fc1b0f5217cf98d532a973a4decbf6f7",
-        "link": "https://www.estrelando.com.br/nota/2026/04/21/vem-beb%C3%AA-por-ai-raquel-brito-ex-a-fazenda-16-anuncia-gravidez-326667",
-        "title": "Vem bebê por aí! Raquel Brito, ex-A Fazenda 16, anuncia gravidez",
-        "description": "Tem bebê a caminho! Raquel Brito, ex-participante da 16a edição de A Fazenda, reality rural da TV Record , anunciou que está à espera do primeiro filho, fruto do casamento com Cleiton Souza. Nas redes sociais, a irmã de Davi Brito postou um vídeo ao lado do amado caminhando em uma praia. Em determinado momento da gravação, Raquel mostra o resultado positivo de um teste e a imagem do ultrassom. Estamos grávidos , escreveu na legenda. Confira: Ver essa foto no Instagram Um post compartilhado por Raquel Brito (@raquelbritoofc) Vale lembrar que Raquel foi desclassificada da competição após passar mal em uma das provas. Outra participante de A Fazenda que anunciou gravidez foi a jornalista Michelle Barros, que engatou um relacionamento com Shia Phoenix durante o confinamento. Estamos grávidos! Vamos compartilhar tudo por aqui com vocês , escreveu ela ao compartilhar cliques com o amado. Confira: Ver essa foto no Instagram Um post compartilhado por Michelle Barros (@michellebarros) Já nos segue no Instagram ? Por lá, compartilhamos tudo sobre celebridades, estilo, realities , séries, teen , bastidores do entretenimento e reportagens exclusivas. Vai ficar de fora dessa? O nosso perfil é @portal.estrelando .",
+        "article_id": "49c03080dd8ed80a0a5c0e6ef5ac7520",
+        "link": "https://odia.ig.com.br/brasil/2026/04/7239947-toffoli-se-declara-suspeito-em-votacao-sobre-prisao-de-ex-presidente-do-brb.html",
+        "title": "Toffoli se declara suspeito em votação sobre prisão de ex-presidente do BRB",
+        "description": "Placar está em 2 a 0, com votos de Mendonça e Fux",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "foruns",
-            "celebridades",
-            "quizes",
-            "realities",
-            "teens",
-            "enquetes",
-            "famosos",
-            "red carpet",
-            "séries",
-            "estilo",
-            "fotos",
-            "rakings",
-            "notícias",
-            "perfis"
+            "suspeito",
+            "stf",
+            "brb",
+            "prisão preventiva",
+            "votação",
+            "toffoli"
         ],
         "creator": [
-            "portal estrelando"
+            "estad&atilde;o conte&uacute;do"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "top",
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-21 15:25:00",
+        "pubDate": "2026-04-22 15:28:43",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:45:26",
-        "image_url": null,
+        "fetched_at": "2026-04-22 15:40:30",
+        "image_url": "https://odia.ig.com.br/_midias/jpg/2025/12/03/stf-37637648.jpeg",
         "video_url": null,
-        "source_id": "estrelando_br",
-        "source_name": "Estrelando",
-        "source_priority": 1214650,
-        "source_url": "https://www.estrelando.com.br",
-        "source_icon": null,
+        "source_id": "odia_ig_br",
+        "source_name": "Odia Ig Br",
+        "source_priority": 144458,
+        "source_url": "https://odia.ig.com.br",
+        "source_icon": "https://n.bytvi.com/odia_ig_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -139,123 +174,42 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "来吧宝贝！前 A Fazenda 16 成员拉奎尔·布里托 (Raquel Brito) 宣布怀孕",
-        "description_zh": "有个宝宝已经在路上了！ TV Record 乡村真人秀节目《A Fazenda》第 16 期的前参与者拉克尔·布里托 (Raquel Brito) 宣布，她即将迎来自己的第一个孩子，这是她与克莱顿·苏扎 (Cleiton Souza) 结婚的结果。在社交媒体上，达维·布里托的姐姐发布了一段视频，和她心爱的人一起在海滩上散步。因数"
+        "title_zh": "托弗里在逮捕前 BRB 主席的投票中宣布自己为嫌疑人",
+        "description_zh": "比分是 2-0，门多萨和福克斯投票"
     },
     {
-        "article_id": "d5b2501d2cc596d5af7db2f16983dab8",
-        "link": "https://www.poder360.com.br/poder-governo/lula-omc-nunca-mais-funcionou-depois-da-eleicao-de-obama/",
-        "title": "Lula: OMC “nunca mais funcionou” depois da eleição de Obama",
-        "description": "Petista também criticou protecionismo dos países e defendeu acordo Mercosul-UE; declaração foi durante visita a Portugal",
+        "article_id": "ff88fe7a86c9f54c08066c4387337635",
+        "link": "https://www.lanacion.com.ar/seguridad/detuvieron-en-la-ciudad-a-un-sospechoso-del-crimen-del-precandidato-a-presidente-de-colombia-miguel-nid22042026/",
+        "title": "Detuvieron en la Ciudad a un sospechoso del crimen del precandidato a presidente de Colombia Miguel Uribe Turbay",
+        "description": "El ciudadano colombiano cayó tras una investigación conjunta de autoridades policiales locales y del país cafetero",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "barcelona",
-            "portugal",
-            "china",
-            "márcio moreira",
-            "globalização",
-            "lisboa",
-            "aima",
-            "comercio internacional",
-            "rússia",
-            "antónio josé seguro",
-            "george w. bush",
-            "livre comércio",
-            "barack obama",
-            "hannover",
-            "palácio de belém",
-            "mauro vieira",
-            "fiocruz",
-            "luís montenegro",
-            "marcelo rebelo de sousa",
-            "espanha"
+            "policía federal argentina",
+            "magnicidio",
+            "colombia"
         ],
         "creator": [
-            "marina ferraz"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-21 15:24:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:31:54",
-        "image_url": "https://static.poder360.com.br/2026/04/lula-encontro-bracil-alemanha-21-abr-2026-848x477.jpg",
-        "video_url": null,
-        "source_id": "poder360_br",
-        "source_name": "Poder360",
-        "source_priority": 6639,
-        "source_url": "https://www.poder360.com.br",
-        "source_icon": "https://n.bytvi.com/poder360_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "卢拉：奥巴马当选后世贸组织“再也没有发挥过作用”",
-        "description_zh": "劳工党还批评各国的保护主义并捍卫南方共同市场-欧盟协议；在访问葡萄牙期间发表的声明"
-    },
-    {
-        "article_id": "567f7fea0f8f7771220014c718055e54",
-        "link": "https://cnnespanol.cnn.com/2026/04/21/eeuu/estadounidenses-muertos-chihuahua-mexico-cia-orix",
-        "title": "Estadounidenses muertos en accidente automovilístico en México tras redada antidrogas trabajaban para la CIA, según fuentes",
-        "description": "Dos funcionarios de la embajada estadounidense que murieron en un accidente automovilístico en México el domingo trabajaban para la CIA y colaboraban con funcionarios mexicanos en la ampliación de las operaciones antidrogas en el país, según confirmaron a CNN dos personas con conocimiento del caso.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "dea",
-            "méxico",
-            "cia",
-            "chihuahua"
-        ],
-        "creator": [
-            "natasha bertrand"
+            "valeria musse"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "peru",
-            "uruguay",
-            "puerto rico",
-            "panama",
-            "el salvador",
-            "cuba",
-            "dominican republic",
-            "guatemala",
-            "mexico",
-            "honduras",
-            "bolivia",
-            "nicaragua",
-            "guinea",
-            "costa rica",
-            "paraguay",
-            "spain",
-            "argentina",
-            "venezuela",
-            "ecuador",
-            "chile"
+            "argentina"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "top",
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-21 15:24:34",
+        "pubDate": "2026-04-22 15:28:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 16:04:32",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/accidente-mexico-cia.jpg?c=original/w_800",
+        "fetched_at": "2026-04-22 15:32:15",
+        "image_url": "https://resizer.glanacion.com/resizer/v2/AA5ILLKVCZHQHPA7IKQHQNXANE.webp?auth=7bf4c6561f1da098cf2e81805d9ff48a8f9d8a753ad050bda0c90b28ea84b4d5&smart=true&width=800&height=533",
         "video_url": null,
-        "source_id": "cnnespanol",
-        "source_name": "Cnn",
-        "source_priority": 16314,
-        "source_url": "https://cnnespanol.cnn.com",
-        "source_icon": "https://n.bytvi.com/cnnespanol.png",
+        "source_id": "lanacion",
+        "source_name": "La Nacion",
+        "source_priority": 7204,
+        "source_url": "https://www.lanacion.com.ar",
+        "source_icon": "https://n.bytvi.com/lanacion.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -263,45 +217,36 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "消息人士称，在为中央情报局工作的缉毒行动后，美国人在墨西哥遭遇车祸身亡",
-        "description_zh": "两名知情人士向美国有线电视新闻网证实，周日在墨西哥车祸中丧生的两名美国大使馆官员为中央情报局工作，并正在与墨西哥官员合作扩大在该国的反毒品行动。"
+        "title_zh": "他们在该市逮捕了一名涉嫌哥伦比亚总统候选人米格尔·乌里韦·图尔巴伊犯罪的嫌疑人",
+        "description_zh": "哥伦比亚公民在当地警方和咖啡种植国联合调查后摔倒"
     },
     {
-        "article_id": "6a0e722604de6d58e68e655643d81dca",
-        "link": "https://diariodopara.com.br/entretenimento/luto-em-chaves-morre-ator-que-viveu-o-iconico-ladrao-da-vila/",
-        "title": "Luto em Chaves: morre ator que viveu o icônico “ladrão da vila”",
-        "description": "Ricardo de Pascual marcou gerações com papel inesquecível no clássico da TV Ricardo de Pascual marcou gerações com papel inesquecível no clássico da TV O post Luto em Chaves: morre ator que viveu o icônico “ladrão da vila” apareceu primeiro em Diário do Pará .",
+        "article_id": "884497d9e12f5d40ea6c03980fdcade0",
+        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/04/mulheres-mais-velhos-e-moradores-do-norte-e-nordeste-puxam-apoio-a-regulacao-de-redes-para-menores.ghtml",
+        "title": "Mulheres, mais velhos e moradores do Norte e Nordeste puxam apoio à regulação de redes para menores",
+        "description": "Em meio à tramitação de um projeto de lei que prevê regras mais rígidas para o acesso de jovens às redes sociais, uma pesquisa inédita da Market Analysis com a ONG Family Talks indica amplo apoio da população à regulação. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ator",
-            "chaves",
-            "senhor furtado",
-            "televisão",
-            "sbt",
-            "luto"
-        ],
-        "creator": [
-            "matheus de oliveira"
-        ],
+        "keywords": null,
+        "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "top",
+            "politics"
         ],
-        "datatype": "news",
-        "pubDate": "2026-04-21 15:24:32",
+        "datatype": "blog",
+        "pubDate": "2026-04-22 15:28:33",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:47:07",
-        "image_url": "https://uploads.diariodopara.com.br/imagens/2026/04/IMG_3633.jpeg",
+        "fetched_at": "2026-04-22 16:09:06",
+        "image_url": "https://s2-oglobo.glbimg.com/mB7G65gXlCeftZv9NetW9stopDw=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2025/s/x/fJd87TTQuNFjDdGofjBQ/113177722-files-this-photo-taken-on-october-30-2025-shows-10-year-old-bianca-navarro-lying-on-the-fl.jpg",
         "video_url": null,
-        "source_id": "diariodopara",
-        "source_name": "Diário Do Pará",
-        "source_priority": 1552501,
-        "source_url": "https://diariodopara.dol.com.br",
-        "source_icon": "https://n.bytvi.com/diariodopara.jpg",
+        "source_id": "oglobo_globo",
+        "source_name": "O Globo",
+        "source_priority": 93485,
+        "source_url": "https://oglobo.globo.com",
+        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -309,81 +254,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "查韦斯哀悼：扮演标志性“村贼”的演员去世",
-        "description_zh": "里卡多·德·帕斯夸尔 (Ricardo de Pascual) 在电视经典剧《查韦斯的哀悼》中扮演了令人难忘的角色，为几代人留下了难忘的印象：扮演标志性“村贼”的演员在《帕拉日报》(Diário do Pará) 中首次亮相。"
+        "title_zh": "北部和东北部的妇女、老年人和居民支持未成年人网络监管",
+        "description_zh": "在一项对年轻人访问社交网络规定更严格规则的法案正在处理过程中，Market Analysis 与非政府组织 Family Talks 进行的一项史无前例的调查表明，公众对监管的广泛支持。订阅者的独家文章。要获得完全访问权限，请访问"
     },
     {
-        "article_id": "0fd6f658ff3380f142aa0fec22f07873",
-        "link": "https://www.folhabv.com.br/cotidiano/procon-assembleia-oferece-servicos-gratuitos-renegociacao-de-dividas-e-orientacao-ao-consumidor-em-acao-de-aniversario/",
-        "title": "Procon Assembleia oferece serviços gratuitos, renegociação de dívidas e orientação ao consumidor em ação de aniversário",
-        "description": "O Procon da Assembleia Legislativa de Roraima (ALERR) preparou uma programação especial que marca seus 14 anos de atuação no estado. A ação será realizada nesta quinta-feira (23), das 8h às 18h, na sede do órgão, localizada na avenida General Ataíde Teive, no 3510, no bairro Buritis. A iniciativa foi pensada para reforçar o papel do [...] O post Procon Assembleia oferece serviços gratuitos, renegociação de dívidas e orientação ao consumidor em ação de aniversário apareceu primeiro em Folha BV .",
+        "article_id": "6d65d334f9da460d27191341e8351729",
+        "link": "https://www.lanacion.com.ar/politica/el-fiscal-rechazo-la-reparacion-integral-que-propusieron-tapia-y-toviggino-para-hacer-caer-la-causa-nid22042026/",
+        "title": "El fiscal rechazó la “reparación integral” que propusieron Tapia y Toviggino para hacer caer la causa por evasión",
+        "description": "Claudio Navas Rial dictaminó en contra del planteo de la cúpula de la AFA, que había apostado a una interpretación de la ley de inocencia fiscal y a una omisión del Gobierno",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "folha web"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-21 15:24:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:49:15",
-        "image_url": "https://uploads.folhabv.com.br/2026/04/Diretor-do-Procon-Assembleia-Aldo-Carvalho-foto-Eduardo-Andrade1-scaled.jpg",
-        "video_url": null,
-        "source_id": "folhabv_br",
-        "source_name": "Folha Bv",
-        "source_priority": 2913228,
-        "source_url": "https://www.folhabv.com.br",
-        "source_icon": "https://n.bytvi.com/folhabv_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Procon Assembly 在周年纪念行动中提供免费服务、债务重新谈判和消费者指导",
-        "description_zh": "罗赖马州立法议会 (ALERR) 的 Procon 准备了一项特别计划，以纪念其在该州运作 14 周年。该行动将于本周四（23 日）上午 8 点至下午 6 点在该组织总部举行，总部位于 Buritis 社区的 Avenida General Ataíde Teive, no 3510。一个在"
-    },
-    {
-        "article_id": "ad3facc7ca16d050387517599a1a62df",
-        "link": "https://www.lavozdemisiones.com/policiales/detienen-a-una-empleada-domestica-por-la-muerte-de-un-anciano-en-garupa/",
-        "title": "Detienen a una empleada doméstica por la muerte de un anciano en Garupá",
-        "description": "Una joven empleada doméstica se encuentra detenida y a disposición de la Justicia desde el lunes a la tarde, en el marco de una investigación iniciada por la muerte de un anciano de 89 años, quien ese mismo día fue encontrado sin vida y con un golpe en la cabeza dentro de su casa en [...] La entrada Detienen a una empleada doméstica por la muerte de un anciano en Garupá se publicó primero en La Voz de Misiones .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "featured",
-            "policiales",
-            "garupá"
-        ],
-        "creator": [
-            "jorge posdeley"
+            "la nacion"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "top",
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-21 15:24:15",
+        "pubDate": "2026-04-22 15:28:31",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:44:28",
-        "image_url": "https://www.lavozdemisiones.com/wp-content/uploads/2026/04/image-3.jpg",
+        "fetched_at": "2026-04-22 15:32:15",
+        "image_url": "https://resizer.glanacion.com/resizer/v2/JXS2ZIXONFEQTOR777UKWHPM2I.JPG?auth=7019ca67ed935ea7be01661c60acbcd87e176be0b627c6a02f39beee85c59290&smart=true&width=831&height=624",
         "video_url": null,
-        "source_id": "lavozdemisiones",
-        "source_name": "La Voz De Misiones",
-        "source_priority": 770454,
-        "source_url": "https://www.lavozdemisiones.com",
-        "source_icon": "https://n.bytvi.com/lavozdemisiones.png",
+        "source_id": "lanacion",
+        "source_name": "La Nacion",
+        "source_priority": 7204,
+        "source_url": "https://www.lanacion.com.ar",
+        "source_icon": "https://n.bytvi.com/lanacion.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -391,93 +293,44 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "一名家政工人因加鲁帕一名老人的死亡而被捕",
-        "description_zh": "自周一下午以来，一名年轻家庭佣工已被拘留，并由司法部门处理，该调查是在一名 89 岁男子死亡事件引发的调查框架内进行的，该男子于同一天在 La en 的家中被发现死亡，头部受到重击。"
+        "title_zh": "检察官拒绝塔皮亚和托维吉诺提出的“全面赔偿”以逃税为由撤案",
+        "description_zh": "克劳迪奥·纳瓦斯·里亚尔否决了 AFA 领导层的提议，该提议选择了对财政无罪法的解释和政府的疏忽"
     },
     {
-        "article_id": "b8bf75424074b6f1a0dd4cb4a9582fff",
-        "link": "https://www.infobae.com/tendencias/2026/04/21/dia-internacional-de-la-banana-cinco-recetas-innovadoras-originales-y-saludables/",
-        "title": "Día Internacional de la Banana: cinco recetas innovadoras, originales y saludables",
-        "description": "Este día se celebra con propuestas culinarias que destacan la versatilidad y el valor nutricional de la fruta, invitando a sumarla en preparaciones dulces y saladas para aprovechar todos sus beneficios",
+        "article_id": "0661dcdff2966885df7751c659d4ed94",
+        "link": "https://www.correiobraziliense.com.br/brasil/2026/04/7403263-comissao-da-camara-aprova-mudanca-no-termo-quarto-de-empregada.html",
+        "title": "Comissão da Câmara aprova mudança no termo \"quarto de empregada\"",
+        "description": "Proposta mira linguagem ligada à escravidão e enfrenta uso de expressão associada a origem racista",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cocina de argentina",
-            "recetas",
-            "últimas noticias",
-            "banana",
-            "día internacional de la banana",
-            "frutas",
-            "recetas fáciles"
+            "câmara",
+            "business",
+            "racismo estrutural",
+            "& economics",
+            "finance",
+            "empregada doméstica"
         ],
         "creator": [
-            "infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "united states of america",
-            "argentina",
-            "mexico"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-21 15:24:10",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:31:30",
-        "image_url": "https://www.infobae.com/resizer/v2/SHSES2MHHVHV7H34ZCGWU2K5YI.jpg?auth=c7ddc7013ecacd8fa374791b50f5feb69ba218a39a60113c2b6113bc6d8356fd&smart=true&width=1456&height=816",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "国际香蕉日：五种创新、原创且健康的食谱",
-        "description_zh": "庆祝这一天的烹饪建议强调了这种水果的多功能性和营养价值，邀请您将其添加到甜味和咸味食品中，以充分利用其所有好处。"
-    },
-    {
-        "article_id": "3002c782bda418a5c1a6824a3b9425eb",
-        "link": "https://veja.abril.com.br/mundo/ataque-a-tiros-em-complexo-de-piramides-do-mexico-foi-atentado-planejado-diz-governo/",
-        "title": "Ataque a tiros em complexo de pirâmides do México foi atentado planejado, diz governo",
-        "description": "Turista canadense morreu e outras 13 pessoas ficaram feridas na segunda-feira no sítio arqueológico de Teotihuacan",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "américa do norte",
-            "claudia sheinbaum",
-            "violência",
-            "méxico"
-        ],
-        "creator": [
-            "caio saad"
+            "wal lima"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-21 15:24:05",
+        "pubDate": "2026-04-22 15:28:24",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:31:46",
-        "image_url": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2271773625.jpg?quality=70&strip=info",
+        "fetched_at": "2026-04-22 15:59:49",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/04/22/img-8721-66399815.jpg",
         "video_url": null,
-        "source_id": "veja_abril_br",
-        "source_name": "Veja",
-        "source_priority": 5562,
-        "source_url": "https://veja.abril.com.br",
-        "source_icon": "https://n.bytvi.com/veja_abril_br.png",
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -485,23 +338,150 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "政府称墨西哥金字塔群枪击事件是有计划的袭击",
-        "description_zh": "周一，加拿大游客在特奥蒂瓦坎考古遗址死亡，另有 13 人受伤"
+        "title_zh": "商会委员会批准更改“女仆房”一词",
+        "description_zh": "提案针对与奴隶制相关的语言，并面临使用与种族主义起源相关的表达方式"
     },
     {
-        "article_id": "b7f6ca9d7cc615bd035427639811789f",
-        "link": "https://www.elimparcial.com/mundo/2026/04/21/los-dos-estadounidenses-fallecidos-en-chihuahua-eran-de-la-cia-segun-revelo-el-nyt-y-mexico-investiga-si-su-presencia-tras-operativo-antidrogas-violo-la-ley-de-seguridad-nacional/",
-        "title": "Los dos estadounidenses fallecidos en Chihuahua eran de la CIA, según reveló el NYT, y México investiga si su presencia tras operativo antidrogas violó la Ley de Seguridad Nacional",
-        "description": "Reportes de NYT señalan que eran agentes de la CIA, mientras autoridades mexicanas investigan si su presencia tras el operativo antidrogas en Chihuahua ocurrió sin autorización federal y violó la Ley de Seguridad Nacional.",
+        "article_id": "111da856305289d8cc345ccd965b29ea",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/michael-filme-de-michael-jackson-tera-continuacao/",
+        "title": "“Michael”: filme de Michael Jackson terá continuação?",
+        "description": "Produção acompanha trajetória do artista desde a infância no The Jackson 5 até início da carreira solo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "cnn brasil"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-22 15:28:18",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-22 16:01:34",
+        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Michael-Jackson-2.jpg?w=1200&h=1200&crop=1",
+        "video_url": null,
+        "source_id": "cnnbrasil_br",
+        "source_name": "Cnn Brasil",
+        "source_priority": 1209,
+        "source_url": "https://www.cnnbrasil.com.br",
+        "source_icon": "https://n.bytvi.com/cnnbrasil_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "《迈克尔》：迈克尔·杰克逊的电影会有续集吗？",
+        "description_zh": "制作遵循艺术家从童年与杰克逊五人组一起到他个人职业生涯开始的轨迹"
+    },
+    {
+        "article_id": "d9fe3b4d53835ce731ffe20e8c88fc4c",
+        "link": "https://www.diarioregistrado.com/economia/roberto-frenkel---vamos-a-quedar-con-un-tipo-de-cambio-de-arabia-saudita--pero-sin-trabajo-para-la-gente-_a69e8e74b7f6a3a882da433d0",
+        "title": "Roberto Frenkel: “Vamos a quedar con un tipo de cambio de Arabia Saudita, pero sin trabajo para la gente\"",
+        "description": "El economista habló con Maxi Montenegro en Ahora Play y destrozó al plan de Luis Caputo y Javier Milei.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "operativo antidrogas",
-            "méxico",
+            "roberto frenkel",
+            "maxi montenegro",
+            "milei",
+            "luis caputo"
+        ],
+        "creator": [
+            "diario registrado"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "politics",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-22 15:28:14",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-22 15:38:27",
+        "image_url": "https://diario-assets.tadevel-cdn.com/69e8e7237f6a3a882da431ab/720.jpeg",
+        "video_url": null,
+        "source_id": "diarioregistrado",
+        "source_name": "Diario Registrado",
+        "source_priority": 75621,
+        "source_url": "https://www.diarioregistrado.com",
+        "source_icon": "https://n.bytvi.com/diarioregistrado.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "罗伯托·弗兰克尔：“我们将面临沙特阿拉伯的汇率，但人民却没有工作”",
+        "description_zh": "这位经济学家在 Ahora Play 中与马克西·黑山 (Maxi Montenegro) 进行了交谈，并摧毁了路易斯·卡普托 (Luis Caputo) 和哈维尔·米雷 (Javier Milei) 的计划。"
+    },
+    {
+        "article_id": "3559f53f2374397d8b1ca8a8362b17b3",
+        "link": "https://abcnoticias.mx/tendencia/2026/4/22/onda-de-calor-en-monterrey-como-cuidar-tu-minisplit-para-evitar-fallas-gastar-menos-279611.html",
+        "title": "Onda de calor en Monterrey: ¿Cómo cuidar tu minisplit para evitar fallas y gastar menos?",
+        "description": "¡No sufras por las altas temperaturas! Te decimos como cuidar tu aire acondicionado durante la temporada de calor.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "minisplit",
+            "onda de calor en mty",
+            "clima monterrey"
+        ],
+        "creator": [
+            "valeria pérez cortes"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-22 15:29:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-22 17:25:45",
+        "image_url": "https://abcnoticias.mx/u/fotografias/m/2026/4/22/f1280x720-344028_475703_5050.png",
+        "video_url": null,
+        "source_id": "abcnoticias",
+        "source_name": "Abc Noticias",
+        "source_priority": 300132,
+        "source_url": "https://abcnoticias.mx",
+        "source_icon": "https://n.bytvi.com/abcnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "蒙特雷的热浪：如何处理您的迷你分裂以避免失败并减少支出？",
+        "description_zh": "不怕高温！我们告诉您如何在炎热的季节保养空调。"
+    },
+    {
+        "article_id": "41b299246613d60d0a5a5ec92ff9ecd4",
+        "link": "https://www.elimparcial.com/mexico/2026/04/22/claudia-sheinbaum-confirma-salida-de-esthela-damian-para-buscar-candidatura-en-guerrero-e-invita-a-luisa-maria-alcalde-al-gabinete-federal/",
+        "title": "Claudia Sheinbaum confirma salida de Esthela Damián para buscar candidatura en Guerrero y anuncia que invitó a Luisa María Alcalde a tomar su lugar en el gabinete federal",
+        "description": "La presidenta confirmó que Esthela Damián dejará el gobierno para buscar una candidatura en Guerrero, mientras Luisa María Alcalde analiza abandonar la dirigencia de Morena para integrarse al gabinete federal.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ariadna montiel reyes",
+            "mañanera del pueblo",
             "claudia sheinbaum pardo",
-            "chihuahua",
-            "donald trump",
-            "estados unidos-méxico",
-            "cia"
+            "luisa maría alcalde luján",
+            "presidencia",
+            "amlo",
+            "morena"
         ],
         "creator": [
             "ana karen celaya"
@@ -514,10 +494,10 @@
             "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-21 15:25:00",
+        "pubDate": "2026-04-22 15:29:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:35:04",
-        "image_url": "https://www.elimparcial.com/resizer/v2/TDE3PKDUOVB3TNYXKI53KR5VI4.jpg?auth=6bd9f163055a973b1b32891ce9587a75c384eeab38a284f2841fdb95d54bf343&smart=true&width=1200&height=750",
+        "fetched_at": "2026-04-22 15:35:16",
+        "image_url": "https://www.elimparcial.com/resizer/v2/WPAASSE6ARHERBQBCGRYAC33ZU.jpg?auth=6a55f59cd20298edfd8b9025852a980561eaf23342858fbe5edf0383c0e009ab&smart=true&width=1200&height=750",
         "video_url": null,
         "source_id": "elimparcial",
         "source_name": "El Imparcial",
@@ -531,263 +511,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "据《纽约时报》透露，在奇瓦瓦州死亡的两名美国人来自中央情报局，墨西哥正在调查他们在禁毒行动后的存在是否违反国家安全法",
-        "description_zh": "《纽约时报》报道称，他们是中央情报局特工，而墨西哥当局正在调查他们在奇瓦瓦缉毒行动后的出现是否未经联邦授权，并违反了《国家安全法》。"
+        "title_zh": "克劳迪娅·谢因鲍姆确认埃斯特拉·达米安离开去格雷罗州寻求候选人资格，并宣布她邀请路易莎·玛丽亚·阿尔卡德接替她在联邦内阁中的位置",
+        "description_zh": "总统确认埃斯特拉·达米安将离开政府去格雷罗州寻求候选人资格，而路易莎·玛丽亚·阿尔卡德则分析离开莫雷纳领导层加入联邦内阁。"
     },
     {
-        "article_id": "613baf73aba0cd00c1c065659660dfe1",
-        "link": "https://periodicolavoz.com.mx/coahuila/cinco-manantiales/aseguran-casi-10-kilos-de-droga-tras-cateo-en-allende/369265",
-        "title": "Aseguran casi 10 kilos de droga en cateo en comunidad Río Bravo",
-        "description": "Operativo conjunto también decomisó cigarrillos electrónicos prohibidos y detectó envío de marihuana por paquetería.",
+        "article_id": "a9a487a56aa6d785e0e383bada47268d",
+        "link": "https://www.diario-deportes.com/noticias/los-padres-del-nino-de-13-anos-que-mato-a-una-mujer-con-una-estatua-arrojada-desde-un-balcon-de-napoles-enfrentan-cargos-de-homicidio-involuntario/283064/",
+        "title": "Los padres del niño de 13 años que ‘mató a una mujer con una estatua arrojada desde un balcón de Nápoles’ enfrentan cargos de homicidio involuntario",
+        "description": "Por SABRINA PENTY, PERIODISTA DE NOTICIAS EXTRANJERAS Publicado: 13:23 BST, 22 de abril de 2026 | Actualizado: 16:26 BST, 22 de abril de 2026 Los padres de un niño italiano de 13 años enfrentan cargos de homicidio involuntario después de que su hijo fuera acusado de asesinato un turista lanzando una pesada estatuilla desde un [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cateo en r&#237;o bravo",
-            "operativo ej&#233;rcito allende",
-            "cigarrillos electr&#243;nicos prohibidos",
-            "drogas en coahuila",
-            "fiscal&#237;a del estado allende"
-        ],
+        "keywords": null,
         "creator": [
-            "alberto ibarra riojas"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-21 15:25:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 21:43:20",
-        "image_url": "https://blobcore.periodicolavoz.com.mx/images/2026/04/21/sin-titulo-1-7bb120fa.jpg",
-        "video_url": null,
-        "source_id": "periodicolavoz_mx",
-        "source_name": "Periodicolavoz Mx",
-        "source_priority": 462138,
-        "source_url": "https://periodicolavoz.com.mx",
-        "source_icon": "https://n.bytvi.com/periodicolavoz_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们在 Río Bravo 社区搜查中查获近 10 公斤毒品",
-        "description_zh": "联合行动还查获了违禁电子烟，并查获通过包裹运送大麻。"
-    },
-    {
-        "article_id": "9fec83d5932263f2acd408394793d06a",
-        "link": "https://www.eldivisadero.cl/_noticia/Senadora-Ordenes-sobre-ley-miscelanea-Menos-ingresos-fiscales-significa-menos-estado-donde-m%C3%A1s-se-necesita/ODI1OTA=",
-        "title": "Senadora Ordenes sobre ley miscelanea: \"Menos ingresos fiscales significa menos estado donde más se necesita\"",
-        "description": "La legisladora se suma a las crĒticas transversales que ha suscitado esta iniciativa que, entre sus varios distintos ejes, contempla una decena de modificaciones econ3⁄4micas, que se traducirĒan en una importante reducci3⁄4n de lo que percibe el Estado en materia tributaria.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "aysén",
-            "divisadero",
-            "noticias",
-            "coyhaique"
-        ],
-        "creator": [
-            "el divisadero"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-21 15:25:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 19:43:15",
-        "image_url": "http://www.eldivisadero.cl/media/Noticias/for_fot23681.jpeg",
-        "video_url": null,
-        "source_id": "eldivisadero",
-        "source_name": "El Divisadero",
-        "source_priority": 453157,
-        "source_url": "http://eldivisadero.cl",
-        "source_icon": "https://n.bytvi.com/eldivisadero.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "参议员关于杂项法律的命令：“税收收入减少意味着最需要税收的州减少”",
-        "description_zh": "立法者加入了对该倡议提出的横向批评，该倡议在其几个不同的轴心中考虑了十几项经济改革，这将导致国家在税收方面的收入大幅减少。"
-    },
-    {
-        "article_id": "0debe2d23d2894f5c11e694ef0ed3834",
-        "link": "https://www.eldivisadero.cl/_noticia/Senadora-%C3%93rdenes-sobre-Ley-Miscel%C3%A1nea-Menos-ingresos-fiscales-significa-menos-Estado-donde-m%C3%A1s-se-necesita/ODI1OTA=",
-        "title": "Senadora Órdenes sobre Ley Miscelánea: \"Menos ingresos fiscales significa menos Estado donde más se necesita\"",
-        "description": "La legisladora se suma a las crĒticas transversales que ha suscitado esta iniciativa que, entre sus varios distintos ejes, contempla una decena de modificaciones econ3⁄4micas, que se traducirĒan en una importante reducci3⁄4n de lo que percibe el Estado en materia tributaria.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "aysén",
-            "divisadero",
-            "noticias",
-            "coyhaique"
-        ],
-        "creator": [
-            "el divisadero"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-21 15:25:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 23:12:20",
-        "image_url": "http://www.eldivisadero.cl/media/Noticias/for_fot23681.jpeg",
-        "video_url": null,
-        "source_id": "eldivisadero",
-        "source_name": "El Divisadero",
-        "source_priority": 453157,
-        "source_url": "http://eldivisadero.cl",
-        "source_icon": "https://n.bytvi.com/eldivisadero.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "参议员关于杂项法的命令：“税收收入减少意味着最需要的州减少”",
-        "description_zh": "立法者加入了对该倡议提出的横向批评，该倡议在其几个不同的轴心中考虑了十几项经济改革，这将导致国家在税收方面的收入大幅减少。"
-    },
-    {
-        "article_id": "7c7f486943fa96d6fa183c7b8dceb658",
-        "link": "https://oem.com.mx/elsoldemexico/finanzas/envejecimiento-de-fuerza-laboral-desafio-para-mas-de-la-mitad-de-las-empresas-29588626",
-        "title": "Envejecimiento de fuerza laboral, el desafío para más de la mitad de las empresas",
-        "description": "Un estudio de ManpowerGroup sugiere que quienes utilicen la IA para capturar, analizar y sintetizar conocimiento de los trabajadores que se jubilan podrían enfrentar mejor este reto",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "empresas",
-            "inspírame",
-            "inteligencia artificial",
-            "retiro"
-        ],
-        "creator": [
-            "bertha becerra"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-21 15:24:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 20:37:55",
-        "image_url": "https://oem.com.mx/publications/elsoldemexico/logo1200x630.jpg",
-        "video_url": null,
-        "source_id": "elsoldemexico",
-        "source_name": "El Sol De Mexico",
-        "source_priority": 101294,
-        "source_url": "https://www.elsoldemexico.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldemexico.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "劳动力老龄化是超过一半公司面临的挑战",
-        "description_zh": "万宝盛华集团的一项研究表明，那些使用人工智能来捕获、分析和综合退休工人知识的人可以更好地应对这一挑战"
-    },
-    {
-        "article_id": "c10e473f3b4009316f9f36da3477ab7e",
-        "link": "https://www.noroeste.com.mx/nacional/embajador-de-eu-ofrece-ayuda-a-mexico-tras-tiroteo-en-teotihuacan-AB21756969",
-        "title": "Embajador de EU ofrece ayuda a México tras tiroteo en Teotihuacán",
-        "description": "Ronald Johnson, Embajador de Estados Unidos en México, ofreció la colaboración del Gobierno de su país a las autoridades mexicanas tras el tiroteo perpetrado por un sujeto contra turistas en la zona de las Pirámides de Teotihuacán, en el Estado de México. El ataque, ocurrido en la Pirámide de la Luna, dejó una mujer de nacionalidad canadiense sin vida, al menos 13 personas lesionadas y al atacante muerto. A través de un mensaje difundido en sus redes sociales, Johnson expresó preocupación y tristeza por los hechos. “He seguido con profunda preocupación y tristeza el tiroteo ocurrido en Teotihuacán, que resultó en la trágica pérdida de vidas y múltiples personas heridas, incluyendo a varios ciudadanos estadounidenses”, señaló. “Estamos listos para apoyar en lo que se requiera mientras las autoridades mexicanas continúan con la investigación. Nuestras oraciones están con las personas afectadas y sus familias”. Entre las 13 víctimas lesionadas se encuentran ciudadanos de diversas nacionalidades, así como dos menores de edad: Gerónimo González, de 6 años, de nacionalidad colombiana, y Leticia Mondea, de 13 años, originaria de Brasil. El atacante actuó en solitario y también perdió la vida durante el incidente. La Secretaría de Gobernación confirmó que ocho personas permanecen hospitalizadas bajo vigilancia médica, en tanto que otras cinco ya recibieron el alta correspondiente. Las autoridades mexicanas mantienen abierta la investigación sobre el ataque.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ronald johnson",
-            "embajador de eu",
-            "teotihuacán",
-            "seguridad",
-            "estados unidos",
-            "tiroteo",
-            "carlos álvarez"
-        ],
-        "creator": [
-            "carlos álvarez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-21 15:24:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 18:43:59",
-        "image_url": "https://www.noroeste.com.mx/binrepository/embajador_1-13162707_20260421082424.jpg",
-        "video_url": null,
-        "source_id": "noroeste",
-        "source_name": "Noroeste",
-        "source_priority": 841816,
-        "source_url": "https://www.noroeste.com.mx",
-        "source_icon": "https://n.bytvi.com/noroeste.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "美国大使在特奥蒂瓦坎枪击事件后向墨西哥提供帮助",
-        "description_zh": "在墨西哥州特奥蒂瓦坎金字塔地区发生枪击事件后，美国驻墨西哥大使罗纳德·约翰逊向墨西哥当局表示美国政府将提供合作。此次袭击发生在金字塔内"
-    },
-    {
-        "article_id": "782aa09926e982fe2708d09658ced853",
-        "link": "https://santamartaaldia.co/barranquillera-desaparecida-en-europa-murio-en-derrumbe-en-chipre-ahora-su-familia-lucha-por-identificarla-y-traerla-al-pais/",
-        "title": "Barranquillera desaparecida en Europa murió en derrumbe en Chipre; ahora su familia lucha por identificarla y traerla al país",
-        "description": "La joven creadora de contenido, reportada como desaparecida tras el derrumbe ocurrido en Limassol, figura entre las víctimas fatales. Sus familiares adelantan gestiones para cumplir con los requisitos de identificación y traer sus restos a Colombia. La incertidumbre terminó en dolor para una familia barranquillera. Este martes se confirmó el fallecimiento de Leonela Alemán Morales, [...] The post Barranquillera desaparecida en Europa murió en derrumbe en Chipre; ahora su familia lucha por identificarla y traerla al país appeared first on Santa Marta Al Día .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "portada",
-            "judiciales"
-        ],
-        "creator": [
-            "redacción smad"
+            "james thornton"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
+            "top",
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-21 15:24:45",
+        "pubDate": "2026-04-22 15:28:59",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:45:01",
-        "image_url": "https://santamartaaldia.co/wp-content/uploads/2026/04/Foto-2-de-Canva-3-3.jpg",
+        "fetched_at": "2026-04-22 15:33:36",
+        "image_url": "https://www.diario-deportes.com/wp-content/uploads/2026/04/108071845-15755055-Chiara_Jaconis_was_killed_in_2024_after_she_was_struck_in_the_he-a-20_1776860498904.jpg",
         "video_url": null,
-        "source_id": "santamartaaldia_co",
-        "source_name": "Santamartaaldia Co",
-        "source_priority": 819227,
-        "source_url": "https://santamartaaldia.co",
-        "source_icon": "https://n.bytvi.com/santamartaaldia_co.png",
+        "source_id": "diariodeportes",
+        "source_name": "Diario Deportes",
+        "source_priority": 5090,
+        "source_url": "http://diario-deportes.com",
+        "source_icon": "https://n.bytvi.com/diariodeportes.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -795,42 +550,97 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "在欧洲失踪的巴兰基耶拉在塞浦路斯的塌方中丧生；现在，她的家人正在努力寻找她的身份并将她带回该国。",
-        "description_zh": "据报道，这位年轻的内容创作者在利马索尔发生倒塌事故后失踪，也是死亡人数之一。他的亲属正在采取措施遵守身份识别要求，并将他的遗体运回哥伦比亚。不确定性最终给一个家庭带来了痛苦"
+        "title_zh": "“用从那不勒斯阳台扔下的雕像杀死妇女”的13岁男孩的父母面临过失杀人指控",
+        "description_zh": "作者：SABRINA PENTY，外国新闻记者 发布时间：2026 年 4 月 22 日，英国夏令时 13:23 |更新时间： 2026 年 4 月 22 日英国夏令时 16:26 一名 13 岁意大利男孩的父母因儿子被指控投掷物品谋杀一名游客而面临过失杀人罪指控"
     },
     {
-        "article_id": "a9ad82f6269d79e001bae9b2720fa0ff",
-        "link": "https://oem.com.mx/elheraldodetabasco/local/encabeza-javier-may-conmemoracion-de-la-gesta-heroica-del-puerto-de-veracruz-29604212",
-        "title": "Encabeza Javier May conmemoración de la Gesta Heroica del Puerto de Veracruz",
-        "description": "La ceremonia se realizó en la Tercera Región Naval con sede en Paraíso, Tabasco",
+        "article_id": "34bd40bfef6561b94556b1d63014c763",
+        "link": "https://www.latercera.com/el-deportivo/noticia/conmocion-en-el-futbol-chileno-fallece-jugador-de-la-categoria-sub-15-de-huachipato/",
+        "title": "Conmoción en el fútbol chileno: fallece jugador de la categoría Sub 15 de Huachipato",
+        "description": "El cuadro acerero informó el deceso de uno de los futbolistas de sus divisiones inferiores.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "veracruz",
-            "sedena",
-            "tabasco"
+            "fútbol chileno",
+            "huachipato",
+            "fallecimiento",
+            "luto",
+            "fútbol nacional",
+            "fútbol"
         ],
         "creator": [
-            "josé pérez"
+            "lucas mujica"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-22 15:28:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-22 15:35:34",
+        "image_url": "https://www.latercera.com/resizer/v2/JAWOZT322VE7ZG57GN63OAXAAU.jfif?auth=0f95e8d3ee7764b7fcba994b83f297d79f189617589ded4bdd9aaf467530cf5b&smart=true&width=2048&height=1366",
+        "video_url": null,
+        "source_id": "latercera",
+        "source_name": "Latercera",
+        "source_priority": 32330,
+        "source_url": "https://www.latercera.com",
+        "source_icon": "https://n.bytvi.com/latercera.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "智利足球震惊：瓦奇帕托 15 岁以下组球员去世",
+        "description_zh": "钢铁队报告一名低级别足球运动员死亡。"
+    },
+    {
+        "article_id": "65348943a4d79cdbec2299d2bdb30ee0",
+        "link": "https://www.tvnotas.com.mx/espectaculos-mexico/muere-karina-duprez-actriz-de-rosa-salvaje-a-los-79-anos-asi-fue-como-la-despidieron",
+        "title": "Muere Karina Duprez, actriz de ‘Rosa Salvaje’, a los 79 años; así fue como la despidieron",
+        "description": "Durante la mañana de este 22 de abril, se dio a conocer la muerte de Karina Duprez, directora de telenovelas, primera actriz y madre de Magda Karina.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "karina duprez mamá",
+            "karina duprez qué le pasó",
+            "karina duprez hija",
+            "muerte",
+            "karina duprez muere",
+            "karina duprez muerte",
+            "actriz",
+            "muere",
+            "karina duprez última foto",
+            "karina duprez",
+            "karina duprez funeral",
+            "karina duprez quién es",
+            "magda guzmán"
+        ],
+        "creator": [
+            "tvnotas"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-21 15:24:42",
+        "pubDate": "2026-04-22 15:28:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 21:11:44",
-        "image_url": "https://oem.com.mx/elheraldodetabasco/img/29604693/1776787226/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-04-22 17:45:46",
+        "image_url": "https://assets.tvnotas.com.mx/dims4/default/4c5630b/2147483647/strip/false/crop/1200x675+0+13/resize/1200x675!/quality/90/?url=https%3A%2F%2Fk3-prod-tvnotas.s3.us-west-2.amazonaws.com%2Fbrightspot%2F15%2F4f%2F2ffc9d9d4e6db8196da4adc9147c%2Fproyecto-nuevo-2026-04-22t090318-185.jpg",
         "video_url": null,
-        "source_id": "elheraldodetabasco_mx",
-        "source_name": "El Heraldo De Tabasco",
-        "source_priority": 342600,
-        "source_url": "https://www.elheraldodetabasco.com.mx",
-        "source_icon": "https://n.bytvi.com/elheraldodetabasco_mx.png",
+        "source_id": "tvnotas",
+        "source_name": "Tvnotas",
+        "source_priority": 46958,
+        "source_url": "https://www.tvnotas.com.mx",
+        "source_icon": "https://n.bytvi.com/tvnotas.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -838,43 +648,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "哈维尔·梅主持韦拉克鲁斯港英雄事迹纪念活动",
-        "description_zh": "仪式在塔巴斯科州帕拉伊索的第三海军区举行"
+        "title_zh": "《Rosa Salvaje》女演员卡琳娜·杜普雷斯 (Karina Duprez) 去世，享年 79 岁；他们就是这样解雇她的",
+        "description_zh": "今年4月22日上午，肥皂剧导演、女主角、玛格达·卡琳娜的母亲卡琳娜·杜普雷去世的消息被宣布。"
     },
     {
-        "article_id": "24578622314483a0126754c9ea2f3775",
-        "link": "https://www.informateymas.com/2026/04/21/la-independencia-tambien-se-gano-en-el-mar-llega-exposicion-al-mucic/",
-        "title": "La Independencia también se ganó en el mar: llega exposición al MuCiC",
-        "description": "Cuernavaca, 21 de abril 2026 (Infórmate y +).- La exposición “200 años de la consolidación de la Independencia en el Mar. Origen y evolución de la Secretaría de Marina-Armada de México”, llega al Museo de la Ciudad de Cuernavaca (MuCiC), la cual permanecerá vigente hasta el 04 de mayo. La inauguración estuvo encabezada por la [...]",
+        "article_id": "e29d61cbb3abf0558fc67c4f57842502",
+        "link": "https://vcnnoticias.mx/2026/04/22/puebla-refuerza-seguridad-con-mas-de-300-elementos-de-la-guardia-nacional-para-la-feria-2026/09/28/46/",
+        "title": "Puebla refuerza seguridad con más de 300 elementos de la Guardia Nacional para la Feria 2026",
+        "description": "Ciudad de Puebla, Pue. – Con la participación de la Guardia Nacional, la Secretaría de la Defensa Nacional y la Secretaría de Marina, el Gobierno del Estado de Puebla anunció un amplio operativo de seguridad para la Feria de Puebla 2026, con el objetivo de garantizar un ambiente de paz y tranquilidad para las y ...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cuernavaca",
-            "paula trade",
-            "museo",
-            "síndica municipal",
-            "exposición"
+            "alejandro armenta mier",
+            "gobierno de puebla"
         ],
         "creator": [
-            "p a"
+            "redaccion vcn"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "lifestyle"
+            "politics"
         ],
-        "datatype": "news",
-        "pubDate": "2026-04-21 15:24:40",
+        "datatype": "blog",
+        "pubDate": "2026-04-22 15:28:46",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 15:48:44",
-        "image_url": "https://www.informateymas.com/wp-content/uploads/2026/04/La-Independencia-tambien-se-gano-en-el-mar-llega-exposicion-al-MuCiC-1.jpg",
+        "fetched_at": "2026-04-22 15:54:13",
+        "image_url": "https://vcnnoticias.mx/wp-content/uploads/2026/04/image-300.png",
         "video_url": null,
-        "source_id": "informateymas",
-        "source_name": "Infórmate Y Más",
-        "source_priority": 2963921,
-        "source_url": "https://www.informateymas.com",
-        "source_icon": "https://n.bytvi.com/informateymas.jpg",
+        "source_id": "vcnnoticias",
+        "source_name": "Vcn Noticias",
+        "source_priority": 13920972,
+        "source_url": "https://vcnnoticias.mx",
+        "source_icon": "https://n.bytvi.com/vcnnoticias.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -882,44 +689,84 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "独立也在海上赢得：展览抵达 MuCiC",
-        "description_zh": "库埃纳瓦卡，2026 年 4 月 21 日（了解更多和 +）。- 展览“海上独立巩固 200 年。墨西哥海军秘书处的起源和演变”抵达库埃纳瓦卡市博物馆 (MuCiC)，展览有效期至 5 月 4 日。"
+        "title_zh": "普埃布拉为 2026 年博览会派遣了 300 多名国民警卫队加强安全",
+        "description_zh": "普埃布拉市，普埃。 – 在国民警卫队、国防部秘书处和海军秘书处的参与下，普埃布拉州政府宣布为 2026 年普埃布拉博览会开展广泛的安全行动，旨在保证和平与安宁的环境。"
     },
     {
-        "article_id": "f09381fb4896ea6d13c4dd4fc3e45a14",
-        "link": "https://oem.com.mx/elsoldetlaxcala/local/recibiran-mas-de-dos-mil-700-tlaxcaltecas-sus-tarjetas-de-bienestar-29601516",
-        "title": "Recibirán más de dos mil 700 tlaxcaltecas sus tarjetas de Bienestar",
-        "description": "Con el plástico podrán cobrar los recursos de la pensión de Adultos Mayores y Mujeres Bienestar",
+        "article_id": "e12d3d9584cc1e98040089df6e3267ef",
+        "link": "https://www.lacuarta.com/tendencias/noticia/dia-de-la-tierra-tecnologia-de-refrigeracion-apunta-a-reducir-el-desperdicio-de-alimentos-en-los-hogares/",
+        "title": "Día de la Tierra: Tecnología de refrigeración apunta a reducir el desperdicio de alimentos en los hogares",
+        "description": "Sistemas de refrigeración más estables apuntan a extender la vida útil de frutas y verduras, en un contexto donde los hogares concentran la mayor parte de la comida que se desecha.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "ayúdame",
-            "adultos mayores",
-            "mantenme informado",
-            "mijares",
-            "pensiones bienestar"
+            "día de la tierra",
+            "refrigeradores"
         ],
         "creator": [
-            "nadia mendoza"
+            "paulo quinteros"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "business",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-22 15:28:43",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-22 15:36:18",
+        "image_url": "https://www.lacuarta.com/resizer/v2/CH6LMAVBQZAQHHJ3EQVS6LNXWY.png?auth=9343198022e08a1760de1b8bd85bc618c0a3b8afe2c944959e622ea731e3a67a&smart=true&width=1900&height=1080",
+        "video_url": null,
+        "source_id": "lacuarta",
+        "source_name": "La Cuarta",
+        "source_priority": 33259,
+        "source_url": "https://www.lacuarta.com",
+        "source_icon": "https://n.bytvi.com/lacuarta.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "地球日：制冷技术旨在减少家庭食物浪费",
+        "description_zh": "更稳定的制冷系统旨在延长水果和蔬菜的使用寿命，因为家庭集中了大部分被丢弃的食物。"
+    },
+    {
+        "article_id": "2442e9ec702c4f2713fa7b7d3eb593ab",
+        "link": "https://diario.mx/internacional/2026/apr/22/fuerzas-iranies-afirman-confiscar-2-barcos-tras-la-extienda-de-la-tregua-de-trump-1115074.html",
+        "title": "Fuerzas iraníes afirman confiscar 2 barcos tras la extienda de la tregua de Trump",
+        "description": "Los Guardianes Revolucionarios de Irán afirmaron que habían atacado y capturado dos buques de carga cerca del Estrecho de Ormuz, según informaron medios estatales. Ambas partes intentaban ejercer control en la vía fluvial incluso cuando el presidente Trump renovaba un alto el fuego",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "estrecho de ormuz",
+            "irán"
+        ],
+        "creator": [
+            "the new york times"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "top",
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-21 15:24:39",
+        "pubDate": "2026-04-22 15:28:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-21 20:42:43",
-        "image_url": "https://oem.com.mx/elsoldetlaxcala/img/29599908/1776784984/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-04-22 15:33:51",
+        "image_url": "https://diario.mx/core/dmx/assets/images/2026/04/22/22israel-iran-header-jbzw-superjumbo-YXsrddKch.jpg",
         "video_url": null,
-        "source_id": "elsoldetlaxcala_mx",
-        "source_name": "Elsoldetlaxcala Mx",
-        "source_priority": 348815,
-        "source_url": "https://www.elsoldetlaxcala.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldetlaxcala_mx.jpg",
+        "source_id": "diario",
+        "source_name": "El Diario",
+        "source_priority": 14955,
+        "source_url": "https://diario.mx",
+        "source_icon": "https://n.bytvi.com/diario.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -927,7 +774,81 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "超过 2,700 名特拉斯卡拉人将收到健康卡",
-        "description_zh": "有了塑料，他们将能够收集老年人养老金和妇女福利的资源"
+        "title_zh": "伊朗军队声称在特朗普延长休战协议后扣押了两艘船只",
+        "description_zh": "据官方媒体报道，伊朗革命卫队声称他们在霍尔木兹海峡附近袭击并俘获了两艘货船。尽管特朗普总统重申停火，双方仍试图控制该水道。"
+    },
+    {
+        "article_id": "76ae21dec8ffcec9e2b1ffb6b01150e6",
+        "link": "https://www.adslzone.net/noticias/internet/lectores-codigo-qr-estacion-trenes-valladolid/",
+        "title": "Adiós a los billetes de autobús: la ciudad española en la que ya se puede acceder al transporte con solo llevar el móvil encima",
+        "description": "Durante décadas, las estaciones de autobuses en España han mantenido un modelo de acceso libre y, en ocasiones, algo caótico, donde viajeros y acompañantes se mezclaban a pie de dársena. Sin embargo, esto está a punto de cambiar, para dar paso a un entorno digitalizado y restringido , muy similar al que vemos en aeropuertos internacionales. La ciudad española que acaba de sumarse a lo último en tecnología, de la mano de los códigos QR , es Valladolid, dado que ya ha comenzado las pruebas para implementar un nuevo sistema de acceso a su terminal terrestre. Según informa el Diario de Valladolid , la instalación de estos nuevos módulos automáticos pretende hacer que acceder a estos lugares sea muy cómodo para el viajero, pero imposible para los acompañantes que iban a despedirse de él. De este modo, se garantiza que la zona de embarque sea un espacio seguro y eficiente. Acceso automático El cambio aparece al automatizar el acceso. Hasta ahora, el billete servía únicamente como comprobante para el conductor, pero en el nuevo modelo de la estación vallisoletana, el tique digital generado tras la compra, tanto por internet como si se adquiere en taquilla, incluirá un código QR dinámico , que será a través del cual se abrirán las nuevas puertas acristaladas que se están instalando en cada dársena. Actualmente, tal y como detalla la fuente citada, ya se ha instalado un módulo de prueba entre los andenes 17 y 18 para testar la fiabilidad del sistema. Estas puertas, además de actuar como una barrera física, están conectadas a una centralita de control inteligente que activa la apertura y el cierre en función de la llegada o salida programada de los autobuses. Este sistema permite: Controlar el aforo real: Evitando aglomeraciones innecesarias en zonas donde los autobuses deben maniobrar. Optimizar la climatización: Los cerramientos acristalados ayudan a mantener una temperatura más estable en las salas de espera interiores. Seguridad integral: Solo los usuarios con un justificante de trayecto válido pueden acceder al área de embarque. Instalación de una de las puertas automáticas. Imagen: Juan García / Diario de Valladolid ¿Qué pasa con los acompañantes? Uno de los cambios que más impacto tendrá en los viajeros es la restricción de acceso a los andenes para aquellas personas que no viajen. Siguiendo la estela de ciudades como León o Palencia , que ya cuentan con sistemas similares, los acompañantes ya no podrán bajar a la zona de dársenas para ayudar con las maletas o dar el último abrazo de despedida antes de que el bus inicie su viaje.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "iván dávila"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-22 15:28:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-22 16:09:29",
+        "image_url": "https://www.adslzone.net/app/uploads-adslzone.net/2026/04/Autobus-Valladolid.jpg",
+        "video_url": null,
+        "source_id": "adslzone",
+        "source_name": "Adslzone",
+        "source_priority": 120666,
+        "source_url": "https://www.adslzone.net",
+        "source_icon": "https://n.bytvi.com/adslzone.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "告别巴士票：西班牙城市现在只需携带手机即可乘坐交通工具",
+        "description_zh": "几十年来，西班牙的公交车站一直保持着免费通行的模式，有时还有些混乱，旅客和同伴在码头脚下混在一起。然而，这种情况即将改变，让位于数字化和受限的环境，非常相似"
+    },
+    {
+        "article_id": "a264b182e6d1eea27bc2965f920757cf",
+        "link": "https://www.elcolombiano.com/deportes/neymar-absuelto-justicia-cerro-caso-corrupcion-fichaje-barcelona-DE35753231",
+        "title": "Neymar, absuelto: Justicia española cerró caso de su fichaje por el Barcelona",
+        "description": "El Tribunal Supremo español confirmó la absolución del delantero brasileño Neymar y del resto de procesados por las supuestas irregularidades en su fichaje por el FC Barcelona en 2013, tal y como ya había determinado la Audiencia de Barcelona tras el juicio celebrado hace casi cuatro años. En un comunicado emitido este miércoles, el alto tribunal español consideró “que los hechos probados han reflejado la inconsistencia de la acusación” que ya solo ejercía la compañía brasileña DIS, dueña del 40% de los derechos federativos de Neymar cuando todavía era una joven promesa del Santos. “No hubo ni delito de corrupción en los negocios ni estafa impropia. Ni por el jugador ni sus representantes ni por el FC Barcelona . Todo se debió a una decisión deportiva del club que quiso asegurarse su fichaje y luego decidió adelantarlo”, agrega la nota. La sentencia del Tribunal Supremo, con fecha del 16 de abril, avala así la decisión de la Audiencia de Barcelona, que ya había absuelto al jugador -ahora de 34 años y de regreso al Santos-, a sus padres, a los expresidentes del Barça Sandro Rosell y Josep María Bartomeu y a un exdirigente del club paulista en diciembre de 2022. Le puede interesar: Video| Emocionante gesto de un niño con Neymar: “para que vaya al Mundial” El inicio de esta enrevesada saga judicial se remonta, sin embargo, más atrás. En 2015, DIS recurrió a la justicia española acusando al Barça, al jugador y su entorno de haberle engañado para ocultarle el monto real del polémico traspaso. DIS, que recibió 6,8 millones de euros en la operación, les reprochaba, además, no haber sido informado de un supuesto contrato de exclusividad suscrito en 2011 con el Barça, y que habría adulterado la libre competencia para hacerse con el prometedor atacante. Pero ni el Ministerio Público -que acabó retirando sus acusaciones en la recta final del juicio-, ni después los magistrados consideraron los hechos como delictivos. Siga leyendo: Lula da Silva revela el consejo que le dio a Ancelotti sobre Neymar: “tiene que ser profesional” Tras el mediático juicio celebrado en 2022 en Barcelona -y al que también acudió a declarar Neymar, por entonces en el Paris Saint Germain - la Audiencia de Barcelona absolvió a los procesados, pero DIS decidió recurrir. El controvertido fichaje de Neymar por el FC Barcelona en 2013 acabó convertido en una entreverada saga legal que se extendió durante años, con varios enfrentamientos entre las diferentes partes. Bloque de preguntas y respuestas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-22 15:28:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-22 16:10:01",
+        "image_url": "https://estaticos.elcolombiano.com/binrepository/368x300/0c0/0d0/center/11101/HJKB/neuma4_50432675_20260422094355.jpg",
+        "video_url": null,
+        "source_id": "elcolombiano",
+        "source_name": "Elcolombiano",
+        "source_priority": 109876,
+        "source_url": "https://www.elcolombiano.com",
+        "source_icon": "https://n.bytvi.com/elcolombiano.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "内马尔被无罪释放：西班牙法官结束了他与巴塞罗那签约的案件",
+        "description_zh": "西班牙最高法院确认巴西前锋内马尔和其他被告无罪释放，因为他在 2013 年与巴塞罗那足球俱乐部签约时涉嫌违规，巴塞罗那法院在近四年前的审判后就已经做出了裁决。在"
     }
 ]
