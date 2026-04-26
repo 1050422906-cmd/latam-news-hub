@@ -1,34 +1,106 @@
 [
     {
-        "article_id": "17d2a2e2bee67c6d7716dcb7d064ed18",
-        "link": "https://www.dgabc.com.br/Noticia/4316091/governo-preve-queda-no-trafego-aereo-por-precos-de-passagens-e-avalia-mais-medidas-emergenciais",
-        "title": "Governo prevê queda no tráfego aéreo por preços de passagens e avalia mais medidas emergenciais",
-        "description": "Governo prevê queda no tráfego aéreo por preços de passagens e avalia mais medidas emergenciais",
+        "article_id": "1dc0317369f4ef92eea093c3b867852c",
+        "link": "https://diariodopara.com.br/noticias/loterias/lotofacil-hoje-25-paga-r-10-milhoes-veja-como-apostar-e-aumentar-suas-chances/",
+        "title": "Lotofácil hoje (25) paga R$ 10 milhões: veja como apostar e aumentar suas chances",
+        "description": "Prêmio acumulado movimenta apostas e torna o concurso ainda mais atrativo para jogadores em todo o Brasil Prêmio acumulado movimenta apostas e torna o concurso ainda mais atrativo para jogadores em todo o Brasil O post Lotofácil hoje (25) paga R$ 10 milhões: veja como apostar e aumentar suas chances apareceu primeiro em Diário do Pará .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "combustíveis",
-            "são bernardo",
-            "esportes",
-            "dgabc",
-            "notícias",
-            "aéreas",
-            "são caetano",
-            "nacional",
-            "automóveis",
-            "diarinho",
-            "diário",
-            "medidas",
-            "noticia",
-            "d+",
-            "mauá",
-            "governo",
-            "rio grande da serra",
-            "abc",
-            "turismo",
-            "grande abc"
+            "como apostar",
+            "lotofacil",
+            "caixa econômica federal",
+            "prêmio lotofacil"
         ],
         "creator": [
-            "agência estado"
+            "matheus de oliveira"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:38:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 15:46:41",
+        "image_url": "https://uploads.diariodopara.com.br/imagens/2026/04/IMG_4052.jpeg",
+        "video_url": null,
+        "source_id": "diariodopara",
+        "source_name": "Diário Do Pará",
+        "source_priority": 1552501,
+        "source_url": "https://diariodopara.dol.com.br",
+        "source_icon": "https://n.bytvi.com/diariodopara.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Lotofácil 今天 (25) 支付 1000 万雷亚尔：了解如何投注并增加您的机会",
+        "description_zh": "累积的奖金推动投注，使比赛对巴西各地的玩家更具吸引力 累积的奖金推动投注，使比赛对巴西各地的玩家更具吸引力 Lotofácil 今天（25）支付 1000 万巴西雷亚尔：了解如何投注并增加您的赌注"
+    },
+    {
+        "article_id": "b2c67cd5d96538ce8119617cd2d14ce4",
+        "link": "https://br.investing.com/analysis/dolar-guerra-no-oriente-medio-reacende-volatilidade-testa-resiliencia-do-real-200476823",
+        "title": "Dólar: ​Guerra no Oriente Médio reacende volatilidade, testa resiliência do real",
+        "description": "Análises do Mercado por abrangendo: Dólar Americano Real Brasileiro, Índice Dólar Futuros, Petróleo WTI Futuros, US 10 YR T-Note Futuros. Leia as Análises do Mercado de no Investing.com.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "petróleo wti futuros",
+            "us 10 yr t-note futuros",
+            "dólar americano real brasileiro",
+            "índice dólar futuros"
+        ],
+        "creator": [
+            "investing.com"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "analysis",
+        "pubDate": "2026-04-25 15:38:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 16:06:06",
+        "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+        "video_url": null,
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "美元：中东战争重新引发波动，考验雷亚尔的弹性",
+        "description_zh": "市场分析涵盖：美元巴西雷亚尔、美元指数期货、WTI 石油期货、美国 10 年期国债期货。阅读 Investing.com 的市场分析。"
+    },
+    {
+        "article_id": "90f7c1dc9d17b7a1a951c72106a6c304",
+        "link": "https://www.folhavitoria.com.br/opiniao/declaracao-ofensiva-de-assessor-de-trump-sobre-brasileiras-o-que-isso-revela-sobre-o-debate-da-misoginia/",
+        "title": "Declaração ofensiva de assessor de Trump sobre brasileiras: o que isso revela sobre o debate da misoginia",
+        "description": "@paolozampolli/Instagram/Reprodução Declaração de assessor ligado ao governo Trump repercute internacionalmente e amplia o debate sobre misoginia no Brasil",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "eua",
+            "donald trump",
+            "brasil",
+            "misoginia"
+        ],
+        "creator": [
+            "maya j gobira meneghelli"
         ],
         "language": "portuguese",
         "country": [
@@ -36,76 +108,67 @@
         ],
         "category": [
             "top",
-            "crime"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-24 15:16:00",
+        "pubDate": "2026-04-25 15:37:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 16:18:24",
-        "image_url": null,
+        "fetched_at": "2026-04-25 15:39:39",
+        "image_url": "https://uploads.folhavitoria.com.br/imagens/2026/04/paollo.jpg",
         "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://n.bytvi.com/dgabc.png",
+        "source_id": "folhavitoria_br",
+        "source_name": "Folha Vitória",
+        "source_priority": 123574,
+        "source_url": "https://www.folhavitoria.com.br",
+        "source_icon": "https://n.bytvi.com/folhavitoria_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "政府预计机票价格将导致航空交通量下降，并评估更多紧急措施",
-        "description_zh": "政府预计机票价格将导致航空交通量下降，并评估更多紧急措施"
+        "duplicate": false,
+        "title_zh": "特朗普顾问对巴西女性的攻击性声明：这揭示了厌女症辩论的真相",
+        "description_zh": "@paolozampolli/Instagram/复制 与特朗普政府有关的顾问的声明引起了国际反响，并扩大了巴西有关厌女症的辩论"
     },
     {
-        "article_id": "ab23637300baede30cc485aef50f3831",
-        "link": "https://diariopanorama.com/noticia/550091/jorge-llapur-sobre-clasico-ante-agua-energia-respetamos-al-rival-pero-vamos-trabajar-para-ganar",
-        "title": "Jorge Llapur sobre el clásico ante Agua y Energía: \"Respetamos al rival, pero vamos a trabajar para ganar”",
-        "description": "Tras un inicio irregular, el DT de Villa Unión analizó el presente de su equipo y puso el foco en el duelo clave que se viene en La Banda.",
+        "article_id": "9533f00a1618b21eaeb4750809984efd",
+        "link": "https://www.infobae.com/colombia/deportes/2026/04/25/la-razon-por-la-cual-james-rodriguez-no-es-indispensable-en-el-minnesota-united-segun-la-prensa-norteamericana-no-hay-necesidad/",
+        "title": "James Rodríguez no es indispensable en el Minnesota United según la prensa norteamericana: “No hay necesidad”",
+        "description": "El capitán de la selección Colombia vive momentos de incertidumbre con su equipo de la MLS, a poco más de mes y medio de comenzar el Mundial",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "sobre",
-            "respetamos",
-            "trabajar",
-            "rival",
-            "ganar",
-            "agua",
-            "jorge",
-            "diario panorama",
-            "pero",
-            "al",
-            "clasico",
-            "somos deporte",
-            "ante",
-            "energia",
-            "para",
-            "llapur",
-            "vamos"
+            "james rodríguez",
+            "minnesota united",
+            "selección colombia",
+            "mundial 2026",
+            "colombia-deportes"
         ],
         "creator": [
-            "redacción diario panorama"
+            "carlos pulido"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
+            "argentina",
+            "mexico",
+            "colombia",
+            "united states of america"
         ],
         "category": [
             "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-24 15:16:00",
+        "pubDate": "2026-04-25 15:37:44",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 18:35:18",
-        "image_url": "https://diariopanorama.com/fotos/notas/2026/03/05/jorge-llapur-villa-union-544984-175539.jpg",
+        "fetched_at": "2026-04-25 16:00:32",
+        "image_url": "https://www.infobae.com/resizer/v2/OUV2S5NH7JF4FPIJS3JJUIURAA.JPG?auth=8043e5a7bc7ce7b06a0ce4fcebff8ad13059cf90e3bc5196f07fa1263ef04407&smart=true&width=5401&height=3601",
         "video_url": null,
-        "source_id": "diariopanorama",
-        "source_name": "Diario Panorama",
-        "source_priority": 31285,
-        "source_url": "https://diariopanorama.com",
-        "source_icon": "https://n.bytvi.com/diariopanorama.png",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -113,120 +176,49 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "豪尔赫·拉普尔 (Jorge Llapur) 谈对阵 Agua y Energía 的经典比赛：“我们尊重对手，但我们将努力赢得胜利”",
-        "description_zh": "在经历了不正常的开局后，维拉联盟队的教练分析了球队的现状，并将注意力集中在即将在拉班达举行的关键对决上。"
+        "title_zh": "据北美媒体报道，詹姆斯·罗德里格斯在明尼苏达联队并不是不可或缺的：“没有必要”",
+        "description_zh": "距离世界杯开始还有一个半月多时间，哥伦比亚国家队队长正与他的美国职业足球大联盟球队经历着不确定的时刻。"
     },
     {
-        "article_id": "ce5a922b71963b713f366b58555d53da",
-        "link": "https://www.em.com.br/economia/2026/04/7405356-como-consultar-os-lotes-da-restituicao-do-imposto-de-renda-2026.html",
-        "title": "Como consultar os lotes da restituição do Imposto de Renda 2026",
-        "description": "A Receita Federal divulgou o calendário com quatro lotes de pagamento; saiba como verificar quando o dinheiro vai cair na sua conta",
+        "article_id": "7f4023cc56a99c8e41b27ab2d69c1b5c",
+        "link": "https://www.infobae.com/espana/2026/04/25/los-riders-de-glovo-protestan-en-valencia-contra-el-ere-que-afectara-a-766-empleados/",
+        "title": "Los ‘riders’ de Glovo protestan en Valencia contra el ERE que afectará a 766 empleados",
+        "description": "Los repartidores de Glovo se movilizan para exigir la retirada del ERE, denunciar abusos laborales y reclamar la negociación de una actualización del convenio laboral, vigente desde 2006",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "imposto de renda",
-            "imposto de renda 2026",
-            "irpf",
-            "irpf 2026"
+            "españa-economia",
+            "sindicatos españa",
+            "ccoo",
+            "empresas",
+            "empresas españa",
+            "españa-noticias",
+            "derechos laborales"
         ],
         "creator": [
-            "flor sette camara*"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:16:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 18:32:01",
-        "image_url": "https://midias.em.com.br/_midias/webp/2026/04/24/1200x720/1_7405356-1ea63ad65e6e4d4d90747109a8627e4e-66427856.webp?20260424152013?20260424152013",
-        "video_url": null,
-        "source_id": "estadodeminas",
-        "source_name": "Jornal Estado De Minas",
-        "source_priority": 6179,
-        "source_url": "https://www.em.com.br",
-        "source_icon": "https://n.bytvi.com/estadodeminas.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "如何查询2026年所得税退税批次",
-        "description_zh": "联邦税务局公布了包含四批付款的日历；了解如何查看资金何时到达您的帐户"
-    },
-    {
-        "article_id": "cfefd77ec7f62036c7cb61857790db93",
-        "link": "https://tribunadepetropolis.com.br/noticias/governo-preve-queda-no-trafego-aereo-por-precos-de-passagens-e-avalia-mais-medidas-emergenciais/",
-        "title": "Governo prevê queda no tráfego aéreo por preços de passagens e avalia mais medidas emergenciais",
-        "description": "O ministro de Portos e Aeroportos, Tome Franca, afirmou nesta sexta-feira, 24, que o setor de aviação comercial no Brasil sentirá o impacto negativo da alta do preço do petróleo no preços do querosene de aviação (QAV) e ter uma redução de movimentação de passageiros no decorrer de 2026. “Sabemos que há uma crise conjuntural [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "por joão caires; estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:16:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:42:52",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "政府预计机票价格将导致航空交通量下降，并评估更多紧急措施",
-        "description_zh": "港口和机场部长托梅·弗兰卡本周五（24日）表示，巴西商业航空业将感受到油价上涨对航空煤油（QAV）价格的负面影响，2026年客运量将减少。"
-    },
-    {
-        "article_id": "f9ced09504b52b923071ffd0d0b0942e",
-        "link": "https://www.elchubut.com.ar/trelew/2026-4-24-12-16-0-anuncian-corte-de-energia-programado-para-el-domingo-26",
-        "title": "Anuncian corte de energía programado para el domingo 26",
-        "description": "Se efectuará entre las 8 y las 12 horas. Abarcará los barrios Padre Juan, Alberdi, Unión y parcialmente centro.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "el chubut"
+            "naroa caro"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
+            "argentina",
+            "mexico",
+            "colombia",
+            "united states of america"
         ],
         "category": [
-            "business",
-            "top"
+            "top",
+            "politics"
         ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:16:00",
+        "datatype": "multimedia",
+        "pubDate": "2026-04-25 15:37:42",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:38:53",
-        "image_url": "https://pxbcdn.elchubut.com.ar/chubut/042026/1777043988367.jpg?cw=1170&ch=645",
-        "video_url": null,
-        "source_id": "elchubut_ar",
-        "source_name": "El Chubut",
-        "source_priority": 110150,
-        "source_url": "https://www.elchubut.com.ar",
-        "source_icon": "https://n.bytvi.com/elchubut_ar.png",
+        "fetched_at": "2026-04-25 16:00:32",
+        "image_url": "https://www.infobae.com/resizer/v2/GMKHOUWRLNBWJHEWDSPWCWQAQE.jpg?auth=5fd54a44c53a7ffcdffa5690f3e756fe57391e25a7e7abfd4169e41a09921675&smart=true&width=1920&height=1456",
+        "video_url": "https://cdn.jwplayer.com/videos/vvgKoZsw-GEW42hld.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -234,14 +226,14 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "宣布26日星期日停电",
-        "description_zh": "它将在中午 8 点至 12 点之间举行。它将覆盖 Padre Juan、Alberdi、Union 和部分市中心社区。"
+        "title_zh": "Glovo 在巴伦西亚的“骑手”抗议 ERE 将影响 766 名员工",
+        "description_zh": "Glovo 送货司机动员起来，要求撤销 ERE，谴责虐待劳工行为，并要求就 2006 年以来生效的劳工协议的更新进行谈判"
     },
     {
-        "article_id": "be36212a43ec53ea8a4d5b3ae2bc7e33",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/24/capivaras-margens-da-orla-do-guaiba-video.ghtml",
-        "title": "A família aumentou: no de capivaras vistas 'morando' às margens da Orla do Guaíba chega a quase 20; VÍDEO",
-        "description": "Família de capivaras que ‘mora’ às margens da Orla do Guaíba já tem 18 integrantes A “família” de capivaras que virou atração na Orla do Guaíba, em Porto Alegre, cresceu. Desde a última contagem, feita pela reportagem da RBS TV nesta sexta-feira (24), o número chegou a 18 animais no grupo. Há pelo menos dois anos, os mamíferos são vistos às margens do Arroio Dilúvio; mas nesta semana, voltaram a chamar a atenção de motoristas e pedestres que passavam pelo local. 📲 Acesse o canal do g1 RS no WhatsApp Por segurança, a prefeitura pede que a população mantenha distância e não interfira no deslocamento dos animais silvestres. O alerta é que, por mais que muitos as considerem fofas, tratam-se de animais silvestres e a orientação é não se aproximar. \"Durante a enchente [de 2024] elas começaram a se deslocar e vieram ficando. Porque aqui tem alimento, tem abrigo, elas estão tranquilas. Foram se estabelecendo naquela região\", explica Soraya Ribeiro, chefe da equipe de Fauna Silvestre da Secretaria Municipal de Meio Ambiente. Caso alguma capivara pareça machucada ou apresente comportamento de risco, a Secretaria Municipal de Meio Ambiente deve ser acionada pelos telefones 156 (disponível 24 horas por dia) ou pelo número (51) 3289-7517, em horário comercial nos dias úteis. Família de capivaras que 'mora' às margens do Arroio Dilúvio chega a 18 integrantes Raí Quadros/RBS TV VÍDEOS: Tudo sobre o RS",
+        "article_id": "d3d69fa656c4aaa4cc21a19fafac1a94",
+        "link": "https://oglobo.globo.com/esportes/surfe/noticia/2026/04/25/wsl-quatro-brasileiros-disputam-as-semfinais-de-maragaret-river-neste-sabado.ghtml",
+        "title": "WSL: quatro brasileiros disputam as semifinais de Maragaret River neste sábado",
+        "description": "A World Surf League (WSL) definiu para a noite deste sábado (manhã de domingo na Austrália), último dia de competição, a disputa das semifinais e finais da etapa de Margaret River, a segunda da temporada. Quatro brasileiros estão na disputa: Gabriel Medina, Samuel Pupo e Ítalo Ferreira no masculino, e Luana Silva no feminino. Com o trio nas semis masculinas, há a garantia de um finalista brasileiro na etapa. Pupo e Medina se enfrentam em uma das semifinais, enquanto Ítalo enfrenta o australiano George Pittar. Já no feminino, Luana encara a americana Caitlin Simmers, enquanto a outra chave tem duelo americano entre Sawyer Lindblad e Lakey Peterson. A primeira chamada para o evento é às 20h15 (horário de Brasília). O Sportv transmite ao vivo. A primeira etapa, em Bells Beach, também na Austrália, terminou com vitória brasileira: Miguel Pupo ficou com o título masculino. No feminino, venceu a havaiana Gabriela Bryan.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -250,559 +242,20 @@
             "brazil"
         ],
         "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:15:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:34:36",
-        "image_url": "https://s2-g1.glbimg.com/i3FvgB0Onveo3z9jow6naLkEbpE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/6/8NwzlUSBSAHm62l3ESCQ/whatsapp-image-2026-04-23-at-20.47.00.jpeg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "这个家庭不断壮大：“生活”在 Orla do Guaíba 河岸上的水豚数量已接近 20 只；视频",
-        "description_zh": "“生活”在 Orla do Guaíba 河岸上的水豚家族已有 18 名成员 成为阿雷格里港 Orla do Guaíba 景点的水豚“家族”已经壮大。自苏格兰皇家银行 (RBS) 电视台本周五 (24 日) 报道的最新统计以来，该组动物的数量已达到 18 只。"
-    },
-    {
-        "article_id": "8ae14725b23ba32311d7b0914656b985",
-        "link": "https://www.infobae.com/noticias/2026/04/24/precio-del-dolar-hoy-en-canada-cotizacion-de-apertura-del-24-de-abril/",
-        "title": "Precio del dólar hoy en Canadá: cotización de apertura del 24 de abril",
-        "description": "Se registró una baja en los valores del dólar con respecto a la jornada anterior",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "últimas actualizaciones",
-            "tipo de cambio",
-            "precio del dólar en canadá"
-        ],
-        "creator": [
-            "infobae noticias"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "colombia",
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:15:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:30:43",
-        "image_url": "https://www.infobae.com/resizer/v2/52J4DHLBRNEC3OUVQNORJXPHNI.jpg?auth=dac36b87693325ad1cedcf9a6ebd307c99a5f26a6416abba74e538f72e61fc95&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "今日加拿大美元价格：4 月 24 日开盘报价",
-        "description_zh": "与前一天相比，美元汇率有所下跌"
-    },
-    {
-        "article_id": "41050103927c354fa5db94e12145b9eb",
-        "link": "https://www.canal26.com/internacionales/2026/04/24/la-impresionante-marcha-de-las-antorchas-para-conmemorar-un-nuevo-aniversario-del-genocidio-armenio/",
-        "title": "La impresionante marcha de las antorchas para conmemorar un nuevo aniversario del genocidio armenio",
-        "description": "En Ereván, capital de Armenia, miles de personas marcharon en un nuevo aniversario del genocidio perpetrado por Turquía contra más de un millón de armenios entre 1915 y 1921. Miralo en la nota.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "marcha",
-            "armenia",
-            "genocidio"
-        ],
-        "creator": [
-            "matias greisert"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:15:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:32:18",
-        "image_url": "https://www.canal26.com/resizer/v2/5WL22IHARBB3NFT4RG3I4EC3WY.jpg?auth=2fa5af2ec9b7c83dfed3652278b3f9c5a5d28d21338f03e3ba608eaad8ac8e56&smart=true&width=1200&height=900",
-        "video_url": null,
-        "source_id": "canal26",
-        "source_name": "Canal26",
-        "source_priority": 9385,
-        "source_url": "https://www.canal26.com",
-        "source_icon": "https://n.bytvi.com/Canal26.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "纪念亚美尼亚种族灭绝新周年的令人印象深刻的火炬游行",
-        "description_zh": "在亚美尼亚首都埃里温，数千人举行游行，纪念土耳其在 1915 年至 1921 年间对超过 100 万亚美尼亚人实施的种族灭绝。请参阅说明。"
-    },
-    {
-        "article_id": "f0a029da1c27d608e062c14035a3009d",
-        "link": "https://www.cnnbrasil.com.br/saude/dr-roberto-kalil-detalha-procedimentos-medicos-feitos-em-lula/",
-        "title": "Dr. Roberto Kalil detalha procedimentos médicos feitos em Lula",
-        "description": "\"Ele vai voltar à atividade normal daqui a alguns dias\", esclareceu o médico",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "da cnn brasil"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "health"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:15:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 16:32:12",
-        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/12/WhatsApp-Image-2024-12-15-at-13.00.10-e1777043748801.jpeg?w=1200&h=1200&crop=1",
-        "video_url": null,
-        "source_id": "cnnbrasil_br",
-        "source_name": "Cnn Brasil",
-        "source_priority": 1209,
-        "source_url": "https://www.cnnbrasil.com.br",
-        "source_icon": "https://n.bytvi.com/cnnbrasil_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "罗伯托·卡利尔博士详细介绍了对卢拉进行的医疗程序",
-        "description_zh": "医生解释说：“几天后他就会恢复正常活动”"
-    },
-    {
-        "article_id": "53a0ddb611eefe3c722804282612b995",
-        "link": "https://tribunaonline.com.br/esportes/esporte-capixaba/apesar-do-3-a-0-ataque-do-rio-branco-segue-na-seca-de-gols-299916",
-        "title": "Apesar do 3 a 0, ataque do Rio Branco segue na seca de gols",
-        "description": "Ataque do Rio Branco vive jejum de gols e vira alvo de críticas da torcida | Foto: Leone Iglesias/AT Um dos grandes motivos de críticas da torcida do Rio Branco é a falta de gols por parte dos centroavantes do elenco. Edu, Neto e Rafa somam 49 jogos no ano e apenas um gol, marcado por Edu, na derrota capa-preta para o Porto/BA na estreia da Série D.Rodrigo César, treinador do clube, analisou o desempenho dos atletas. “A posição de centroavante é carente não só aqui, mas no Brasil e no mundo. Todo mundo procura um camisa 9 que faça gols. O Rio Branco não é diferente. Por isso trouxemos o Neto, que foi artilheiro da Série C no ano passado. Foi uma excelente contratação. Ele vem passando por um momento difícil, o que faz parte da carreira de um atleta, mas está evoluindo muito no dia a dia”, disse.Quanto aos motivos que levam a essa seca de gols, Rodrigo acredita que os jogadores precisam aproveitar as chances nos jogos. Rodrigo César: técnico | Foto: Wagner Chaló/Rio Branco “Minha função como treinador é fazer o time criar oportunidades, e isso está acontecendo. Às vezes são poucas chances, mas suficientes para marcar. Pode ser um pouco de nervosismo, ansiedade ou excesso de vontade de fazer o gol. Estamos trabalhando muito a parte mental e humana dos atletas. Procuro estar próximo, entender o que eles estão vivendo dentro e fora de campo. Esse trabalho é fundamental”.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "centroavantes rio branco",
-            "desempenho jogadores futebol",
-            "falta de gols rio branco",
-            "treinador rodrigo césar",
-            "oportunidades de gol futebol",
-            "análise desempenho atletas"
-        ],
-        "creator": [
-            "atilio esperandio"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
             "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-24 15:15:52",
+        "pubDate": "2026-04-25 15:37:25",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 18:45:42",
-        "image_url": "https://cdn2.tribunaonline.com.br/img/Artigo-Destaque/290000/Apesar-do-3-a-0-ataque-do-Rio-Branco-segue-na-seca0029991600202604241515.jpg?xid=1408539",
+        "fetched_at": "2026-04-25 16:08:35",
+        "image_url": "https://s2-oglobo.glbimg.com/F45FEpQUhgCeMXervhEWUt1UzcA=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/5/E/5NWEnwQPeqO6wWI2x1RQ/gabriel-medina-26margaretriver-brr-2650-beatriz-ryder-1-.jpg",
         "video_url": null,
-        "source_id": "tribunaonline_br",
-        "source_name": "Tribuna Online",
-        "source_priority": 1025555,
-        "source_url": "https://tribunaonline.com.br",
-        "source_icon": "https://n.bytvi.com/tribunaonline_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "尽管3-0，里奥布兰科的进攻仍然陷入进球荒",
-        "description_zh": "里奥布兰科进攻遭遇进球荒，成为球迷诟病的对象 |照片：Leone Iglesias/AT 里奥布兰科球迷批评的最大原因之一是球队中锋缺乏进球。埃杜、内托和拉法一年打49场比赛，只有埃杜在决赛中打进一球。"
-    },
-    {
-        "article_id": "ce8802e6580ae09a3ff05f154eff6a9a",
-        "link": "https://www.elmanana.com/noticias/nacional/estrategia-nacional-de-seguridad-reduce-homicidios-en-mexico/6124423",
-        "title": "Estrategia Nacional de Seguridad reduce homicidios en México",
-        "description": "La Estrategia Nacional de Seguridad reportó una reducción en homicidios y el desmantelamiento de 2,330 laboratorios; la percepción de inseguridad disminuyó a 61.5% en marzo de 2026.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cooperaci&#243;n internacional",
-            "percepci&#243;n de inseguridad",
-            "estrategia nacional de seguridad",
-            "reducci&#243;n homicidios m&#233;xico",
-            "claudia sheinbaum pardo"
-        ],
-        "creator": [
-            "omar hern&aacute;ndez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:16:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 20:41:48",
-        "image_url": "https://blob.elmanana.com/images/2026/04/24/crop-w1269-h1059-240426-csp-conferencia-matutina-8-db007eda.jpeg",
-        "video_url": null,
-        "source_id": "elmanana",
-        "source_name": "Últimas Noticias - El Mañana De Reynosa",
-        "source_priority": 258494,
-        "source_url": "https://www.elmanana.com",
-        "source_icon": "https://n.bytvi.com/elmanana.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "国家安全战略减少墨西哥的凶杀案",
-        "description_zh": "国家安全战略报告凶杀案减少，并拆除了 2,330 个实验室； 2026 年 3 月，不安全感下降至 61.5%。"
-    },
-    {
-        "article_id": "b38784d55a4ed66430dcc61ccf4b08d0",
-        "link": "https://www.proceso.com.mx/nacional/2026/4/24/pvem-pide-que-alicia-barcena-comparezca-por-derrame-de-hidrocarburos-en-golfo-de-mexico-372835.html",
-        "title": "PVEM pide que Alicia Bárcena comparezca por derrame de hidrocarburos en Golfo de México",
-        "description": "El punto de acuerdo detalla que el llamado responde a la urgencia de esclarecer los daños ambientales registrados en costas de Veracruz, Tabasco y Tamaulipas.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "pvem",
-            "alicia bárcena",
-            "derrame de hidrocarburos"
-        ],
-        "creator": [
-            "juan carlos cortés"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:16:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 21:36:49",
-        "image_url": "https://www.proceso.com.mx/u/fotografias/m/2026/3/28/f1280x720-244651_376326_6531.jpg",
-        "video_url": null,
-        "source_id": "proceso",
-        "source_name": "Proceso",
-        "source_priority": 47805,
-        "source_url": "https://www.proceso.com.mx",
-        "source_icon": "https://n.bytvi.com/proceso.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "PVEM 要求 Alicia Bárcena 因墨西哥湾碳氢化合物泄漏出庭",
-        "description_zh": "协议要点详细说明，此次呼吁是为了回应澄清韦拉克鲁斯州、塔巴斯科州和塔毛利帕斯州海岸记录的环境破坏的紧迫性。"
-    },
-    {
-        "article_id": "f3bd5701b6e0af20a44a943b81596cf4",
-        "link": "https://lasillarota.com/mundo/2026/4/24/mojtaba-jamenei-nuevo-lider-de-iran-delega-toma-de-decisiones-tras-ataque-de-estados-unidos-israel-596188.html",
-        "title": "Mojtaba Jamenei, nuevo líder de Irán delega toma de decisiones tras ataque de Estados Unidos e Israel",
-        "description": "La delegación de poder por parte de Mojtaba Jamenei ocurre en un momento crítico para Irán; El estado de salud del líder y el contexto bélico plantean interrogantes sobre la capacidad de ejercer plenamente el liderazgo",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "conflicto irán-eu",
-            "mojtaba jamenei"
-        ],
-        "creator": [
-            "efe"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "world"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:16:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:43:59",
-        "image_url": "https://lasillarota.com/u/fotografias/m/2026/4/24/f1280x720-855652_987327_5050.jpg",
-        "video_url": null,
-        "source_id": "lasillarota",
-        "source_name": "La Silla Rota",
-        "source_priority": 200644,
-        "source_url": "https://lasillarota.com",
-        "source_icon": "https://n.bytvi.com/lasillarota.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "伊朗新领导人哈梅内伊在美国和以色列袭击后代表决策",
-        "description_zh": "哈梅内伊的授权是在伊朗的关键时刻进行的；领导人的健康状况和战争背景引发了人们对充分行使领导能力的质疑"
-    },
-    {
-        "article_id": "8ae14725b23ba32311d7b0914656b985",
-        "link": "https://www.infobae.com/noticias/2026/04/24/precio-del-dolar-hoy-en-canada-cotizacion-de-apertura-del-24-de-abril/",
-        "title": "Precio del dólar hoy en Canadá: cotización de apertura del 24 de abril",
-        "description": "Se registró una baja en los valores del dólar con respecto a la jornada anterior",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "últimas actualizaciones",
-            "tipo de cambio",
-            "precio del dólar en canadá"
-        ],
-        "creator": [
-            "infobae noticias"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "colombia",
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:15:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:30:43",
-        "image_url": "https://www.infobae.com/resizer/v2/52J4DHLBRNEC3OUVQNORJXPHNI.jpg?auth=dac36b87693325ad1cedcf9a6ebd307c99a5f26a6416abba74e538f72e61fc95&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "今日加拿大美元价格：4 月 24 日开盘报价",
-        "description_zh": "与前一天相比，美元汇率有所下跌"
-    },
-    {
-        "article_id": "de3cb0566084a92103861267a2cfad55",
-        "link": "https://www.infobae.com/america/agencias/2026/04/24/araqchi-inicia-oportuna-gira-regional-en-la-que-sus-vecinos-son-la-prioridad/",
-        "title": "Araqchí inicia \"oportuna\" gira regional en la que sus \"vecinos son la prioridad\"",
-        "description": "Araqchí inicia \"oportuna\" gira regional en la que sus \"vecinos son la prioridad\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "colombia",
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:15:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:30:43",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿拉克奇开始了“及时”的地区之旅，其中“邻居是首要任务”",
-        "description_zh": "阿拉克奇开始了“及时”的地区之旅，其中“邻居是首要任务”"
-    },
-    {
-        "article_id": "696be892df0a49d5e4a3a76f223fde00",
-        "link": "https://infochannel.info/ibm-comunidad-quantum-mexico-convocatoria-2026/",
-        "title": "IBM lanza la primera Comunidad IBM Quantum en México: así puedes participar",
-        "description": "IBM abre la primera Comunidad IBM Quantum en México para startups, empresas y academia. Accede a capacitación, casos de uso y eventos sobre computación cuántica. La entrada IBM lanza la primera Comunidad IBM Quantum en México: así puedes participar se publicó primero en Infochannel – Noticias y Negocios de Tecnología en México .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ibm institute for business value",
-            "computación cuántica en méxico",
-            "ibm quantum méxico",
-            "startups cuántica",
-            "comunidad ibm quantum",
-            "talento ti méxico",
-            "innovación tecnológica méxico"
-        ],
-        "creator": [
-            "infochannel high tech editores"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "technology"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-04-24 15:15:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:45:58",
-        "image_url": "https://infochannel.info/wp-content/uploads/2026/04/Diseno-sin-titulo-49.png",
-        "video_url": null,
-        "source_id": "infochannel",
-        "source_name": "Infochannel",
-        "source_priority": 1308491,
-        "source_url": "https://infochannel.info",
-        "source_icon": "https://n.bytvi.com/infochannel.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "IBM 在墨西哥推出第一个 IBM 量子社区：您可以通过以下方式参与",
-        "description_zh": "IBM 在墨西哥为初创公司、公司和学术界开设了第一个 IBM 量子社区。访问有关量子计算的培训、用例和活动。文章 IBM 在墨西哥推出了第一个 IBM 量子社区：这就是您参与的方式 首先在 Infochannel 上发布 – 新闻"
-    },
-    {
-        "article_id": "5a0cba79ee21c45f6843cc5534bf1308",
-        "link": "https://www.latercera.com/tendencias/noticia/fenomeno-el-nino-la-organizacion-meteorologica-mundial-confirma-cuando-podria-llegar-y-que-tan-intenso-sera/",
-        "title": "Fenómeno El Niño: la Organización Meteorológica Mundial confirma cuándo podría llegar y qué tan intenso será",
-        "description": "La OMM advierte que hay una alta probabilidad de un fuerte fenómeno El Niño en 2026. Esto es lo que dice su último reporte, y los efectos que podría haber en las distintas regiones del planeta.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "enso",
-            "el niño 2026",
-            "intensificación el niño",
-            "pronóstico el niño 2026",
-            "temperaturas superiores a lo normal",
-            "omm pronóstico el niño",
-            "calor extremo",
-            "super el niño",
-            "sudamérica lluvias",
-            "enso fase el niño",
-            "impactos regionales el niño",
-            "fenómeno el niño 2026",
-            "organización meteorológica mundial",
-            "la tercera",
-            "cuándo llega el fenómeno el niño",
-            "el niño godzilla",
-            "cambio climático y el niño",
-            "lluvias",
-            "fenómeno el niño",
-            "calor extremo 2026"
-        ],
-        "creator": [
-            "nicole iporre"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:15:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:36:19",
-        "image_url": "https://www.latercera.com/resizer/v2/MEINJIPL2RGPVAD42HIHUSNFDM.jpg?auth=ed54018eec99044153ad71c693a932a70542ccdfc357f0449d3faf413e06c163&smart=true&width=1924&height=1080",
-        "video_url": null,
-        "source_id": "latercera",
-        "source_name": "Latercera",
-        "source_priority": 32330,
-        "source_url": "https://www.latercera.com",
-        "source_icon": "https://n.bytvi.com/latercera.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "厄尔尼诺现象：世界气象组织确认厄尔尼诺现象何时到来以及强度如何",
-        "description_zh": "世界气象组织警告称，2026年极有可能出现强烈的厄尔尼诺现象。这是其最新报告的内容，以及该现象可能对地球不同地区产生的影响。"
-    },
-    {
-        "article_id": "f1b0253cf7ec7642b04f38d2becc9936",
-        "link": "https://www.infobae.com/america/agencias/2026/04/24/la-numero-1-del-examen-eir-2026-elige-pediatria-en-el-hospital-nino-jesus-de-madrid/",
-        "title": "La número 1 del examen EIR 2026 elige pediatría en el Hospital Niño Jesús de Madrid",
-        "description": "La número 1 del examen EIR 2026 elige pediatría en el Hospital Niño Jesús de Madrid",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "europapress"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "colombia",
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "health"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-24 15:15:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:30:43",
-        "image_url": "https://www.infobae.com/resizer/v2/Y2Q42UBG3VAAPA2AFUVCX3XXX4.jpg?auth=cdfa6d003e9ee1b29b7e0d5d075cd6991bb56a7108cea16991d6a39a8881550b&smart=true&width=1920&height=2561",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "oglobo_globo",
+        "source_name": "O Globo",
+        "source_priority": 93485,
+        "source_url": "https://oglobo.globo.com",
+        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -810,39 +263,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "EIR 2026 考试第一名选择马德里 Niño Jesús 医院的儿科",
-        "description_zh": "EIR 2026 考试第一名选择马德里 Niño Jesús 医院的儿科"
+        "title_zh": "WSL：四名巴西选手将于本周六参加马拉加雷特河半决赛",
+        "description_zh": "世界冲浪联盟（WSL）定于本周六晚（澳大利亚周日上午）进行最后一天的比赛，本赛季第二场玛格丽特河赛段的半决赛和决赛。四名巴西选手有争夺：加布里埃尔·梅迪纳 (Gabriel Medina)、塞缪尔·普波 (Samuel Pupo) 和伊塔洛·费雷拉 (Ítalo Ferreira)"
     },
     {
-        "article_id": "7a54680170f3d4f0f6271d34b866255e",
-        "link": "https://www.infobae.com/noticias/2026/04/24/euro-hoy-en-canada-cotizacion-de-apertura-del-24-de-abril/",
-        "title": "Euro hoy en Canadá: cotización de apertura del 24 de abril",
-        "description": "Se registró un alza en los valores del euro con respecto a la jornada anterior",
+        "article_id": "e5b5eb6fe402f45ef6c000d54878ec43",
+        "link": "https://www.infobae.com/cultura/2026/04/25/de-un-fracaso-en-la-facultad-a-explicar-la-economia-sin-ecuaciones-martin-tetaz-presento-compra-campeon-en-la-feria-del-libro/",
+        "title": "De un fracaso en la facultad a explicar la economía sin ecuaciones: Martín Tetaz presentó ‘Comprá campeón’ en la Feria del Libro",
+        "description": "En diálogo con el analista Claudio Zuchovicki, el economista y exdiputado nacional compartió un recorrido por experiencias personales, ejemplos cotidianos e, inclusive, momentos de humor",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "últimas actualizaciones",
-            "tipo de cambio",
-            "precio del euro en canadá"
+            "martín tetaz",
+            "feria del libro",
+            "feria del libro 2026 argentina",
+            "ultimas noticias",
+            "feria internacional del libro de buenos aires"
         ],
         "creator": [
-            "infobae noticias"
+            "infobae"
         ],
         "language": "spanish",
         "country": [
-            "united states of america",
+            "argentina",
             "mexico",
             "colombia",
-            "argentina"
+            "united states of america"
         ],
         "category": [
-            "business",
-            "top"
+            "top",
+            "education"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-24 15:15:39",
+        "pubDate": "2026-04-25 15:37:07",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:30:43",
-        "image_url": "https://www.infobae.com/resizer/v2/TZQSRZO75NH6NKWC524NBLF7CA.jpg?auth=ef4ab91e7d3dcd3ce70ff76e5118b8f1ce9a1b92b8064bcf8003c55b0d4aa09d&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-04-25 16:00:32",
+        "image_url": "https://www.infobae.com/resizer/v2/RFH3OO2XNBD4RMRNKGNJDWRBLI.jpg?auth=fc5893febb475f71267eeef14ae4d0a64c24298ef0f8f73b271fc335211c8956&smart=true&width=1920&height=1201",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -856,42 +311,82 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "今日加拿大欧元：4 月 24 日开盘报价",
-        "description_zh": "与前一天相比，欧元汇率有所上涨"
+        "title_zh": "从大学失败到不用方程式解释经济：马丁·泰塔兹在书展上展示“购买冠军”",
+        "description_zh": "在与分析师克劳迪奥·祖霍维奇（Claudio Zuchovicki）的对话中，这位经济学家和前国家代表分享了个人经历、日常例子甚至幽默时刻的旅程"
     },
     {
-        "article_id": "d569867e904cf7a9ea5745206297555f",
-        "link": "https://www.infobae.com/peru/2026/04/24/misterio-en-espana-sigue-la-busqueda-de-peruana-que-desaparecio-tras-alojarse-en-un-hotel-de-barcelona/",
-        "title": "Misterio en España: Sigue la búsqueda de peruana que desapareció tras alojarse en un hotel de Barcelona",
-        "description": "El último rastro confirmado de Elba Cruz la sitúa en Barcelona, donde ingresó a un hotel antes de desaparecer sin dejar pistas. La peruana había salido de Vinaròs tras una discusión con su pareja",
+        "article_id": "bc9dbdb8bcc1390c841ea161a5610654",
+        "link": "https://www.terra.com.br/diversao/gente/rico-melquiades-faz-novo-procedimento-no-rosto-e-revela-plano-bizarro-diminuir,af121ff5177309c3eba7a7fac25b93799uo9qkhq.html",
+        "title": "Rico Melquiades faz novo procedimento no rosto e revela plano bizarro: 'Diminuir'",
+        "description": "O influenciador Rico Melquiades voltou ao centro cirúrgico nesta sexta-feira (24/4) para mais ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "marcela"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:05",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 16:04:57",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/04/25/1401793528-rico-melquiades-se-pronuncia-apos-sofrer-criticas-apos-falar-sobre-cirurgia-intima-ficar-mais-apertado.png",
+        "video_url": null,
+        "source_id": "terra",
+        "source_name": "Terra",
+        "source_priority": 24247,
+        "source_url": "https://www.terra.com.br",
+        "source_icon": "https://n.bytvi.com/terra.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "里科·梅尔奎德斯 (Rico Melquiades) 接受了新的面部手术，并透露了奇怪的计划：“减少”",
+        "description_zh": "影响者 Rico Melquiades 本周五（24/4）返回手术室了解更多..."
+    },
+    {
+        "article_id": "5bb03dcc4f00d5791e706669907349ce",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/04/25/maniataron-golpearon-y-asesinaron-a-una-jubilada-de-82-anos-en-cordoba-hay-tres-detenidos/",
+        "title": "Maniataron, golpearon y asesinaron a una jubilada de 82 años en Córdoba: hay tres detenidos",
+        "description": "Ocurrió en la localidad de Quinilo, ubicada al norte de la provincia. Dos de los sospechosos, un hombre y una mujer, serían sus vecinos. La principal hipótesis es que se trató de un robo",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "españa",
-            "violencia contra la mujer",
-            "personas desaparecidas",
-            "peruanos en el extranjero",
-            "peru-noticias"
+            "robo",
+            "jubilada",
+            "córdoba",
+            "últimas noticias",
+            "quilino",
+            "crimen"
         ],
         "creator": [
-            "analí espinoza"
+            "miguel prieto toledo"
         ],
         "language": "spanish",
         "country": [
-            "united states of america",
+            "argentina",
             "mexico",
             "colombia",
-            "argentina"
+            "united states of america"
         ],
         "category": [
             "top",
             "crime"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-04-24 15:15:38",
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:02",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-24 15:30:43",
-        "image_url": "https://www.infobae.com/resizer/v2/QTLA3SHLEZBPNKCC5UKTO6YKCA.jpg?auth=a31d5f9c39d70e0e04f96662e1746bb8b994861ec7c1e24ef5492ed0aaa52800&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/c1kriIoK-XEya6GhY.mp4",
+        "fetched_at": "2026-04-25 16:00:32",
+        "image_url": "https://www.infobae.com/resizer/v2/LYJROADAXNHDXAEAGAFIGSMNF4.jpg?auth=e2edeaf0bbbab030c9e63c6dda9b2873db951dc53e270f074b03ebe40c46ea5b&smart=true&width=1920&height=1080",
+        "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
         "source_priority": 1056,
@@ -904,7 +399,487 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "西班牙之谜：一名秘鲁女子在巴塞罗那一家酒店入住后失踪，搜寻工作仍在继续",
-        "description_zh": "厄尔巴·克鲁兹最后一次确认的踪迹是在巴塞罗那，她进入一家酒店后就消失了，没有留下任何线索。秘鲁人在与伴侣发生争执后离开了维纳罗斯"
+        "title_zh": "他们在科尔多瓦捆绑、殴打并谋杀了一名 82 岁的退休人员：三名被拘留者",
+        "description_zh": "事情发生在该省北部的奎尼洛镇。其中两名嫌疑人，一男一女，是他的邻居。主要假设是这是一起抢劫"
+    },
+    {
+        "article_id": "676a7c52307369b148f2847a269ae9cc",
+        "link": "https://www.infobae.com/salud/ciencia/2026/04/25/la-imaginacion-en-la-infancia-anticipa-una-mejor-salud-mental-segun-un-estudio/",
+        "title": "La imaginación en la infancia anticipa una mejor salud mental, según un estudio",
+        "description": "El trabajo siguió a más de 1.400 menores australianos durante varios años y encontró un vínculo consistente entre la creatividad lúdica y el bienestar emocional posterior",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "juego simbólico",
+            "desarrollo cognitivo",
+            "newsroom bue",
+            "salud mental infantil"
+        ],
+        "creator": [
+            "constanza almirón"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "mexico",
+            "colombia",
+            "united states of america"
+        ],
+        "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:01",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 16:00:32",
+        "image_url": "https://www.infobae.com/resizer/v2/4SUVTPZ6XBHWHL5IL4K5VPWP4I.png?auth=dad30b49ea52b00184805433d5a7db71f105848e0936dfc5099639579b86e057&smart=true&width=2752&height=1536",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "一项研究表明，童年时期的想象力预示着更好的心理健康",
+        "description_zh": "这项研究对 1,400 多名澳大利亚未成年人进行了数年跟踪，发现好玩的创造力与随后的情感健康之间存在一致的联系。"
+    },
+    {
+        "article_id": "96bcc2d842036e73fe8160089cf7c999",
+        "link": "https://www.milenio.com/deportes/futbol-internacional/fulham-vs-aston-villa-resumen-resultado-premier-league-2026",
+        "title": "Fulham se mete en la pelea por puestos europeos al vencer al Aston Villa",
+        "description": "El Fulham de Raúl Jiménez derrotó por la mínima al Aston Villa y se mantiene en la pelea por alcanzar un lugar en la Conference League",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "fulham",
+            "raul jimenez",
+            "premier league",
+            "aston villa",
+            "fulham vs aston villa"
+        ],
+        "creator": [
+            "agencia efe"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:52",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 18:24:25",
+        "image_url": "https://cdn.milenio.com/uploads/media/2026/04/25/ryan-sessegnon-marco-unico-gol.jpg",
+        "video_url": null,
+        "source_id": "milenio",
+        "source_name": "Milenio",
+        "source_priority": 10804,
+        "source_url": "https://www.milenio.com",
+        "source_icon": "https://n.bytvi.com/milenio.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "富勒姆击败阿斯顿维拉进入欧洲席位争夺战",
+        "description_zh": "劳尔·希门尼斯的富勒姆以微弱优势击败阿斯顿维拉，继续争夺西甲联赛席位"
+    },
+    {
+        "article_id": "68985f482700e1996c9f713644cbb5c6",
+        "link": "https://diario.mx/el-paso/2026/apr/25/protestaran-hoy-contra-el-ice-en-el-paso-1115558.html",
+        "title": "Protestarán hoy contra el ICE en El Paso",
+        "description": "Organizaciones sociales y activistas exigirán el fin de las detenciones de extranjeros",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "hérika martínez prado / el diario de juárez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:52",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 16:04:04",
+        "image_url": "https://diario.mx/core/dmx/assets/images/2026/04/25/ddjpaso-9qYRLvN3z.jpg",
+        "video_url": null,
+        "source_id": "diario",
+        "source_name": "El Diario",
+        "source_priority": 14955,
+        "source_url": "https://diario.mx",
+        "source_icon": "https://n.bytvi.com/diario.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们今天将在埃尔帕索抗议 ICE",
+        "description_zh": "社会组织和活动人士将要求停止拘留外国人"
+    },
+    {
+        "article_id": "e70941d969bb12faf8e729e7a496c63d",
+        "link": "https://www.publimetro.co/entretenimiento/2026/04/25/filtran-video-de-karol-g-profundamente-afectada-por-la-perdida-de-importante-miembro-familiar/",
+        "title": "Filtran video de Karol G profundamente afectada por la pérdida de importante miembro familiar",
+        "description": "‘La Bichota’ fue captada en lo que sería el velorio de este cercano ser querido de la familia Giraldo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "nicole castro"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:49",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 15:41:34",
+        "image_url": "https://www.publimetro.co/resizer/v2/EHFNN5EE4FGK5EJ45IODZRNOTI.png?auth=29d8ca0fd383cfae59b0409091ad6f2f78991944a58825cde8501666fb54d819&smart=true&width=1920&height=1080",
+        "video_url": null,
+        "source_id": "publimetro_co",
+        "source_name": "Publimetro Colombia",
+        "source_priority": 371455,
+        "source_url": "https://www.publimetro.co",
+        "source_icon": "https://n.bytvi.com/publimetro_co.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们过滤了 Karol G 因失去重要家庭成员而深受影响的视频",
+        "description_zh": "“La Bichota”是在这位吉拉尔多家族的挚爱之一醒来后被抓获的。"
+    },
+    {
+        "article_id": "73040ff95a4970888931e3e854b35b79",
+        "link": "https://www.cordobabn.com/articulo/andalucia/sanchez-montero-celebran-cordoba-segundo-acto-precampana-andalucia/20260425173745256813.html",
+        "title": "Sánchez y Montero realizan segundo acto de precampaña en Córdoba, Andalucía",
+        "description": "El domingo 26 de abril, Pedro Sánchez, líder del PSOE y presidente del Ejecutivo, junto a María Jesús Montero, secretaria general del PSOE en Andalucía y candidata a la presidencia de la Junta, celebrarán en Córdoba su segundo acto público dentro...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "psoe",
+            "pol&iacute;tica",
+            "c&oacute;rdoba",
+            "pedrosanchez"
+        ],
+        "creator": [
+            "redacci&oacute;n"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 15:45:42",
+        "image_url": "https://www.cordobabn.com/media/cordobabn/images/2026/04/25/2026042515271345479.jpg",
+        "video_url": null,
+        "source_id": "cordobabn",
+        "source_name": "Cordoba",
+        "source_priority": 1219601,
+        "source_url": "https://www.cordobabn.com",
+        "source_icon": "https://n.bytvi.com/cordobabn.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "桑切斯和蒙特罗在安达卢西亚科尔多瓦进行第二次竞选前活动",
+        "description_zh": "4 月 26 日星期日，西班牙社会工人党领导人兼执行主席佩德罗·桑切斯与安达卢西亚社会党秘书长兼董事会主席候选人玛丽亚·赫苏斯·蒙特罗将在科尔多瓦举行第二次公开活动。"
+    },
+    {
+        "article_id": "9533f00a1618b21eaeb4750809984efd",
+        "link": "https://www.infobae.com/colombia/deportes/2026/04/25/la-razon-por-la-cual-james-rodriguez-no-es-indispensable-en-el-minnesota-united-segun-la-prensa-norteamericana-no-hay-necesidad/",
+        "title": "James Rodríguez no es indispensable en el Minnesota United según la prensa norteamericana: “No hay necesidad”",
+        "description": "El capitán de la selección Colombia vive momentos de incertidumbre con su equipo de la MLS, a poco más de mes y medio de comenzar el Mundial",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "james rodríguez",
+            "minnesota united",
+            "selección colombia",
+            "mundial 2026",
+            "colombia-deportes"
+        ],
+        "creator": [
+            "carlos pulido"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "mexico",
+            "colombia",
+            "united states of america"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 16:00:32",
+        "image_url": "https://www.infobae.com/resizer/v2/OUV2S5NH7JF4FPIJS3JJUIURAA.JPG?auth=8043e5a7bc7ce7b06a0ce4fcebff8ad13059cf90e3bc5196f07fa1263ef04407&smart=true&width=5401&height=3601",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "据北美媒体报道，詹姆斯·罗德里格斯在明尼苏达联队并不是不可或缺的：“没有必要”",
+        "description_zh": "距离世界杯开始还有一个半月多时间，哥伦比亚国家队队长正与他的美国职业足球大联盟球队经历着不确定的时刻。"
+    },
+    {
+        "article_id": "7f4023cc56a99c8e41b27ab2d69c1b5c",
+        "link": "https://www.infobae.com/espana/2026/04/25/los-riders-de-glovo-protestan-en-valencia-contra-el-ere-que-afectara-a-766-empleados/",
+        "title": "Los ‘riders’ de Glovo protestan en Valencia contra el ERE que afectará a 766 empleados",
+        "description": "Los repartidores de Glovo se movilizan para exigir la retirada del ERE, denunciar abusos laborales y reclamar la negociación de una actualización del convenio laboral, vigente desde 2006",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "españa-economia",
+            "sindicatos españa",
+            "ccoo",
+            "empresas",
+            "empresas españa",
+            "españa-noticias",
+            "derechos laborales"
+        ],
+        "creator": [
+            "naroa caro"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "mexico",
+            "colombia",
+            "united states of america"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-04-25 15:37:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 16:00:32",
+        "image_url": "https://www.infobae.com/resizer/v2/GMKHOUWRLNBWJHEWDSPWCWQAQE.jpg?auth=5fd54a44c53a7ffcdffa5690f3e756fe57391e25a7e7abfd4169e41a09921675&smart=true&width=1920&height=1456",
+        "video_url": "https://cdn.jwplayer.com/videos/vvgKoZsw-GEW42hld.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Glovo 在巴伦西亚的“骑手”抗议 ERE 将影响 766 名员工",
+        "description_zh": "Glovo 送货司机动员起来，要求撤销 ERE，谴责虐待劳工行为，并要求就 2006 年以来生效的劳工协议的更新进行谈判"
+    },
+    {
+        "article_id": "262b35d19d6432468095278b849f00b6",
+        "link": "https://www.elsiglodetorreon.com.mx/noticia/2026/refuerzan-sanciones-por-descargas-ilegales-en-gomez-palacio-sideapa-suma-millones-en-multas.html",
+        "title": "Refuerzan sanciones por descargas ilegales en Gómez Palacio; Sideapa suma millones en multas",
+        "description": "El Sistema Descentralizado de Agua Potable y Alcantarillado (Sideapa) de Gómez Palacio intensificó las acciones de inspección y sanción a empresas y establecimientos que generan descargas fuera de norma, con impacto directo en la sobrecarga del sistema de drenaje sanitario. Según el Plan Fluye que presentó el ayuntamiento, de septiembre de 2025 al 13 de abril de 2026, se recaudaron 6 millones 640 mil pesos por concepto de descargas y multas; son 5 millones 370 mil pesos en permisos de descargas pagados y un millón 260 mil pesos en multas efectivamente cobradas a infractores. Además de que se tiene registro de 50 establecimientos con procedimientos de sanción iniciados. El organismo operador de agua, señala que las multas por descarga irregular van de 11 mil a 500 mil pesos, dependiendo de la gr... Más información -- Refuerzan sanciones por descargas ilegales en Gómez Palacio; Sideapa suma millones en multas »",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "millones",
+            "pesos",
+            "multas",
+            "descargas",
+            "sideapa"
+        ],
+        "creator": [
+            "angélica sandoval"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 16:08:04",
+        "image_url": "https://www.elsiglodetorreon.com.mx/m/i/2026/04/2004767.jpeg",
+        "video_url": null,
+        "source_id": "elsiglodetorreon",
+        "source_name": "El Siglo De Torreón",
+        "source_priority": 99698,
+        "source_url": "https://www.elsiglodetorreon.com.mx",
+        "source_icon": "https://n.bytvi.com/elsiglodetorreon.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们加强了对戈麦斯帕拉西奥非法下载的制裁； Sideapa增加数百万美元的罚款",
+        "description_zh": "戈麦斯·帕拉西奥分散式饮用水和污水处理系统（Sideapa）加强了对超标排放的公司和机构的检查和制裁行动，对卫生排水系统的超负荷产生了直接影响。根据流程计划"
+    },
+    {
+        "article_id": "8cd5d2843f1cded71b04f73a83008f2d",
+        "link": "https://www.elheraldo.co/deportes/2026/04/25/juan-cruz-real-es-el-nuevo-entrenador-de-la-seleccion-de-nicaragua/",
+        "title": "Juan Cruz Real es el nuevo entrenador de la selección de Nicaragua",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mundial",
+            "juan-cruz-real",
+            "deporte",
+            "entrenador",
+            "junior",
+            "nicaragua",
+            "futbol"
+        ],
+        "creator": [
+            "agencia efe"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 16:06:32",
+        "image_url": "https://www.elheraldo.co/resizer/v2/FZLV7JFNNRGUTOQUZ2CG3YYOIY.jpg?auth=f5f9b652cea4263bf651a6f8ded14415cb3dbd8d23268fe95f584d7e1da50f39&smart=true&width=1920&height=1280",
+        "video_url": null,
+        "source_id": "elheraldo",
+        "source_name": "Elheraldo",
+        "source_priority": 38752,
+        "source_url": "https://www.elheraldo.co",
+        "source_icon": "https://n.bytvi.com/elheraldo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "胡安·克鲁兹·雷亚尔成为尼加拉瓜国家队新任主帅",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "bc653203e71500019b4a6183a4a8bf2b",
+        "link": "https://eldiariodechihuahua.mx/nacional/2026/apr/25/detienen-a-joven-por-matar-a-su-madre-y-a-bebe-791632.html",
+        "title": "Detienen a joven por matar a su madre y a bebé",
+        "description": "Jonathan, de 27 años, fue detenido por presuntamente asesinar a su madre y a su sobrino de seis meses, en la Alcaldía Gustavo A. Madero",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "andrea ahedo/agencia reforma"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 16:08:06",
+        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/04/25/imagetransformer-uUVKG3smd.jpg",
+        "video_url": null,
+        "source_id": "eldiariodechihuahua",
+        "source_name": "Eldiariodechihuahua",
+        "source_priority": 77437,
+        "source_url": "https://www.eldiariodechihuahua.mx",
+        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "年轻人因杀害母亲和婴儿而被捕",
+        "description_zh": "27 岁的乔纳森因涉嫌在古斯塔沃·马德罗市长办公室谋杀母亲和六个月大的侄子而被捕。"
+    },
+    {
+        "article_id": "77182a67c76c0fae7a8328eeb0900c5e",
+        "link": "https://entrelineas.com.mx/impulsa-alex-dominguez-trato-de-frontera-para-ascension-buscan-corregir-desigualdad-historica/",
+        "title": "Impulsa Alex Domínguez trato de frontera para Ascensión; buscan corregir desigualdad histórica",
+        "description": "Autoridades municipales y representantes populares coincidieron en la necesidad de impulsar un punto de acuerdo para que el municipio de Ascensión sea considerado dentro del esquema de franja fronteriza, con el objetivo de reducir la desigualdad histórica que enfrenta esta región. La propuesta surgió durante una reunión de trabajo convocada por la alcaldesa Ivonne de [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-25 15:37:12",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-25 15:43:31",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "entrelineas",
+        "source_name": "Entrelineas",
+        "source_priority": 655477,
+        "source_url": "https://entrelineas.com.mx",
+        "source_icon": "https://n.bytvi.com/entrelineas.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "亚历克斯·多明格斯 (Alex Domínguez) 推动阿森松岛边境协议；寻求纠正历史不平等",
+        "description_zh": "市政当局和民众代表一致认为，有必要促进达成共识，以便将阿森松市纳入边界地带计划之内，以减少该地区历史上面临的不平等现象。提案"
     }
 ]
