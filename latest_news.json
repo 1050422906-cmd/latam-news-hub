@@ -1,17 +1,105 @@
 [
     {
-        "article_id": "21a3b31fc83ff10ea13677f20b7b63c9",
-        "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/vale-do-rio-dos-sinos/canoas/pontos-de-apoio-para-os-motoboys-de-canoas-tera-definicao-em-maio/",
-        "title": "Pontos de apoio para os motoboys de Canoas terá definição em maio",
-        "description": "Edital prevê três espaços em dois endereços da cidade",
+        "article_id": "6ec3ec173394f496a8c991f9c960c82e",
+        "link": "https://www.mdzol.com/sociedad/la-creatividad-me-muchas-veces-campi-corazon-abierto-antes-salir-escena-n1508087",
+        "title": "\"La creatividad me salvó muchas veces\": Campi, a corazón abierto, antes de salir a escena",
+        "description": "Campi se abre a corazón abierto y reflexiona sobre cómo la creatividad lo salvó en momentos difíciles, a minutos de subir al escenario del Teatro Liceo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "pontos de apoio",
-            "motoboys",
-            "canoas"
+            "campi",
+            "teatro",
+            "televisión"
         ],
         "creator": [
-            "nicole goulart; especial"
+            "marzzelo magallanes"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-28 15:45:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-28 16:02:03",
+        "image_url": "https://media.mdzol.com/p/29e5bfc5de3027440c30071f69d97692/adjuntos/373/imagenes/001/836/0001836686/1200x675/718x274:738x294/papa-siempre-la-obra-campi-y-dani-la-chepi.jpg",
+        "video_url": null,
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://n.bytvi.com/mdzol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“创造力多次拯救了我”：坎皮在上台前怀着开放的心态",
+        "description_zh": "在里塞奥剧院登台几分钟后，坎皮敞开心扉，反思创造力如何在困难时期拯救了他。"
+    },
+    {
+        "article_id": "26e1d950ea263d045260bcb021331d9a",
+        "link": "https://www.mdzol.com/mundo/crece-la-polemica-el-humorista-jimmy-kimmel-vs-melania-y-donald-trump-n1507814",
+        "title": "Crece la polémica entre el humorista Jimmy Kimmel vs Melania y Donald Trump",
+        "description": "En Estados Unidos, Jimmy Kimmel se defiende después de que Donald Trump pida su despido por llamar a Melania Trump \"futura viuda\".",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "estados unidos",
+            "ataque",
+            "melania trump",
+            "donald trump",
+            "jimmy kimmel"
+        ],
+        "creator": [
+            "mdz mundo"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-28 15:45:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-28 16:02:04",
+        "image_url": "https://media.mdzol.com/p/f17d21b05797c42903c9211d0f78a89f/adjuntos/373/imagenes/001/308/0001308027/1200x675/smart/donald-trump-melania-trumpjpg.jpg",
+        "video_url": null,
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://n.bytvi.com/mdzol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "喜剧演员吉米·金梅尔与梅拉尼娅和唐纳德·特朗普之间的争议愈演愈烈",
+        "description_zh": "在美国，唐纳德·特朗普因称梅拉尼娅·特朗普为“未来的寡妇”而要求解雇他，吉米·金梅尔为自己辩护。"
+    },
+    {
+        "article_id": "6d64fb4aa624bea1bf4a9ef0f54cf68b",
+        "link": "https://veja.abril.com.br/esporte/botafogo-x-independiente-petrolero-onde-assistir-horario-e-escalacoes/",
+        "title": "Botafogo x Independiente Petrolero: onde assistir, horário e escalações",
+        "description": "Partida de hoje, 28, é válida pela 3a rodada do Grupo E",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "futebol: onde assistir",
+            "copa sul-americana",
+            "botafogo"
+        ],
+        "creator": [
+            "pedro cardoso"
         ],
         "language": "portuguese",
         "country": [
@@ -22,16 +110,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-27 15:49:00",
+        "pubDate": "2026-04-28 15:45:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:18:34",
-        "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/01/06/motociclistas-22648957.jpg",
+        "fetched_at": "2026-04-28 16:02:41",
+        "image_url": "https://veja.abril.com.br/wp-content/uploads/2025/07/GettyImages-2211587454.jpg?quality=70&strip=info",
         "video_url": null,
-        "source_id": "abcmais",
-        "source_name": "Abc+",
-        "source_priority": 5471397,
-        "source_url": "https://www.abcmais.com",
-        "source_icon": "https://n.bytvi.com/abcmais.png",
+        "source_id": "veja_abril_br",
+        "source_name": "Veja",
+        "source_priority": 5562,
+        "source_url": "https://veja.abril.com.br",
+        "source_icon": "https://n.bytvi.com/veja_abril_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -39,36 +127,75 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "卡诺阿斯摩托车快递员支持点将于五月确定",
-        "description_zh": "通知预计在该市的两个地址提供三个空间"
+        "title_zh": "博塔弗戈 x Independiente Petrolero：观看地点、时间和阵容",
+        "description_zh": "今天28号的比赛适用于E组第3轮"
     },
     {
-        "article_id": "3ae3bc282ed8989ec099f79e1a36f1c1",
-        "link": "https://www.tudocelular.com/tech/noticias/n253002/google-apaga-foruns-suporte-fitbit-nest-gemini.html",
-        "title": "Google ataca de novo: fóruns de suporte são zerados para integrar funções do Gemini",
-        "description": "Gigante das buscas anuncia exclusão definitiva de contas e tutoriais antigos em fóruns de suporte do Fitbit e Nest para abrir espaço para novo ecossistema com IA",
+        "article_id": "7f4dd731803efbfb606f3755214b3607",
+        "link": "https://www.jujuyaldia.com.ar/2026/04/28/como-buscar-y-borrar-archivos-ocultos-en-whatsapp-para-optimizar-el-espacio-en-tu-celular/",
+        "title": "Cómo buscar y borrar archivos ocultos en WhatsApp para optimizar el espacio en tu celular",
+        "description": "Usar gestores de archivos y la función de “Administrar almacenamiento” permite eliminar fotos, videos y documentos que no aparecen en la app pero siguen consumiendo espacio Jujuy al día ® – WhatsApp se ha convertido en una de las aplicaciones más usadas para la comunicación diaria, pero también en una de las principales causas de [...] La entrada Cómo buscar y borrar archivos ocultos en WhatsApp para optimizar el espacio en tu celular se publicó primero en Jujuy al día .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
-        "creator": null,
-        "language": "portuguese",
+        "creator": [
+            "redaccionuno"
+        ],
+        "language": "spanish",
         "country": [
-            "brazil"
+            "argentina"
         ],
         "category": [
             "technology",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-27 15:49:00",
+        "pubDate": "2026-04-28 15:45:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 21:03:45",
+        "fetched_at": "2026-04-28 15:46:24",
+        "image_url": "https://www.jujuyaldia.com.ar/wp-content/uploads/schema-and-structured-data-for-wp/whatsapp-logo1-1200x675.webp",
+        "video_url": null,
+        "source_id": "jujuyaldia_ar",
+        "source_name": "Jujuy Al Día",
+        "source_priority": 1347983,
+        "source_url": "https://www.jujuyaldia.com.ar",
+        "source_icon": "https://n.bytvi.com/jujuyaldia_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "如何查找并删除 WhatsApp 中的隐藏文件以优化手机空间",
+        "description_zh": "使用文件管理器和“管理存储”功能可以让您删除未出现在应用程序中但继续占用空间的照片、视频和文档 Jujuy al día ® – WhatsApp 已成为日常沟通中最常用的应用程序之一，但也"
+    },
+    {
+        "article_id": "e7023f8b4f0960f230bb057c355ac094",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/04/secretario-de-educacao-de-mg-e-exonerado-apos-8-meses-no-cargo.shtml",
+        "title": "Secretário de Educação de MG é exonerado após 8 meses no cargo",
+        "description": "O governador de Minas Gerais , Mateus Simões (PSD), exonerou na última segunda-feira (27) o secretário de Educação do estado, Rossieli Soares. Leia mais (04/28/2026 - 12h45)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "education"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-28 15:45:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-28 16:02:27",
         "image_url": null,
         "video_url": null,
-        "source_id": "tudocelular",
-        "source_name": "Tudocelular.com",
-        "source_priority": 14359,
-        "source_url": "https://www.tudocelular.com",
-        "source_icon": "https://n.bytvi.com/tudocelular.png",
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -76,64 +203,14 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "谷歌再次出击：支持论坛重置整合Gemini功能",
-        "description_zh": "搜索巨头宣布彻底删除 Fitbit 和 Nest 支持论坛上的旧帐户和教程，为新的人工智能生态系统腾出空间"
+        "title_zh": "MG教育部长上任8个月后被解职",
+        "description_zh": "米纳斯吉拉斯州州长 Mateus Simões (PSD) 于上周一（27 日）解雇了该州教育部长 Rossieli Soares。了解更多（2026 年 4 月 28 日 - 中午 12:45）"
     },
     {
-        "article_id": "4ea493d09848fcf7e63438702a50b06b",
-        "link": "https://www.infobae.com/mexico/2026/04/27/las-mejores-gelatinas-para-esta-ola-de-calor-altas-en-colageno-bajas-en-azucares-anadidos-y-aprobadas-por-profeco/",
-        "title": "Las mejores gelatinas para esta ola de calor: altas en colágeno, bajas en azúcares añadidos y aprobadas por Profeco",
-        "description": "Durante la última semana de abril de 2026, la Ciudad de México enfrenta una de las olas de calor más intensas registradas en años recientes",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "profeco",
-            "mexico-noticias",
-            "azúcar",
-            "colágeno",
-            "gelatinas",
-            "ola de calor",
-            "hidratación"
-        ],
-        "creator": [
-            "marco ruiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-27 15:48:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:01:10",
-        "image_url": "https://www.infobae.com/resizer/v2/VZVAAWLZUFBBLCN7UZY7WE76WU.jpg?auth=da646ec2037079872e9e93c69ed4990816b4c8d4683305a5b503352a4f7abf3f&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "针对这一热浪的最佳明胶：胶原蛋白含量高，添加糖含量低，并经 Profeco 批准",
-        "description_zh": "2026 年 4 月最后一周，墨西哥城面临近年来有记录以来最强烈的热浪之一"
-    },
-    {
-        "article_id": "aac9a91840baf95c9229059f40fbc899",
-        "link": "https://g1.globo.com/am/amazonas/noticia/2026/04/27/homem-e-preso-suspeito-de-espancar-e-esfaquear-companheira-no-interior-do-amazonas.ghtml",
-        "title": "Homem é preso suspeito de espancar e esfaquear companheira no interior do Amazonas",
-        "description": "Homem é preso suspeito de espancar e esfaquear companheira em Manacapuru Um homem de 32 anos, cuja identidade não foi revelada, foi preso em Manacapuru, no Amazonas, pela tentativa de feminicídio contra a companheira, de 37 anos. A prisão é decorrente a uma sequência de agressões ocorridas no dia 19 de abril. Segundo a polícia, o suspeito chegou em casa embriagado, agrediu a mulher com socos e golpes de madeira e, horas depois, desferiu uma facada nas costas dela, em um local público. Populares que presenciaram a cena afastaram o agressor e socorreram a vítima. O laudo médico apontou risco de morte, além de hematomas compatíveis com as agressões sofridas pela manhã. 📲 Participe do canal do g1 AM no WhatsApp De acordo com a delegada Joyce Coelho, a vítima não registrava boletins de ocorrência por medo do comportamento violento do companheiro. “Ela manteve o relacionamento por dois anos, mesmo com as agressões, que foram aumentando até quase resultar em feminicídio”, disse. A polícia informou ainda que o homem também agredia o próprio pai, um idoso, e tinha medida protetiva para não se aproximar dele. O suspeito vai responder por tentativa de feminicídio e permanece preso, à disposição da Justiça. Delegacia Especializada de Polícia de Manacapuru Erlon Rodrigues/PC-AM",
+        "article_id": "7cdc89a74deab4b6b6e89cb3db7614ad",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/04/ratinho-acusa-erika-hilton-de-difamacao-nas-redes-sociais-e-processa-deputada.shtml",
+        "title": "Ratinho acusa Erika Hilton de difamação nas redes sociais e processa deputada",
+        "description": "Ratinho decidiu processar a deputada federal Erika Hilton (PSOL-SP) por injúria, calúnia e difamação. O apresentador do SBT diz que ela ofendeu sua honra ao dizer em redes sociais que ele era \"somente um rato\" ao responder a uma declaração dele, em março. Leia mais (04/28/2026 - 12h45)",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -142,20 +219,20 @@
             "brazil"
         ],
         "category": [
-            "top",
-            "crime"
+            "politics",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-27 15:48:57",
+        "pubDate": "2026-04-28 15:45:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:02:19",
-        "image_url": "https://s2-g1.glbimg.com/hy4vi9ELhvj3mEaYEW8gT2JkUy4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/A/5kvomdSBeJGLscdvlSmQ/delegacia-especializada-de-policia-de-manacapuru-foto-erlon-rodrigues-pc-am.jpeg",
+        "fetched_at": "2026-04-28 16:02:27",
+        "image_url": null,
         "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -163,14 +240,62 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "男子因涉嫌在亚马逊内陆殴打和刺伤同伴而被捕",
-        "description_zh": "一名男子因涉嫌殴打和刺伤伴侣而在马纳卡普鲁被捕 一名身份未透露的 32 岁男子因企图杀害 37 岁的伴侣而在亚马逊州马纳卡普鲁被捕。这次逮捕是由于发生在"
+        "title_zh": "拉蒂尼奥指责埃里卡·希尔顿在社交媒体上诽谤并起诉副手",
+        "description_zh": "拉蒂尼奥决定以侮辱、诽谤和诽谤罪起诉联邦议员埃里卡·希尔顿 (PSOL-SP)。这位SBT主持人表示，她在社交媒体上回应他三月份的声明时称他“只是一只老鼠”，这冒犯了他的名誉。了解更多（2026 年 4 月 28 日 - 中午 12:45）"
     },
     {
-        "article_id": "c2129b615d2611820120b2644b826966",
-        "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/04/27/liminar-prefeita-de-itapeva.ghtml",
-        "title": "Adriana Duch, prefeita cassada de Itapeva, consegue liminar na Justiça e retorna à prefeitura",
-        "description": "Duch deve retornar ao cargo de forma imediata após a liminar Reprodução/TV TEM A prefeita cassada de Itapeva (SP), Coronel Adriana Duch Machado (MDB), deve retornar ao comando da prefeitura após a Justiça conceder uma liminar determinando a suspensão da cassação. O documento foi emitido nesta segunda-feira (27), quatro dias depois da sessão na Câmara Municipal. A TV TEM obteve acesso ao documento, assinado pelo juiz Fernando José Alguz da Silveira, na íntegra. Nele, é descrito que há uma contradição na ata do julgamento feito pelos vereadores, condenando-a por cinco infrações político administrativas, mas, ao mesmo tempo, absolvendo-a por outras seis. 📲 Participe do canal do g1 Itapetininga e Região no WhatsApp \"A ata de julgamento, como instrumento formal de exteriorização da vontade do órgão colegiado, deve consignar de forma clara e inequívoca o resultado da votação. A coexistência de comandos antagônicos impede a identificação da decisão efetivamente tomada, configurando vício grave de forma e motivação\", diz. Vídeos em alta no g1 Além disso, o magistrado também pontuou que a cassação de Adriana representa um \"risco de dano irreparável\", já que o mandato da então chefe do Executivo representava a soberania e a vontade da população. \"A cassação de mandato eletivo produz efeitos imediatos e acarreta o afastamento da impetrante do exercício do cargo para o qual foi democraticamente eleita, com repercussões diretas não apenas na esfera jurídica individual, mas também na regularidade municipal e também na própria expressão da soberania popular\", pontua. Como resultado, Fernando determinou o retorno imediato de Duch ao cargo e impediu a Câmara Municipal de dar continuidade a qualquer ação planejada após a cassação da política. Adriana Duch Machado (MDB) estava à frente da administração pública desde 1o de janeiro de 2025 Reprodução/Câmara Municipal de Itapeva A suspensão do processo envolvendo Adriana foi acatada após a emissão de um mandado de segurança individual por meio do Ministério Público de São Paulo (MPSP). No documento, assinado pelo promotor Pedro Rafael Nogueira Guimarães, é apontado que os fatos apresentados são \"desconexos e genéricos\". \"Os argumentos trazem indícios sérios de violações de diversos aspectos legais, a começar pela portaria inaugural, veiculadora de uma plêiade de fatos desconexos e genéricos [...] Além disso, ao que tudo indica, os trabalhos desbordaram para apurações mais amplas do que os já bastante alargados objetos da portaria, em aparente pesca probatória\", argumenta. Desde a cassação, Generci Neves (PSD) tem comandado a prefeitura e, no primeiro dia de mandato, exonerou 12 secretários. Em tese, ele deveria seguir até o final do mandato de Duch, previsto para terminar em dezembro de 2028. A TV TEM entrou em contato com a Câmara Municipal e com a Prefeitura de Itapeva, mas não obteve retorno até a publicação desta reportagem. Relembre o processo Geneci Neves é o atual prefeito de Itapeva (SP) Divulgação/Câmara Municipal O processo iniciou em 2 de fevereiro, quando o plenário da Câmara aprovou a abertura da investigação. Conforme a Câmara Municipal de Itapeva, ao longo da apuração, foram realizadas 16 reuniões, sendo oito ordinárias e oito extraordinárias, e 13 oitivas, incluindo o depoimento da prefeita. A comissão também analisou documentos, encaminhados tanto pela defesa quanto solicitados durante a investigação. Segundo a Câmara, os advogados da prefeita tiveram acesso integral aos trabalhos. O relatório final foi elaborado pelo relator Marinho Nishiyama (Novo), que afastou parte das acusações, mas concluiu pela existência de irregularidades que, em seu entendimento, justificam a cassação do mandato. A sessão durou mais de dez horas, começando na noite de terça-feira (22) e terminando somente na madrugada de quarta-feira (23). A vereadora Val Santos (PP) acompanhou o voto do relator. Já o presidente da Comissão Processante, Júlio Ataíde (PL), apresentou voto divergente, por entender que não há provas suficientes para a cassação. Ele defendeu a improcedência da denúncia. Initial plugin text Veja mais notícias no g1 Itapetininga e Região VÍDEOS: assista às reportagens da TV TEM",
+        "article_id": "89cc89f733bd03a937c5c05c9b1138c3",
+        "link": "https://www.infobae.com/colombia/2026/04/28/gustavo-petro-denuncio-un-supuesto-plan-para-culparlo-de-un-posible-atentado-contra-el-presidente-ecuatoriano-daniel-noboa-manas-de-uribe/",
+        "title": "Gustavo Petro denunció un supuesto plan para culparlo de un posible atentado contra el presidente ecuatoriano Daniel Noboa: “Mañas de Uribe”",
+        "description": "El mandatario colombiano insistió en su hipótesis de que los explosivos utilizados en el atentado en Cauca provienen del vecino país",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "atentado cajibío cauca",
+            "gustavo petro",
+            "colombia-noticias",
+            "daniel noboa",
+            "ecuador"
+        ],
+        "creator": [
+            "jhon bernal"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "united states of america",
+            "colombia",
+            "argentina"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-28 15:44:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-28 16:01:40",
+        "image_url": "https://www.infobae.com/resizer/v2/W7XZUZZL3JH7LPBIVM2K7AQTQM.jpg?auth=919ef334938cf1e8301b6159a6c9d372e9bbd298f79ea26052e2412dbf9dee0e&smart=true&width=1920&height=1080",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "古斯塔沃·佩特罗谴责了一项指控他可能对厄瓜多尔总统丹尼尔·诺博亚发动袭击的计划：“乌里韦的马纳斯”",
+        "description_zh": "哥伦比亚总统坚持他的假设，即考卡袭击中使用的炸药来自邻国"
+    },
+    {
+        "article_id": "d4dd2319f1a12b601f7c9860e9b2842a",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/04/28/ministro-marco-aurelio-bellizze-assume-vaga-de-juiz-substituto-do-tse.ghtml",
+        "title": "Ministro Marco Aurélio Bellizze assume como juiz substituto do TSE",
+        "description": "O ministro Marco Aurélio Bellizze assumirá o cargo de ministro-substituto do Tribunal Superior Eleitoral (TSE). A solenidade de posse foi marcada pela presidente do tribunal, ministra Cármen Lúcia, para esta terça-feira, pouco antes da sessão de julgamentos da Corte. Belizze é ministro do Superior Tribunal de Justiça (STJ) desde 2011, quando assumiu a vaga deixada por Luiz Fux, nomeado naquele ano ao Supremo Tribunal Federal (STF). Fluminense, Bellizze se tornou juiz de Direito no Rio em 1990, então o mais novo magistrado do estado. Essa situação se repetiria em 2004, quando foi promovido por merecimento ao cargo de desembargador, aos 40 anos. No STJ, ele atualmente integra a 2a Turma e a 1a Seção, especializadas em Direito Público. O ministro também é professor na Fundação Getúlio Vargas (FGV).",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -179,20 +304,20 @@
             "brazil"
         ],
         "category": [
-            "top",
-            "politics"
+            "politics",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-27 15:48:54",
+        "pubDate": "2026-04-28 15:44:33",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:05:16",
-        "image_url": "https://s2-g1.glbimg.com/kK3x9gpiGo3hsiOi5wKxHj6cbMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/U/5CS5jYSKyXB3WsQLp8LA/img-010410-1-.jpg",
+        "fetched_at": "2026-04-28 16:09:24",
+        "image_url": "https://s2-oglobo.glbimg.com/fOOCy0mgWd8hZiVnWe9EcYrpUKo=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/P/7/lUTcorSeA1hVIhNv1O7g/54842178302-2a9f96aa13-z.jpg",
         "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "source_id": "oglobo_globo",
+        "source_name": "O Globo",
+        "source_priority": 93485,
+        "source_url": "https://oglobo.globo.com",
+        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -200,129 +325,83 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "被弹劾的伊塔佩瓦市长阿德里安娜·杜赫在法庭获得禁令并返回市政厅",
-        "description_zh": "杜赫必须在禁令发布后立即返回办公室 被弹劾的伊塔佩瓦市市长阿德里安娜·杜赫·马查多上校 (MDB) 必须在法院授予暂停弹劾的禁令后返回市政厅指挥。该文件于今年发布"
+        "title_zh": "部长 Marco Aurélio Bellizze 接任 TSE 代理法官",
+        "description_zh": "部长 Marco Aurélio Bellizze 将担任高级选举法院（TSE）代理部长。法院院长、部长卡门·卢西亚 (Cármen Lúcia) 安排了就职典礼，时间为周二，即法院开庭前不久。贝利泽 (Belizze) 担任 SUP 部长"
     },
     {
-        "article_id": "c8b268ad0f2146ca5d58a25714aa25a7",
-        "link": "https://diariodovale.com.br/destaque/volta-redonda-anuncia-saida-de-tecnico-e-busca-substituto/",
-        "title": "Volta Redonda anuncia saída de técnico e busca substituto",
-        "description": "Volta Redonda – O Volta Redonda Futebol Clube confirmou a saída do técnico William de Mattia do comando da equipe profissional. A decisão foi comunicada por meio de nota oficial...",
+        "article_id": "ef5ce8efb969117d15bab95d3a13270b",
+        "link": "https://www.infobae.com/arc-support/2026/04/28/medica-falsa-y-fugitiva-asi-atraparon-a-la-docente-de-plastica-que-atendia-pacientes-en-hospitales-de-chaco/",
+        "title": "Médica falsa y fugitiva: así atraparon a la docente de plástica que atendía pacientes en hospitales de Chaco",
+        "description": "Lidia Mabel Ojeda se refugió en la casa de su novio policía, en Tres de Febrero. Cómo la descubrieron",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "volta redonda",
-            "volta redonda futebol clube",
-            "william de mattia"
+            "chaco",
+            "tres de febrero",
+            "últimas noticias"
         ],
         "creator": [
-            "ana carolina garcia berg de marco"
+            "cecilia di lodovico"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "united states of america",
+            "colombia",
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-04-28 15:44:27",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-28 16:01:41",
+        "image_url": "https://www.infobae.com/resizer/v2/TE4C7FW745CMTIBAFXTW6VGQMI.jpg?auth=2297e22bfe14f8bbb884b3acc51cf6b018e37c8b54b7f49cd966694f757f9283&smart=true&width=1920&height=1080",
+        "video_url": "https://cdn.jwplayer.com/videos/aYpC40pr-HeIT2Id1.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "假冒逃亡医生：他们就是这样抓到在查科医院治疗病人的整形老师的",
+        "description_zh": "莉迪亚·梅贝尔·奥赫达 (Lidia Mabel Ojeda) 在特雷斯德费雷罗 (Tres de Febrero) 的警察男友家中避难。他们是如何发现它的"
+    },
+    {
+        "article_id": "088905168686dfc591ce9807ce39b554",
+        "link": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-2026-cadillac-revela-pintura-especial-para-o-gp-de-miami,4d8ad5f43b9e6eaf605520d9357b8fcbmgs6rpeu.html",
+        "title": "F1 2026: Cadillac revela pintura especial para o GP de Miami",
+        "description": "A equipe Cadillac de Fórmula 1 revelou uma pintura especial e patriótica para o Grande Prêmio de ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "mateus vieira"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-04-27 15:48:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:18:21",
-        "image_url": "https://diariodovale.com.br/wp-content/uploads/2026/04/treinador-voltaco-vr1.jpg",
-        "video_url": null,
-        "source_id": "diariodovale_br",
-        "source_name": "Diário Do Vale",
-        "source_priority": 5323621,
-        "source_url": "https://diariodovale.com.br",
-        "source_icon": "https://n.bytvi.com/diariodovale_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "沃尔塔·雷东达宣布主帅离职并寻找替代者",
-        "description_zh": "沃尔塔雷东达 – 沃尔塔雷东达足球俱乐部确认教练威廉德马蒂亚不再执掌职业球队。该决定是通过官方说明传达的……"
-    },
-    {
-        "article_id": "47dce0a7f09ddec3188c0b905629f148",
-        "link": "https://www.infobae.com/espana/agencias/2026/04/27/sumar-implica-al-psoe-en-un-acuerdo-con-junts-que-salve-a-ultima-hora-decreto-de-alquiler/",
-        "title": "Sumar implica al PSOE en un acuerdo con Junts que salve a última hora decreto de alquiler",
-        "description": "Sumar implica al PSOE en un acuerdo con Junts que salve a última hora decreto de alquiler",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-27 15:48:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:01:10",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "苏马尔让 PSOE 与 Junts 达成协议，在最后一刻保留了租金法令",
-        "description_zh": "苏马尔让 PSOE 与 Junts 达成协议，在最后一刻保留了租金法令"
-    },
-    {
-        "article_id": "ff646b9d63096e69612ba7ec883404f3",
-        "link": "https://elintransigente.com/2026/04/boca-analiza-reforzar-un-puesto-clave-y-aparece-un-nuevo-nombre-del-futbol-argentino/",
-        "title": "Boca analiza reforzar un puesto clave y aparece un nuevo nombre del fútbol argentino",
-        "description": "La dirigencia de Boca ya planifica lo que será la búsqueda de refuerzos para el segundo semestre. The post Boca analiza reforzar un puesto clave y aparece un nuevo nombre del fútbol argentino appeared first on El Intransigente .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "juan román riquelme",
-            "lautaro vargas",
-            "luciano cofano",
-            "boca",
-            "mercado de pases"
-        ],
-        "creator": [
-            "santiagorecalde"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-27 15:48:44",
+        "pubDate": "2026-04-28 15:44:22",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:18:06",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/03/boca.jpg?fit=1200%2C762&quality=95&ssl=1",
+        "fetched_at": "2026-04-28 16:34:58",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/04/28/captura-de-tela-2026-04-28-124013-rhiw7z235s9x.png",
         "video_url": null,
-        "source_id": "elintransigente",
-        "source_name": "El Intransigente",
-        "source_priority": 3446332,
-        "source_url": "https://elintransigente.com",
-        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
+        "source_id": "terra",
+        "source_name": "Terra",
+        "source_priority": 24247,
+        "source_url": "https://www.terra.com.br",
+        "source_icon": "https://n.bytvi.com/terra.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -330,259 +409,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "博卡分析加强关键地位，阿根廷足球新名字出现",
-        "description_zh": "博卡领导层已经在计划第二学期的增援工作。博卡分析了加强阿根廷足球的一个关键位置和一个新名字，这首先出现在 El Intransigente 上。"
+        "title_zh": "F1 2026：凯迪拉克为迈阿密大奖赛展示特别涂装",
+        "description_zh": "凯迪拉克一级方程式车队为大奖赛揭开了特殊的爱国涂装……"
     },
     {
-        "article_id": "30340ed39a8b5d959718e371bd2274e1",
-        "link": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-sobre-el-tirador-del-atentado-contra-trump-y-como-sigue-la-investigacion-nid27042026/",
-        "title": "Qué se sabe sobre el tirador del atentado contra Trump y cómo sigue la investigación",
-        "description": "El agresor fue detenido tras irrumpir armado en un evento en la Casa Blanca; Donald Trump lo definió como “una persona enferma”",
+        "article_id": "973776d619d24de382946878f4081e65",
+        "link": "https://www.informador.mx/jalisco/aseguran-a-otro-mono-arana-perdido-en-calles-de-guadalajara-20260428-0063.html",
+        "title": "Aseguran a otro mono araña perdido en calles de Guadalajara",
+        "description": "El ejemplar es parte de una especie que se encuentra en peligro de extinción",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "donald trump",
-            "estados unidos",
-            "ln+",
-            "presidente de ee.uu."
+            "mono araña",
+            "policía de guadalajara",
+            "guardabosques",
+            "fauna silvestre"
         ],
         "creator": [
-            "la nacion"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-04-27 15:48:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:01:34",
-        "image_url": "https://resizer.glanacion.com/resizer/v2/O3DVLSD4BZDH3PRFQML4OLGAYU.jpg?auth=4482119d53c186ec73676916f2371ded823e0a90100e1011b31c70ba71651982&smart=true&width=3843&height=2562",
-        "video_url": null,
-        "source_id": "lanacion",
-        "source_name": "La Nacion",
-        "source_priority": 7204,
-        "source_url": "https://www.lanacion.com.ar",
-        "source_icon": "https://n.bytvi.com/lanacion.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "关于袭击特朗普的枪手的情况以及调查如何继续",
-        "description_zh": "袭击者在武装闯入白宫的一次活动后被捕；唐纳德·特朗普将他定义为“一个病人”"
-    },
-    {
-        "article_id": "000a4bac0f13bec3f0f6dad268b62ec2",
-        "link": "https://odocumento.com.br/colisao-entre-motos-aquaticas-mata-mulher-durante-passeio-no-rio-araguaia-em-mt/",
-        "title": "Colisão entre motos aquáticas mata mulher durante passeio no rio Araguaia em MT",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cidades"
-        ],
-        "creator": [
-            "redação"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-27 15:48:36",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:18:45",
-        "image_url": "https://odocumento.com.br/content/images/2026/04/a2d1bcb8-678f-4bd3-9286-297a98a89848.jpg",
-        "video_url": null,
-        "source_id": "odocumento",
-        "source_name": "O Documento",
-        "source_priority": 6912852,
-        "source_url": "https://odocumento.com.br",
-        "source_icon": "https://n.bytvi.com/odocumento.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "一名妇女在蒙大拿州阿拉瓜亚河航行时发生船只相撞身亡",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "2b6be268b96d459dcbd05550c92fb622",
-        "link": "https://www.elmanana.com/local/reynosa/seguridad-vial-uso-de-sillas-infantiles-en-reynosa/6125514",
-        "title": "Seguridad vial: uso de sillas infantiles en Reynosa",
-        "description": "La doctora Yolanda Martínez advirtió que la omisión de sistemas de retención persiste en Reynosa pese a ser obligatorio; el uso correcto de sillitas reduce lesiones graves en accidentes",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "seguridad vial para ni&#241;os",
-            "accidentes de tr&#225;fico en reynosa",
-            "prevenci&#243;n de accidentes viales",
-            "importancia de sillas de retenci&#243;n",
-            "uso de sillas infantiles en reynosa"
-        ],
-        "creator": [
-            "gloria isela trevi&ntilde;o"
+            "rubí bobadilla"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-27 15:49:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 21:10:49",
-        "image_url": "https://blob.elmanana.com/images/2026/04/27/crop-w936-h781-a9d952e0-c5c3-4dd4-a8bf-6a2015f5d5b0-d75df015.jpg",
-        "video_url": null,
-        "source_id": "elmanana",
-        "source_name": "Últimas Noticias - El Mañana De Reynosa",
-        "source_priority": 258494,
-        "source_url": "https://www.elmanana.com",
-        "source_icon": "https://n.bytvi.com/elmanana.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "道路安全：雷诺萨使用儿童座椅",
-        "description_zh": "尤兰达·马丁内斯 (Yolanda Martínez) 博士警告说，尽管约束系统是强制性的，但在雷诺萨仍然存在遗漏约束系统的情况；正确使用儿童座椅可减少事故中的严重伤害"
-    },
-    {
-        "article_id": "4ea493d09848fcf7e63438702a50b06b",
-        "link": "https://www.infobae.com/mexico/2026/04/27/las-mejores-gelatinas-para-esta-ola-de-calor-altas-en-colageno-bajas-en-azucares-anadidos-y-aprobadas-por-profeco/",
-        "title": "Las mejores gelatinas para esta ola de calor: altas en colágeno, bajas en azúcares añadidos y aprobadas por Profeco",
-        "description": "Durante la última semana de abril de 2026, la Ciudad de México enfrenta una de las olas de calor más intensas registradas en años recientes",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "profeco",
-            "mexico-noticias",
-            "azúcar",
-            "colágeno",
-            "gelatinas",
-            "ola de calor",
-            "hidratación"
-        ],
-        "creator": [
-            "marco ruiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-27 15:48:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:01:10",
-        "image_url": "https://www.infobae.com/resizer/v2/VZVAAWLZUFBBLCN7UZY7WE76WU.jpg?auth=da646ec2037079872e9e93c69ed4990816b4c8d4683305a5b503352a4f7abf3f&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "针对这一热浪的最佳明胶：胶原蛋白含量高，添加糖含量低，并经 Profeco 批准",
-        "description_zh": "2026 年 4 月最后一周，墨西哥城面临近年来有记录以来最强烈的热浪之一"
-    },
-    {
-        "article_id": "5bdb7ee39c3c55902bbd22366af0e4d4",
-        "link": "https://24horaspuebla.com/2026/04/seguro-de-vida-contra-la-inseguridad-publica/",
-        "title": "Seguro de vida contra la inseguridad pública",
-        "description": "Al funeral de la joven Angelique de 19 años, asesinada durante un ataque armado a la tienda familiar por el cobro de piso en la colonia 10 de Mayo, no llegó ningún arreglo floral del Gobierno ni las condolencias. Tampoco llegó una ambulancia solicitada al 911 para atenderla de las heridas de muerte que le [...] The post Seguro de vida contra la inseguridad pública appeared first on Diario 24 Horas Puebla .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "gabriela arellano"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-27 15:48:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:13:38",
-        "image_url": "https://bunny-wp-pullzone-19zk8kfr6r.b-cdn.net/wp-content/uploads/puebla//2026/04/Pablo-Ruiz-1-3.jpg",
-        "video_url": null,
-        "source_id": "24horaspuebla",
-        "source_name": "24 Horas Puebla",
-        "source_priority": 649883,
-        "source_url": "https://24horaspuebla.com",
-        "source_icon": "https://n.bytvi.com/24horaspuebla.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "针对公共不安全感的人寿保险",
-        "description_zh": "19 岁的安吉丽卡 (Angelique) 在 10 de Mayo 社区的家庭商店因收取地板费而遭到武装袭击时被杀害，在她的葬礼上，政府没有送来鲜花布置或哀悼。向 911 请求的救护车也没有到达来治疗她的生命伤害。"
-    },
-    {
-        "article_id": "47dce0a7f09ddec3188c0b905629f148",
-        "link": "https://www.infobae.com/espana/agencias/2026/04/27/sumar-implica-al-psoe-en-un-acuerdo-con-junts-que-salve-a-ultima-hora-decreto-de-alquiler/",
-        "title": "Sumar implica al PSOE en un acuerdo con Junts que salve a última hora decreto de alquiler",
-        "description": "Sumar implica al PSOE en un acuerdo con Junts que salve a última hora decreto de alquiler",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "business",
+            "environment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-27 15:48:45",
+        "pubDate": "2026-04-28 15:45:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:01:10",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "fetched_at": "2026-04-28 16:05:15",
+        "image_url": "https://www.informador.mx/__export/1777390997056/sites/elinformador/img/2026/04/28/mono_araxa_rescatado_version1777390952983.jpg_152483131.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://n.bytvi.com/informador_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -590,18 +453,78 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "苏马尔让 PSOE 与 Junts 达成协议，在最后一刻保留了租金法令",
-        "description_zh": "苏马尔让 PSOE 与 Junts 达成协议，在最后一刻保留了租金法令"
+        "title_zh": "他们保护了另一只在瓜达拉哈拉街头迷失的蜘蛛猴",
+        "description_zh": "该标本属于濒临灭绝的物种"
     },
     {
-        "article_id": "01b01b20e665c5c24d3e64723e151d36",
-        "link": "https://8columnas.com.mx/estado-de-mexico/ciclista-muere-atropellado-en-la-zona-industrial-de-toluca/",
-        "title": "Ciclista muere atropellado en la zona industrial de Toluca",
-        "description": "Redacción Un ciclista perdió la vida la mañana de este lunes tras ser atropellado en la zona industrial de Toluca, en un hecho registrado sobre la calle Albert Einstein, a la altura de la colonia Santa Ana Tlapaltitlán. De acuerdo con reportes preliminares, el incidente ocurrió cerca del cruce con Industrias Químicas y la vialidad [...]",
+        "article_id": "585a6874b290546a6490eec3135f8305",
+        "link": "https://www.vanguardia.com/loterias/2026/04/28/resultado-de-el-dorado-manana-sorteo-del-martes-28-de-abril-de-2026/",
+        "title": "Resultado de El Dorado Mañana: sorteo del martes 28 de abril de 2026",
+        "description": "Conozca el resultado del sorteo de El Dorado Mañana de hoy martes 28 de abril de 2026.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "dorado mañana",
+            "lotería",
+            "lo más viral"
+        ],
         "creator": [
-            "ocho columnas"
+            "redacción vanguardia"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-28 15:45:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-28 16:05:39",
+        "image_url": "https://www.vanguardia.com/resizer/v2/SCWZQ2AOIZFFVFO3CWGQJ4UXJM.jpg?auth=44e1f939b6b0d779e5fd84b67b3b9e6c5f3aaaffeff88edf484ed5161ec05e62&smart=true&width=1050&height=700",
+        "video_url": null,
+        "source_id": "vanguardia",
+        "source_name": "Vanguardia",
+        "source_priority": 24302,
+        "source_url": "https://vanguardia.com.mx",
+        "source_icon": "https://n.bytvi.com/vanguardia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "埃尔多拉多明天结果：2026 年 4 月 28 日星期二抽签",
+        "description_zh": "今天（2026 年 4 月 28 日星期二）了解 El Dorado Mañana 抽签结果。"
+    },
+    {
+        "article_id": "1801d4580dc138e9eb606820d7821fae",
+        "link": "https://www.cronica.com.mx/nacional/2026/04/28/caso-carolina-flores-que-es-lo-ultimo-que-se-sabe-de-su-suegra-que-la-asesino-cronologia-de-su-escape-y-el-taxista-que-se-la-llevo/",
+        "title": "Caso Carolina Flores: ¿qué es lo último que se sabe de su suegra, que la asesinó? Cronología de su escape y el taxista que se la llevó",
+        "description": "Erika María ‘N’, suegra de Carolina Flores y principal sospechosa de su asesinato, continúa prófuga de la justicia tras su huída de la CDMX el 15 de abril; esto es lo que se sabe hasta ahora.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "exreina de belleza asesinada",
+            "qué pasó con carolina flores gómez",
+            "quién es erika maría n",
+            "feminicidio carolina flores en polanco",
+            "asesinato polanco cdmx",
+            "caso carolina flores",
+            "cómo escapó erika maría n",
+            "feminicio ciudad de méxico",
+            "suegra dispara a nuera en cdmx caso completo",
+            "cronología caso carolina flores gómez",
+            "nuevos avances caso carolina flores gómez",
+            "erika maría n feminicidio cdmx",
+            "suegra mata nuera méxico",
+            "carolina flores gómez",
+            "cronología huida de erika maría n",
+            "feminicidio polanco"
+        ],
+        "creator": [
+            "erandi  estrada"
         ],
         "language": "spanish",
         "country": [
@@ -612,16 +535,16 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-27 15:48:44",
+        "pubDate": "2026-04-28 15:44:50",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:18:22",
-        "image_url": "https://8columnas.com.mx/wp-content/uploads/2026/04/Polish_20260427_094711895.jpg",
+        "fetched_at": "2026-04-28 16:13:00",
+        "image_url": "https://www.cronica.com.mx/resizer/v2/JNVYX2UGGFF4LA4W3ESIKSTK34.png?auth=dde5d769ff34957599cad65ae0c8e54e5302a2373c5a1573d1130f56d8f1c51f&smart=true&width=1200&height=900",
         "video_url": null,
-        "source_id": "8columnas",
-        "source_name": "8 Columnas",
-        "source_priority": 3151158,
-        "source_url": "https://8columnas.com.mx",
-        "source_icon": "https://n.bytvi.com/8columnas.png",
+        "source_id": "cronica_mx",
+        "source_name": "Cronica",
+        "source_priority": 362704,
+        "source_url": "https://www.cronica.com.mx",
+        "source_icon": "https://n.bytvi.com/cronica_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -629,99 +552,14 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "托卢卡工业区骑自行车者被碾压身亡",
-        "description_zh": "社论 周一早上，一名骑自行车的人在托卢卡工业区被碾压身亡，事故发生在靠近圣安娜特拉帕尔蒂特兰社区的阿尔伯特爱因斯坦街。据初步报道，事件发生在路口附近"
+        "title_zh": "卡罗莱纳弗洛雷斯案：关于谋杀她的她婆婆，我们最后知道的一件事是什么？她逃跑的年表和带走她的出租车司机",
+        "description_zh": "卡罗莱纳·弗洛雷斯 (Carolina Flores) 的婆婆、谋杀案的主要嫌疑人埃里卡·玛丽亚·“N”(Erika María 'N') 于 4 月 15 日逃离 CDMX 后仍然逍遥法外；这是目前已知的情况。"
     },
     {
-        "article_id": "99c49a8924095952d7871ff125ba7353",
-        "link": "https://www.eluniversal.com.mx/metropoli/movilizaciones-este-lunes-en-cdmx-preven-afectaciones-viales/",
-        "title": "Movilizaciones este lunes en CDMX; prevén afectaciones viales",
-        "description": "Colectivos, estudiantes y activistas realizarán concentraciones para exigir justicia, derechos y mejoras en seguridad",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "afectaciones viales",
-            "movilizaciones cdmx",
-            "bloqueos"
-        ],
-        "creator": [
-            "el universal"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-27 15:48:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:01:42",
-        "image_url": "https://www.eluniversal.com.mx/resizer/v2/EHM5UAAHVBAATOKUWTIQM7WQMQ.jpg?auth=4aa15ec97e44aa2d356a2d4949ad28b5ed0652b5361a7cde75554b110a17162b&smart=true&width=1201&height=702",
-        "video_url": null,
-        "source_id": "eluniversal",
-        "source_name": "El Universal",
-        "source_priority": 8884,
-        "source_url": "https://www.eluniversal.com.mx",
-        "source_icon": "https://n.bytvi.com/eluniversal.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "本周一在 CDMX 进行动员；预计道路会受损",
-        "description_zh": "集体、学生和活动人士将举行集会，要求正义、权利和改善安全"
-    },
-    {
-        "article_id": "1fdc4ba42ba115471a56e7df94aa7aa7",
-        "link": "https://www.infobae.com/espana/agencias/2026/04/27/el-megayate-del-director-de-cine-steven-spielberg-atraca-en-el-puerto-de-tarragona/",
-        "title": "El megayate del director de cine Steven Spielberg atraca en el Puerto de Tarragona",
-        "description": "El megayate del director de cine Steven Spielberg atraca en el Puerto de Tarragona",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-04-27 15:48:29",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:01:10",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "电影导演史蒂文·斯皮尔伯格的巨型游艇停靠在塔拉戈纳港",
-        "description_zh": "电影导演史蒂文·斯皮尔伯格的巨型游艇停靠在塔拉戈纳港"
-    },
-    {
-        "article_id": "0d1fd3831ecfa500a75c3c63b52bcf36",
-        "link": "https://eldiariodechihuahua.mx/internacional/2026/apr/27/llega-rey-carlos-a-eu-en-medio-de-tensiones-792094.html",
-        "title": "Llega Rey Carlos a EU en medio de tensiones",
-        "description": "El Rey Carlos de Reino Unido llega a EU hoy a una visita de cuatro días en medio de dificultades tras tiroteo ocurrido en la Casa Blanca",
+        "article_id": "19fb98057757b0b25150ecd1fca60f64",
+        "link": "https://eldiariodechihuahua.mx/estados-unidos/2026/apr/28/recibe-trump-a-rey-charles-para-reunion-privada-792434.html",
+        "title": "Recibe Trump a Rey Charles para reunión privada",
+        "description": "Se saludaron cordialmente este martes, al comenzar el Monarca una jornada diplomática en Washington",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
@@ -732,14 +570,14 @@
             "mexico"
         ],
         "category": [
-            "top",
-            "crime"
+            "politics",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-27 15:48:26",
+        "pubDate": "2026-04-28 15:44:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:08:47",
-        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/04/27/imagetransformer-WZeJlfjRF.jpg",
+        "fetched_at": "2026-04-28 16:09:08",
+        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/04/28/d84195e2-2eec-42c8-9cc0-6ab0c9aada7d-16-9-discover-aspect-ratio-default-0-x1200y533-WVka0QWHf.jpg",
         "video_url": null,
         "source_id": "eldiariodechihuahua",
         "source_name": "Eldiariodechihuahua",
@@ -753,54 +591,47 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "查尔斯国王在紧张局势中抵达美国",
-        "description_zh": "英国国王查尔斯今天抵达美国进行为期四天的访问，在白宫枪击事件后遇到困难"
+        "title_zh": "特朗普接见查尔斯国王进行私人会面",
+        "description_zh": "本周二，当君主在华盛顿开始外交日时，他们亲切地互相问候"
     },
     {
-        "article_id": "7c69eb3755f8bacff3390316d35e4889",
-        "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/04/27/con-apreton-de-manos-el-saludo-entre-gabriel-boric-y-jose-antonio-kast-en-aniversario-de-carabineros.shtml",
-        "title": "Con apretón de manos: el saludo entre Gabriel Boric y José Antonio Kast en aniversario de Carabineros",
-        "description": "Esta mañana de lunes, en el marco de la ceremonia de un nuevo aniversario de Carabineros, el presidente José Antonio Kast se reencontró, entre otras autoridades, con su antecesor, Gabriel Boric. En un registro de Radio Bío Bío se observa cómo ambos se saludan con un apretón de manos. Entre otras figuras a las que ... Continua leyendo \"Con apretón de manos: el saludo entre Gabriel Boric y José Antonio Kast en aniversario de Carabineros\" The post Con apretón de manos: el saludo entre Gabriel Boric y José Antonio Kast en aniversario de Carabineros appeared first on BioBioChile .",
+        "article_id": "89cc89f733bd03a937c5c05c9b1138c3",
+        "link": "https://www.infobae.com/colombia/2026/04/28/gustavo-petro-denuncio-un-supuesto-plan-para-culparlo-de-un-posible-atentado-contra-el-presidente-ecuatoriano-daniel-noboa-manas-de-uribe/",
+        "title": "Gustavo Petro denunció un supuesto plan para culparlo de un posible atentado contra el presidente ecuatoriano Daniel Noboa: “Mañas de Uribe”",
+        "description": "El mandatario colombiano insistió en su hipótesis de que los explosivos utilizados en el atentado en Cauca provienen del vecino país",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "educación",
-            "escuela de carabineros",
-            "radio bío-bío",
-            "crecimiento",
-            "gabriel boric",
-            "josé antonio kast",
-            "gestión del expresidente",
-            "empleo",
-            "paulina núñez",
-            "ceremonia de carabineros",
-            "tensión política",
-            "jorge alessandri",
-            "salud",
-            "maría pía adriasola",
-            "tres poderes del estado"
+            "atentado cajibío cauca",
+            "gustavo petro",
+            "colombia-noticias",
+            "daniel noboa",
+            "ecuador"
         ],
         "creator": [
-            "constanza carrillo silva"
+            "jhon bernal"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "mexico",
+            "united states of america",
+            "colombia",
+            "argentina"
         ],
         "category": [
-            "lifestyle",
+            "politics",
             "top"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-04-27 15:48:22",
+        "datatype": "news",
+        "pubDate": "2026-04-28 15:44:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 16:03:29",
-        "image_url": "https://media.biobiochile.cl/wp-content/uploads/2026/04/social-boric-kast-1.jpg",
-        "video_url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/04/27/con-apreton-de-manos-el-saludo-entre-gabriel-boric-y-jose-antonio-kast-en-aniversario-de-carabineros.shtml",
-        "source_id": "biobiochile",
-        "source_name": "Biobiochile",
-        "source_priority": 13427,
-        "source_url": "https://www.biobiochile.cl",
-        "source_icon": "https://n.bytvi.com/biobiochile.png",
+        "fetched_at": "2026-04-28 16:01:40",
+        "image_url": "https://www.infobae.com/resizer/v2/W7XZUZZL3JH7LPBIVM2K7AQTQM.jpg?auth=919ef334938cf1e8301b6159a6c9d372e9bbd298f79ea26052e2412dbf9dee0e&smart=true&width=1920&height=1080",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -808,23 +639,105 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "握手：加布里埃尔·博里奇 (Gabriel Boric) 和何塞·安东尼奥·卡斯特 (José Antonio Kast) 在宪兵队周年纪念日致以问候",
-        "description_zh": "本周一上午，在宪兵队新周年纪念仪式的框架内，总统何塞·安东尼奥·卡斯特再次会见了他的前任加布里埃尔·博里奇等权威人士。在 Bío Bío 广播电台的录音中，可以看到两人如何握手打招呼。之间 ot"
+        "title_zh": "古斯塔沃·佩特罗谴责了一项指控他可能对厄瓜多尔总统丹尼尔·诺博亚发动袭击的计划：“乌里韦的马纳斯”",
+        "description_zh": "哥伦比亚总统坚持他的假设，即考卡袭击中使用的炸药来自邻国"
     },
     {
-        "article_id": "1d387b0943f03968a75a1775eff172f9",
-        "link": "https://oem.com.mx/elsoldehermosillo/local/a-una-semana-de-protesta-covafam-sigue-sin-dialogo-con-diputados-en-sonora-29698394",
-        "title": "A una semana de protesta, Covafam sigue sin diálogo con diputados en Sonora",
-        "description": "A una semana de protesta de Covafam en el Congreso del Estado, no se ha concretado diálogo con diputados",
+        "article_id": "610764279fff7f9cd3396a4f2e45bb4d",
+        "link": "https://www.eluniversal.com.mx/nacion/maru-campos-informa-que-no-asistira-al-senado-dice-que-no-quiere-comprometer-informacion-sobre-agentes-de-la-cia/",
+        "title": "Maru Campos informa que no asistirá al Senado; dice que no quiere comprometer información sobre agentes de la CIA",
+        "description": "La gobernadora de Chihuahua fue invitada para esclarecer la presencia de agentes estadounidenses en un operativo en México",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "congreso del estado",
-            "protestas",
-            "mantenme informado",
-            "hermosillo"
+            "chihuahua",
+            "maru campos",
+            "gobernadora de chihuahua en el senado",
+            "chihuahua agentes de la cia",
+            "senado",
+            "gobernadora de chihuahua",
+            "ignacio mier"
         ],
         "creator": [
-            "gabriel benítez"
+            "el universal"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-28 15:44:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-28 16:02:53",
+        "image_url": "https://www.eluniversal.com.mx/resizer/v2/OS4BZ3PYVBAILDVEAUF2D5RU5M.jpg?auth=82d1371a14ecfb5ec3b2ed4ddb6617ab8f175f12a12d529afac447cf71000c7c&smart=true&width=1201&height=740",
+        "video_url": null,
+        "source_id": "eluniversal",
+        "source_name": "El Universal",
+        "source_priority": 8884,
+        "source_url": "https://www.eluniversal.com.mx",
+        "source_icon": "https://n.bytvi.com/eluniversal.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "马鲁·坎波斯 (Maru Campos) 报告称，他将不会出席参议院；表示他不想泄露有关中央情报局特工的信息",
+        "description_zh": "奇瓦瓦州州长应邀澄清美国特工在墨西哥的行动"
+    },
+    {
+        "article_id": "e5353849b3483946fde0b90ba608d693",
+        "link": "https://www.record.com.mx/historia/sin-regios-tigres-y-monterrey-sin-representantes-en-la-seleccion-mexicana-para-el-mundial-2026-2026042815444434618",
+        "title": "¡Sin regios! Tigres y Monterrey sin representantes en la Selección Mexicana para el Mundial 2026",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-28 15:44:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-28 16:04:49",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "record",
+        "source_name": "Record",
+        "source_priority": 21395,
+        "source_url": "https://www.record.com.mx",
+        "source_icon": "https://n.bytvi.com/record.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "没有皇室成员！老虎队和蒙特雷队没有代表参加 2026 年世界杯的墨西哥国家队",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "29958bed3fe42f554fecf9c1c5932401",
+        "link": "https://intoleranciadiario.com/articles/politica/2026/04/28/1052137-abre-congreso-de-puebla-espacio-para-inspirar-a-futuras-cientificas.html",
+        "title": "Abre Congreso de Puebla espacio para inspirar a futuras científicas",
+        "description": "Estos espacios permiten incorporar conocimiento especializado en la construcción de iniciativas legislativas y políticas públicas.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ciencia",
+            "congreso",
+            "soledad amieva zamora"
+        ],
+        "creator": [
+            "redacción intolerancia; intoleranciadiario com"
         ],
         "language": "spanish",
         "country": [
@@ -832,19 +745,20 @@
         ],
         "category": [
             "top",
-            "politics"
+            "science",
+            "education"
         ],
         "datatype": "news",
-        "pubDate": "2026-04-27 15:48:13",
+        "pubDate": "2026-04-28 15:44:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-04-27 21:09:45",
-        "image_url": "https://oem.com.mx/elsoldehermosillo/img/29698604/1777304659/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-04-28 15:44:37",
+        "image_url": "https://assets.intoleranciadiario.com/media/images/catedra-matilde-montoya-intolerancia-1777388388694.png",
         "video_url": null,
-        "source_id": "elsoldehermosillo",
-        "source_name": "El Sol De Hermosillo",
-        "source_priority": 176742,
-        "source_url": "https://www.elsoldehermosillo.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldehermosillo.png",
+        "source_id": "intoleranciadiario",
+        "source_name": "Intolerancia Diario",
+        "source_priority": 800128,
+        "source_url": "https://intoleranciadiario.com",
+        "source_icon": "https://n.bytvi.com/intoleranciadiario.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -852,7 +766,96 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "经过一周的抗议后，Covafam 仍然没有与索诺拉州的代表进行对话",
-        "description_zh": "Covafam 在州议会抗议一周后，没有与代表进行对话"
+        "title_zh": "",
+        "description_zh": "这些空间允许将专业知识纳入立法举措和公共政策的构建中。"
+    },
+    {
+        "article_id": "4c8c8b930724be3b1515a27fcae6c56e",
+        "link": "https://intoleranciadiario.com/articles/municipios/2026/04/28/1052136-un-exito-jornadas-de-salud-en-atlixco.html",
+        "title": "Un éxito, jornadas de Salud en Atlixco",
+        "description": "Se registró una alta participación ciudadana en la jornada \"Por Amor a Puebla\"; se acercaron diversos servicios gratuitos a las familias del municipio.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "atlixco",
+            "salud",
+            "jornadas de atención ciudadana",
+            "alejandro armenta",
+            "tesorería",
+            "ariadna ayala",
+            "municipios"
+        ],
+        "creator": [
+            "lizbeth mondragón; intoleranciadiario com"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "health",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-28 15:44:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-28 15:44:37",
+        "image_url": "https://assets.intoleranciadiario.com/media/images/atlixco-salud-intolerancia-2-1777388794208.png",
+        "video_url": null,
+        "source_id": "intoleranciadiario",
+        "source_name": "Intolerancia Diario",
+        "source_priority": 800128,
+        "source_url": "https://intoleranciadiario.com",
+        "source_icon": "https://n.bytvi.com/intoleranciadiario.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "阿特利斯科健康日取得成功",
+        "description_zh": "“为了普埃布拉之爱”活动的公民参与度很高；为该市的家庭提供了各种免费服务。"
+    },
+    {
+        "article_id": "2fee944fa321c73688ea9f62ba4a2830",
+        "link": "https://intoleranciadiario.com/articles/nacional/2026/04/28/1052139-autoridades-en-chihuahua-consideraron-ocultar-cuerpos-de-agentes-de-la-cia-tras-accidente.html",
+        "title": "Autoridades en Chihuahua consideraron ocultar cuerpos de agentes de la CIA tras accidente",
+        "description": "Los estadounidenses operaban desde la oficina de la CIA en Monterrey, como parte de las labores permanentes de la agencia en México.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "chihuahua",
+            "dea"
+        ],
+        "creator": [
+            "redacción intolerancia; intoleranciadiario com"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-04-28 15:44:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-04-28 15:44:37",
+        "image_url": "https://assets.intoleranciadiario.com/media/images/cia-intolerancia-1777390128374.png",
+        "video_url": null,
+        "source_id": "intoleranciadiario",
+        "source_name": "Intolerancia Diario",
+        "source_priority": 800128,
+        "source_url": "https://intoleranciadiario.com",
+        "source_icon": "https://n.bytvi.com/intoleranciadiario.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "奇瓦瓦州当局考虑在事故发生后隐藏中央情报局特工的尸体",
+        "description_zh": "美国人在蒙特雷的中央情报局办公室开展活动，这是该机构在墨西哥永久工作的一部分。"
     }
 ]
