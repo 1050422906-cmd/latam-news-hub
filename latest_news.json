@@ -1,171 +1,46 @@
 [
     {
-        "article_id": "9ddd394df24991c8bb28a4388781eed7",
-        "link": "https://www.elchubut.com.ar/carta-del-lector/2026-5-2-12-53-0-plan-nuclear-frances",
-        "title": "Plan nuclear francés",
-        "description": "En febrero de 2022 el presidente Manuel Macron anunció su plan para construir seis nuevos reactores nucleares EPR2. El plan original tenía, además, la opción de otros ocho reactores adicionales. Todavía, después de más de cuatro años, está en fase preparatoria, con avances políticos e industriales, pero sin obras iniciadas a gran escala.",
+        "article_id": "a372a8540f7218f6d0f31b93c5d26f0d",
+        "link": "https://www.infobae.com/tecno/2026/05/03/la-historia-de-roblox-como-david-baszucki-convirtio-un-experimento-de-fisica-en-un-gigante-global-de-los-videojuegos/",
+        "title": "La historia de Roblox: cómo David Baszucki convirtió un experimento de física en un gigante global de los videojuegos",
+        "description": "Desde sus orígenes en el software educativo hasta su consolidación como ecosistema digital, el fundador detalló el giro hacia un entorno colaborativo que combina creación, interacción social y monetización, impulsado por una economía virtual multimillonaria y una infraestructura tecnológica propia",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "nuclear",
-            "francés"
+            "entrevistas podcast",
+            "newsroom bue",
+            "videojuegos",
+            "tecnología",
+            "entretenimiento",
+            "plataformas tecnológicas",
+            "metaverso",
+            "roblox"
         ],
         "creator": [
-            "ing. juan vernieri"
+            "dante martignoni"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
+            "mexico",
+            "colombia",
+            "argentina",
+            "united states of america"
         ],
         "category": [
-            "top",
-            "science"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:53:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:09:15",
-        "image_url": "https://pxbcdn.elchubut.com.ar/chubut/052026/1777737346763/VER.png?cw=1170&ch=645",
-        "video_url": null,
-        "source_id": "elchubut_ar",
-        "source_name": "El Chubut",
-        "source_priority": 110150,
-        "source_url": "https://www.elchubut.com.ar",
-        "source_icon": "https://n.bytvi.com/elchubut_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "法国核计划",
-        "description_zh": "2022 年 2 月，曼努埃尔·马克龙总统宣布计划建造六座新的 EPR2 核反应堆。原计划还可以选择另外八个反应堆。尽管如此，经过四年多的时间，它仍处于筹备阶段，政治和工业方面都取得了进展。"
-    },
-    {
-        "article_id": "a5181783f2341f5978213ef9d8a96575",
-        "link": "https://oantagonista.com.br/brasil/trabalhadores-que-batem-ponto-no-horario-de-verao-ou-em-feriados-precisam-conhecer-esta-sumula-do-tst-que-garante-hora-extra-mesmo-sem-acordo-escrito/",
-        "title": "Trabalhadores que batem ponto no horário de verão ou em feriados precisam conhecer esta súmula do TST que garante hora extra mesmo sem acordo escrito",
-        "description": "A súmula do TST hora extra para trabalho em feriados funciona como um escudo jurídico que muitos trabalhadores CLT desconhecem, mas que pode representar valores expressivos a receber. O entendimento consolidado pelo Tribunal Superior do Trabalho assegura o pagamento em dobro mesmo quando não existe acordo individual por escrito. O que diz a Súmula 146... The post Trabalhadores que batem ponto no horário de verão ou em feriados precisam conhecer esta súmula do TST que garante hora extra mesmo sem acordo escrito appeared first on O Antagonista .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:53:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:20:49",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "oantagonista",
-        "source_name": "O Antagonista",
-        "source_priority": 2104208,
-        "source_url": "https://www.oantagonista.com",
-        "source_icon": "https://n.bytvi.com/oantagonista.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "在夏季或节假日上班的工人需要了解这份 TST 摘要，即使没有书面协议也能保证加班",
-        "description_zh": "节假日加班的 TST 加班汇总是许多 CLT 工人不知道的法律盾牌，但它可能代表着可收到的巨额金额。高级劳工法院达成的谅解确保即使在没有合同的情况下也能获得双重付款"
-    },
-    {
-        "article_id": "2a2bebd22cb27766f988e5665534bd1f",
-        "link": "https://diariopanorama.com/noticia/550985/alumnos-escuela-municipal-ada-nilda-alderete-participaron-charla-sobre-salud-mental-bullying",
-        "title": "Alumnos de la Escuela Municipal “Ada Nilda Alderete” participaron de una charla sobre ”Salud mental y bullying”",
-        "description": "Durante el encuentro, los alumnos aprendieron que el bullying tiene efectos devastadores en la salud mental, generando ansiedad, depresión, baja autoestima, aislamiento y, en casos extremos, ideas suicidas.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "charla",
-            "bullying",
-            "alderete",
-            "mental",
-            "municipal",
-            "ada",
-            "nilda",
-            "participaron",
-            "sobre",
-            "diario panorama",
-            "escuela",
-            "alumnos",
-            "locales",
-            "salud"
-        ],
-        "creator": [
-            "redacción diario panorama"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "health"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:53:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 19:34:41",
-        "image_url": "https://diariopanorama.com/fotos/notas/2026/05/02/escuela-550985-161847.jpg",
-        "video_url": null,
-        "source_id": "diariopanorama",
-        "source_name": "Diario Panorama",
-        "source_priority": 31285,
-        "source_url": "https://diariopanorama.com",
-        "source_icon": "https://n.bytvi.com/diariopanorama.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“Ada Nilda Alderete”市政学校的学生参加“心理健康与欺凌”讲座",
-        "description_zh": "在会议期间，学生们了解到，欺凌对心理健康具有毁灭性影响，会产生焦虑、抑郁、自卑、孤立，在极端情况下还会产生自杀念头。"
-    },
-    {
-        "article_id": "4bb696b9e59ac722b2ae9739d90556d9",
-        "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-san-lorenzo-vs-independiente-por-el-torneo-apertura-2026-nid02052026/",
-        "title": "Por dónde pasan San Lorenzo vs. Independiente por el Torneo Apertura 2026",
-        "description": "El clásico entre el Ciclón y el Rojo, por la fecha 9 del Grupo A, se disputa este sábado a las 18.45 en el Nuevo Gasómetro, con arbitraje de Pablo Dóvalo",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "torneo apertura 2026-ia",
-            "pablo dóvalo-ia",
-            "mundo san lorenzo-ia",
-            "fútbol argentino-ia",
-            "mundo independiente-ia"
-        ],
-        "creator": [
-            "la nacion"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
+            "technology",
             "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-02 15:52:45",
+        "pubDate": "2026-05-03 15:50:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:01:39",
-        "image_url": "https://resizer.glanacion.com/resizer/v2/DJZAL2SWVVDKBMLTIR323BKGDU.JPG?auth=49c14ab1afcf540379647e6f94875a01b3748f16bbc5ce75f7edb51fefc682af&smart=true&width=1996&height=1333",
+        "fetched_at": "2026-05-03 16:00:33",
+        "image_url": "https://www.infobae.com/resizer/v2/5FFUPRAJAFA5TFFCAGF637N3PY.jpg?auth=e7a521f6eea060d3d0b47097b412f01231e68ef32a84d0340bb17ae59fcbdda2&smart=true&width=1920&height=1191",
         "video_url": null,
-        "source_id": "lanacion",
-        "source_name": "La Nacion",
-        "source_priority": 7204,
-        "source_url": "https://www.lanacion.com.ar",
-        "source_icon": "https://n.bytvi.com/lanacion.png",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -173,221 +48,14 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "2026 年 Apertura 锦标赛圣洛伦索 vs. 独立队在哪里进行",
-        "description_zh": "A 组第 9 场比赛中 Ciclón 和 Rojo 之间的经典比赛将于本周六下午 6:45 进行。在 Nuevo Gasómetro，由 Pablo Dóvalo 仲裁"
+        "title_zh": "Roblox 的故事：David Baszucki 如何将物理实验变成全球游戏巨头",
+        "description_zh": "从教育软件的起源到作为数字生态系统的整合，创始人详细介绍了在价值数十亿美元的虚拟经济和技术基础设施的推动下，向结合创造、社交互动和货币化的协作环境的转变"
     },
     {
-        "article_id": "528fb65e2bc8eff88d2f59087974509c",
-        "link": "https://psxbrasil.com.br/snk-anuncia-atualizacao-de-balanceamento-para-the-king-of-fighters-xv/",
-        "title": "SNK anuncia atualização de balanceamento para The King of Fighters XV",
-        "description": "A SNK anunciou que The King of Fighters XV recebe uma nova atualização de balanceamento em julho de 2026. O anúncio foi acompanhado do trailer mais abaixo. Todos os personagens receberão mudanças, segundo a SNK. Mais detalhes não foram divulgados. The King of Fighters XV está disponível para PS4, PS5, Xbox Series e PC.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "the king of fighters xv"
-        ],
-        "creator": [
-            "ivan nikolai barkow castilho"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-05-02 15:52:44",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:22:04",
-        "image_url": "https://psxbrasil.com.br/wp-content/uploads/2026/05/YBidF6YMgoIhd.jpg",
-        "video_url": "https://www.youtube.com/watch?v=YBidF6YMgoI",
-        "source_id": "psxbrasil",
-        "source_name": "Psx Br",
-        "source_priority": 3592782,
-        "source_url": "https://psxbrasil.com.br",
-        "source_icon": "https://n.bytvi.com/psxbrasil.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "SNK 宣布《拳皇 XV》平衡性更新",
-        "description_zh": "SNK 宣布《拳皇 XV》将于 2026 年 7 月获得新平衡更新。该公告附有以下预告片。据 SNK 称，所有角色都将发生变化。进一步的细节没有透露。 《拳皇 XV》可用于"
-    },
-    {
-        "article_id": "9875d9b884360e82798a867b130025b6",
-        "link": "https://catracalivre.com.br/viagem-livre/a-vila-de-40-habitantes-esta-procurando-novos-moradores-oferecendo-casa-gratuita-emprego-e-uma-nova-vida-mais-tranquila-nas-montanhas-europeias-escondidas/",
-        "title": "A vila de 40 habitantes está procurando novos moradores: oferecendo casa gratuita, emprego e uma nova vida mais tranquila nas montanhas europeias escondidas",
-        "description": "Uma vila na Espanha oferece casa grátis e emprego. Veja como funciona e quem pode aproveitar essa oportunidade. O post A vila de 40 habitantes está procurando novos moradores: oferecendo casa gratuita, emprego e uma nova vida mais tranquila nas montanhas europeias escondidas apareceu primeiro em Catraca Livre .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cidade",
-            "espanha"
-        ],
-        "creator": [
-            "gabriel leme"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:52:27",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:04:58",
-        "image_url": "https://catracalivre.com.br/wp-content/uploads/2026/05/magnific-rua-simples-com-poucas-ca-2907960462.jpg",
-        "video_url": null,
-        "source_id": "catracalivre_br",
-        "source_name": "Catraca Livre",
-        "source_priority": 20092,
-        "source_url": "https://catracalivre.com.br",
-        "source_icon": "https://n.bytvi.com/catracalivre_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "拥有 40 名居民的村庄正在寻找新居民：提供免费住房、就业机会以及隐藏在欧洲山区的新的、更安静的生活",
-        "description_zh": "西班牙的一个村庄提供免费住房和就业机会。了解它是如何运作的以及谁可以利用这个机会。拥有 40 名居民的村庄正在寻找新居民：在隐藏的欧洲山区提供免费住房、就业和新的、更安静的生活的帖子首先出现在 C 上"
-    },
-    {
-        "article_id": "b9548f8abd762552f50f30f3caf79c90",
-        "link": "https://jornaldebrasilia.com.br/noticias/mundo/petroleiro-e-sequestrado-em-frente-ao-iemen-e-desviado-para-a-somalia/",
-        "title": "Petroleiro é sequestrado em frente ao Iêmen e desviado para a Somália",
-        "description": "Um navio petroleiro foi sequestrado por homens armados em frente à costa do Iêmen, neste sábado (2), e conduzido em direção à Somália, informou a guarda-costeira iemenita. Na segunda-feira, o centro de informação de segurança marítima JMIC tinha elevado a \"importante\" o nível de ameaça em frente à Somália, após vários ataques de supostos piratas, os primeiros em vários meses. O petroleiro EUREKA foi \"sequestrado em frente à costa da província iemenita de Chabwa\", assinalou a guarda-costeira em seu site na internet. Homens armados não identificados \"subiram a bordo, tomaram o controle (do petroleiro) e se dirigiram ao Golfo de Áden, rumo à costa da Somália\", detalharam. \"O navio foi localizado e estão sendo feitos esforços para segui-lo e tomar as medidas necessárias a fim de tentar recuperá-lo e garantir a segurança de sua tripulação\", informaram, sem indicar quantas pessoas estavam a bordo ou suas nacionalidades. Agence France-Presse",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "somália",
-            "navio petroleiro",
-            "petroleiro eureka",
-            "exterior",
-            "piratas",
-            "iêmen"
-        ],
-        "creator": [
-            "redação jornal de brasília"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:52:26",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:20:28",
-        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/03/23094924/33BV6RH-preview.jpg",
-        "video_url": null,
-        "source_id": "jornaldebrasilia",
-        "source_name": "Jornal De Brasília",
-        "source_priority": 1815808,
-        "source_url": "https://jornaldebrasilia.com.br",
-        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "油轮在也门被劫持并转移到索马里",
-        "description_zh": "据也门海岸警卫队报道，一艘油轮于本周六（2）在也门海岸被武装人员劫持，并被带往索马里。周一，JMIC海事安全信息中心将威胁级别提升至“重要”"
-    },
-    {
-        "article_id": "6aba19cd4bd1d352a0028a3deef20975",
-        "link": "https://www.gazetadopovo.com.br/economia/por-que-a-alta-recorde-de-impostos-no-brasil-nao-traz-o-retorno-esperado/",
-        "title": "Por que a alta recorde de impostos no Brasil não traz o retorno esperado?",
-        "description": "A carga tributária brasileira bateu recorde em 2025. Entenda por que o modelo de gastos do governo trava investimentos e gera baixo retorno ao cidadão.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "carga tributária brasileira"
-        ],
-        "creator": [
-            "gazeta do povo lab"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:52:13",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:09:14",
-        "image_url": "https://media.gazetadopovo.com.br/2026/05/02125217/impostos-brasil-peso-estado.jpg",
-        "video_url": null,
-        "source_id": "gazetadopovo",
-        "source_name": "Gazeta Do Povo",
-        "source_priority": 124650,
-        "source_url": "https://www.gazetadopovo.com.br",
-        "source_icon": "https://n.bytvi.com/gazetadopovo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "为什么巴西创纪录的高税收并没有带来预期的回报？",
-        "description_zh": "巴西税负在 2025 年打破了纪录。了解为什么政府的支出模式会抑制投资并为公民带来低回报。"
-    },
-    {
-        "article_id": "ea1a8acf1603c44b6fe7ca958cea7347",
-        "link": "https://www.estadao.com.br/economia/petrobras-retoma-atividades-37-bacias-sedimentares-petroleo/",
-        "title": "Petrobras retoma atividades de pesquisa científica em 37 bacias sedimentares de petróleo e gás",
-        "description": "Áreas estão situadas em terra e alto-mar; campanha em parceria com universidades e o Serviço Geológico do Brasil tem o objetivo de atualizar informações",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "gabriela da cunha"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:52:05",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:34:19",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "estadao_br",
-        "source_name": "Estadao Br",
-        "source_priority": 13396,
-        "source_url": "https://www.estadao.com.br",
-        "source_icon": "https://n.bytvi.com/estadao_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "巴西国家石油公司恢复37个油气沉积盆地的科学研究活动",
-        "description_zh": "区域位于陆地和近海；与大学和巴西地质调查局合作开展的活动旨在更新信息"
-    },
-    {
-        "article_id": "7e044ea00e78a94687fb268b8276aa47",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/05/selecao-de-charges-do-claudio-hebdo-de-marco-de-2026.shtml",
-        "title": "Seleção de charges do Cláudio Hebdô de março de 2026",
-        "description": null,
+        "article_id": "e0d88f8cea2d8861d7c32e5f75082a15",
+        "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/05/03/ataque-a-tiros-em-bar-deixa-dois-feridos-em-valenca.ghtml",
+        "title": "Ataque a tiros em bar deixa dois feridos em Valença",
+        "description": "Delegacia de Valença Divulgação/Prefeitura de Valença Um ataque a tiros em um bar deixou um homem e uma mulher feridos na noite de sábado (2), em Valença (RJ). O crime aconteceu no bairro Cambota. Segundo a Polícia Militar, dois suspeitos chegaram ao local em uma motocicleta e efetuaram diversos disparos contra pessoas que estavam no estabelecimento. Após o ataque, eles fugiram. Ainda de acordo com a PM, as vítimas, um homem, de 32 anos, e uma mulher, de 27, foram socorridas por moradores e levadas para a Unidade de Pronto Atendimento (UPA) do município. Vídeos em alta no g1 ✅Clique aqui e entre no canal do g1 no WhatsApp A equipe médica informou aos agentes que o homem foi atingido por um tiro no pescoço, com o projétil ficando alojado próximo à clavícula. Ele estava consciente, mas não conseguiu prestar depoimento no momento do atendimento e foi transferido para o Hospital Escola de Valença, onde passaria por exames e cirurgia. Já a mulher sofreu ferimentos leves no rosto, causados por estilhaços. Ela foi atendida, levou pontos e foi liberada. O g1 entrou em contato com a unidade médica para atualizar o estado de saúde do paciente e aguarda resposta. A Polícia Militar informou ainda que testemunhas disseram não ter conseguido identificar os autores, que usavam capacetes. O caso foi registrado como tentativa de homicídio na delegacia de Valença. Até a publicação desta reportagem, ninguém havia sido preso. VÍDEOS: as notícias que foram ao ar na TV Rio Sul",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -399,61 +67,17 @@
             "top",
             "crime"
         ],
-        "datatype": "blog",
-        "pubDate": "2026-05-02 15:52:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:05:03",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "folha",
-        "source_name": "Folha",
-        "source_priority": 3498,
-        "source_url": "https://www.folha.uol.com.br",
-        "source_icon": "https://n.bytvi.com/folha.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "2026 年 3 月《Cláudio Hebdô》漫画精选",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "3dd5dff1019225fb7e4e6ae385d74f2b",
-        "link": "https://www.latercera.com/nacional/noticia/pdi-detiene-a-pareja-por-tour-delictual-y-robos-con-violencia-en-tres-comunas-de-la-region-de-valparaiso/",
-        "title": "PDI detiene a pareja por “tour delictual” y robos con violencia en tres comunas de la Región de Valparaíso",
-        "description": "Los imputados habrían participado en una serie de delitos ocurridos en Quilpué, Puchuncaví y Limache. Uno de ellos quedó en prisión preventiva.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tour delictual",
-            "pdi",
-            "valparaíso",
-            "detenidos"
-        ],
-        "creator": [
-            "la tercera"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
         "datatype": "news",
-        "pubDate": "2026-05-02 15:52:38",
+        "pubDate": "2026-05-03 15:50:44",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:05:17",
-        "image_url": "https://www.latercera.com/resizer/v2/YTT5A3V6JFELBNQ7EIICK6B3XY.jpeg?auth=87aac02a5ecd8665c9b9654024a02ae18a1d169f91fe3bdee2f0262fe5676042&smart=true&width=2047&height=1360",
+        "fetched_at": "2026-05-03 16:04:40",
+        "image_url": "https://s2-g1.glbimg.com/9m8EbO0AWEqujJJc-bKDGF73OoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/P/A/swYjy5SA23h5AO5NivLw/whatsapp-image-2021-08-26-at-17.20.54-1-.jpeg",
         "video_url": null,
-        "source_id": "latercera",
-        "source_name": "Latercera",
-        "source_priority": 32330,
-        "source_url": "https://www.latercera.com",
-        "source_icon": "https://n.bytvi.com/latercera.jpg",
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -461,169 +85,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "PDI 在瓦尔帕莱索地区的三个公社以“犯罪旅行”和暴力抢劫罪名逮捕了一对夫妇",
-        "description_zh": "被告参与了发生在基尔普埃、普琼卡维和利马什的一系列犯罪行为。其中一名被还押候审。"
+        "title_zh": "瓦伦萨酒吧枪击事件造成两人受伤",
+        "description_zh": "瓦伦萨警察局披露/瓦伦萨市政厅 周六晚上（2），瓦伦萨（RJ）一家酒吧发生枪击事件，造成一男一女受伤。犯罪发生在坎博塔社区。据宪兵队称，两名嫌疑人骑着摩托车到达现场并进行了转移。"
     },
     {
-        "article_id": "6a085a96510676287692fd81ef0f7967",
-        "link": "https://actualidad.rt.com/actualidad/602712-bolsonaro-operado-exito",
-        "title": "Bolsonaro, operado con éxito",
-        "description": null,
+        "article_id": "9e78c81b88c966f3cee8170a46b22798",
+        "link": "https://omaringa.com.br/coluna/animes-online/black-clover-o-futuro-da-franquia-alem-do-anime-de-2026/",
+        "title": "Black Clover: O Futuro da Franquia Além do Anime de 2026",
+        "description": "O universo de Black Clover segue em expansão mesmo após a pausa da animação e a expectativa pelo retorno em 2026. Criada por Yūki Tabata, a obra já ultrapassou o formato tradicional de anime e mangá, consolidando-se como uma franquia com grande potencial de continuidade em diferentes mídias. Com o avanço da história no mangá [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "rt en español"
+            "erick matias"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "mexico"
+            "brazil"
         ],
         "category": [
             "top",
-            "health"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:52:36",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:04:16",
-        "image_url": "https://actualidad.rt.com/static/img/og-logo-rt-black.jpg",
-        "video_url": null,
-        "source_id": "rt_mx",
-        "source_name": "Rt",
-        "source_priority": 19092,
-        "source_url": "https://actualidad.rt.com",
-        "source_icon": "https://n.bytvi.com/rt_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "博索纳罗手术成功",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "44334231d9dea593611f77e44d10e92e",
-        "link": "https://www.elgrafico.mx//al-dia/2026/05/02/de-rocha-moya-al-tornado-la-lista-de-funcionarios-de-sinaloa-a-los-que-la-dea-confiscara-sus-bienes/",
-        "title": "De Rocha Moya al \"Tornado\": La lista de funcionarios de Sinaloa a los que la DEA confiscará sus bienes",
-        "description": "Casas, bienes y cuentas bancarias del góber de Sinaloa y nueve más, en la mira del gobierno de EU",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ruben rocha moya",
-            "investigacion",
-            "cartel de sinaloa",
-            "los chapitos",
-            "usa",
-            "bienes"
-        ],
-        "creator": [
-            "el gráfico"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:52:21",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:13:11",
-        "image_url": "https://www.elgrafico.mx/resizer/v2/OJICHB5KJVGPXLSGLWV4PURUAE.jpg?auth=80333cabf8701acdcdf1ceade182078444051b816077d0ddf369153f83305985&smart=true&width=1200&height=740",
-        "video_url": null,
-        "source_id": "elgrafico",
-        "source_name": "Elgrafico Mx",
-        "source_priority": 360449,
-        "source_url": "https://www.elgrafico.mx",
-        "source_icon": "https://n.bytvi.com/elgrafico.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "从罗查·莫亚到“龙卷风”：将被DEA没收资产的锡那罗亚州官员名单",
-        "description_zh": "锡那罗亚州州长和其他九人的房屋、资产和银行账户成为美国政府的关注焦点"
-    },
-    {
-        "article_id": "246cace9e6cbbf9adbe943c84a827076",
-        "link": "https://www.publimetro.com.mx/noticias/2026/05/02/metro-cdmx-hoy-linea-b-con-retrasos-linea-8-lenta-y-reportan-riesgo-en-estacion-muzquiz/",
-        "title": "Metro CDMX hoy: Línea B con retrasos, Línea 8 lenta y reportan riesgo en estación Múzquiz",
-        "description": "Retrasos, marcha lenta y riesgo en Múzquiz complican el servicio",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "metro cdmx"
-        ],
-        "creator": [
-            "daniel soto"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:52:20",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:07:20",
-        "image_url": "https://www.publimetro.com.mx/resizer/v2/VWOCPBEJ7VFQBIFEHQMREM4ETQ.jpg?auth=9cc6f5ce4906c2028347078bd8114adaf7101fe96ddc236cd35e101d24a4af7c&smart=true&width=1366&height=768",
-        "video_url": null,
-        "source_id": "publimetro",
-        "source_name": "Publimetro",
-        "source_priority": 59149,
-        "source_url": "https://www.publimetro.com.mx",
-        "source_icon": "https://n.bytvi.com/publimetro.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "今日 CDMX 地铁：B 线延误，8 号线缓慢，Múzquiz 站存在风险",
-        "description_zh": "穆兹奎兹的延误、进展缓慢和风险使服务变得复杂"
-    },
-    {
-        "article_id": "c4b007e13a84588badcd65e2e54fd1f5",
-        "link": "https://www.vogue.mx/articulo/como-llevar-vestidos-de-dama-de-honor-diferentes-en-una-misma-boda",
-        "title": "Así logré que los vestidos de las damas de honor en mi boda fueran distintos y se siguieran viendo elegantes",
-        "description": "Una editora de Vogue recurrió a 14 vestidos para su cortejo nupcial. Aquí te contamos cómo encontró vestidos que se adaptaban a la forma y el estilo de cada una.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "vestidos",
-            "_msn_feed",
-            "textbelowcenterfullbleed",
-            "vestidos de novia",
-            "digital_syndication"
-        ],
-        "creator": [
-            "shelby wax"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
             "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-02 15:52:13",
+        "pubDate": "2026-05-03 15:50:42",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:03:11",
-        "image_url": "https://media.vogue.mx/photos/69f61b570e3378cfec5a30bd/16:9/w_8192,h_4608,c_limit/ShelbyLiv%20CALENROSE_710.jpg",
+        "fetched_at": "2026-05-03 15:51:11",
+        "image_url": "https://omaringa.com.br/wp-content/uploads/2025/02/Black-Clover-2.jpg",
         "video_url": null,
-        "source_id": "vogue",
-        "source_name": "Vogue",
-        "source_priority": 2581,
-        "source_url": "https://www.vogue.com",
-        "source_icon": "https://n.bytvi.com/vogue.png",
+        "source_id": "omaringa",
+        "source_name": "O Maringá",
+        "source_priority": 6274640,
+        "source_url": "https://omaringa.com.br",
+        "source_icon": "https://n.bytvi.com/omaringa.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -631,24 +124,361 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "这就是我如何让婚礼上的伴娘礼服与众不同，但仍然看起来优雅。",
-        "description_zh": "《Vogue》杂志的一位编辑在她的婚礼派对上使用了 14 件礼服。在这里，我们告诉您她如何找到适合每个人的体形和风格的连衣裙。"
+        "title_zh": "《黑色四叶草》：2026 年动画之后该系列的未来",
+        "description_zh": "即使在动画暂停和 2026 年回归的预期之后，《黑色五叶草》的宇宙仍在继续扩展。该作品由田端佑树创作，已经超越了传统的动画和漫画格式，巩固了自己作为在不同媒体上具有巨大连续性潜力的系列作品的地位。"
     },
     {
-        "article_id": "767d10a1abec102ecdad4daa345a2bb7",
-        "link": "https://www.milenio.com/estados/hombre-desorientado-camina-carriles-carrtera-nacional-monterrey",
-        "title": "Auxilian a hombre desorientado que caminaba por carriles de Carretera Nacional en Monterrey",
-        "description": "Un hombre que padece pérdida de la memoria fue auxiliado por elementos de Tránsito de Monterrey tras caminar sobres los carriles centrales de la vialidad.",
+        "article_id": "ca4e40cd5c1116c71b6e9a07b522dfed",
+        "link": "https://lavozdecataratas.com/2026/05/03/la-cabrera-la-parrilla-mas-famosa-ya-esta-en-iguazu-carnes-premium-y-una-experiencia-que-deleita/",
+        "title": "«La Cabrera: La parrilla más famosa ya está en Iguazú. Carnes premium y una experiencia que deleita",
+        "description": "Con una trayectoria consolidada en destinos gastronómicos como Buenos Aires y presencia internacional, la marca desembarca en la ciudad con su sello distintivo: cortes de carne premium, platos abundantes y una experiencia gastronómica completa. La entrada «La Cabrera: La parrilla más famosa ya está en Iguazú. Carnes premium y una experiencia que deleita se publicó primero en La Voz de Cataratas .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "kelly ferreyra"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "tourism",
+            "food"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:50:06",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:14:08",
+        "image_url": "https://lavozdecataratas.com/wp-content/uploads/2026/05/la-cabrera-iguazu-4.png",
+        "video_url": null,
+        "source_id": "lavozdecataratas",
+        "source_name": "Inicio - La Voz De Cataratas",
+        "source_priority": 557887,
+        "source_url": "https://lavozdecataratas.com",
+        "source_icon": "https://n.bytvi.com/lavozdecataratas.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "«La Cabrera：最著名的烧烤店已经在伊瓜苏了。优质肉类和令人愉悦的体验",
+        "description_zh": "该品牌在布宜诺斯艾利斯等美食目的地拥有悠久的历史和国际影响力，带着其独特的印记来到这座城市：优质肉块、丰富的菜肴和完整的美食体验。条目 «La Cabrera：现在最著名的烧烤店"
+    },
+    {
+        "article_id": "d8487ae142510c322ed5a9fd0d3b1411",
+        "link": "https://www.infobae.com/cultura/2026/05/03/taylor-swift-da-un-paso-al-frente-contra-la-inteligencia-artificial-y-busca-registrar-su-voz-como-marca/",
+        "title": "Taylor Swift da un paso al frente contra la inteligencia artificial y busca registrar su voz como marca",
+        "description": "La superestrella del pop presentó oficialmente muestras de su voz ante la Oficina de Patentes y Marcas Registradas de Estados Unidos para obtener protección legal y frenar el uso no autorizado por tecnología artificial en la música",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "tránsito de monterrey",
-            "auxilian a hombre desorientado",
-            "hombre con pérdida de memoria",
-            "sur de monterrey",
-            "hombre camina carretera nacional"
+            "inteligencia artificial",
+            "taylor swift",
+            "música",
+            "cultura",
+            "ia"
         ],
         "creator": [
-            "susana paredes"
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "colombia",
+            "argentina",
+            "united states of america"
+        ],
+        "category": [
+            "technology",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:50:02",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:00:33",
+        "image_url": "https://www.infobae.com/resizer/v2/2ZO5P4N7FZEZVMWNBPUF7MSW6I.JPG?auth=c3983011ae73a32f426a6c7e470491bae62b1e00d66b9723cd635210bd0774c0&smart=true&width=5500&height=3667",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "泰勒·斯威夫特向人工智能迈出了一步，并寻求将她的声音注册为品牌",
+        "description_zh": "这位流行巨星正式向美国专利商标局提交了他的声音样本，以获得法律保护并遏制在音乐中未经授权使用人造技术。"
+    },
+    {
+        "article_id": "f2c3fe7f5e708372b601400c92bd2103",
+        "link": "https://www.ole.com.ar/autos/lionel-messi-dijo-presente-formula-1-miami-visitar-colapinto-adonde_0_YUXtvaeWdN.html",
+        "title": "Lionel Messi dijo presente en la Fórmula 1 de Miami, pero no para visitar a Colapinto... ¿adónde fue?",
+        "description": "Leo apareció con Antonela y sus hijos en el hospitality de Mercedes tras una sábado de la MLS y de juntarse con Colapinto en la semana.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "lionel messi"
+        ],
+        "creator": [
+            "redacción olé"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:49:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:03:44",
+        "image_url": "https://www.ole.com.ar/images/2026/05/03/KU6BvJCUm_2000x1500__1.jpg",
+        "video_url": null,
+        "source_id": "ole_ar",
+        "source_name": "Ole Ar",
+        "source_priority": 13161,
+        "source_url": "https://www.ole.com.ar",
+        "source_icon": "https://n.bytvi.com/ole_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "莱昂内尔·梅西表示，他出席了迈阿密的一级方程式赛车比赛，但没有去拜访科拉平托……他去了哪里？",
+        "description_zh": "星期六的美国职业足球大联盟结束后，里奥与安东内拉和他们的孩子一起出现在梅赛德斯的招待会上，并在本周与科拉平托会面。"
+    },
+    {
+        "article_id": "800750ff5433375f9eb44c794c803196",
+        "link": "https://g1.globo.com/to/tocantins/noticia/2026/05/03/cada-dia-mais-aflito-desabafa-pai-de-taxista-que-desapareceu-apos-sair-para-tomar-banho-em-balneario-no-to.ghtml",
+        "title": "'Cada dia mais aflito', desabafa pai de taxista que desapareceu após sair para tomar banho em balneário no TO",
+        "description": "Bombeiros fazem buscas por taxista desaparecido em Paraíso do Tocantins O pai do taxista José Neto Gomes Araújo, de 37 anos, disse que, a cada dia que passa, “fica mais aflito” por não ter respostas sobre o desaparecimento do filho. O taxista está desaparecido há 15 dias após sair com amigos para tomar banho no balneário Cachorra, entre Paraíso do Tocantins e Monte Santo do Tocantins, na região central do estado. “Os bombeiros continuam as buscas, prolongaram mais para longe, em pontos estratégicos. Mas até agora nenhum indício de nada. Nem uma sandália, um chapéu, uma camisa. Nada. Um amassado ali, nada. Cada dia que passa a gente fica mais aflito”, desabafou o pai. O Corpo de Bombeiros realizou mais um dia de varreduras na região neste sábado (2), com foco em áreas de mata fechada, mas nenhum vestígio do taxista foi encontrado. 📱 Clique aqui para seguir o canal do g1 TO no WhatsApp Segundo o pai, nem mesmo nas buscas realizadas dentro d’água houve qualquer sinal que pudesse indicar o paradeiro de José Neto. “Já procuraram por dentro d’água, nos dois igarapés, e nada de encontrar nada. Nenhum vestígio mesmo. É algo que a gente não sabe nem o que falar”, contou. José Neto foi visto pela última vez no domingo (19), quando estava no balneário Cachorra acompanhado de amigos. Conforme relatos repassados aos bombeiros, ele entrou sozinho em uma área de mata e não retornou ao ponto de encontro. LEIA MAIS: O que se sabe sobre o taxista desaparecido após sair para tomar banho em balneário no TO Taxista que desapareceu ao sair para tomar banho em balneário estava com amigos, diz pai Taxista desaparece após sair para tomar banho em balneário no TO, diz pai José Gomes de Araujo despareceu no dia 19 de abril Arquivo pessoal/Divulgação De acordo com o Corpo de Bombeiros, as equipes deram continuidade às operações em Monte Santo do Tocantins neste sábado, priorizando áreas previamente mapeadas como zonas de interesse, com vegetação densa e de difícil acesso. Os militares percorreram, em média, cerca de 5 km por integrante ao longo do dia. A estratégia inclui a divisão da área em quadrantes específicos, conforme o plano operacional da corporação, com o objetivo de ampliar as chances de localização. Apesar do trabalho intenso, nenhum objeto, vestígio ou indício que levasse ao paradeiro do taxista foi encontrado. Após o encerramento das buscas em campo, os bombeiros se reuniram com familiares para apresentar os trajetos percorridos e explicar as técnicas utilizadas durante a operação. José Neto Gomes Araújo trabalhava como taxista na rodoviária de Paraíso do Tocantins, junto com o pai. De acordo com a família, antes de ir ao balneário, ele chegou a apresentar um dos amigos à mãe. Taxista despareceu no dia 19 Corpo de Bombeiros/Divulgação O caso é investigado pela Delegacia Especializada de Investigações Criminais (DEIC) de Paraíso do Tocantins. A Polícia Civil acompanha o trabalho das equipes de busca e apura as circunstâncias do desaparecimento. Veja mais notícias da região no g1 Tocantins.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:49:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:04:46",
+        "image_url": "https://s2-g1.glbimg.com/gRRqYqcbN2SM2-KRRtzIB171Y4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/RHhwieTZaoJGTEgoqJQQ/foto-e-montagem-vertical-8-.jpg",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "出租车司机去TO水疗中心洗澡后失踪，他的父亲说：“每天都更痛苦”",
+        "description_zh": "消防队员在托坎廷斯帕拉伊索寻找失踪的出租车司机 37 岁的出租车司机何塞·内托·戈麦斯·阿劳霍 (José Neto Gomes Araújo) 的父亲表示，随着时间的推移，他因得不到儿子失踪的答案而“变得更加痛苦”。出租车司机与朋友外出后失踪15天"
+    },
+    {
+        "article_id": "04067ce2ed601d04964418df6786c989",
+        "link": "https://www.ole.com.ar/futbol-primera/partido-aldosivi-independiente-rivadavia-torneo-apertura_0_P3d1FMXrW8.html",
+        "title": "Se abre la jornada del domingo: Aldosivi recibe al líder Independiente Rivadavia",
+        "description": "El equipo mendocino, al que nadie le podrá sacar el primer puesto de la Zona B, visitará Mardel con un 11 alternativo para jugar con un Tiburón sin chances de nada. Seguilo en Olé .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "aldosivi",
+            "independiente rivadavia"
+        ],
+        "creator": [
+            "nicolás migliavacca"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:49:35",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:03:44",
+        "image_url": "https://www.ole.com.ar/images/2021/10/17/UTKlhD6qv_340x340__1.jpg",
+        "video_url": null,
+        "source_id": "ole_ar",
+        "source_name": "Ole Ar",
+        "source_priority": 13161,
+        "source_url": "https://www.ole.com.ar",
+        "source_icon": "https://n.bytvi.com/ole_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "周日开幕：阿尔多西维接见领袖独立队里瓦达维亚",
+        "description_zh": "B区无人能夺得第一的门多萨队将带着另类11人拜访马德尔队，与鲨鱼队比赛，毫无机会。在 Olé 上关注他。"
+    },
+    {
+        "article_id": "38038f1baea0626601d80eaf8e6870eb",
+        "link": "https://www.lacapitalmdp.com/chocaron-dos-policias-que-escoltaban-a-independiente-rivadavia-rumbo-al-minella/",
+        "title": "Chocaron dos policías que escoltaban a Independiente Rivadavia rumbo al Minella",
+        "description": "Una motocicleta del Grupo de Prevención Motorizada (GPM) que acompañaba al plantel de Independiente Rivadavia protagonizó un choque con un taxi en la intersección de Roca e Independencia. El operativo formaba parte del traslado del equipo mendocino hacia el Estadio José María Minella, donde desde las 13.30 enfrenta a Aldosivi. Tras el impacto, se solicitó la [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "diaro la capital de mar del plata"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:49:23",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:16:00",
+        "image_url": "http://storage.lacapitalmdp.com/2026/05/choque-moto-1024x672.jpg",
+        "video_url": null,
+        "source_id": "lacapitalmdp",
+        "source_name": "Lacapitalmdp",
+        "source_priority": 945868,
+        "source_url": "https://www.lacapitalmdp.com",
+        "source_icon": "https://n.bytvi.com/lacapitalmdp.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "护送独立里瓦达维亚队前往米内拉的两名警察发生碰撞",
+        "description_zh": "一辆来自机动预防小组 (GPM) 的随行独立里瓦达维亚队的摩托车在罗卡和独立路口与一辆出租车相撞。该行动是门多萨队转移到何塞·玛丽亚·米内拉体育场的一部分，该体育场"
+    },
+    {
+        "article_id": "0fd1466b9207b17535de2da1d8e9ba30",
+        "link": "https://odia.ig.com.br/brasil/2026/05/7244969-policia-federal-apreende-250-kg-de-cocaina-em-sp.html",
+        "title": "Polícia Federal apreende 250 kg de cocaína em SP",
+        "description": "Droga chegou de avião em Martinópolis; piloto está foragido",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "apreensão",
+            "polícia federal",
+            "cocaína"
+        ],
+        "creator": [
+            "o dia"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:49:21",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:09:47",
+        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/05/03/ea2371fb_838c_4482_9db4_690fbe9b03be-38607315.jpg",
+        "video_url": null,
+        "source_id": "odia_ig_br",
+        "source_name": "Odia Ig Br",
+        "source_priority": 144458,
+        "source_url": "https://odia.ig.com.br",
+        "source_icon": "https://n.bytvi.com/odia_ig_br.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "联邦警察在新加坡查获 250 公斤可卡因",
+        "description_zh": "毒品乘飞机抵达马蒂诺波利斯；飞行员正在逃亡"
+    },
+    {
+        "article_id": "a372a8540f7218f6d0f31b93c5d26f0d",
+        "link": "https://www.infobae.com/tecno/2026/05/03/la-historia-de-roblox-como-david-baszucki-convirtio-un-experimento-de-fisica-en-un-gigante-global-de-los-videojuegos/",
+        "title": "La historia de Roblox: cómo David Baszucki convirtió un experimento de física en un gigante global de los videojuegos",
+        "description": "Desde sus orígenes en el software educativo hasta su consolidación como ecosistema digital, el fundador detalló el giro hacia un entorno colaborativo que combina creación, interacción social y monetización, impulsado por una economía virtual multimillonaria y una infraestructura tecnológica propia",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "entrevistas podcast",
+            "newsroom bue",
+            "videojuegos",
+            "tecnología",
+            "entretenimiento",
+            "plataformas tecnológicas",
+            "metaverso",
+            "roblox"
+        ],
+        "creator": [
+            "dante martignoni"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "colombia",
+            "argentina",
+            "united states of america"
+        ],
+        "category": [
+            "technology",
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:50:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:00:33",
+        "image_url": "https://www.infobae.com/resizer/v2/5FFUPRAJAFA5TFFCAGF637N3PY.jpg?auth=e7a521f6eea060d3d0b47097b412f01231e68ef32a84d0340bb17ae59fcbdda2&smart=true&width=1920&height=1191",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Roblox 的故事：David Baszucki 如何将物理实验变成全球游戏巨头",
+        "description_zh": "从教育软件的起源到作为数字生态系统的整合，创始人详细介绍了在价值数十亿美元的虚拟经济和技术基础设施的推动下，向结合创造、社交互动和货币化的协作环境的转变"
+    },
+    {
+        "article_id": "05c10479990cf4be5fb115d835c47914",
+        "link": "https://nortedigital.mx/dejan-en-la-calle-envuelto-sabanas-blancas-y-atado-con-alambre/",
+        "title": "Dejan en la calle envuelto sábanas blancas y atado con alambre",
+        "description": "En los primeros minutos de este domingo se reportó la localización de un hombre asesinado en la vía pública. A través del número de emergencias 911 se reportó la presencia de un bulto sospechoso en el cruce de las calles Luis G. Manzon y Grama de la colonia Héroes de la Revolución, por lo que [...] La entrada Dejan en la calle envuelto sábanas blancas y atado con alambre aparece primero en Norte de Ciudad Juárez .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "homicidio",
+            "asesinato",
+            "cadáver"
+        ],
+        "creator": [
+            "mauricio rodriguez"
         ],
         "language": "spanish",
         "country": [
@@ -659,16 +489,16 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-02 15:52:06",
+        "pubDate": "2026-05-03 15:50:52",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 19:17:00",
-        "image_url": "https://cdn.milenio.com/uploads/media/2026/05/02/oficiales-transito-monterrey-resguardaron-hombre.jpg",
+        "fetched_at": "2026-05-03 16:14:42",
+        "image_url": "https://nortedigital.mx/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-21-at-12.13.18.jpeg",
         "video_url": null,
-        "source_id": "milenio",
-        "source_name": "Milenio",
-        "source_priority": 10804,
-        "source_url": "https://www.milenio.com",
-        "source_icon": "https://n.bytvi.com/milenio.png",
+        "source_id": "nortedigital_mx",
+        "source_name": "Norte De Ciudad Juárez",
+        "source_priority": 602856,
+        "source_url": "https://nortedigital.mx",
+        "source_icon": "https://n.bytvi.com/nortedigital_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -676,14 +506,14 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们帮助一名迷失方向的男子，该男子正在蒙特雷国道的车道上行走",
-        "description_zh": "一名失忆男子走在道路中央车道后，得到了蒙特雷交通局工作人员的帮助。"
+        "title_zh": "他们把包裹好的白色床单留在街上，并用铁丝绑起来",
+        "description_zh": "周日的头几分钟，一名在公路上被谋杀的男子的位置被报道。通过拨打紧急电话 911，接到报告称，Héroes de la Revolución 社区的 Luis G. Manzon 和 Grama 街交叉口存在可疑肿块，因此"
     },
     {
-        "article_id": "12141fd42cf08023d3944ae62a0c174b",
-        "link": "https://plazajuarez.mx/en-el-dia-del-trabajo-conmemoran-a-victimas-de-incendio-en-empresa-textil/",
-        "title": "En el Día del Trabajo, conmemoran a víctimas de incendio en empresa textil",
-        "description": "El titular de la Secretaría del Trabajo y Previsión Social de Hidalgo, Oscar Javier González Hernández, junto al presidente municipal de Mineral del Monte, Edmundo Méndez Tejeda, directivos y líderes sindicales, realizó una guardia de honor en la explanada del Monumento a la Primera Huelga realizada en América, con motivo del Día Internacional del Trabajo. [...] La entrada En el Día del Trabajo, conmemoran a víctimas de incendio en empresa textil se publicó primero en Plaza Juarez .",
+        "article_id": "c3ef00a94b988b3cf2ce905c2a4c3ff7",
+        "link": "https://24horaspuebla.com/2026/05/spirit-airlines-cierra-operaciones-y-cancela-vuelos/",
+        "title": "Spirit Airlines cierra operaciones y cancela vuelos",
+        "description": "La aerolínea de bajo costo Spirit Airlines anunció el cierre ordenado de sus operaciones. Tras el fracaso de un rescate financiero, la empresa canceló todos sus vuelos inmediatamente. El presidente Donald Trump mostró interés en salvar la compañía para proteger miles de empleos. Sin embargo, la aerolínea se había declarado en bancarrota dos veces en [...] The post Spirit Airlines cierra operaciones y cancela vuelos appeared first on Diario 24 Horas Puebla .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
@@ -697,16 +527,16 @@
             "world"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-02 15:51:52",
+        "pubDate": "2026-05-03 15:50:52",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 15:51:56",
-        "image_url": "https://plazajuarez.mx/wp-content/uploads/2026/05/Boletin-65-STPSH-1.jpeg",
+        "fetched_at": "2026-05-03 16:15:03",
+        "image_url": "https://bunny-wp-pullzone-19zk8kfr6r.b-cdn.net/wp-content/uploads/puebla//2026/05/spirit-airlines-anuncia-un-cierre-gradual-de-operaciones-y-cancela-todos-sus-vuelo.webp",
         "video_url": null,
-        "source_id": "plazajuarez",
-        "source_name": "Diario Plaza Juarez",
-        "source_priority": 2747170,
-        "source_url": "https://plazajuarez.mx",
-        "source_icon": "https://n.bytvi.com/plazajuarez.png",
+        "source_id": "24horaspuebla",
+        "source_name": "24 Horas Puebla",
+        "source_priority": 649883,
+        "source_url": "https://24horaspuebla.com",
+        "source_icon": "https://n.bytvi.com/24horaspuebla.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -714,40 +544,121 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "劳动节纪念纺织公司火灾遇难者",
-        "description_zh": "伊达尔戈州劳动和社会福利部部长奥斯卡·哈维尔·冈萨雷斯·埃尔南德斯 (Oscar Javier González Hernández) 与蒙特矿业市主席埃德蒙多·门德斯·特赫达 (Edmundo Méndez Tejeda)、董事和工会领导人一起在第一次罢工纪念碑广场上举行仪仗队。"
+        "title_zh": "精神航空关闭运营并取消航班",
+        "description_zh": "低成本航空公司精神航空宣布有序关闭其运营。财务救援失败后，该公司立即取消了所有航班。唐纳德·特朗普总统表示有兴趣拯救该公司，以保护数千个就业岗位。然而，"
     },
     {
-        "article_id": "de3abf39379545a8b627542c6cec5db1",
-        "link": "https://www.marca.com/motor/formula1/gp-miami/2026/05/02/barbacoa-audi-hulkenberg-llegar-parrilla.html",
-        "title": "¡Barbacoa del Audi de Hülkenberg sin llegar a la parrilla!",
-        "description": "El primer abandono de la carrera sprint del Gran Premio de Miami llegó sin formarse por completo la parrilla de salida",
+        "article_id": "e1c45292c1ad39b06a26b4f670658943",
+        "link": "https://oem.com.mx/elsoldehidalgo/local/dia-de-la-santa-cruz-en-tula-trabajadores-de-la-construccion-participan-en-la-misa-solemne-29794356",
+        "title": "Día de la Santa Cruz en Tula: Trabajadores de la construcción participan en la misa solemne",
+        "description": "Llevaron a bendecir sus cruces, elaboradas principalmente con madera y papel de colores",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "tema",
-            "spr"
+            "participan",
+            "día de la santa cruz",
+            "alabañiles",
+            "tula",
+            "misa"
+        ],
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:50:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 21:17:59",
+        "image_url": "https://oem.com.mx/elsoldehidalgo/img/29794337/1777822223/BASE_LANDSCAPE/1200/image.jpg",
+        "video_url": null,
+        "source_id": "elsoldehidalgo_mx",
+        "source_name": "Elsoldehidalgo Mx",
+        "source_priority": 1444883,
+        "source_url": "https://www.elsoldehidalgo.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldehidalgo_mx.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "图拉圣十字日：建筑工人参加庄严弥撒",
+        "description_zh": "他们带来了主要由木头和彩纸制成的十字架来接受祝福。"
+    },
+    {
+        "article_id": "91a752c90207fdbedcbeb91c3f9aceed",
+        "link": "https://www.zocalo.com.mx/falso-de-toda-falsedad-enrique-inzunza-sobre-presunto-acercamiento-con-eu-para-ser-testigo-protegido/",
+        "title": "‘Falso de toda falsedad’: Enrique Inzunza sobre presunto acercamiento con EU para ser testigo protegido",
+        "description": "Una fuente del Departamento de Justicia de EU reveló que abogados de Enrique Inzunza ya habrían iniciado contactos con fiscales de ese país",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:50:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:09:58",
+        "image_url": "https://www.zocalo.com.mx/wp-content/uploads/2026/05/inzunza-1.jpg",
+        "video_url": null,
+        "source_id": "zocalo",
+        "source_name": "Periódico Zócalo",
+        "source_priority": 208655,
+        "source_url": "http://zocalo.com.mx",
+        "source_icon": "https://n.bytvi.com/zocalo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“谎言中的谎言”：恩里克·因祖扎（Enrique Inzunza）涉嫌与美国和解，成为受保护的证人",
+        "description_zh": "美国司法部消息人士透露，恩里克·因尊扎的律师已经开始与该国检察官进行接触。"
+    },
+    {
+        "article_id": "3fdb6ecf7438c04b9cae6580db55df1d",
+        "link": "https://forbes.com.mx/de-la-disciplina-culinaria-a-la-creatividad-musical-conoce-mas-del-sonido-introspectivo-de-n4no/",
+        "title": "De la disciplina culinaria a la creatividad musical: Conoce más del sonido introspectivo de N4NO",
+        "description": "Su experiencia en la cocina ha sido su mayor ventaja competitiva en la industria musical. La disciplina y la constancia de la alta cocina le han otorgado una estructura creativa poco común en otros artistas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "n4no",
+            "música",
+            "chef"
         ],
         "creator": [
-            "eugenio muñoz"
+            "andrea blancas"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "mexico"
         ],
         "category": [
-            "technology"
+            "top",
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-02 15:51:42",
+        "pubDate": "2026-05-03 15:50:34",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:02:38",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/05/02/69f61b437cb48.jpeg",
+        "fetched_at": "2026-05-03 16:03:44",
+        "image_url": "https://cdn.forbes.com.mx/2026/05/n4no.webp",
         "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
+        "source_id": "forbes_mx",
+        "source_name": "Forbes Mx",
+        "source_priority": 23981,
+        "source_url": "https://www.forbes.com.mx",
+        "source_icon": "https://n.bytvi.com/forbes_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -755,68 +666,18 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "还没到烤架就烧烤霍肯伯格的奥迪！",
-        "description_zh": "迈阿密大奖赛冲刺赛首次放弃是在起跑线尚未完全形成的情况下发生的"
+        "title_zh": "从烹饪学科到音乐创造力：了解有关 N4NO 内省声音的更多信息",
+        "description_zh": "他在厨房的经验是他在音乐行业最大的竞争优势。对高级烹饪的纪律和坚持赋予了他在其他艺术家中罕见的创作结构。"
     },
     {
-        "article_id": "6cddfad96eef421452579c683f4faf3f",
-        "link": "https://www.marca.com/tiramillas/sociedad/2026/05/02/mbappe-ester-exposito-pillados-italia-lujoso-restaurante-cagliari.html",
-        "title": "Mbappé y Ester Expósito, pillados en Italia: juntos en un lujoso restaurante de Cagliari",
-        "description": "La pareja vuelve a dejarse ver, pero las críticas no paran de caer sobre el francés",
+        "article_id": "92472de0b7310762af8e52aa332f855c",
+        "link": "https://asisucede.com.mx/policias-estatales-detienen-a-probable-implicado-en-secuestro-expres-en-ecatepec/",
+        "title": "Policías estatales detienen a probable implicado en secuestro exprés en Ecatepec",
+        "description": "Personal de la Secretaría de Seguridad del Estado de México (SSEM) detuvo a un hombre por su probable participación en el delito de secuestro exprés, aseguró un arma de fuego y recuperó un tractocamión, en el municipio de Ecatepec. Cuando elementos del Agrupamiento de Fuerza de Acción y Reacción (FAR) desplegaban recorridos de seguridad contra [...] La entrada Policías estatales detienen a probable implicado en secuestro exprés en Ecatepec aparece primero en Así Sucede Noticias Toluca Edomex .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "pillados",
-            "ester",
-            "expósito",
-            "mbappé",
-            "italia"
-        ],
+        "keywords": null,
         "creator": [
-            "alberto muñoz algobia"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-02 15:51:34",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 16:03:39",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/05/02/69f61b5c02de6.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "姆巴佩和埃斯特·埃克斯波西托在意大利被捕：一起在卡利亚里的一家豪华餐厅",
-        "description_zh": "这对夫妇再次出现，但批评并没有停止落在法国人身上"
-    },
-    {
-        "article_id": "817bbc11538784b02b975c09320a77bd",
-        "link": "https://www.elmanana.com/local/reynosa/hallazgo-de-cadaver-en-anacuas-genera-investigacion-oficial/6127645",
-        "title": "Hallazgo de cadáver en Anacuas genera investigación oficial",
-        "description": "El hallazgo se registró la mañana de este sábado cerca del basurero municipal; el occiso portaba vestimenta hospitalaria y no presentaba signos de violencia evidentes.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "autoridades investigan muerte anacuas",
-            "investigaci&#243;n cuerpo encontrado anacuas",
-            "hombre encontrado muerto en anacuas",
-            "cuerpo sin vida en ejido anacuas",
-            "hallazgo de cad&#225;ver en anacuas"
-        ],
-        "creator": [
-            "guadalupe castorena"
+            "redacción así sucede"
         ],
         "language": "spanish",
         "country": [
@@ -827,16 +688,16 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-02 15:51:00",
+        "pubDate": "2026-05-03 15:50:07",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-02 21:11:56",
-        "image_url": "https://blob.elmanana.com/images/2026/05/02/crop-w781-h652-whatsapp-image-2026-05-02-at-132849-ac9c18de.jpeg",
+        "fetched_at": "2026-05-03 16:17:06",
+        "image_url": "https://i0.wp.com/asisucede.com.mx/wp-content/uploads/2026/05/detenido-85.jpeg?fit=1080%2C1080&ssl=1",
         "video_url": null,
-        "source_id": "elmanana",
-        "source_name": "Últimas Noticias - El Mañana De Reynosa",
-        "source_priority": 258494,
-        "source_url": "https://www.elmanana.com",
-        "source_icon": "https://n.bytvi.com/elmanana.jpg",
+        "source_id": "asisucede",
+        "source_name": "Asi Sucede",
+        "source_priority": 1051776,
+        "source_url": "https://asisucede.com.mx",
+        "source_icon": "https://n.bytvi.com/asisucede.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -844,7 +705,133 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "在阿纳夸斯发现尸体引发官方调查",
-        "description_zh": "这一发现是本周六早上在市政垃圾场附近记录的；死者身穿医院服装，没有明显的暴力痕迹。"
+        "title_zh": "州警察​​逮捕了可能参与埃卡特佩克快速绑架的男子",
+        "description_zh": "墨西哥州安全秘书处 (SSEM) 人员在埃卡特佩克市拘留了一名可能参与快速绑架犯罪的男子，缴获了一把枪支并追回了一辆拖车。当作用力和反作用力分组的元素"
+    },
+    {
+        "article_id": "74f4dc9f644240edfb2ee79572840c5d",
+        "link": "https://www.eldesmarque.com/futbol/liga-1a-division/20260503/eder-sarabia-rinde-iago-aspas-celta-elche_18_019054868.html",
+        "title": "Eder Sarabia defiende a Affengruber y explica su gesto con Iago Aspas: \"De los mejores jugadores de la historia del fútbol español\"",
+        "description": "Eder Sarabia saludó a Iago Aspas tras su cambio El uno por uno y notas del Elche en casa del Celta con cinco suspensos y un señalado",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "joaquín anduro"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:50:06",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 17:06:42",
+        "image_url": "https://album.mediaset.es/eimg/2026/05/03/eder-sarabia-tras-el-celta-elche-16-9-aspect-ratio-default-0_da39.png?w=1024",
+        "video_url": null,
+        "source_id": "eldesmarque",
+        "source_name": "Eldesmarque",
+        "source_priority": 44851,
+        "source_url": "https://motor.eldesmarque.com",
+        "source_icon": "https://n.bytvi.com/eldesmarque.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "埃德尔·萨拉比亚为阿芬鲁贝尔辩护，并解释了他对伊阿古·阿斯帕斯的态度：“西班牙足球历史上最好的球员之一”",
+        "description_zh": "埃德尔·萨拉比亚在塞尔塔主场迎接伊阿古·阿斯帕斯的改变一一和埃尔切的笔记，五次失败和一次信号"
+    },
+    {
+        "article_id": "55c07c96413ba51e0987d734787058f0",
+        "link": "https://www.vanguardia.com/judicial/2026/05/03/tragedia-vial-en-piedecuesta-un-muerto-tras-choque-entre-motocicletas/",
+        "title": "Tragedia vial en Piedecuesta: un muerto tras choque entre motocicletas",
+        "description": "En el accidente también resultó lesionada otra persona, quien fue auxiliada y trasladada a un centro asistencial.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "piedecuesta",
+            "accidente de tránsito"
+        ],
+        "creator": [
+            "redacción judicial"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:50:06",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:04:41",
+        "image_url": "https://www.vanguardia.com/resizer/v2/XHFZARKSBBHMPLXY4GAFMHJ5HU.jpeg?auth=213b1243292ea9ff0ffe008d44194b91e08ae63e51d8635fc2c47770ad8833f2&smart=true&width=1216&height=874",
+        "video_url": null,
+        "source_id": "vanguardia",
+        "source_name": "Vanguardia",
+        "source_priority": 24302,
+        "source_url": "https://vanguardia.com.mx",
+        "source_icon": "https://n.bytvi.com/vanguardia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Piedecuesta发生道路悲剧：摩托车相撞造成一人死亡",
+        "description_zh": "事故中还有一人受伤，他得到帮助并被送往医疗中心。"
+    },
+    {
+        "article_id": "fb005b7e1c88049725c77d31b24db09a",
+        "link": "https://jornadaveracruz.com.mx/creadores-y-artistas-llevaran-cultura-a-colonias-de-xalapa/",
+        "title": "Creadores y artistas llevarán cultura a colonias de Xalapa",
+        "description": "El ayuntamiento de Xalapa lanzará convocatorias para artistas y creadores con el objetivo de llevar actividades culturales a colonias y zonas periféricas, fuera de los espacios tradicionales. El director de Cultura, Marco Darío García Franco, explicó que la iniciativa busca ampliar el acceso a la cultura en espacios comunitarios, donde habitualmente no se desarrollan este [...] El cargo Creadores y artistas llevarán cultura a colonias de Xalapa apareció primero en La Jornada Veracruz .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "espacios comunitarios",
+            "ayuntamiento xalapa",
+            "xalapa",
+            "artistas",
+            "cultura",
+            "audioteca"
+        ],
+        "creator": [
+            "agencias"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-03 15:50:04",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-03 16:18:05",
+        "image_url": "https://jornadaveracruz.com.mx/wp-content/uploads/2026/05/p02b-avc.jpeg",
+        "video_url": null,
+        "source_id": "jornadaveracruz_mx",
+        "source_name": "La Jornada Veracruz",
+        "source_priority": 1502698,
+        "source_url": "https://jornadaveracruz.com.mx",
+        "source_icon": "https://n.bytvi.com/jornadaveracruz_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "创作者和艺术家将为哈拉帕殖民地带来文化",
+        "description_zh": "哈拉帕市议会将发起对艺术家和创作者的号召，旨在将文化活动带到传统空间之外的社区和周边地区。文化总监 Marco Darío García Franco 解释说，该倡议旨在扩大"
     }
 ]
