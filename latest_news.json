@@ -1,25 +1,15 @@
 [
     {
-        "article_id": "fd1b4422955889bb1417fcaf9b6e0c8f",
-        "link": "https://www.primerafuente.com.ar/noticias/129648/caso-adorni-solicitan-informacion-sobre-contratos-empresa-esposa-bettina-angeletti",
-        "title": "Caso Adorni: solicitan información sobre los contratos de la empresa de su esposa Bettina Angeletti",
-        "description": "El juez Ariel Lijo pidió las facturas y las órdenes de licitación a tres empresas vinculadas con la consultora perteneciente a la mujer del jefe de Gabinete.",
+        "article_id": "00541e098301a18c524e926ffa46c56a",
+        "link": "https://www.elancasti.com.ar/informacion-general/aumentaron-los-casos-meningitis-encima-lo-esperado-piden-reforzar-la-vacunacion-n612433",
+        "title": "Aumentaron los casos de meningitis por encima de lo esperado: piden reforzar la vacunación",
+        "description": "En lo que va del año se registraron 172 casos en el país, una cifra por encima de los valores habituales.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "tucuman",
-            "primerafuente",
-            "ultimo momento",
-            "argentina",
-            "periodico",
-            "newspaper",
-            "diario",
-            "prensa",
-            "news",
-            "actualidad",
-            "primera fuente"
+            "meningitis"
         ],
         "creator": [
-            "primera fuente"
+            "el ancasti"
         ],
         "language": "spanish",
         "country": [
@@ -27,20 +17,19 @@
         ],
         "category": [
             "top",
-            "business",
-            "crime"
+            "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-11 15:49:00",
+        "pubDate": "2026-05-12 15:58:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 19:51:57",
-        "image_url": "https://www.primerafuente.com.ar/fotos/notas/2026/05/11/200x150_129648_20260511155050.jpg",
+        "fetched_at": "2026-05-12 16:20:43",
+        "image_url": "https://media.elancasti.com.ar/p/f6fc6c35bc1acb21917c000f80bfb4f2/adjuntos/325/imagenes/000/415/0000415654/1200x675/smart/multimedianormala50e422cd77ed286bm9ybwfslndlyna.webp",
         "video_url": null,
-        "source_id": "primerafuente_ar",
-        "source_name": "Primera Fuente",
-        "source_priority": 2716386,
-        "source_url": "https://www.primerafuente.com.ar",
-        "source_icon": "https://n.bytvi.com/primerafuente_ar.png",
+        "source_id": "elancasti_ar",
+        "source_name": "Elancasti Ar",
+        "source_priority": 2635729,
+        "source_url": "https://www.elancasti.com.ar",
+        "source_icon": "https://n.bytvi.com/elancasti_ar.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -48,146 +37,37 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿多尼案：他们要求提供有关阿多尼妻子贝蒂娜·安杰莱蒂公司合同的信息",
-        "description_zh": "阿里尔·利霍法官要求与参谋长妻子所属咨询公司有关联的三家公司提供发票和投标单。"
+        "title_zh": "脑膜炎病例增加超预期：要求加强疫苗接种",
+        "description_zh": "今年迄今为止，该国已登记 172 例病例，这一数字高于平常水平。"
     },
     {
-        "article_id": "aa549db5a2552aee81b71bc85e2ec15c",
-        "link": "https://www.mdzol.com/dinero/el-gobierno-aprobo-un-nuevo-proyecto-minero-dentro-del-rigi-el-plan-diablillos-invertira-us764-millones-n1517485",
-        "title": "El Gobierno aprobó un nuevo proyecto minero dentro del RIGI: el plan \"Diablillos\" invertirá US$764 millones",
-        "description": "El nuevo proyecto apobrado dentro del RIGI es para una nueva mina de oro y plata ubicada entre las provincias de Salta y Catamarca.",
+        "article_id": "21dd2dd653e98f308cfe92ecf64185f6",
+        "link": "https://www.estadao.com.br/ciencia/telescopio-da-nasa-identifica-exoplaneta-com-superficie-semelhante-a-de-mercurio-npr/",
+        "title": "Telescópio da Nasa identifica exoplaneta com superfície semelhante à de Mercúrio",
+        "description": "Estudo publicado na Revista Nature Astronomy analisou dados coletados pelo Telescópio Espacial James Webb sobre o exoplaneta LHS 3844 b",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "rigi",
-            "minería"
-        ],
+        "keywords": null,
         "creator": [
-            "mdz dinero"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-11 15:49:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:01:33",
-        "image_url": "https://media.mdzol.com/p/0e7d4514d05c01500c24338d524e0eb3/adjuntos/373/imagenes/001/922/0001922811/1200x675/smart/mineria-argentina.webp",
-        "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://n.bytvi.com/mdzol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "政府批准RIGI内新采矿项目：“Diabillos”计划将投资7.64亿美元",
-        "description_zh": "RIGI 批准的新项目是位于萨尔塔省和卡塔马卡省之间的一个新金银矿。"
-    },
-    {
-        "article_id": "68de30a3ddf5f6f7d3ec43da0ab82089",
-        "link": "https://www.dgabc.com.br/Noticia/4318593/vini-jr-e-ze-felipe-parabenizam-virginia-fonseca-em-mesma-postagem-nas-redes-sociais",
-        "title": "Vini Jr. e Zé Felipe parabenizam Virginia Fonseca em mesma postagem nas redes sociais",
-        "description": "Vini Jr. e Zé Felipe parabenizam Virginia Fonseca em mesma postagem nas redes sociais",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "nacional",
-            "setecidades",
-            "são bernardo",
-            "diarinho",
-            "santo andré",
-            "noticia",
-            "diário",
-            "noticias on line abc",
-            "economia",
-            "notícias",
-            "portal",
-            "diadema",
-            "rio grande da serra",
-            "mauá",
-            "grande abc",
-            "ribeirão pires",
-            "são caetano",
-            "política",
-            "abc",
-            "internacional"
-        ],
-        "creator": [
-            "agência estado"
+            "geovanna  hora"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top",
-            "entertainment"
+            "science"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-11 15:49:00",
+        "pubDate": "2026-05-12 15:58:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:20:54",
+        "fetched_at": "2026-05-12 16:34:25",
         "image_url": null,
         "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://n.bytvi.com/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "小维尼 (Vini Jr.) 和泽·费利佩 (Zé Felipe) 在社交媒体上的同一篇帖子中祝贺弗吉尼亚·丰塞卡 (Virginia Fonseca)",
-        "description_zh": "小维尼 (Vini Jr.) 和泽·费利佩 (Zé Felipe) 在社交媒体上的同一篇帖子中祝贺弗吉尼亚·丰塞卡 (Virginia Fonseca)"
-    },
-    {
-        "article_id": "052da300608d9d8cdc58b9ae830c70bb",
-        "link": "https://www.infobae.com/america/agencias/2026/05/11/ong-venezolanas-piden-investigacion-con-ayuda-internacional-sobre-muerte-de-preso-politico/",
-        "title": "ONG venezolanas piden investigación con ayuda internacional sobre muerte de preso político",
-        "description": "ONG venezolanas piden investigación con ayuda internacional sobre muerte de preso político",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "efe"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "united states of america",
-            "colombia",
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-11 15:48:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:01:15",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -195,40 +75,332 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "委内瑞拉非政府组织要求在国际社会的帮助下对一名政治犯的死亡进行调查",
-        "description_zh": "委内瑞拉非政府组织要求在国际社会的帮助下对一名政治犯的死亡进行调查"
+        "title_zh": "美国宇航局望远镜识别出表面与水星相似的系外行星",
+        "description_zh": "发表在《自然天文学杂志》上的研究分析了詹姆斯·韦伯太空望远镜在系外行星 LHS 3844 b 上收集的数据"
     },
     {
-        "article_id": "74414396a04392049abb75341509cb1b",
-        "link": "https://flipr.com.ar/nacionales/economia/perfil/hay-menos-recursos-para-llevar-adelante-las-distintas-investigaciones-que-han-caracterizado-al-inta/",
-        "title": "“Hay menos recursos para llevar adelante las distintas investigaciones que han caracterizado al INTA”",
-        "description": "El ministro de Desarrollo Agrario, Javier Rodríguez, comentó que, “esta reducción presupuestaria se ve principalmente en el financiamiento de proyectos...",
+        "article_id": "2609251b3440d44751b9dd5ffb0478f5",
+        "link": "https://www.capitalnews.com.br/policia-e-justica/policia/operacao-fornax-mira-trafico-internacional-e-apreende-16-toneladas-de-drogas-em-mato-grosso-do-sul/440377",
+        "title": "Operação Fornax mira tráfico internacional e apreende 16 toneladas de drogas em Mato Grosso do Sul",
+        "description": "A Polícia Federal deflagrou, nesta terça-feira (12), a Operação Fornax para combater o tráfico internacional de drogas e organizações criminosas atuantes na região de fronteira de Mato Grosso do Sul.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "elaine oliveira"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:58:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-13 00:14:33",
+        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2026/05/12/1200x900/b6ad033ca5b92388ea8fd84a6bd0dec0-capitalnews-com-br.jpg",
+        "video_url": null,
+        "source_id": "capitalnews",
+        "source_name": "Capital News",
+        "source_priority": 505998,
+        "source_url": "https://www.capitalnews.com.br",
+        "source_icon": "https://n.bytvi.com/capitalnews.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Fornax 行动瞄准国际贩运并在南马托格罗索州缴获 16 吨毒品",
+        "description_zh": "本周二（12日），联邦警察发起了“天炉行动”，打击在南马托格罗索州边境地区活动的国际贩毒和犯罪组织。"
+    },
+    {
+        "article_id": "6b77696e3b4fdc349ffcb6b803caff16",
+        "link": "https://www.capitalnews.com.br/policia-e-justica/policia/operacao-fornax-mira-trafico-internacional-e-apreende-16-toneladas-de-drogas-em-ms/440377",
+        "title": "Operação Fornax mira tráfico internacional e apreende 16 toneladas de drogas em MS",
+        "description": "A Polícia Federal deflagrou, nesta terça-feira (12), a Operação Fornax para combater o tráfico internacional de drogas e organizações criminosas atuantes na região de fronteira de Mato Grosso do Sul.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "elaine oliveira"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:58:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 18:11:50",
+        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2026/05/12/1200x900/b6ad033ca5b92388ea8fd84a6bd0dec0-capitalnews-com-br.jpg",
+        "video_url": null,
+        "source_id": "capitalnews",
+        "source_name": "Capital News",
+        "source_priority": 505998,
+        "source_url": "https://www.capitalnews.com.br",
+        "source_icon": "https://n.bytvi.com/capitalnews.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Fornax 行动瞄准国际贩运并在 MS 查获 16 吨毒品",
+        "description_zh": "本周二（12日），联邦警察发起了“天炉行动”，打击在南马托格罗索州边境地区活动的国际贩毒和犯罪组织。"
+    },
+    {
+        "article_id": "58ec84a0216f359486119ea78522464a",
+        "link": "https://jornaldebrasilia.com.br/noticias/economia/alta-de-186-na-gasolina-faz-subitem-ter-maior-pressao-no-ipca-de-abril/",
+        "title": "Alta de 1,86% na gasolina faz subitem ter maior pressão no IPCA de abril",
+        "description": "O aumento de 1,86% na gasolina em abril exerceu a maior pressão sobre a inflação oficial no País, com contribuição de 0,10 ponto porcentual. O óleo diesel avançou 4,46% e o etanol subiu 0,62%, enquanto o gás veicular recuou 1,24%. Na média, os combustíveis encareceram 1,80% em abril. Os dados são do Índice Nacional de Preços ao Consumidor Amplo (IPCA), divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O grupo Transportes saiu de uma alta de 1,64% em março para elevação de 0,06% em abril, com contribuição de 0,01 ponto porcentual para a taxa de 0,67% registrada pelo IPCA. A desaceleração foi puxada pela passagem aérea, que recuou 14,45% em abril, com contribuição de -0,11 ponto porcentual. O ônibus urbano diminuiu 1,13%, devido à apropriação de gratuidades ou reduções de tarifa aos domingos em São Paulo e Salvador, além dos feriados em Fortaleza, Vitória, Curitiba, Brasília, Belém e Belo Horizonte. O metrô caiu 0,38%, com a incorporação das gratuidades nas tarifas aos domingos e feriados em Brasília. Estadão Conteúdo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "campo"
+            "combustíveis",
+            "transportes",
+            "passagem aérea",
+            "gasolina",
+            "ipca"
         ],
         "creator": [
-            "perfil"
+            "redação jornal de brasília"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:57:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 16:20:16",
+        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/07/22091031/ipca.webp",
+        "video_url": null,
+        "source_id": "jornaldebrasilia",
+        "source_name": "Jornal De Brasília",
+        "source_priority": 1815808,
+        "source_url": "https://jornaldebrasilia.com.br",
+        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "汽油上涨1.86%意味着该分项对4月IPCA压力更大",
+        "description_zh": "4月份汽油上涨1.86%，对该国官方通胀的压力最大，贡献了0.10个百分点。柴油上涨4.46%，乙醇上涨0.62%，车用汽油下跌1.24%。 4 月份燃油平均上涨 1.80%。 d"
+    },
+    {
+        "article_id": "9c0035d99a5b372e05e84c1abc7f791b",
+        "link": "https://www.estadao.com.br/cultura/vai-ao-spiw-veja-como-esticar-o-passeio-com-programas-culturais-e-dicas-de-onde-comer-na-regiao/",
+        "title": "Vai ao SPIW? Veja como esticar o passeio com programas culturais e dicas de onde comer na região",
+        "description": "Evento ocorre entre os dias 13 e 15 de maio no Pacaembu e na FAAP; período no qual a cidade de São Paulo oferece diversas atividades, como shows, peças, exposições e passeios",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "danilo casaletti"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:57:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 16:03:48",
+        "image_url": "https://www.estadao.com.br/resizer/v2/6I6EW67N2BCAXCNZISLBL6WWVA.jpg?auth=3117b78aa6ecb883576e520904cdd60d91a3814e02ed8e6e50a10bee4a03b842&smart=true&width=2000&height=1333",
+        "video_url": null,
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "你要去SPIW吗？了解如何通过文化节目来延长您的旅程，并了解该地区的餐饮场所",
+        "description_zh": "活动将于 5 月 13 日至 15 日在 Pacaembu 和 FAAP 举行；圣保罗市举办各种活动的时期，例如表演、戏剧、展览和旅游"
+    },
+    {
+        "article_id": "00c9f341be9e88256b99d662a0d91f17",
+        "link": "https://www.estadao.com.br/politica/carolina-brigido/decisao-de-alexandre-de-moraes-de-nao-aplicar-lei-da-dosimetria-cria-novo-poder-para-stf/",
+        "title": "Decisão de Alexandre de Moraes de não aplicar Lei da Dosimetria cria novo poder para STF",
+        "description": "Ministro criou uma terceira via jurídica ao não declarar a norma inconstitucional nem aplicá-la",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "carolina brígido"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:57:39",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 16:34:55",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "亚历山大·德·莫赖斯 (Alexandre de Moraes) 决定不适用剂量测定法，为 STF 创造了新的权力",
+        "description_zh": "部长既没有宣布该规则违宪，也没有适用它，开辟了第三条法律途径"
+    },
+    {
+        "article_id": "048106cf1ab2770d0f15ecf8cb445dcc",
+        "link": "https://www.terra.com.br/esportes/suecia/com-isak-e-gyokeres-suecia-anuncia-convocados-para-a-copa-do-mundo,b6a2340525ad6c294124113d0a92f975azx983eb.html",
+        "title": "Com Isak e Gyökeres, Suécia anuncia convocados para a Copa do Mundo",
+        "description": "Na manhã desta terça-feira (12), a Suécia auunciou os seus convocados para a Copa do Mundo. O ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "jogada10"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:57:39",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 16:35:18",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/05/12/205841201-graham-potter-610x400.jpg",
+        "video_url": null,
+        "source_id": "terra",
+        "source_name": "Terra",
+        "source_priority": 24247,
+        "source_url": "https://www.terra.com.br",
+        "source_icon": "https://n.bytvi.com/terra.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "瑞典公布了伊萨克和吉克雷斯的世界杯阵容",
+        "description_zh": "本周二（12日）上午，瑞典公布了参加世界杯的阵容。这..."
+    },
+    {
+        "article_id": "482ec6c3587d9124a52d63d73bd92dcc",
+        "link": "https://www.eldiarioar.com/sociedad/sofia-pineiro-enfermera-fronteras-despues-vida-haber-presenciado-genocidio-vivo_1_13215656.html",
+        "title": "Sofía Piñeiro, enfermera sin fronteras: “Fue un antes y un después en mi vida haber presenciado un genocidio en vivo”",
+        "description": "Trababa desde hace 10 años en Médicos sin Fronteras. Tras haber prestado ayuda en África y Asia, su última misión la llevó a la Franja de Gaza. Desde 2024, entró tres veces en la Franja de Gaza, a las que se suma una “cuarta frustrada” en la que tuvo que renunciar al reencuentro con sus colegas palestinos a los que había conocido al comienzo de la guerra. Sofía Piñeiro es enfermera de Médicos Sin Fronteras desde una década, está acostumbrada a trabajar en contextos de crisis —Bangladesh durante el éxodo rohingya en 2018, Guinea-Bisáu, Camerún, Mozambique o Yemen—, pero asegura que Gaza fue distinto a todo. “Fue un antes y un después en mi vida haber presenciado un genocidio en vivo y en directo”, dice la enfermera argentina y coordinadora de equipos médicos de Médicos Sin Fronteras (MSF). Mientras trabaja, estudia y se recupera emocionalmente en Argentina, se prepara para volver al territorio porque, asegura, “parte de mi corazón está con ellos”. “Viniendo de la clase media, siempre te van a preguntar por qué haber elegido enfermería en vez de medicina.” La vocación humanitaria fue su respuesta. Una vocación que se celebra cada 12 de mayo, Día Internacional de la Enfermería, en homenaje a Florence Nightingale. “Lo que nunca podría sacrificar es el sentido humanitario de lo que hago.” Sofía en uno de los hospitales de campaña en Gaza en 2024. Después de haber estudiado en el hospital universitario Austral durante 5 años, hace casi una década que su lugar de trabajo es el mundo : “La persona que necesita ayuda, a mí no me interesa de qué país es, de dónde o con quién o qué llevas: pasaporte o no pasaporte. Donde hay esa gente que lo necesita: ahí vamos a estar”, resume. Ahora, está siguiendo un curso que la habilita para convertirse oficialmente en coordinadora. Define a Médicos Sin Fronteras como “una escuela inmensa”, donde “el techo constantemente se abre”. Allí coordinó farmacias, estadísticas y evaluaciones de personal con equipos de hasta 50 personas. También encontró un rol de transmisión para hacer evolucionar su práctica: “Mil veces me he encontrado dando clases, y es algo que disfruto un montón.” Dentro de la organización, “casi que le cambiaríamos el nombre a Enfermeros Sin Fronteras porque somos la mitad”, bromea. En la ayuda humanitaria, el rol de la enfermera es crucial: “Que el médico tenga lo que necesita para su paseo de guardia, manejar los números, estadísticas y demás. Es un rol muy grande en Médicos Sin Fronteras, que, bueno, es que se diferencia un poco del rol de la Argentina”, explicó. Su última experiencia en Gaza profundizó esa mirada. El funcionamiento de MSF se apoya en profesionales internacionales, pero sobre todo en equipos locales: “No hay ninguna razón para traerme a alguien de afuera si yo tengo la expertise local”, explica. Haber trabajado en Gaza, donde hay ingenieros, arquitectos, enfermeros y cirujanos palestinos que, pese a haber perdido sus casas o vivir desplazados, seguían sosteniendo hospitales y centros de salud, la cambió. “Ellos son de las personas más generosas y respetuosas con las que yo he trabajado a lo largo de mis diez años en Médicos Sin Frontera”, contó. Recuerda a “enfermeros endémicos que realmente estaban viviendo en una carpa con sus familias y, al otro día, llegaban con el informe más limpio que el mío, con una sonrisa, diciendo: ‘Sofía, ¿con qué empezamos a trabajar hoy?’. Es un nivel de compromiso con su propia comunidad realmente admirable”. Describe una situación humanitaria cada vez más extrema: “Siempre parecía que no se podía estar peor, y siempre se estaba peor”, afirma. Habla de hospitales colapsados, pacientes en los pasillos y un aumento constante de la desnutrición. Incluso durante los períodos de tregua, asegura, la violencia nunca se detuvo: “Era un falso ceasefire . Seguía habiendo actividad militar, seguían llegando heridos y no entraban los suministros prometidos.” Frente a ese desgaste, explica que muchas veces el trabajo de los equipos internacionales consiste también en proteger emocionalmente a los trabajadores locales: “Intentamos asumir nosotros la mayor cantidad de decisiones pesadas para evitarles esa carga . Ellos saben perfectamente lo que implica cerrar un centro de salud y dejar población sin atención.” El trabajo humanitario también tiene un costo personal. Aunque asegura que quiere volver “todas las veces que pueda”, reconoce que hoy necesita recuperarse: “Mi salud mental necesita un poco de descanso”, admite. Aun así, le cuesta imaginarse trabajando en otro lugar: “Hoy siento tanto compromiso con Gaza que me costaría aceptar una misión distinta...pero si en Sudán se necesita, en Sudán iré.” Sofía Piñeiro en Bangladesh en 2017, uno de los destinos que le asignó Médicos sin Fronteras Mientras espera poder regresar, encontró en Argentina un espacio donde aplicar parte de esa experiencia. Actualmente colabora con la ONG AMTena —cuyo nombre significa “qué lindo volver a verte” en idioma wichí—, coordinando operativos sanitarios en comunidades originarias del norte de Salta. Lo considera “lo suficientemente parecido para mi alegría, porque un poco mi visión de enfermería es que a mí me gustaría devolverle a la enfermería en Argentina lo mucho que me dio para llegar a este lugar”, explica. Organizan operativos quirúrgicos itinerantes: identifican pacientes en comunidades alejadas, los trasladan más de 200 kilómetros hasta hospitales de referencia, realizan las operaciones y luego los acompañan de regreso. Su experiencia internacional también moldeó su mirada sobre el sistema de salud argentino . Aunque reconoce sus limitaciones, rechaza comparaciones simplistas: “Muchas veces se ha comparado, por ejemplo, el norte argentino con ‘es nuestra África’. Para mí, esa persona claramente no pisó África. Sí, nuestro sistema tiene muchas limitantes, pero siempre hay una puerta donde golpear.” Hace 10 años que Sofía Piñeiro trabaja en Médicos sin Fronteras. Mientras se recupera para volver a Gaza, trabaja con una ONG wichi en Salta Al mismo tiempo, tiene un punto de vista pragmático: argumenta que muchos problemas del sistema responden menos a la falta de recursos que a problemas de gestión: “He visto cómo se pueden gestionar cosas igual con muy pocos fondos; lo he hecho muchas veces. Con lo cual, a mí, a veces, la falta de presupuesto o la falta de insumos, yo solo veo mala gestión. En lugares donde hay pocos insumos, lo hemos hecho funcionar, con mejores resultados a veces que los que puedo ver acá.” Esa mirada también alcanza a la formación en enfermería. En un contexto de crisis presupuestaria universitaria y de debate sobre el financiamiento de hospitales escuela, Sofía advierte sobre las consecuencias de haber fragmentado históricamente la carrera para formar personal rápidamente. “Enfermería se quedó en el nivel medio profesional y no se terminó la licenciatura, y eso, a lo largo del tiempo, te perjudica porque tenés menos gente formada que va a hacer investigación, que va a hacer crecer la profesión”. Aún así, observa avances en la última década: más residencias, más posgrados y una mayor profesionalización. Pero insiste en que todavía faltan incentivos laborales: “Las enfermeras tienen dos o tres trabajos para llegar a fin de mes; todas conocemos la lumbalgia y estás muy expuesta: desde cortopunzantes a otras enfermedades, al dolor de un paciente. Las que lo hacemos lo amamos, pero todavía nos falta reconocimiento.” LPV/MG",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "vida",
+            "genocidio",
+            "sofia",
+            "fronteras",
+            "vivo",
+            "presenciado",
+            "enfermera",
+            "día de la enfermería",
+            "médicos sin fronteras",
+            "haber",
+            "pineiro",
+            "despues"
+        ],
+        "creator": [
+            "eldiarioar.com"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
+            "politics",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:57:38",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 16:41:45",
+        "image_url": "https://static.eldiario.es/clip/e2c874db-9f08-4a0b-8693-ed6d237ef6b5_16-9-discover-aspect-ratio_default_0.jpg",
+        "video_url": null,
+        "source_id": "eldiarioar",
+        "source_name": "El Diario Ar",
+        "source_priority": 233338,
+        "source_url": "https://www.eldiarioar.com",
+        "source_icon": "https://n.bytvi.com/eldiarioar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "无国界护士索菲亚·皮涅罗 (Sofía Piñeiro)：“在我的生命中，目睹了一场种族灭绝的前后经历”",
+        "description_zh": "我已经为无国界医生组织工作了 10 年。在非洲和亚洲提供援助后，她最近的任务是前往加沙地带。自2024年以来，他已经三次进入加沙地带，其中还有一次“失意的第四次”，他不得不放弃与同事的团聚。"
+    },
+    {
+        "article_id": "33cac13d772813dc6f573820bafd2c19",
+        "link": "https://jornaldebrasilia.com.br/noticias/mundo/trump-defende-politica-tarifaria-apesar-de-menor-eficiencia-por-reves-da-suprema-corte/",
+        "title": "Trump defende política tarifária, apesar de menor eficiência por revés da Suprema Corte",
+        "description": "O presidente dos EUA, Donald Trump, afirmou que mantém sua política tarifária, apesar do revés na Suprema Corte norte-americana que considerou como ilegais as alíquotas impostas pelo chefe da Casa Branca em abril do ano passado, ao participar do podcast Sid & Friends in The Morning , nesta terça-feira, 12. \"Tínhamos uma política tarifária, mas eu consigo implementar as tarifas de novo, só que de uma forma diferente, que não é tão eficiente. Então, acabo cobrando mais, mas não é tão eficiente. Nós seguimos com as tarifas, só precisamos fazer de uma maneira mais complexa\", detalhou, ao classificar a decisão da Suprema Corte como \"muito surpreendente\" e \"dolorosa\". Em relação à política interna norte-americana, Trump sugeriu a necessidade de identificação do eleitor para garantir que o votante é cidadão dos Estados Unidos e destacou que a recusa do Partido Democrata sobre isso é pela defesa do grupo opositor ao republicano de \"alguns mecanismos de controle no voto por correio que é totalmente corrupto\". \"Então, se você é militar, pode votar por correio se estiver doente, etc. Temos exceções, mas queremos que o voto por correio seja eliminado, se possível\", disse ele. Dentre outros temas, o presidente norte-americano citou \"a ótima relação\" com a Venezuela, atualmente. Estadão Conteúdo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "suprema corte",
+            "eleições",
+            "voto por correio",
+            "tarifas",
+            "trump"
+        ],
+        "creator": [
+            "redação jornal de brasília"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
             "business",
             "top"
         ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-05-11 15:48:44",
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:57:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:15:04",
-        "image_url": "https://fotos.perfil.com/2026/05/11/trim/1140/641/inta-2237451.jpg",
+        "fetched_at": "2026-05-12 17:51:27",
+        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/04/11102026/AFP__20260410__A7FD4NP__v1__MidRes__UsPresidentDonaldTrumpDepartsWashingtonForCharlo.jpg",
         "video_url": null,
-        "source_id": "flipr_ar",
-        "source_name": "Flipr.news",
-        "source_priority": 459507,
-        "source_url": "https://flipr.com.ar",
-        "source_icon": "https://n.bytvi.com/flipr_ar.png",
+        "source_id": "jornaldebrasilia",
+        "source_name": "Jornal De Brasília",
+        "source_priority": 1815808,
+        "source_url": "https://jornaldebrasilia.com.br",
+        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -236,329 +408,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "“用于开展 INTA 所特有的不同调查的资源较少”",
-        "description_zh": "农业发展部长哈维尔·罗德里格斯评论说，“预算削减主要体现在项目融资方面......"
+        "title_zh": "尽管最高法院受挫导致效率降低，特朗普仍捍卫关税政策",
+        "description_zh": "美国总统唐纳德·特朗普周二在参加播客《Sid & Friends》的《The Morning》时表示，尽管美国最高法院认为白宫院长去年 4 月征收的关税不合法，但他仍维持关税政策。"
     },
     {
-        "article_id": "5552e5f049e14133de38eda8ce45f889",
-        "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/df/guarde-produto-em-local-seguro-aconselha-padilha-sobre-caso-ype/",
-        "title": "“Guarde produto em local seguro”, aconselha Padilha sobre caso Ypê",
-        "description": "Ministro da Saúde orientou consumidores a não utilizarem itens afetados enquanto empresa conclui recolhimento",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "manuella dal mas"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-11 15:48:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:18:09",
-        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/alexandre-padilha-e1778511710627.jpg?w=1200&h=1200&crop=1",
-        "video_url": null,
-        "source_id": "cnnbrasil_br",
-        "source_name": "Cnn Brasil",
-        "source_priority": 1209,
-        "source_url": "https://www.cnnbrasil.com.br",
-        "source_icon": "https://n.bytvi.com/cnnbrasil_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "关于 Ypê 案例，Padilha 建议“将产品存放在安全的地方”",
-        "description_zh": "卫生部长建议消费者在公司完成召回期间不要使用受影响的物品"
-    },
-    {
-        "article_id": "b633870305e7ebf344afae5f6d22b8d9",
-        "link": "https://www.tribunapr.com.br/noticias/parana/conselho-etica-aprova-pedido-cassacao-deputado-renato-freitas/",
-        "title": "Conselho de Ética aprova pedido de cassação do deputado Renato Freitas",
-        "description": "Em reunião nesta segunda-feira (11/05), o Conselho de Ética da Assembleia Legislativa do Paraná (Alep) aprovou o relatório do deputado [...]",
+        "article_id": "ded4fba68a0039d6e61d1f9d4fd3f60c",
+        "link": "https://periodicolavoz.com.mx/coahuila/acuna/detenido-hombre-por-robo-de-cableado-en-ciudad-acuna/371130",
+        "title": "Detienen a hombre por presunto robo de cableado de alumbrado público en Acuña",
+        "description": "Autoridades aseguran 100 metros de cable eléctrico tras sorprender al sospechoso causando daños al sistema municipal",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "renato freitas",
-            "paraná"
+            "detenido en coahuila",
+            "robo cableado alumbrado p&#250;blico",
+            "seguridad ciudad acu&#241;a",
+            "investigaci&#243;n robo acu&#241;a",
+            "jos&#233; acu&#241;a"
         ],
         "creator": [
-            "barbara schiontek"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-05-11 15:48:38",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 19:18:08",
-        "image_url": "https://www.tribunapr.com.br/wp-content/uploads/2026/05/11153509/52920262054_0929871a72_k.jpg",
-        "video_url": null,
-        "source_id": "tribunapr_br",
-        "source_name": "Tribuna Pr",
-        "source_priority": 1000827,
-        "source_url": "https://www.tribunapr.com.br",
-        "source_icon": "https://n.bytvi.com/tribunapr_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "道德委员会批准弹劾副议员雷纳托·弗雷塔斯的请求",
-        "description_zh": "在本周一（11 月 5 日）的一次会议上，巴拉那州（阿勒颇省）立法议会道德委员会批准了代表的报告 [...]"
-    },
-    {
-        "article_id": "3d017b831db736f91f2489bee51c01c8",
-        "link": "https://flipr.com.ar/nacionales/economia/perfil/la-motosierra-no-para-el-gobierno-recorto-gastos-por-casi-3-billones-en-diferentes-areas/",
-        "title": "La motosierra no para: el Gobierno recortó gastos por casi $3 billones en diferentes áreas",
-        "description": "A través de la Decisión Administrativa 20/2026, el Ejecutivo oficializó una poda histórica que afecta desde tratamientos oncológicos y alfabetización...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "política nacional",
-            "judiciales"
-        ],
-        "creator": [
-            "perfil"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-05-11 15:48:36",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:15:04",
-        "image_url": "https://fotos.perfil.com/2026/01/04/trim/1140/641/040126mileimotosierrapresidenciag-2164186.jpg",
-        "video_url": null,
-        "source_id": "flipr_ar",
-        "source_name": "Flipr.news",
-        "source_priority": 459507,
-        "source_url": "https://flipr.com.ar",
-        "source_icon": "https://n.bytvi.com/flipr_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "电锯不停歇：政府在不同领域削减近30亿美元开支",
-        "description_zh": "通过第 20/2026 号行政决定，行政部门正式宣布了一项历史性的修剪，影响从肿瘤治疗到识字等各个方面......"
-    },
-    {
-        "article_id": "0523ef68affae246909a26341554d808",
-        "link": "https://www.infobae.com/america/agencias/2026/05/11/fremaux-defiende-a-wim-wenders-de-las-criticas-durante-la-berlinale-fue-un-poco-injusto/",
-        "title": "Frémaux defiende a Wim Wenders de las críticas durante la Berlinale: Fue \"un poco injusto\"",
-        "description": "Frémaux defiende a Wim Wenders de las críticas durante la Berlinale: Fue \"un poco injusto\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "efe"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "united states of america",
-            "colombia",
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-11 15:48:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:01:15",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "弗雷莫为维姆·文德斯在柏林电影节期间免受批评辩护：这“有点不公平”",
-        "description_zh": "弗雷莫为维姆·文德斯在柏林电影节期间免受批评辩护：这“有点不公平”"
-    },
-    {
-        "article_id": "83cf6f2b3b1e5874ae32f280e7358d38",
-        "link": "https://www.cnnbrasil.com.br/politica/dino-diz-que-pais-viveria-colapso-jurisdicional-sem-decisoes-monocraticas/",
-        "title": "Dino diz que país viveria “colapso jurisdicional” sem decisões monocráticas",
-        "description": "Em artigo, ministro defendeu importância dos poderes individuais do relator para dar celeridade aos processos que tramitam na Corte",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "gabriela boechat"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-11 15:48:33",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:18:09",
-        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/flavio-dino-plenario.jpg?w=1200&h=1200&crop=1",
-        "video_url": null,
-        "source_id": "cnnbrasil_br",
-        "source_name": "Cnn Brasil",
-        "source_priority": 1209,
-        "source_url": "https://www.cnnbrasil.com.br",
-        "source_icon": "https://n.bytvi.com/cnnbrasil_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "迪诺表示，如果没有专制决策，该国将经历“司法管辖崩溃”",
-        "description_zh": "在一篇文章中，部长捍卫了报告员个人权力对于加快法院处理程序的重要性"
-    },
-    {
-        "article_id": "463e81257915e356c4af1ba8a9cd26af",
-        "link": "https://abcnoticias.mx/nacional/2026/5/11/captan-hijo-de-amlo-visitando-joyeria-de-lujo-en-cancun-281363.html",
-        "title": "Captan a hijo de AMLO visitando joyería de lujo en Cancún",
-        "description": "José Ramón fue captado al lado de su esposa, quien aparentemente estaba probándose algunas joyas.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "video",
-            "cancún",
-            "josé ramón lópez beltrán"
-        ],
-        "creator": [
-            "luis antonio garza"
+            "angel garcia"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-05-11 15:49:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:15:14",
-        "image_url": "https://abcnoticias.mx/u/fotografias/m/2026/5/11/f1280x720-346434_478109_5050.png",
-        "video_url": "https://videos.abcnoticias.mx/out/2026/05/11/12432mp4_.mp4",
-        "source_id": "abcnoticias",
-        "source_name": "Abc Noticias",
-        "source_priority": 300132,
-        "source_url": "https://abcnoticias.mx",
-        "source_icon": "https://n.bytvi.com/abcnoticias.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们拍到 AMLO 的儿子在坎昆参观奢华珠宝",
-        "description_zh": "何塞·拉蒙 (José Ramón) 被发现站在他的妻子旁边，她显然正在试戴一些珠宝。"
-    },
-    {
-        "article_id": "71cfabe4170d395f68119b61ceb4bc9c",
-        "link": "https://www.diariocambio.com.mx/2026/economia/volkswagen-y-audi-pisan-el-acelerador-exportaciones-crecen-63-y-73-en-puebla/",
-        "title": "Volkswagen y Audi pisan el acelerador: exportaciones crecen 63% y 73% en Puebla",
-        "description": "En el primer cuatrimestre de 2026, Volkswagen y Audi, armadoras de autos con plantas en Puebla, registraron un incremento en sus exportaciones, la primera registró un incremento del 63.1 % y la segunda del 73.3%, de acuerdo con el Registro Administrativo de la Industria Automotriz de Vehículos Ligeros (Raiavl), del Inegi. Según datos del Instituto [...] The post Volkswagen y Audi pisan el acelerador: exportaciones crecen 63% y 73% en Puebla appeared first on Diario Cambio .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "incremento",
-            "audi",
-            "exportaciones",
-            "volkswagen"
-        ],
-        "creator": [
-            "eloy linares"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "technology",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-11 15:48:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:10:13",
-        "image_url": "https://www.diariocambio.com.mx/wp-content/uploads/2026/05/Volkswagen-y-Audi-registran-un-63.1-y-73.3-de-incremento-en-exportaciones.webp",
-        "video_url": null,
-        "source_id": "diariocambio",
-        "source_name": "Diariocambio",
-        "source_priority": 137606,
-        "source_url": "https://www.diariocambio.com.mx",
-        "source_icon": "https://n.bytvi.com/diariocambio.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "大众、奥迪踩油门：普埃布拉出口增长63%和73%",
-        "description_zh": "根据轻型汽车汽车行业行政登记处的数据，2026年第一季度，在普埃布拉设有工厂的汽车制造商大众和奥迪的出口量有所增长，第一家增长了63.1%，第二家增长了73.3%。"
-    },
-    {
-        "article_id": "2d31630bdb70458edb61bc9e7a5b9b5e",
-        "link": "https://oem.com.mx/elsoldetoluca/local/vecinos-de-chicoloapan-piden-limpieza-de-canal-rio-manzano-29926378",
-        "title": "Vecinos de Chicoloapan piden limpieza de canal Río Manzano",
-        "description": "Vecinos de la Unidad Habitacional Bonito San Vicente solicitaron la limpieza urgente ante la acumulación de residuos sólidos, el riesgo de inundaciones en la próxima temporada de lluvias y posibles afectaciones a la salud pública",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-11 15:48:52",
+        "pubDate": "2026-05-12 15:58:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 21:15:41",
-        "image_url": "https://oem.com.mx/elsoldetoluca/img/29927028/1778514350/BASE_LANDSCAPE/1200/image.jpg",
+        "fetched_at": "2026-05-12 22:14:50",
+        "image_url": "https://blobcore.periodicolavoz.com.mx/images/2026/05/12/whatsapp-image-2026-05-12-at-153344-59605d19-focus-0-0-608-342.jpg",
         "video_url": null,
-        "source_id": "elsoldetoluca_mx",
-        "source_name": "Elsoldetoluca Mx",
-        "source_priority": 606748,
-        "source_url": "https://www.elsoldetoluca.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldetoluca_mx.jpg",
+        "source_id": "periodicolavoz_mx",
+        "source_name": "Periodicolavoz Mx",
+        "source_priority": 462138,
+        "source_url": "https://periodicolavoz.com.mx",
+        "source_icon": "https://n.bytvi.com/periodicolavoz_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -566,155 +452,24 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "奇科洛阿潘的邻居要求清理里奥曼萨诺运河",
-        "description_zh": "由于固体废物堆积、下一个雨季可能发生洪水的风险以及可能对公众健康造成的影响，博尼托圣维森特住房单元的邻居要求紧急清洁"
+        "title_zh": "男子因涉嫌盗窃阿库尼亚公共照明线路而被捕",
+        "description_zh": "当局在对造成市政系统损坏的嫌疑人进行突击后，保护了 100 米的电缆"
     },
     {
-        "article_id": "052da300608d9d8cdc58b9ae830c70bb",
-        "link": "https://www.infobae.com/america/agencias/2026/05/11/ong-venezolanas-piden-investigacion-con-ayuda-internacional-sobre-muerte-de-preso-politico/",
-        "title": "ONG venezolanas piden investigación con ayuda internacional sobre muerte de preso político",
-        "description": "ONG venezolanas piden investigación con ayuda internacional sobre muerte de preso político",
+        "article_id": "a9b159a818d8abbad6267075d37b9770",
+        "link": "https://www.marca.com/atletismo/2026/05/12/muere-etiope-yebrgual-melese-colapsar-durante-entrenamiento.html",
+        "title": "Muere la etíope Yebrgual Melese tras colapsar durante un entrenamiento",
+        "description": "La fondista, de 36 años, estaba preparando el maratón de Ottawa de finales de mayo",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "efe"
+            "yebrgual",
+            "etíope",
+            "muere",
+            "melese",
+            "colapsar"
         ],
         "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "united states of america",
-            "colombia",
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-11 15:48:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:01:15",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "委内瑞拉非政府组织要求在国际社会的帮助下对一名政治犯的死亡进行调查",
-        "description_zh": "委内瑞拉非政府组织要求在国际社会的帮助下对一名政治犯的死亡进行调查"
-    },
-    {
-        "article_id": "9ffbe84177efd4777eb4c759b2e44819",
-        "link": "https://horacero.com.mx/nacional/sheinbaum-plantea-no-modificar-calendario-escolar",
-        "title": "Sheinbaum plantea no modificar calendario escolar",
-        "description": "Después de que la Secretaría de Educación Pública (SEP) anunció que se recortaría el ciclo escolar al 5 de junio por el calor y el Mundial, la presidenta Claudia Sheinbaum Pardo dijo que \"el planteamiento ahora es que se conserven las seis semanas de vacaciones\". The post Sheinbaum plantea no modificar calendario escolar appeared first on Hora Cero Web .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "principal"
-        ],
-        "creator": [
-            "el universal"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "education",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-11 15:48:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:17:56",
-        "image_url": "https://horacero.com.mx/wp-content/uploads/2026/05/Captura-de-pantalla-2026-05-11-a-las-10.46.43-a.m.webp",
-        "video_url": null,
-        "source_id": "horacero_mx",
-        "source_name": "Horacero Mx",
-        "source_priority": 868697,
-        "source_url": "https://horacero.com.mx",
-        "source_icon": "https://n.bytvi.com/horacero_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "希恩鲍姆建议不要修改校历",
-        "description_zh": "在公共教育部（SEP）宣布因高温和世界杯将学年缩短至 6 月 5 日后，校长克劳迪娅·谢因鲍姆·帕尔多（Claudia Sheinbaum Pardo）表示，“现在的做法是保留六周的假期。” Sheinbaum 的帖子没有提出任何要求"
-    },
-    {
-        "article_id": "0523ef68affae246909a26341554d808",
-        "link": "https://www.infobae.com/america/agencias/2026/05/11/fremaux-defiende-a-wim-wenders-de-las-criticas-durante-la-berlinale-fue-un-poco-injusto/",
-        "title": "Frémaux defiende a Wim Wenders de las críticas durante la Berlinale: Fue \"un poco injusto\"",
-        "description": "Frémaux defiende a Wim Wenders de las críticas durante la Berlinale: Fue \"un poco injusto\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "efe"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "united states of america",
-            "colombia",
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-11 15:48:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:01:15",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "弗雷莫为维姆·文德斯在柏林电影节期间免受批评辩护：这“有点不公平”",
-        "description_zh": "弗雷莫为维姆·文德斯在柏林电影节期间免受批评辩护：这“有点不公平”"
-    },
-    {
-        "article_id": "bbbbaf3f3eabf9b97c32995e46996f07",
-        "link": "https://www.marca.com/futbol/2026/05/11/david-prats-entrenador-ano-doha-bank-stars-league-nivel-subido-qatar.html",
-        "title": "David Prats, entrenador del año de la Doha Bank Stars League: \"El nivel ha subido mucho en Qatar\"",
-        "description": "El técnico del Al-Shamal recibió el reconocimiento tras una temporada histórica",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "prats",
-            "entrenador",
-            "doha",
-            "david",
-            "año"
-        ],
-        "creator": [
-            "daniel garcía"
+            "begoña fleitas"
         ],
         "language": "spanish",
         "country": [
@@ -724,10 +479,10 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-11 15:48:31",
+        "pubDate": "2026-05-12 15:57:58",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:01:48",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/05/11/6a01f265ba86b.jpeg",
+        "fetched_at": "2026-05-12 16:01:10",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/05/12/6a03494a4f979.jpeg",
         "video_url": null,
         "source_id": "marca",
         "source_name": "Marca Claro",
@@ -741,42 +496,45 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "多哈银行明星联赛年度主帅大卫·普拉茨：“卡塔尔的水平提升了很多”",
-        "description_zh": "这位阿尔沙马尔教练在经历了一个历史性的赛季后获得了认可"
+        "title_zh": "埃塞俄比亚选手耶布古尔·梅莱塞在训练中倒地身亡",
+        "description_zh": "这位36岁的长跑运动员正在为5月底的渥太华马拉松做准备"
     },
     {
-        "article_id": "116e16852b375a0a4846c450ba826cf4",
-        "link": "https://www.semana.com/nacion/articulo/sandra-ortiz-acusada-por-el-escandalo-de-corrupcion-en-la-ungrd-quedo-en-libertad-por-vencimiento-de-terminos/202629/",
-        "title": "Sandra Ortiz, acusada por el escándalo de corrupción en la UNGRD, quedó en libertad por vencimiento de términos",
-        "description": "La exconsejera presidencial para las regiones se encuentra privada de su libertad desde el 18 de diciembre de 2024.",
+        "article_id": "2f72fa61d7d461c3d1b3e316ade8544c",
+        "link": "https://www.futboltotal.com.mx/futbol-mexicano/liga-mx/arbitros-designados-para-las-semifinales-pumas-congela-a-santander/2026/05/",
+        "title": "Árbitros designados para las semifinales; Pumas congela a Santander",
+        "description": "Finalmente la Comisión de Árbitros tiene a los designados para las semifinales del torneo Clausura 2026 dentro de la Liguilla en la Liga MX. The post Árbitros designados para las semifinales; Pumas congela a Santander appeared first on Futbol Total: Un juego auténtico lleno de nobleza y emoción. .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "sandra ortiz",
-            "fiscalía general",
-            "ungrd"
+            "liga mx",
+            "chivas",
+            "liguilla",
+            "pachuca",
+            "pumas",
+            "clausura 2026",
+            "cruz azul"
         ],
         "creator": [
-            "redacción semana"
+            "luis esteban lozano"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "mexico"
         ],
         "category": [
-            "politics",
-            "top"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-11 15:48:29",
+        "pubDate": "2026-05-12 15:57:50",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:04:41",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/5OOCUAFUYBBIRGGYD2ERBQJTMA.png?auth=69473a605b78d6e1d3a1a747d8e8a07e7a525e939290ffe22568245a7a88ef10&smart=true&width=1535&height=1024",
+        "fetched_at": "2026-05-12 16:37:24",
+        "image_url": "https://www.futboltotal.com.mx/wp-content/uploads/2026/05/arbitros-designados-para-las-semifinales-pumas-congela-a-santander.jpg",
         "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://n.bytvi.com/semana.png",
+        "source_id": "futboltotal",
+        "source_name": "Futbol Total",
+        "source_priority": 59829,
+        "source_url": "https://www.futboltotal.com.mx",
+        "source_icon": "https://n.bytvi.com/futboltotal.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -784,18 +542,61 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "桑德拉·奥尔蒂斯（Sandra Ortiz）被指控犯有联合国GRD腐败丑闻，因任期届满而被释放",
-        "description_zh": "这位前总统地区顾问自 2024 年 12 月 18 日起被剥夺自由。"
+        "title_zh": "指定半决赛裁判员；美洲狮冻结桑坦德银行",
+        "description_zh": "最后，裁判委员会指定了参加 2026 年墨西哥联赛 Liguilla 联赛半决赛的裁判。半决赛任命的主裁；美洲狮冻结桑坦德足球俱乐部首秀：一场充满高贵和情感的真实比赛"
     },
     {
-        "article_id": "18a51fda7656fc61a0d929d7d3cf7df5",
-        "link": "https://oem.com.mx/diariodexalapa/local/caso-marlon-n-abogado-advierte-que-fallas-en-investigacion-serian-responsabilidad-de-la-fiscalia-29926461",
-        "title": "Fiscalía de Veracruz, entre las peores de México; fallas en caso Marlon N serían su responsabilidad: abogado",
-        "description": "El vicepresidente del Colegio de Abogados Penalistas, Tomás Mundo Arriasa expuso que si Marlon N se encuentra detenido, se debe reunir todo el material de prueba para su condena",
+        "article_id": "f60aea58553be42474fe96c3be0fb2ed",
+        "link": "https://redgol.cl/chile/exdirector-del-ind-se-une-a-olimpiadas-especiales-con-el-objetivo-de-seguir-la-senda-del-deporte-paralimpico",
+        "title": "Exdirector del IND se une a Olimpiadas Especiales con el objetivo de seguir la senda del deporte paralímpico",
+        "description": "Israel Castro busca aplicar su experiencia institucional para impulsar el desarrollo, la profesionalización y la visibilidad de los atletas con discapacidad intelectual. Tras finalizar su gestión al frente del Instituto Nacional de Deportes ( IND ) hace cinco meses, Israel Castro ha asumido un nuevo e importante desafío en el sector de la inclusión, integrándose a las filas de Olimpiadas Especiales. Su incorporación a la organización, que promueve el deporte en personas con discapacidad intelectual, se produce en un momento de creciente atención hacia la diversidad en el ámbito deportivo. Castro llega con la clara aspiración de replicar el camino de éxito que ha experimentado el deporte paralímpico en Chile durante la última década. “ Esperamos seguir el mismo camino del deporte paralímpico”, sostuvo Castro, enfatizando la necesidad de profesionalizar la estructura y asegurar mayor visibilidad y apoyo institucional para los deportistas de Olimpiadas Especiales. Israel Castro aportará toda su experiencia Llega con experiencia a las Olimpiadas Especiales La experiencia administrativa de Castro en el IND se considera un activo fundamental para esta misión, buscando fortalecer la infraestructura de la organización y expandir las oportunidades para miles de atletas, consolidando así el rol de Olimpiadas Especiales en el panorama deportivo nacional. Esta nueva etapa apunta a asegurar que cada atleta cuente con las herramientas para alcanzar su potencial, posicionando a Olimpiadas Especiales no solo como un espacio de competencia, sino como un motor de inclusión a nivel nacional.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "olimpiadas especiales"
+        ],
         "creator": [
-            "estela casados gonzález desaparecidas en veracruz"
+            "felipe escobillana"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:57:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 16:10:46",
+        "image_url": "https://media.redgol.cl/wp-content/uploads/sites/8/2026/05/12115449/israel-castro-ind-e1778601387439-1200x740.jpg",
+        "video_url": null,
+        "source_id": "redgol_cl",
+        "source_name": "Red Gol",
+        "source_priority": 179990,
+        "source_url": "https://redgol.cl",
+        "source_icon": "https://n.bytvi.com/redgol_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "IND前主任加入特奥会，旨在追随残奥运动的道路",
+        "description_zh": "以色列卡斯特罗寻求运用其机构经验来促进智障运动员的发展、专业化和知名度。伊斯雷尔·卡斯特罗在五个月前结束了国家体育学院（IND）院长的任期后，开始了新的任期。"
+    },
+    {
+        "article_id": "f303cdddcce8f944bc8e1aa524f3d88f",
+        "link": "https://www.diariodemorelos.com/noticias/caos-en-cuernavaca-transportistas-colapsan-principales-avenidas-capital",
+        "title": "Caos en Cuernavaca: Transportistas colapsan las principales avenidas de la capital",
+        "description": "Cuernavaca, Morelos.- El corazón de la capital morelense se encuentra paralizado debido a una masiva movilización de transportistas que exigen un ajuste a la tarifa del transporte público, generando un caos vial sin precedentes en las principales arterias de la ciudad. Desde las primeras horas de este martes, decenas de unidades de diversas rutas iniciaron una marcha que ha afectado la movilidad de miles de ciudadanos que intentan cruzar hacia sus centros de trabajo y escuelas. Caravana desde el norte y colapso en Emiliano Zapata El contingente principal de rutas inició su avance desde la zona de Tlaltenango, circulando a paso lento sobre la avenida Emiliano Zapata con dirección al sur. Esta acción ha provocado que la carga vehicular se extienda rápidamente. La fila de unidades y vehículos particulares ya alcanza la colonia Buena Vista, dejando prácticamente varados a los automovilistas que circulan por la zona norte. Elementos de vialidad intentan desviar el tráfico, pero los esfuerzos son insuficientes. Bloqueos estratégicos en Plan de Ayala y el Centro De manera simultánea, otro grupo de manifestantes mantiene bloqueada la avenida Plan de Ayala, una de las vías de comunicación más importantes para conectar el oriente con el centro de Cuernavaca. El cierre de esta arteria ha generado que el tráfico se desborde hacia calles secundarias, las cuales ya se encuentran saturadas. Los usuarios del transporte público se han visto obligados a descender de las unidades para caminar largas distancias. En el Centro Histórico, la concentración mayor se registra en la Plaza General Emiliano Zapata Salazar. Ahí, choferes y líderes transportistas se agrupan para presionar por una respuesta favorable a su solicitud de incremento al costo del pasaje. Exigencias de los transportistas y rutas alternas Los manifestantes sostienen que el costo actual de la tarifa es insostenible debido al incremento en los insumos y el mantenimiento de las unidades. Aseguran que la movilización continuará hasta obtener una mesa de diálogo resolutiva. Si usted tiene que desplazarse hacia el norte o centro de la ciudad, se recomienda evitar las avenidas Emiliano Zapata, Plan de Ayala y Álvaro Obregón. Considere utilizar el Paso Express o vías alternas como la avenida Morelos Sur para evitar quedar atrapado en los bloqueos. Se espera que las afectaciones continúen durante gran parte de la tarde, mientras las unidades permanecen estacionadas en los principales cuadros de la ciudad.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "cuernavaca"
+        ],
+        "creator": [
+            "lizeth bahena"
         ],
         "language": "spanish",
         "country": [
@@ -806,16 +607,16 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-11 15:48:23",
+        "pubDate": "2026-05-12 15:57:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 21:16:30",
-        "image_url": "https://oem.com.mx/diariodexalapa/img/29927089/1778514409/BASE_LANDSCAPE/1200/image.jpg",
+        "fetched_at": "2026-05-12 16:14:42",
+        "image_url": "https://www.diariodemorelos.com/uploads/s1/24/73/30/6/whatsapp-image-2026-05-12-at-9-18-25-am_24_1200x675.jpeg",
         "video_url": null,
-        "source_id": "diariodexalapa",
-        "source_name": "Diariodexalapa",
-        "source_priority": 681835,
-        "source_url": "https://www.diariodexalapa.com.mx",
-        "source_icon": "https://n.bytvi.com/diariodexalapa.png",
+        "source_id": "diariodemorelos",
+        "source_name": "Diario De Morelos",
+        "source_priority": 379718,
+        "source_url": "https://www.diariodemorelos.com",
+        "source_icon": "https://n.bytvi.com/diariodemorelos.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -823,38 +624,221 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "韦拉克鲁斯检察官办公室是墨西哥最差的检察官办公室之一；律师：马龙案失败将由他负责",
-        "description_zh": "刑事律师协会副主席托马斯·蒙多·阿里亚萨表示，如果马龙·N被拘留，必须收集所有证据材料才能对他定罪。"
+        "title_zh": "库埃纳瓦卡的混乱：运输车摧毁了首都的主要街道",
+        "description_zh": "莫雷洛斯州库埃纳瓦卡——由于运输人员大规模动员要求调整公共交通费率，莫雷洛斯州首府市中心陷入瘫痪，导致该市主要干道出现前所未有的道路混乱。从第一个小时开始"
     },
     {
-        "article_id": "7abc3262e29b02340ceeb2eaa6c7b108",
-        "link": "https://mx.investing.com/news/earnings/telos-superaron-007-las-previsiones-de-bpa-en-el-primer-trimestre-del-ano-3609221",
-        "title": "Telos superaron 0.07$ las previsiones de BPA en el primer trimestre del año",
-        "description": "Telos superaron 0.07$ las previsiones de BPA en el primer trimestre del año",
+        "article_id": "a2bd41e68b96ed322f5dbd8850f9febe",
+        "link": "https://www.elpais.com.co/economia/dian-puso-la-lupa-sobre-conjuntos-residenciales-en-colombia-por-uso-de-zonas-comunes-estos-espacios-podrian-pagar-iva-1240.html",
+        "title": "Dian puso la lupa sobre conjuntos residenciales en Colombia por uso de zonas comunes: estos espacios podrían pagar IVA",
+        "description": "Administraciones de edificios deberán reportar ingresos por salones sociales, parqueaderos y gimnasios ante el ente tributario.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "iva",
+            "dian",
+            "conjuntos residenciales",
+            "conjunto residencial",
+            "colombia"
+        ],
+        "creator": [
+            "jesús adolfo chacín silva"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:57:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 16:05:19",
+        "image_url": "https://semana-el-pais-prod.web.arc-cdn.net/resizer/v2/U35UYISFNVF3JLCIQ4EMXABO64.png?auth=2217acfc794b6273e684bb6732418b881ba6912ea7a71c927fcb76fa5c4fb799&smart=true&width=1400&height=900",
+        "video_url": null,
+        "source_id": "elpaiscl",
+        "source_name": "El Pais",
+        "source_priority": 39172,
+        "source_url": "https://www.elpais.com.co",
+        "source_icon": "https://n.bytvi.com/elpaiscl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Dian把放大镜放在哥伦比亚住宅小区公共区域使用上：这些空间可以缴纳增值税",
+        "description_zh": "建筑管理部门必须向税务实体报告社交室、停车场和健身房的收入。"
+    },
+    {
+        "article_id": "980485c1f35fe2fdf5c0a379ce45b435",
+        "link": "https://lavozdesanluis.com.mx/cultura/2026/05/12/anuncian-serie-de-rapido-y-furioso-la-producira-vin-diesel/",
+        "title": "Anuncian serie de ‘Rápido y Furioso’; la producirá Vin Diesel",
+        "description": "La saga Rápido y Furioso saltará a la pantalla chica con una serie que será producida por su protagonista, Vin Diesel Peacock, el servicio de streaming de NBCUniversal, está desarrollando oficialmente una serie basada en la franquicia cinematográfica ‘Rápido y Furioso‘, con Vin Diesel como productor ejecutivo. Diesel hizo el anuncio en una presentación de NBCUniversal celebrada [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:57:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 16:24:38",
+        "image_url": "https://lavozdesanluis.com.mx/wp-content/uploads/2026/05/rapido-y-furioso-9-1068x659.jpg",
+        "video_url": null,
+        "source_id": "lavozdesanluis",
+        "source_name": "La Voz De San Luis",
+        "source_priority": 13853224,
+        "source_url": "https://lavozdesanluis.com.mx",
+        "source_icon": "https://n.bytvi.com/lavozdesanluis.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "《速度与激情》系列宣布；范·迪塞尔将制作它",
+        "description_zh": "《速度与激情》传奇将登陆小银幕，由主角范·迪塞尔·皮科克 (Vin Diesel Peacock) 制作剧集，NBCUniversal 的流媒体服务公司正在正式开发一部基于电影系列《速度与激情》的剧集，由范·迪塞尔担任专业演员"
+    },
+    {
+        "article_id": "ffb42255023804006f9b39e25a4ea8f4",
+        "link": "https://www.infobae.com/mexico/2026/05/12/mexicano-finaliza-entre-los-16-mejores-del-mundial-de-squash-2026/",
+        "title": "Mexicano finaliza entre los 16 mejores del Mundial de Squash 2026",
+        "description": "Tras su participación mundialista, Cárdenas competirá en el Abierto Británico en Inglaterra",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "egipto",
+            "giza",
+            "mexico-noticias",
+            "mexico-deportes",
+            "atletas mexicanos"
+        ],
         "creator": [
-            "investing.com"
+            "alexander ortiz"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "mexico",
+            "united states of america",
+            "argentina"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-12 15:57:25",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 16:00:33",
+        "image_url": "https://www.infobae.com/resizer/v2/DBDVYXRAY5CERPVERQCVH6WIAY.jpg?auth=02e6a788560b36966c1c88156ada35afcbde2d3201101d336b1b2ad9cb1da1fe&smart=true&width=1000&height=546",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "墨西哥队在 2026 年壁球世界杯上跻身前 16 名",
+        "description_zh": "参加世界杯后，卡德纳斯将参加在英格兰举行的英国公开赛"
+    },
+    {
+        "article_id": "a0b21be0e96143031a09ed4e0a796065",
+        "link": "https://www.infobae.com/colombia/deportes/2026/05/12/james-rodriguez-recibio-fuertes-criticas-tras-su-paso-por-el-minnesota-united-este-fichaje-fue-extrano/",
+        "title": "James Rodríguez recibió fuertes críticas tras su paso por el Minnesota United: “Este fichaje fue extraño”",
+        "description": "En su más reciente partido destacado, el ‘10’ ingresó como suplente y rescató un empate para Minnesota United frente al Austin FC, reforzando su papel útil antes de priorizar el reto mundialista con la selección Colombia",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mundial 2026",
+            "minnesota united",
+            "mls",
+            "selección colombia",
+            "colombia-deportes",
+            "james rodríguez"
+        ],
+        "creator": [
+            "carlos pulido"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "mexico",
+            "united states of america",
+            "argentina"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-05-12 15:57:20",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-12 16:00:33",
+        "image_url": "https://www.infobae.com/resizer/v2/BACBSGD2CFCLPI6LZZMPZETYMM.JPG?auth=057cac4c31a923a662a702b5b84c20bcd51bd90b4a01f4579ef871da04ac56b3&smart=true&width=4643&height=3096",
+        "video_url": "https://cdn.jwplayer.com/videos/5rLDFeVm-cRfOFDLx.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "詹姆斯·罗德里格斯在明尼苏达联队效力后受到强烈批评：“这笔签约很奇怪”",
+        "description_zh": "在他最近一场引人注目的比赛中，“10”作为替补登场，帮助明尼苏达联队战平奥斯汀足球俱乐部，在优先考虑与哥伦比亚队的世界杯挑战之前，加强了他的有用作用。"
+    },
+    {
+        "article_id": "58f062fa173eae61c1985d4d01089fec",
+        "link": "https://eltiempomx.com/noticia/2026/estudiantes-de-enfermeria-llevan-feria-de-salud-a-la-plaza-principal-de-monclova.html",
+        "title": "Estudiantes de enfermería llevan feria de salud a la plaza principal de Monclova",
+        "description": "420 estudiantes llevan a cabo ese evento de atención a ciudadanos en general. Como parte de las actividades por el Día del Enfermero, estudiantes de la Escuela de Enfermería de la Cruz Roja Mexicana en Monclova realizaron este martes una feria de salud en la plaza principal de la ciudad, dond...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "monclova",
+            "el tiempo de monclova",
+            "periódico monclova",
+            "feria de salud"
+        ],
+        "creator": [
+            "el tiempo de monclova"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "business",
-            "top"
+            "top",
+            "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-11 15:48:23",
+        "pubDate": "2026-05-12 15:57:19",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-11 16:03:45",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_L.jpg",
+        "fetched_at": "2026-05-12 16:18:04",
+        "image_url": "https://eltiempomx.com/monclova/2026/05/6a034de71d527.jpg",
         "video_url": null,
-        "source_id": "investing_mx",
-        "source_name": "Investing México",
-        "source_priority": 1205,
-        "source_url": "https://mx.investing.com",
-        "source_icon": "https://n.bytvi.com/investing_mx.png",
+        "source_id": "eltiempomonclova_mx",
+        "source_name": "El Tiempo - Coahuila México",
+        "source_priority": 1168091,
+        "source_url": "https://eltiempomonclova.mx",
+        "source_icon": "https://n.bytvi.com/eltiempomonclova_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -862,7 +846,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Telos 今年第一季度每股收益超出预期 0.07 美元",
-        "description_zh": "Telos 今年第一季度每股收益超出预期 0.07 美元"
+        "title_zh": "护理专业学生在蒙克洛瓦主广场举办健康博览会",
+        "description_zh": "420名学生开展这项活动，为广大市民服务。作为护士节活动的一部分，蒙克洛瓦墨西哥红十字护理学校的学生于本周二在该市的主广场举办了一场健康博览会，其中......"
     }
 ]
