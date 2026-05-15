@@ -1,37 +1,39 @@
 [
     {
-        "article_id": "e90717d3f4a95db8fd956428c067225c",
-        "link": "https://www.em.com.br/cultura/2026/05/7418875-poetando-livro-de-poesia-erotica-em-formato-de-baralho-chega-ao-mercado.html",
-        "title": "'Poetando': livro de poesia erótica em formato de baralho chega ao mercado",
-        "description": "Obra colecionável une fetiche e literatura com traços sutis e elegantes; livro dos autores Chris Fernandes e Luiz Barros será lançado no Rio",
+        "article_id": "b6a29f4521288506f9e0f83c9494c878",
+        "link": "https://www.mdzol.com/policiales/godoy-cruz-delincuentes-armados-asaltaron-una-chica-una-parada-micro-n1520153",
+        "title": "Godoy Cruz: delincuentes armados asaltaron a una chica en una parada de micro",
+        "description": "La joven fue sorprendida mientras aguardaba el micro en una parada en Godoy Cruz. Los asaltantes la amenazaron con un arma de fuego y escaparon con el teléfono.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "literatura",
-            "cultura",
-            "livros"
+            "robaron",
+            "godoy cruz",
+            "robo",
+            "asalto",
+            "arma de fuego"
         ],
         "creator": [
-            "maria dulce miranda"
+            "mdz policiales"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "argentina"
         ],
         "category": [
             "top",
-            "entertainment"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-13 15:57:00",
+        "pubDate": "2026-05-14 16:01:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 19:12:18",
-        "image_url": "https://midias.em.com.br/_midias/jpg/2026/05/13/1200x720/1_7418875-105746ab2ed44a3a8803328bbec41197-66611337.jpeg?20260513155623?20260513155623",
+        "fetched_at": "2026-05-14 16:31:45",
+        "image_url": "https://media.mdzol.com/p/40b5e21f35a070246d94ab67a6aeb09f/adjuntos/373/imagenes/001/505/0001505506/1200x675/797x308:817x328/policia-mendozajpg.jpg",
         "video_url": null,
-        "source_id": "estadodeminas",
-        "source_name": "Jornal Estado De Minas",
-        "source_priority": 6179,
-        "source_url": "https://www.em.com.br",
-        "source_icon": "https://n.bytvi.com/estadodeminas.png",
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://n.bytvi.com/mdzol.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -39,43 +41,59 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "《Poetando》：扑克牌形式的情色诗集上市",
-        "description_zh": "具有收藏价值的作品以微妙而优雅的线条将恋物与文学融为一体；作者克里斯·费尔南德斯和路易斯·巴罗斯的书将在里约发行"
+        "title_zh": "戈多伊·克鲁兹：武装犯罪分子在公交车站袭击了一名女孩",
+        "description_zh": "这位年轻女子在戈多伊克鲁斯的一个车站等公共汽车时感到很惊讶。袭击者用枪威胁她，然后带着手机逃跑了。"
     },
     {
-        "article_id": "7885dd52846cb83b0595840b5ca6910d",
-        "link": "https://www.correiobraziliense.com.br/politica/2026/05/7418656-relator-na-ccj-da-aval-a-benedito-goncalves-como-corregedor-do-cnj.html",
-        "title": "Relator na CCJ dá aval a Benedito Gonçalves como corregedor do CNJ",
-        "description": "Ministro do STJ deverá ser sabatinado na próxima semana pela comissão antes de ter o nome analisado pelo Plenário do Senado",
+        "article_id": "c52f3271f1df382b5a2cfd7c8eabfd67",
+        "link": "https://www.dgabc.com.br/Noticia/4319200/grupo-dedica-espetaculo-coral-a-obra-de-cartola-no-teatro-baccarelli",
+        "title": "Grupo dedica espetáculo coral à obra de Cartola no Teatro Baccarelli",
+        "description": "Apresentação no domingo (17), às 11h, marca a primeira vez que o coletivo homenageia um único compositor; repertório traz clássicos com arranjos exclusivos e uma canção inédita",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "stj",
-            "tse",
-            "corregedoria",
-            "politics"
+            "grande abc",
+            "setecidades",
+            "portal",
+            "teatro baccarelli",
+            "notícias",
+            "política",
+            "economia",
+            "noticias on line abc",
+            "dgabc",
+            "diário",
+            "esportes",
+            "santo andré",
+            "on line",
+            "noticia",
+            "são bernardo",
+            "ribeirão pires",
+            "rio grande da serra",
+            "nacional",
+            "d+",
+            "internacional"
         ],
         "creator": [
-            "alícia bernardes"
+            "do diário do grande abc"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "politics",
+            "lifestyle",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-13 15:57:00",
+        "pubDate": "2026-05-14 16:01:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 17:22:49",
-        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2024/09/25/7698-40232177.jpg",
+        "fetched_at": "2026-05-14 17:21:12",
+        "image_url": null,
         "video_url": null,
-        "source_id": "correiobraziliense",
-        "source_name": "Correio Braziliense",
-        "source_priority": 267296,
-        "source_url": "https://www.correiobraziliense.com.br",
-        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://n.bytvi.com/dgabc.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -83,25 +101,105 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "CCJ 报告员认可 Benedito Gonçalves 担任 CNJ 检查员",
-        "description_zh": "STJ部长应该在下周接受委员会的质询，然后参议院全体会议才会对他的名字进行分析"
+        "title_zh": "团体在巴卡莱利剧院为卡托拉的作品献上合唱表演",
+        "description_zh": "周日（17 日）上午 11 点的演出标志着该集体首次向单一作曲家致敬；曲目包括经过独家编排的经典曲目和一首新歌"
     },
     {
-        "article_id": "e30fee61b8a87b5f21b1b90731eb2649",
-        "link": "https://www.perfil.com/noticias/economia/caen-los-activos-argentinos-y-el-riesgo-pais-sigue-arriba-de-los-500-puntos-basicos-a40.phtml",
-        "title": "Caen los activos argentinos mientras que el riesgo país sigue arriba de los 500 puntos básicos",
-        "description": "Los ADR y los bonos argentinos operan en baja este miércoles, mientras el riesgo país se mantiene en 510 puntos básicos. El mercado sigue de cerca la inminente reunión entre Donald Trump y Xi Jinping. El petróleo, roza los u$s 110. Leer más",
+        "article_id": "60c6e160b0f3ea023ea2752de0afaf83",
+        "link": "https://br.investing.com/analysis/acao-barata-e-esquecida-por-que-valid-vlid3-e-a-nova-aposta-200477203",
+        "title": "Ação barata e esquecida: Por que Valid (VLID3) é a nova aposta?",
+        "description": "Análises do Mercado por abrangendo: Valid Soluções SA. Leia as Análises do Mercado de no Investing.com.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "dólar",
-            "acciones",
-            "bonos",
-            "riesgo país",
-            "wall street",
-            "mercados"
+            "valid soluções sa"
         ],
         "creator": [
-            "federico nagierner"
+            "investing.com"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "analysis",
+        "pubDate": "2026-05-14 16:01:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 16:07:05",
+        "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+        "video_url": null,
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "廉价且被遗忘的股票：为什么 Valid (VLID3) 是新的赌注？",
+        "description_zh": "市场分析涵盖：Valid Soluções SA。阅读 Investing.com 的市场分析。"
+    },
+    {
+        "article_id": "c6d784d7d26e17c6ee3523cad2b20c2a",
+        "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/blogs/maternar/2026/05/deixem-as-maes-atipicas-em-paz.shtml",
+        "title": "Deixem as mães atípicas em paz",
+        "description": "Anos depois da decisão de se separarem, muitas mulheres seguem aprisionadas por um sentimento avassalador de exaustão diante da necessidade de interagir com o genitor de seus filhos. O mesmo que sentiram levando uma vida sozinha a dois. Mas agora com plateia e palpiteiros de plantão. E advogados aguardando um deslize para condená-las como péssimas mães. Leia mais (05/14/2026 - 13h01)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "domestic"
+        ],
+        "datatype": "blog",
+        "pubDate": "2026-05-14 16:01:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 16:32:57",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "远离非典型母亲",
+        "description_zh": "在决定分居多年后，由于需要与孩子的父亲互动，许多女性仍然陷入压倒性的疲惫感之中。他们作为夫妻独自生活也有同样的感受。但现在有观众和猜测者值班。还有律师"
+    },
+    {
+        "article_id": "2ac95f644856540d59e4f8f76ed5c4bf",
+        "link": "https://www.lagaceta.com.ar/nota/1136807/politica/hay-gas-unos-cinco-millones-metros-cubicos-aseguro-abad-tras-reunion-nacion.html",
+        "title": "\"Hay gas, unos cinco millones de metros cúbicos\", aseguró Abad tras la reunión con Nación",
+        "description": "Funcionarios provinciales y representantes de los sectores azucarero y citrícola mantuvieron reuniones con la titular de Energía, ante la preocupación por cortes para las plantas agroindustriales del norte.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "118635",
+            "jorge feijóo",
+            "tucumán",
+            "buenos aires",
+            "gobierno provincial",
+            "secretaria de energía de la nación",
+            "osvaldo jaldo",
+            "compañía azucarera los balcanes",
+            "eduardo castro",
+            "daniel abad"
+        ],
+        "creator": [
+            "luis duarte"
         ],
         "language": "spanish",
         "country": [
@@ -112,16 +210,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-13 15:57:00",
+        "pubDate": "2026-05-14 16:01:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:37:33",
-        "image_url": "https://fotos.perfil.com/2026/04/13/trim/540/304/mercados-financieros-13042026-2219364.jpg",
+        "fetched_at": "2026-05-14 19:18:10",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/05/14/osvaldo-jaldo-daniel-abad-comunicacin-pblica-1136807-160009.jpg",
         "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
+        "source_id": "lagaceta_ar",
+        "source_name": "Lagaceta",
+        "source_priority": 975335,
+        "source_url": "https://www.lagaceta.com.ar",
+        "source_icon": "https://n.bytvi.com/LaGaceta_Ar.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -129,14 +227,96 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿根廷资产下跌，国家风险仍高于500个基点",
-        "description_zh": "美国存托凭证和阿根廷债券本周三走低，而国家风险仍维持在 510 个基点。市场密切关注唐纳德·特朗普和习近平即将举行的会面。油价接近110美元。阅读更多"
+        "title_zh": "阿巴德在与国家会议后表示：“有天然气，大约有五百万立方米。”",
+        "description_zh": "由于担心北部农工业工厂的削减，省级官员以及糖和柑橘行业的代表与能源负责人举行了会议。"
     },
     {
-        "article_id": "72c81af7581e46489209e7561ab53f57",
-        "link": "https://www.folhavitoria.com.br/folha-business/brazilian-regional-markets-evento-em-ny-debate-o-papel-da-genetica-no-futuro-do-agronegocio-brasileiro/",
-        "title": "Brazilian Regional Markets: evento em NY debate o papel da genética no futuro do agronegócio brasileiro",
-        "description": "O Brasil planta hoje 2,5 vezes mais soja que a Argentina e 40% mais que os Estados Unidos. Não foi sempre assim. Quando as primeiras pesquisas de melhoramento genético chegaram ao cerrado brasileiro, a área plantada era semelhante à da Argentina e quase metade da americana. A virada aconteceu a base de tecnologia, conhecimento e [...]",
+        "article_id": "2898ed52911852a92b6de1661672fe2e",
+        "link": "https://www.diarioregistrado.com/deportes/azzaro-se-encolumno-detras-de-las-protestas-de-milito-contra-la-afa---aca-tenes-un-soldado--a-morir-_a6a05ee6c5c28641161ac3743",
+        "title": "Azzaro se encolumnó detrás de las protestas de Milito contra la AFA: “Acá tenés un soldado, a morir”",
+        "description": "Los hinchas de Racing están en llamas por el arbitraje en el Gigante de Arroyito y uno de sus hinchas más conocidos se sumó al enojo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "azzaro",
+            "afa",
+            "racing",
+            "flavio azzaro",
+            "milito"
+        ],
+        "creator": [
+            "diario registrado"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-14 16:00:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 16:07:35",
+        "image_url": "https://diario-assets.tadevel-cdn.com/6a05ee9f5c28641161ac3af7/720.jpeg",
+        "video_url": null,
+        "source_id": "diarioregistrado",
+        "source_name": "Diario Registrado",
+        "source_priority": 75621,
+        "source_url": "https://www.diarioregistrado.com",
+        "source_icon": "https://n.bytvi.com/diarioregistrado.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "阿扎罗支持米利托对AFA的抗议：“这里有一名士兵，让我们去死吧”",
+        "description_zh": "赛车迷们对阿罗伊托巨人球场的裁判感到愤怒，他们最知名的球迷之一也加入了愤怒的行列。"
+    },
+    {
+        "article_id": "248884a0d1553a6c4f415591200c1143",
+        "link": "https://g1.globo.com/mundo/noticia/2026/05/14/ira-nao-recebeu-vistos-para-copa-nos-eua-diz-federacao.ghtml",
+        "title": "Irã ainda não recebeu vistos para disputar Copa do Mundo nos EUA, diz federação",
+        "description": "A equipe masculina de futebol do Irã comemora a classificação para a Copa do Mundo 2026, após empatar com o Uzbequistão, em março do ano passado Getty Images via BBC O presidente da Federação Iraniana de Futebol, Mehdi Taj, declarou nesta quinta-feira (14) que o país ainda não recebeu os vistos para que a seleção viaje aos Estados Unidos e dispute a Copa do Mundo de 2026. A participação do Irã no torneio, que acontecerá de 11 de junho a 19 de julho, segue marcada pela incerteza desde o início da guerra no Oriente Médio, no fim de fevereiro, após os ataques lançados por Israel e Estados Unidos contra a República Islâmica. \"Amanhã, ou depois de amanhã, teremos uma reunião decisiva com a Fifa. Ela deve nos apresentar garantias, porque o problema dos vistos continua sem solução\", disse Taj, citado pela agência Irna. Copa do Mundo: como estão os preparativos para os EUA receberem a seleção do Irã? O presidente da Fifa, Gianni Infantino, reiterou que o Irã disputará suas partidas da Copa do Mundo nos Estados Unidos, como ficou estabelecido no sorteio do torneio, que também será disputado no Canadá e no México. \"Não recebemos nenhuma informação da outra parte sobre quem obteve vistos. Os vistos ainda não foram emitidos\", acrescentou Taj. Irã enfrenta Coreia do Norte nas Eliminatórias da Copa do Mundo da Fifa, em junho de 2025. Majid Asgaripour/WANA (West Asia News Agency) Teerã e Washington não mantêm relações diplomáticas desde 1980, após a crise dos reféns na embaixada americana. Segundo o presidente da federação, os jogadores precisam viajar até a capital da Turquia, Ancara, para que suas impressões digitais sejam recolhidas como parte do procedimento de concessão dos vistos. \"Nós não temos nada a ver com os Estados Unidos. Nos classificamos para a Copa do Mundo e é a FIFA que deve organizá-la\", declarou. O Irã organizou uma cerimônia de despedida na quarta-feira (13) para a seleção nacional de futebol, antes da viagem para a Copa do Mundo de 2026. O 'Team Melli', que terá sua base de treinamento em Tucson, no Arizona, enfrentará Nova Zelândia, Bélgica e Egito no Grupo G da primeira fase da Copa. Vídeos em alta no g1",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-14 16:00:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 16:33:21",
+        "image_url": "https://s2-g1.glbimg.com/g3QaL3-Clb8wQxXcqJQsZ2I1mL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/h/Nm97olQWG9BHtyL3ZpHw/2026-03-02t121613z-1057416376-rc2xzeaxohe7-rtrmadp-3-iran-crisis-soccer-worldcup.jpg",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "足协表示，伊朗尚未获得参加美国世界杯的签证",
+        "description_zh": "伊朗男足在去年 3 月与乌兹别克斯坦战平后，庆祝获得 2026 年世界杯参赛资格 盖蒂图片社 BBC 报道 伊朗足协主席迈赫迪·塔吉本周四（14 日）宣布，该国尚未获得世界杯参赛资格。"
+    },
+    {
+        "article_id": "79cf8c33f2e371805d0940c70e16a57b",
+        "link": "https://www.folhavitoria.com.br/folha-business/es-gas-testa-gas-natural-na-secagem-de-cafe-conilon-no-espirito-santo/",
+        "title": "ES Gás testa gás natural na secagem de café conilon no Espírito Santo",
+        "description": "Projeto de R$ 1,1 mi começa em maio, em Linhares, com aprovação da agência reguladora estadual A ES Gás vai testar o uso de gás natural no processo de secagem de café conilon durante a safra que começa neste mês de maio. Os testes ocorrerão na Fazenda Chapadão, em Linhares, propriedade do produtor Eduardo Bortolini, [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
             "coluna agro business"
@@ -153,10 +333,10 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-13 15:56:57",
+        "pubDate": "2026-05-14 16:00:41",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:09:46",
-        "image_url": "https://uploads.folhavitoria.com.br/imagens/2026/05/PHOTO-2026-05-13-12-56-07.jpg",
+        "fetched_at": "2026-05-14 16:09:00",
+        "image_url": "https://uploads.folhavitoria.com.br/imagens/2026/05/dd26edbb-d452-4ee6-8faf-35a8aa2641f2.jpeg",
         "video_url": null,
         "source_id": "folhavitoria_br",
         "source_name": "Folha Vitória",
@@ -170,264 +350,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "巴西区域市场：纽约举办的活动讨论遗传学在巴西农业企业未来中的作用",
-        "description_zh": "巴西目前的大豆种植面积是阿根廷的 2.5 倍，是美国的 40%。事情并不总是这样。当第一个基因改良研究到达巴西稀树草原时，种植面积与阿根廷相似，几乎是美国的一半。转折点来了"
+        "title_zh": "ES Gás 在圣埃斯皮里图州测试天然气干燥 Conilon 咖啡",
+        "description_zh": "经国家监管机构批准，耗资 110 万雷亚尔的项目于 5 月在利尼亚雷斯启动，ES Gás 将在今年 5 月开始的收获期间测试在科尼隆咖啡干燥过程中使用天然气的情况。测试将在利尼亚雷斯 (Linhares) 的 Fazenda Chapadão 进行，该庄园的所有者是"
     },
     {
-        "article_id": "a8460f4c52716752993912630c3104f2",
-        "link": "https://valor.globo.com/brasil/summit-brazil-usa/noticia/2026/05/13/juros-altos-sao-principal-entrave-ao-empreendedorismo-diz-benchimol.ghtml",
-        "title": "Juros altos são principal entrave ao empreendedorismo, diz Benchimol",
-        "description": "Juros historicamente altos são o principal entrave...",
+        "article_id": "164582347e0ff9375dd84deee977ff10",
+        "link": "https://www.eldiario24.com/politica/2026/05/14/descreimiento-argentino/",
+        "title": "Décadas de promesas rotas convirtieron el descreimiento en el estado natural del ciudadano argentino",
+        "description": "En Argentina, la pregunta ya no es si los políticos van a cumplir sus promesas. Es si tiene algún sentido seguir escuchándolas. Durante más de dos décadas, escándalos de corrupción, devaluaciones de la palabra y amnesias post-electorales fueron sedimentando algo difícil de revertir: un escepticismo que dejó de ser postura intelectual para volverse reflejo cotidiano. [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "finanças públicas",
-            "xp inc.",
-            "plano real",
-            "guilherme benchimol",
-            "empreendedorismo",
-            "brasil",
-            "taxa selic"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 19:05:47",
-        "image_url": "https://s2-valor.glbimg.com/YOG5dXnEYuq58hvDxG67R2u5Tp0=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/T/m/V4WkfnRAAeUv7bJO0vqw/sum30.jpeg",
-        "video_url": null,
-        "source_id": "valor_globo",
-        "source_name": "Valor Globo",
-        "source_priority": 2786,
-        "source_url": "https://valor.globo.com",
-        "source_icon": "https://n.bytvi.com/valor_globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Benchimol 表示，高利率是创业的主要障碍",
-        "description_zh": "历史上的高利率是主要障碍......"
-    },
-    {
-        "article_id": "c73c961d21cdea1ccf193d95383d0cf5",
-        "link": "https://www.infobae.com/estados-unidos/2026/05/13/entregan-aires-acondicionados-gratis-en-nueva-york-quienes-pueden-acceder-y-como-hacerlo/",
-        "title": "Entregan aires acondicionados gratis en Nueva York: quiénes pueden acceder y cómo hacerlo",
-        "description": "Las altas temperaturas registradas en la ciudad impulsaron medidas excepcionales por parte de las autoridades, que buscan mitigar los efectos del clima extremo entre los sectores más afectados por la ola de calor",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cooling assistance benefit",
-            "olas de calor",
-            "vulnerabilidad social",
-            "estados unidos",
-            "nueva york",
-            "estados unidos noticias"
+            "argentino",
+            "descreimiento"
         ],
         "creator": [
-            "luciana rivera"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "argentina",
-            "colombia",
-            "mexico"
-        ],
-        "category": [
-            "technology",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:01:24",
-        "image_url": "https://www.infobae.com/resizer/v2/3HYIG7GPCJAWNBDB4U4AUBHXFA.png?auth=87eaa158cc527cda5e277bf2fc27c57baedf04f195e2f50fd1e161557b5bd2cb&smart=true&width=2752&height=1536",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们在纽约提供免费空调：谁可以使用以及如何使用",
-        "description_zh": "该市的高温促使当局采取特殊措施，试图减轻极端天气对受热浪影响最严重的部门的影响。"
-    },
-    {
-        "article_id": "da1eab322a5e8935577aa109bec2c21c",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/05/13/assalto-onibus-turismo-linha-vermelha.ghtml",
-        "title": "Passageiro tem cinzas da mãe roubadas em assalto a ônibus na Linha Vermelha",
-        "description": "Passageiro tem cinzas da mãe roubadas em assalto a ônibus na Linha Vermelha Passageiros de um ônibus de turismo foram assaltados na Linha Vermelha, na altura de São João de Meriti, no sábado (9). Três criminosos armados invadiram o coletivo armados com pistolas e fuzis. Entre os pertences levados estava a mochila com as cinzas da mãe de um dos passageiros. O ônibus fazia o trajeto entre São José dos Campos, em São Paulo, e a Região dos Lagos, no Rio. Imagens de câmeras de segurança mostram o momento em que os criminosos rendem o coletivo. Enquanto dois assaltantes entraram no ônibus, um terceiro ficou do lado de fora armado com um fuzil dando cobertura à ação. Depois do roubo, os criminosos fugiram levando também a chave do ônibus. O motorista também teve os pertences roubados. Uma das vítimas contou que acordou assustada com a invasão dos bandidos. Passageiro tem cinzas da mãe roubadas em assalto a ônibus na Linha Vermelha Reprodução/TV Globo “Eu acordei no susto, já tinham dois caras dentro do ônibus. Caras completamente armados, com arma na mão e o rosto coberto para não serem identificados. Já pedindo dinheiro”, relatou. Segundo o passageiro, uma das vítimas teve uma arma apontada para a cabeça porque não conseguia abrir a pochete para entregar os pertences. “O cara botou a arma na cabeça dele. Foi nesse nível”, disse. 🟩O g1 Rio está no GloboPop, o novo aplicativo de vídeos curtos verticais da Globo, disponível gratuitamente no seu celular. Lá no app, você pode seguir o palco do g1 Rio para não perder nenhum episódio. Baixe o GloboPop. O passageiro também contou que um homem que viajava no ônibus levava as cinzas da mãe para Arraial do Cabo e teve a mochila roubada durante o assalto. “Foi um momento de muito terror”, afirmou. Dados do Instituto de Segurança Pública (ISP) mostram que a região registrou aumento de 200% nos roubos e assaltos a ônibus em relação ao ano anterior.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:35:12",
-        "image_url": "https://s2-g1.glbimg.com/HjRZ9ZDsWn4EliFNWQNLIJUhXL4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/y/ue98h2TUCzgRwxrsqR4A/rj1-limpo-20260513-1115-frame-97536.jpeg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "红线公交车遭抢劫 乘客母亲骨灰被盗",
-        "description_zh": "乘客母亲的骨灰在红线巴士抢劫中被盗周六（9），一辆旅游巴士上的乘客在圣若昂德梅里蒂附近的红线上被抢劫。三名武装犯罪分子手持手枪和步枪闯入集体。随身物品之中"
-    },
-    {
-        "article_id": "4125894e00cf24f2b6055e055714c174",
-        "link": "https://catracalivre.com.br/noticias/como-clarear-roupas-brancas-naturalmente-sem-agua-sanitaria/",
-        "title": "Como clarear roupas brancas naturalmente sem água sanitária",
-        "description": "Bicarbonato, vinagre e limão podem ajudar a clarear roupas brancas sem agredir o tecido. Veja como usar cada ingrediente. O post Como clarear roupas brancas naturalmente sem água sanitária apareceu primeiro em Catraca Livre .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "truque caseiro",
-            "lavar roupas brancas",
-            "lavagem"
-        ],
-        "creator": [
-            "tamiles santos brito"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:41",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:05:02",
-        "image_url": "https://catracalivre.com.br/wp-content/uploads/2026/05/magnific-camiseta-branca-limpa-pen-2971232290.jpg",
-        "video_url": null,
-        "source_id": "catracalivre_br",
-        "source_name": "Catraca Livre",
-        "source_priority": 20092,
-        "source_url": "https://catracalivre.com.br",
-        "source_icon": "https://n.bytvi.com/catracalivre_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "如何不用漂白剂自然美白白色衣服",
-        "description_zh": "碳酸氢盐、醋和柠檬可以帮助增白白色衣服而不损坏织物。了解如何使用每种成分。如何在不使用漂白剂的情况下自然美白白色衣服的帖子首先出现在 Catraca Livre 上。"
-    },
-    {
-        "article_id": "4fa15c45f8cbdfe458fafe9f08588f06",
-        "link": "https://www.infobae.com/colombia/2026/05/13/video-muestra-la-persecucion-y-captura-de-colombiano-con-amplio-prontuario-en-buenos-aires-registrada-por-un-oficial-desde-su-casco/",
-        "title": "En video quedó la impresionante persecución y captura de un colombiano en Buenos Aires: habría estado involucrado en un robo",
-        "description": "El jefe de gobierno de la Ciudad de Buenos Aires, Jorge Macri, pidió la expulsión del connacional",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "captura motoladrón colombiano",
-            "video de persecución",
-            "argentina",
-            "colombia-noticias",
-            "buenos aires"
-        ],
-        "creator": [
-            "sebastián vargas rueda"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "argentina",
-            "colombia",
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-05-13 15:56:36",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:01:24",
-        "image_url": "https://www.infobae.com/resizer/v2/JE25YJV3HRGZNPNMTYZYLPJBAE.jpg?auth=2f3e5e0ccd318335866b5b9f74319dfccfbc19d319be64d9fb29e335d965aa3e&smart=true&width=1890&height=1063",
-        "video_url": "https://cdn.jwplayer.com/videos/b9EWSpgA-7njfJk2Q.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "一名哥伦比亚人在布宜诺斯艾利斯遭受迫害和被捕的令人印象深刻的视频被记录下来：他可能参与了抢劫",
-        "description_zh": "布宜诺斯艾利斯市政府首脑豪尔赫·马克里要求驱逐这名同胞"
-    },
-    {
-        "article_id": "33c3fee7eb8fdca30048c03630b72cf9",
-        "link": "https://www.rionegro.com.ar/sociedad/protocolo-invierno-2026-en-la-patagonia-vialidad-nacional-presento-el-plan-de-mantenimiento-de-casi-8000-kilometros-de-rutas-4572851/",
-        "title": "Protocolo invierno 2026 en la Patagonia: Vialidad Nacional presentó el plan de mantenimiento de casi 8000 kilómetros de rutas",
-        "description": "Inicia el despliegue sobre los caminos para la época más fría del año. Incluyen tareas como despeje de nieve y riego con solución salina.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "neuquén",
-            "vialidad nacional",
-            "rutas",
-            "río negro"
-        ],
-        "creator": [
-            "redacción"
+            "redacción d. g."
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "business",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-13 15:56:32",
+        "pubDate": "2026-05-14 16:00:35",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:13:10",
-        "image_url": "https://www.rionegro.com.ar/wp-content/uploads/2026/05/vialidad-.jpg?w=1200&h=630&crop=1&resize=1200,630",
+        "fetched_at": "2026-05-14 16:04:21",
+        "image_url": "https://www.eldiario24.com/wp-content/uploads/2026/05/sasha-make-stories-studio-VynkVKneWJA-unsplash-1.jpg",
         "video_url": null,
-        "source_id": "rionegro",
-        "source_name": "Diario Río Negro",
-        "source_priority": 337049,
-        "source_url": "https://www.rionegro.com.ar",
-        "source_icon": "https://n.bytvi.com/rionegro.png",
+        "source_id": "eldiario24",
+        "source_name": "Inicio - El Diario 24",
+        "source_priority": 16314,
+        "source_url": "https://www.eldiario24.com",
+        "source_icon": "https://n.bytvi.com/eldiario24.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -435,17 +392,404 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "巴塔哥尼亚 2026 年冬季协议：国家公路局提出了近 8,000 公里路线的维护计划",
-        "description_zh": "道路上的部署从一年中最冷的时候开始。其中包括除雪和盐水灌溉等任务。"
+        "title_zh": "数十年的违背承诺让阿根廷公民自然而然地产生了怀疑",
+        "description_zh": "在阿根廷，问题不再是政客们是否会信守承诺。问题在于继续倾听他们的意见是否有意义。二十多年来，腐败丑闻、这个词的贬值和选举后的失忆症正在沉淀一些难以逆转的东西：一种逃避"
     },
     {
-        "article_id": "587a5ace698a8bd93f1fe3a1fbf65512",
-        "link": "https://www.zocalo.com.mx/video-papa-leon-xiv-reza-en-el-lugar-donde-dispararon-en-1981-a-juan-pablo-ii/",
-        "title": "VIDEO: Papa León XIV reza en el lugar donde dispararon en 1981 a Juan Pablo II",
-        "description": "León XIV rezó justo en el sitio de la plaza de San Pedro donde se produjo el atentado contra Juan Pablo II en 1981",
+        "article_id": "1f2b479ba2c1ca8e68f09c42f0ac76fd",
+        "link": "https://www.terra.com.br/esportes/vasco/vasco-cobra-empresa-por-ajustes-no-gramado-de-sao-januario,850345cce7990b4943c28a389ef4ce64skv6yi9x.html",
+        "title": "Vasco cobra empresa por ajustes no gramado de São Januário",
+        "description": "O Vasco não está satisfeito com a situação do gramado de São Januário. Afinal, o Cruz-Maltino ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "jogada10"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-14 16:00:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 16:05:19",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/05/14/121334653-whatsapp-image-2025-11-26-at-175640easy-resizecom-610x400.jpg",
+        "video_url": null,
+        "source_id": "terra",
+        "source_name": "Terra",
+        "source_priority": 24247,
+        "source_url": "https://www.terra.com.br",
+        "source_icon": "https://n.bytvi.com/terra.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Vasco 向公司收取 São Januário 草坪调整费用",
+        "description_zh": "瓦斯科对圣雅努阿里奥球场的情况并不满意。毕竟，克鲁兹-马尔蒂诺..."
+    },
+    {
+        "article_id": "bf4691981dd80e586ffad1be3b265872",
+        "link": "https://horacero.com.mx/espectaculos/u2-baila-en-el-salon-los-angeles-en-la-colonia-guerrero",
+        "title": "U2 ‘baila’ en el Salón Los Ángeles, en la colonia Guerrero",
+        "description": "U2 cerró una larga jornada de grabación en la Ciudad de México la noche de este miércoles, dentro y fuera del Salón Los Ángeles, uno de los recintos más emblemáticos de la colonia Guerrero, donde filmó nuevas escenas para el video de \"Street of Dreams\". The post U2 ‘baila’ en el Salón Los Ángeles, en la colonia Guerrero appeared first on Hora Cero Web .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "secundarias"
+        ],
+        "creator": [
+            "el universal"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-14 16:00:59",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 16:17:59",
+        "image_url": "https://horacero.com.mx/wp-content/uploads/2026/05/Captura-de-pantalla-2026-05-14-a-las-10.58.24-a.m.webp",
+        "video_url": null,
+        "source_id": "horacero_mx",
+        "source_name": "Horacero Mx",
+        "source_priority": 868697,
+        "source_url": "https://horacero.com.mx",
+        "source_icon": "https://n.bytvi.com/horacero_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "U2 在格雷罗社区的洛杉矶音乐厅“跳舞”",
+        "description_zh": "本周三晚上，U2 在墨西哥城结束了漫长一天的录制，在洛杉矶音乐厅内外进行了录制，洛杉矶音乐厅是格雷罗社区最具代表性的场所之一，他们在那里拍摄了《梦想之街》视频的新场景。 U2 后在 Salón Los “跳舞”"
+    },
+    {
+        "article_id": "f147ef3b09f2e21b42623dcefcb3e060",
+        "link": "https://www.latercera.com/nacional/noticia/condenan-a-presidio-perpetuo-a-autores-de-secuestro-con-homicidio-ocurrido-en-pudahuel/",
+        "title": "Condenan a presidio perpetuo a autores de secuestro con homicidio ocurrido en Pudahuel",
+        "description": "Los hechos ocurrieron en 2023, cuando las víctimas fueron trasladadas mediante amenazas a un domicilio, donde fueron torturadas y asesinadas.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "fiscalía",
+            "homicidio",
+            "secuestro",
+            "pudahuel"
+        ],
+        "creator": [
+            "claudio portilla"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-14 16:00:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 16:35:37",
+        "image_url": "https://www.latercera.com/resizer/v2/4L6PRCLEAJDJTCBA5JQ46WKB6E.jpg?auth=a973cf18125cf253d2cff3a552187bb712397089636d8c92bda47bd2c56683f3&smart=true&width=6642&height=4428",
+        "video_url": null,
+        "source_id": "latercera",
+        "source_name": "Latercera",
+        "source_priority": 32330,
+        "source_url": "https://www.latercera.com",
+        "source_icon": "https://n.bytvi.com/latercera.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "普达韦尔发生绑架凶杀案的肇事者被判处终身监禁",
+        "description_zh": "这些事件发生在 2023 年，当时受害者被威胁带到家中，在那里遭到酷刑和谋杀。"
+    },
+    {
+        "article_id": "a67647a210ad1b62e6d209254fb81122",
+        "link": "https://oem.com.mx/elsoldetoluca/local/con-tapetes-chinelos-y-musica-inicia-la-festividad-del-senor-de-los-milagros-en-ixtapaluca-29986849",
+        "title": "Con tapetes, chinelos y música, inicia la festividad del Señor de los Milagros en Ixtapaluca",
+        "description": "La celebración religiosa provocó cierres viales en el primer cuadro del municipio, donde habitantes mantuvieron viva una de las tradiciones más representativas de la zona de los volcanes",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-14 16:00:43",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 21:14:48",
+        "image_url": "https://oem.com.mx/elsoldetoluca/img/29987470/1778774099/BASE_LANDSCAPE/1200/image.jpg",
+        "video_url": null,
+        "source_id": "elsoldetoluca_mx",
+        "source_name": "Elsoldetoluca Mx",
+        "source_priority": 606748,
+        "source_url": "https://www.elsoldetoluca.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldetoluca_mx.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "伴随着地毯、拖鞋和音乐，奇迹之王的节日在伊斯塔帕卢卡拉开帷幕",
+        "description_zh": "宗教庆祝活动导致该市第一部分道路封闭，当地居民保留了火山地区最具代表性的传统之一。"
+    },
+    {
+        "article_id": "c2877a40d912bf6f5844ff587ab9ef15",
+        "link": "https://www.elciudadano.com/reels/video-polemica-por-la-rapidez-en-la-tramitacion-de-la-reforma-alcaldesa-y-municipios-se-preocupan-por-posibles-impactos-financieros/05/14/",
+        "title": "(VIDEO) Polémica por la rapidez en la tramitación de la reforma: Alcaldesa y municipios se preocupan por posibles impactos financieros",
+        "description": "El Ciudadano La alcaldesa de Valdivia y otros gobiernos comunales expresan preocupación por la rápida tramitación de una importante reforma, advirtiendo sobre posibles consecuencias en el financiamiento y la capacidad de servicio a la ciudadanía. Las críticas subrayan la necesidad de una discusión más pausada y participativa entre el Ejecutivo y los municipios. La entrada (VIDEO) Polémica por la rapidez en la tramitación de la reforma: Alcaldesa y municipios se preocupan por posibles impactos financieros se publicó primero en El Ciudadano .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "cristian"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "health"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-05-14 16:00:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 16:16:16",
+        "image_url": "https://www.elciudadano.com/wp-content/uploads/2026/05/d1c2cb1a-4156-45b3-aaa9-8867c7b44c3e.jpg",
+        "video_url": "https://www.elciudadano.com/reels/video-polemica-por-la-rapidez-en-la-tramitacion-de-la-reforma-alcaldesa-y-municipios-se-preocupan-por-posibles-impactos-financieros/05/14/",
+        "source_id": "elciudadano",
+        "source_name": "El Ciudadano",
+        "source_priority": 583045,
+        "source_url": "https://www.elciudadano.com",
+        "source_icon": "https://n.bytvi.com/elciudadano.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "（视频）对改革处理速度的争议：市长和市政府担心可能的财务影响",
+        "description_zh": "El Ciudadano 瓦尔迪维亚市长和其他市镇政府对一项重要改革的快速处理表示担忧，并警告可能对融资和服务公民的能力造成影响。批评强调讨论的必要性"
+    },
+    {
+        "article_id": "56ec788cd223ddcd7dcea1c9555d8969",
+        "link": "https://news.culturacolectiva.com/noticias/mundo/diaz-ayuso-arremete-contra-mexico-asamblea-espanola-viaje/",
+        "title": "VIDEO: ‘México no existió hasta que llegaron los españoles’, Díaz Ayuso desata polémica por dichos sobre la conquista",
+        "description": "Díaz Ayuso dijo en el pleno de Madrid que México no existió antes de los españoles, tras cancelar anticipadamente su viaje institucional al país.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ayuso"
+        ],
+        "creator": [
+            "lizbeth garcía"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-14 16:00:39",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 20:30:50",
+        "image_url": "https://i0.wp.com/news.culturacolectiva.com/wp-content/uploads/2026/05/Dias-Ayuso-dice-en-asamblea-espanola-que-Mexico-no-existiria-sin-Espana-avivando-la-polemica-de-la-colonizacion.jpeg",
+        "video_url": null,
+        "source_id": "culturacolectiva",
+        "source_name": "Cultura Colectiva",
+        "source_priority": 42562,
+        "source_url": "https://news.culturacolectiva.com",
+        "source_icon": "https://n.bytvi.com/culturacolectiva.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "视频：迪亚兹·阿尤索“在西班牙人到来之前，墨西哥并不存在”，有关征服的言论引发争议",
+        "description_zh": "迪亚斯·阿尤索在马德里全体会议上表示，墨西哥在西班牙之前并不存在，此前他提前取消了对墨西哥的机构访问。"
+    },
+    {
+        "article_id": "09a662eedb8ec2deb9d2ed4d7b4d5866",
+        "link": "https://www.eldesmarque.com/futbol/liga-1a-division/20260514/guardado-desafia-monchi-sevilla-jerarquia_18_019168787.html",
+        "title": "Guardado desafía a Monchi: \"Con los del Sevilla tendrá jerarquía para que se callen; ¿Qué me va a decir a mí?\"",
+        "description": "El ex del Betis cuenta todo lo que pasó en el vestuario Andrés Guardado recuerda su pelea con Manuel Pellegrini: \"La más fuerte de mi vida\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "pepe jiménez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-14 16:00:33",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 20:32:01",
+        "image_url": "https://album.mediaset.es/eimg/2026/05/14/andres-guardado-durante-la-entrevista-16-9-aspect-ratio-default-0_da39.jpg?w=1024",
+        "video_url": null,
+        "source_id": "eldesmarque",
+        "source_name": "Eldesmarque",
+        "source_priority": 44851,
+        "source_url": "https://motor.eldesmarque.com",
+        "source_icon": "https://n.bytvi.com/eldesmarque.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "瓜尔达多挑战蒙奇：“在塞维利亚队，他将通过等级制度让他们保持安静；他会对我说什么？”",
+        "description_zh": "前贝蒂斯球员讲述了更衣室里发生的一切安德烈斯·瓜尔达多回忆起他与曼努埃尔·佩莱格里尼的战斗：“我一生中最强的”"
+    },
+    {
+        "article_id": "8a72d73bce1b9ca99aaa73df075a7d9a",
+        "link": "https://horacero.com.mx/columnas/la-rapina",
+        "title": "La rapiña",
+        "description": "Un párrafo lapidario publicado por el portal cibernético QueensLatino el primero de septiembre de 2025, da una idea precisa del acontecer mundial actual: “La verdadera amenaza a la paz mundial es Occidente porque no sabe vivir sin saquear recursos ajenos, por eso, y para vender armas, vivimos una guerra eterna”. The post La rapiña appeared first on Hora Cero Web .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "opinion"
+        ],
+        "creator": [
+            "fortino cisneros calzada"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-14 16:00:20",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 16:17:59",
+        "image_url": "https://horacero.com.mx/wp-content/uploads/2025/10/FORTINO.jpg",
+        "video_url": null,
+        "source_id": "horacero_mx",
+        "source_name": "Horacero Mx",
+        "source_priority": 868697,
+        "source_url": "https://horacero.com.mx",
+        "source_icon": "https://n.bytvi.com/horacero_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "掠夺",
+        "description_zh": "QueensLatino 网络门户网站 2025 年 9 月 1 日发表的一段精辟的段落，对当前的世界事件给出了精确的描述：“对世界和平的真正威胁是西方，因为它不知道如何在不掠夺他人资源的情况下生存，因此，为了出售武器，我们生活在一个"
+    },
+    {
+        "article_id": "6ed0098149a71ca32a8965f054c08a9b",
+        "link": "https://cnnespanol.cnn.com/2026/05/14/eeuu/todd-blanche-recusarse-asuntos-trump-departamento-justicia-trax",
+        "title": "Exclusivo: en 2025 se le pidió a Todd Blanche que se recusara de los asuntos del Departamento de Justicia vinculados a Trump",
+        "description": "Apenas dos semanas después de que Todd Blanche asumiera el cargo de secretario de Justicia adjunto en marzo de 2025, el principal asesor de ética del departamento le comunicó una noticia clara, aunque incómoda: era necesario que se recusara de los casos judiciales que involucraran al presidente Donald Trump a título personal.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "todd blanche",
+            "departamento de justicia",
+            "trump"
+        ],
+        "creator": [
+            "katelyn polantz"
+        ],
+        "language": "spanish",
+        "country": [
+            "venezuela",
+            "chile",
+            "colombia",
+            "honduras",
+            "puerto rico",
+            "ecuador",
+            "uruguay",
+            "nicaragua",
+            "guinea",
+            "spain",
+            "cuba",
+            "argentina",
+            "el salvador",
+            "peru",
+            "bolivia",
+            "paraguay",
+            "dominican republic",
+            "costa rica",
+            "guatemala",
+            "mexico",
+            "panama"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-14 16:00:16",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-14 16:34:07",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273154368-20260514154405080.jpg?c=original/w_800",
+        "video_url": null,
+        "source_id": "cnnespanol",
+        "source_name": "Cnn",
+        "source_priority": 16314,
+        "source_url": "https://cnnespanol.cnn.com",
+        "source_icon": "https://n.bytvi.com/cnnespanol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "独家：托德·布兰奇 (Todd Blanche) 要求在 2025 年回避参与与特朗普有关的司法部事务",
+        "description_zh": "托德·布兰奇 (Todd Blanche) 于 2025 年 3 月接任司法部副部长仅两周后，该部门的最高道德顾问就给了他明确但令人不安的消息：他需要回避涉及总统的法庭案件。"
+    },
+    {
+        "article_id": "64488a70cd86428cfd0b81345fed05f5",
+        "link": "https://www.adn40.mx/mexico/2026-05-14/cambia-la-tenencia-de-animales-en-baja-california-sur-proponen-reforma-que-impactara-en-todas-las-personas-que-tengan-mascotas/",
+        "title": "Proponen una reforma con respecto a la tutela de animales",
+        "description": "El Congreso estatal analiza cambios profundos al Código Civil que establecen la tutela responsable y vinculan el bienestar animal con el derecho humano a un medio ambiente sano.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "pna",
+            "baja california sur"
+        ],
+        "creator": [
+            "tatiana cuschnir"
+        ],
         "language": "spanish",
         "country": [
             "mexico"
@@ -454,16 +798,16 @@
             "world"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-13 15:57:00",
+        "pubDate": "2026-05-14 16:00:02",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:11:38",
-        "image_url": "https://www.zocalo.com.mx/wp-content/uploads/2026/05/leon-xiv-juan-pablo.png",
+        "fetched_at": "2026-05-14 22:10:46",
+        "image_url": "https://tvazteca-adnnoticias-prod.web.arc-cdn.net/resizer/v2/TVGRGG3HWVAZTF5JJL2D66HQPA.jpg?auth=6c6db6defd0b4dcb4be92332532715581d37eba032f78fcd4322c01a3444e0de&smart=true&width=1200&height=675",
         "video_url": null,
-        "source_id": "zocalo",
-        "source_name": "Periódico Zócalo",
-        "source_priority": 208655,
-        "source_url": "http://zocalo.com.mx",
-        "source_icon": "https://n.bytvi.com/zocalo.png",
+        "source_id": "adn40",
+        "source_name": "Adn40",
+        "source_priority": 220795,
+        "source_url": "https://www.adn40.mx",
+        "source_icon": "https://n.bytvi.com/adn40.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -471,84 +815,39 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "视频：教皇利奥十四世在 1981 年约翰·保罗二世被枪杀的地方祈祷",
-        "description_zh": "利奥十四世在 1981 年袭击若望保禄二世的圣彼得广场遗址上祈祷"
+        "title_zh": "他们提出有关动物监护的改革",
+        "description_zh": "州议会分析了《民法典》的深刻变化，这些变化确立了负责任的监护权，并将动物福利与健康环境的人权联系起来。"
     },
     {
-        "article_id": "f4293f68ca40c03e48239c1803a7a95f",
-        "link": "https://oem.com.mx/diariodelsur/local/autos-abandonados-son-usados-como-guarida-de-maleantes-y-basurero-en-tapachula-29964691",
-        "title": "Autos abandonados son usados como guarida de maleantes y basurero en Tapachula",
-        "description": "Vecinos del centro y distintas colonias denuncian riesgos de inseguridad, contaminación y consumo de drogas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 21:03:56",
-        "image_url": "https://oem.com.mx/diariodelsur/img/29963736/1778687498/BASE_LANDSCAPE/1200/image.jpg",
-        "video_url": null,
-        "source_id": "diariodelsur_mx",
-        "source_name": "Diario Del Sur",
-        "source_priority": 15383,
-        "source_url": "https://www.diariodelsur.com.mx",
-        "source_icon": "https://n.bytvi.com/diariodelsur_mx.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "塔帕丘拉废弃的汽车被用作犯罪分子的巢穴和垃圾场",
-        "description_zh": "该中心和不同社区的居民谴责不安全、污染和吸毒的风险"
-    },
-    {
-        "article_id": "6f95fa39c521c8cae3cb21a342642961",
-        "link": "https://expansion.mx/economia/2026/05/13/hacienda-confia-acciones-perspectiva-negativa-sp",
-        "title": "Hacienda confía en acciones para dar revés a perspectiva negativa de S&P",
-        "description": "Édgar Amador Zamora, titular de la Secretaría de Hacienda y Crédito Público, destacó que la mayoría de la deuda pública está en moneda nacional y se converge a reducir el déficit al cierre de año.",
+        "article_id": "d7cd74b4b1096f1b7d2763906391d9b1",
+        "link": "https://www.merca20.com/richard-dawkins-divulgador-cientifico-las-maquinas-pueden-pensar-e-incluso-ser-conscientes/",
+        "title": "Richard Dawkins, divulgador científico: “Las máquinas pueden pensar e incluso ser conscientes”",
+        "description": "Richard Dawkins sorprendió al asegurar que, tras conversar durante días con una inteligencia artificial, comenzó a creer que las máquinas no solo pueden pensar, sino quizá también desarrollar algún tipo de conciencia.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "édgar amador zamora",
-            "plan méxico",
-            "economía",
-            "deuda pública",
-            "pib",
-            "perspectiva negativa",
-            "s&p",
-            "secretaría de hacienda y crédito público"
+            "home"
         ],
         "creator": [
-            "dainzú patiño"
+            "jennifer sánchez dimas"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "business",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-13 15:56:55",
+        "pubDate": "2026-05-14 16:00:01",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:35:43",
-        "image_url": "https://cdn-3.expansion.mx/dims4/default/2ae030b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fcd%2Fbf%2F2c0f918f49bfb66d93d7bc17e440%2Fedgar-amador-zamora.jpeg",
+        "fetched_at": "2026-05-14 16:36:06",
+        "image_url": "https://files.merca20.com/uploads/2026/05/Richard-Dawkins-e1778773254377.jpeg",
         "video_url": null,
-        "source_id": "expansion_mx",
-        "source_name": "Expansión México",
-        "source_priority": 27183,
-        "source_url": "https://expansion.mx",
-        "source_icon": "https://n.bytvi.com/expansion_mx.png",
+        "source_id": "merca20",
+        "source_name": "Mercadotecnia",
+        "source_priority": 42257,
+        "source_url": "https://www.merca20.com",
+        "source_icon": "https://n.bytvi.com/merca20.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -556,326 +855,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "财政部依靠行动扭转标准普尔的负面前景",
-        "description_zh": "财政和公共信贷部部长埃德加·阿马多尔·萨莫拉强调，大部分公共债务都是本国货币，并且正在努力减少年底的赤字。"
-    },
-    {
-        "article_id": "41556c7d930cc2819d2da5781950a19c",
-        "link": "https://oem.com.mx/elsoldepuebla/deportes/rafael-ibanez-el-fisicoculturista-que-representa-a-puebla-en-el-mr-mexico-29963728",
-        "title": "Rafael Ibañez, el fisicoculturista que representa a Puebla en el Mr. México",
-        "description": "Con 20 años, el estudiante de Ingeniería Industrial en la BUAP se prepara para brillar",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 21:10:23",
-        "image_url": "https://oem.com.mx/elsoldepuebla/img/29963636/1778685370/BASE_LANDSCAPE/1200/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldepuebla_mx",
-        "source_name": "El Sol De Puebla",
-        "source_priority": 167831,
-        "source_url": "https://www.elsoldepuebla.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldepuebla_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "拉斐尔·伊巴涅斯（Rafael Ibañez），墨西哥先生代表普埃布拉州的健美运动员",
-        "description_zh": "20岁，北大工业工程系学生正准备发光发热"
-    },
-    {
-        "article_id": "8fd118d5d2dcf3e5259b0e1d0fa64034",
-        "link": "https://www.show.news/horoscopo-del-13-de-mayo-descubre-que-le-espera-hoy-a-cada-signo-del-zodiaco-t202605130001.html",
-        "title": "Horóscopo del 13 de mayo: descubre qué le espera hoy a cada signo del zodiaco",
-        "description": "Horóscopo del 13 de mayo: conoce las predicciones en amor, salud y dinero para cada signo zodiacal y descubre qué revelan hoy los astros",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:42:14",
-        "image_url": "https://assets.show.news/__export/1778687424905/sites/debate/img/2026/05/13/joven_contento_signos_zodiaco_brx_202605121503.jpeg_2137053156.jpeg",
-        "video_url": null,
-        "source_id": "show",
-        "source_name": "Show",
-        "source_priority": 264410,
-        "source_url": "https://www.show.news",
-        "source_icon": "https://n.bytvi.com/show.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "5 月 13 日星座运势：了解今天每个星座的命运",
-        "description_zh": "5 月 13 日星座运势：了解每个星座在爱情、健康和金钱方面的预测，并了解今天星星的预测"
-    },
-    {
-        "article_id": "77a3217740596111a8b1c3bd3e60ce17",
-        "link": "https://www.elespectador.com/economia/asofondos-responde-al-gobierno-en-medio-de-polemica-por-suspension-de-decreto-pensional/",
-        "title": "Asofondos responde al Gobierno en medio de polémica por suspensión de decreto pensional",
-        "description": "El presidente de Asofondos, Andrés Velasco, insistió en que están acatando las órdenes del Consejo de Estado.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "noticias económicas",
-            "pensiones",
-            "economía",
-            "ministerio de trabajo",
-            "asofondos",
-            "andrés velasco",
-            "colpensiones",
-            "gobierno",
-            "consejo de estado"
-        ],
-        "creator": [
-            "redacción economía"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:16:19",
-        "image_url": "https://www.elespectador.com/resizer/v2/7H5GLKMPPNFMXB2X5FPOGFO6DU.jpg?auth=c89099bffcd4f3147312601941626a528c770de6c1b2292ecc985ec04bb241a1&smart=true",
-        "video_url": null,
-        "source_id": "elespectador",
-        "source_name": "Elespectador.com",
-        "source_priority": 589787,
-        "source_url": "http://elespectador.com",
-        "source_icon": "https://n.bytvi.com/elespectador.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿索丰多斯在暂停养老金法令争议中回应政府",
-        "description_zh": "Asofondos 主席安德烈斯·贝拉斯科 (Andrés Velasco) 坚称，他们正在遵守国务委员会的命令。"
-    },
-    {
-        "article_id": "c73c961d21cdea1ccf193d95383d0cf5",
-        "link": "https://www.infobae.com/estados-unidos/2026/05/13/entregan-aires-acondicionados-gratis-en-nueva-york-quienes-pueden-acceder-y-como-hacerlo/",
-        "title": "Entregan aires acondicionados gratis en Nueva York: quiénes pueden acceder y cómo hacerlo",
-        "description": "Las altas temperaturas registradas en la ciudad impulsaron medidas excepcionales por parte de las autoridades, que buscan mitigar los efectos del clima extremo entre los sectores más afectados por la ola de calor",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cooling assistance benefit",
-            "olas de calor",
-            "vulnerabilidad social",
-            "estados unidos",
-            "nueva york",
-            "estados unidos noticias"
-        ],
-        "creator": [
-            "luciana rivera"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "argentina",
-            "colombia",
-            "mexico"
-        ],
-        "category": [
-            "technology",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:01:24",
-        "image_url": "https://www.infobae.com/resizer/v2/3HYIG7GPCJAWNBDB4U4AUBHXFA.png?auth=87eaa158cc527cda5e277bf2fc27c57baedf04f195e2f50fd1e161557b5bd2cb&smart=true&width=2752&height=1536",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们在纽约提供免费空调：谁可以使用以及如何使用",
-        "description_zh": "该市的高温促使当局采取特殊措施，试图减轻极端天气对受热浪影响最严重的部门的影响。"
-    },
-    {
-        "article_id": "c7791ea41b703a45b0757387e2d36e32",
-        "link": "https://vanguardia.com.mx/opinion/deberiamos-tomarnos-mas-en-serio-el-hantavirus-BC20664432",
-        "title": "Deberíamos tomarnos más en serio el hantavirus",
-        "description": "Sabemos muy poco sobre la cepa Andes del hantavirus, con unos 3 mil casos humanos estimados a lo largo de tres décadas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "virus",
-            "oms",
-            "enfermedades",
-            "opinión"
-        ],
-        "creator": [
-            "the new york times"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "health"
-        ],
-        "datatype": "opinion",
-        "pubDate": "2026-05-13 15:56:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:34:27",
-        "image_url": "https://vanguardia.com.mx/binrepository/ap26130508471261_1-15401813_20260513161320.jpg",
-        "video_url": null,
-        "source_id": "vanguardia",
-        "source_name": "Vanguardia",
-        "source_priority": 24302,
-        "source_url": "https://vanguardia.com.mx",
-        "source_icon": "https://n.bytvi.com/vanguardia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "我们应该更加认真地对待汉坦病毒",
-        "description_zh": "我们对安第斯山脉的汉坦病毒株知之甚少，三十年来估计有 3,000 例人类病例"
-    },
-    {
-        "article_id": "ed24d33ff53bb3400686b0fe3de3911a",
-        "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/05/13/no-le-asigno-mayor-dramatismo-presidente-de-sonami-evita-ahondar-en-produccion-inflada-de-codelco.shtml",
-        "title": "\"No le asigno mayor dramatismo\": presidente de Sonami evita ahondar en producción \"inflada\" de Codelco",
-        "description": "En medio de la revelación de un informe preliminar que revela posibles inconsistencias que elevaron artificialmente la producción de Codelco en diciembre del 2025, la Sociedad Nacional de Minería (Sonami) evitó ahondar en la polémica. Desde el gremio minero, su presidente Jorge Riesco Valdivieso señaló que los resultados de la auditoría interna en la estatal ... Continua leyendo \"\"No le asigno mayor dramatismo\": presidente de Sonami evita ahondar en producción \"inflada\" de Codelco\" The post \"No le asigno mayor dramatismo\": presidente de Sonami evita ahondar en producción \"inflada\" de Codelco appeared first on BioBioChile .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "directorio",
-            "inconsistencias",
-            "resultados finales",
-            "mercado",
-            "césar márquez márquez",
-            "gestión",
-            "información correcta",
-            "imagen pública",
-            "producción",
-            "profesionales",
-            "radomiro tomic",
-            "señal df",
-            "cifras",
-            "diario financiero",
-            "investigaciones",
-            "gremio minero",
-            "presupuesto",
-            "gerente",
-            "división chuquicamata",
-            "auditoría"
-        ],
-        "creator": [
-            "franco lópez"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 17:04:22",
-        "image_url": "https://media.biobiochile.cl/wp-content/uploads/2026/05/social-no-le-asigno-mayor-dramatismo__-presidente-de-sonami-evita-ahondar-en-produccion-inflada-de-codelco.jpg",
-        "video_url": null,
-        "source_id": "biobiochile",
-        "source_name": "Biobiochile",
-        "source_priority": 13427,
-        "source_url": "https://www.biobiochile.cl",
-        "source_icon": "https://n.bytvi.com/biobiochile.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“我不会分配更大的戏剧性”：Sonami 总裁避免深入研究 Codelco 的“夸大”制作",
-        "description_zh": "在一份初步报告披露的过程中，该报告揭示了可能存在的不一致之处，导致 Codelco 在 2025 年 12 月人为提高了产量，但国家矿业协会 (Sonami) 避免深​​入探讨这一争议。来自矿业联盟，其主席豪尔赫·里斯科·瓦尔迪维斯 (Jorge Riesco Valdivies)"
-    },
-    {
-        "article_id": "9c09b1fb14164ea69c48166455079b28",
-        "link": "https://www.semana.com/deportes/ciclismo/articulo/egan-bernal-sintio-morir-en-el-giro-de-italia-2026-relato-terrible-momento-que-sufrio/202642/",
-        "title": "Egan Bernal sintió “morir“ en el Giro de Italia 2026: relató terrible momento que sufrió",
-        "description": "Una compleja situación de salud pasó el colombiano durante la etapa 4. Su cuerpo parece haber llegado al límite y le generó dudas para el resto de la competencia en Europa.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "giro de italia",
-            "egan bernal noticias",
-            "ciclismo",
-            "ciclismo colombiano",
-            "egan bernal"
-        ],
-        "creator": [
-            "sergio alejandro calderón calderón"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-13 15:56:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-13 16:04:59",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/IHDJ2VZJGFFUPL2TZLVBV7KVAI.png?auth=2f81db51c550a0df1df21dca992d0d269eb7cbc261a54d5131bceb6f84834ea0&smart=true&width=1280&height=720",
-        "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://n.bytvi.com/semana.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "伊根·伯纳尔 (Egan Bernal) 在 2026 年环意自行车赛上感觉自己“快要死了”：他讲述了自己遭受的可怕时刻",
-        "description_zh": "哥伦比亚人在第四赛段经历了复杂的健康状况，他的身体似乎已经达到了极限，这给欧洲其他比赛带来了疑​​问。"
+        "title_zh": "科学传播者理查德·道金斯：“机器可以思考，甚至​​有意识”",
+        "description_zh": "理查德·道金斯惊讶地表示，在与人工智能交谈了几天之后，他开始相信机器不仅可以思考，而且也许还可以发展某种类型的意识。"
     }
 ]
