@@ -1,33 +1,32 @@
 [
     {
-        "article_id": "b6a29f4521288506f9e0f83c9494c878",
-        "link": "https://www.mdzol.com/policiales/godoy-cruz-delincuentes-armados-asaltaron-una-chica-una-parada-micro-n1520153",
-        "title": "Godoy Cruz: delincuentes armados asaltaron a una chica en una parada de micro",
-        "description": "La joven fue sorprendida mientras aguardaba el micro en una parada en Godoy Cruz. Los asaltantes la amenazaron con un arma de fuego y escaparon con el teléfono.",
+        "article_id": "7acb2dce30c5485dedec13edd53a52ca",
+        "link": "https://www.mdzol.com/dinero/ganaderia-alza-retencion-vientres-y-feedlots-completos-impulsan-el-mejor-momento-del-sector-n1521106",
+        "title": "Ganadería en alza: retención de vientres y feedlots completos impulsan el mejor momento del sector",
+        "description": "La ganadería argentina atraviesa un escenario récord: crece la retención de vientres, se llenan los feedlots y mejora la rentabilidad.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "robaron",
-            "godoy cruz",
-            "robo",
-            "asalto",
-            "arma de fuego"
+            "ganadería",
+            "rentabilidad",
+            "hacienda",
+            "argentina",
+            "agro"
         ],
         "creator": [
-            "mdz policiales"
+            "mdz agro"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top",
-            "crime"
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:01:00",
+        "pubDate": "2026-05-15 15:43:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:31:45",
-        "image_url": "https://media.mdzol.com/p/40b5e21f35a070246d94ab67a6aeb09f/adjuntos/373/imagenes/001/505/0001505506/1200x675/797x308:817x328/policia-mendozajpg.jpg",
+        "fetched_at": "2026-05-15 16:01:54",
+        "image_url": "https://media.mdzol.com/p/372a331c53de136df98475a058a3c5c6/adjuntos/373/imagenes/001/929/0001929129/1200x675/smart/petri-la-fiesta-la-ganaderia-13.jpg",
         "video_url": null,
         "source_id": "mdzol",
         "source_name": "Mdz",
@@ -41,52 +40,111 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "戈多伊·克鲁兹：武装犯罪分子在公交车站袭击了一名女孩",
-        "description_zh": "这位年轻女子在戈多伊克鲁斯的一个车站等公共汽车时感到很惊讶。袭击者用枪威胁她，然后带着手机逃跑了。"
+        "title_zh": "畜牧业的崛起：保留腹部和完整的饲养场推动了该行业的最佳时刻",
+        "description_zh": "阿根廷畜牧业正在经历创纪录的局面：腹部滞留量不断增加，饲养场不断填满，盈利能力不断提高。"
     },
     {
-        "article_id": "c52f3271f1df382b5a2cfd7c8eabfd67",
-        "link": "https://www.dgabc.com.br/Noticia/4319200/grupo-dedica-espetaculo-coral-a-obra-de-cartola-no-teatro-baccarelli",
-        "title": "Grupo dedica espetáculo coral à obra de Cartola no Teatro Baccarelli",
-        "description": "Apresentação no domingo (17), às 11h, marca a primeira vez que o coletivo homenageia um único compositor; repertório traz clássicos com arranjos exclusivos e uma canção inédita",
+        "article_id": "87dff403e13681bac68ceebc76d14757",
+        "link": "https://www.iprofesional.com/tecnologia/454924-del-clic-al-agente-como-la-inteligencia-artificial-empieza-a-comprar-por-nosotros",
+        "title": "Del clic al agente: cómo la inteligencia artificial empieza a comprar por nosotros",
+        "description": "Esta nueva etapa se basa en la incorporación de agentes de IA, capaces de buscar productos, comparar ofertas y ejecutar pagos de forma autónoma.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "grande abc",
-            "setecidades",
-            "portal",
-            "teatro baccarelli",
-            "notícias",
-            "política",
-            "economia",
-            "noticias on line abc",
-            "dgabc",
-            "diário",
-            "esportes",
-            "santo andré",
-            "on line",
-            "noticia",
-            "são bernardo",
-            "ribeirão pires",
-            "rio grande da serra",
-            "nacional",
-            "d+",
-            "internacional"
+            "empleos",
+            "inteligencia artificial",
+            "news",
+            "ads",
+            "taxation",
+            "politics",
+            "tecnología",
+            "negocios",
+            "iprofesional",
+            "economía",
+            "management",
+            "business",
+            "finance",
+            "campus",
+            "newspaper",
+            "vinos",
+            "legal",
+            "impuestos",
+            "diario",
+            "breaking"
         ],
         "creator": [
-            "do diário do grande abc"
+            "césar riaño (*)"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-15 15:43:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-15 16:08:26",
+        "image_url": "https://resizer.iproimg.com/unsafe/1200x674/filters:format(webp):quality(75):max_bytes(102400)/https://assets.iprofesional.com/assets/jpg/2026/05/617035_landscape.jpg",
+        "video_url": null,
+        "source_id": "iprofesional",
+        "source_name": "Iprofesional",
+        "source_priority": 120704,
+        "source_url": "https://www.iprofesional.com",
+        "source_icon": "https://n.bytvi.com/iprofesional.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "从点击到代理：人工智能如何开始为我们购物",
+        "description_zh": "这个新阶段基于人工智能代理的结合，能够自动搜索产品、比较报价和执行付款。"
+    },
+    {
+        "article_id": "51d5bfa9b7e261e3d030d8d51a31333b",
+        "link": "https://www.dgabc.com.br/Noticia/4319392/sao-paulo-acerta-a-contratacao-do-tecnico-dorival-junior",
+        "title": "São Paulo acerta a contratação do técnico Dorival Júnior",
+        "description": "Treinador fará sua terceira passagem pelo clube com o qual conquistou a Copa do Brasil em 2023",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "copa do brasil",
+            "nacional",
+            "setecidades",
+            "são bernardo",
+            "diarinho",
+            "técnico",
+            "santo andré",
+            "campeonato brasileiro",
+            "noticia",
+            "diário",
+            "noticias on line abc",
+            "economia",
+            "brasileirão",
+            "notícias",
+            "portal",
+            "diadema",
+            "rio grande da serra",
+            "mauá",
+            "grande abc",
+            "treinador"
+        ],
+        "creator": [
+            "ryan leme"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "lifestyle",
+            "sports",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:01:00",
+        "pubDate": "2026-05-15 15:43:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 17:21:12",
+        "fetched_at": "2026-05-15 16:19:20",
         "image_url": null,
         "video_url": null,
         "source_id": "dgabc",
@@ -101,39 +159,51 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "团体在巴卡莱利剧院为卡托拉的作品献上合唱表演",
-        "description_zh": "周日（17 日）上午 11 点的演出标志着该集体首次向单一作曲家致敬；曲目包括经过独家编排的经典曲目和一首新歌"
+        "title_zh": "圣保罗同意聘请主教练多里瓦尔·儒尼奥尔",
+        "description_zh": "教练将第三次执教俱乐部，他曾随队赢得 2023 年巴西杯冠军"
     },
     {
-        "article_id": "60c6e160b0f3ea023ea2752de0afaf83",
-        "link": "https://br.investing.com/analysis/acao-barata-e-esquecida-por-que-valid-vlid3-e-a-nova-aposta-200477203",
-        "title": "Ação barata e esquecida: Por que Valid (VLID3) é a nova aposta?",
-        "description": "Análises do Mercado por abrangendo: Valid Soluções SA. Leia as Análises do Mercado de no Investing.com.",
+        "article_id": "94ff048acfdae78b0001542879bbd54f",
+        "link": "https://www.primerafuente.com.ar/noticias/129780/seis-anos-sin-sergio-denis-sentido-homenaje-hija-barbara-reclamo-justicia",
+        "title": "Seis años sin Sergio Denis: el sentido homenaje de su hija Bárbara y el reclamo de justicia",
+        "description": "A través de imágenes y mensajes en redes sociales, la joven recordó a su padre en un nuevo aniversario de su fallecimiento, tras una caída en el teatro Mercedes Sosa de Tucumán.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "valid soluções sa"
+            "diario",
+            "primera fuente",
+            "news",
+            "prensa",
+            "tucuman",
+            "ultimo momento",
+            "newspaper",
+            "argentina",
+            "primerafuente",
+            "periodico",
+            "actualidad"
         ],
         "creator": [
-            "investing.com"
+            "primera fuente"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "argentina"
         ],
         "category": [
-            "business"
+            "politics",
+            "lifestyle",
+            "top"
         ],
-        "datatype": "analysis",
-        "pubDate": "2026-05-14 16:01:00",
+        "datatype": "news",
+        "pubDate": "2026-05-15 15:43:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:07:05",
-        "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+        "fetched_at": "2026-05-15 19:50:14",
+        "image_url": "https://www.primerafuente.com.ar/fotos/notas/2026/05/15/200x150_129780_20260515154503.jpg",
         "video_url": null,
-        "source_id": "investing_br",
-        "source_name": "Investing Brasil",
-        "source_priority": 33451,
-        "source_url": "https://br.investing.com",
-        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "source_id": "primerafuente_ar",
+        "source_name": "Primera Fuente",
+        "source_priority": 2716386,
+        "source_url": "https://www.primerafuente.com.ar",
+        "source_icon": "https://n.bytvi.com/primerafuente_ar.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -141,35 +211,90 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "廉价且被遗忘的股票：为什么 Valid (VLID3) 是新的赌注？",
-        "description_zh": "市场分析涵盖：Valid Soluções SA。阅读 Investing.com 的市场分析。"
+        "title_zh": "塞尔吉奥·丹尼斯缺席六年：对女儿芭芭拉的衷心敬意和对正义的要求",
+        "description_zh": "通过社交网络上的图像和信息，这位年轻女子在父亲去世一周年之际纪念了她的父亲，当时她在图库曼的梅赛德斯索萨剧院摔倒了。"
     },
     {
-        "article_id": "c6d784d7d26e17c6ee3523cad2b20c2a",
-        "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/blogs/maternar/2026/05/deixem-as-maes-atipicas-em-paz.shtml",
-        "title": "Deixem as mães atípicas em paz",
-        "description": "Anos depois da decisão de se separarem, muitas mulheres seguem aprisionadas por um sentimento avassalador de exaustão diante da necessidade de interagir com o genitor de seus filhos. O mesmo que sentiram levando uma vida sozinha a dois. Mas agora com plateia e palpiteiros de plantão. E advogados aguardando um deslize para condená-las como péssimas mães. Leia mais (05/14/2026 - 13h01)",
+        "article_id": "476b3ed719c625f7943d0ecbd5867e6c",
+        "link": "https://valor.globo.com/financas/noticia/2026/05/15/aes-do-nubank-despencam-em-ny-aps-aumento-vertiginoso-das-provises-para-devedores-duvidosos.ghtml",
+        "title": "Ações do Nubank despencam em NY após aumento vertiginoso das provisões para devedores duvidosos",
+        "description": "As ações do Nubank recuavam 6,77%, a US$ 12,06, na...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "carteira de crédito",
+            "balanço de empresa",
+            "bolsa de nova york",
+            "setor financeiro",
+            "nubank",
+            "itaú bba"
+        ],
         "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "domestic"
+            "business",
+            "top"
         ],
-        "datatype": "blog",
-        "pubDate": "2026-05-14 16:01:00",
+        "datatype": "news",
+        "pubDate": "2026-05-15 15:42:49",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:32:57",
+        "fetched_at": "2026-05-15 16:02:39",
+        "image_url": "https://s2-valor.glbimg.com/1tQXMwYTbnDwRaME3GGr2OCK4F8=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/u/BagfD8SQilQLxuxU4gFw/411692180.jpg",
+        "video_url": null,
+        "source_id": "valor_globo",
+        "source_name": "Valor Globo",
+        "source_priority": 2786,
+        "source_url": "https://valor.globo.com",
+        "source_icon": "https://n.bytvi.com/valor_globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "呆账拨备大幅增加后，Nubank 股价在纽约暴跌",
+        "description_zh": "Nubank 股价下跌 6.77%，至 12.06 美元..."
+    },
+    {
+        "article_id": "71c17f1e1a370020d74f3079be7cf795",
+        "link": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/obra-da-bacia-sinos-em-esteio-deve-se-iniciar-em-2027-com-investimento-de-r-40-milhoes-beneficiando-25-mil-imoveis-1.1713948",
+        "title": "Obra da Bacia Sinos, em Esteio, deve se iniciar em 2027, com investimento de R$ 40 milhões, beneficiando 2,5 mil imóveis",
+        "description": "O projeto prevê a construção de uma estrutura de amortecimento com capacidade para armazenar cerca de 250 mil metros cúbicos de água; a obra deve impactar diretamente 10 mil pessoas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "obras de contenção",
+            "enchente",
+            "investimento",
+            "rio do sinos",
+            "famílias atingidas",
+            "prefeitura",
+            "cidades",
+            "cronograma"
+        ],
+        "creator": [
+            "fernanda bassôa"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-15 15:42:38",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-15 16:10:02",
         "image_url": null,
         "video_url": null,
-        "source_id": "folha",
-        "source_name": "Folha",
-        "source_priority": 3498,
-        "source_url": "https://www.folha.uol.com.br",
-        "source_icon": "https://n.bytvi.com/folha.png",
+        "source_id": "correiodopovo",
+        "source_name": "Correio Do Povo",
+        "source_priority": 139621,
+        "source_url": "https://www.correiodopovo.com.br",
+        "source_icon": "https://n.bytvi.com/correiodopovo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -177,49 +302,46 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "远离非典型母亲",
-        "description_zh": "在决定分居多年后，由于需要与孩子的父亲互动，许多女性仍然陷入压倒性的疲惫感之中。他们作为夫妻独自生活也有同样的感受。但现在有观众和猜测者值班。还有律师"
+        "title_zh": "位于埃斯蒂奥 (Esteio) 的锡诺斯盆地 (Sinos Basin) 工程将于 2027 年开始，投资 4,000 万雷亚尔，惠及 2,500 处房产",
+        "description_zh": "该项目设想建造一座可储存约25万立方米水的阻尼结构；这项工作应该直接影响一万人"
     },
     {
-        "article_id": "2ac95f644856540d59e4f8f76ed5c4bf",
-        "link": "https://www.lagaceta.com.ar/nota/1136807/politica/hay-gas-unos-cinco-millones-metros-cubicos-aseguro-abad-tras-reunion-nacion.html",
-        "title": "\"Hay gas, unos cinco millones de metros cúbicos\", aseguró Abad tras la reunión con Nación",
-        "description": "Funcionarios provinciales y representantes de los sectores azucarero y citrícola mantuvieron reuniones con la titular de Energía, ante la preocupación por cortes para las plantas agroindustriales del norte.",
+        "article_id": "2a585876ac80703471c6efb38de24c39",
+        "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/conheca-a-refit-empresa-alvo-de-operacao-da-policia-federal-no-rio-de-janeiro-1.1713961",
+        "title": "Conheça a Refit, empresa alvo de operação da Polícia Federal no Rio de Janeiro",
+        "description": "Companhia é apontada pela Receita como a maior devedora contumaz de impostos do País",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "118635",
-            "jorge feijóo",
-            "tucumán",
-            "buenos aires",
-            "gobierno provincial",
-            "secretaria de energía de la nación",
-            "osvaldo jaldo",
-            "compañía azucarera los balcanes",
-            "eduardo castro",
-            "daniel abad"
+            "receita federal",
+            "grupo refit",
+            "ricardo magro",
+            "operação sem refino",
+            "política",
+            "rio de janeiro",
+            "polícia federal"
         ],
         "creator": [
-            "luis duarte"
+            "correio do povo"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
             "business",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:01:00",
+        "pubDate": "2026-05-15 15:42:36",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 19:18:10",
-        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/05/14/osvaldo-jaldo-daniel-abad-comunicacin-pblica-1136807-160009.jpg",
+        "fetched_at": "2026-05-15 16:10:02",
+        "image_url": null,
         "video_url": null,
-        "source_id": "lagaceta_ar",
-        "source_name": "Lagaceta",
-        "source_priority": 975335,
-        "source_url": "https://www.lagaceta.com.ar",
-        "source_icon": "https://n.bytvi.com/LaGaceta_Ar.png",
+        "source_id": "correiodopovo",
+        "source_name": "Correio Do Povo",
+        "source_priority": 139621,
+        "source_url": "https://www.correiodopovo.com.br",
+        "source_icon": "https://n.bytvi.com/correiodopovo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -227,59 +349,14 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿巴德在与国家会议后表示：“有天然气，大约有五百万立方米。”",
-        "description_zh": "由于担心北部农工业工厂的削减，省级官员以及糖和柑橘行业的代表与能源负责人举行了会议。"
+        "title_zh": "了解 Refit，一家被里约热内卢联邦警察盯上的公司",
+        "description_zh": "公司被美国国税局评为美国最大的纳税人"
     },
     {
-        "article_id": "2898ed52911852a92b6de1661672fe2e",
-        "link": "https://www.diarioregistrado.com/deportes/azzaro-se-encolumno-detras-de-las-protestas-de-milito-contra-la-afa---aca-tenes-un-soldado--a-morir-_a6a05ee6c5c28641161ac3743",
-        "title": "Azzaro se encolumnó detrás de las protestas de Milito contra la AFA: “Acá tenés un soldado, a morir”",
-        "description": "Los hinchas de Racing están en llamas por el arbitraje en el Gigante de Arroyito y uno de sus hinchas más conocidos se sumó al enojo.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "azzaro",
-            "afa",
-            "racing",
-            "flavio azzaro",
-            "milito"
-        ],
-        "creator": [
-            "diario registrado"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-14 16:00:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:07:35",
-        "image_url": "https://diario-assets.tadevel-cdn.com/6a05ee9f5c28641161ac3af7/720.jpeg",
-        "video_url": null,
-        "source_id": "diarioregistrado",
-        "source_name": "Diario Registrado",
-        "source_priority": 75621,
-        "source_url": "https://www.diarioregistrado.com",
-        "source_icon": "https://n.bytvi.com/diarioregistrado.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿扎罗支持米利托对AFA的抗议：“这里有一名士兵，让我们去死吧”",
-        "description_zh": "赛车迷们对阿罗伊托巨人球场的裁判感到愤怒，他们最知名的球迷之一也加入了愤怒的行列。"
-    },
-    {
-        "article_id": "248884a0d1553a6c4f415591200c1143",
-        "link": "https://g1.globo.com/mundo/noticia/2026/05/14/ira-nao-recebeu-vistos-para-copa-nos-eua-diz-federacao.ghtml",
-        "title": "Irã ainda não recebeu vistos para disputar Copa do Mundo nos EUA, diz federação",
-        "description": "A equipe masculina de futebol do Irã comemora a classificação para a Copa do Mundo 2026, após empatar com o Uzbequistão, em março do ano passado Getty Images via BBC O presidente da Federação Iraniana de Futebol, Mehdi Taj, declarou nesta quinta-feira (14) que o país ainda não recebeu os vistos para que a seleção viaje aos Estados Unidos e dispute a Copa do Mundo de 2026. A participação do Irã no torneio, que acontecerá de 11 de junho a 19 de julho, segue marcada pela incerteza desde o início da guerra no Oriente Médio, no fim de fevereiro, após os ataques lançados por Israel e Estados Unidos contra a República Islâmica. \"Amanhã, ou depois de amanhã, teremos uma reunião decisiva com a Fifa. Ela deve nos apresentar garantias, porque o problema dos vistos continua sem solução\", disse Taj, citado pela agência Irna. Copa do Mundo: como estão os preparativos para os EUA receberem a seleção do Irã? O presidente da Fifa, Gianni Infantino, reiterou que o Irã disputará suas partidas da Copa do Mundo nos Estados Unidos, como ficou estabelecido no sorteio do torneio, que também será disputado no Canadá e no México. \"Não recebemos nenhuma informação da outra parte sobre quem obteve vistos. Os vistos ainda não foram emitidos\", acrescentou Taj. Irã enfrenta Coreia do Norte nas Eliminatórias da Copa do Mundo da Fifa, em junho de 2025. Majid Asgaripour/WANA (West Asia News Agency) Teerã e Washington não mantêm relações diplomáticas desde 1980, após a crise dos reféns na embaixada americana. Segundo o presidente da federação, os jogadores precisam viajar até a capital da Turquia, Ancara, para que suas impressões digitais sejam recolhidas como parte do procedimento de concessão dos vistos. \"Nós não temos nada a ver com os Estados Unidos. Nos classificamos para a Copa do Mundo e é a FIFA que deve organizá-la\", declarou. O Irã organizou uma cerimônia de despedida na quarta-feira (13) para a seleção nacional de futebol, antes da viagem para a Copa do Mundo de 2026. O 'Team Melli', que terá sua base de treinamento em Tucson, no Arizona, enfrentará Nova Zelândia, Bélgica e Egito no Grupo G da primeira fase da Copa. Vídeos em alta no g1",
+        "article_id": "2367c33cf814411e83c99bee7f3fa4bc",
+        "link": "https://pipelinevalor.globo.com/negocios/noticia/ifood-volta-a-mira-do-cade.ghtml",
+        "title": "iFood volta à mira do Cade",
+        "description": "O Cade abriu ontem uma investigação formal contra o iFood para apurar possível descumprimento do acordo antitruste firmado com a empresa de delivery em 2023. A companhia tem 15 dias para se manifestar junto ao orgão. Desde fevereiro deste ano, o Cade vinha monitorando uma possível quebra do acordo, após denúncias de restaurantes e associações. No dia 9 desse mês, o órgão antitruste questionou a companhia sobre as práticas. Agora, em desdobramento do caso, a investigação deve apurar se houve violação do acordo. 99 investe R$ 45 milhões em fundo de eletromobilidade da Yvy Keeta e iFood fazem guerra do delivery virar caso de polícia No ofício de ontem, a Superintendência-Geral do Cade apura possíveis violações às cláusulas 4.6 e 4.7 do Termo de Compromisso de Cessação (TCC). O acordo, firmado após dois anos de investigação pela autoridade após queixa apresentada pelo Rappi em 2021, impõe limites aos contratos de exclusividade que o iFood pode firmar com restaurantes parceiros. O TCC celebrado em fevereiro de 2023 apontou indícios de abuso de posição dominante por parte do iFood. Entre as obrigações assumidas pela empresa de delivery estão o teto de 25% do volume bruto de mercadorias (GMV) vinculado a acordos exclusivos em nível nacional e o limite de 8% de restaurantes exclusivos nos municípios com mais de 500 mil habitantes. iFood foi avaliado em US$ 5,4 bilhões em 2022, quando a Prosus, grupo de investimentos holandês, comprou a empresa Divulgação/iFood Procurado o iFood informou que “teve conhecimento da nota técnica do Cade e irá fornecer todos os esclarecimentos sobre os pontos levantados pelo órgão. A empresa reafirma seu compromisso com a autoridade antitruste e está segura em relação ao cumprimento do Termo de Compromisso de Cessação (TCC) firmado em 2023.” A abertura do incidente é mais um capítulo na disputa pelo mercado de delivery de restaurantes no Brasil, segmento em que o iFood apresenta mais de 80% de participação. iFood aposta em entrega por drones com US$ 1 mi na Speedbird iFood vence disputa judicial para manter pedido mínimo no app No último ano, a chegada da chinesa Keeta, braço internacional da Meituan, a maior empresa de delivery do mundo, e a retomada da operação da 99 Food movimentaram um mercado tido como conquistado pelo iFood.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -288,61 +365,20 @@
             "brazil"
         ],
         "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-14 16:00:41",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:33:21",
-        "image_url": "https://s2-g1.glbimg.com/g3QaL3-Clb8wQxXcqJQsZ2I1mL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/h/Nm97olQWG9BHtyL3ZpHw/2026-03-02t121613z-1057416376-rc2xzeaxohe7-rtrmadp-3-iran-crisis-soccer-worldcup.jpg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "足协表示，伊朗尚未获得参加美国世界杯的签证",
-        "description_zh": "伊朗男足在去年 3 月与乌兹别克斯坦战平后，庆祝获得 2026 年世界杯参赛资格 盖蒂图片社 BBC 报道 伊朗足协主席迈赫迪·塔吉本周四（14 日）宣布，该国尚未获得世界杯参赛资格。"
-    },
-    {
-        "article_id": "79cf8c33f2e371805d0940c70e16a57b",
-        "link": "https://www.folhavitoria.com.br/folha-business/es-gas-testa-gas-natural-na-secagem-de-cafe-conilon-no-espirito-santo/",
-        "title": "ES Gás testa gás natural na secagem de café conilon no Espírito Santo",
-        "description": "Projeto de R$ 1,1 mi começa em maio, em Linhares, com aprovação da agência reguladora estadual A ES Gás vai testar o uso de gás natural no processo de secagem de café conilon durante a safra que começa neste mês de maio. Os testes ocorrerão na Fazenda Chapadão, em Linhares, propriedade do produtor Eduardo Bortolini, [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "coluna agro business"
-        ],
-        "creator": [
-            "stefany sampaio"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
             "business",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:00:41",
+        "pubDate": "2026-05-15 15:42:34",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:09:00",
-        "image_url": "https://uploads.folhavitoria.com.br/imagens/2026/05/dd26edbb-d452-4ee6-8faf-35a8aa2641f2.jpeg",
+        "fetched_at": "2026-05-15 16:02:51",
+        "image_url": "https://s2-pipelinevalor.glbimg.com/Fv62iM2l37CQ-OpSD1tZvaVJlho=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2025/V/G/EEspeoTcWOLi94A57RYQ/ifood.jpg",
         "video_url": null,
-        "source_id": "folhavitoria_br",
-        "source_name": "Folha Vitória",
-        "source_priority": 123574,
-        "source_url": "https://www.folhavitoria.com.br",
-        "source_icon": "https://n.bytvi.com/folhavitoria_br.png",
+        "source_id": "valor_globo",
+        "source_name": "Valor Globo",
+        "source_priority": 2786,
+        "source_url": "https://valor.globo.com",
+        "source_icon": "https://n.bytvi.com/valor_globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -350,41 +386,90 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "ES Gás 在圣埃斯皮里图州测试天然气干燥 Conilon 咖啡",
-        "description_zh": "经国家监管机构批准，耗资 110 万雷亚尔的项目于 5 月在利尼亚雷斯启动，ES Gás 将在今年 5 月开始的收获期间测试在科尼隆咖啡干燥过程中使用天然气的情况。测试将在利尼亚雷斯 (Linhares) 的 Fazenda Chapadão 进行，该庄园的所有者是"
+        "title_zh": "iFood 重回凯德视线",
+        "description_zh": "凯德昨日对 iFood 展开正式调查，调查其是否可能违反 2023 年与这家外卖公司签署的反垄断协议。该公司有 15 天的时间对机构做出回应。自今年二月以来，凯德一直在监测钢材可能出现的断裂情况。"
     },
     {
-        "article_id": "164582347e0ff9375dd84deee977ff10",
-        "link": "https://www.eldiario24.com/politica/2026/05/14/descreimiento-argentino/",
-        "title": "Décadas de promesas rotas convirtieron el descreimiento en el estado natural del ciudadano argentino",
-        "description": "En Argentina, la pregunta ya no es si los políticos van a cumplir sus promesas. Es si tiene algún sentido seguir escuchándolas. Durante más de dos décadas, escándalos de corrupción, devaluaciones de la palabra y amnesias post-electorales fueron sedimentando algo difícil de revertir: un escepticismo que dejó de ser postura intelectual para volverse reflejo cotidiano. [...]",
+        "article_id": "d9cff850510966b86f300f00f423c8b4",
+        "link": "https://www.infobae.com/peru/2026/05/15/ecuador-lleva-su-guerra-contra-el-narcotrafico-hasta-la-frontera-con-peru-militares-toman-puerto-bolivar/",
+        "title": "Ecuador lleva su guerra contra el narcotráfico hasta la frontera con Perú: militares toman Puerto Bolívar",
+        "description": "a intervención contempla allanamientos en más de 1.600 viviendas y el despliegue permanente de fuerzas de seguridad durante 96 horas continuas",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "argentino",
-            "descreimiento"
+            "ecuador",
+            "peru-noticias",
+            "perú",
+            "militares",
+            "narcotráfico"
         ],
         "creator": [
-            "redacción d. g."
+            "analí espinoza"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "argentina",
+            "colombia",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-15 15:42:27",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-15 16:00:42",
+        "image_url": "https://www.infobae.com/resizer/v2/AMX3UF6HABDRPJ3LA5ZQ4D634M.JPG?auth=94756009fb275ff8b499af685634f0f9405e078bfa2a321c90e3d9c864f4d97a&smart=true&width=5394&height=3688",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "厄瓜多尔将打击贩毒的战争推向秘鲁边境：士兵占领玻利瓦尔港",
+        "description_zh": "干预措施包括突袭 1,600 多所房屋，并持续部署安全部队 96 小时"
+    },
+    {
+        "article_id": "0e796d255f3536d97931e05514d59e7b",
+        "link": "https://www.ambito.com/espectaculos/paul-mccartney-y-will-ferrell-protagonizaran-el-gran-cierre-la-temporada-51-saturday-night-live-n6277959",
+        "title": "Paul McCartney y Will Ferrell protagonizaran el gran cierre de la temporada 51 de Saturday Night Live",
+        "description": "McCartney se ha presentado cuatro veces en el ciclo y en esta quinta oportunidad, el ex Beatle dará a conocer los flamantes temas de su disco \"The Boys of Dungeon Lane\".",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "saturday night live",
+            "paul mccartney",
+            "música"
+        ],
+        "creator": [
+            "ámbito.com"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "politics",
-            "top"
+            "top",
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:00:35",
+        "pubDate": "2026-05-15 15:42:25",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:04:21",
-        "image_url": "https://www.eldiario24.com/wp-content/uploads/2026/05/sasha-make-stories-studio-VynkVKneWJA-unsplash-1.jpg",
+        "fetched_at": "2026-05-15 16:06:14",
+        "image_url": "https://media.ambito.com/p/ac9824aa1854a0bd3f9dff494fae5656/adjuntos/239/imagenes/043/372/0043372644/paul-mccartney.png",
         "video_url": null,
-        "source_id": "eldiario24",
-        "source_name": "Inicio - El Diario 24",
-        "source_priority": 16314,
-        "source_url": "https://www.eldiario24.com",
-        "source_icon": "https://n.bytvi.com/eldiario24.png",
+        "source_id": "ambito",
+        "source_name": "Ambito",
+        "source_priority": 37705,
+        "source_url": "https://www.ambito.com",
+        "source_icon": "https://n.bytvi.com/ambito.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -392,38 +477,42 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "数十年的违背承诺让阿根廷公民自然而然地产生了怀疑",
-        "description_zh": "在阿根廷，问题不再是政客们是否会信守承诺。问题在于继续倾听他们的意见是否有意义。二十多年来，腐败丑闻、这个词的贬值和选举后的失忆症正在沉淀一些难以逆转的东西：一种逃避"
+        "title_zh": "保罗·麦卡特尼和威尔·法瑞尔将出演《周六夜现场》第 51 季的大结局",
+        "description_zh": "麦卡特尼在该周期中表演了四次，在第五次演出中，前披头士乐队将发行他的专辑“The Boys of Dungeon Lane”中的全新歌曲。"
     },
     {
-        "article_id": "1f2b479ba2c1ca8e68f09c42f0ac76fd",
-        "link": "https://www.terra.com.br/esportes/vasco/vasco-cobra-empresa-por-ajustes-no-gramado-de-sao-januario,850345cce7990b4943c28a389ef4ce64skv6yi9x.html",
-        "title": "Vasco cobra empresa por ajustes no gramado de São Januário",
-        "description": "O Vasco não está satisfeito com a situação do gramado de São Januário. Afinal, o Cruz-Maltino ...",
+        "article_id": "ee5c90a738c0740d05b0aede5ebee939",
+        "link": "https://www.informador.mx/internacional/tribuna-segura-argentina-prohibira-a-deudores-alimentarios-entrar-a-estadios-20260515-0039.html",
+        "title": "Tribuna segura: Argentina prohibirá a deudores alimentarios entrar a estadios",
+        "description": "Ahora, además de antecedentes violentos o problemas de seguridad, el cumplimiento de responsabilidades parentales también podrá determinar quién entra y quién queda fuera de una cancha de fútbol",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "jogada10"
+        "keywords": [
+            "futbol argentino",
+            "tribuna segura",
+            "argentina"
         ],
-        "language": "portuguese",
+        "creator": [
+            "brenda barragán"
+        ],
+        "language": "spanish",
         "country": [
-            "brazil"
+            "mexico"
         ],
         "category": [
             "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:00:34",
+        "pubDate": "2026-05-15 15:43:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:05:19",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/05/14/121334653-whatsapp-image-2025-11-26-at-175640easy-resizecom-610x400.jpg",
+        "fetched_at": "2026-05-15 16:05:19",
+        "image_url": "https://www.informador.mx/__export/1778859869894/sites/elinformador/img/2026/05/15/dise-o_sin_t-tulo_-4-.png_1425159734.png",
         "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://n.bytvi.com/informador_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -431,20 +520,22 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Vasco 向公司收取 São Januário 草坪调整费用",
-        "description_zh": "瓦斯科对圣雅努阿里奥球场的情况并不满意。毕竟，克鲁兹-马尔蒂诺..."
+        "title_zh": "安全论坛报：阿根廷将禁止食品债务人进入体育场",
+        "description_zh": "现在，除了暴力背景或安全问题之外，遵守父母责任也可能决定谁进入足球场和谁留在足球场外。"
     },
     {
-        "article_id": "bf4691981dd80e586ffad1be3b265872",
-        "link": "https://horacero.com.mx/espectaculos/u2-baila-en-el-salon-los-angeles-en-la-colonia-guerrero",
-        "title": "U2 ‘baila’ en el Salón Los Ángeles, en la colonia Guerrero",
-        "description": "U2 cerró una larga jornada de grabación en la Ciudad de México la noche de este miércoles, dentro y fuera del Salón Los Ángeles, uno de los recintos más emblemáticos de la colonia Guerrero, donde filmó nuevas escenas para el video de \"Street of Dreams\". The post U2 ‘baila’ en el Salón Los Ángeles, en la colonia Guerrero appeared first on Hora Cero Web .",
+        "article_id": "a45c83e4036b64203fc6e022a110a8c9",
+        "link": "https://lasillarota.com/yo-soi-tu/2026/5/15/concierto-gratis-de-lila-downs-en-cdmx-cuando-donde-que-hora-sera-el-show-599467.html",
+        "title": "Concierto GRATIS de Lila Downs en CDMX: cuándo, dónde y a qué hora será el show",
+        "description": "El anuncio fue realizado por la jefa de Gobierno de la capital, Clara Brugada, quien compartió la noticia a través de sus redes sociales e invitó a las familias a disfrutar del espectáculo",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "secundarias"
+            "cdmx",
+            "concierto gratis",
+            "lila downs"
         ],
         "creator": [
-            "el universal"
+            "lérida cabello"
         ],
         "language": "spanish",
         "country": [
@@ -455,16 +546,16 @@
             "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:00:59",
+        "pubDate": "2026-05-15 15:43:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:17:59",
-        "image_url": "https://horacero.com.mx/wp-content/uploads/2026/05/Captura-de-pantalla-2026-05-14-a-las-10.58.24-a.m.webp",
+        "fetched_at": "2026-05-15 17:42:45",
+        "image_url": "https://lasillarota.com/u/fotografias/m/2026/5/15/f1280x720-862563_994238_4828.jpg",
         "video_url": null,
-        "source_id": "horacero_mx",
-        "source_name": "Horacero Mx",
-        "source_priority": 868697,
-        "source_url": "https://horacero.com.mx",
-        "source_icon": "https://n.bytvi.com/horacero_mx.png",
+        "source_id": "lasillarota",
+        "source_name": "La Silla Rota",
+        "source_priority": 200644,
+        "source_url": "https://lasillarota.com",
+        "source_icon": "https://n.bytvi.com/lasillarota.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -472,43 +563,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "U2 在格雷罗社区的洛杉矶音乐厅“跳舞”",
-        "description_zh": "本周三晚上，U2 在墨西哥城结束了漫长一天的录制，在洛杉矶音乐厅内外进行了录制，洛杉矶音乐厅是格雷罗社区最具代表性的场所之一，他们在那里拍摄了《梦想之街》视频的新场景。 U2 后在 Salón Los “跳舞”"
+        "title_zh": "Lila Downs 在 CDMX 举办的免费音乐会：演出时间、地点和时间",
+        "description_zh": "首都政府首脑克拉拉·布鲁加达 (Clara Brugada) 宣布了这一消息，她通过社交网络分享了这一消息，并邀请家人观看演出。"
     },
     {
-        "article_id": "f147ef3b09f2e21b42623dcefcb3e060",
-        "link": "https://www.latercera.com/nacional/noticia/condenan-a-presidio-perpetuo-a-autores-de-secuestro-con-homicidio-ocurrido-en-pudahuel/",
-        "title": "Condenan a presidio perpetuo a autores de secuestro con homicidio ocurrido en Pudahuel",
-        "description": "Los hechos ocurrieron en 2023, cuando las víctimas fueron trasladadas mediante amenazas a un domicilio, donde fueron torturadas y asesinadas.",
+        "article_id": "5075cfdb63a856da84bcc43ddb999f79",
+        "link": "https://www.lajornadadeoriente.com.mx/puebla/vecinos-de-huauchinango-exigen-traslado-de-restos-humanos-en-anfiteatro/",
+        "title": "Vecinos de Huauchinango exigen traslado de restos humanos por malos olores en anfiteatro",
+        "description": "Habitantes de las calles Tirzo Téllez, Agustín Cravioto y Corregidora, en Huauchinango , solicitaron la intervención de las autoridades estatales y municipales ante la permanencia de restos humanos en el Anfiteatro Municipal, situación que, señalaron, ha provocado fuertes olores debido al proceso de descomposición. Los inconformes pidieron a la fiscal general del estado, Idamis Pastor Betancur, así como a la regidora de Salud municipal, María Antonieta Natale, que gestionen el envío de la Unidad Técnica de Reconstrucción de Hechos para trasladar los cuerpos a la ciudad de Puebla. De acuerdo con los vecinos, algunos restos provendrían del municipio de Pahuatlán y permanecerían en el anfiteatro desde hace más de una semana. A ello se suma el hallazgo, el pasado domingo, de una persona no identificada localizada a un costado de las antiguas casetas de la pista de Texcapa, cerca de las instalaciones de la Guardia Nacional en Huauchinango. Puede ser de tu interés: Fallecen dos menores en incendio de casa en Huauchinango Los habitantes afirmaron que el olor se ha intensificado durante los últimos días, agravado por las altas temperaturas y las lluvias recientes. Aseguraron que esta situación afecta directamente su calidad de vida, pues las viviendas cercanas al anfiteatro resienten las condiciones sanitarias derivadas de la falta de traslado oportuno de los cuerpos. También cuestionaron la actuación de la directora del Servicio Médico Forense, Nohemí Bautista Suárez , quien, según los vecinos, visitó la zona hace aproximadamente 15 días sin que hasta ahora se haya resuelto el problema. Los colonos señalaron que desde hace casi dos años Huauchinango no cuenta con unidades de la UTREC , lo que complica el traslado de cuerpos y restos humanos. Expusieron que, ante la falta de vehículos oficiales, en algunos casos se recurre a servicios funerarios particulares para movilizar los cuerpos hacia el anfiteatro . Por ello, solicitaron la intervención del gobernador del estado para que se asignen las unidades necesarias y se garantice la operación adecuada de los servicios forenses en la región. Advirtieron que depender de vehículos provenientes de otros municipios provoca demoras, mantiene los cuerpos por más tiempo en el anfiteatro y agrava las molestias para quienes viven cerca del inmueble. Te recomendamos leer: Hallan restos humanos en cisterna de antiguos bares en la Avenida Juárez La entrada Vecinos de Huauchinango exigen traslado de restos humanos por malos olores en anfiteatro aparece primero en La Jornada de Oriente .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "fiscalía",
-            "homicidio",
-            "secuestro",
-            "pudahuel"
+            "huauchinango",
+            "servicio médico forense",
+            "restos humanos",
+            "unidad técnica de reconstrucción",
+            "traslado de cuerpos"
         ],
         "creator": [
-            "claudio portilla"
+            "martín hernández alcántara"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "mexico"
         ],
         "category": [
-            "top",
-            "crime"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:00:48",
+        "pubDate": "2026-05-15 15:42:58",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:35:37",
-        "image_url": "https://www.latercera.com/resizer/v2/4L6PRCLEAJDJTCBA5JQ46WKB6E.jpg?auth=a973cf18125cf253d2cff3a552187bb712397089636d8c92bda47bd2c56683f3&smart=true&width=6642&height=4428",
+        "fetched_at": "2026-05-15 16:16:25",
+        "image_url": "https://www.lajornadadeoriente.com.mx/wp-content/uploads/2026/05/IMAGENES-NOTAS-1365-x-768-px-24-1.jpg",
         "video_url": null,
-        "source_id": "latercera",
-        "source_name": "Latercera",
-        "source_priority": 32330,
-        "source_url": "https://www.latercera.com",
-        "source_icon": "https://n.bytvi.com/latercera.jpg",
+        "source_id": "lajornadadeoriente_mx",
+        "source_name": "Lajornadadeoriente Mx",
+        "source_priority": 981450,
+        "source_url": "https://www.lajornadadeoriente.com.mx",
+        "source_icon": "https://n.bytvi.com/lajornadadeoriente_mx.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -516,16 +607,66 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "普达韦尔发生绑架凶杀案的肇事者被判处终身监禁",
-        "description_zh": "这些事件发生在 2023 年，当时受害者被威胁带到家中，在那里遭到酷刑和谋杀。"
+        "title_zh": "华乌奇南戈的邻居因露天剧场散发恶臭而要求转移遗骸",
+        "description_zh": "华乌奇南戈 (Huauchinango) 的 Tirzo Téllez、Agustín Cravioto 和 Corregidora 街道的居民请求州和市政当局进行干预，因为市政露天剧场中存在永久性的人类遗骸，他们指出，这种情况导致了强烈的气味。"
     },
     {
-        "article_id": "a67647a210ad1b62e6d209254fb81122",
-        "link": "https://oem.com.mx/elsoldetoluca/local/con-tapetes-chinelos-y-musica-inicia-la-festividad-del-senor-de-los-milagros-en-ixtapaluca-29986849",
-        "title": "Con tapetes, chinelos y música, inicia la festividad del Señor de los Milagros en Ixtapaluca",
-        "description": "La celebración religiosa provocó cierres viales en el primer cuadro del municipio, donde habitantes mantuvieron viva una de las tradiciones más representativas de la zona de los volcanes",
+        "article_id": "d06ff79b6de956c342b246dc6e0888c9",
+        "link": "https://www.elgrafico.mx//espectaculos/2026/05/15/madonna-shakira-y-bts-protagonizaran-el-primer-medio-tiempo-en-la-final-del-mundial-2026/",
+        "title": "Madonna, Shakira y BTS protagonizarán el primer medio tiempo en la final del Mundial 2026",
+        "description": "Madonna, Shakira y BTS en el 'halftime show' de la final",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "bts",
+            "medio tiempo",
+            "shakira",
+            "show",
+            "2026",
+            "mundial",
+            "madonna"
+        ],
+        "creator": [
+            "el gráfico"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "sports",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-15 15:42:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-15 16:13:05",
+        "image_url": "https://www.elgrafico.mx/resizer/v2/ZDSSODO5IFBWZGDKSEIQAIVLJI.jpg?auth=d81cb89ff97f9bded109640c154843565378dbeb2d18bcac25c0937ee1fc6992&smart=true&width=1200&height=740",
+        "video_url": null,
+        "source_id": "elgrafico",
+        "source_name": "Elgrafico Mx",
+        "source_priority": 360449,
+        "source_url": "https://www.elgrafico.mx",
+        "source_icon": "https://n.bytvi.com/elgrafico.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "麦当娜、夏奇拉和防弹少年团将在 2026 年世界杯决赛上半场亮相",
+        "description_zh": "麦当娜、夏奇拉和防弹少年团在决赛的“半场表演”"
+    },
+    {
+        "article_id": "0a932544f4f1117b089ff2c49de511d9",
+        "link": "https://www.lostiempos.com/actualidad/pais/20260515/bloqueos-hay-largas-filas-combustible-servicios-municipales-paz-quedan",
+        "title": "Bloqueos: hay largas filas por combustible y servicios municipales en La Paz quedan en riesgo",
+        "description": "Debido a los constantes bloqueos en el país se registran largas filas por combustible en surtidores de la ciudad de La Paz. De igual manera, algunos servicios municipales como el transporte y recojo de basura, se ven en riego por la falta de diésel. El jueves por la noche conductores denunciaron que esperaron más de dos horas para cargar gasolina. La situación se registra en medio de los bloqueos en carreteras que estarían impidiendo el paso de cisternas con combustible, según la cámara de transporte de La Paz.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "bloqueos"
+        ],
         "creator": null,
         "language": "spanish",
         "country": [
@@ -536,174 +677,16 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:00:43",
+        "pubDate": "2026-05-15 15:42:51",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 21:14:48",
-        "image_url": "https://oem.com.mx/elsoldetoluca/img/29987470/1778774099/BASE_LANDSCAPE/1200/image.jpg",
+        "fetched_at": "2026-05-15 23:06:26",
+        "image_url": "https://www.lostiempos.com/sites/default/files/media_imagen/2026/5/15/gas.jpg",
         "video_url": null,
-        "source_id": "elsoldetoluca_mx",
-        "source_name": "Elsoldetoluca Mx",
-        "source_priority": 606748,
-        "source_url": "https://www.elsoldetoluca.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldetoluca_mx.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "伴随着地毯、拖鞋和音乐，奇迹之王的节日在伊斯塔帕卢卡拉开帷幕",
-        "description_zh": "宗教庆祝活动导致该市第一部分道路封闭，当地居民保留了火山地区最具代表性的传统之一。"
-    },
-    {
-        "article_id": "c2877a40d912bf6f5844ff587ab9ef15",
-        "link": "https://www.elciudadano.com/reels/video-polemica-por-la-rapidez-en-la-tramitacion-de-la-reforma-alcaldesa-y-municipios-se-preocupan-por-posibles-impactos-financieros/05/14/",
-        "title": "(VIDEO) Polémica por la rapidez en la tramitación de la reforma: Alcaldesa y municipios se preocupan por posibles impactos financieros",
-        "description": "El Ciudadano La alcaldesa de Valdivia y otros gobiernos comunales expresan preocupación por la rápida tramitación de una importante reforma, advirtiendo sobre posibles consecuencias en el financiamiento y la capacidad de servicio a la ciudadanía. Las críticas subrayan la necesidad de una discusión más pausada y participativa entre el Ejecutivo y los municipios. La entrada (VIDEO) Polémica por la rapidez en la tramitación de la reforma: Alcaldesa y municipios se preocupan por posibles impactos financieros se publicó primero en El Ciudadano .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "cristian"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "health"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-05-14 16:00:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:16:16",
-        "image_url": "https://www.elciudadano.com/wp-content/uploads/2026/05/d1c2cb1a-4156-45b3-aaa9-8867c7b44c3e.jpg",
-        "video_url": "https://www.elciudadano.com/reels/video-polemica-por-la-rapidez-en-la-tramitacion-de-la-reforma-alcaldesa-y-municipios-se-preocupan-por-posibles-impactos-financieros/05/14/",
-        "source_id": "elciudadano",
-        "source_name": "El Ciudadano",
-        "source_priority": 583045,
-        "source_url": "https://www.elciudadano.com",
-        "source_icon": "https://n.bytvi.com/elciudadano.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "（视频）对改革处理速度的争议：市长和市政府担心可能的财务影响",
-        "description_zh": "El Ciudadano 瓦尔迪维亚市长和其他市镇政府对一项重要改革的快速处理表示担忧，并警告可能对融资和服务公民的能力造成影响。批评强调讨论的必要性"
-    },
-    {
-        "article_id": "56ec788cd223ddcd7dcea1c9555d8969",
-        "link": "https://news.culturacolectiva.com/noticias/mundo/diaz-ayuso-arremete-contra-mexico-asamblea-espanola-viaje/",
-        "title": "VIDEO: ‘México no existió hasta que llegaron los españoles’, Díaz Ayuso desata polémica por dichos sobre la conquista",
-        "description": "Díaz Ayuso dijo en el pleno de Madrid que México no existió antes de los españoles, tras cancelar anticipadamente su viaje institucional al país.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ayuso"
-        ],
-        "creator": [
-            "lizbeth garcía"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "entertainment",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-14 16:00:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 20:30:50",
-        "image_url": "https://i0.wp.com/news.culturacolectiva.com/wp-content/uploads/2026/05/Dias-Ayuso-dice-en-asamblea-espanola-que-Mexico-no-existiria-sin-Espana-avivando-la-polemica-de-la-colonizacion.jpeg",
-        "video_url": null,
-        "source_id": "culturacolectiva",
-        "source_name": "Cultura Colectiva",
-        "source_priority": 42562,
-        "source_url": "https://news.culturacolectiva.com",
-        "source_icon": "https://n.bytvi.com/culturacolectiva.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "视频：迪亚兹·阿尤索“在西班牙人到来之前，墨西哥并不存在”，有关征服的言论引发争议",
-        "description_zh": "迪亚斯·阿尤索在马德里全体会议上表示，墨西哥在西班牙之前并不存在，此前他提前取消了对墨西哥的机构访问。"
-    },
-    {
-        "article_id": "09a662eedb8ec2deb9d2ed4d7b4d5866",
-        "link": "https://www.eldesmarque.com/futbol/liga-1a-division/20260514/guardado-desafia-monchi-sevilla-jerarquia_18_019168787.html",
-        "title": "Guardado desafía a Monchi: \"Con los del Sevilla tendrá jerarquía para que se callen; ¿Qué me va a decir a mí?\"",
-        "description": "El ex del Betis cuenta todo lo que pasó en el vestuario Andrés Guardado recuerda su pelea con Manuel Pellegrini: \"La más fuerte de mi vida\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "pepe jiménez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-14 16:00:33",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 20:32:01",
-        "image_url": "https://album.mediaset.es/eimg/2026/05/14/andres-guardado-durante-la-entrevista-16-9-aspect-ratio-default-0_da39.jpg?w=1024",
-        "video_url": null,
-        "source_id": "eldesmarque",
-        "source_name": "Eldesmarque",
-        "source_priority": 44851,
-        "source_url": "https://motor.eldesmarque.com",
-        "source_icon": "https://n.bytvi.com/eldesmarque.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "瓜尔达多挑战蒙奇：“在塞维利亚队，他将通过等级制度让他们保持安静；他会对我说什么？”",
-        "description_zh": "前贝蒂斯球员讲述了更衣室里发生的一切安德烈斯·瓜尔达多回忆起他与曼努埃尔·佩莱格里尼的战斗：“我一生中最强的”"
-    },
-    {
-        "article_id": "8a72d73bce1b9ca99aaa73df075a7d9a",
-        "link": "https://horacero.com.mx/columnas/la-rapina",
-        "title": "La rapiña",
-        "description": "Un párrafo lapidario publicado por el portal cibernético QueensLatino el primero de septiembre de 2025, da una idea precisa del acontecer mundial actual: “La verdadera amenaza a la paz mundial es Occidente porque no sabe vivir sin saquear recursos ajenos, por eso, y para vender armas, vivimos una guerra eterna”. The post La rapiña appeared first on Hora Cero Web .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "opinion"
-        ],
-        "creator": [
-            "fortino cisneros calzada"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-14 16:00:20",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:17:59",
-        "image_url": "https://horacero.com.mx/wp-content/uploads/2025/10/FORTINO.jpg",
-        "video_url": null,
-        "source_id": "horacero_mx",
-        "source_name": "Horacero Mx",
-        "source_priority": 868697,
-        "source_url": "https://horacero.com.mx",
-        "source_icon": "https://n.bytvi.com/horacero_mx.png",
+        "source_id": "lostiempos",
+        "source_name": "Los Tiempos",
+        "source_priority": 43536,
+        "source_url": "https://www.lostiempos.com",
+        "source_icon": "https://n.bytvi.com/lostiempos.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -711,62 +694,45 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "掠夺",
-        "description_zh": "QueensLatino 网络门户网站 2025 年 9 月 1 日发表的一段精辟的段落，对当前的世界事件给出了精确的描述：“对世界和平的真正威胁是西方，因为它不知道如何在不掠夺他人资源的情况下生存，因此，为了出售武器，我们生活在一个"
+        "title_zh": "封锁：拉巴斯的燃料排长队，市政服务面临风险",
+        "description_zh": "由于该国持续封锁，拉巴斯市的加油站前排起了长队加油。同样，交通和垃圾收集等一些市政服务也因缺乏柴油而面临风险。周四晚上，司机们报告说"
     },
     {
-        "article_id": "6ed0098149a71ca32a8965f054c08a9b",
-        "link": "https://cnnespanol.cnn.com/2026/05/14/eeuu/todd-blanche-recusarse-asuntos-trump-departamento-justicia-trax",
-        "title": "Exclusivo: en 2025 se le pidió a Todd Blanche que se recusara de los asuntos del Departamento de Justicia vinculados a Trump",
-        "description": "Apenas dos semanas después de que Todd Blanche asumiera el cargo de secretario de Justicia adjunto en marzo de 2025, el principal asesor de ética del departamento le comunicó una noticia clara, aunque incómoda: era necesario que se recusara de los casos judiciales que involucraran al presidente Donald Trump a título personal.",
+        "article_id": "f9ea9b32159a496aad3e8870cfeab7e9",
+        "link": "https://www.elpais.com.co/colombia/jorge-ivan-ospina-denuncia-sobrecostos-en-nueva-eps-se-aprobaron-traslados-en-avion-que-serian-innecesarios-1532.html",
+        "title": "Jorge Iván Ospina denuncia sobrecostos en Nueva EPS; se aprobaron traslados en avión que serían innecesarios",
+        "description": "El interventor cuestionó los altos costos administrativos del sistema de salud y denunció presuntas prácticas irregulares.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "todd blanche",
-            "departamento de justicia",
-            "trump"
+            "nueva eps",
+            "jorge iván ospina",
+            "comisiones",
+            "denuncia",
+            "sobrecostos",
+            "salud"
         ],
         "creator": [
-            "katelyn polantz"
+            "esther andrea moreno mosquera"
         ],
         "language": "spanish",
         "country": [
-            "venezuela",
-            "chile",
-            "colombia",
-            "honduras",
-            "puerto rico",
-            "ecuador",
-            "uruguay",
-            "nicaragua",
-            "guinea",
-            "spain",
-            "cuba",
-            "argentina",
-            "el salvador",
-            "peru",
-            "bolivia",
-            "paraguay",
-            "dominican republic",
-            "costa rica",
-            "guatemala",
-            "mexico",
-            "panama"
+            "colombia"
         ],
         "category": [
             "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:00:16",
+        "pubDate": "2026-05-15 15:42:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:34:07",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273154368-20260514154405080.jpg?c=original/w_800",
+        "fetched_at": "2026-05-15 16:06:15",
+        "image_url": "https://semana-el-pais-prod.web.arc-cdn.net/resizer/v2/I6DMCDDNVZE3BKEKQYA7A4YAGQ.jpg?auth=1bbfb6ee7b9ec28a7329a46b97749ed3fae68d73b5bd4ec0d833e93215806af0&smart=true&width=2000&height=1125",
         "video_url": null,
-        "source_id": "cnnespanol",
-        "source_name": "Cnn",
-        "source_priority": 16314,
-        "source_url": "https://cnnespanol.cnn.com",
-        "source_icon": "https://n.bytvi.com/cnnespanol.png",
+        "source_id": "elpaiscl",
+        "source_name": "El Pais",
+        "source_priority": 39172,
+        "source_url": "https://www.elpais.com.co",
+        "source_icon": "https://n.bytvi.com/elpaiscl.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -774,40 +740,85 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "独家：托德·布兰奇 (Todd Blanche) 要求在 2025 年回避参与与特朗普有关的司法部事务",
-        "description_zh": "托德·布兰奇 (Todd Blanche) 于 2025 年 3 月接任司法部副部长仅两周后，该部门的最高道德顾问就给了他明确但令人不安的消息：他需要回避涉及总统的法庭案件。"
+        "title_zh": "Jorge Iván Ospina 谴责 Nueva EPS 成本超支；不必要的飞机接送已获批准",
+        "description_zh": "审计员质疑卫生系统高昂的行政成本，并谴责所谓的违规行为。"
     },
     {
-        "article_id": "64488a70cd86428cfd0b81345fed05f5",
-        "link": "https://www.adn40.mx/mexico/2026-05-14/cambia-la-tenencia-de-animales-en-baja-california-sur-proponen-reforma-que-impactara-en-todas-las-personas-que-tengan-mascotas/",
-        "title": "Proponen una reforma con respecto a la tutela de animales",
-        "description": "El Congreso estatal analiza cambios profundos al Código Civil que establecen la tutela responsable y vinculan el bienestar animal con el derecho humano a un medio ambiente sano.",
+        "article_id": "d497a22c2330f746e0d14ce2495b3e6c",
+        "link": "https://www.elnuevosiglo.com.co/politica/disidencias-de-mordisco-anuncian-tregua-hasta-el-10-de-junio",
+        "title": "Disidencias de ‘ Mordisco‘ anuncian tregua hasta el 10 de junio",
+        "description": "Disidencias de ‘ Mordisco‘ anuncian tregua hasta el 10 de junio El grupo armado suspenderá ataques desde el 20 de mayo, aunque mantiene su \"derecho a defensa\".",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "pna",
-            "baja california sur"
+            "guerrilla",
+            "pazx",
+            "elecciones"
         ],
         "creator": [
-            "tatiana cuschnir"
+            "xiomara bustos"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "colombia"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-15 15:42:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-15 16:20:09",
+        "image_url": "https://www.elnuevosiglo.com.co/sites/default/files/2026/05/15/imagen/desidencias%20alto%20al%20fuego.png",
+        "video_url": null,
+        "source_id": "elnuevosiglo",
+        "source_name": "El Nuevo Siglo",
+        "source_priority": 3048165,
+        "source_url": "http://elnuevosiglo.com.co",
+        "source_icon": "https://n.bytvi.com/elnuevosiglo.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“Mordisco”持不同政见者宣布休战至 6 月 10 日",
+        "description_zh": "“Mordisco”持不同政见者宣布休战至 6 月 10 日 该武装组织将从 5 月 20 日起暂停袭击，但仍保留“防御权”。"
+    },
+    {
+        "article_id": "3303d65765574c021d2ae0e4b7a493ae",
+        "link": "https://www.semana.com/mundo/articulo/latin-consumer-summit-2026-segundo-dia-del-foro-sobre-consumo-y-comercio-minorista-latinoamericano/202630/",
+        "title": "Latin Consumer Summit 2026: Segundo día del foro sobre consumo y comercio minorista latinoamericano",
+        "description": "La Universidad Internacional de la Florida congrega a decenas de altos ejecutivos y empresarios de todo el mundo en la ciudad de Miami.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "summit latinoamérica",
+            "comercio",
+            "ecommerce",
+            "consumidor"
+        ],
+        "creator": [
+            "redacción mundo"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
         ],
         "category": [
             "world"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:00:02",
+        "pubDate": "2026-05-15 15:42:30",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 22:10:46",
-        "image_url": "https://tvazteca-adnnoticias-prod.web.arc-cdn.net/resizer/v2/TVGRGG3HWVAZTF5JJL2D66HQPA.jpg?auth=6c6db6defd0b4dcb4be92332532715581d37eba032f78fcd4322c01a3444e0de&smart=true&width=1200&height=675",
+        "fetched_at": "2026-05-15 16:04:53",
+        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/Q6WPFHQFAZFMJJYF322D7DKNKE.jpg?auth=ef85e26178a66ea885f531214f255f9771b7c989190529eaa8f0f7c3590fca73&smart=true&width=5842&height=3895",
         "video_url": null,
-        "source_id": "adn40",
-        "source_name": "Adn40",
-        "source_priority": 220795,
-        "source_url": "https://www.adn40.mx",
-        "source_icon": "https://n.bytvi.com/adn40.png",
+        "source_id": "semana",
+        "source_name": "Semana",
+        "source_priority": 15867,
+        "source_url": "https://www.semana.com",
+        "source_icon": "https://n.bytvi.com/semana.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -815,39 +826,84 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们提出有关动物监护的改革",
-        "description_zh": "州议会分析了《民法典》的深刻变化，这些变化确立了负责任的监护权，并将动物福利与健康环境的人权联系起来。"
+        "title_zh": "2026 年拉丁美洲消费者峰会：拉丁美洲消费和零售贸易论坛第二天",
+        "description_zh": "佛罗里达国际大学在迈阿密市聚集了来自世界各地的数十名高级管理人员和商人。"
     },
     {
-        "article_id": "d7cd74b4b1096f1b7d2763906391d9b1",
-        "link": "https://www.merca20.com/richard-dawkins-divulgador-cientifico-las-maquinas-pueden-pensar-e-incluso-ser-conscientes/",
-        "title": "Richard Dawkins, divulgador científico: “Las máquinas pueden pensar e incluso ser conscientes”",
-        "description": "Richard Dawkins sorprendió al asegurar que, tras conversar durante días con una inteligencia artificial, comenzó a creer que las máquinas no solo pueden pensar, sino quizá también desarrollar algún tipo de conciencia.",
+        "article_id": "d9cff850510966b86f300f00f423c8b4",
+        "link": "https://www.infobae.com/peru/2026/05/15/ecuador-lleva-su-guerra-contra-el-narcotrafico-hasta-la-frontera-con-peru-militares-toman-puerto-bolivar/",
+        "title": "Ecuador lleva su guerra contra el narcotráfico hasta la frontera con Perú: militares toman Puerto Bolívar",
+        "description": "a intervención contempla allanamientos en más de 1.600 viviendas y el despliegue permanente de fuerzas de seguridad durante 96 horas continuas",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "home"
+            "ecuador",
+            "peru-noticias",
+            "perú",
+            "militares",
+            "narcotráfico"
         ],
         "creator": [
-            "jennifer sánchez dimas"
+            "analí espinoza"
         ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "argentina",
+            "colombia",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-15 15:42:27",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-15 16:00:42",
+        "image_url": "https://www.infobae.com/resizer/v2/AMX3UF6HABDRPJ3LA5ZQ4D634M.JPG?auth=94756009fb275ff8b499af685634f0f9405e078bfa2a321c90e3d9c864f4d97a&smart=true&width=5394&height=3688",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "厄瓜多尔将打击贩毒的战争推向秘鲁边境：士兵占领玻利瓦尔港",
+        "description_zh": "干预措施包括突袭 1,600 多所房屋，并持续部署安全部队 96 小时"
+    },
+    {
+        "article_id": "f2fda61f1493810e9f1801157a7fffaf",
+        "link": "https://oem.com.mx/elsoldecuernavaca/local/san-miguel-acapantzingo-celebra-a-san-isidro-labrador-con-cabalgata-chinelos-y-fiesta-30005184",
+        "title": "Más de 200 años de tradición: Acapantzingo celebra a San Isidro Labrador con cabalgata y fiesta",
+        "description": "Con una tradición de más de 200 años, en el poblado de Acapantzingo celebran al santo patrono de los agricultores y campesinos cada 15 de mayo: San Isidro Labrador",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "business"
+            "tourism",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-14 16:00:01",
+        "pubDate": "2026-05-15 15:42:20",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-14 16:36:06",
-        "image_url": "https://files.merca20.com/uploads/2026/05/Richard-Dawkins-e1778773254377.jpeg",
+        "fetched_at": "2026-05-15 21:18:20",
+        "image_url": "https://oem.com.mx/elsoldecuernavaca/img/30005766/1778858694/BASE_LANDSCAPE/1200/image.jpg",
         "video_url": null,
-        "source_id": "merca20",
-        "source_name": "Mercadotecnia",
-        "source_priority": 42257,
-        "source_url": "https://www.merca20.com",
-        "source_icon": "https://n.bytvi.com/merca20.png",
+        "source_id": "elsoldecuernavaca_mx",
+        "source_name": "El Sol De Cuernavaca",
+        "source_priority": 1039602,
+        "source_url": "https://www.elsoldecuernavaca.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldecuernavaca_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -855,7 +911,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "科学传播者理查德·道金斯：“机器可以思考，甚至​​有意识”",
-        "description_zh": "理查德·道金斯惊讶地表示，在与人工智能交谈了几天之后，他开始相信机器不仅可以思考，而且也许还可以发展某种类型的意识。"
+        "title_zh": "200 多年的传统：Acapantzingo 通过游行和派对庆祝圣伊西德罗拉布拉多",
+        "description_zh": "拥有 200 多年传统的 Acapantzingo 镇每年 5 月 15 日都会庆祝农民和农民的守护神：圣伊西德罗拉布拉多"
     }
 ]
