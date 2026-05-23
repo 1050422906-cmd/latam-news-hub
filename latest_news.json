@@ -1,20 +1,16 @@
 [
     {
-        "article_id": "4fcd072f41226842c21ef1f8db7d5f4e",
-        "link": "https://www.perfil.com/noticias/economia/adrs-y-acciones-argentinas-operan-mixtos-mientras-el-riesgo-pais-se-mantiene-debajo-de-los-530-puntos-a40.phtml",
-        "title": "ADRs y acciones argentinas operan mixtos mientras el riesgo país se mantiene debajo de los 530 puntos",
-        "description": "Los activos argentinos cotizan con resultados dispares este jueves 21 de mayo, en una rueda marcada por la cautela global y la suba del petróleo. Mientras los ADRs muestran mayoría de alzas en Wall Street y el riesgo país se sostiene debajo de los 530 puntos básicos, los principales índices estadounidenses operan en rojo ante la persistencia de tensiones geopolíticas y el avance de los rendimientos de los bonos del Tesoro de EEUU. Leer más",
+        "article_id": "c992f7a53e8169c7c575ed94094f845b",
+        "link": "https://launion.com.ar/espectaculos/quienes-son-los-nominados-gran-hermano-luego-del-repechaje-n5442703",
+        "title": "Quiénes son los nominados en Gran Hermano luego del repechaje",
+        "description": "Los 12 jugadores “originales” fueron al confesionario del certamen de Telefe y se armó una nueva palca negativa en Gran Hermano Generación Dorada. Así fue la presentación de Charlotte Caniggia en Gran Hermano",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "wall street",
-            "bonos",
-            "mercados",
-            "dólar",
-            "riesgo país",
-            "acciones"
+            "gran hermano generación dorada",
+            "telefe"
         ],
         "creator": [
-            "federico nagierner"
+            "diario la unión"
         ],
         "language": "spanish",
         "country": [
@@ -22,19 +18,19 @@
         ],
         "category": [
             "top",
-            "business"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-21 16:14:00",
+        "pubDate": "2026-05-22 15:52:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:36:47",
-        "image_url": "https://fotos.perfil.com/2026/03/02/trim/540/304/mercados-02032026-2194808.jpg",
+        "fetched_at": "2026-05-22 16:15:29",
+        "image_url": "https://media.launion.com.ar/p/608c3a9ff27f978d5a14f26f3f9cab45/adjuntos/379/imagenes/100/138/0100138713/1200x675/smart/lzjvqizyvfhsbh7nfc4iovxvyq.avif",
         "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
+        "source_id": "launion",
+        "source_name": "Inicio",
+        "source_priority": 418574,
+        "source_url": "https://www.launion.com.ar",
+        "source_icon": "https://n.bytvi.com/launion.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -42,140 +38,166 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "美国存托凭证和阿根廷股市涨跌互现，国家风险仍低于 530 点",
-        "description_zh": "5 月 21 日星期四，在全球谨慎态度和石油上涨的背景下，阿根廷资产交易结果好坏参半。尽管美国存托凭证 (ADR) 显示华尔街大部分上涨且国家风险仍低于 530 个基点，但主要指数为"
+        "title_zh": "复活后《老大哥》的提名者是谁？",
+        "description_zh": "12名“原版”选手前往Telefe大赛忏悔，黄金一代老大哥又创造了新的负面剧情。这是夏洛特·卡尼吉亚 (Charlotte Caniggia) 在《老大哥》中的演讲"
     },
     {
-        "article_id": "b2b3e9e61b2867e26342e7862bfa5ef8",
-        "link": "https://www.dgabc.com.br/Noticia/4320329/mp-junto-ao-tcu-defende-homologacao-do-leilao-de-reserva-de-capacidade",
-        "title": "MP junto ao TCU defende homologação do leilão de reserva de capacidade",
-        "description": "MP junto ao TCU defende homologação do leilão de reserva de capacidade",
+        "article_id": "ee6619b379a229baf499c58b19b574aa",
+        "link": "https://www.bahianoticias.com.br/esportes/vitoria/31107-artilheiro-em-2024-alerrandro-volta-ao-barradao-apos-temporada-historica-pelo-vitoria",
+        "title": "Artilheiro em 2024, Alerrandro volta ao Barradão após temporada histórica pelo Vitória",
+        "description": "Destaque rubro-negro em 2024, atacante volta a Salvador pela primeira vez após passagem pelo futebol russo e chega em alta com a camisa do Internacional",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "santo andré",
-            "diadema",
-            "nacional",
-            "defesa",
-            "dgabc",
-            "homologação",
-            "política",
-            "internacional",
-            "rio grande da serra",
-            "setecidades",
-            "noticia",
-            "reserva",
-            "mptcu",
-            "turismo",
-            "d+",
-            "aneel",
-            "grande abc",
-            "automóveis",
-            "notícias",
-            "energia"
+            "reecontro",
+            "vitória",
+            "alerrandro",
+            "2024",
+            "barradao",
+            "serie a",
+            "brasileirao",
+            "campeonato brasileiro",
+            "artilheiro"
         ],
         "creator": [
-            "agência estado"
+            "hugo araújo"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:14:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:49:54",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://n.bytvi.com/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "TCU 议员为容量储备拍卖的批准辩护",
-        "description_zh": "TCU 议员为容量储备拍卖的批准辩护"
-    },
-    {
-        "article_id": "8265d8a23cb002cb018751ffea2b6b8b",
-        "link": "https://tribunadepetropolis.com.br/noticias/mp-junto-ao-tcu-defende-homologacao-do-leilao-de-reserva-de-capacidade/",
-        "title": "MP junto ao TCU defende homologação do leilão de reserva de capacidade",
-        "description": "O Ministério Público junto ao Tribunal de Contas da União (MPTCU) solicitou que a Corte de Contas determine, em caráter cautelar, a homologação dos resultados do leilão de reserva de capacidade nos prazos previstos em edital. O argumento central do pedido é que o descumprimento editalício não encontra amparo no ordenamento jurídico. No começo de [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "por renan monteiro; estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:14:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:43:51",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "TCU 议员为容量储备拍卖的批准辩护",
-        "description_zh": "联邦审计法院（MPTCU）检察官办公室要求审计法院在通知规定的期限内初步确定是否批准容量储备拍卖结果。该请求的核心论点是不遵守通知"
-    },
-    {
-        "article_id": "bbd646643a3649827ba0dbdfd409020d",
-        "link": "https://www.infobae.com/colombia/deportes/2026/05/21/asi-seran-los-fan-fest-oficiales-de-la-seleccion-colombia-en-el-mundial-2026-estaran-ubicados-en-las-capitales-de-colombia-y-miami/",
-        "title": "Así serán los Fan Fest oficiales de la selección Colombia en el Mundial 2026: estarán ubicados en las capitales de Colombia y Miami",
-        "description": "La Federación Colombiana de Fútbol habilitará escenario en Bogotá, Medellín, Barranquilla, Cali y Bucaramanga para que los aficionados disfruten de los partidos de la fase de grupos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "colombia-deportes",
-            "fan fest selección colombia",
-            "selección colombia mundial 2026",
-            "federación colombiana de fútbol",
-            "mundial 2026"
-        ],
-        "creator": [
-            "camilo zabaleta"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "united states of america",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "top",
             "sports"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-05-21 16:13:54",
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:52:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:30:33",
-        "image_url": "https://www.infobae.com/resizer/v2/CQYNTUXL4BCILBH2XKJZJOFJXM.jpg?auth=c87f0b68cce4b89a30ec2926864917e757bae586624feacca4680ce773e5f398&smart=true&width=3264&height=1778",
-        "video_url": "https://cdn.jwplayer.com/videos/PquNIicO-7njfJk2Q.mp4",
+        "fetched_at": "2026-05-22 16:11:58",
+        "image_url": "https://www.bahianoticias.com.br/fotos/esportes_vitorias/31107/IMAGEM_VITORIA_original.jpg",
+        "video_url": null,
+        "source_id": "bahianoticias",
+        "source_name": "Bahia Notícias",
+        "source_priority": 164044,
+        "source_url": "https://www.bahianoticias.com.br",
+        "source_icon": "https://n.bytvi.com/bahianoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "2024 年最佳射手阿勒兰德罗在维多利亚度过了历史性的赛季后重返巴拉当",
+        "description_zh": "红黑军团在2024年表现出色，前锋在俄罗斯足球比赛结束后首次回到萨尔瓦多，并穿着国际队球衣登上了巅峰"
+    },
+    {
+        "article_id": "b7fc2770e80a6de478d280a700e1847e",
+        "link": "https://www.futebolinterior.com.br/bryan-borges-e-afastado-da-ponte-preta-apos-discussao-com-eberlin/",
+        "title": "Bryan Borges é afastado da Ponte Preta após discussão com Eberlin",
+        "description": "Marco Antonio Eberlin se sentiu desrespeitado na frente do elenco da Ponte Preta após desentendimento com Bryan Borges",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ponte preta"
+        ],
+        "creator": [
+            "joao scott"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:59",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:14:43",
+        "image_url": "https://images.futebolinterior.com.br/2026/05/BRYAN-BORGES.webp",
+        "video_url": null,
+        "source_id": "futebolinterior",
+        "source_name": "Futebol Interior",
+        "source_priority": 434943,
+        "source_url": "https://www.futebolinterior.com.br",
+        "source_icon": "https://n.bytvi.com/futebolinterior.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "布莱恩·博尔赫斯 (Bryan Borges) 在与埃伯林 (Eberlin) 发生争执后被从 Ponte Preta 驱逐出境",
+        "description_zh": "在与布莱恩·博尔赫斯发生分歧后，马可·安东尼奥·埃伯林在庞特普雷塔队面前感到不受尊重"
+    },
+    {
+        "article_id": "ecb59e6f3778c236e8d3f78f6a90e861",
+        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/05/22/caminhao-carregado-com-aboboras-tomba-e-causa-congestionamento-na-rodovia-dom-pedro-i-em-campinas.ghtml",
+        "title": "Caminhão carregado com abóboras tomba e causa congestionamento na Rodovia Dom Pedro I em Campinas",
+        "description": "Caminhão carregado de abóboras tomba na Rodovia D. Pedro I e causa congestionamentos Um caminhão carregado de abóboras tombou na na Rodovia Dom Pedro I (SP-065), em Campinas (SP), após o motorista perder o controle do veículo. O acidente aconteceu na manhã desta sexta-feira (22), na altura do Km 145, no sentido Anhanguera. Segundo a Rota das Bandeiras, ninguém ficou ferido. As faixas 2 e 3 da pista precisaram ser interditadas para destombar o veículo, o que causou congestionamento no trecho. Ainda de acordo com a concessionária, o caminhão foi retirado do local e o trânsito flui normalmente. A ocorrência segue em atendimento pelo acostamento da pista. Caminhão tomba e causa congestionamento na Rodovia Dom Pedro Reprodução/EPTV VÍDEOS: tudo sobre Campinas e região Veja mais notícias da região no g1 Campinas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:59",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:09:09",
+        "image_url": "https://s2-g1.glbimg.com/B_ELc4qfj5FCZsDVNvm3unLkceE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/k/dB1pkqRO2mwE4BTFwANw/design-sem-nome-4-.png",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "坎皮纳斯市佩德罗一世高速公路上满载南瓜的卡车翻倒并造成拥堵",
+        "description_zh": "一辆满载南瓜的卡车在坎皮纳斯 (SP) 的罗多维亚 D. 佩德罗一世 (Rodovia D. Pedro I) (SP-065) 上翻车，造成交通堵塞，司机失去对车辆的控制后，一辆满载南瓜的卡车在坎皮纳斯 (SP) 的罗多维亚多姆佩德罗一世 (Rodovia Dom Pedro I) (SP-065) 上翻车。事故发生在周五（22日）上午，当时"
+    },
+    {
+        "article_id": "fcd94a5a7210ee21cf5e6a9fe00e55d7",
+        "link": "https://www.infobae.com/america/mundo/2026/05/22/marco-rubio-se-reunio-con-el-secretario-general-de-la-otan-para-tratar-los-gastos-en-defensa-y-la-guerra-en-iran/",
+        "title": "Marco Rubio se reunió con el secretario general de la OTAN para tratar los gastos en defensa y la guerra en Irán",
+        "description": "El secretario de Estado dialogó con Mark Rutte en Suecia, donde se desplazó para impulsar la visión del país norteamericano sobre el futuro de la alianza y los conflictos que enfrenta en la actualidad",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "marco rubio",
+            "eeuu",
+            "mark rutte",
+            "otan"
+        ],
+        "creator": [
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "mexico",
+            "united states of america"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:00:42",
+        "image_url": "https://www.infobae.com/resizer/v2/4OFK3YIUYZDMNLWUYJYVA4AVNM.JPG?auth=1638a2b0a0ad014c39437393be2741fa6522906f0b38ff5f526f6dd8b6434b74&smart=true&width=5549&height=3700",
+        "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
         "source_priority": 1056,
@@ -188,121 +210,87 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "哥伦比亚队在 2026 年世界杯上的官方球迷节将是这样的：他们将位于哥伦比亚首都和迈阿密",
-        "description_zh": "哥伦比亚足协将在波哥大、麦德林、巴兰基亚、卡利和布卡拉曼加设立赛场，以便球迷欣赏小组赛比赛"
+        "title_zh": "马可·卢比奥会见北约秘书长讨论国防开支和伊朗战争",
+        "description_zh": "国务卿在瑞典与马克·鲁特进行了交谈，他前往瑞典宣传这个北美国家对联盟未来的愿景及其当前面临的冲突。"
     },
     {
-        "article_id": "874fc788ed6d1b9b082960bb94f06205",
-        "link": "https://www.diariocronica.com.ar/noticias/2026/05/21/144309-generacion-z-y-la-inteligencia-artificial-el-dilema-de-la-dependencia-laboral",
-        "title": "Generación Z y la inteligencia artificial: el dilema de la dependencia laboral",
-        "description": "¿Herramienta o muleta? Un estudio revela que el 40 % de los jóvenes de la Generación Z no podría trabajar sin Inteligencia Artificial.",
+        "article_id": "938459782c428e5b6a54b72ce5314fd5",
+        "link": "https://www.infobae.com/salud/ciencia/2026/05/22/vitamina-d-y-calcio-para-prevenir-fracturas-un-estudio-mostro-datos-inesperados/",
+        "title": "Vitamina D y calcio para prevenir fracturas: un estudio mostró datos inesperados",
+        "description": "Son dos de los suplementos más recomendados por sus efectos en la salud ósea y articular. Una revisión sistemática y metaanálisis publicada en The BMJ examinó sus beneficios en personas mayores",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "últimas noticias",
+            "estudio",
+            "salud ósea",
+            "suplementos",
+            "calcio",
+            "longevidad",
+            "vitamina d"
+        ],
+        "creator": [
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "mexico",
+            "united states of america"
+        ],
+        "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:00:42",
+        "image_url": "https://www.infobae.com/resizer/v2/U2BETFLQKBBGRIVRUXTTY7JYXQ.png?auth=883ebbdebc2532ba3a658d6ae2dabe30161531bf2fa4ec11dd9b1bb4c5872c24&smart=true&width=2752&height=1536",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "维生素 D 和钙可预防骨折：一项研究显示出意外的数据",
+        "description_zh": "它们是最受推荐的两种补充剂，因为它们对骨骼和关节健康有影响。 《BMJ》发表的系统综述和荟萃分析研究了其对老年人的益处"
+    },
+    {
+        "article_id": "159b305a1a3088f52f506ebdad3ea20e",
+        "link": "https://oriobranco.net/governo-do-acre-regulamenta-plano-estadual-para-promocao-dos-direitos-das-pessoas-com-deficiencia/",
+        "title": "Governo do Acre regulamenta plano estadual para promoção dos direitos das pessoas com deficiência",
+        "description": "O governo do Acre regulamentou, por meio do Decreto No 11.892 a implementação da Lei no 4.501/2024, que institui o do Plano Intersetorial para a Promoção e Garantia dos Direitos das Pessoas com Deficiência, publicado no Diário Oficial do Estado (DOE/AC) desta sexta-feira, 22. A medida estabelece diretrizes para elaboração, execução, monitoramento...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "diario crónica"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:13:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:21:37",
-        "image_url": "https://diariocronica-s3.cdn.net.ar/s3i233/2026/05/diariocronica/images/02/60/62/2606246_eea3e75d0adee1d4b53f4455667542155711bde92001ca69539f8c9193dd481f/md.webp",
-        "video_url": null,
-        "source_id": "diariocronica_ar",
-        "source_name": "Diariocronica Ar",
-        "source_priority": 2931989,
-        "source_url": "https://www.diariocronica.com.ar",
-        "source_icon": "https://n.bytvi.com/diariocronica_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Z世代与人工智能：劳动力依赖的困境",
-        "description_zh": "工具还是拐杖？ A study reveals that 40% of young people from Generation Z would not be able to work without Artificial Intelligence."
-    },
-    {
-        "article_id": "2ee2fbfc9c65a9fabc0a7159aeaa1cca",
-        "link": "https://www.laopinioncoruna.es/mundo/2026/05/21/uss-nimitz-trump-despliega-portaviones-nuclear-caribe-tension-cuba-130509949.html",
-        "title": "Trump despliega el portaviones nuclear 'USS Nimitz' en aguas caribeñas en medio de la tensión creciente con Cuba",
-        "description": "La historia nunca se repite igual, pero a veces se parece de manera obstinada. Estados Unidos anunció el despliegue en el Caribe del portaviones USS Nimitz, acompañado de un grupo de ataque naval, justo en medio de las crecientes tensiones con Cuba. La intervención militar en Venezuela estuvo precedida por la presencia en aguas del Caribe su del USS Gerald R. Ford. Los nombres pueden cambiar, pero el sentido político de estos desplazamientos encuentra por estas horas una peligrosa semejanza, porque coincide con la acusación judicial en EEUU contra Raúl Castro por el derribo de dos avionetas civiles en 1996, en el que murieron cuatro personas, y la intensificación del cerco económico y energético estadounidense contra la isla.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estados unidos",
-            "cuba"
-        ],
-        "creator": [
-            "abel gilbert"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:13:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 17:06:34",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ea78da18-cdf3-40d5-9140-2c383220cded_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "video_url": null,
-        "source_id": "laopinioncoruna",
-        "source_name": "La Opinión A Coruña",
-        "source_priority": 50098,
-        "source_url": "https://www.laopinioncoruna.es",
-        "source_icon": "https://n.bytvi.com/laopinioncoruna.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "在与古巴的紧张局势加剧之际，特朗普将尼米兹号核航母部署到加勒比海",
-        "description_zh": "历史从来不会一模一样地重演，但有时却顽固地相似。在与古巴的紧张关系日益加剧之际，美国宣布将尼米兹号航空母舰部署到加勒比地区，并配有海军打击群。对委内瑞拉的军事干预是预先"
-    },
-    {
-        "article_id": "050e2353b8f0147596a28be243fdbe14",
-        "link": "https://www.nsctotal.com.br/noticias/meia-maratona-internacional-de-florianopolis-bate-recorde-reunindo-mais-de-12-mil-atletas",
-        "title": "Meia Maratona Internacional de Florianópolis bate recorde reunindo mais de 12 mil atletas",
-        "description": "A edição 2026 da Meia Maratona Internacional de Florianópolis Oakberry confirmou a força do turismo esportivo na capital catarinense. Com recorde de",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estúdio nsc branded content"
-        ],
-        "creator": [
-            "estúdio nsc"
+            "alessandra karoline"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top",
-            "sports"
+            "politics"
         ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:13:41",
+        "datatype": "blog",
+        "pubDate": "2026-05-22 15:51:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:33:20",
-        "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2026/05/MIF_0305070931_foto-Dani-Andrade-HEUSI-ACTION-2.jpg",
+        "fetched_at": "2026-05-22 16:22:31",
+        "image_url": "https://oriobranco.net/wp-content/uploads/2026/05/Mailza-e-pessoas-com-deficiencia-II-1024x682-1.jpeg",
         "video_url": null,
-        "source_id": "nsctotal",
-        "source_name": "Nsc Total",
-        "source_priority": 14276,
-        "source_url": "https://www.nsctotal.com.br",
-        "source_icon": "https://n.bytvi.com/nsctotal.png",
+        "source_id": "oriobranco",
+        "source_name": "Oriobranco Net",
+        "source_priority": 2791953,
+        "source_url": "https://oriobranco.net",
+        "source_icon": "https://n.bytvi.com/oriobranco.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -310,30 +298,70 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "弗洛里亚诺波利斯国际半程马拉松打破纪录，汇聚超过 12000 名运动员",
-        "description_zh": "2026 年弗洛里亚诺波利斯橡树莓国际半程马拉松赛证实了圣卡塔琳娜州首府体育旅游业的实力。有记录"
+        "title_zh": "阿卡政府制定促进残疾人权利的国家计划",
+        "description_zh": "阿卡政府通过第 11,892 号法令规范了第 4,501/2024 号法律的实施，该法律制定了促进和保障残疾人权利的部门间计划，该计划于本周五在官方国家公报 (DOE/AC) 上发布，22。"
     },
     {
-        "article_id": "d633af2efb29ca505bafdd539a0ea032",
-        "link": "https://valor.globo.com/politica/noticia/2026/05/21/em-indireta-a-flavio-lula-diz-que-nunca-foi-atras-de-lei-daniel-vorcaro-para-financiar-artistas.ghtml",
-        "title": "Em indireta a Flávio, Lula diz que nunca foi atrás de 'Lei Daniel Vorcaro' para financiar artistas",
-        "description": "O presidente Luiz Inácio Lula da Silva voltou a i...",
+        "article_id": "ec643aacebf6465edd4d27c71858d07a",
+        "link": "https://www.infobae.com/espana/agencias/2026/05/22/absuelta-una-exdirectiva-del-gomez-ulla-por-contratar-a-su-hermana-en-el-hospital/",
+        "title": "Absuelta una exdirectiva del Gómez Ulla por contratar a su hermana en el hospital",
+        "description": "Absuelta una exdirectiva del Gómez Ulla por contratar a su hermana en el hospital",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "brasil",
-            "master corretora",
-            "luiz inácio lula da silva",
-            "jair bolsonaro",
-            "banco master",
-            "aracruz (es)",
-            "polícia federal",
-            "banco do brasil",
-            "flávio bolsonaro",
-            "pronac (programa nacional de apoio à cultura)",
-            "governo federal",
-            "daniel bueno vorcaro"
+            "efe"
         ],
-        "creator": null,
+        "creator": [
+            "newsroom infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "mexico",
+            "united states of america"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:00:42",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "戈麦斯·乌拉 (Gómez Ulla) 的前董事因在医院雇用她的妹妹而被无罪释放",
+        "description_zh": "戈麦斯·乌拉 (Gómez Ulla) 的前董事因在医院雇用她的妹妹而被无罪释放"
+    },
+    {
+        "article_id": "9328457f1c9ac85608ee51d30eca244b",
+        "link": "https://www.diariodocentrodomundo.com.br/advogado-abandona-vorcaro-em-meio-a-impasse-sobre-delacao/",
+        "title": "Advogado abandona Vorcaro em meio a impasse sobre delação",
+        "description": "O advogado José Luis Oliveira Lima, conhecido como Juca, deixou a defesa de Daniel Vorcaro, dono do Banco Master. A informação foi confirmada pelo próprio criminalista, que afirmou ao Blog da Andréia Sadi no g1 que a saída ocorreu “de comum acordo” entre as partes. A mudança acontece poucos dias após a Polícia Federal rejeitar [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "josé luís oliveira lima",
+            "defesa",
+            "daniel vorcaro",
+            "jucá",
+            "advogado",
+            "delação"
+        ],
+        "creator": [
+            "caique lima"
+        ],
         "language": "portuguese",
         "country": [
             "brazil"
@@ -343,16 +371,16 @@
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-21 16:13:38",
+        "pubDate": "2026-05-22 15:51:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:31:53",
-        "image_url": "https://s2-valor.glbimg.com/-VAqKchWj1mo-My5zFnrHyg9CIg=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/m/Z/1ebNAWQAu0oIRUWwkAfg/55282969579-832ace6a18-o.jpg",
+        "fetched_at": "2026-05-22 16:06:32",
+        "image_url": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/05/1121313651-7syzfsenfngsvaxnui37m4kgfu-1-1200x800.webp",
         "video_url": null,
-        "source_id": "valor_globo",
-        "source_name": "Valor Globo",
-        "source_priority": 2786,
-        "source_url": "https://valor.globo.com",
-        "source_icon": "https://n.bytvi.com/valor_globo.png",
+        "source_id": "diariodocentrodomundo",
+        "source_name": "Dcm",
+        "source_priority": 46634,
+        "source_url": "https://www.diariodocentrodomundo.com.br",
+        "source_icon": "https://n.bytvi.com/diariodocentrodomundo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -360,43 +388,37 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "卢拉间接向弗拉维奥表示，他从未遵循“丹尼尔·沃卡罗法”来资助艺术家",
-        "description_zh": "路易斯·伊纳西奥·卢拉·达席尔瓦总统返回..."
+        "title_zh": "律师因举报陷入僵局而放弃沃卡罗",
+        "description_zh": "律师何塞·路易斯·奥利维拉·利马（José Luis Oliveira Lima）（又名 Juca）离开了 Banco Master 所有者丹尼尔·沃卡罗（Daniel Vorcaro）的辩护。该信息得到了犯罪学家本人的证实，他告诉安德烈亚·萨迪 (Andréia Sadi) 在 g1 上的博客，离职是双方“经双方同意”发生的。几天之内就会发生变化"
     },
     {
-        "article_id": "0e97c2292f64cf34143240569306daff",
-        "link": "https://www.perfil.com/noticias/sociedad/receta-de-locro-criollo-tradicional-paso-a-paso-el-clasico-casero-e-infaltable-para-este-25-de-mayo.phtml",
-        "title": "Receta de locro criollo tradicional paso a paso: el clásico casero e infaltable para este 25 de mayo",
-        "description": "El 25 de mayo deja de ser un día patrio si no se consume un plato tan tradicional como lo es el locro. Conocé la forma más eficaz para prepararlo con esta sencilla receta. Leer más",
+        "article_id": "d10fde2b604fd498cf07c5bcf4464bb3",
+        "link": "https://www.estadao.com.br/web-stories/paladar/radar/adeus-massa-seca-faca-broa-de-milho-macia-e-umida-igual-a-de-padaria/",
+        "title": "Adeus, massa seca! Faça broa de milho macia e úmida igual à de padaria",
+        "description": "Rendendo até 24 porções, essa receita de broa de milho igual de padaria do chef confeiteiro João Filho é prática, deliciosa e perfeita para acompanhar um café bem quentinho no fim da tarde.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "locro",
-            "recetas",
-            "feriado",
-            "25 de mayo"
-        ],
+        "keywords": null,
         "creator": [
-            "abel iranzi"
+            "radar"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
-            "top",
             "food"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-21 16:13:25",
+        "pubDate": "2026-05-22 15:51:23",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 17:37:38",
-        "image_url": "https://fotos.perfil.com/2026/05/21/trim/540/304/locro-2244893.jpg",
+        "fetched_at": "2026-05-22 16:34:04",
+        "image_url": "https://www.estadao.com.br/resizer/v2/BTQ52ZAXQ5H5DG5RAICDYWSPCU.jpg?auth=e704ccab50c59042d919cea08f355f64a06b96c0fe412b351e84b0cbfc4d3f3e&smart=true&width=6146&height=4099",
         "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -404,37 +426,221 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "传统克里奥尔 locro 食谱一步一步：5 月 25 日的自制必备经典",
-        "description_zh": "如果不吃像 Locro 这样的传统菜肴，5 月 25 日就不再是国庆日。通过这个简单的食谱了解最有效的准备方法。阅读更多"
+        "title_zh": "再见，干面团！制作柔软湿润的玉米面包，就像面包店风格的玉米面包一样",
+        "description_zh": "这款烘焙风格的玉米面包食谱由糕点师 João Filho 制作，可制作多达 24 份，实用、美味，非常适合在下午晚些时候搭配热咖啡。"
     },
     {
-        "article_id": "19679f6e4760362bba0f88288f1e3b8c",
-        "link": "https://br.investing.com/news/stock-market-news/reino-unido--acoes-fecharam-o-pregao-em-alta-e-o-indice-investingcom-reino-unido-100-avancou-018-1948447",
-        "title": "Reino Unido - Ações fecharam o pregão em alta e o Índice Investing.com Reino Unido 100 avançou 0,18%",
-        "description": "Reino Unido - Ações fecharam o pregão em alta e o Índice Investing.com Reino Unido 100 avançou 0,18%",
+        "article_id": "cbdda93f33a1bd974ae4153ce4b93c04",
+        "link": "https://www.publimetro.com.mx/comercial/2026/05/22/airbnb-destaca-a-las-ciudades-sede-de-mexico-entre-las-mas-accesibles-del-mundial-2026/",
+        "title": "Airbnb destaca a las ciudades sede de México entre las más accesibles del Mundial 2026",
+        "description": "Guadalajara, Monterrey y Ciudad de México mantienen opciones de hospedaje para distintos presupuestos rumbo a uno de los eventos más esperados del fútbol",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "airbnb",
+            "hospedaje",
+            "viajes",
+            "mundial 2026"
+        ],
+        "creator": [
+            "dulce moncada"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "tourism"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:08:31",
+        "image_url": "https://www.publimetro.com.mx/resizer/v2/YQ4EKJCQLNDGPFQ5VADVGSIBQA.jpg?auth=bcf63057e2ca5847240f19586e20a2f12df74f1e07cedecc234b3c168ad1eba0&width=1200&height=1200&smart=true",
+        "video_url": null,
+        "source_id": "publimetro",
+        "source_name": "Publimetro",
+        "source_priority": 59149,
+        "source_url": "https://www.publimetro.com.mx",
+        "source_icon": "https://n.bytvi.com/publimetro.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Airbnb 将墨西哥主办城市列为 2026 年世界杯最便利的城市之一",
+        "description_zh": "瓜达拉哈拉、蒙特雷和墨西哥城为最受期待的足球赛事之一提供不同预算的住宿选择"
+    },
+    {
+        "article_id": "a1d3c5bbb49372b857e5d53e7df3f70f",
+        "link": "https://vamoscruzazul.bolavip.com/mercado-de-pases/cruz-azul-seguiria-de-cerca-a-juan-brunetta-y-cesar-luis-merlo-revela-la-respuesta-de-tigres-uanl",
+        "title": "Cruz Azul seguiría de cerca a Juan Brunetta y César Luis Merlo revela la respuesta de Tigres UANL",
+        "description": "Mientras define el título del Clausura 2026, Cruz Azul estaría comenzando a mirar hacia el mercado de fichajes de Liga MX. Cruz Azul transita horas decisivas en el Clausura 2026. Tras el empate ante Pumas en la final de ida, el equipo de Joel Huiqui mantiene la mira puesta en el título , en una serie que promete tensión hasta el último minuto. Sin embargo, puertas adentro, la planificación no se detiene: la directiva celeste comienza a proyectar el futuro inmediato con el mercado de fichajes en el horizonte. En ese contexto, surgió un nombre que sacudió el panorama. El periodista especializado en transferencias César Luis Merlo reveló que La Máquina tendría en la mira a Juan Brunetta , una de las figuras más destacadas de la Liga MX en los últimos torneos con los Tigres de la UANL. “ El club que tiene el radar a Brunetta y esto es exclusivo es Cruz Azul . ¿Por qué digo en el radar? Porque lo han ofrecido y la verdad que es alguien que interesa ”, aseguró el en su canal de YouTube, dejando en claro que el interés existe, aunque aún no hay avances concretos. Juan Brunetta viene teniendo torneos sobresalientes con Tigres UANL. ¿Lo fichará Cruz Azul? (Imago7) El propio Merlo profundizó sobre la situación actual del atacante argentino y el escenario que lo rodea en el mercado, distanciándolo de otros rumores previos que lo vinculaban con América . “Cruz Azul está muy enfocado en la final contra Pumas, pero Brunetta está en etapa de análisis porque es un jugador que interesa ”, explicó. ¿Cuál sería la respuesta de Tigres ante un interés por Juan Brunetta? Del lado de Tigres, sería postura es clara y marca el pulso de una eventual negociación. Según el propio César Luis Merlo, no descarta la salida de su figura, aunque bajo condiciones exigentes: “ Tigres está dispuesto a vender a Brunetta, siempre y cuando llegue una oferta muy pero muy interesante en lo económico ”. ¿Cuánto debería pagar Cruz Azul por Juan Brunetta? De esta manera, cualquier avance de Cruz Azul dependería de su capacidad para presentar una propuesta que cumpla con las altas expectativas del conjunto felino. En ese sentido, el valor de mercado de Juan Brunetta, según Transfermarkt, es de 9 millones de euros ( casi 10.5 millones de dólares ), una cifra que podría tomarse como el piso que buscarían obtener los de Monterrey en una eventual negociación. ¿Cómo podría encajar Juan Brunetta en Cruz Azul? Juan Brunetta podría aportar su versatilidad en el frente de ataque a la competencia interna de Cruz Azul. El argentino se desempeña principalmente como mediocentro ofensivo, por detrás del delantero , aunque también puede partir desde un extremo , lo que lo convertiría en una rivalidad con José Paradela y Agustín Palavecino en la zona creativa , e incluso para Rodolfo Rotondi en el sector izquierdo .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mercado",
+            "liga mx",
+            "tigres uanl"
+        ],
+        "creator": [
+            "ivan zirulnik"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:01:52",
+        "image_url": "https://media.bolavip.com/wp-content/uploads/sites/12/2026/05/22094748/Juan-Brunetta-Tigres-UANL-Imago-02-e1779465030540-1200x740.jpg",
+        "video_url": null,
+        "source_id": "vamoscruzazul",
+        "source_name": "Vamos Azul",
+        "source_priority": 3554,
+        "source_url": "https://vamoscruzazul.bolavip.com",
+        "source_icon": "https://n.bytvi.com/vamoscruzazul.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Cruz Azul 将密切关注 Juan Brunetta，César Luis Merlo 透露了 Tigres UANL 的回应",
+        "description_zh": "在确定 2026 年克劳苏拉冠军头衔时，克鲁斯·阿祖尔将开始着眼于墨西哥足球甲级联赛转会市场。 Cruz Azul 正在经历 2026 年春季联赛的决定性时刻。首回合决赛战平 Pumas 后，Joel Huiqui 的球队将目标锁定在冠军上，"
+    },
+    {
+        "article_id": "fcd94a5a7210ee21cf5e6a9fe00e55d7",
+        "link": "https://www.infobae.com/america/mundo/2026/05/22/marco-rubio-se-reunio-con-el-secretario-general-de-la-otan-para-tratar-los-gastos-en-defensa-y-la-guerra-en-iran/",
+        "title": "Marco Rubio se reunió con el secretario general de la OTAN para tratar los gastos en defensa y la guerra en Irán",
+        "description": "El secretario de Estado dialogó con Mark Rutte en Suecia, donde se desplazó para impulsar la visión del país norteamericano sobre el futuro de la alianza y los conflictos que enfrenta en la actualidad",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "marco rubio",
+            "eeuu",
+            "mark rutte",
+            "otan"
+        ],
+        "creator": [
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "mexico",
+            "united states of america"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:00:42",
+        "image_url": "https://www.infobae.com/resizer/v2/4OFK3YIUYZDMNLWUYJYVA4AVNM.JPG?auth=1638a2b0a0ad014c39437393be2741fa6522906f0b38ff5f526f6dd8b6434b74&smart=true&width=5549&height=3700",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "马可·卢比奥会见北约秘书长讨论国防开支和伊朗战争",
+        "description_zh": "国务卿在瑞典与马克·鲁特进行了交谈，他前往瑞典宣传这个北美国家对联盟未来的愿景及其当前面临的冲突。"
+    },
+    {
+        "article_id": "938459782c428e5b6a54b72ce5314fd5",
+        "link": "https://www.infobae.com/salud/ciencia/2026/05/22/vitamina-d-y-calcio-para-prevenir-fracturas-un-estudio-mostro-datos-inesperados/",
+        "title": "Vitamina D y calcio para prevenir fracturas: un estudio mostró datos inesperados",
+        "description": "Son dos de los suplementos más recomendados por sus efectos en la salud ósea y articular. Una revisión sistemática y metaanálisis publicada en The BMJ examinó sus beneficios en personas mayores",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "últimas noticias",
+            "estudio",
+            "salud ósea",
+            "suplementos",
+            "calcio",
+            "longevidad",
+            "vitamina d"
+        ],
+        "creator": [
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "mexico",
+            "united states of america"
+        ],
+        "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:00:42",
+        "image_url": "https://www.infobae.com/resizer/v2/U2BETFLQKBBGRIVRUXTTY7JYXQ.png?auth=883ebbdebc2532ba3a658d6ae2dabe30161531bf2fa4ec11dd9b1bb4c5872c24&smart=true&width=2752&height=1536",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "维生素 D 和钙可预防骨折：一项研究显示出意外的数据",
+        "description_zh": "它们是最受推荐的两种补充剂，因为它们对骨骼和关节健康有影响。 《BMJ》发表的系统综述和荟萃分析研究了其对老年人的益处"
+    },
+    {
+        "article_id": "ce4a64a8abaf7ff7e5313138b19d572f",
+        "link": "https://oem.com.mx/elheraldodejuarez/local/avanza-modernizacion-de-pensiones-civiles-en-juarez-30141290",
+        "title": "Avanza modernización de Pensiones Civiles con nuevo equipo médico y contratación de especialistas",
+        "description": "La institución en Ciudad Juárez realiza remodelaciones, amplía áreas de atención y refuerza los servicios médicos con tecnología para reducir tiempos de espera entre los derechohabientes",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "investing.com"
+            "ráfagas"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "mexico"
         ],
         "category": [
-            "business"
+            "top",
+            "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-21 16:13:20",
+        "pubDate": "2026-05-22 15:51:41",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:35:27",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPECA10LL_L.jpg",
+        "fetched_at": "2026-05-22 21:15:12",
+        "image_url": "https://oem.com.mx/elheraldodejuarez/img/30142155/1779464776/BASE_LANDSCAPE/1200/image.jpg",
         "video_url": null,
-        "source_id": "investing_br",
-        "source_name": "Investing Brasil",
-        "source_priority": 33451,
-        "source_url": "https://br.investing.com",
-        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "source_id": "elheraldodejuarez_mx",
+        "source_name": "El Heraldo De Juárez",
+        "source_priority": 589221,
+        "source_url": "https://www.elheraldodejuarez.com.mx",
+        "source_icon": "https://n.bytvi.com/elheraldodejuarez_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -442,22 +648,137 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "",
-        "description_zh": "英国 - 股市收高，Investing.com 英国 100 指数上涨 0.18%"
+        "title_zh": "新医疗设备和专家聘用推动公民养老金现代化",
+        "description_zh": "华雷斯城的机构进行翻修，扩大护理区域，并利用技术加强医疗服务，以减少受益人的等待时间"
     },
     {
-        "article_id": "5c5a88c18f451d8421222f36a60d5ffc",
-        "link": "https://heraldodemexico.com.mx/nacional/2026/5/21/localizan-sin-vida-blanca-adriana-vazquez-montiel-en-tlaxcala-tras-acudir-una-clinica-de-belleza-en-puebla-816705.html",
-        "title": "Localizan sin vida a Blanca Adriana Vázquez Montiel en Tlaxcala tras acudir a una clínica de belleza en Puebla",
-        "description": "De acuerdo con los primeros reportes policiales, el cadáver de la mujer fue localizado al fondo de una zanja sobre la calle 4 Norte en territorio tlaxcalteca.",
+        "article_id": "ec643aacebf6465edd4d27c71858d07a",
+        "link": "https://www.infobae.com/espana/agencias/2026/05/22/absuelta-una-exdirectiva-del-gomez-ulla-por-contratar-a-su-hermana-en-el-hospital/",
+        "title": "Absuelta una exdirectiva del Gómez Ulla por contratar a su hermana en el hospital",
+        "description": "Absuelta una exdirectiva del Gómez Ulla por contratar a su hermana en el hospital",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "blanca adriana",
-            "desaparición"
+            "efe"
         ],
         "creator": [
-            "claudia espinoza"
+            "newsroom infobae"
         ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "mexico",
+            "united states of america"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:00:42",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "戈麦斯·乌拉 (Gómez Ulla) 的前董事因在医院雇用她的妹妹而被无罪释放",
+        "description_zh": "戈麦斯·乌拉 (Gómez Ulla) 的前董事因在医院雇用她的妹妹而被无罪释放"
+    },
+    {
+        "article_id": "308a4acb90fd8e5449b87bf822757a69",
+        "link": "https://actualidad.rt.com/actualidad/606508-2000-denuncias-conducta-sexual-inapropiada",
+        "title": "Más de 2.000 denuncias de conducta sexual inapropiada dentro del Ejército israelí",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "rt en español"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 16:05:14",
+        "image_url": "https://actualidad.rt.com/static/img/og-logo-rt-black.jpg",
+        "video_url": null,
+        "source_id": "rt_mx",
+        "source_name": "Rt",
+        "source_priority": 19092,
+        "source_url": "https://actualidad.rt.com",
+        "source_icon": "https://n.bytvi.com/rt_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "以色列军队内收到超过 2,000 起不当性行为投诉",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "5ed28ae39dc3231967950dbd8e56592f",
+        "link": "https://oem.com.mx/elsoldetampico/tendencias/cine-en-la-casa-de-la-naturaleza-prepara-las-palomitas-para-la-funcion-al-aire-libre-30142280",
+        "title": "Cine en la Casa de la Naturaleza: prepara las palomitas para la función al aire libre",
+        "description": "La función incluirá actividades ambientales, snacks saludables y dinámicas para toda la familia",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-22 21:14:17",
+        "image_url": "https://oem.com.mx/elsoldetampico/img/30142517/1779464660/BASE_LANDSCAPE/1200/image.jpg",
+        "video_url": null,
+        "source_id": "elsoldetampico_mx",
+        "source_name": "Elsoldetampico Mx",
+        "source_priority": 458854,
+        "source_url": "https://www.elsoldetampico.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldetampico_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "自然之家电影院：为户外放映准备爆米花",
+        "description_zh": "该活动将包括环保活动、健康零食和全家人的动态"
+    },
+    {
+        "article_id": "4a6f3c0dfa3dbd84286afcc8a8287d73",
+        "link": "https://unomasuno.com.mx/nacional/pemex-detecto-2563-tomas-clandestinas-en-1t-a-nivel-nacional/",
+        "title": "Pemex detectó 2,563 tomas clandestinas en 1T, a nivel nacional",
+        "description": "De acuerdo con los registros indicados por Pemex, en el primer trimestre del año en curso, a nivel nacional se identificaron 2,563 tomas clandestinas en ductos de petrolíferos y/o hidrocarburo, lo que representó un incremento del 4.87% en comparación con el mismo período de 2025. En otros términos, de acuerdo con los datos de Petróleos [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
         "language": "spanish",
         "country": [
             "mexico"
@@ -467,16 +788,16 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-21 16:14:00",
+        "pubDate": "2026-05-22 15:51:20",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:57:41",
-        "image_url": "https://heraldodemexico.com.mx/u/fotografias/m/2026/5/21/f1280x720-1286417_1418092_5050.jpg",
+        "fetched_at": "2026-05-22 16:21:52",
+        "image_url": "https://unomasuno.com.mx/wp-content/uploads/2026/05/PEMEX-1.jpeg",
         "video_url": null,
-        "source_id": "heraldodemexico",
-        "source_name": "El Heraldo De Mexico",
-        "source_priority": 21317,
-        "source_url": "https://heraldodemexico.com.mx",
-        "source_icon": "https://n.bytvi.com/heraldodemexico.png",
+        "source_id": "unomasuno",
+        "source_name": "Unomasuno Maxico",
+        "source_priority": 1956795,
+        "source_url": "https://unomasuno.com.mx",
+        "source_icon": "https://n.bytvi.com/unomasuno.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -484,171 +805,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "布兰卡·阿德里亚娜·巴斯克斯·蒙蒂尔 (Blanca Adriana Vázquez Montiel) 在前往普埃布拉的一家美容诊所后被发现死亡于特拉斯卡拉",
-        "description_zh": "根据警方的第一份报告，该女子的尸体位于特拉斯卡尔特卡地区北街 4 号的一条沟渠底部。"
+        "title_zh": "Pemex 第一季度在全国范围内发现 2,563 起秘密窃听事件",
+        "description_zh": "根据墨西哥国家石油公司的记录，今年第一季度，全国石油和/或碳氢化合物管道发现了2,563个秘密水龙头，与2025年同期相比增加了4.87%。"
     },
     {
-        "article_id": "52bb38f4777b4397e0052711c732afc2",
-        "link": "https://www.elmanana.com/noticias/internacional/investigacion-congela-cuentas-de-jose-luis-rodriguez-zapatero/6135952",
-        "title": "Investigación congela cuentas de José Luis Rodríguez Zapatero",
-        "description": "Detalles sobre la investigación del rescate de Plus Ultra",
+        "article_id": "1b9b4ffbe1e4887d05014a94d4900832",
+        "link": "https://www.infobae.com/espana/agencias/2026/05/22/decretan-prision-para-un-detenido-por-intento-de-agresion-sexual-a-una-mujer-en-merida/",
+        "title": "Decretan prisión para un detenido por intento de agresión sexual a una mujer en Mérida",
+        "description": "Decretan prisión para un detenido por intento de agresión sexual a una mujer en Mérida",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "audiencia nacional plus ultra investigaci&#243;n",
-            "rescate estatal aerol&#237;nea plus ultra",
-            "lavado de dinero funcionarios venezolanos"
+            "efe"
         ],
         "creator": [
-            "el universal"
+            "newsroom infobae"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:14:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-22 00:03:10",
-        "image_url": "https://blob.elmanana.com/images/2026/05/21/crop-w536-h447-captura-de-pantalla-2026-05-21-a-las-34537-p-m-c65c4869.png",
-        "video_url": null,
-        "source_id": "elmanana",
-        "source_name": "Últimas Noticias - El Mañana De Reynosa",
-        "source_priority": 258494,
-        "source_url": "https://www.elmanana.com",
-        "source_icon": "https://n.bytvi.com/elmanana.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "调查冻结何塞·路易斯·罗德里格斯·萨帕特罗的账户",
-        "description_zh": "Plus Ultra 赎金调查的详细信息"
-    },
-    {
-        "article_id": "f3bec7d10e725c2e3f88254777b8d162",
-        "link": "https://www.pulzo.com/nacion/caso-yulixa-autoridades-buscan-leo-supuesto-anestesiologo-que-sedo-PP5188331",
-        "title": "Aparece nombre clave en caso de Yulixa: buscan al anestesiólogo que la sedó para procedimiento",
-        "description": "Caso de Yulixa Toloza: se agregó un nombre, se trata de Leo, el señalado anestesiólogo que sedó a la mujer y que habría derivado en su muerte.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "homicidios",
-            "cirugías estéticas"
-        ],
-        "creator": [
-            "redacción nación"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "domestic"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:13:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:36:51",
-        "image_url": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5188331-h-o.webp",
-        "video_url": null,
-        "source_id": "pulzo",
-        "source_name": "Pulzo",
-        "source_priority": 81875,
-        "source_url": "https://www.pulzo.com",
-        "source_icon": "https://n.bytvi.com/pulzo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "尤利莎的案例中出现代号：他们正在寻找为她注射镇静剂的麻醉师",
-        "description_zh": "尤利克萨·托洛扎（Yulixa Toloza）案例：添加了一个名字，是利奥（Leo），著名麻醉师，他给这名妇女注射了镇静剂，这可能导致她死亡。"
-    },
-    {
-        "article_id": "640b49d614b5e25fbc1458d8898c7e89",
-        "link": "https://www.elgrafico.mx//futbol/2026/05/21/efrain-juarez-se-confiesa-sobre-como-fue-su-llegada-al-club-pumas/",
-        "title": "Efraín Juárez se confiesa sobre cómo fue su llegada al Club Pumas",
-        "description": "Juárez dijo que desde la pretemporada buscan el título",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "clausura 2026",
-            "efrain juarez",
-            "liga mx",
-            "pumas",
-            "final"
-        ],
-        "creator": [
-            "el gráfico"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:13:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:42:55",
-        "image_url": "https://www.elgrafico.mx/resizer/v2/6W2NQPVHT5AHTJXELHKHBL2SS4.jpg?auth=c0254149cdce2c2e94562b954f1334df6cafe3e330bfa10b4658db189219c722&smart=true&width=1200&height=740",
-        "video_url": null,
-        "source_id": "elgrafico",
-        "source_name": "Elgrafico Mx",
-        "source_priority": 360449,
-        "source_url": "https://www.elgrafico.mx",
-        "source_icon": "https://n.bytvi.com/elgrafico.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "埃弗拉因·华雷斯 (Efraín Juárez) 坦白自己来到美洲狮俱乐部的感受",
-        "description_zh": "华雷斯表示，从季前赛开始他们就一直在寻找冠军"
-    },
-    {
-        "article_id": "bbd646643a3649827ba0dbdfd409020d",
-        "link": "https://www.infobae.com/colombia/deportes/2026/05/21/asi-seran-los-fan-fest-oficiales-de-la-seleccion-colombia-en-el-mundial-2026-estaran-ubicados-en-las-capitales-de-colombia-y-miami/",
-        "title": "Así serán los Fan Fest oficiales de la selección Colombia en el Mundial 2026: estarán ubicados en las capitales de Colombia y Miami",
-        "description": "La Federación Colombiana de Fútbol habilitará escenario en Bogotá, Medellín, Barranquilla, Cali y Bucaramanga para que los aficionados disfruten de los partidos de la fase de grupos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "colombia-deportes",
-            "fan fest selección colombia",
-            "selección colombia mundial 2026",
-            "federación colombiana de fútbol",
-            "mundial 2026"
-        ],
-        "creator": [
-            "camilo zabaleta"
-        ],
-        "language": "spanish",
-        "country": [
+            "argentina",
             "colombia",
-            "united states of america",
             "mexico",
-            "argentina"
+            "united states of america"
         ],
         "category": [
             "top",
-            "sports"
+            "crime"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-05-21 16:13:54",
+        "datatype": "news",
+        "pubDate": "2026-05-22 15:51:20",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:30:33",
-        "image_url": "https://www.infobae.com/resizer/v2/CQYNTUXL4BCILBH2XKJZJOFJXM.jpg?auth=c87f0b68cce4b89a30ec2926864917e757bae586624feacca4680ce773e5f398&smart=true&width=3264&height=1778",
-        "video_url": "https://cdn.jwplayer.com/videos/PquNIicO-7njfJk2Q.mp4",
+        "fetched_at": "2026-05-22 16:00:42",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
         "source_priority": 1056,
@@ -661,217 +849,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "哥伦比亚队在 2026 年世界杯上的官方球迷节将是这样的：他们将位于哥伦比亚首都和迈阿密",
-        "description_zh": "哥伦比亚足协将在波哥大、麦德林、巴兰基亚、卡利和布卡拉曼加设立赛场，以便球迷欣赏小组赛比赛"
-    },
-    {
-        "article_id": "5ac1785f02c70362e2e2dce27e4a98b1",
-        "link": "https://novedadesdetabasco.com.mx/2026/05/21/sheinbaum-recibe-este-jueves-a-markwayne-mullin-secretario-de-seguridad-de-eu/",
-        "title": "Sheinbaum recibe este jueves a Markwayne Mullin, secretario de Seguridad de EU",
-        "description": "La presidenta Claudia Sheinbaum Pardo confirmó que este jueves recibirá en Palacio Nacional al secretario de Seguridad Nacional de Estados Unidos, Markwayne Mullin, en la que será la primera visita de un alto funcionario del gobierno de Donald Trump a México en 2026. En su conferencia matutina, la mandataria detalló que la reunión se realizará ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cat:nacional",
-            "cat:banner 1",
-            "type:post"
-        ],
-        "creator": [
-            "novedades"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:13:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:22:32",
-        "image_url": "https://novedadesdetabasco.com.mx/wp-content/uploads/2026/05/redes-1.webp",
-        "video_url": null,
-        "source_id": "novedadesdetabasco_mx",
-        "source_name": "Novedades De Tabasco",
-        "source_priority": 3923723,
-        "source_url": "https://novedadesdetabasco.com.mx",
-        "source_icon": "https://n.bytvi.com/novedadesdetabasco_mx.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "辛鲍姆周四会见美国安全部长马克韦恩·穆林",
-        "description_zh": "总统克劳迪娅·谢因鲍姆·帕尔多 (Claudia Sheinbaum Pardo) 确认，本周四她将在国家宫接待美国国土安全部部长马克韦恩·穆林 (Markwayne Mullin)，这将是唐纳德·特朗普政府高级官员 2026 年首次访问墨西哥。在上午的会议上，"
-    },
-    {
-        "article_id": "edb03811f3d893a6c71e3e4d7e8f0a5e",
-        "link": "https://www.elnuevosiglo.com.co/nacion/revelan-critica-situacion-de-salubridad-en-carceles-colombianas",
-        "title": "Revelan crítica situación de salubridad en cárceles colombianas",
-        "description": "Revelan crítica situación de salubridad en cárceles colombianas La Defensoría del Pueblo evidenció demoras en la autorización de procedimientos, dificultades para la asignación de citas especializadas y problemas de abastecimiento de medicamentos, como el presentado de manera crónica en La Modelo y El Buen Pastor, en Bogotá.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "situación en cárceles",
-            "privados de la libertad",
-            "vulneracion de derechos carceles"
-        ],
-        "creator": [
-            "paola.reatiga"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:13:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 17:22:29",
-        "image_url": "https://www.elnuevosiglo.com.co/sites/default/files/2026/05/21/imagen/carcel%20el%20buen%20pastor%20(1).png",
-        "video_url": null,
-        "source_id": "elnuevosiglo",
-        "source_name": "El Nuevo Siglo",
-        "source_priority": 3048165,
-        "source_url": "http://elnuevosiglo.com.co",
-        "source_icon": "https://n.bytvi.com/elnuevosiglo.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "哥伦比亚监狱卫生状况危急",
-        "description_zh": "它们揭示了哥伦比亚监狱的严峻健康状况。监察员办公室揭露了程序授权方面的延误、分配专门预约的困难以及药品供应方面的问题，例如 La M 中长期存在的问题"
-    },
-    {
-        "article_id": "c790ac84f55cae3c60432a9706ae98e0",
-        "link": "https://www.diariocordoba.com/internacional/2026/05/21/uss-nimitz-trump-despliega-portaviones-nuclear-caribe-tension-cuba-130509953.html",
-        "title": "Trump despliega el portaviones nuclear 'USS Nimitz' en aguas caribeñas en medio de la tensión creciente con Cuba",
-        "description": "La historia nunca se repite igual, pero a veces se parece de manera obstinada. Estados Unidos anunció el despliegue en el Caribe del portaviones USS Nimitz, acompañado de un grupo de ataque naval, justo en medio de las crecientes tensiones con Cuba. La intervención militar en Venezuela estuvo precedida por la presencia en aguas del Caribe su del USS Gerald R. Ford. Los nombres pueden cambiar, pero el sentido político de estos desplazamientos encuentra por estas horas una peligrosa semejanza, porque coincide con la acusación judicial en EEUU contra Raúl Castro por el derribo de dos avionetas civiles en 1996, en el que murieron cuatro personas, y la intensificación del cerco económico y energético estadounidense contra la isla.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estados unidos",
-            "cuba"
-        ],
-        "creator": [
-            "abel gilbert"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:13:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:36:11",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ea78da18-cdf3-40d5-9140-2c383220cded_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "video_url": null,
-        "source_id": "diariocordoba",
-        "source_name": "Cordoba",
-        "source_priority": 48787,
-        "source_url": "https://www.diariocordoba.com",
-        "source_icon": "https://n.bytvi.com/diariocordoba.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "在与古巴的紧张局势加剧之际，特朗普将尼米兹号核航母部署到加勒比海",
-        "description_zh": "历史从来不会一模一样地重演，但有时却顽固地相似。在与古巴的紧张关系日益加剧之际，美国宣布将尼米兹号航空母舰部署到加勒比地区，并配有海军打击群。对委内瑞拉的军事干预是预先"
-    },
-    {
-        "article_id": "33e1004c1f12997ceb43051719d3e216",
-        "link": "https://www.semana.com/economia/empresas/articulo/fenavi-prende-las-alarmas-por-bloqueos-en-buenaventura-hay-7800-toneladas-de-alimento-para-aves-represado/202645/",
-        "title": "Fenavi prende las alarmas por bloqueos en Buenaventura: hay 7.800 toneladas de alimento para aves represado",
-        "description": "El corredor hacia Buenaventura mueve insumos clave para una región que concentra parte importante de la producción avícola nacional.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "fenavi",
-            "pollo",
-            "buenaventura"
-        ],
-        "creator": [
-            "redacción semana"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:13:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:33:59",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/LVVWUAWZ4RAGHL7N5FEVXM66UM.jpg?auth=b2f59bf4600e2cb8841141ea7053f7fa2e6ac43e7f19bb53d1f556f16fd21ea7&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://n.bytvi.com/semana.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Fenavi因布埃纳文图拉堵塞拉响警报：有7800吨被堵住的鸟食",
-        "description_zh": "通往布埃纳文图拉的走廊为该地区输送关键投入，该地区集中了全国家禽生产的重要组成部分。"
-    },
-    {
-        "article_id": "4d77133379797646f2183faed0172bc0",
-        "link": "https://www.semana.com/confidenciales/articulo/paloma-valencia-se-desploma-en-polymarket-y-tiene-solo-9-por-ciento-de-probabilidad-de-ganar-la-presidencia/202641/",
-        "title": "Paloma Valencia se desploma en Polymarket y tiene solo 9 por ciento de probabilidad de ganar la Presidencia",
-        "description": "La candidata del Centro Democrático ha ido perdiendo un gran porcentaje en esta plataforma internacional.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "elecciones 2026",
-            "paloma valencia"
-        ],
-        "creator": [
-            "redacción semana"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "other"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-21 16:13:41",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-21 16:34:20",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/X4VSVGHIXFASPOXW2AIVRCGDTM.jpeg?auth=2b1340da0d159215bdc1e73aba887e98b0a3bda487a061ae96604ecab84de686&smart=true&width=8192&height=5464",
-        "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://n.bytvi.com/semana.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "帕洛玛·瓦伦西亚 (Paloma Valencia) 在 Polymarket 惨败，赢得总统宝座的机会只有 9%",
-        "description_zh": "民主党中间派候选人在这个国际平台上失去了很大比例。"
+        "title_zh": "梅里达一名因试图性侵犯一名妇女而被拘留的人被判入狱",
+        "description_zh": "梅里达一名因试图性侵犯一名妇女而被拘留的人被判入狱"
     }
 ]
