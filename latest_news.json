@@ -1,347 +1,18 @@
 [
     {
-        "article_id": "607f0e9ce101333d8cf4a85f0fa146a2",
-        "link": "https://tribunadepetropolis.com.br/noticias/ira-reafirma-controlar-estreito-de-ormuz-e-ameaca-agir-contra-interferencia-militar-estrangeira/",
-        "title": "Irã reafirma controlar Estreito de Ormuz e ameaça agir contra interferência militar estrangeira",
-        "description": "A Guarda Revolucionária Islâmica do Irã (IRGC, na sigla em inglês) reafirmou no início da tarde deste sábado, 30, que exercem controle total sobre a gestão do Estreito de Ormuz e advertiram que qualquer tentativa de interferência por embarcações militares estrangeiras poderá resultar em ação direta das forças iranianas. Em comunicado divulgado pelo Quartel-General Central [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "por pedro lima; estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:25:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:44:21",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "伊朗重申对霍尔木兹海峡的控制，并威胁采取行动反对外国军事干涉",
-        "description_zh": "伊朗伊斯兰革命卫队（IRGC）30日星期六下午早些时候重申，它对霍尔木兹海峡的管理实行完全控制，并警告说，任何外国军舰的干扰企图都可能导致"
-    },
-    {
-        "article_id": "6726ba13cf691c528e8718b9a3be1f9c",
-        "link": "https://www.dgabc.com.br/Noticia/4321775/embrapa-produz-em-laboratorio-salmao-caviar-e-aneis-de-lula-veganos",
-        "title": "Embrapa produz em laboratório salmão, caviar e anéis de lula veganos",
-        "description": "Tecnologia imita sabor e nutrientes dos alimentos em impressão 3D",
+        "article_id": "0a32425b3e6d4eed2378bd57e88227cf",
+        "link": "https://www.losandes.com.ar/por-las-redes/que-significa-la-aparicion-espuma-el-cesped-3-datos-claves-que-conviene-conocer-n5993094",
+        "title": "Qué significa la aparición de espuma en el césped: 3 datos claves que conviene conocer",
+        "description": "Esa extraña espuma blanca que surge entre el césped o las plantas no siempre es motivo de alarma, pero 3 datos lo aclaran.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "portal",
-            "dgabc",
-            "turismo",
-            "política",
-            "nacional",
-            "salmão",
-            "on line",
-            "vegano",
-            "setecidades",
-            "diarinho",
-            "abc",
-            "diadema",
-            "diário",
-            "esportes",
-            "são caetano",
-            "d+",
-            "alimentação",
-            "mauá",
-            "internacional",
-            "grande abc"
+            "jardín",
+            "curiosidades",
+            "césped",
+            "plantas"
         ],
         "creator": [
-            "da agência brasil"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "technology",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:25:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 17:19:09",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://n.bytvi.com/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "Embrapa 在实验室生产纯素鲑鱼、鱼子酱和鱿鱼圈",
-        "description_zh": "3D打印技术模仿食物的风味和营养成分"
-    },
-    {
-        "article_id": "77bfe39a3e97410dfbe5953abfc9284a",
-        "link": "https://www.canal26.com/bienestar-y-salud/2026/05/30/el-cambio-silencioso-que-afecta-a-los-jubilados-cual-es-el-horario-ideal-para-levantarse-cuando-dejamos-de-trabajar-para-ordenar-el-sueno/",
-        "title": "El cambio silencioso que afecta a los jubilados: cuál es el horario ideal para levantarse cuando dejamos de trabajar para ordenar el sueño",
-        "description": "Según la neurología, la pérdida de la rutina puede complicar la vida de las personas mayores. A qué hora deberían acostarse para mantener un buen ordenamiento del sueño.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "sueños",
-            "estudio científico",
-            "dormir"
-        ],
-        "creator": [
-            "lucía m. gómez"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:25:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:30:49",
-        "image_url": "https://www.canal26.com/resizer/v2/OP7JGRKBFNAIBAIKAYX3YUILFE.jpg?auth=3dc65c887c07a25c6f87a7f35acce01d1087d2b5e8f3922afdfe34977989e799&smart=true&width=1200&height=900",
-        "video_url": null,
-        "source_id": "canal26",
-        "source_name": "Canal26",
-        "source_priority": 9385,
-        "source_url": "https://www.canal26.com",
-        "source_icon": "https://n.bytvi.com/Canal26.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "影响退休人员的无声变化：当我们停止工作以安排睡眠时，什么是起床的理想时间",
-        "description_zh": "根据神经病学的研究，生活习惯的丧失会使老年人的生活变得复杂。他们应该什么时间睡觉以保持良好的睡眠秩序。"
-    },
-    {
-        "article_id": "0aed9c94412875f4fd7c66776cce5f63",
-        "link": "https://www.infobae.com/mexico/2026/05/30/leon-xiv-y-el-cuidado-de-la-magnifica-humanidad/",
-        "title": "León XIV y el cuidado de la “Magnífica Humanidad”",
-        "description": "El que sea su primera encíclica, el que haya participado en la presentación hablando en inglés e invitando a un empresario de IA y profesoras: todo eso revela con claridad quién es el Papa",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "máquinas",
-            "león xiv",
-            "paz",
-            "encíclica",
-            "sistemas computacionales",
-            "papa",
-            "mexico-opinion",
-            "mexico-noticias"
-        ],
-        "creator": [
-            "universidad panamericana",
-            "dr. luis pesquera olalde"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:24:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:30:29",
-        "image_url": "https://www.infobae.com/resizer/v2/VHACW4OJEFENRHEB23NMBISUYM.jpg?auth=ba948a5100488fb1da4b81ce635c00be6b78a3079dff7d627420105cac0a5cec&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "利奥十四世与“伟大的人性”的关怀",
-        "description_zh": "事实上，这是他的第一本通谕，事实上他用英语参加了演讲，并邀请了一位人工智能企业家和教授：所有这些都清楚地揭示了教皇是谁。"
-    },
-    {
-        "article_id": "796fcec2a46239c5484fd900f31a297e",
-        "link": "https://www.diariodocentrodomundo.com.br/a-manchete-sonegada-em-quase-oito-anos-flavio-bolsonaro-nunca-criou-uma-lei-por-moises-mendes/",
-        "title": "A manchete sonegada: em quase oito anos, Flávio Bolsonaro nunca criou uma lei. Por Moisés Mendes",
-        "description": "Esta é a chamada de capa da Folha, com um balanço do que teria sido até aqui a vida parlamentar medíocre do candidato do pai a presidente da República: “Flávio Bolsonaro mirou segurança, mas não teve projetos próprios transformados em lei”. Mas a informação que deveria estar na manchete está logo no começo do [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "legislação",
-            "segurança pública",
-            "pl",
-            "presidência",
-            "flávio bolsonaro",
-            "senado",
-            "mandato",
-            "brasil",
-            "pecs",
-            "projetos de lei"
-        ],
-        "creator": [
-            "moisés mendes"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:24:40",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 17:05:29",
-        "image_url": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/05/1_img20260521121010687-990x557-66757297.webp",
-        "video_url": null,
-        "source_id": "diariodocentrodomundo",
-        "source_name": "Dcm",
-        "source_priority": 46634,
-        "source_url": "https://www.diariodocentrodomundo.com.br",
-        "source_icon": "https://n.bytvi.com/diariodocentrodomundo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "隐藏的标题：在近八年的时间里，弗拉维奥·博尔索纳罗从未制定过法律。莫伊塞斯·门德斯",
-        "description_zh": "这是 Folha 的封面故事，概述了他父亲的共和国总统候选人迄今为止平庸的议会生活：“弗拉维奥·博尔索纳罗的目标是安全，但他自己的项目没有变成法律”。但应该出现在标题中的信息"
-    },
-    {
-        "article_id": "24dcffd398743a2e0f94e1f1277732f5",
-        "link": "https://www.brasil247.com/blog/trump-pode-fazer-com-lula-o-que-fez-com-maduro",
-        "title": "Trump pode fazer com Lula o que fez com Maduro?",
-        "description": "Ao pedir ajuda a Washington contra o próprio país, Flávio, Eduardo Bolsonaro e a extrema-direita querem importar para o Brasil a lógica da Guerra ao Terror",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "blog"
-        ],
-        "creator": [
-            "gustavo tapioca"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-05-30 16:24:23",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 19:42:30",
-        "image_url": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250923160944_37027310e29638b8128c602673e313c6905854f3f24cb36420ed7817f5f2c531.jpg",
-        "video_url": null,
-        "source_id": "brasil247",
-        "source_name": "Brasil 247",
-        "source_priority": 272172,
-        "source_url": "https://www.brasil247.com",
-        "source_icon": "https://n.bytvi.com/brasil247.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "特朗普能像对待马杜罗那样对待卢拉吗？",
-        "description_zh": "通过向华盛顿寻求帮助来对抗自己的国家，弗拉维奥、爱德华多·博尔索纳罗和极右翼分子希望将反恐战争的逻辑引入巴西"
-    },
-    {
-        "article_id": "048eebd22fbfcb5803a15a05273d5dbe",
-        "link": "https://www.infobae.com/estados-unidos/2026/05/30/el-consumo-de-cigarrillos-entre-adultos-en-estados-unidos-desciende-a-un-minimo-historico/",
-        "title": "El consumo de cigarrillos entre adultos en Estados Unidos desciende a un mínimo histórico",
-        "description": "La nueva encuesta nacional de salud confirma una tendencia sostenida durante décadas impulsada por campañas de prevención, regulaciones y aumentos de impuestos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tabaquismo",
-            "estados unidos noticias",
-            "estados unidos",
-            "salud pública",
-            "cigarros",
-            "cigarrillos electrónicos"
-        ],
-        "creator": [
-            "maricielo grados córdova"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:24:22",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:30:29",
-        "image_url": "https://www.infobae.com/resizer/v2/GR7FDTQZHZDMZPRONLSV3SC2PU.png?auth=20aaee3d0da3d4677dc14f3ec3af1cb86091778755dc8b966bcdf47d91fc3a9e&smart=true&width=1408&height=768",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "美国成年人吸烟率降至历史最低水平",
-        "description_zh": "新的全国健康调查证实了由预防运动、法规和增税推动的长达数十年的趋势"
-    },
-    {
-        "article_id": "b00a55a7bbe6fe06c4fca51d7281af52",
-        "link": "https://flipr.com.ar/nacionales/politica/perfil/garrahan-recrudece-el-conflicto-y-vuelve-la-pulseada-con-el-gobierno/",
-        "title": "Garrahan: recrudece el conflicto y vuelve la pulseada con el Gobierno",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "perfil"
+            "redacción por las redes"
         ],
         "language": "spanish",
         "country": [
@@ -349,41 +20,43 @@
         ],
         "category": [
             "top",
-            "politics"
+            "environment"
         ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-05-30 16:24:21",
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:56:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:43:58",
-        "image_url": "https://fotos.perfil.com/2025/06/27/trim/1140/641/logo-perfil--2051264.png",
+        "fetched_at": "2026-05-31 17:08:43",
+        "image_url": "https://media.losandes.com.ar/p/ff17cf0377cd4064bcb1bd023cc136bc/adjuntos/368/imagenes/100/717/0100717845/1200x675/smart/espuma-el-cesped.jpg",
         "video_url": null,
-        "source_id": "flipr_ar",
-        "source_name": "Flipr.news",
-        "source_priority": 459507,
-        "source_url": "https://flipr.com.ar",
-        "source_icon": "https://n.bytvi.com/flipr_ar.png",
+        "source_id": "losandes",
+        "source_name": "Los Andes",
+        "source_priority": 114641,
+        "source_url": "https://www.losandes.com.ar",
+        "source_icon": "https://n.bytvi.com/losandes.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "加拉汉：冲突加剧，与政府的斗争卷土重来",
-        "description_zh": "查看原文了解更多详情"
+        "duplicate": false,
+        "title_zh": "草地上出现泡沫意味着什么：您应该知道的 3 个关键事实",
+        "description_zh": "草丛或植物之间出现的奇怪白色泡沫并不总是引起恐慌，但三个事实澄清了这一点。"
     },
     {
-        "article_id": "b4f81547751447391504ee89a3f59ca0",
-        "link": "https://www.ole.com.ar/river-plate/river-plate-exequiel-palacios-ilusion-regreso_0_YPrUkMPAo3.html",
-        "title": "Después de la firma de Otamendi, el ex River que mantiene la ilusión de volver",
-        "description": "Exequiel Palacios sigue dejando la puerta abierta para un regreso a Núñez.",
+        "article_id": "4847a7f2b870626c11e7d0cc59d2a68e",
+        "link": "https://www.losandes.com.ar/deportes/atento-scaloni-jordania-llega-golpeada-al-mundial-2026-sufrir-una-contundente-goleada-n5993110",
+        "title": "Atento Scaloni: Jordania llega golpeada al Mundial 2026 tras sufrir una contundente goleada",
+        "description": "La selección asiática registró apenas un 29% de posesión y recibió 20 remates frente a una dominante Selección de Suiza.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "river plate",
-            "exequiel palacios"
+            "suiza",
+            "jordania",
+            "mundial 2026",
+            "selección argentina"
         ],
         "creator": [
-            "redacción olé"
+            "francisco moreno"
         ],
         "language": "spanish",
         "country": [
@@ -393,16 +66,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-30 16:24:10",
+        "pubDate": "2026-05-31 16:56:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:33:45",
-        "image_url": "https://www.ole.com.ar/images/2019/11/12/-aQrlfYs_290x290__1.jpg",
+        "fetched_at": "2026-05-31 17:08:40",
+        "image_url": "https://media.losandes.com.ar/p/3a8cb197b5b378f41b6c7ebb9a51a794/adjuntos/368/imagenes/100/717/0100717884/1200x675/627x381:647x401/dla-2026-05-31t135504832.png",
         "video_url": null,
-        "source_id": "ole_ar",
-        "source_name": "Ole Ar",
-        "source_priority": 13161,
-        "source_url": "https://www.ole.com.ar",
-        "source_icon": "https://n.bytvi.com/ole_ar.png",
+        "source_id": "losandes",
+        "source_name": "Los Andes",
+        "source_priority": 114641,
+        "source_url": "https://www.losandes.com.ar",
+        "source_icon": "https://n.bytvi.com/losandes.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -410,38 +83,179 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "签下奥塔门迪后，前河床仍保有回归希望",
-        "description_zh": "埃克塞奎尔·帕拉西奥斯继续为重返努涅斯敞开大门。"
+        "title_zh": "细心的斯卡洛尼：约旦在惨败后来到 2026 年世界杯",
+        "description_zh": "与占据统治地位的瑞士队相比，亚洲队的控球率仅为 29%，并有 20 次射门。"
     },
     {
-        "article_id": "105fc1969d4f76e4557d5c575a52f620",
-        "link": "https://flipr.com.ar/nacionales/policiales/perfil/a-una-semana-de-la-desaparicion-de-agostina-sigue-el-rastreo-pero-la-incertidumbre-se-mantiene/",
-        "title": "A una semana de la desaparición de Agostina, sigue el rastreo, pero la incertidumbre se mantiene",
-        "description": "Las autoriades piensasn que el único detenido, Gabriel Barrelier, miente para genear confusión en la causa. Leer más ...",
+        "article_id": "c268ff756fb1acdb7ba8266afc476e1d",
+        "link": "https://www.campograndenews.com.br/lado-b/diversao/vila-nasser-resgata-tradicao-das-ruas-pintadas-com-o-caramelo-da-copa",
+        "title": "Vila Nasser resgata tradição das ruas pintadas com o “Caramelo da Copa”",
+        "description": "A poucos dias do início da Copa do Mundo, uma rua da Vila Nasser ganhou cores, tinta e um símbolo que mistura paixão nacional e identidade popular brasileira. Na Rua Oscár Ferreira Bugre, próximo ao número 615, moradores se reuniram para pintar no asfalto um grande “Caramelo da Copa”, desenho de um cachorro vira-lata vestindo a camisa da Seleção Brasileira, usando chuteiras e jogando futebol. A iniciativa resgata uma tradição que marcou gerações de brasileiros: a pintura de ruas durante os períodos de Copa do Mundo. Com o torneio começando no próximo dia 11 de junho e a estreia da Seleção Brasileira marcada para 13 de junho, a ação reuniu moradores de diferentes idades em torno de um mesmo objetivo: celebrar o futebol e manter viva uma manifestação cultural que, segundo os participantes, vem desaparecendo com o passar dos anos. Responsável pela arte, o artista independente Lucas Nascimento, de 29 anos, conhecido como “Rabisco Easy”, contou que o projeto surgiu a partir de uma parceria já desenvolvida durante o mês. “A ideia surgiu através de uma parceria que tenho com a Sertão. Durante esse mês, espalhamos várias artes da Copa do Mundo pela cidade. Quando surgiu a oportunidade de pintar uma rua inteira, eu aceitei o desafio na hora. Era algo totalmente novo para mim. Eu já tinha feito muitos murais e pinturas em paredes, mas nunca tinha feito no chão. Foi um desafio que me tirou da zona de conforto e, justamente por isso, me motivou ainda mais”, afirmou. Além do desafio artístico, o trabalho teve um significado pessoal para o artista. A ação foi realizada justamente na rua onde ele nasceu e cresceu. “A pintura aconteceu na rua onde nasci. Convidei amigos, moradores e pessoas que acompanham meu trabalho para participarem dessa ação. Teve muita tinta, churrasco, pagode, debaixo do sol”, relembrou. ( Veja vídeo abaixo ) O desenho do cachorro caramelo, figura que se tornou um dos símbolos mais populares da cultura brasileira nos últimos anos, foi escolhido para representar o clima descontraído e popular da Copa. Segundo Lucas, o projeto ainda deve crescer. “O resultado foi um grande caramelo. E esse é apenas o começo. A ideia é continuar a pintura até o final da rua”, revelou. Entre os organizadores da ação estava o projetista Wellington Alves Cerqueira, de 33 anos, que ajudou na pintura e destacou o sentimento de nostalgia como principal motivação para reunir os moradores. “Essa ideia veio de uma nostalgia que a gente tem do passado, da época de Copa do Mundo, onde a gente pintava as ruas para poder celebrar a Copa. E hoje a gente estava querendo passar isso para os nossos filhos, para os nossos parentes mais novos que não viveu essa época, que seria muito importante resgatar essa cultura para a gente poder tentar colocar isso no dia a dia deles, quando chegar essas épocas importantes para poder fazer. E aí a gente juntou o pessoal e fez essa arte, juntamente com o pessoal da Rabisco Easy, que faz bastante trabalho pela cidade. Então isso aí é uma forma de a gente celebrar a Copa que está chegando e passar para os nossos filhos, nossos netos e todas as pessoas”, disse. Durante a entrevista, Wellington estava acompanhado do filho Leonardo, de apenas três anos, que também participou da atividade. “É meu filhinho, esse aqui. Esse tem três anos, é o Leonardo. A primeira Copa dele, ele já ajudou a pintar ontem aí. Tava aí na pintura”, contou com orgulho. Para ele, envolver as crianças é uma das formas de manter viva uma tradição que perdeu força nos últimos anos. “Eu vejo que hoje em dia morreu um pouco essa cultura, né, o pessoal não abraça mais a Copa do Mundo. Eu não sei se é pela fase da seleção brasileira também passa por isso, mas é bom a gente sempre estar incentivando as crianças a fazer isso, porque isso aqui, na verdade, não é só uma parte cultural do Brasil. Então, passar isso para as crianças é uma maneira de aproximar elas mais da gente, de participar mais dessas coisas culturais”, avaliou. A doméstica Neusa Pires, de 47 anos, também participou da ação e lembrou sua ligação antiga com o esporte. Ela acredita que iniciativas como a da Vila Nasser ajudam a recuperar o entusiasmo em torno da competição. “Eu costumava jogar bola, também já joguei muito bola. Teve um time de futebol feminino no Paraná. E a gente jogava bola, sempre estive no esporte. Então a gente incentiva as pessoas a também continuar porque a Copa é uma maravilha. Legal, e eu estou vendo aqui que a rua está toda pintada. É uma tradição que é antiga”, afirmou. Para ela, o principal desafio é fazer com que mais pessoas voltem a se envolver com o evento. “Falta o pessoal pegar mais ânimo pela Copa e continuar e trazer as coisas do passado para relembrar hoje para as pessoas que não tiveram oportunidade, como o rapaz falou, e voltar a ser aquela Copa legal”, acrescentou. Nem todos compartilham do mesmo otimismo em relação ao desempenho da Seleção Brasileira. O repositor Carlos Eduardo Samael Valente de Oliveira, de 21 anos, afirma que acompanha o torneio e está animado para a competição, mas mantém cautela quanto às chances do Brasil. “Estou animado. Costumo acompanhar bastante a Copa do Mundo. Eu acho que vai ser boa. Porém, é aquele mesmo... Eu acho que o Brasil não vai muito bem. Não tem aquela esperança”, desabafou. Independentemente das expectativas dentro de campo, a pintura da Rua Oscár Ferreira Bugre já cumpriu um objetivo importante para os moradores: transformar o espaço público em ponto de encontro da comunidade e reacender uma tradição que marcou a infância de muitos brasileiros.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "vila nasser ganhou cores",
+            "reuniram",
+            "poucos dias",
+            "“caramelo",
+            "início",
+            "moradores",
+            "tinta",
+            "símbolo",
+            "rua oscár ferreira bugre",
+            "identidade popular brasileira",
+            "pintar",
+            "copa",
+            "mundo",
+            "asfalto",
+            "mistura paixão nacional"
+        ],
+        "creator": [
+            "por jhefferson gamarra e mileny barros"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:56:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:09:21",
+        "image_url": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/05/31/1ee5xcoywq7o1.jpg",
+        "video_url": null,
+        "source_id": "campograndenews",
+        "source_name": "Campo Grande News",
+        "source_priority": 139036,
+        "source_url": "https://www.campograndenews.com.br",
+        "source_icon": "https://n.bytvi.com/campograndenews.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "维拉·纳赛尔 (Vila Nasser) 复兴了涂有“Caramelo da Copa”的街道传统",
+        "description_zh": "世界杯开赛前几天，纳赛尔镇的一条街道获得了色彩、油漆和一个融合了民族热情和流行的巴西身份的符号。在靠近 615 号的 Oscár Ferreira Bugre 街，居民们聚集在一起，在柏油路上画了一个巨大的“Caramelo da Copa”，这是一种设计"
+    },
+    {
+        "article_id": "ae0b473e730040b46ae803b90fdc6d07",
+        "link": "https://jornaldebrasilia.com.br/noticias/brasil/temporal-com-granizo-atinge-sul-de-minas-causa-alagamentos-e-deixa-7-mil-moradores-sem-energia/",
+        "title": "Temporal com granizo atinge Sul de Minas, causa alagamentos e deixa 7 mil moradores sem energia",
+        "description": "Um temporal acompanhado de granizo atingiu cidades do Sul de Minas Gerais neste sábado, 30, e provocou alagamentos, quedas de árvores e interrupções no fornecimento de energia. Os municípios de Boa Esperança e Campo do Meio estão entre os mais afetados. Imagens feitas por moradores mostram os estragos provocados pela chuva. Em um supermercado em Boa Esperança, a água invadiu o interior do local e se espalhou pelos corredores, chegando a cobrir o piso. Outros registros mostram a força do granizo atingindo estruturas cobertas, além de propriedades rurais e trechos de estradas cobertos por gelo. A tempestade também provocou falta de energia. De acordo com a Companhia Energética de Minas Gerais (Cemig), cerca de 7 mil moradores ficaram sem luz após a chuva. A concessionária informou que equipes foram mobilizadas e que o fornecimento será restabelecido gradualmente, com Boa Esperança e Campo do Meio entre as cidades mais afetadas. Em comunicado, a Defesa Civil informou que, para domingo, a previsão é de chuva concentrada no leste do Estado, principalmente na Zona da Mata, no Campo das Vertentes e nos vales do Rio Doce, Mucuri e Jequitinhonha. O órgão também alertou que a umidade relativa do ar pode ficar próxima dos 30% no Norte, no Noroeste e no Triângulo Mineiro, enquanto as temperaturas devem variar entre 7 °C e 32 °C ao longo do fim de semana. Estadão Conteúdo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "temporal",
+            "moradores",
+            "energia",
+            "granizo"
+        ],
+        "creator": [
+            "redação jornal de brasília"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:48:48",
+        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/05/31135324/chuvas-granizo-1.jpg",
+        "video_url": null,
+        "source_id": "jornaldebrasilia",
+        "source_name": "Jornal De Brasília",
+        "source_priority": 1815808,
+        "source_url": "https://jornaldebrasilia.com.br",
+        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "暴风雨和冰雹袭击米纳斯南部，引发洪水，导致 7000 名居民停电",
+        "description_zh": "本周六（30日），一场伴有冰雹的暴风雨袭击了米纳斯吉拉斯州南部城市，造成洪水、树木倒塌和电力供应中断。博阿埃斯佩兰萨市和坎波杜梅奥市是受影响最严重的市镇。居民拍摄的照片显示"
+    },
+    {
+        "article_id": "44370cc9e4bad4b1824d60588081e66b",
+        "link": "https://diariodovale.com.br/destaque/confira-a-programacao-do-ultimo-dia-do-bourbon-festival-em-paraty-neste-domingo/",
+        "title": "Confira a programação do último dia do Bourbon Festival em Paraty neste domingo",
+        "description": "Paraty – Paraty viveu mais um dia de intensa programação cultural neste sábado (30), durante o segundo dia do Bourbon Festival Paraty. O Centro Histórico recebeu um grande público que...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
-        "creator": [
-            "perfil"
-        ],
-        "language": "spanish",
+        "creator": null,
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
+        ],
+        "category": [
+            "tourism",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:20:21",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "diariodovale_br",
+        "source_name": "Diário Do Vale",
+        "source_priority": 5323621,
+        "source_url": "https://diariodovale.com.br",
+        "source_icon": "https://n.bytvi.com/diariodovale_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "查看本周日帕拉蒂波旁威士忌节最后一天的时间表",
+        "description_zh": "帕拉蒂 – 本周六（30 日），帕拉蒂波旁威士忌节的第二天，帕拉蒂又经历了一天紧张的文化活动。历史中心接待了大批观众……"
+    },
+    {
+        "article_id": "e69c4e4c9009924060d997af8f009f60",
+        "link": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/conselho-decide-punir-ciro-nogueira-por-propina-investigada-na-lava-jato/",
+        "title": "Conselho decide punir Ciro Nogueira por propina investigada na Lava Jato",
+        "description": "FELIPE BÄCHTOLD SÃO PAULO, SP (FOLHAPRESS) Acuado por investigação sobre o Banco Master, o senador Ciro Nogueira (PP-PI) tem uma outra pendência jurídica de peso, relativa ainda aos tempos da Operação Lava Jato. O Carf (Conselho Administrativo de Recursos Fiscais) decidiu manter multa e cobrança de imposto a ele em decorrência de propina que teria sido recebida em esquema na Petrobras e do grupo J&F, na década passada. O senador nega as acusações e afirma que vai apresentar recursos tanto no conselho quanto na Justiça comum. Ciro Nogueira, que preside o PP desde 2013, foi acusado de corrupção em diferentes ocasiões após investigações da Lava Jato e seus desdobramentos. Entre as suspeitas estavam o recebimento de dinheiro de empreiteiras e também da J&F, dos irmãos Batista, de modo ilegal. Na esfera penal, a defesa conseguiu a rejeição de quatro denúncias que tinham sido apresentadas no STF (Supremo Tribunal Federal), de 2016 a 2020. Na seara administrativa, porém, a Receita Federal analisou a movimentação financeira do parlamentar daquela época e concluiu que ele recebeu quantias que nunca tinham sido declaradas às autoridades. Para isso, se baseou em depoimentos de delatores, cruzou informações e fez diligências. Segundo a Receita, o parlamentar recebeu ilegalmente R$ 1,4 milhão da empreiteira UTC, que tinha negócios na Petrobras, e outros R$ 5 milhões da J&F. A maior parte desse valor teria sido entregue em espécie. A multa e o imposto devido foram estimados em 2018 em R$ 6,3 milhões. O parlamentar recorreu e apresentou contestação no Carf, órgão do Ministério da Fazenda que funciona como uma \"tribunal\" que recebe recursos contra autuações. A defesa dele contestou as acusações. Disse que não havia provas de corroboração dos depoimentos dos delatores e que, mesmo que tivesse sido recebida alguma doação eleitoral, os valores se destinariam ao partido, não para ele. Também argumentou que as denúncias foram rejeitadas na esfera criminal e que o processo administrativo, dessa maneira, não deveria seguir adiante. \"O teor das denúncias já foi alvo de inquérito no Supremo Tribunal Federal, que arquivou todas as acusações\", disse Ciro Nogueira à reportagem, por meio de sua assessoria. Segundo consta na movimentação processual, o caso foi a julgamento no Carf no dia 10 de dezembro, e os seis conselheiros decidiram, por unanimidade, manter as penalidades. O acórdão (resumo da decisão no julgamento) foi publicado no último dia 4 de maio. O parlamentar, porém, teve uma vitória parcial na ocasião ao conseguir mudar o cálculo da multa a seu favor, com base em uma lei que foi assinada em 2023, após o início do processo. O valor atualizado a ser cobrado não consta nos documentos públicos. Em voto, a conselheira relatora, Lílian Cláudia de Souza, disse que o processo se pautou por \"todo o conjunto probatório dos autos, e não apenas nas delações\", mencionando indícios \"veementes, graves, precisos e convergentes\". Também rechaçou o argumento de nulidade devido ao desfecho dos processos criminais, citando \"a independência entre as esferas penal e administrativa\". Aliado do presidenciável Flávio Bolsonaro (PL), Ciro Nogueira voltou a ser alvo da Polícia Federal no último dia 7, quando sofreu buscas em fase da Operação Compliance Zero, que investiga o Master. A suspeita é de que ele tenha recebido mesada de R$ 500 mil do banqueiro Daniel Vorcaro. Pesa contra o senador do Piauí o fato de ele ter apresentado uma proposta legislativa de interesse do Master, ampliando a cobertura do FGC (Fundo Garantidor de Crédito). Na Lava Jato e nas investigações sobre a J&F, o parlamentar também foi alvo de buscas. Em 2018, a polícia apreendeu em dois endereços dele R$ 217 mil em dinheiro vivo. Como ele já tinha foro especial, os processos não tramitaram em Curitiba, mas foram conduzidos pela PGR (Procuradoria-Geral da República) e no STF. No último dia 12, o senador usou o histórico de vitórias contra a Lava Jato para se defender das acusações sobre o caso Master, lembrando que foi alvo de operação policial dias antes da eleição de 2018. \"Passaram dias repetindo matérias repercutidas sem parar pela imprensa. A investigação correu, quebraram sigilos, buscaram provas e a conclusão do inquérito foi essa: a PGR não viu elementos suficientes para sustentar a acusação\", afirmou ele em vídeo nas redes sociais. Ao analisar a movimentação do senador, a fiscalização da Receita afirmou que encontrou \"confusão patrimonial\" entre firmas dele e de parentes, como a mãe, Eliane, que é sua suplente e assumiu cadeira no Senado na época em que ele foi ministro de Jair Bolsonaro. Ela também foi autuada, em mais de R$ 1 milhão, em procedimento paralelo ainda em tramitação. Em relação aos valores da J&F, os auditores citaram envolvimento de um supermercado do Piauí. Segundo a apuração, mercadoria da J&F foi comprada pelo estabelecimento em espécie e o dinheiro foi repassado pelo estabelecimento a uma pessoa indicada pelo senador. Ciro Nogueira sempre negou todas essas acusações. Executivos da J&F prestaram depoimentos que embasaram as denúncias contra ele, mas a empresa posteriormente passou a pleitear a revisão do acordo de leniência assinado. Integrantes da UTC fizeram acusações contra Ciro Nogueira também na esfera criminal, e a Receita aproveitou isso para a autuação administrativa. O Ministério da Fazenda, a quem o Carf é subordinado, informou que a unidade de origem da Receita é a responsável por notificar as partes e, caso não ocorram mais recursos, iniciar a fase de cobrança com os cálculos atualizados dos valores.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ciro nogueira",
+            "lava jato",
+            "conselho"
+        ],
+        "creator": [
+            "redação jornal de brasília"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
         ],
         "category": [
             "top",
             "crime"
         ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-05-30 16:24:10",
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:33",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:43:58",
-        "image_url": "https://fotos.perfil.com/2026/05/29/trim/1140/641/caso-agostina-vega-29052026-2250223.jpg",
+        "fetched_at": "2026-05-31 17:48:48",
+        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/09/05071913/Ciro-Nogueira.jpg",
         "video_url": null,
-        "source_id": "flipr_ar",
-        "source_name": "Flipr.news",
-        "source_priority": 459507,
-        "source_url": "https://flipr.com.ar",
-        "source_icon": "https://n.bytvi.com/flipr_ar.png",
+        "source_id": "jornaldebrasilia",
+        "source_name": "Jornal De Brasília",
+        "source_priority": 1815808,
+        "source_url": "https://jornaldebrasilia.com.br",
+        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -449,21 +263,202 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "阿戈斯蒂娜失踪一周后，追踪仍在继续，但不确定性仍然存在",
-        "description_zh": "当局认为唯一的被拘留者加布里埃尔·巴雷利尔(Gabriel Barrelier)撒谎是为了在案件中制造混乱。阅读更多 ..."
+        "title_zh": "理事会决定对西罗·诺盖拉（Ciro Nogueira）因“洗车行动”调查中的贿赂行为进行惩罚",
+        "description_zh": "费利佩·巴赫托德·圣保罗 (FOLHAPRESS) 由于对 Banco Master 的调查，参议员 Ciro Nogueira (PP-PI) 面临另一个重要的法律问题，该问题仍然与“洗车行动”时期有关。 Carf（税务上诉管理委员会）决定维持罚款和收费"
     },
     {
-        "article_id": "848010954170ed0bfdb455f7843b5a5c",
-        "link": "https://www.informador.mx/estilo/estas-son-las-zonas-del-cuerpo-donde-menos-duele-tatuarse-20260526-0119.html",
-        "title": "Estas son las zonas del cuerpo donde menos duele tatuarse",
-        "description": "Si el temor a las agujas ha pospuesto tu cita en el estudio, conocer el mapa anatómico del dolor cambiará tu decisión, especialistas revelan cuáles son las áreas con menor terminación nerviosa para que tu experiencia con la tinta sea sin sufrimiento innecesario",
+        "article_id": "dff3163a64233059abbf16581c3318b5",
+        "link": "https://www.mixvale.com.br/2026/05/31/portugal-ve-brasileiros-buscando-novos-destinos-europeus-por-entraves-burocraticos-e-custo/",
+        "title": "Portugal vê brasileiros buscando novos destinos europeus por entraves burocráticos e custo",
+        "description": "Imigrantes brasileiros enfrentam dificuldades crescentes em Portugal, levando muitos a redirecionar suas rotas para outros países da Europa. A situação atual é marcada por uma combinação de fatores que tornam a permanência no país luso menos atrativa para quem busca novas oportunidades. Esta mudança de cenário impacta significativamente a comunidade brasileira na região. Entraves burocráticos, [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "tatuajes",
-            "salud"
+            "imigração",
+            "custo de vida",
+            "portugal",
+            "brasileiros",
+            "europa",
+            "políticas anti-imigração"
         ],
         "creator": [
-            "el informador"
+            "bruna"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:19",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:37:23",
+        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2026/05/Porto-Portugal-600x340.jpg",
+        "video_url": null,
+        "source_id": "mixvale",
+        "source_name": "Mix Vale",
+        "source_priority": 95409,
+        "source_url": "https://www.mixvale.com.br",
+        "source_icon": "https://n.bytvi.com/mixvale.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "由于官僚主义障碍和成本，葡萄牙认为巴西人正在寻找新的欧洲目的地",
+        "description_zh": "巴西移民在葡萄牙面临越来越多的困难，导致许多人将路线转向其他欧洲国家。目前的情况是多种因素综合作用的结果，使得留在葡萄牙国家对于那些寻找新机会的人来说吸引力下降。这"
+    },
+    {
+        "article_id": "d67f4b6d7ed11e09105a59b1a5e7ea27",
+        "link": "https://veja.abril.com.br/politica/lula-enfrenta-jogo-duro-em-negociacao-com-o-agronegocio/",
+        "title": "Lula enfrenta jogo duro em negociação com o agronegócio",
+        "description": "Presidente tenta vencer a resistência dos produtores rurais ao governo com novas linhas de crédito",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "bastidores de brasília",
+            "eleições",
+            "jair bolsonaro",
+            "luiz inácio lula da silva",
+            "agronegócio"
+        ],
+        "creator": [
+            "veja"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:17",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:01:55",
+        "image_url": "https://veja.abril.com.br/wp-content/uploads/2025/09/lula-centro-inovacao-agro-ricardo-stuckert.jpg?quality=70&strip=info",
+        "video_url": null,
+        "source_id": "veja_abril_br",
+        "source_name": "Veja",
+        "source_priority": 5562,
+        "source_url": "https://veja.abril.com.br",
+        "source_icon": "https://n.bytvi.com/veja_abril_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "卢拉在与农业企业的谈判中面临艰难的局面",
+        "description_zh": "总统试图通过新的信贷额度克服农村生产者对政府的抵制"
+    },
+    {
+        "article_id": "217afc02e1faaa291bbfb52c2502ab19",
+        "link": "https://esporte.ig.com.br/futebol/2026-05-31/selecao-encara-panama-mirando-esquecer--vexame--em-ultimo-duelo.html",
+        "title": "Seleção encara Panamá mirando esquecer \"vexame\" em último duelo",
+        "description": "Amistoso disputado neste domingo (31) servirá como um dos testes finais e despedida da equipe de Ancelotti com o torcedor brasileiro",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "panamá",
+            "seleção brasileira",
+            "copa do mundo",
+            "vexame",
+            "amistoso"
+        ],
+        "creator": [
+            "josé coutinho"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:13",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:09:34",
+        "image_url": "https://i0.statig.com.br/bancodeimagens/6m/mx/85/6mmx85r5h1z03voavbiute9th.jpg",
+        "video_url": null,
+        "source_id": "ig",
+        "source_name": "Ig",
+        "source_priority": 139162,
+        "source_url": "https://www.ig.com.br",
+        "source_icon": "https://n.bytvi.com/ig.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "选择面对巴拿马旨在忘记上一场决斗中的“尴尬”",
+        "description_zh": "本周日（31日）的友谊赛将作为安切洛蒂球队与巴西球迷的最后考验和告别之一"
+    },
+    {
+        "article_id": "1719c9d52e21e662929d3e1f733b2ed9",
+        "link": "https://www.mdzol.com/sociedad/el-intendente-raul-rufeil-aseguro-que-el-legado-julio-le-parc-seguira-inspirando-generaciones-n1532845",
+        "title": "El intendente Raúl Rufeil aseguró que el legado de Julio Le Parc \"seguirá inspirando generaciones\"",
+        "description": "Raúl Rufeil se refirió al legado del emblemático artista mendocino, Julio Le Parc. Se dispusieron tres días de duelo en San Martín.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "san martín",
+            "raúl rufeil",
+            "julio le parc"
+        ],
+        "creator": [
+            "contenido externo"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "lifestyle",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:05",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:00:47",
+        "image_url": "https://media.mdzol.com/p/cb63251ee3c70eec4a18f700e0704b44/adjuntos/373/imagenes/001/939/0001939158/1200x675/641x513:661x533/julio-le-parc-palmira.jpeg",
+        "video_url": null,
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://n.bytvi.com/mdzol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "劳尔·鲁菲尔市长保证胡里奥·勒帕克的遗产“将继续激励几代人”",
+        "description_zh": "Raúl Rufeil 提到了门多萨标志性艺术家 Julio Le Parc 的遗产。圣马丁举行了三天的哀悼活动。"
+    },
+    {
+        "article_id": "5fed397995204ff571f1a4c6fb75e6be",
+        "link": "https://forbes.com.mx/mas-deportistas-hablan-sobre-depresion-ansiedad-y-suicidio-pero-aficionados-los-usan-como-arma/",
+        "title": "Más deportistas hablan sobre depresión, ansiedad y suicidio pero aficionados los usan como arma",
+        "description": "Las reglas en el deporte están evolucionando, posiblemente en parte por los cambios en la actitud pública hacia las enfermedades mentales.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "deportistas",
+            "depresión",
+            "ansiedad",
+            "suicidio"
+        ],
+        "creator": [
+            "forbes méxico staff"
         ],
         "language": "spanish",
         "country": [
@@ -474,16 +469,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-30 16:25:00",
+        "pubDate": "2026-05-31 16:56:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 17:03:56",
-        "image_url": "https://www.informador.mx/__export/1779826956631/sites/elinformador/img/2026/05/26/f0to_-4-_version1779826952957.png_1980793090.png",
+        "fetched_at": "2026-05-31 17:04:45",
+        "image_url": "https://cdn.forbes.com.mx/2023/11/82d7915367db4b0934fdcec1018df01cb40b997d.webp",
         "video_url": null,
-        "source_id": "informador_mx",
-        "source_name": "Informador Mx",
-        "source_priority": 27025,
-        "source_url": "https://www.informador.mx",
-        "source_icon": "https://n.bytvi.com/informador_mx.png",
+        "source_id": "forbes_mx",
+        "source_name": "Forbes Mx",
+        "source_priority": 23981,
+        "source_url": "https://www.forbes.com.mx",
+        "source_icon": "https://n.bytvi.com/forbes_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -491,18 +486,29 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "这些是纹身时伤害最小的身体部位",
-        "description_zh": "如果对针头的恐惧推迟了您在工作室的预约，了解疼痛的解剖图会改变您的决定。专家揭示哪些区域神经末梢最少，这样您的墨水体验就不会受到不必要的痛苦"
+        "title_zh": "越来越多的运动员谈论抑郁、焦虑和自杀，但球迷却把它们当作武器",
+        "description_zh": "体育规则正在不断变化，部分原因可能是公众对精神疾病的态度发生了变化。"
     },
     {
-        "article_id": "a36697d47dafca82323201380e5256ce",
-        "link": "https://www.diariodemorelos.com/noticias/final-con-sabor-mexicano-toluca-tigres-se-juegan-corona-concachampions-2026",
-        "title": "¡Final con sabor mexicano! Toluca y Tigres se juegan la corona de la Concachampions 2026",
-        "description": "Los Diablos Rojos del Toluca y los Tigres de la UANL se enfrentan este sábado 30 de mayo por el título de la Concachampions 2026.",
+        "article_id": "d20b140f3a2103c5bd19895a0d7d9c26",
+        "link": "https://www.milenio.com/deportes/futbol-internacional/juego-brasil-vs-panama-en-vivo-partido-amistoso-2026",
+        "title": "Brasil vs Panamá EN VIVO: ¿A qué hora es el partido amistoso de Selecciones rumbo al Mundial 2026?",
+        "description": "Brasil vs Panamá: conoce a qué hora y dónde ver en vivo el partido amistoso rumbo al Mundial 2026.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "brasil vs panamá en vivo",
+            "selección de panamá",
+            "selección de brasil",
+            "brasil vs panamá",
+            "en qué canal juega panamá",
+            "canal",
+            "partido amistoso",
+            "a qué hora juega brasil hoy",
+            "a que hora",
+            "donde ver"
+        ],
         "creator": [
-            "redacción ddm"
+            "la afición"
         ],
         "language": "spanish",
         "country": [
@@ -512,11 +518,183 @@
             "top",
             "sports"
         ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:24:57",
+        "datatype": "blog",
+        "pubDate": "2026-05-31 16:55:50",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:42:44",
-        "image_url": "https://www.diariodemorelos.com/uploads/s1/24/90/45/7/17798234086007-result_25_1200x1200.jpeg",
+        "fetched_at": "2026-05-31 19:02:38",
+        "image_url": "https://cdn.milenio.com/uploads/media/2026/05/31/brasil-vs-panama-vivo-partido-1.jpg",
+        "video_url": null,
+        "source_id": "milenio",
+        "source_name": "Milenio",
+        "source_priority": 10804,
+        "source_url": "https://www.milenio.com",
+        "source_icon": "https://n.bytvi.com/milenio.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "巴西 vs 巴拿马 LIVE：参加 2026 年世界杯的国家队友谊赛几点开始？",
+        "description_zh": "巴西 vs 巴拿马：了解观看 2026 年世界杯友谊赛直播的时间和地点。"
+    },
+    {
+        "article_id": "0a7a19a889a06b3982400943a42bba30",
+        "link": "https://www.larepublica.co/globoeconomia/donald-trump-anade-irak-a-la-lista-de-funciones-del-enviado-especial-tom-barrack-en-siria-4404620",
+        "title": "Donald Trump añade a Irak a la lista de funciones del enviado especial Tom Barrack en Siria",
+        "description": "Barrack, el embajador de Estados Unidos en Turquía, se convirtió en el enviado especial de Trump para Siria en 2025, poco después de que el presidente Ahmed al-Sharaa asumiera el poder",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "energía y minas",
+            "salud",
+            "agro",
+            "gastronomía",
+            "automotor",
+            "comercio",
+            "industria",
+            "entretenimento",
+            "espectáculos",
+            "educación",
+            "bancos",
+            "hacienda",
+            "legislación-marcas",
+            "cultura",
+            "laboral",
+            "turismo",
+            "seguros",
+            "moda",
+            "deporte",
+            "tecnología"
+        ],
+        "creator": [
+            "bloomberg"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:49",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:05:29",
+        "image_url": "https://img.lalr.co/cms/2026/05/16082001/456183204-1.jpg?size=xl&ratio=r40_21",
+        "video_url": null,
+        "source_id": "larepublicacl",
+        "source_name": "Larepublica",
+        "source_priority": 43349,
+        "source_url": "https://www.larepublica.co",
+        "source_icon": "https://n.bytvi.com/larepublicacl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "唐纳德·特朗普将伊拉克添加到特使汤姆·巴拉克在叙利亚的职责清单中",
+        "description_zh": "总统艾哈迈德·萨拉上台后不久，美国驻土耳其大使巴拉克于 2025 年成为特朗普叙利亚问题特使"
+    },
+    {
+        "article_id": "8f7bfcbe71ae07fa1e78cc0590d2c10e",
+        "link": "https://www.zocalo.com.mx/marco-antonio-solis-ofrece-una-noche-inolvidable-en-el-estadio-de-sultanes/",
+        "title": "Marco Antonio Solís ofrece una noche inolvidable en el estadio de Sultanes",
+        "description": "El cantante Marco Antonio Solis hizo cantar y emocionar a miles de regios con un recorrido por cinco décadas de éxitos y romanticismo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:11:00",
+        "image_url": "https://www.zocalo.com.mx/wp-content/uploads/2026/05/marco-antonio-solis-monterrey.jpg",
+        "video_url": null,
+        "source_id": "zocalo",
+        "source_name": "Periódico Zócalo",
+        "source_priority": 208655,
+        "source_url": "http://zocalo.com.mx",
+        "source_icon": "https://n.bytvi.com/zocalo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "马可·安东尼奥·索利斯在苏丹体育场度过一个难忘的夜晚",
+        "description_zh": "歌手马可·安东尼奥·索利斯 (Marco Antonio Solis) 经历了五十年的成功和浪漫主义之旅，让成千上万的王室成员歌唱和感动。"
+    },
+    {
+        "article_id": "6d6964f0b7ac4452046a2c9889b74cd1",
+        "link": "https://oem.com.mx/elsoldemorelia/local/gobierno-atribuye-bloqueos-en-zitacuaro-a-reaccion-criminal-por-operativo-federal-30299324",
+        "title": "Gobierno atribuye bloqueos en Zitácuaro a reacción criminal por operativo federal",
+        "description": "El subsecretario de Gobernación del estado reconoció que el crimen ha penetrado en el tejido social, y eso hace más complejo combatir a los grupos de la región oriente",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:24",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 22:19:07",
+        "image_url": "https://oem.com.mx/elsoldemorelia/img/30299797/1780245149/BASE_LANDSCAPE/1200/image.jpg",
+        "video_url": null,
+        "source_id": "elsoldemorelia_mx",
+        "source_name": "El Sol De Morelia",
+        "source_priority": 1978742,
+        "source_url": "https://www.elsoldemorelia.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldemorelia_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "政府将锡塔夸罗的封锁归因于联邦行动造成的犯罪反应",
+        "description_zh": "该州内政部副部长认识到犯罪已经渗透到社会结构中，这使得东部地区打击犯罪团伙的工作变得更加复杂。"
+    },
+    {
+        "article_id": "6dcb2130d45afa7625db0931f82fe2b4",
+        "link": "https://www.diariodemorelos.com/noticias/empresarios-piden-mas-seguridad-reactivar-turismo-en-morelos",
+        "title": "Empresarios piden más seguridad para reactivar el turismo en Morelos",
+        "description": "El Grupo Empresarial Morelos (GEM) urgió al secretario de Turismo, Daniel Altafi, mayores garantías de seguridad en carreteras y municipios del estado.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "arturo serrano"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:20",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:12:25",
+        "image_url": "https://www.diariodemorelos.com/uploads/s1/24/91/07/7/comunidad_25_1200x1200.jpeg",
         "video_url": null,
         "source_id": "diariodemorelos",
         "source_name": "Diario De Morelos",
@@ -530,163 +708,21 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "最后是墨西哥风味！托卢卡和老虎队争夺 2026 年 Concachampions 冠军",
-        "description_zh": "托卢卡红魔队和 UANL 老虎队将于本周六（即 5 月 30 日）对决，争夺 2026 年美洲杯冠军头衔。"
+        "title_zh": "商人要求加强安全以恢复莫雷洛斯岛的旅游业",
+        "description_zh": "莫雷洛斯商业集团 (GEM) 敦促旅游部长丹尼尔·阿尔塔菲 (Daniel Altafi) 加强该州道路和市政当局的安全保障。"
     },
     {
-        "article_id": "0aed9c94412875f4fd7c66776cce5f63",
-        "link": "https://www.infobae.com/mexico/2026/05/30/leon-xiv-y-el-cuidado-de-la-magnifica-humanidad/",
-        "title": "León XIV y el cuidado de la “Magnífica Humanidad”",
-        "description": "El que sea su primera encíclica, el que haya participado en la presentación hablando en inglés e invitando a un empresario de IA y profesoras: todo eso revela con claridad quién es el Papa",
+        "article_id": "92577698e02874745d0b117df2a4f0f6",
+        "link": "https://www.tvazteca.com/aztecanoticias/jacob-baker-asesinatos-pahoa-hawai-detenido/",
+        "title": "Se escondía en una cueva: Detienen a sospechoso de 3 asesinatos en Hawái",
+        "description": "Jacob Baker quedó detenido en Hawái tras un operativo policial por el triple homicidio en Pahoa; estos son los cargos en su contra y los detalles del caso.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "máquinas",
-            "león xiv",
-            "paz",
-            "encíclica",
-            "sistemas computacionales",
-            "papa",
-            "mexico-opinion",
-            "mexico-noticias"
+            "hawái",
+            "asesinatos"
         ],
         "creator": [
-            "universidad panamericana",
-            "dr. luis pesquera olalde"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:24:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:30:29",
-        "image_url": "https://www.infobae.com/resizer/v2/VHACW4OJEFENRHEB23NMBISUYM.jpg?auth=ba948a5100488fb1da4b81ce635c00be6b78a3079dff7d627420105cac0a5cec&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "利奥十四世与“伟大的人性”的关怀",
-        "description_zh": "事实上，这是他的第一本通谕，事实上他用英语参加了演讲，并邀请了一位人工智能企业家和教授：所有这些都清楚地揭示了教皇是谁。"
-    },
-    {
-        "article_id": "8c4784a278d2c5a095afd91079fb733d",
-        "link": "https://www.vanguardia.com/colombia/2026/05/30/gobierno-negocia-con-calarca-desde-2023-pero-no-tiene-forma-de-contactarlo/",
-        "title": "Gobierno negocia con Calarcá desde 2023 pero no tiene forma de contactarlo",
-        "description": "Una diligencia expuso dificultades para notificar al líder guerrillero mientras avanza un proceso penal en su contra.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "fiscalía general de la nación",
-            "alias calarcá",
-            "otty patiño",
-            "colombia"
-        ],
-        "creator": [
-            "redacción vanguardia"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:24:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:34:45",
-        "image_url": "https://www.vanguardia.com/resizer/v2/NZKF7X3EA5DIPAJEGNRW4PGTAY.jpg?auth=ff24eaf138c0f33f0051ecb443d4eb8ab6ac9dccc9df3f623ac76bee792e9980&smart=true&width=4608&height=3456",
-        "video_url": null,
-        "source_id": "vanguardia",
-        "source_name": "Vanguardia",
-        "source_priority": 24302,
-        "source_url": "https://vanguardia.com.mx",
-        "source_icon": "https://n.bytvi.com/vanguardia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "自 2023 年以来，政府一直在与 Calarcá 进行谈判，但无法联系到他",
-        "description_zh": "程序显示，在针对游击队领导人的刑事案件正在进行中，通知他很困难。"
-    },
-    {
-        "article_id": "048eebd22fbfcb5803a15a05273d5dbe",
-        "link": "https://www.infobae.com/estados-unidos/2026/05/30/el-consumo-de-cigarrillos-entre-adultos-en-estados-unidos-desciende-a-un-minimo-historico/",
-        "title": "El consumo de cigarrillos entre adultos en Estados Unidos desciende a un mínimo histórico",
-        "description": "La nueva encuesta nacional de salud confirma una tendencia sostenida durante décadas impulsada por campañas de prevención, regulaciones y aumentos de impuestos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tabaquismo",
-            "estados unidos noticias",
-            "estados unidos",
-            "salud pública",
-            "cigarros",
-            "cigarrillos electrónicos"
-        ],
-        "creator": [
-            "maricielo grados córdova"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:24:22",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:30:29",
-        "image_url": "https://www.infobae.com/resizer/v2/GR7FDTQZHZDMZPRONLSV3SC2PU.png?auth=20aaee3d0da3d4677dc14f3ec3af1cb86091778755dc8b966bcdf47d91fc3a9e&smart=true&width=1408&height=768",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "美国成年人吸烟率降至历史最低水平",
-        "description_zh": "新的全国健康调查证实了由预防运动、法规和增税推动的长达数十年的趋势"
-    },
-    {
-        "article_id": "f246967aaf0a287daa96637d3c6d5362",
-        "link": "https://www.heraldo.mx/sale-cnte-de-segob-sin-acuerdos-escalara-protestas/",
-        "title": "Sale CNTE de Segob sin acuerdos; escalará protestas",
-        "description": "Jorge Ricardo Nicolás Agencia Reforma CIUDAD DE MÉXICO: Tras siete horas dentro de la Secretaría de Gobernación y salir sin ningún avance importante, la Sección 22 de la Coordinadora Nacional de Trabajadores de la Educación (CNTE) advirtió que a partir del lunes, 10 días apenas antes del inicio del Mundial de Futbol, intensificará su protesta [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "por agencia reforma"
+            "césar  contreras"
         ],
         "language": "spanish",
         "country": [
@@ -694,62 +730,19 @@
         ],
         "category": [
             "top",
-            "politics",
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-30 16:24:17",
+        "pubDate": "2026-05-31 16:55:14",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 21:04:31",
-        "image_url": "https://www.heraldo.mx/wp-content/uploads/2026/05/batch_3-Falla-dialogo-y-CNTE-amaga-con_2861289.webp",
+        "fetched_at": "2026-05-31 17:03:58",
+        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/85/4a/aa1c9fb64f7fa6633ab2ec667677/hawai-detenido-3-asesinatos.jpg",
         "video_url": null,
-        "source_id": "heraldo_mx",
-        "source_name": "El Heraldo De Aguascalientes",
-        "source_priority": 1061009,
-        "source_url": "https://www.heraldo.mx",
-        "source_icon": "https://n.bytvi.com/heraldo_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "CNTE 在未达成协议的情况下离开 Segob；抗议活动将会升级",
-        "description_zh": "豪尔赫·里卡多·尼古拉斯改革署 墨西哥城：国家教育工作者协调员 (CNTE) 第 22 部门在内政部内部呆了 7 个小时，没有取得任何重要进展后就离开了，并警告说，截至周一，即墨西哥城内政部即将举行的 10 天前，"
-    },
-    {
-        "article_id": "772e8abd0c21c3f3420dfaa344a6aaac",
-        "link": "https://www.semana.com/tecnologia/articulo/el-negocio-detras-del-adios-de-call-of-duty-warzone-a-ps4-y-xbox-one/202611/",
-        "title": "El negocio detrás del adiós de Call of Duty: Warzone en PS4 y Xbox One",
-        "description": "Warzone deja de ser compatible con consolas viejas en una transición que redefine el acceso al juego.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "call of duty war zone",
-            "play station 4",
-            "xbox"
-        ],
-        "creator": [
-            "david alejandro rojas garcía"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:24:11",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:34:11",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/4WWZHMXK7BCEPPWUIDZPFC7CZY.jpg?auth=502a62aa985c2c8dc9a5342caf59f56e503aff8bc26a980248a0cb7910564ef5&smart=true&width=1600&height=900",
-        "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://n.bytvi.com/semana.png",
+        "source_id": "tvazteca",
+        "source_name": "Azteca Deportes",
+        "source_priority": 17594,
+        "source_url": "https://www.tvazteca.com",
+        "source_icon": "https://n.bytvi.com/tvazteca.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -757,18 +750,20 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "PS4 和 Xbox One 版《使命召唤：战区》告别背后的业务",
-        "description_zh": "在重新定义游戏访问方式的转变中，《战区》不再与旧版游戏机兼容。"
+        "title_zh": "他躲在山洞里：夏威夷三起谋杀案嫌疑人被捕",
+        "description_zh": "雅各布·贝克 (Jacob Baker) 因帕霍亚 (Pahoa) 发生的三重凶杀案被警方采取行动后在夏威夷被拘留；这些是对他的指控和案件的细节。"
     },
     {
-        "article_id": "d11eb2b30796c6dc61aca2a57960e253",
-        "link": "https://oem.com.mx/lavozdelafrontera/deportes/arranca-torneo-escalera-2026-30283732",
-        "title": "Arranca torneo escalera 2026",
-        "description": "El evento cerrará su primera jornada este domingo 31 de mayo",
+        "article_id": "d8f970953c11758bd310e85d5de66404",
+        "link": "https://turquesanews.mx/puerto-morelos/gran-exito-nuestro-torneo-de-pesca-por-el-dia-de-la-marina-2026-blanca-merari/",
+        "title": "Gran éxito nuestro torneo de pesca por el Día de la Marina 2026: Blanca Merari",
+        "description": "Puerto Morelos, Quintana Roo; 30 de mayo de 2026.- Con una gran participación de familias, deportistas, pescadores y visitantes, se llevó a cabo con éxito el Torneo de Pesca “Día de la Marina” Catch & Release 2026, evento impulsado por el gobierno municipal que encabeza la presidenta Blanca Merari Tziu Muñoz, quien destacó que esta [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "blanca merari tziu muñoz"
+        ],
         "creator": [
-            "en voz baja manos vacías"
+            "redacción turquesa news"
         ],
         "language": "spanish",
         "country": [
@@ -779,16 +774,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-30 16:24:07",
+        "pubDate": "2026-05-31 16:55:07",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 21:40:16",
-        "image_url": "https://oem.com.mx/lavozdelafrontera/img/30283699/1780158239/BASE_LANDSCAPE/1200/image.jpg",
+        "fetched_at": "2026-05-31 17:20:58",
+        "image_url": "https://turquesanews.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-31-at-11.29.48-AM-4-1.jpeg",
         "video_url": null,
-        "source_id": "lavozdelafrontera",
-        "source_name": "La Voz De La Frontera",
-        "source_priority": 178448,
-        "source_url": "https://www.lavozdelafrontera.com.mx",
-        "source_icon": "https://n.bytvi.com/lavozdelafrontera.png",
+        "source_id": "turquesanews",
+        "source_name": "Turquesa News",
+        "source_priority": 8219221,
+        "source_url": "https://turquesanews.mx",
+        "source_icon": "https://n.bytvi.com/turquesanews.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -796,91 +791,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "2026天梯锦标赛开始",
-        "description_zh": "该活动将于本周日（5 月 31 日）结束第一天"
+        "title_zh": "我们的 2026 年海军日钓鱼锦标赛取得了巨大成功：Blanca Merari",
+        "description_zh": "莫雷洛斯港、金塔纳罗奥州； 2026年5月30日，在总统布兰卡·梅拉领导的市政府推动下，2026年“捕捞放生”“海军日”钓鱼锦标赛在家庭、运动员、渔民和游客的广泛参与下成功举办。"
     },
     {
-        "article_id": "d78e2daf3a7d004477e0297c2b810765",
-        "link": "https://www.infobae.com/salud/2026/05/30/radioterapia-con-protones-por-que-es-una-nueva-esperanza-para-pacientes-con-arritmias-cardiacas-graves/",
-        "title": "Radioterapia con protones: por qué es una nueva esperanza para pacientes con arritmias cardíacas graves",
-        "description": "Un estudio de Mayo Clinic mostró que esta técnica no invasiva logra reducir casi un 80% los episodios de taquicardia ventricular en pacientes sin opciones terapéuticas",
+        "article_id": "73537c5d68307edc597010e858cbda7c",
+        "link": "https://www.infobae.com/colombia/2026/05/31/planifique-su-jornada-electoral-este-es-el-pronostico-del-tiempo-en-colombia-para-el-31-de-mayo/",
+        "title": "Planifique su jornada electoral, este es el pronóstico del tiempo en Colombia para el 31 de mayo",
+        "description": "Pese a que no se prevén grandes tormentas, la recomendación es votar temprano para evitar posibles lluvias",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "mayo clinic",
-            "arritmia cardíaca",
-            "taquicardia",
-            "últimas noticias",
-            "radioterapia",
-            "salud"
-        ],
-        "creator": [
-            "víctor ingrassia"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-05-30 16:24:04",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:30:29",
-        "image_url": "https://www.infobae.com/resizer/v2/MJ3RV6YEUZG2VLVQ2WKW7IOWDY.png?auth=cf09bf2c39d0e80603263de5a4235398cdfb14af067627ad5c3957d1260bf0bd&smart=true&width=1408&height=768",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "质子放射治疗：为什么它是严重心律失常患者的新希望",
-        "description_zh": "Mayo Clinic 的一项研究表明，这种非侵入性技术可将无治疗选择的患者室性心动过速发作率减少近 80%"
-    },
-    {
-        "article_id": "1a8e86a61fc52a019d09979be125fa32",
-        "link": "https://www.infobae.com/colombia/2026/05/30/no-merecen-los-votos-de-las-mujeres-la-dura-arremetida-de-jennifer-pedraza-contra-petro-y-cepeda-en-la-vispera-electoral/",
-        "title": "“No merecen los votos de las mujeres”: La dura arremetida de Jennifer Pedraza contra Petro y Cepeda en la víspera electoral",
-        "description": "La congresista recordó el caso de uno de los funcionarios más cercanos al jefe de Estado: Hollman Morris, gerente de Inravisión",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "elecciones presidenciales colombia 2026",
-            "hollman morris",
-            "iván cepeda",
-            "gustavo petro",
+            "pronóstico del clima",
+            "elecciones presidenciales 2026",
+            "mesas de votación",
             "colombia-noticias",
-            "jennifer pedraza"
+            "elecciones 2026"
         ],
         "creator": [
-            "sebastián vargas rueda"
+            "angie julieth cicua caballero"
         ],
         "language": "spanish",
         "country": [
-            "united states of america",
-            "mexico",
             "argentina",
-            "colombia"
+            "united states of america",
+            "colombia",
+            "mexico"
         ],
         "category": [
             "top",
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-05-30 16:24:03",
+        "pubDate": "2026-05-31 16:55:04",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-05-30 16:30:29",
-        "image_url": "https://www.infobae.com/resizer/v2/ZFP3C7UFPFHXZGSE4OINJOAUNQ.jpg?auth=779b28bb61fae4592096e966537d7e74696834c87c56c0b7cfdbecadb224abcf&smart=true&width=1890&height=1063",
+        "fetched_at": "2026-05-31 17:30:29",
+        "image_url": "https://www.infobae.com/resizer/v2/P4VPKCE2RZFHRJCJPUTMEKD3QQ.png?auth=73502f689ecd4028674ee692b285e61f437d589818c5e5016065119aba1940a5&smart=true&width=2752&height=1536",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -894,7 +839,46 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "“她们不值得女性选票”：詹妮弗·佩德拉萨在选举前夕对佩特罗和塞佩达的严厉攻击",
-        "description_zh": "这位女议员回忆起与国家元首关系最密切的官员之一的案例：Inravisión 经理霍尔曼·莫里斯 (Hollman Morris)"
+        "title_zh": "计划您的选举日，这是哥伦比亚 5 月 31 日的天气预报",
+        "description_zh": "尽管预计不会有大风暴，但建议尽早投票以避免可能的降雨"
+    },
+    {
+        "article_id": "66c004455fa603c3c1b6805963e56c69",
+        "link": "https://diario.mx/juarez/2026/may/31/no-traen-nada-critica-cruz-concentracion-panista-en-la-capital-1120471.html",
+        "title": "\"No traen nada\", critica Cruz concentración panista en la capital",
+        "description": "Se vieron como un tigre de papel, afirmó el alcalde juarense",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "pavel juárez / el diario de juárez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-05-31 16:55:03",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-05-31 17:04:00",
+        "image_url": "https://diario.mx/core/dmx/assets/images/2026/05/31/217715c5-527e-48c6-97cc-e375e3ea8030-zblsvfghg-a4vmvo0cy-V9GfWglNY.jpg",
+        "video_url": null,
+        "source_id": "diario",
+        "source_name": "El Diario",
+        "source_priority": 14955,
+        "source_url": "https://diario.mx",
+        "source_icon": "https://n.bytvi.com/diario.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "克鲁兹批评国家行动党在首都集会：“他们什么也没带来”",
+        "description_zh": "华雷斯市市长说，他们认为自己是纸老虎"
     }
 ]
