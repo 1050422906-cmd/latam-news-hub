@@ -1,77 +1,36 @@
 [
     {
-        "article_id": "7750c598c3001a4f309c07e394165ab4",
-        "link": "https://www.em.com.br/gerais/2026/06/7432305-mulher-mapeia-cachoeiras-no-entorno-de-bh-usando-transporte-publico.html",
-        "title": "Mulher mapeia cachoeiras no entorno de BH usando transporte público",
-        "description": "Joelma Marques produz conteúdos sobre cachoeiras, museus, parques e bazares em Belo Horizonte e região metropolitana com foco em acesso gratuito e mobilidade",
+        "article_id": "feddab7f62415a1462d0a0217a535e75",
+        "link": "https://www.ambito.com/informacion-general/el-hallazgo-exoplanetas-campos-magneticos-revoluciona-la-astronomia-n6284210",
+        "title": "El hallazgo de exoplanetas con campos magnéticos revoluciona la astronomía",
+        "description": "A pesar de que los gigantes gaseosos analizados carecen de condiciones para albergar vida, los datos abren una ventana crucial hacia el futuro. Este tipo de protección atmosférica es una pieza fundamental para que los planetas rocosos sean habitables.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cachoeira",
-            "influenciadora",
-            "trajeto",
-            "ônibus"
+            "fenómenos astronómicos",
+            "exoplaneta"
         ],
         "creator": [
-            "sofia maia*"
+            "ámbito.com"
         ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "tourism",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:43:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 20:01:34",
-        "image_url": "https://midias.em.com.br/_midias/jpg/2026/06/01/1200x720/1_715c1ad2-c6d9-4cac-8833-2fd57d865a75-66792709.jpeg",
-        "video_url": null,
-        "source_id": "estadodeminas",
-        "source_name": "Jornal Estado De Minas",
-        "source_priority": 6179,
-        "source_url": "https://www.em.com.br",
-        "source_icon": "https://n.bytvi.com/estadodeminas.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "一位女士利用公共交通工具绘制 BH 周围瀑布的地图",
-        "description_zh": "Joelma Marques 制作有关贝洛奥里藏特和大都市区的瀑布、博物馆、公园和集市的内容，重点是免费访问和流动性"
-    },
-    {
-        "article_id": "29ef58442a877fbd25a6f60346117513",
-        "link": "https://www.primerafuente.com.ar/noticias/130074/agostina-vega-autopsia-revelo-signos-extrema-violencia-fiscal-imputo-femicidio-al-acusado",
-        "title": "Agostina Vega: la autopsia reveló signos de extrema violencia y el fiscal imputó por femicidio al acusado",
-        "description": "Los primeros datos arrojaron conclusiones sobre la ventana temporal en la que habría ocurrido el crimen. También determinaron la existencia de ataques violentos. Tras el informe pericial, el fiscal agravó la situación procesal del único imputado, Claudio Barrelier.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "nacionales"
-        ],
-        "creator": null,
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "crime",
+            "science",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-01 16:43:00",
+        "pubDate": "2026-06-02 16:52:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 19:49:52",
-        "image_url": null,
+        "fetched_at": "2026-06-02 17:07:25",
+        "image_url": "https://media.ambito.com/p/4bfde3e170f2f9936cae9a3aae58f0de/adjuntos/239/imagenes/043/412/0043412135/exoplanetas.jpg",
         "video_url": null,
-        "source_id": "primerafuente_ar",
-        "source_name": "Primera Fuente",
-        "source_priority": 2716386,
-        "source_url": "https://www.primerafuente.com.ar",
-        "source_icon": "https://n.bytvi.com/primerafuente_ar.png",
+        "source_id": "ambito",
+        "source_name": "Ambito",
+        "source_priority": 37705,
+        "source_url": "https://www.ambito.com",
+        "source_icon": "https://n.bytvi.com/ambito.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -79,76 +38,64 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿戈斯蒂娜·维加：尸检显示极端暴力迹象，检察官指控被告杀害女性",
-        "description_zh": "第一份数据提供了有关犯罪发生时间窗口的结论。他们还确定存在暴力袭击。专家报告后，检察官加重了唯一被告克劳迪奥·巴雷利尔的诉讼处境。"
+        "title_zh": "具有磁场的系外行星的发现彻底改变了天文学",
+        "description_zh": "尽管所分析的气态巨行星缺乏支持生命的条件，但这些数据为通向未来打开了一个重要的窗口。这种类型的大气保护是岩石行星适宜居住的基本组成部分。"
     },
     {
-        "article_id": "971bce0fe3a6206b6dfc632ad892350f",
-        "link": "https://www.moneytimes.com.br/venda-embraer-embj3-e-compre-3-acoes-para-ganhar-mais-de-4-nesta-semana-segundo-o-safra-lils/",
-        "title": "Venda Embraer (EMBJ3) e compre 3 ações para ganhar mais de 4% nesta semana, segundo o Safra",
-        "description": "A Safra Corretora recomenda a venda de duas ações e compra de três papéis em day trade para esta semana. Embraer (EMBJ3) está entre as oportunidade de venda. Confira as oportunidades de compra e venda entre os dias 1 e 5 de junho: Empresa Ativo Call Entrada (R$) Objetivo (R$) Ganho Potencial Stop (R$) Perda [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tempo real",
-            "canal whatsapp",
-            "feed principal",
-            "trading",
-            "day trade"
-        ],
-        "creator": [
-            "equipe money times"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:43:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:04:16",
-        "image_url": "https://www.moneytimes.com.br/uploads/2025/12/acoes-bolsa-grafico-1-1-1-1-1-1-1-1.jpg",
-        "video_url": null,
-        "source_id": "moneytimes",
-        "source_name": "Money Times",
-        "source_priority": 17166,
-        "source_url": "https://moneytimes.com.br",
-        "source_icon": "https://n.bytvi.com/moneytimes.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Safra 表示，出售 Embraer (EMBJ3) 并买入 3 股，本周涨幅超过 4%",
-        "description_zh": "Safra Corretora 建议本周在日内交易中卖出两股并买入三股。巴西航空工业公司 (EMBJ3) 是卖出机会之一。查看 6 月 1 日至 5 日期间的买入和卖出机会： 公司主动买入 (R$) 目标 (R$) 收益潜力 St"
-    },
-    {
-        "article_id": "2cf3c1e590f3d9c1730c19a7d7b811f8",
-        "link": "https://tribunadepetropolis.com.br/noticias/caso-henry-borel-julgamento-e-o-mais-longo-do-rio-dos-ultimos-18-anos/",
-        "title": "Caso Henry Borel: julgamento é o mais longo do Rio dos últimos 18 anos",
-        "description": "O julgamento do ex-vereador Jairo Souza Santos Júnior, o Jairinho, e de Monique Medeiros, acusados pela morte do menino Henry Borel, de 4 anos, entra na fase final nesta segunda-feira, 1o, com os depoimentos das últimas três de 27 testemunhas do caso. O julgamento de Jairo e Monique já é o mais longo do Rio [...]",
+        "article_id": "acb4b328ae8bab533b3b74e1dcd649cc",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-tera-atendimento-especializado-para-toc-ansiedade-e-tdah",
+        "title": "Enem 2026 terá atendimento especializado para TOC, ansiedade e TDAH",
+        "description": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) incluiu no edital do Exame Nacional do Ensino Médio (Enem) de 2026 novas condições para solicitações de atendimento especializado durante as provas . É o caso de situações relacionadas a fibromialgia e também a transtornos mentais. Entre elas, crise de ansiedade, Transtorno Obsessivo-Compulsivo (TOC) e Transtorno do Déficit de Atenção com Hiperatividade (TDAH). Com a ampliação das situações previstas na edição deste ano, uma pessoa diagnosticada, por exemplo, com histórico de transtorno de ansiedade, poderá contar com um acompanhante para lhe dar suporte nos dias de aplicação das provas. Notícias relacionadas: Enem 2026: inscrições vão até 5 de junho. Enem terá inscrição automática para alunos do 3o ano da rede pública. O atendimento especializado deverá ser solicitado pelo interessado no momento da inscrição, exclusivamente na Página do Participante do exame. O prazo de inscrições se encerrará nesta sexta-feira (5). Outras condições Como nas edições anteriores do Enem, também podem solicitar o atendimento especializado os candidatos nas seguintes condições: baixa visão, cegueira, deficiência física, deficiência auditiva, surdez, deficiência intelectual, dislexia, Transtorno do Espectro Autista (TEA), diabetes, além de gestante, lactante, idoso, estudante em classe hospitalar e outras condições específicas. Aprovação da solicitação A solicitação do candidato precisa ser confirmada pela equipe do Inep para o candidato ter garantido seu atendimento especializado. Para a análise do pedido, todas as solicitações devem ser comprovadas por documentação adequada, como laudo médico, além de outras previstas no edital do Enem 2026 . O participante que tiver solicitação aprovada poderá ser acompanhado, por exemplo, por um cão-guia/cão de apoio emocional, usar material próprio e outros recursos de acessibilidade, como aparelho auditivo ou implante coclear, máquina de escrever em Braille, caneta de ponta grossa, óculos especiais, lupa, tábuas de apoio, bolsa de colostomia, medidor de glicose, bomba de insulina, entre outros. Todos os recursos serão vistoriados pelo chefe de sala de aplicação das provas. Sala reservada No caso de lactantes, nos dois dias de realização do exame, em 8 e 15 de novembro, o acompanhante adulto ficará em uma sala reservada para ser o responsável pela guarda da criança em fase de amamentação ou para ser acionado em caso de intercorrências com a participante. Da mesma forma, o candidato diagnosticado com transtornos mentais poderá contar com um acompanhante, que também aguardará nesta sala reservada, monitorada por fiscais, para casos de necessidade de apoio ou estabilização do participante. O espaço reservado nos dias de provas poderá também acolher profissionais ou parentes do participante que precisem de apoio e auxílio para ir ao banheiro e se alimentar durante as provas. O acompanhante não terá acesso à sala de provas e todos serão submetidos a revista eletrônica por meio do uso do detector de metais. Acessibilidade no Enem Em 2025, o Inep autorizou o uso de cerca de 165 mil recursos de acessibilidade durante as provas do Enem para pouco mais de 116 mil participantes que solicitaram atendimento especializado. De 2022 a 2025, o quantitativo de pessoas com atendimento especializado no Enem aumentou 191%: passou de 30.856 para 89.770. Enem O Exame Nacional do Ensino Médio avalia o desempenho escolar dos estudantes ao término da educação básica e é considerado a principal forma de entrada na educação superior no Brasil, por meio de programas federais como o Sistema de Seleção Unificada (Sisu) , o Programa Universidade para Todos (Prouni) e Fundo de Financiamento Estudantil (Fies) . As instituições de ensino públicas e privadas usam os resultados das provas para selecionar os estudantes. Desde a edição de 2025, o Enem também voltou a certificar a conclusão dessa etapa de ensino para os candidatos com 18 anos de idade completos e que também alcancem a pontuação mínima em cada área do conhecimento nas provas e na redação. Os resultados individuais do exame também podem ser aproveitados em processos seletivos de instituições portuguesas que tenham convênio com o Inep. Os acordos garantem acesso facilitado às notas dos estudantes brasileiros interessados em cursar a educação superior em Portugal.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
-        "creator": [
-            "por rayanderson guerra; estadão"
-        ],
+        "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "crime",
-            "top"
+            "education"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-01 16:43:00",
+        "pubDate": "2026-06-02 16:52:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:14:03",
+        "fetched_at": "2026-06-02 17:10:33",
+        "image_url": "https://imagens.ebc.com.br/0OvQvNou0fR_8GO0chLaeVclFPg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/16/toms0175.jpg?itok=Mls5JNBd",
+        "video_url": null,
+        "source_id": "agenciabrasil_ebc_br",
+        "source_name": "Agenciabrasil Ebc Br",
+        "source_priority": 135198,
+        "source_url": "https://agenciabrasil.ebc.com.br",
+        "source_icon": "https://n.bytvi.com/agenciabrasil_ebc_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Enem 2026 将为强迫症、焦虑症和多动症提供专门护理",
+        "description_zh": "国家教育研究机构 Anísio Teixeira (Inep) 在 2026 年全国高中考试 (Enem) 通知中纳入了考试期间请求专业协助的新条件。这是与纤维肌痛相关的情况，也与"
+    },
+    {
+        "article_id": "460c46118beb6a2cde400961b609782a",
+        "link": "https://tribunadepetropolis.com.br/noticias/alckmin-e-durigan-descartam-debater-pix-com-eua-apos-ameaca-de-tarifas-adicionais/",
+        "title": "Alckmin e Durigan descartam debater Pix com EUA após ameaça de tarifas adicionais",
+        "description": "Representantes do governo brasileiro descartaram, nesta terça-feira, 2, a possibilidade de negociar termos em relação ao Pix com os Estados Unidos. O governo norte-americano propôs novas tarifas contra o Brasil, citando, entre outras razões, um suposto tratamento preferencial ao sistema de pagamentos, que prejudicaria empresas dos EUA. “Não tem a menor lógica o Pix entrar [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:52:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:14:31",
         "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
         "source_id": "tribunadepetropolis_br",
@@ -163,206 +110,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "亨利·博雷尔案：里约审判时间为近18年来最长",
-        "description_zh": "对被指控杀害 4 岁男孩 Henry Borel 的前议员 Jairo Souza Santos Júnior（又名 Jairinho）和 Monique Medeiros 的审判于本周一进入最后阶段，该案 27 名证人中的最后三人将出庭作证。对Jairo和Monique的审判已经是最"
+        "title_zh": "在威胁征收额外关税后，阿尔克明和杜里根排除与美国讨论 Pix 的可能性",
+        "description_zh": "巴西政府代表于本周二（2 日）排除了与美国就 Pix 条款进行谈判的可能性。北美政府提议对巴西征收新关税，理由之一是所谓的支付系统优惠待遇"
     },
     {
-        "article_id": "2b1575d8d55ea0c0a20ea1bbcee350ed",
-        "link": "https://br.investing.com/news/stock-market-news/anthropic-faz-pedido-confidencial-de-ipo-nos-eua-1958500",
-        "title": "Anthropic faz pedido confidencial de IPO nos EUA",
-        "description": null,
+        "article_id": "afdbf997b9dc3a86c375b04622908c0a",
+        "link": "https://www.cnnbrasil.com.br/ciencia/cientista-busca-origem-do-universo-no-deserto-a-5-mil-metros-de-altitude/",
+        "title": "Cientista busca origem do Universo no deserto a 5 mil metros de altitude",
+        "description": "Brasileira é gerente do projeto CLASS, localizado no Atacama, que estuda luz emitida quando o cosmos tinha aproximadamente 380 mil anos",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "investing.com"
+            "thiago félix"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:42:33",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:06:01",
-        "image_url": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-        "video_url": null,
-        "source_id": "investing_br",
-        "source_name": "Investing Brasil",
-        "source_priority": 33451,
-        "source_url": "https://br.investing.com",
-        "source_icon": "https://n.bytvi.com/investing_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "Anthropic 秘密提交在美国 IPO 的文件",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "313a3aa83851f00314bbdbcb2a7fb169",
-        "link": "https://g1.globo.com/ac/acre/noticia/2026/06/01/com-chuvas-abaixo-da-media-rio-acre-deve-continuar-em-vazante-e-agrava-estiagem-na-capital.ghtml",
-        "title": "Com chuvas abaixo da média, Rio Acre deve continuar em vazante e agrava estiagem na capital",
-        "description": "Entre cheias e secas extremas: O que o acreano espera para a Amazônia? Com chuvas abaixo da média e previsão de redução nos próximos meses, o Rio Acre deve continuar em vazante em Rio Branco. Na manhã desta segunda-feira (1o), o manancial marcou 3,23 metros na capital acreana, segundo a Defesa Civil Municipal. De acordo com dados do órgão repassados ao g1, maio terminou com acumulado de 72,8 milímetros de chuva, abaixo dos 104 milímetros esperados para o período. 📲 Participe do canal do g1 AC no WhatsApp Para junho, a previsão é ainda menor: 39,4 milímetros. Diante do cenário, existe a possibilidade de o rio atingir níveis críticos durante a estiagem deste ano. Segundo o coordenador da Defesa Civil de Rio Branco, tenente-coronel Cláudio Falcão, a tendência é de vazante contínua até o segundo semestre de 2026. “O rio deve continuar descendo. Estamos um pouco acima dos três metros, mas a tendência é baixar de três, depois de dois metros. Podemos chegar a níveis muito críticos principalmente em agosto e setembro, que são os meses mais complicados em relação ao nível do rio”, afirmou. Ainda conforme Falcão, a diminuição gradual das chuvas deve influenciar diretamente no comportamento do manancial nos próximos meses. LEIA MAIS: Com previsões de seca, órgãos discutem ações para enfrentar estiagem no AC: 'Mitigar os efeitos' Rio Acre baixa mais de 6 metros em um mês e acende alerta na capital: 'Prenúncio de estiagem' Consciência Limpa: mais de 100 mudas devem ser plantadas para recuperação ambiental em Rio Branco “As chuvas estão cessando e devem diminuir ainda mais. Maio já choveu abaixo da média e agora temos junho, julho, agosto, setembro e outubro com poucas chuvas, o que traz uma série de consequências”, destacou. A Defesa Civil de Rio Branco também acompanha a possibilidade de o Rio Acre se aproximar novamente de marcas históricas da seca. Em setembro de 2024, o manancial atingiu 1,23 metro, a menor cota já registrada em Rio Branco. “Podemos chegar muito próximo dessa marca ou até superar. Mas não precisa chegar a 1,23 metro para causar problemas. Com 1,50 metro ou 1,40 metro as consequências já são bastante danosas”, alertou o coordenador. Preocupação A preocupação com a estiagem deste ano ocorre em meio a um cenário de eventos climáticos extremos cada vez mais frequentes no Acre. Além das secas severas, o estado também enfrenta cheias históricas, queimadas e períodos prolongados de calor intenso. Um estudo do Centro Brasil no Clima aponta que o Acre registrou mais de 160 desastres ambientais em pouco mais de duas décadas. Entre os eventos mais recorrentes estão enchentes, secas e incêndios florestais, que afetam diretamente a população e a infraestrutura dos municípios. Em Rio Branco e Brasiléia, por exemplo, enchentes e alagações passaram a fazer parte da rotina de muitas famílias. Já durante o verão amazônico, a redução das chuvas favorece a ocorrência de queimadas e piora da qualidade do ar. Especialistas também alertam que períodos prolongados de seca contribuem para o aumento das temperaturas e ampliam os riscos à saúde, principalmente entre crianças, idosos e pessoas com doenças respiratórias. Planejamento Na última quinta-feira (28), representantes da Defesa Civil, órgãos ambientais e pesquisadores discutiram durante uma reunião estratégias para enfrentar a estiagem prevista para este ano. A discussão ocorreu em meio aos alertas sobre a rápida redução no nível do Rio Acre na capital. Conforme mostrou o g1, o manancial baixou 6,87 metros em apenas um mês. Para a Defesa Civil Municipal, o cenário já é considerado um “prenúncio de uma estiagem forte” em 2026. Reunião que discute ações para enfrentar estiagem aconteceu na manhã da última quinta-feira (28) em Rio Branco Richard Lauriano / Rede Amazônica Na ocasião, o secretário de Estado do Meio Ambiente, Leonardo Carvalho, afirmou que o objetivo é antecipar medidas para reduzir os impactos da seca e evitar a repetição dos problemas registrados nos últimos anos, como dificuldades no abastecimento de água, aumento das queimadas e prejuízos para comunidades rurais e ribeirinhas. Outro fator que aumenta a preocupação é a possibilidade de atuação do fenômeno El Niño nos próximos meses. Seca histórica Em 2024, quando o Acre enfrentou uma das secas mais severas já observadas. Naquele ano, junho acumulou apenas 21,1 milímetros de chuva em Rio Branco, o equivalente a 34% do volume esperado para o mês. Com a falta de precipitações, o Rio Acre entrou em rápida vazante e atingiu 1,23 metro em setembro e estabeleceu a menor cota da série histórica. Na época, o governo do Acre montou um gabinete de crise para discutir e tomar as devidas medidas com redução dos índices de chuvas e dos cursos hídricos, bem como do risco de incêndios florestais. Rio Acre chega em setembro de 2024 chegou ao menor nível já registrado Jardel Angelim/Rede Amazônica A seca afetou o abastecimento de água em comunidades urbanas e rurais, dificultou a navegação em regiões isoladas e contribuiu para o aumento das queimadas e dos problemas respiratórios provocados pela fumaça. O que é o El Niño e por que ele preocupa? 🌡️☀️ O El Niño é um fenômeno climático provocado pelo aquecimento anormal das águas do Oceano Pacífico Equatorial. Apesar de ocorrer no oceano Pacífico, ele altera padrões de chuva e temperatura em várias regiões do planeta, incluindo o Brasil. Segundo a agência climática dos Estados Unidos (NOAA), há mais de 80% de chance de formação do fenômeno ainda em 2026. Especialistas, porém, afirmam que ainda não é possível saber qual será a intensidade do evento. Historicamente, o El Niño provoca redução das chuvas na região Norte, aumento das temperaturas e maior risco de seca e queimadas na Amazônia. Cientistas também alertam que os efeitos podem ser potencializados pelo aquecimento global, favorecendo ondas de calor mais intensas, incêndios florestais e impactos no abastecimento de água e na qualidade do ar. VÍDEOS: g1",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:42:21",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:02:08",
-        "image_url": "https://s2-g1.glbimg.com/If2tfMmlovNPzFFAIX318J9rUVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/P/D/2jfgPATsGkzbEQxKLi6Q/whatsapp-image-2024-09-20-at-07.19.28.jpeg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "由于降雨量低于平均水平，阿卡河预计将继续处于退潮状态，并加剧首都的干旱",
-        "description_zh": "在洪水和极端干旱之间：阿卡对亚马逊有何期望？由于降雨量低于平均水平，并且预计未来几个月降雨量将减少，阿卡河将继续在里奥布兰科流动。据德菲斯称，本周一（1日）早上，首府阿卡的泉水高达3.23米"
-    },
-    {
-        "article_id": "f5bfe7a4920153d1c48a89fe472b9d4a",
-        "link": "https://www.minutouno.com/economia/arca-como-es-el-paso-paso-anular-un-comprobante-mal-hecho-n6283749",
-        "title": "ARCA: cómo es el paso a paso para anular un comprobante mal hecho",
-        "description": "Un error al emitir una factura puede ocurrir en cualquier momento. Para estos casos, la ARCA explicó cómo anular comprobantes de manera simple y en pocos pasos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "arca"
-        ],
-        "creator": [
-            "minutouno"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:42:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:06:15",
-        "image_url": "https://media.minutouno.com/p/3af1ea0b7373f08e4c74aaed455397eb/adjuntos/150/imagenes/043/212/0043212965/1200x675/smart/pareja-endeudada-el-monotributo-arca.jpg",
-        "video_url": null,
-        "source_id": "minutouno",
-        "source_name": "Minutouno",
-        "source_priority": 33172,
-        "source_url": "https://www.minutouno.com",
-        "source_icon": "https://n.bytvi.com/minutouno.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "ARCA：取消制作不良的收据的分步流程是怎样的？",
-        "description_zh": "开具发票时随时可能发生错误。对于这些情况，ARCA 解释了如何以简单的方式和几个步骤取消收据。"
-    },
-    {
-        "article_id": "86eb40be3f1ae2e35fed210cbdd4546a",
-        "link": "https://www.elchubut.com.ar/carta-del-lector/2026-6-1-13-42-0-acumulacion-de-residuos-nucleares",
-        "title": "ACUMULACION DE RESIDUOS NUCLEARES",
-        "description": "Tiempo de lectura 5 minutos 45 segundosA pesar de las advertencias de las organizaciones antinucleares, al público en general no le preocupa el constante aumento de la acumulación de desechos tóxicos altamente radiactivos. Ya hay en el mundo más de cuatrocientas mil toneladas sin destino. ¿Cuál es la razón de tal escepticismo? No hay duda, la falta de información a la que se le suma información falaz, información que, por interés, pondera a la energía nuclear.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "nucleares",
-            "acumulacion",
-            "residuos"
-        ],
-        "creator": [
-            "ing. juan vernieri"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:42:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:09:07",
-        "image_url": "https://pxbcdn.elchubut.com.ar/chubut/062026/1780332372196/image.png?cw=1170&ch=645",
-        "video_url": null,
-        "source_id": "elchubut_ar",
-        "source_name": "El Chubut",
-        "source_priority": 110150,
-        "source_url": "https://www.elchubut.com.ar",
-        "source_icon": "https://n.bytvi.com/elchubut_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "核废料的积累",
-        "description_zh": "阅读时间5分45秒尽管反核组织发出警告，但公众并不担心高放射性有毒废物的积累不断增加。全球已有超过四十万吨无目的地。哪个"
-    },
-    {
-        "article_id": "3830998efe4ff715f14b69c8835d33b9",
-        "link": "https://www.infobae.com/tecno/2026/06/01/asi-fue-el-desfile-en-seul-donde-modelos-y-robots-compartieron-la-pasarela/",
-        "title": "Así fue el desfile en Seúl donde modelos y robots compartieron la pasarela",
-        "description": "El evento refuerza la estrategia surcoreana de impulsar robótica avanzada y entretenimiento tecnológico, con experiencias lúdicas que acercan humanoides al público",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "humanoides",
-            "lo último en tecnología",
-            "desfile de modas",
-            "robots",
-            "tecnología-noticias",
-            "moda"
-        ],
-        "creator": [
-            "santiago neira"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "colombia",
-            "united states of america"
-        ],
-        "category": [
-            "technology",
+            "science",
             "top"
         ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:41:57",
+        "datatype": "multimedia",
+        "pubDate": "2026-06-02 16:51:58",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:01:13",
-        "image_url": "https://www.infobae.com/resizer/v2/T237SUOY2RD6ZPQE52RJTPAOZI.png?auth=8d4bddb82a67ce8ef2745db03dc7230a11a63ad59b63506f18b2a4a212d82854&smart=true&width=2752&height=1536",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "fetched_at": "2026-06-02 17:31:50",
+        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2077/06/WhatsApp-Image-2026-05-29-at-20.12.34-2.jpeg?w=1200&h=1200&crop=1",
+        "video_url": "https://www.youtube.com/watch?v=vS2djaNvj50",
+        "source_id": "cnnbrasil_br",
+        "source_name": "Cnn Brasil",
+        "source_priority": 1209,
+        "source_url": "https://www.cnnbrasil.com.br",
+        "source_icon": "https://n.bytvi.com/cnnbrasil_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -370,286 +149,42 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "这是首尔的游行，模特和机器人一起走秀",
-        "description_zh": "该活动强化了韩国推广先进机器人技术和技术娱乐的战略，通过娱乐体验拉近了类人机器人与公众的距离"
+        "title_zh": "科学家在海拔5千米的沙漠中寻找宇宙起源",
+        "description_zh": "巴西人是位于阿塔卡马的 CLASS 项目的经理，该项目研究宇宙大约 38 万年前发出的光"
     },
     {
-        "article_id": "a1e1dd806abc09da71117ee5a0914eca",
-        "link": "https://www.tribunapr.com.br/noticias/parana/procon-pr-fiscaliza-informacao-de-precos-em-lojas-do-varejo-no-estado/",
-        "title": "Procon fiscaliza lojas que exibem preços de forma confusa no Paraná",
-        "description": "O Procon-PR realiza nesta segunda-feira (1o/06) uma ação conjunta com os Procons Municipais para fiscalizar o cumprimento das normas de [...]",
+        "article_id": "7cc31d46db48876ab5134a0087fa78aa",
+        "link": "https://www.mixvale.com.br/2026/06/02/xbox-game-pass-ganha-solarpunk-por-surpresa-em-junho-e-chega-a-11-jogos-confirmados/",
+        "title": "Xbox Game Pass ganha Solarpunk por surpresa em junho e chega a 11 jogos confirmados",
+        "description": "O Xbox Game Pass prepara um mês de junho movimentado. A Microsoft adicionou Solarpunk à lista de novidades, elevando para 11 os títulos já confirmados no serviço. O jogo chega no dia 8 de junho. Solarpunk é um título com elementos de aventura e survival em estilo cozy. O game foca em agricultura, autosuficiência e [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "preços",
-            "supermercado",
-            "paraná",
-            "varejo",
-            "procon"
+            "game pass novos títulos",
+            "xbox game pass",
+            "jogos junho 2026",
+            "solarpunk"
         ],
         "creator": [
-            "tai"
+            "janderson luiz"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-06-01 16:41:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 20:16:37",
-        "image_url": "https://www.tribunapr.com.br/wp-content/uploads/2026/06/01162844/whatsapp_image_2026-06-01_at_09.37.35_2.jpg",
-        "video_url": null,
-        "source_id": "tribunapr_br",
-        "source_name": "Tribuna Pr",
-        "source_priority": 1000827,
-        "source_url": "https://www.tribunapr.com.br",
-        "source_icon": "https://n.bytvi.com/tribunapr_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Procon 检查巴拉那州以令人困惑的方式显示价格的商店",
-        "description_zh": "Procon-PR 在本周一（2006 年 1 月 1 日）与市政 Procons 开展了一项联合行动，以监测 [...]"
-    },
-    {
-        "article_id": "cd3c62c2dbf85a65873219fda69dc5da",
-        "link": "https://forbes.com.mx/incrementar-el-consumo-de-leche-en-mexico-prioritario-para-el-sector/",
-        "title": "Incrementar el consumo de leche en México, prioritario para el sector",
-        "description": "Cada 1 de junio, el mundo celebra el Día Mundial de la Leche, una fecha impulsada por la Organización de las Naciones Unidas para la Alimentación y la",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "forbes méxico staff"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:42:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:04:00",
-        "image_url": "https://cdn.forbes.com.mx/2022/08/mehrshad-rajabi-P7MkoYvSnLI-unsplash-scaled-e1659448621241.jpg",
-        "video_url": null,
-        "source_id": "forbes_mx",
-        "source_name": "Forbes Mx",
-        "source_priority": 23981,
-        "source_url": "https://www.forbes.com.mx",
-        "source_icon": "https://n.bytvi.com/forbes_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "增加墨西哥的牛奶消费是该行业的首要任务",
-        "description_zh": "每年 6 月 1 日，全世界都会庆祝世界牛奶日，这是联合国粮食与营养组织倡导的一个日子。"
-    },
-    {
-        "article_id": "4acf841d8a91b3e2a4e89e9ea9a5ca66",
-        "link": "https://www.elgrafico.mx//al-dia/2026/06/01/demencia-en-mexico-causas-sintomas-y-claves-para-prevenir-el-deterioro-cognitivo/",
-        "title": "Demencia en México: Causas, síntomas y claves para prevenir el deterioro cognitivo",
-        "description": "La demencia en México afecta a millones de personas y transforma la vida de pacientes, familiares y cuidadores, entre pérdida de memoria, desgaste emocional y estigma social",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "el gráfico"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "health"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:42:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:12:24",
-        "image_url": "https://www.elgrafico.mx/resizer/v2/XPBBCTMHUFFG7EBPHKQAE5OJ4Q.png?auth=b0e697b25c0151a61769460695e39bbaed8eacd056bcaea15634500d21ebc0d9&smart=true&width=1004&height=667",
-        "video_url": null,
-        "source_id": "elgrafico",
-        "source_name": "Elgrafico Mx",
-        "source_priority": 360449,
-        "source_url": "https://www.elgrafico.mx",
-        "source_icon": "https://n.bytvi.com/elgrafico.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "墨西哥的痴呆症：原因、症状和预防认知能力下降的关键",
-        "description_zh": "墨西哥的痴呆症影响着数百万人，并改变了患者、家庭成员和护理人员的生活，包括记忆丧失、情绪疲惫和社会耻辱"
-    },
-    {
-        "article_id": "1f1dde63070de272ebfeb0ae2e88e875",
-        "link": "https://www.publimetro.co/noticias/2026/06/01/no-se-gano-en-primera-pero-puede-ganarse-una-plata-numeros-del-chance-de-ivan-cepeda/",
-        "title": "No se ganó en primera pero puede ganarse una ‘plata’: Números del chance de Iván Cepeda",
-        "description": "Acá algunos relacionados con su vida personal y política.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "lotería",
-            "iván cepeda",
-            "elecciones colombia 2026"
-        ],
-        "creator": [
-            "steven garcía"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:42:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 16:43:06",
-        "image_url": "https://www.publimetro.co/resizer/v2/45XRPP4UKFB2DGWUEMQQOHZUQ4.png?auth=cdbc4443ce2016914d6fb12efb3342d812283b4f97dc21431e5704f4d756a7d3&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "publimetro_co",
-        "source_name": "Publimetro Colombia",
-        "source_priority": 371455,
-        "source_url": "https://www.publimetro.co",
-        "source_icon": "https://n.bytvi.com/publimetro_co.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "第一轮没有获胜，但你可以赢得“钱”：伊万·塞佩达的机会数字",
-        "description_zh": "以下是一些与他的个人和政治生活有关的内容。"
-    },
-    {
-        "article_id": "9be3bbdb6ba56c2efd513a156bfd5087",
-        "link": "https://www.publimetro.cl/noticias/2026/06/01/kast-anuncio-la-intervencion-en-50-barrios-criticos-la-mano-cambio-y-eso-se-va-a-ir-notando-dia-a-dia/",
-        "title": "Kast anunció la intervención en 50 barrios críticos: “La mano cambió y eso se va a ir notando día a día”",
-        "description": "“En esos 50 barrios críticos vamos a mostrar la verdadera potencia y la fuerza del Estado y una vez que vayamos recuperando un barrio, vamos a ir por el ot",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "josé antonio kast"
-        ],
-        "creator": [
-            "angélica baeza"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "crime",
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:42:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 16:44:51",
-        "image_url": "https://www.publimetro.cl/resizer/v2/YEAQT3BLDNBPLIC5MOEPZO67TU.png?auth=e620a16ef18d3a6c067bc38d94d5c1e52a6ed56f6e984c0d099ef2cd365cbbdf&smart=true&width=984&height=884",
-        "video_url": null,
-        "source_id": "publimetrocl",
-        "source_name": "Publimetro",
-        "source_priority": 612493,
-        "source_url": "https://www.publimetro.cl",
-        "source_icon": "https://n.bytvi.com/publimetrocl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "卡斯特宣布对 50 个关键社区进行干预：“手势已经发生变化，这一点将会日复一日地被注意到”",
-        "description_zh": "“在这 50 个关键社区中，我们将展示国家的真正力量和力量，一旦我们恢复一个社区，我们就会去争取另一个社区。”"
-    },
-    {
-        "article_id": "460134ec0815b9cddc9d4bff7c5052d8",
-        "link": "https://www.enter.co/chips-bits/gadgets/nuevo-apple-tv-4k-homepod-mini-ia-siri-remote/",
-        "title": "Apple tendría listo un nuevo Apple TV 4K: chips más potentes y cambios en Siri",
-        "description": "Quienes llevan años esperando una actualización importante del ecosistema doméstico de Apple podrían estar cerca de verla. El nuevo Apple TV 4K aparece otra vez en el radar junto con un renovado HomePod mini, dos productos que, aunque llevan tiempo sin cambios relevantes, ahora tendrían una misión distinta: convertirse en piezas clave para la estrategia [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "apple",
-            "streaming",
-            "homepod mini",
-            "apple tv 4k"
-        ],
-        "creator": [
-            "digna irene urrea"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
         ],
         "category": [
             "technology"
         ],
-        "datatype": "blog",
-        "pubDate": "2026-06-01 16:42:36",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 16:43:11",
-        "image_url": "https://www.enter.co/wp-content/uploads/2025/10/APPLE-2025.png",
-        "video_url": null,
-        "source_id": "enter",
-        "source_name": "Enter",
-        "source_priority": 474103,
-        "source_url": "https://www.enter.co",
-        "source_icon": "https://n.bytvi.com/enter.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "苹果将​​推出新的 Apple TV 4K：更强大的芯片和对 Siri 的更改",
-        "description_zh": "那些多年来一直等待苹果国内生态系统重大更新的人可能很快就会看到它。新款 Apple TV 4K 与更新的 HomePod mini 一起再次出现在雷达上，这两款产品虽然很长时间没有相关变化，但现在又多了一款"
-    },
-    {
-        "article_id": "fd499a43de071bfca1ac7063b423a1cc",
-        "link": "https://oem.com.mx/elsoldecordoba/local/amatlan-de-los-reyes-fortalece-medidas-y-refugios-ante-temporada-de-lluvias-intensas-30314696",
-        "title": "Amatlán cuenta con ocho refugios temporales para temporada de lluvias",
-        "description": "Ante la temporada de lluvias en Amatlán de los Reyes, Protección Civil intensifica monitoreo de ríos y habilita ocho refugios temporales para proteger a familias de zonas de riesgo por posibles inundaciones",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
         "datatype": "news",
-        "pubDate": "2026-06-01 16:42:30",
+        "pubDate": "2026-06-02 16:51:55",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 21:49:24",
-        "image_url": "https://oem.com.mx/elsoldecordoba/img/29542067/1780332106/BASE_LANDSCAPE/1200/image.jpg",
+        "fetched_at": "2026-06-02 19:49:07",
+        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2025/07/Xbox-Game-Pass-1.jpg",
         "video_url": null,
-        "source_id": "elsoldecordoba_mx",
-        "source_name": "El Sol De Córdoba",
-        "source_priority": 2416734,
-        "source_url": "https://www.elsoldecordoba.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldecordoba_mx.jpg",
+        "source_id": "mixvale",
+        "source_name": "Mix Vale",
+        "source_priority": 95409,
+        "source_url": "https://www.mixvale.com.br",
+        "source_icon": "https://n.bytvi.com/mixvale.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -657,83 +192,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿马特兰有八个雨季临时避难所",
-        "description_zh": "鉴于阿马特兰德洛斯雷耶斯正值雨季，民防部门加强了对河流的监测，并启用了八个临时避难所，以保护因可能发生洪水而处于危险地区的家庭"
+        "title_zh": "Xbox Game Pass 6 月出人意料地获得 Solarpunk，已确认游戏数量达到 11 款",
+        "description_zh": "Xbox Game Pass 正在为忙碌的六月做准备。微软将《Solarpunk》添加到新功能列表中，使该服务上已确认的游戏数量达到 11 个。该游戏将于 6 月 8 日上市。 Solarpunk 是一款以舒适风格呈现冒险和生存元素的游戏。 The game focuses on agriculture"
     },
     {
-        "article_id": "c88dffd0131a931aa87eddffb9d83299",
-        "link": "https://www.theclinic.cl/2026/06/01/en-que-consiste-el-registro-de-vandalos-anunciado-por-el-presidente-kast-y-quienes-podrian-entrar-al-listado/",
-        "title": "En qué consiste el Registro de Vándalos anunciado por el Presidente Kast y quiénes podrían entrar al listado",
-        "description": "En un encuentro ciudadano realizado en Villa Alemana, durante el fin de semana, el Presidente José Antonio Kast reveló uno de los proyectos que han estado trabajando en materias de seguridad: un registro de vándalos para enfrentar las diversas incivilidades que se viven en la ciudad desde la violencia de los overoles blancos hasta los grafitis que ensucian museos y viviendas. El castigo que se buscar legislar es que las personas sorprendidas en estos actos sean sancionados con la pérdida de beneficios sociales. The post En qué consiste el Registro de Vándalos anunciado por el Presidente Kast y quiénes podrían entrar al listado appeared first on The Clinic .",
+        "article_id": "1a2ef90aa9290430bba8045fb2176ba7",
+        "link": "https://www.cronista.com/economia-politica/el-gobierno-presentara-la-adhesion-de-argentina-al-tratado-transpacifico-que-mercado-gana-el-pais-al-sumarse/",
+        "title": "El Gobierno presentará la adhesión de Argentina al Tratado Transpacífico: qué mercado gana el país al sumarse",
+        "description": "El Ministro de Relaciones Exteriores, Pablo Quirno, dijo que el acuerdo representa la comercialización con el 13% del PBI mundial.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cuenta publica",
-            "kast"
+            "pbi",
+            "pablo quirno",
+            "tratado transpacífico"
         ],
         "creator": [
-            "jaime pinochet"
+            "el cronista"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "argentina"
         ],
         "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:42:30",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:09:51",
-        "image_url": "https://static.theclinic.cl/media/2025/12/01-200532_aicg_A_UNO_1393079-scaled.jpeg",
-        "video_url": null,
-        "source_id": "theclinic",
-        "source_name": "The Clinic",
-        "source_priority": 129373,
-        "source_url": "https://www.theclinic.cl",
-        "source_icon": "https://n.bytvi.com/theclinic.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "卡斯特总统宣布的破坏者登记册由什么组成以及谁可以进入名单",
-        "description_zh": "周末在阿莱马纳别墅举行的一次公民会议上，总统何塞·安东尼奥·卡斯特透露了他们在安全问题上一直在开展的项目之一：建立破坏者登记册，以应对该市因暴力而发生的各种不文明行为"
-    },
-    {
-        "article_id": "24bb39ee9e4fe76d46b164c73f882de0",
-        "link": "https://www.milenio.com/comunidad/fuerza-aerea-festeja-aniversario-puerto-vallarta",
-        "title": "FAM participa en espectáculo aéreo en Puerto Vallarta",
-        "description": "Escuadrón de aeronaves realizaron acrobacias en el destino de Jalisco",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "qué pasó en puerto vallarta",
-            "aniversario de puerto vallarta",
-            "acrobacias de aeronaves",
-            "fuerza aérea mexicana"
-        ],
-        "creator": [
-            "redacción"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
+            "business",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-01 16:42:29",
+        "pubDate": "2026-06-02 16:51:53",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 19:02:18",
-        "image_url": "https://cdn.milenio.com/uploads/media/2026/06/01/puerto-vallarta-celebro-aniversario-asistencia.jpg",
+        "fetched_at": "2026-06-02 17:04:25",
+        "image_url": "https://www.cronista.com/resizer/v2/T7WLBUGZ7FCLPPTRFNSBIE5MLI.jpg?auth=2fcf30bd1ae43da1167c83ba486188b6e5fe56b9b1c72b2bc28f876fb6c31757&smart=true&width=1359&height=1020",
         "video_url": null,
-        "source_id": "milenio",
-        "source_name": "Milenio",
-        "source_priority": 10804,
-        "source_url": "https://www.milenio.com",
-        "source_icon": "https://n.bytvi.com/milenio.png",
+        "source_id": "cronista",
+        "source_name": "El Cronista",
+        "source_priority": 17097,
+        "source_url": "https://www.cronista.com",
+        "source_icon": "https://n.bytvi.com/cronista.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -741,26 +236,253 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "FAM 参加巴亚尔塔港航展",
-        "description_zh": "飞机中队在目的地哈利斯科州表演杂技"
+        "title_zh": "政府将介绍阿根廷加入跨太平洋条约：加入该国可以获得哪些市场",
+        "description_zh": "外交部长巴勃罗·基尔诺表示，该协议代表着占世界GDP 13%的商业化。"
     },
     {
-        "article_id": "bb928f84cd28a3fedcda53993e73e270",
-        "link": "https://www.marca.com/mx/actualidad/dinero/2026/06/01/6a1da62822601d9e758b45c7.html",
-        "title": "¿De cuánto podría ser el apoyo para útiles y uniformes de la Beca Rita Cetina? Este podría ser el extra que recibirías",
-        "description": "Millones de familias mexicanas siguen pendientes de la Beca Rita Cetina y de un posible apoyo adicional para gastos escolares... Leer",
+        "article_id": "6736ce61a6a61120b95eeddfc66f2f74",
+        "link": "https://www.poder360.com.br/poder-governo/lula-associa-bolsonaro-a-ignorancia-e-miliciano/",
+        "title": "Lula associa Bolsonaro a “ignorância e miliciano”",
+        "description": "Petista critica o fim de ministérios pelo ex-presidente e declara que o Brasil nunca viu tanta \"sordidez política\" como na gestão de Jair",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "beca rita cetina - mx",
-            "programas sociales - mx",
-            "mauricio elias chavez - raíz",
-            "banco del bienestar - mx",
-            "becas - mx",
-            "actualidad/dinero",
-            "tarjeta del bienestar - mx"
+            "produtos importados",
+            "pt",
+            "brasil",
+            "trabalho",
+            "instituto federal goiano",
+            "estados unidos",
+            "jair bolsonaro",
+            "tarifa de 25%",
+            "intervenção estrangeira",
+            "filhos de bolsonaro",
+            "direitos humanos",
+            "ex-presidente",
+            "traidores",
+            "lula",
+            "ministérios",
+            "políticas públicas",
+            "cultura",
+            "luiz inácio lula da silva",
+            "mulher",
+            "pl"
         ],
         "creator": [
-            "raíz"
+            "ludmyla barros"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:35",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:01:33",
+        "image_url": "https://static.poder360.com.br/2025/01/jairbolsonaro-luizinacioluladasilva-aprovacao-governos-29-jan-2025-848x477.jpg",
+        "video_url": null,
+        "source_id": "poder360_br",
+        "source_name": "Poder360",
+        "source_priority": 6639,
+        "source_url": "https://www.poder360.com.br",
+        "source_icon": "https://n.bytvi.com/poder360_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "卢拉将博尔索纳罗与“无知和民兵”联系在一起",
+        "description_zh": "劳工党成员批评前总统结束各部委，并宣称巴西从未见过雅伊尔执政期间如此多的“政治肮脏”"
+    },
+    {
+        "article_id": "4fc8bb4c3f9daa6f997b8cecce27bf8e",
+        "link": "https://www.estadao.com.br/brasil/anvisa-suspende-lotes-de-medicamentos-para-controle-de-pressao-e-para-cancer-npr/",
+        "title": "Anvisa suspende lotes de medicamentos para controle de pressão e para câncer; entenda",
+        "description": "Conforme a agência, recolhimento voluntário dos produtos ocorreu por desvio de qualidade; procurados, os fabricantes não se manifestaram",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "health",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:33",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:05:15",
+        "image_url": "https://www.estadao.com.br/resizer/v2/KINLNKRRZVEFNIJ7JNIHGAKLMI.jpg?quality=80&auth=76faf8e2bf36b7c4faf3513b258a0a0c1c4d72e2c9551ebbcebe6c51a2ca8a2e&width=1200&height=1200&smart=true",
+        "video_url": null,
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Anvisa 暂停了多批用于控制血压和癌症的药物；理解",
+        "description_zh": "据该机构称，自愿召回的产品因质量偏差而发生；寻求帮助，厂家未回应"
+    },
+    {
+        "article_id": "27e16e8ab4a5d7ed85e3e86f768245a6",
+        "link": "https://www.estadao.com.br/sao-paulo/sao-paulo-confirma-o-10-caso-de-febre-amarela-neste-ano-seis-pessoas-morreram-nprm/",
+        "title": "São Paulo confirma o 10o caso de febre amarela neste ano; seis pessoas morreram",
+        "description": "Pacientes infectados não tinham histórico de vacinação contra a doença",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "andreza de oliveira"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "health",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:05:10",
+        "image_url": "https://www.estadao.com.br/resizer/v2/FABCIO3AZBHRRMWLWQGH5WSAP4.jpg?quality=80&auth=30dd2c6c2893f4452c3e00486712f6c6e5faa626f4cbd6fb29443e396bd34be7&width=1200&height=1200&smart=true",
+        "video_url": null,
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "圣保罗确认今年第10例黄热病病例；六人死亡",
+        "description_zh": "感染者没有疫苗接种史"
+    },
+    {
+        "article_id": "9da30a831670e4b63d328e88cef968d4",
+        "link": "https://diariodopara.com.br/policia/homem-e-morto-de-forma-violenta-e-corpo-e-encontrado-sem-cabeca/",
+        "title": "Homem é morto de forma violenta e corpo é encontrado sem cabeça",
+        "description": "Polícia investiga execução com extrema violência em Igarapé-Miri Nilson da Silva Carvalho, de 46 anos, foi encontrado decapitado em Igarapé-Miri. A Polícia Civil investiga o caso e a hipótese de envolvimento com o “tribunal do crime”. O post Homem é morto de forma violenta e corpo é encontrado sem cabeça apareceu primeiro em Diário do Pará .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "tribunal do crime",
+            "igarapé-miri",
+            "tráfico de drogas",
+            "polícia civil",
+            "abaetetuba",
+            "disque denúncia",
+            "receptação"
+        ],
+        "creator": [
+            "jr avelar"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:15",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:18:30",
+        "image_url": "https://uploads.diariodopara.com.br/imagens/2026/06/Foto-ZAP-IGARAPE-MIRI-Nilson-da-Silva-Carvalho-teve-a-cabeca-decapitada-e-jogada-junto-do-corpo-no-rio.jpg",
+        "video_url": null,
+        "source_id": "diariodopara",
+        "source_name": "Diário Do Pará",
+        "source_priority": 1552501,
+        "source_url": "https://diariodopara.dol.com.br",
+        "source_icon": "https://n.bytvi.com/diariodopara.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "男子被暴力杀害，尸体被发现无头",
+        "description_zh": "警方调查伊加拉佩-米里的极端暴力处决事件 46 岁的尼尔森·达席尔瓦·卡瓦略 (Nilson da Silva Carvalho) 在伊加拉佩-米里被发现被斩首。民警正在调查此案以及与“犯罪法庭”介入的可能性。男子被暴力杀害，尸体被发现"
+    },
+    {
+        "article_id": "9fe18f667ce12a8ef15ad9b6c2d29fd3",
+        "link": "https://www.elsiglodetorreon.com.mx/noticia/2026/el-trabajo-es-mas-importante-que-las-diferencias-politicas-dice-hugo-davila.html",
+        "title": "El trabajo es más importante que las diferencias políticas, dice Hugo Dávila",
+        "description": "El candidato a diputado local por el Distrito 11 de la Alianza Ciudadana por la Seguridad PRI-UDC, Hugo Dávila Prado, destacó la importancia de privilegiar el trabajo y los resultados por encima de las diferencias políticas, y señaló que la ciudadanía demanda representantes comprometidos con la resolución de problemas. Se comprometió con la ciudadanía a seguir trabajando para tocar las puertas ante diversas instancias, con el fin de conseguir los recursos que se necesitan para Torreón y Coahuila. Asimismo, señaló que la coordinación entre autoridades, legisladores y ciudadanía será fundamental para continuar impulsando acciones que permitan fortalecer el desarrollo de la región, mantener la seguridad y seguir generando mejores oportunidades para las familias coahuilenses. “C... Más información -- El trabajo es más importante que las diferencias políticas, dice Hugo Dávila »",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "destacó",
+            "importancia",
+            "elecciones 2026",
+            "ciudadanía",
+            "seguir"
+        ],
+        "creator": [
+            "maria elena holguin"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:52:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:09:06",
+        "image_url": "https://www.elsiglodetorreon.com.mx/m/i/2026/06/2016617.jpeg",
+        "video_url": null,
+        "source_id": "elsiglodetorreon",
+        "source_name": "El Siglo De Torreón",
+        "source_priority": 99698,
+        "source_url": "https://www.elsiglodetorreon.com.mx",
+        "source_icon": "https://n.bytvi.com/elsiglodetorreon.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "雨果·达维拉表示，工作比政治分歧更重要",
+        "description_zh": "PRI-UDC 公民安全联盟第 11 区地方代表候选人雨果·达维拉·普拉多 (Hugo Dávila Prado) 强调了将工作和结果置于政治分歧之上的重要性，并指出公民要求代表致力于"
+    },
+    {
+        "article_id": "c3bf048fdd3d3c19f5d03f17d332a466",
+        "link": "https://heraldodemexico.com.mx/nacional/2026/6/2/secuestro-homicidio-de-adolescente-en-morelia-derivo-en-exigencia-de-300-mil-pesos-torres-pina-824209.html",
+        "title": "Secuestro y homicidio de adolescente en Morelia derivó en exigencia de 300 mil pesos: Torres Piña",
+        "description": "En rueda de prensa, el fiscal General informó avances de las investigaciones realizadas por la FGE en coordinación con autoridades federales y estatales",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "fiscal de michoacán",
+            "carlos torres piña",
+            "secuestro",
+            "homicidios en michoacán"
+        ],
+        "creator": [
+            "raúl mendoza"
         ],
         "language": "spanish",
         "country": [
@@ -770,16 +492,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-01 16:42:25",
+        "pubDate": "2026-06-02 16:52:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 21:33:50",
-        "image_url": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2026/06/01/17803264857219.jpg",
+        "fetched_at": "2026-06-02 17:07:38",
+        "image_url": "https://heraldodemexico.com.mx/u/fotografias/m/2026/6/2/f1280x720-1291054_1422729_5050.jpg",
         "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
+        "source_id": "heraldodemexico",
+        "source_name": "El Heraldo De Mexico",
+        "source_priority": 21317,
+        "source_url": "https://heraldodemexico.com.mx",
+        "source_icon": "https://n.bytvi.com/heraldodemexico.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -787,50 +509,348 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "丽塔·塞蒂纳奖学金可以为物资和制服提供多少支持？这可能是您将收到的额外费用",
-        "description_zh": "数百万墨西哥家庭仍在等待丽塔·塞蒂纳奖学金和可能的额外学费支持……阅读"
+        "title_zh": "莫雷利亚一名青少年被绑架并被杀害，索要 30 万比索：托雷斯·皮纳 (Torres Piña)",
+        "description_zh": "在新闻发布会上，总检察长报告了 FGE 与联邦和州当局协调进行的调查的进展情况"
     },
     {
-        "article_id": "82f2402e92df1f12c964c913306997f1",
-        "link": "https://eldiariodechihuahua.mx/local/2026/jun/01/video-toman-maestros-caseta-de-sacramento-803814.html",
-        "title": "Video.- Toman maestros caseta de Sacramento",
-        "description": "Los maestros exigen la derogación de la Ley del ISSSTE de 2007 y una jubilación digna para los trabajadores de la educación",
+        "article_id": "86af9d75068e0164c9f806b927cf21be",
+        "link": "https://www.elpaisvallenato.com/2026/06/02/testigo-electoral-podria-pagar-carcel-por-votar-dos-veces/",
+        "title": "Testigo electoral podría pagar cárcel por votar dos veces",
+        "description": "Ante un juez penal de control de garantías de Valledupar, fue judicializada una ciudadana que presuntamente incurrió en el delito The post Testigo electoral podría pagar cárcel por votar dos veces first appeared on El Pais Vallenato .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "jubilación",
-            "docentes",
-            "magisterio"
-        ],
+        "keywords": null,
         "creator": [
-            "francisco lópez matán | el diario"
+            "admin"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "colombia"
         ],
         "category": [
-            "top",
-            "education"
+            "crime"
         ],
-        "datatype": "news",
-        "pubDate": "2026-06-01 16:42:23",
+        "datatype": "blog",
+        "pubDate": "2026-06-02 16:51:59",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-01 17:07:56",
-        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/06/01/tea2-ATr0aMa08.jpg",
+        "fetched_at": "2026-06-02 17:21:18",
+        "image_url": "https://www.elpaisvallenato.com/wp-content/uploads/2026/06/FISCALIA.jpg",
         "video_url": null,
-        "source_id": "eldiariodechihuahua",
-        "source_name": "Eldiariodechihuahua",
-        "source_priority": 77437,
-        "source_url": "https://www.eldiariodechihuahua.mx",
-        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
+        "source_id": "elpaisvallenato",
+        "source_name": "El País Vallenato",
+        "source_priority": 2989922,
+        "source_url": "https://www.elpaisvallenato.com",
+        "source_icon": "https://n.bytvi.com/elpaisvallenato.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "视频-他们接管了萨克拉门托摊位老师",
-        "description_zh": "教师要求废除 2007 年 ISSSTE 法并让教育工作者有尊严地退休"
+        "duplicate": false,
+        "title_zh": "选举证人可能因两次投票而面临牢狱之灾",
+        "description_zh": "在巴耶杜帕尔负责控制保障的刑事法官面前，一名涉嫌犯罪的公民受到起诉。选举证人可能因两次投票而入狱的帖子首次出现在《El Pais Vallenato》上。"
+    },
+    {
+        "article_id": "3fbbd28d8b55700acf34f25af464b823",
+        "link": "https://www.semana.com/economia/macroeconomia/articulo/dnp-pone-bajo-la-lupa-proyectos-de-regalias-en-atlantico-tras-hallar-inconsistencias-en-ejecucion/202657/",
+        "title": "DNP pone bajo la lupa proyectos de regalías en Atlántico tras hallar inconsistencias en ejecución",
+        "description": "La entidad anunció acompañamiento con organismos de control para fortalecer vigilancia territorial.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "irregularidades",
+            "recursos públicos",
+            "brechas",
+            "departamento nacional de planeación",
+            "infraestructura"
+        ],
+        "creator": [
+            "redacción economía"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:57",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:04:24",
+        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/V276GLAVX5CQDPLZEFCDOLR3DU.jpg?auth=efcffae1809361f5d644219c884fe16044d1db90f5f012aff99d55f09d501f00&smart=true&width=800&height=450",
+        "video_url": null,
+        "source_id": "semana",
+        "source_name": "Semana",
+        "source_priority": 15867,
+        "source_url": "https://www.semana.com",
+        "source_icon": "https://n.bytvi.com/semana.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "DNP 在发现执行中存在不一致之处后，对 Atlántico 的特许权使用费项目进行了审查",
+        "description_zh": "该实体宣布支持控制组织加强领土监视。"
+    },
+    {
+        "article_id": "30d461a431e9f554d62cfce4854c5fbe",
+        "link": "https://www.xataka.com.mx/celulares-y-smartphones/xiaomi-compatible-airdrop-iphone-lista-completa-celulares-compatibles",
+        "title": "Xiaomi ya es compatible con AirDrop del iPhone. Lista completa de celulares compatibles",
+        "description": "Xiaomi se une a lista de fabricantes compatibles con AirDrop del iPhone . Mediante una publicación en X la cuenta oficial de HyperOS confirmó la compatibilidad con AirDrop para enviar fotos y todo tipo de archivos al iPhone sin necesidad de apps extra, solo con Quick Share, la plataforma para compartir archivos nativa de Android. Xiaomi 17T Pro es el primer celular Xiaomi compatible con AirDrop del iPhone . La compatibilidad del Xiaomi 17T Pro con AirDrop es completa, es decir que no solo puede enviar archivos al iPhone, también a otros dispositivos de Apple como iPad y Mac, ya que también usan AirDrop. La compatibilidad de Quick Share con AirDrop es nativa, lo que quiere decir que no es necesario descargar ninguna aplicación extra. Por ahora, el Xiaomi 17T Pro es el único celular de Xiaomi con el soporte nativo de Quick Share para AirDrop. Sin embargo, es seguro que pronto Xiaomi llevará esta esperada función a más de sus celulares con una actualización de su sistema operativo HyperOS. El anuncio de la compatibilidad con el Xiaomi 17T Pro es solo la puerta de entrada a la total compatibilidad de Xiaomi y el iPhone. Lista completa de celulares Android compatibles con AirDrop del iPhone Xiaomi no es el primer ni único fabricante con soporte para AirDrop . Google fue el primero el año pasado con su familia Pixel 10, y hace unos meses Samsung dio la gran sorpresa , primero con su serie Galaxy S26 . A partir de las confirmaciones de Google y Samsung, más de sus celulares se han unido a la lista de celulares Android compatibles con AirDrop. También más fabricantes Android han confirmado el soporte nativo de AirDrop, como OPPO , vivo y OnePlus, con disponiblidad inmediata o en el futuro cercano . La lista completa de celulares Android compatibles con AirDrop del iPhone, hasta ahora, es la siguiente: Celulares Google Pixel Pixel 10 Pixel 10 Pro Pixel 10 Pro XL Pixel 10 Pro Fold Pixel 10a Pixel 9 Pixel 9 Pro Pixel 9 Pro XL Pixel 9 Pro Fold Pixel 8a Celulares Samsung Galaxy Galaxy S26 Ultra Galaxy S26+ Galaxy S26 Galaxy Z TriFold (próximamente) Galaxy S25 Ultra Galaxy S25+ Galaxy S25 Galaxy Z Fold7 Galaxy Z Flip7 Galaxy S24 Ultra Galaxy S24+ Galaxy S24 Galaxy Z Fold6 Galaxy Z Flip6 Celulares OPPO OPPO Find X9 Ultra OPPO Find X9 Pro OPPO Find X9 OPPO Find N6 OPPO Find X8 Pro (próximamente) OPPO Find X8 (próximamente) Otros celulares Android compatibles con AirDrop vivo X300 Ultra OnePlus 15 (próximamente) HONOR Magic V6 (próximamente) HONOR Magic8 Pro (próximamente) - La noticia Xiaomi ya es compatible con AirDrop del iPhone. Lista completa de celulares compatibles fue publicada originalmente en Xataka México por Antonio Cahun .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "apple",
+            "celulares y smartphones",
+            "oppo",
+            "google",
+            "iphone",
+            "xiaomi",
+            "samsung"
+        ],
+        "creator": [
+            "antonio cahun"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:08:28",
+        "image_url": "https://i.blogs.es/ef26a9/xiaomi-compatible-airdrop-iphone-lista-completa-celulares-modelos-compatibles/1200_900.jpeg",
+        "video_url": null,
+        "source_id": "xataka",
+        "source_name": "Xataka Mexico",
+        "source_priority": 76603,
+        "source_url": "https://www.xataka.com.mx",
+        "source_icon": "https://n.bytvi.com/xataka.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "小米已经在 iPhone 上支持 AirDrop。兼容手机的完整列表",
+        "description_zh": "小米加入兼容 iPhone AirDrop 的厂商名单。通过发表在"
+    },
+    {
+        "article_id": "960eee9eb44be49d33142a1df4ede4cb",
+        "link": "https://24horaspuebla.com/2026/06/largas-distancias-de-viaje-podrian-afectar-el-rendimiento-de-selecciones-en-el-mundial-2026/",
+        "title": "Largas distancias de viaje podrían afectar el rendimiento de selecciones en el Mundial 2026",
+        "description": "El Mundial 2026 no solo pondrá a prueba el talento de las selecciones participantes, sino también su capacidad de adaptación a extensos traslados entre sedes. Mientras la Selección Mexicana contará con la ventaja de disputar gran parte de sus encuentros cerca de su concentración, otros equipos deberán recorrer miles de kilómetros durante la fase de [...] The post Largas distancias de viaje podrían afectar el rendimiento de selecciones en el Mundial 2026 appeared first on Diario 24 Horas Puebla .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "redacción"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:23",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:16:04",
+        "image_url": "https://bunny-wp-pullzone-19zk8kfr6r.b-cdn.net/wp-content/uploads/puebla//2026/06/Recorridos-de-selecciones-podrian-afectar-a-jugadores.webp",
+        "video_url": null,
+        "source_id": "24horaspuebla",
+        "source_name": "24 Horas Puebla",
+        "source_priority": 649883,
+        "source_url": "https://24horaspuebla.com",
+        "source_icon": "https://n.bytvi.com/24horaspuebla.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "长途旅行可能会影响球队在 2026 年世界杯上的表现",
+        "description_zh": "2026年世界杯不仅考验参赛球队的天赋，也考验他们适应场馆间广泛转会的能力。虽然墨西哥国家队将拥有在其集中地附近进行大部分比赛的优势，但其他球队"
+    },
+    {
+        "article_id": "72b92e4fae1b5aa28de12c078664129a",
+        "link": "https://tribunademexico.com/el-dia-de-la-revelacion-el-desafio-etico-de-distinguir-la-realidad-en-la-era-digital/",
+        "title": "El Día de la Revelación: el desafío ético de distinguir la realidad en la era digital",
+        "description": "#Tecnologia El Día de la Revelación nos confronta con los límites de la verdad digital. ( El cargo El Día de la Revelación: el desafío ético de distinguir la realidad en la era digital apareció primero en Tribuna de México .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "joaquín sánchez castro"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:21",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:16:35",
+        "image_url": "https://storage.googleapis.com/tribunamexicov2/2026/06/STEVEN.jpg.webp",
+        "video_url": null,
+        "source_id": "tribunademexico",
+        "source_name": "Tribuna De México",
+        "source_priority": 697716,
+        "source_url": "https://tribunademexico.com",
+        "source_icon": "https://n.bytvi.com/tribunademexico.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "启示日：数字时代区分现实的道德挑战",
+        "description_zh": "#技术启示日让我们面对数字真相的局限性。 （《启示之日：数字时代区分现实的伦理挑战》一文首先出现在墨西哥论坛报上。"
+    },
+    {
+        "article_id": "2b67f9687f09bf24bf0e5c997d663354",
+        "link": "https://www.elcolombiano.com/antioquia/andres-julian-rendon-asegura-que-petro-busca-quedarse-en-el-poder-AA37262626",
+        "title": "“Petro quiere perpetuarse en el poder”: gobernador de Antioquia cuestionó ataques del presidente a las elecciones",
+        "description": "El gobernador de Antioquia, Andrés Julián Rendón, cuestionó las descalificaciones que recientemente realizó el presidente Gustavo Petro a los resultados de la primera vuelta presidencial, asegurando que detrás de ellas no habría otra cosa que la intención de perpetuarse en el poder. Las declaraciones del mandatario seccional se produjeron en la antesala de un nuevo encuentro de la Federación Nacional de Departamentos, en el que los distintos gobernadores del país discutirán varias problemáticas nacionales y revisarán también el proceso electoral en sus diferentes territorios. En contexto: Registrador desmiente a Petro y a Cepeda: el software electoral no procesa cédulas “Hoy tenemos convocada esta reunión extraordinaria con todos los gobernadores porque queremos respaldar nuestras instituciones y una de las instituciones más importantes , más potentes, reconocidas por observadores electorales de distintas latitudes, la electoral. La Registraduría ha dicho que hay una coincidencia superior al 99,9% entre el escrutinio y el preconteo”, expresó. “El presidente pretende perpetuarse en el poder, cambiar la Constitución y llevarnos por un camino que a muchos hace unos años les sonaba a risa, pero es el camino de querer destruir las instituciones, de imponerse a través del populismo y de perpetuarse en el ejercicio del gobierno destruyendo las libertades y la economía ”, aseveró el gobernador. Las declaraciones aludidas por Rendón se produjeron durante la noche del pasado domingo 31 de mayo, cuando, a escasas horas de conocerse el resultado del preconteo de la primera vuelta presidencial, el presidente Gustavo Petro puso en tela de juicio la integridad de ese proceso. A través de sus redes sociales, el primer mandatario habló de una supuesta irregularidad con el software encargado de procesar los datos de ese preconteo, sin entregar mayores pruebas. Le puede interesar: Así puede consultar las actas E-14 de la Registraduría y verificar los resultados mesa por mesa “El llamado conteo transmitido no tiene fuerza vinculante. Sus datos no son norma pública. Como presidente no acepto los resultados del preconteo de la firma privada de los hermanos Bautista, porque debiendo estar quietos los algoritmos del software de conteo y escrutinios, en la última semana fueron variados en tres oportunidades y agregaron 800.000 cédulas más de personas que no están en el censo oficial presentado”, expresó Petro. Inicialmente, durante su discurso posterior a la primera vuelta, el candidato del Pacto Histórico, Iván Cepeda, también cuestionó la integridad de ese preconteo y no quiso reconocer los resultados que lo dejaron por debajo de Abelardo De la Espriella. Posteriormente, Cepeda bajó el tono de sus declaraciones y, al ser interrogado sobre el tema, aseguró no tener evidencias de que se hubiera cometido fraude. “Debo decir con claridad también, porque en eso soy una persona honesta y rigurosa, que no hemos encontrado evidencia, indicios o irregularidades protuberantes”, dijo el pasado lunes. Ante esos señalamientos, la Registraduría desmintió a Petro y Cepeda y defendió la integridad de los resultados, recordando que el software del preconteo no utiliza cédulas ni ningún dato de identificación de los ciudadanos. “Los software de conteo y de escrutinio no tienen cédulas, no las requieren, no se usan. Los software solo consolidan información, solo llegan números, datos, resultados. Los software se utilizan exclusivamente para recibir la información y hacer una difusión rápida como la que hicimos ayer después de las 4 de la tarde”, dijo el registrador Hernán Penagos. Siga leyendo: Las cuentas detrás de la segunda vuelta: ¿Cuántos votos necesitan Abelardo y Cepeda para ganar? La Registraduría, además, señaló este martes que durante el proceso de escrutinio, a cargo de los jueces de la República, hubo un 99.94 % de coincidencia entre el preconteo y ese procesamiento final. “La entidad destaca que el preconteo divulgado el pasado domingo tuvo un acierto del 99.94 % respecto del escrutinio antes mencionado, lo que evidencia que las modificaciones fueron mínimas y que el proceso de consolidación y divulgación de los resultados ha sido exitoso”, expresó la Registraduría. Ante esos señalamientos, otras organizaciones como Human Rights Watch calificaron como “lamentables” las descalificaciones de Petro a la Registraduría e hicieron un llamado a la comunidad internacional para rodear a las autoridades electorales y preservar su independencia ante un Ejecutivo que la está atacando. En la antesala del encuentro de gobernadores de este martes, el gobernador Rendón planteó además que las elecciones no le pertenecen al gobierno del presidente Gustavo Petro, sino a todo el país. Para consultar contenido premium o profundizar sobre sus temas de interés de Medellín, Antioquia, Colombia y el Mundo, regístrese aquí . “Las elecciones son del país entero y todos nosotros, los gobernadores, las distintas instituciones, jueces, fiscales, tenemos que pararnos de nuevo frente a esta arremetida y seguir resistiendo ”, agregó.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "gobierno nacional",
+            "registraduría nacional del estado civil",
+            "andrés julián rendón",
+            "elecciones 2026",
+            "antioquia",
+            "elecciones",
+            "gustavo petro",
+            "gobernación de antioquia"
+        ],
+        "creator": [
+            "el colombiano"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:19",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:09:59",
+        "image_url": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/YYNP/andres-julian-rendon-y-gustavo-petro_50776793_20260602111928.webp",
+        "video_url": null,
+        "source_id": "elcolombiano",
+        "source_name": "Elcolombiano",
+        "source_priority": 109876,
+        "source_url": "https://www.elcolombiano.com",
+        "source_icon": "https://n.bytvi.com/elcolombiano.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“佩特罗希望继续掌权”：安蒂奥基亚省州长质疑总统对选举的攻击",
+        "description_zh": "安蒂奥基亚省省长安德烈斯·朱利安·伦东对古斯塔沃·佩特罗总统最近取消第一轮总统选举结果的资格提出质疑，确保其背后除了延续自己掌权的意图外别无其他。决定"
+    },
+    {
+        "article_id": "f6ff38b605a58db745f7a0c59cabae0e",
+        "link": "https://cambiodemichoacan.com.mx/2026/06/02/sheinbaum-evade-polemica-por-caso-merida-sanchez/",
+        "title": "Sheinbaum evade polémica por caso Mérida Sánchez",
+        "description": "Cuidad de México.- Una postura de una sola línea. Así respondió la presidenta Claudia Sheinbaum durante su conferencia de prensa matutina ante los cuestionamientos sobre las duras declaraciones de la jueza neoyorquina Katherine Polk Failla en torno al caso del exsecretario de Seguridad de Sinaloa, Gerardo Mérida Sánchez. “Le corresponde a la Fiscalía General de [...] El cargo Sheinbaum evade polémica por caso Mérida Sánchez apareció primero en Cambio de Michoacán .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "fge",
+            "claudia sheinbaum pardo",
+            "gerardo mérida sánchez"
+        ],
+        "creator": [
+            "cambio de michoacán"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:18",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 16:51:26",
+        "image_url": "https://cambiodemichoacan.com.mx/wp-content/uploads/2026/03/1234.webp",
+        "video_url": null,
+        "source_id": "cambiodemichoacan",
+        "source_name": "Cambiodemichoacan",
+        "source_priority": 2848627,
+        "source_url": "https://cambiodemichoacan.com.mx",
+        "source_icon": "https://n.bytvi.com/cambiodemichoacan.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "谢因鲍姆回避了梅里达·桑切斯案的争议",
+        "description_zh": "墨西哥城。-单线姿势。克劳迪娅·谢因鲍姆总统在上午的新闻发布会上回答了纽约法官凯瑟琳·波尔克·法伊拉对锡那罗州前安全部长案件的严厉言论的问题"
+    },
+    {
+        "article_id": "a35a17372d881cff656afe12de86a0c0",
+        "link": "https://www.elimparcial.com/mexico/2026/06/02/el-11-de-junio-sera-descanso-obligatorio-por-el-mexico-vs-sudafrica-esto-deben-saber-trabajadores-antes-del-inicio-del-mundial-2026/",
+        "title": "¿El 11 de junio será descanso obligatorio por el México vs Sudáfrica? Esto deben saber trabajadores antes del inicio del Mundial 2026",
+        "description": "El partido inaugural del Mundial 2026 entre México y Sudáfrica se jugará el 11 de junio a la 1:00 de la tarde, por lo que muchos trabajadores se preguntan si ese día será feriado o si las empresas deben dar facilidades.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "sudáfrica",
+            "méxico",
+            "mundial 2026",
+            "futbol",
+            "descanso",
+            "junio",
+            "partido"
+        ],
+        "creator": [
+            "elsi v. ventura"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-02 16:51:17",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-02 17:05:16",
+        "image_url": "https://www.elimparcial.com/resizer/v2/QKZIXR7SAZD63IVCJ4JZAP6ZXU.jpg?auth=534ca0095c7b5d5575d586be40ffe0debd6c7ee4b36ebb255f8ad295f5fdb17d&smart=true&width=1200&height=780",
+        "video_url": null,
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "6 月 11 日墨西哥队对阵南非队会强制休息吗？这是2026年世界杯开赛前工人们应该知道的",
+        "description_zh": "2026年世界杯墨西哥队与南非队的揭幕战将于6月11日下午1点进行，很多工人都在想这一天是否放假，或者企业是否应该提供设施。"
     }
 ]
