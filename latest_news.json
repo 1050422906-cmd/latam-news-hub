@@ -1,35 +1,41 @@
 [
     {
-        "article_id": "881f3c736cb0922e845ef2964e937158",
-        "link": "https://www.infomoney.com.br/economia/fed-instituicoes-nao-bancarias-capturaram-parcela-maior-do-mercado-de-emprestimos/",
-        "title": "Fed: instituições não-bancárias capturaram parcela maior do mercado de empréstimos",
-        "description": "Por outro lado, pesquisas conduzidas pelo Fed mostram que os bancos estão apertando condições de empréstimo para NBFIs por preocupações com a qualidade de colaterais ou riscos de subscrição The post Fed: instituições não-bancárias capturaram parcela maior do mercado de empréstimos appeared first on InfoMoney .",
+        "article_id": "9fd427b4eb8be48a0bb6f5fe1ec90cde",
+        "link": "https://www.diariodocentrodomundo.com.br/gigante-da-tecnologia-pede-pausa-no-avanco-da-ia-bom-para-o-mundo/",
+        "title": "Gigante da tecnologia pede pausa no avanço da IA: “Bom para o mundo”",
+        "description": "A Anthropic, empresa responsável pelo desenvolvimento da inteligência artificial Claude, pediu uma pausa global no avanço dos sistemas de IA mais poderosos. Em relatório, a companhia afirmou que uma desaceleração temporária poderia ajudar governos, pesquisadores e instituições a acompanhar o ritmo das transformações tecnológicas. Segundo a empresa, uma medida desse tipo só teria efeito se [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "fed",
-            "empréstimo"
+            "anthropic",
+            "claude",
+            "pausa",
+            "ia",
+            "estudos",
+            "inteligência artificial",
+            "desenvolvimento"
         ],
         "creator": [
-            "estadão conteúdo"
+            "caique lima"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "business"
+            "technology",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-04 16:22:00",
+        "pubDate": "2026-06-05 16:03:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:37:54",
-        "image_url": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=1375%2C916&quality=70&strip=all",
+        "fetched_at": "2026-06-05 16:07:49",
+        "image_url": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/06/tipos-de-inteligencia-artificial-fcamara-1-1200x900.webp",
         "video_url": null,
-        "source_id": "infomoney",
-        "source_name": "Infomoney",
-        "source_priority": 68762,
-        "source_url": "https://www.infomoney.com.br",
-        "source_icon": "https://n.bytvi.com/infomoney.png",
+        "source_id": "diariodocentrodomundo",
+        "source_name": "Dcm",
+        "source_priority": 46634,
+        "source_url": "https://www.diariodocentrodomundo.com.br",
+        "source_icon": "https://n.bytvi.com/diariodocentrodomundo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -37,42 +43,118 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "美联储：非银行机构占据贷款市场更大份额",
-        "description_zh": "另一方面，美联储的研究显示，出于对抵押品质量或承保风险的担忧，银行正在收紧非银行金融机构的贷款条件。 美联储后：非银行机构在上诉贷款市场中占据更大份额"
+        "title_zh": "科技巨头呼吁暂停人工智能发展：“对世界有利”",
+        "description_zh": "负责开发克劳德人工智能的公司 Anthropic 呼吁全球暂停最强大的人工智能系统的开发。该公司在一份报告中表示，暂时的放缓可以帮助政府、研究人员和机构监测"
     },
     {
-        "article_id": "3c5d2374c305f85b1cee4a6b749967bf",
-        "link": "https://www.perfil.com/noticias/economia/federioco-sturzenegger-no-puedo-aceptar-la-premisa-de-que-estamos-en-recesion-ni-en-crisis-a40.phtml",
-        "title": "Sturzenegger: “No puedo aceptar la premisa de que estamos en recesión ni en crisis”",
-        "description": "El ministro de Desregulación y Transformación del Estado defendió la apertura comercial, la desregulación y el equilibrio fiscal. Además, aseguró que Argentina será el mayor productor mundial de fertilizantes gracias al desarrollo de Vaca Muerta. Leer más",
+        "article_id": "76040be3bdef7f812b55649b81f22ff7",
+        "link": "https://www.terra.com.br/esportes/roland-garros-apos-duelo-de-goianos-brasil-avanca-a-final-junior-mas-perde-outras-duas-chances,67e6de6f16f24e04711ee637aae1709db9nfzoh6.html",
+        "title": "Roland-Garros após duelo de goianos, Brasil avança à final júnior, mas perde outras duas chances",
+        "description": "Maria Paula Carvalho, de Roland-Garros Esta manhã, Victoria Barros, de 16 anos, disputou a ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "maria paula carvalho"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-05 16:03:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-05 16:34:55",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/06/05/397574412-photo-2026-06-03-17-41-57-1.jpg",
+        "video_url": null,
+        "source_id": "terra",
+        "source_name": "Terra",
+        "source_priority": 24247,
+        "source_url": "https://www.terra.com.br",
+        "source_icon": "https://n.bytvi.com/terra.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "戈亚斯球迷对决后，巴西队晋级青少年决赛，但错失了另外两次机会",
+        "description_zh": "来自法国网球公开赛的玛丽亚·保拉·卡瓦略 今天早上，16 岁的维多利亚·巴罗斯参加了..."
+    },
+    {
+        "article_id": "ddbbe4923df0dc5771e2dc64efb2653f",
+        "link": "https://www.correiobraziliense.com.br/webstories/flipar/2026/06/7435220-gouda-identidade-holandesa-em-cada-pedaco.html",
+        "title": "Gouda: identidade holandesa em cada pedaço",
+        "description": "O Gouda é um dos queijos mais exportados do mundo, originário da Holanda e reconhecido por sua versatilidade gastronômica. Produzido há séculos, tornou-se símbolo da tradição holandesa e da força econômica ligada à indústria de laticínios. Sua textura varia conforme o tempo de maturação, indo do macio e suave ao firme e intenso, conquistando diferentes paladares. O sabor levemente adocicado e a capacidade de harmonizar com diversos pratos reforçam sua popularidade global. Mais do que alimento, é",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "flipar"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "food",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-05 16:03:49",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-05 16:15:27",
+        "image_url": "https://www.flipar.com.br/wp-content/uploads/2026/06/8947518c-65cc-4df4-9b24-a886e5640ed0-1-1.jpg",
+        "video_url": null,
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "高达：每一口都是荷兰特色",
+        "description_zh": "豪达奶酪是世界上出口量最大的奶酪之一，原产于荷兰，因其美食多样性而闻名。经过几个世纪的生产，它已成为荷兰传统和与乳制品行业相关的经济实力的象征。其质地因成熟时间而异。"
+    },
+    {
+        "article_id": "b001da66db47fbac8e340763c7ecb7f6",
+        "link": "https://www.eldiaonline.com/el-jardin-maternal-belgranito-cumple-sus-primeros-cuatro-anos-de-vida",
+        "title": "El Jardín Maternal Belgranito cumple sus primeros cuatro años de vida",
+        "description": "Este viernes 5 de junio, el Jardín Maternal Belgranito cumple cuatro años, mostrando una permanente evolución en la educación de los niños y niñas de...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "federico sturzenegger",
-            "desregulación",
-            "economia"
+            "pueblo belgrano",
+            "."
         ],
         "creator": [
-            "federico nagierner"
+            "el día online"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "business",
-            "top"
+            "top",
+            "education"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-04 16:22:00",
+        "pubDate": "2026-06-05 16:03:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 17:06:49",
-        "image_url": "https://fotos.perfil.com/2026/06/04/trim/540/304/entrevista-a-federico-sturzenegger-04062026-2253778.jpg",
+        "fetched_at": "2026-06-05 16:11:56",
+        "image_url": "https://eldiacdn.eleco.com.ar/media/2026/06/jardin_belgranito.jpeg",
         "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
+        "source_id": "eldiaonline",
+        "source_name": "El Día De Gualeguaychú",
+        "source_priority": 191413,
+        "source_url": "https://www.eldiaonline.com",
+        "source_icon": "https://n.bytvi.com/eldiaonline.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -80,80 +162,31 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "施图辛格：“我不能接受我们正处于衰退或危机之中的前提”",
-        "description_zh": "放松管制和国家转型部长捍卫贸易开放、放松管制和财政平衡。此外，他还保证，由于瓦卡穆尔塔的发展，阿根廷将成为世界上最大的化肥生产国。阅读更多"
+        "title_zh": "贝尔格拉尼托苗圃庆祝其生命的第一个四年",
+        "description_zh": "6 月 5 日星期五，贝尔格拉尼托苗圃迎来了四周岁生日，这表明男孩和女孩的教育发生了永久性的演变……"
     },
     {
-        "article_id": "c6de029be7034fae599da2098c86e8e2",
-        "link": "https://www.infobae.com/colombia/2026/06/04/procuraduria-exigio-al-icbf-atencion-permanente-tras-la-muerte-de-la-bebe-mia-catleya-ramirez-en-el-espinal-tolima/",
-        "title": "Procuraduría exigió al Icbf atención permanente tras la muerte de la bebé Mía Catleya Ramírez en El Espinal, Tolima",
-        "description": "El Ministerio Público reclamó defensores de familia y equipos interdisciplinarios con disponibilidad 24 horas, y pidió reforzar la coordinación con hospitales, comisarías, la Policía y la Fiscalía tras presuntas fallas previas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "procuraduría general de la nación",
-            "violencia infantil",
-            "icbf",
-            "colombia-noticias",
-            "mía cataleya ramírez"
-        ],
-        "creator": [
-            "frank  saavedra"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "colombia",
-            "united states of america",
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-04 16:21:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:32:05",
-        "image_url": "https://www.infobae.com/resizer/v2/AN46ZNBSAVHXXC5EIUKJBIZ5RA.jpg?auth=68daa61dd9d44b9bef6b3683fc50d8716609937a1a2851f909fe32466316563f&smart=true&width=2560&height=1706",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "托利马州埃尔埃斯皮纳尔婴儿米亚·卡特利亚·拉米雷斯 (Mía Catleya Ramírez) 死亡后，总检察长办公室要求 ICBF 给予永久关注",
-        "description_zh": "公共事务部要求家庭辩护人和跨学科团队24小时待命，并要求在此前据称失败后加强与医院、警察局、警察和检察官办公室的协调"
-    },
-    {
-        "article_id": "5171a44538131552891864b856330a0b",
-        "link": "https://www.terra.com.br/diversao/o-lago-dos-cisnes-abre-temporada-2026-da-sao-paulo-companhia-de-danca,e2e4d2a71b59091cbe04f56e2746a973q7leta5x.html",
-        "title": "'O Lago dos Cisnes' abre temporada 2026 da São Paulo Companhia de Dança",
-        "description": "A São Paulo Companhia de Dança (SPCD) - corpo artístico da Secretaria da Cultura, Economia e ...",
+        "article_id": "6728a9982fbec560c3dab47fd995349e",
+        "link": "https://www.terra.com.br/esportes/futebol/internacional/sonho-realizado-na-georgia-gean-rodriguez-celebra-transformacao-de-vida-no-futebol-europeu,3e42a9e48269b6755a504527f474855b1xqlp6uy.html",
+        "title": "Sonho realizado: Na Geórgia, Gean Rodriguez celebra transformação de vida no futebol europeu",
+        "description": "Quando iniciou sua trajetória no futebol, Gean Rodriguez carregava um objetivo que acompanha ...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "angelo cordeiro (@angelocordeirosilva)"
+            "esporte news mundo"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "entertainment",
-            "top"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-04 16:21:53",
+        "pubDate": "2026-06-05 16:03:42",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 17:04:46",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/06/04/915777694-o-lago-dos-cisnes-abre-temporada-2026-da-sao-paulo-companhia-de-danca.jpg",
+        "fetched_at": "2026-06-05 16:34:55",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/06/05/1931324628-img-20260605-wa0012.jpg",
         "video_url": null,
         "source_id": "terra",
         "source_name": "Terra",
@@ -167,200 +200,56 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "《天鹅湖》拉开了圣保罗舞蹈团 2026 赛季的序幕",
-        "description_zh": "圣保罗舞蹈团 (SPCD) - 文化、经济和秘书处秘书处的艺术机构..."
+        "title_zh": "梦想成真：在格鲁吉亚，吉恩·罗德里格斯庆祝欧洲足球生涯的转变",
+        "description_zh": "当吉恩·罗德里格斯开始他的足球生涯时，他有一个进球......"
     },
     {
-        "article_id": "e45c06d0da41cd2c180b5852abd1e40c",
-        "link": "https://ecosdanoticia.net/2026/06/bocalom-destaca-fe-e-esperanca-em-mensagem-de-corpus-christi/",
-        "title": "Bocalom destaca fé e esperança em mensagem de Corpus Christi",
-        "description": "O ex-prefeito de Rio Branco e pré-candidato ao Palácio Rio Branco pelo PSDB, Tião Bocalom, utilizou as redes sociais nesta quinta-feira, 04, para celebrar a data de Corpus Christi e transmitir uma mensagem de fé, reflexão e esperança à população acreana. Na publicação compartilhada ao lado da ex-primeira-dama, Kelen Bocalom, o gestor ressaltou a importância [...]",
+        "article_id": "e6f98b77ea850b7c6758f0e2d76dfb53",
+        "link": "https://jornaldebrasilia.com.br/noticias/economia/concessoes-de-ferrovias-atrasam-e-governo-empurra-leiloes-para-2027/",
+        "title": "Concessões de ferrovias atrasam, e governo empurra leilões para 2027",
+        "description": "ANDRÉ BORGES BRASÍLIA, DF (FOLHAPRESS) As oito concessões de ferrovias que o governo federal pretendia leiloar ao longo de 2026 estão com cronogramas atrasados, e boa parte dos projetos já foi adiada para 2027. O plano do Ministério dos Transportes era levar ao mercado, neste ano, uma carteira de projetos de ferrovias de R$ 140 bilhões em investimentos, além de outros R$ 516 bilhões ligados às operações desses trechos. A agenda, adiantada pela Folha de S.Paulo em novembro do ano passado, incluía a publicação do edital de cada malha e seu respectivo leilão três meses depois. Nenhuma previsão, porém, se cumpriu, e todos os projetos estão adiados. O cronograma original previa que oito projetos teriam seus editais e leilões realizados neste ano. Apenas um nono trecho, a malha norte da Ferrovia Norte-Sul, que teria seu edital publicado em dezembro, seria objeto de leilão em março de 2027. O governo, porém, foi obrigado a refazer o plano. Por trás do atraso estão vários fatores. Entre eles, a necessidade de ajustes em estudos técnicos, avaliação e elaboração das minutas dos editais pela ANTT (Agência Nacional de Transportes Terrestres) e a tramitação de cada projeto no TCU (Tribunal de Contas da União). Questionado sobre o assunto, o Ministério dos Transportes afirmou que \"os cronogramas refletem a complexidade e o caráter inovador da nova política ferroviária nacional, que envolve instrumentos inéditos para ampliar a segurança jurídica, regulatória e financeira dos projetos\". A mudança mais drástica envolve três projetos ligados à antiga Malha Sul, que terá de ser quase toda reconstruída. Até o início do ano, a previsão era de que os corredores Paraná-Santa Catarina, Rio Grande e Mercosul seriam leiloados em dezembro deste ano. Agora, na melhor das hipóteses, os três leilões ficarão para março de 2027. Já a extensão norte da Ferrovia Norte-Sul, trecho entre Açailândia (MA) e Barcarena (PA), foi adiada em sete meses, passando de março para outubro de 2027. Outros dois projetos cruciais da carteira – o Corredor Oeste-Leste (Fico-Fiol) e a Ferrogrão – foram reprogramados para ir a leilão apenas em dezembro deste ano, o que joga mais incertezas sobre este cronograma. O plano original previa que a Fico-Fiol e seus 1.647 quilômetros, entre Caetité (BA) e Água Boa (MT), fossem oferecidos em leilão da B3 em agosto deste ano. Já a Ferrogrão, desenhada para ligar Itaituba (PA) a Sinop (MT) em 933 quilômetros, tinha previsão de ir a mercado em setembro. Da lista dos nove projetos, portanto, sobram três ferrovias que, até o momento, dão sinais mais claros de que podem ter objeto de leilão em 2026, apesar dos atrasos já confirmados. O Anel Ferroviário Sudeste (EF-118) iria a leilão em junho, mas até o momento não teve seu edital publicado. A oferta foi reprogramada para setembro. Com 245,95 quilômetros (na fase obrigatória da concessão), a ferrovia será construída do zero e ligará São João da Barra, no norte fluminense, a Santa Leopoldina, no Espírito Santo. Já o Corredor Minas-Rio, que tinha previsão de ser leiloado em abril, segue em análise no TCU. Seu leilão foi reprogramado para outubro, quando Brasil irá às urnas escolher o próximo presidente da República. Na sequência, aparece a já existente Ferrovia Malha Oeste, que tinha leilão agendado para julho e, agora, tem previsão de ser oferecida em novembro. O trecho prevê a reconstrução de 1.593 quilômetros, interligando Corumbá (MS) a Mairinque (SP). NOVA PROGRAMAÇÃO Os novos prazos passaram a ser apresentados para investidores nacionais e estrangeiros. Entre as medidas adotadas pelo Ministério dos Transportes, estão mecanismos de investimentos cruzados, aportes com recursos do orçamento federal e garantias via FDIRS (Fundo de Desenvolvimento da Infraestrutura Regional Sustentável), além de interoperabilidade entre as malhas e redução de risco de demanda. \"O Ministério dos Transportes trabalha para publicar, no segundo semestre deste ano, pelo menos cinco editais estratégicos para o setor ferroviário: EF-118, Malha Oeste, Ferrogrão, Fico-Fiol e o chamamento público da Minas-Rio\", afirmou a pasta. O novo modelo de concessão, disse a pasta, tem sido construído com o TCU, a ANTT, a AGU (Advocacia-Geral da União), a ANTF (Associação Nacional dos Transportadores Ferroviários) e o CFC (Conselho Federal de Contabilidade), para estruturação dos projetos. \"O chamamento público da Minas-Rio também será o primeiro processo do setor ferroviário voltado à destinação de trechos devolvidos por meio de contratos de autorização, servindo como referência para uma carteira de 28 novos chamamentos públicos simplificados previstos para o segundo semestre\", informou o MT. Para Olivier Girard, sócio-diretor da Macroinfra, consultoria especializada em infraestrutura de transportes, o atraso não surpreende, porque o governo não tem o controle de diversos fatores externos que afetam os projetos ferroviários. \"Sabemos que há ferrovias novas na carteira, mas outras são antigas e terão de ser refeitas. A oferta desses trechos que estão sendo devolvidos precisa ter costuras bem-feitas para atrair novos investidores, senão podem ter um leilão vazio\", diz Girard. \"É melhor fazer o processo com calma e bem-feito, mesmo que atrase um pouco, do que colocar algo no mercado que não atraia ninguém e isso leve a mais dois, três anos de novos estudos.\" Na arena das atuais concessões ferroviárias, o governo Lula tem conseguido avançar em uma série de acordos de renovação, inclusive revendo contratos assinadas na gestão Bolsonaro, mas considerados pouco vantajosos para a União e o próprio setor. Os acordos envolvem as ferrovias operadas pela Vale, a EFC (Estrada de Ferro Carajás) e a Estrada de Ferro Vitória a Minas (EFVM); além de projetos da MRS, da Rumo e da VLI, que opera a FCA (Ferrovia Centro-Atlântica).",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "2027",
+            "concessões de ferrovias",
+            "economia"
+        ],
         "creator": [
-            "ac24horas"
+            "redação jornal de brasília"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "politics",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-04 16:21:50",
+        "pubDate": "2026-06-05 16:03:39",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 17:15:21",
-        "image_url": "https://ecosdanoticia.net/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-04-at-13.21.04.jpeg",
+        "fetched_at": "2026-06-05 16:49:10",
+        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/02/24145343/construcao_e_operacao_de_ferrovias_ferrovia_trilhos_de_trem.jpg",
         "video_url": null,
-        "source_id": "ecosdanoticia",
-        "source_name": "Ecos Da Notícia",
-        "source_priority": 587383,
-        "source_url": "https://ecosdanoticia.net",
-        "source_icon": "https://n.bytvi.com/ecosdanoticia.png",
+        "source_id": "jornaldebrasilia",
+        "source_name": "Jornal De Brasília",
+        "source_priority": 1815808,
+        "source_url": "https://jornaldebrasilia.com.br",
+        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "博卡洛姆强调对科珀斯克里斯蒂信息的信心和希望",
-        "description_zh": "里约布兰科前市长、PSDB 里约布兰科宫预选人蒂昂·博卡洛姆 (Tião Bocalom) 本周四（4 日）利用社交媒体庆祝科珀斯克里斯蒂日，并向阿卡人民传递信仰、反思和希望的信息。在并列分享的帖子中"
+        "duplicate": true,
+        "title_zh": "铁路特许权被推迟，政府将拍卖推迟至2027年",
+        "description_zh": "ANDRÉ BORGES BRASÍLIA, DF (FOLHAPRESS) 联邦政府打算在 2026 年全年拍卖的八个铁路特许经营权已落后于计划，大多数项目已推迟至 2027 年。交通运输部的计划是今年向市场推出一个投资组合"
     },
     {
-        "article_id": "17c6e4974437bfedeb8f79fa0afeec50",
-        "link": "https://www.infobae.com/mexico/2026/06/04/sheinbaum-celebra-que-mullin-reconozca-la-soberania-de-mexico-tras-carta-de-amlo-oye-que-bien/",
-        "title": "Claudia Sheinbaum celebra que Mullin reconozca la soberanía de México tras carta de AMLO: “Oye, qué bien”",
-        "description": "En medio de la ofensiva del “narcogobierno” y la reaparición de López Obrador, la presidenta encontró en las palabras del secretario de Seguridad de EEUU un argumento a favor de México",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "política mexicana",
-            "mexico-noticias",
-            "cárteles de la droga",
-            "amlo",
-            "cooperación",
-            "narcotráfico méxico",
-            "estados unidos",
-            "claudia sheinbaum",
-            "soberanía",
-            "narco en méxico",
-            "markwayne mullin",
-            "mexico-seguridad"
-        ],
-        "creator": [
-            "itzallana lópez castillo"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "colombia",
-            "united states of america",
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-04 16:21:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:32:05",
-        "image_url": "https://www.infobae.com/resizer/v2/M4UVJ4H2LBBSZNNGHJBW2USCOM.png?auth=cae237c808518bbbd9375fe7ad665075049c30dd69cde009e014adb1e38c6448&smart=true&width=3840&height=2160",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "克劳迪娅·辛鲍姆 (Claudia Sheinbaum) 庆祝穆林在收到奥夫拉多尔的信函后承认墨西哥的主权：“嘿，那太棒了”",
-        "description_zh": "在“毒品政府”攻势和洛佩斯·奥夫拉多尔重新出现的过程中，总统从美国安全部长的言论中发现了有利于墨西哥的论据"
-    },
-    {
-        "article_id": "46d4093940936e2f3269ddecb8e52316",
-        "link": "https://www.elsol.com.ar/el-sol/salud-triplico-el-cobro-a-obras-sociales-y-prepagas-por-afiliados-que-se-atienden-en-hospitales-publicos/",
-        "title": "Salud triplicó el cobro a obras sociales y prepagas por afiliados que se atienden en hospitales públicos",
-        "description": "Los hospitales públicos registran un crecimiento en la atención de pacientes con cobertura de obras sociales y medicina prepaga, que en algunos efectores representan más del 60% de las consultas y prestaciones. El fenómeno tiene un impacto directo en la recaudación del Ente de Recuperación de Fondos para el Fortalecimiento del Sistema de Salud (REFORSAL), [...] The post Salud triplicó el cobro a obras sociales y prepagas por afiliados que se atienden en hospitales públicos appeared first on Diario El Sol Mendoza .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "obras sociales",
-            "pacientes",
-            "salud",
-            "reforsal",
-            "afiliados",
-            "home-destacada principal",
-            "hospitales públicos",
-            "prepagas"
-        ],
-        "creator": [
-            "andrea ginestar"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-04 16:21:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:43:51",
-        "image_url": "https://i0.wp.com/www.elsol.com.ar/wp-content/uploads/2026/01/hospital-lagomaggiore-16-1-1.jpg?fit=1200%2C791&ssl=1",
-        "video_url": null,
-        "source_id": "elsol",
-        "source_name": "El Sol Mendoza",
-        "source_priority": 502049,
-        "source_url": "https://www.elsol.com.ar",
-        "source_icon": "https://n.bytvi.com/elsol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "健康部门将在公立医院接受护理的会员的社会和预付费工作费用提高了两倍",
-        "description_zh": "公立医院的社会工作和预付费医疗覆盖范围不断扩大，在一些医疗机构中，这部分服务占咨询和福利的 60% 以上。该现象直接影响回收实体的收集。"
-    },
-    {
-        "article_id": "fec8b9b917accfaa5c01ae01bf125740",
-        "link": "https://www.correiodopovo.com.br/not%C3%ADcias/sa%C3%BAde/vacinacao-contra-gripe-no-feriado-tem-procura-moderada-em-porto-alegre-1.1719364",
-        "title": "Vacinação contra gripe no feriado tem procura moderada em Porto Alegre",
-        "description": "Unidades abertas registram maior busca por imunização contra influenza durante Corpus Christi",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "porto alegre",
-            "saúde",
-            "vacinação",
-            "gripe"
-        ],
-        "creator": [
-            "guilherme sperafico"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-04 16:21:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-05 00:09:54",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "correiodopovo",
-        "source_name": "Correio Do Povo",
-        "source_priority": 139621,
-        "source_url": "https://www.correiodopovo.com.br",
-        "source_icon": "https://n.bytvi.com/correiodopovo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿雷格里港假期流感疫苗接种需求温和",
-        "description_zh": "科珀斯克里斯蒂期间，开放单位对流感免疫的需求增加"
-    },
-    {
-        "article_id": "ad69686d08ac068ba6697b6af24a972c",
-        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/06/orgao-de-direitos-humanos-investiga-expedicao-nazista-na-amazonia-e-aciona-embaixada-da-alemanha.ghtml",
-        "title": "Órgão de direitos humanos investiga expedição nazista na Amazônia e aciona Embaixada da Alemanha",
-        "description": "O Conselho Nacional dos Direitos Humanos (CNDH) abriu uma investigação administrativa sobre a chamada Expedição Alemã Amazônia-Jari, realizada entre 1935 e 1937 na Amazônia brasileira sob o regime nazista. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+        "article_id": "eff3aa27692f95a4ad6fb6a9d9dc4f45",
+        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/06/campanha-de-flavio-da-pontape-inicial-com-jingle-vem-com-fe-em-ritmo-sertanejo.ghtml",
+        "title": "Campanha de Flávio dá pontapé inicial com jingle 'Vem com Fé' em ritmo sertanejo",
+        "description": "A pré-campanha de Flávio Bolsonaro está dando o pontapé inicial com seu novo time de marketing. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -369,14 +258,14 @@
             "brazil"
         ],
         "category": [
-            "politics",
+            "sports",
             "top"
         ],
         "datatype": "blog",
-        "pubDate": "2026-06-04 16:21:33",
+        "pubDate": "2026-06-05 16:03:33",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:38:33",
-        "image_url": "https://s2-oglobo.glbimg.com/1et8vw2O-dsBAzpeZLC_N8HBni8=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/0/H/zoiCOnSyyIpBjfq4Thow/whatsapp-image-2026-06-03-at-20.51.52.jpeg",
+        "fetched_at": "2026-06-05 16:38:22",
+        "image_url": "https://s2-oglobo.glbimg.com/B8wyt65u0lkidOJB3JiJRHEo54I=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/D/v/rabM6cTRWSApzJPBsuLA/jingle-flavio.jpeg",
         "video_url": null,
         "source_id": "oglobo_globo",
         "source_name": "O Globo",
@@ -390,41 +279,42 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "人权机构调查纳粹亚马逊探险活动并致电德国大使馆",
-        "description_zh": "国家人权委员会 (CNDH) 对 1935 年至 1937 年间纳粹政权统治下的巴西亚马逊地区进行的所谓德国亚马逊-贾里探险活动展开了行政调查。订阅者的独家文章。要获得完全访问权限，请访问文章链接"
+        "title_zh": "弗拉维奥 (Flávio) 的竞选活动以乡村节奏的歌曲“Vem com Fé”拉开帷幕",
+        "description_zh": "弗拉维奥·博尔索纳罗的预竞选活动正在与他的新营销团队一起拉开帷幕。订阅者的独家文章。要获得完全访问权限，请访问文章链接并注册。"
     },
     {
-        "article_id": "39edfd995fa56340c5091c8803012b4c",
-        "link": "https://www.perfil.com/noticias/politica/en-medio-de-la-interna-oficialista-el-senado-debate-propiedad-privada-fondos-buitres-y-jueces.phtml",
-        "title": "En medio de la interna oficialista, el Senado debate propiedad privada, fondos buitres y jueces",
-        "description": "Se discutirán 50 pliegos de jueces, excluyendo el de la jueza María Verónica Michelli que divide al oficialismo. Leer más",
+        "article_id": "5968fe469a29425f5437fb8aedf9813c",
+        "link": "https://www.canal26.com/politica/2026/06/05/15-cuadras-de-hormigon-y-renovacion-de-los-desagues-pluviales-las-obras-que-cambiaran-el-transito-en-un-municipio-del-conurbano/",
+        "title": "15 cuadras de hormigón y renovación de los desagües pluviales: las obras que cambiarán el tránsito en un municipio del Conurbano",
+        "description": "El intendente Leonardo Nardini habilitó la repavimentación integral de 15 cuadras en la calle Hooke de Grand Bourg y la ejecución de la obra permitirá conectar zonas estratégicas del distrito.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "senado",
-            "jueces"
+            "leonardo nardini",
+            "grand bourg",
+            "malvinas argentinas"
         ],
         "creator": [
-            "facundo falduto"
+            "canal 26"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "politics",
+            "environment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-04 16:21:30",
+        "pubDate": "2026-06-05 16:03:28",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:37:10",
-        "image_url": "https://fotos.perfil.com/2026/05/15/trim/540/304/14052026-senado-2240459.jpg",
+        "fetched_at": "2026-06-05 16:31:51",
+        "image_url": "https://www.canal26.com/resizer/v2/VHW4GIHZ7BAFLPBLAZGUFZM5RE.jpeg?auth=915f93178a837db959c2a5560bcec9fff6c8ca734ea135fee2a0016a84f7d0fa&smart=true&width=1200&height=900",
         "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
+        "source_id": "canal26",
+        "source_name": "Canal26",
+        "source_priority": 9385,
+        "source_url": "https://www.canal26.com",
+        "source_icon": "https://n.bytvi.com/Canal26.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -432,43 +322,120 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "在官方内部冲突中，参议院辩论私有财产、秃鹫基金和法官",
-        "description_zh": "将讨论 50 名法官名单，不包括分裂执政党的玛丽亚·维罗妮卡·米歇利法官的名单。阅读更多"
+        "title_zh": "15 块混凝土和雨水渠改造：这些工程将改变 Conurbano 市的交通",
+        "description_zh": "市长莱昂纳多·纳尔迪尼 (Leonardo Nardini) 启用了大堡胡克街 15 个街区的全面重新铺设工程，该工程的实施将连接该地区的战略区域。"
     },
     {
-        "article_id": "70d1319e9859183ea3119f57717e0d2f",
-        "link": "https://heraldodemexico.com.mx/espectaculos/2026/6/4/mizada-mohamed-en-hoy-horoscopo-del-jueves-de-junio-estos-signos-tendran-exito-en-el-dinero-el-trabajo-825613.html",
-        "title": "Mizada Mohamed en Hoy: Horóscopo del jueves 4 de junio, estos signos tendrán éxito en el DINERO y el trabajo",
-        "description": "Las energías astrales se siguen moviendo de manera importante, todo en favor del éxito, el dinero y el trabajo",
+        "article_id": "2708c64934a13de272ad253e8309632d",
+        "link": "https://elintransigente.com/2026/06/en-breve-el-desgarrador-comunicado-oficial-que-conmociono-a-los-fans-del-indio-solari/",
+        "title": "«En breve...»: el desgarrador comunicado oficial que conmocionó a los fans del Indio Solari",
+        "description": "El anuncio sorprendió a todos. The post «En breve...»: el desgarrador comunicado oficial que conmocionó a los fans del Indio Solari appeared first on El Intransigente .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "horóscopos",
-            "dinero",
-            "mizada mohamed",
-            "programa hoy"
+            "indio solari",
+            "instagram"
         ],
         "creator": [
-            "brenda moreno"
+            "luislazarte"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-05 16:03:24",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-05 16:21:21",
+        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/06/indio-solari-6jpg-1.jpg?fit=1209%2C680&quality=95&ssl=1",
+        "video_url": null,
+        "source_id": "elintransigente",
+        "source_name": "El Intransigente",
+        "source_priority": 3446332,
+        "source_url": "https://elintransigente.com",
+        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“即将推出……”：令印迪奥·索拉里球迷震惊的令人心碎的官方声明",
+        "description_zh": "这个消息让所有人都感到惊讶。 “即将推出...”的帖子：令 Indio Solari 球迷震惊的令人心碎的官方声明首先出现在 El Intransigente 上。"
+    },
+    {
+        "article_id": "ea24ae9dbf88ae6df93b19cf9541b29c",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/06/05/rj-registra-nivel-de-alerta-para-srag.ghtml",
+        "title": "RJ registra nível de alerta para SRAG com 424 mortes este ano; cobertura vacinal contra gripe é de 27,5% entre grupos prioritários",
+        "description": "RJ registra nível de alerta para SRAG com 424 mortes este ano O Estado do Rio de Janeiro está em nível de alerta para casos de Síndrome Respiratória Aguda Grave (SRAG). Desde o início do ano, foram registradas 424 mortes. A vacinação é a forma mais eficaz de reduzir os casos graves da doença. “Os casos de Síndrome Respiratória Aguda Grave estão em nível alto e com tendência de crescimento. Classificamos o estado em nível de alerta para SRAG”, afirmou a pesquisadora Tatiana Portella, do Boletim InfoGripe, da Fiocruz. 📱Baixe o app do g1 para ver notícias do RJ em tempo real e de graça Estado do Rio de Janeiro registrou mais de 7 mil internações e 424 óbitos por causa da SRAG Reprodução/ TV Globo A cobertura vacinal contra a gripe permanece baixa no estado. Desde o início da campanha até o dia 3 de junho, apenas 27,5% do público prioritário — como crianças menores de 6 anos, idosos e gestantes — havia sido imunizado. Isso corresponde a pouco mais de 1,2 milhão de doses aplicadas. A meta do Ministério da Saúde é atingir 90% desse público. As autoridades de saúde apontam que o aumento dos casos tem sido impulsionado principalmente pelo Vírus Sincicial Respiratório (VSR), sobretudo em crianças menores de 2 anos. O vírus Influenza também preocupa, especialmente por estar associado ao maior número de mortes entre os idosos. Vacinação é a melhor forma de prevenção de casos graves de doenças respiratórias Reprodução/ TV Globo “São basicamente dois os vírus responsáveis pelo aumento dos casos de SRAG no estado. O principal é o Vírus Sincicial Respiratório. O segundo é o rinovírus, que também tem contribuído para o aumento das internações, principalmente entre crianças e adolescentes de até 14 anos”, explicou Tatiana Portella. Do início do ano até a última quinta-feira (4), foram registradas 7.042 internações e 424 mortes. A capital concentra o maior número de internações, seguida por São Gonçalo, Niterói, Petrópolis, Macaé e Nova Iguaçu. Ranking de casos de SRAG no Estado do Rio de Janeiro este ano Reprodução/ TV Globo Tatiana Portella reforça que a principal forma de proteção é a vacinação. “A vacinação é fundamental para prevenir casos graves e mortes causadas pelos principais vírus respiratórios associados à SRAG, como Influenza e Covid-19. É essencial que os grupos prioritários — como idosos, crianças, pessoas com comorbidades e profissionais de saúde — mantenham o calendário vacinal atualizado”, destacou a pesquisadora. A Prefeitura do Rio prorrogou a vacinação por tempo indeterminado. A vacina contra a gripe está disponível nas clínicas da família, nos centros municipais de saúde e nas três unidades do Super Centro Carioca de Vacinação. 🟩O g1 Rio está no GloboPop, o novo aplicativo de vídeos curtos verticais da Globo, disponível gratuitamente no seu celular. Lá no app, você pode seguir o palco do g1 Rio para não perder nenhum episódio. Baixe o GloboPop. Rio de Janeiro está abaixo da meta de vacinação contra gripe Reprodução/ TV Globo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "health",
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-05 16:03:20",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-05 16:35:25",
+        "image_url": "https://s2-g1.glbimg.com/Maw_3BCKriG0jynrSkvMRcePSR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/d/6oM0UFT4yH1ODdQs7BkA/rj1-srag4-1-.jpeg",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "RJ 已将 SARS 列为警戒级别，今年已有 424 人死亡；重点人群流感疫苗接种覆盖率为 27.5%",
+        "description_zh": "里约热内卢州将 SARS 列为警戒级别，今年已有 424 人死亡 里约热内卢州因严重急性呼吸系统综合症 (SARS) 病例而处于警戒级别。自今年年初以来，已有 424 人死亡。疫苗接种是减少该病严重病例的最有效方法"
+    },
+    {
+        "article_id": "5f8d6a7945a28b79ccbb6afa81370006",
+        "link": "https://cambiodemichoacan.com.mx/2026/06/05/apuntes-sobre-el-futuro-del-movimiento-del-sombrero/",
+        "title": "Apuntes sobre el futuro del Movimiento del Sombrero",
+        "description": "No existe mayor número de fracasos en la política electoral que aquel que está vinculado a la celeridad y al desentendimiento de los tiempos prudentes, y es que a veces la posición de la prontitud está definida por una agenda que les menciona constantemente y por un grupo de personas que, sin argumentos, pero sí [...] El cargo Apuntes sobre el futuro del Movimiento del Sombrero apareció primero en Cambio de Michoacán .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "movimiento del sombrero"
+        ],
+        "creator": [
+            "alejandro carrillo lázaro"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "business",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-04 16:22:00",
+        "pubDate": "2026-06-05 16:04:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:36:49",
-        "image_url": "https://heraldodemexico.com.mx/u/fotografias/m/2026/6/4/f1280x720-1292036_1423711_2230.jpg",
+        "fetched_at": "2026-06-05 16:20:44",
+        "image_url": "https://cambiodemichoacan.com.mx/wp-content/uploads/2025/11/velas-fin5.webp",
         "video_url": null,
-        "source_id": "heraldodemexico",
-        "source_name": "El Heraldo De Mexico",
-        "source_priority": 21317,
-        "source_url": "https://heraldodemexico.com.mx",
-        "source_icon": "https://n.bytvi.com/heraldodemexico.png",
+        "source_id": "cambiodemichoacan",
+        "source_name": "Cambiodemichoacan",
+        "source_priority": 2848627,
+        "source_url": "https://cambiodemichoacan.com.mx",
+        "source_icon": "https://n.bytvi.com/cambiodemichoacan.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -476,30 +443,229 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "米扎达·穆罕默德 (Mizada Mohamed) 今日：6 月 4 日星期四的星座运势，这些星座将在金钱和工作方面取得成功",
-        "description_zh": "星体能量继续以重要的方式移动，一切都有利于成功、金钱和工作"
+        "title_zh": "关于帽子运动未来的笔记",
+        "description_zh": "在选举政治中，没有比与速度和缺乏对谨慎时代的理解相关的失败更多的失败了，事实是，有时及时性的立场是由不断提到它们的议程和一群人来定义的，这些人没有"
     },
     {
-        "article_id": "c6de029be7034fae599da2098c86e8e2",
-        "link": "https://www.infobae.com/colombia/2026/06/04/procuraduria-exigio-al-icbf-atencion-permanente-tras-la-muerte-de-la-bebe-mia-catleya-ramirez-en-el-espinal-tolima/",
-        "title": "Procuraduría exigió al Icbf atención permanente tras la muerte de la bebé Mía Catleya Ramírez en El Espinal, Tolima",
-        "description": "El Ministerio Público reclamó defensores de familia y equipos interdisciplinarios con disponibilidad 24 horas, y pidió reforzar la coordinación con hospitales, comisarías, la Policía y la Fiscalía tras presuntas fallas previas",
+        "article_id": "bf965a9348a76139d699755007052cbf",
+        "link": "https://abcnoticias.mx/show/2026/6/5/mi-papa-ya-esta-muerto-paul-stanley-critica-el-nuevo-documental-sobre-paco-stanley-283909.html",
+        "title": "\"Mi papá ya esta muerto\" Paul Stanley crítica el nuevo documental sobre Paco Stanley",
+        "description": "El nuevo documental \"Testigos. La verdad tiene voz: Caso Paco Stanley\" promete revelar quién asesinó al conductor Paco Stanley.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "procuraduría general de la nación",
-            "violencia infantil",
-            "icbf",
-            "colombia-noticias",
-            "mía cataleya ramírez"
+            "paul stanley",
+            "paco stanley",
+            "testigos. la verdad tiene voz: caso paco stanley"
         ],
         "creator": [
-            "frank  saavedra"
+            "valeria pérez cortes"
         ],
         "language": "spanish",
         "country": [
-            "argentina",
-            "colombia",
-            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "podcast",
+        "pubDate": "2026-06-05 16:04:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-05 16:17:35",
+        "image_url": "https://abcnoticias.mx/u/fotografias/m/2026/6/5/f1280x720-349839_481514_5050.png",
+        "video_url": null,
+        "source_id": "abcnoticias",
+        "source_name": "Abc Noticias",
+        "source_priority": 300132,
+        "source_url": "https://abcnoticias.mx",
+        "source_icon": "https://n.bytvi.com/abcnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“我父亲已经死了”保罗·斯坦利批评有关帕科·斯坦利的新纪录片",
+        "description_zh": "新纪录片《目击者。真相有声音：帕科·斯坦利案》承诺揭露谁谋杀了司机帕科·斯坦利。"
+    },
+    {
+        "article_id": "de75603f60eb7c0aac07deec8f95549c",
+        "link": "https://newsroom.rcnradio.com/actualidad/fiscalia-cito-a-blessd-por-presunto-secuestro-extorsivo-agravado-esto-se-sabe",
+        "title": "Fiscalía citó a Blessd por presunto secuestro extorsivo agravado: esto se sabe",
+        "description": "Conoce los detalles de la audiencia que enfrentará Blessd tras la decisión de la Fiscalía de avanzar en el proceso judicial por una denuncia presentada hace cuatro años.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "paula lorena rodríguez vidarte"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-05 16:03:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-05 16:12:26",
+        "image_url": "https://assets.rcnradio.com/assets/cms/blessd_fiscalia_2026_95b9e8e8af.webp",
+        "video_url": null,
+        "source_id": "rcnradio",
+        "source_name": "Rcn Radio",
+        "source_priority": 105846,
+        "source_url": "https://www.rcnradio.com",
+        "source_icon": "https://n.bytvi.com/rcnradio.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "检察官办公室因涉嫌严重勒索绑架而传唤布莱斯德：这是已知的",
+        "description_zh": "了解检察官办公室决定推进四年前提出的申诉的司法程序后，布莱斯德将面临的听证会的详细信息。"
+    },
+    {
+        "article_id": "d57766182920ecb18f44f4ecf9bf8022",
+        "link": "https://www.semana.com/finanzas/consumo-inteligente/articulo/mas-deudas-mas-ansiedad-el-estres-financiero-gana-terreno-dentro-de-los-hogares-colombianos/202656/",
+        "title": "Más deudas, más ansiedad: el estrés financiero gana terreno dentro de los hogares colombianos",
+        "description": "El aumento del costo de vida y la incertidumbre económica están generando presión financiera creciente.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "costo de vida",
+            "salud mental",
+            "presupuesto",
+            "incertidumbre",
+            "emergencia"
+        ],
+        "creator": [
+            "redacción economía"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-05 16:03:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-05 16:34:24",
+        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/XK44A3EONBB5DADV25YED4HS74.png?auth=bc6ce648b8bb90a219f4f0d3c27a2567a1918ad10608ea0f2d20cac86b4920b3&smart=true&width=1536&height=1024",
+        "video_url": null,
+        "source_id": "semana",
+        "source_name": "Semana",
+        "source_priority": 15867,
+        "source_url": "https://www.semana.com",
+        "source_icon": "https://n.bytvi.com/semana.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "更多债务，更多焦虑：哥伦比亚家庭的财务压力越来越大",
+        "description_zh": "生活成本上升和经济不确定性正在造成越来越大的财务压力。"
+    },
+    {
+        "article_id": "0b99e19456cf5dc28d2e80323598d7b2",
+        "link": "https://aldialogo.mx/trending/2026/06/05/subastas-de-autos-en-mexico-vs-concesionarias-cual-opcion-te-conviene-mas",
+        "title": "Subastas de autos en México vs. concesionarias: ¿cuál opción te conviene más?",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "bárbara domínguez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-05 16:03:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-05 17:16:14",
+        "image_url": "https://aldialogo.sfo2.digitaloceanspaces.com/uploads/2026/06/Subastas-de-autos-en-Mexico.jpg",
+        "video_url": null,
+        "source_id": "aldialogo",
+        "source_name": "Aldialogo Mx",
+        "source_priority": 673454,
+        "source_url": "https://aldialogo.mx",
+        "source_icon": "https://n.bytvi.com/aldialogo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "墨西哥的汽车拍卖与经销商：哪种选择最适合您？",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "a3e3823b113296c700109f26ac16ae31",
+        "link": "https://www.elheraldo.co/sucre/2026/06/05/alias-pluma-blanca-cabecilla-del-clan-del-golfo-en-la-costa-caribe-fue-enviado-a-la-carcel/",
+        "title": "Alias Pluma Blanca, cabecilla del Clan del Golfo en la Costa Caribe, fue enviado a la cárcel",
+        "description": "La detención del señalado cabecilla se produjo en uno de los barrios de la ciudad de Corozal, en el departamento de Sucre.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "pluma-blanca",
+            "carcel",
+            "clan-del-golfo",
+            "sucre",
+            "corozal"
+        ],
+        "creator": [
+            "maria victoria bustamante fernandez"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-05 16:03:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-05 16:06:53",
+        "image_url": "https://www.elheraldo.co/resizer/v2/NAL7LWBSCVCEFDM6NWASUO466I.jpeg?auth=7ba72543cc61851d795495026e2d3d9e368cfe1b3c24e316439eca3546a58a50&smart=true&width=1464&height=865",
+        "video_url": null,
+        "source_id": "elheraldo",
+        "source_name": "Elheraldo",
+        "source_priority": 38752,
+        "source_url": "https://www.elheraldo.co",
+        "source_icon": "https://n.bytvi.com/elheraldo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "加勒比海岸海湾部族首领阿莉亚斯·普拉玛·布兰卡被判入狱",
+        "description_zh": "被指控的头目被捕是在苏克雷省科罗萨尔市的一个街区进行的。"
+    },
+    {
+        "article_id": "6c97e363d2a12c24ab24d814650c0fbf",
+        "link": "https://www.lostiempos.com/actualidad/seguridad/20260605/envian-carcel-san-pedro-justino-apaza-presunto-terrorismo-otros",
+        "title": "Envían a la cárcel de San Pedro a Justino Apaza por presunto terrorismo y otros delitos",
+        "description": "Un juez determinó enviar con detención preventiva por seis meses a la cárcel de San Pedro al dirigente de la Federación Departamental de Juntas Vecinales de La Paz, Justino Apaza, investigado por los delitos de terrorismo, financiamiento al terrorismo, asociación delictuosa e instigación pública a delinquir.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "justino apaza"
+        ],
+        "creator": null,
+        "language": "spanish",
+        "country": [
             "mexico"
         ],
         "category": [
@@ -507,16 +673,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-04 16:21:59",
+        "pubDate": "2026-06-05 16:03:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:32:05",
-        "image_url": "https://www.infobae.com/resizer/v2/AN46ZNBSAVHXXC5EIUKJBIZ5RA.jpg?auth=68daa61dd9d44b9bef6b3683fc50d8716609937a1a2851f909fe32466316563f&smart=true&width=2560&height=1706",
+        "fetched_at": "2026-06-05 18:05:56",
+        "image_url": "https://www.lostiempos.com/sites/default/files/media_imagen/2026/6/5/justino.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "lostiempos",
+        "source_name": "Los Tiempos",
+        "source_priority": 43536,
+        "source_url": "https://www.lostiempos.com",
+        "source_icon": "https://n.bytvi.com/lostiempos.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -524,97 +690,50 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "托利马州埃尔埃斯皮纳尔婴儿米亚·卡特利亚·拉米雷斯 (Mía Catleya Ramírez) 死亡后，总检察长办公室要求 ICBF 给予永久关注",
-        "description_zh": "公共事务部要求家庭辩护人和跨学科团队24小时待命，并要求在此前据称失败后加强与医院、警察局、警察和检察官办公室的协调"
+        "title_zh": "贾斯蒂诺·阿帕扎因涉嫌恐怖主义和其他罪行被送往圣佩德罗监狱",
+        "description_zh": "一名法官决定将拉巴斯邻里委员会省联合会领导人贾斯蒂诺·阿帕萨（Justino Apaza）在圣佩德罗监狱预防性拘留六个月，并因恐怖主义罪、资助恐怖主义罪、犯罪团伙和公共煽动罪接受调查。"
     },
     {
-        "article_id": "17c6e4974437bfedeb8f79fa0afeec50",
-        "link": "https://www.infobae.com/mexico/2026/06/04/sheinbaum-celebra-que-mullin-reconozca-la-soberania-de-mexico-tras-carta-de-amlo-oye-que-bien/",
-        "title": "Claudia Sheinbaum celebra que Mullin reconozca la soberanía de México tras carta de AMLO: “Oye, qué bien”",
-        "description": "En medio de la ofensiva del “narcogobierno” y la reaparición de López Obrador, la presidenta encontró en las palabras del secretario de Seguridad de EEUU un argumento a favor de México",
+        "article_id": "ee30c25aed7daf0e399583fd83900a88",
+        "link": "https://www.cnnchile.com/tendencias/quentin-tarantino-critica-hollywood-cine-actual-sight-and-sound/",
+        "title": "Tarantino arremete contra Hollywood: \"Es una fábrica de salchichas sin sabor\"",
+        "description": "En un artículo para la revista Sight and Sound, el director de ‘Pulp Fiction’ y ‘Kill Bill’ afirmó que el cine actual ya no lo inspira y que prefiere leer un libro antes que ver la mayoría de los estrenos recientes.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "política mexicana",
-            "mexico-noticias",
-            "cárteles de la droga",
-            "amlo",
-            "cooperación",
-            "narcotráfico méxico",
-            "estados unidos",
-            "claudia sheinbaum",
-            "soberanía",
-            "narco en méxico",
-            "markwayne mullin",
-            "mexico-seguridad"
+            "ben affleck",
+            "west side story",
+            "pulp fiction",
+            "hollywood",
+            "matt damon",
+            "kill bill",
+            "tendencias",
+            "sight and sound",
+            "cine",
+            "quentin tarantino",
+            "the rip"
         ],
         "creator": [
-            "itzallana lópez castillo"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "colombia",
-            "united states of america",
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-04 16:21:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:32:05",
-        "image_url": "https://www.infobae.com/resizer/v2/M4UVJ4H2LBBSZNNGHJBW2USCOM.png?auth=cae237c808518bbbd9375fe7ad665075049c30dd69cde009e014adb1e38c6448&smart=true&width=3840&height=2160",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "克劳迪娅·辛鲍姆 (Claudia Sheinbaum) 庆祝穆林在收到奥夫拉多尔的信函后承认墨西哥的主权：“嘿，那太棒了”",
-        "description_zh": "在“毒品政府”攻势和洛佩斯·奥夫拉多尔重新出现的过程中，总统从美国安全部长的言论中发现了有利于墨西哥的论据"
-    },
-    {
-        "article_id": "3b9dd817a558313a93f2d47387260e23",
-        "link": "https://www.elmostrador.cl/efecto-placebo/2026/06/04/tres-cambios-que-suman-anos-a-tu-vida/",
-        "title": "Tres cambios que suman años a tu vida",
-        "description": "Un estudio de científicos de Berlín identificó qué pacientes podrían beneficiarse de terapias con psicodélicos para tratar problemas de salud mental. Además, una investigación de la Universidad de Sídney concluyó que cambios en sueño, ejercicio y alimentación pueden sumar hasta un año de vida.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "newsletter",
-            "salud",
-            "efecto placebo"
-        ],
-        "creator": [
-            "silvia peña pinilla"
+            "josé ferrada"
         ],
         "language": "spanish",
         "country": [
             "chile"
         ],
         "category": [
-            "health",
+            "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-04 16:21:49",
+        "pubDate": "2026-06-05 16:03:44",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 22:05:35",
-        "image_url": "https://media-front.elmostrador.cl/2026/06/comida-saludable-1024x682-1.jpg",
+        "fetched_at": "2026-06-05 16:14:58",
+        "image_url": "https://media.cnnchile.com/2026/06/221117212347-quentin-tarantino-whos-talking-screengrab.jpg",
         "video_url": null,
-        "source_id": "elmostrador",
-        "source_name": "El Mostrador",
-        "source_priority": 30342,
-        "source_url": "https://www.elmostrador.cl",
-        "source_icon": "https://n.bytvi.com/elmostrador.png",
+        "source_id": "cnnchile",
+        "source_name": "Cnn Chile",
+        "source_priority": 575108,
+        "source_url": "https://www.cnnchile.com",
+        "source_icon": "https://n.bytvi.com/cnnchile.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -622,43 +741,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "三个改变可以延长你的寿命",
-        "description_zh": "柏林科学家的一项研究确定了哪些患者可以从迷幻疗法中受益，以治疗心理健康问题。此外，悉尼大学的研究得出结论，睡眠、运动和饮食的变化可能会导致一年的损害。"
+        "title_zh": "塔伦蒂诺攻击好莱坞：“这是一个无味的香肠工厂”",
+        "description_zh": "在《视与声》杂志的一篇文章中，《低俗小说》和《杀死比尔》的导演表示，当前的电影不再激励他，他更喜欢读书，而不是看最近上映的大部分电影。"
     },
     {
-        "article_id": "00822116868d21f0603deedba9aa300c",
-        "link": "https://www.adn40.mx/mexico/2026-06-04/conagua-habria-entregado-contratos-millonarios-a-empresa-fantasma-ligada-a-adan-augusto-mcc/",
-        "title": "conagua-fraude-empresas-fantasma",
-        "description": "La red de empresas fantasma estaría ligada a una notaría de Adán Augusto López.",
+        "article_id": "df1886d7220a7b889c0e618e910b24ca",
+        "link": "https://contactohoy.com.mx/policia/le-cristalearon-su-camioneta-mientras-estaba-en-misa-le-robaron-una-bolsa-con-casi-10000/",
+        "title": "Le cristalearon su camioneta mientras estaba en misa; le robaron una bolsa con casi $10,000",
+        "description": "Durango, Dgo. Una señora que estaba en misa de 8 fue víctima de un cuantioso robo, pues uno o más delincuentes dañaron su camioneta para robar un bolso con dinero que tenía en su interior. La afectada es la señora María Félix, quien tiene 65 años de edad y vive en la colonia Santa María, [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "conagua",
-            "adán augusto lópez",
-            "fraude conagua",
-            "conagua empresas fantasma",
-            "morena"
-        ],
+        "keywords": null,
         "creator": [
-            "tania itzel vargas"
+            "contacto hoy"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "world"
+            "crime",
+            "top"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-06-04 16:21:16",
+        "datatype": "blog",
+        "pubDate": "2026-06-05 16:03:31",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 22:41:33",
-        "image_url": "https://tvazteca-adnnoticias-prod.web.arc-cdn.net/resizer/v2/EJF4ZXUHWBDN7NQZBANAHHPSTU.jpg?auth=1136bc801fa586a68ee29505610f29f2a6bc2dc55f4fe96dc67220d51508102a&smart=true&width=1200&height=675",
-        "video_url": "https://mdstrm.com/video/6a21f27a880c49f773c5d491.m3u8",
-        "source_id": "adn40",
-        "source_name": "Adn40",
-        "source_priority": 220795,
-        "source_url": "https://www.adn40.mx",
-        "source_icon": "https://n.bytvi.com/adn40.png",
+        "fetched_at": "2026-06-05 17:46:32",
+        "image_url": "https://contactohoy.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-05-at-10.03.05-200x200.jpeg",
+        "video_url": null,
+        "source_id": "contactohoy_mx",
+        "source_name": "Contacto Hoy",
+        "source_priority": 933953,
+        "source_url": "https://contactohoy.com.mx",
+        "source_icon": "https://n.bytvi.com/contactohoy_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -666,59 +780,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "科那瓜欺诈幽灵公司",
-        "description_zh": "空壳公司网络将与阿丹·奥古斯托·洛佩斯拥有的公证处相连。"
+        "title_zh": "当他在做弥撒时，他们用玻璃砸坏了他的卡车；他们偷了一个包，里面有将近10,000美元",
+        "description_zh": "杜兰戈，德戈。一名参加 8 点钟弥撒的妇女遭遇了一起大型抢劫案，一名或多名犯罪分子损坏了她的卡车，偷走了她装着钱的袋子。受影响者是 María Félix 女士，65 岁，住在 Santa María 街区，["
     },
     {
-        "article_id": "1fd80a2af20157fb698556a5ba6ff678",
-        "link": "https://www.larepublica.co/globoeconomia/liftoff-de-blackstone-sube-9-1-tras-debutar-en-bolsa-por-us-437-millones-4407945",
-        "title": "Liftoff de Blackstone sube 9,1% tras debutar en bolsa por US$437 millones",
-        "description": "Las acciones de la compañía respaldada por Blackstone, que solicitó su salida a bolsa tan solo tres meses después de retirar su solicitud anterior",
+        "article_id": "6246508afddcfaeb0114cd9e644ae0b0",
+        "link": "https://www.elpais.com.co/entretenimiento/superman-visitara-colombia-este-2026-famoso-actor-sera-invitado-estelar-de-la-comic-con-en-bogota-0527.html",
+        "title": "Superman visitará Colombia este 2026: famoso actor será invitado estelar de la Comic Con en Bogotá",
+        "description": "La cita anual promete acercar a los fanáticos colombianos a las grandes estrellas del cine, la televisión, el anime y la cultura pop en el mundo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "comercio",
-            "automotor",
-            "judicial",
-            "cultura",
-            "entretenimento",
-            "agro",
-            "gastronomía",
-            "turismo",
-            "energía y minas",
-            "salud",
-            "construcción",
-            "educación",
-            "bolsas",
-            "transporte",
-            "industria",
-            "laboral",
-            "bancos",
-            "seguros",
-            "hacienda",
-            "deporte"
+            "colombia",
+            "comic con colombia",
+            "supermán"
         ],
         "creator": [
-            "bloomberg"
+            "johana fiallo"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "business",
-            "top"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-04 16:21:10",
+        "pubDate": "2026-06-05 16:03:27",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:35:46",
-        "image_url": "https://img.lalr.co/cms/2026/06/04112016/457803864-1.jpg?size=xl&ratio=r40_21",
+        "fetched_at": "2026-06-05 16:07:07",
+        "image_url": "https://semana-el-pais-prod.web.arc-cdn.net/resizer/v2/AHVS75M4BVHC7GKXT7PCAISX5A.jpeg?auth=b3a5df7ddd52c93e07cae651e8b71ebfc747e0e873d90b33030632726933e383&smart=true&width=8640&height=5388",
         "video_url": null,
-        "source_id": "larepublicacl",
-        "source_name": "Larepublica",
-        "source_priority": 43349,
-        "source_url": "https://www.larepublica.co",
-        "source_icon": "https://n.bytvi.com/larepublicacl.png",
+        "source_id": "elpaiscl",
+        "source_name": "El Pais",
+        "source_priority": 39172,
+        "source_url": "https://www.elpais.com.co",
+        "source_icon": "https://n.bytvi.com/elpaiscl.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -726,175 +822,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Blackstone Liftoff 上市后股价上涨 9.1%，筹资 4.37 亿美元",
-        "description_zh": "这家黑石支持的公司的股票，在撤回之前的申请后仅三个月就申请上市"
-    },
-    {
-        "article_id": "26b91af1f930d3a98c1eb0d6256f2a2c",
-        "link": "https://juanfutbol.com/mma-ufc/santiago-luna-y-edgar-chairez-en-la-cartelera-de-ufc-vegas-118",
-        "title": "Santiago Luna y Edgar Chairez en la cartelera de UFC Vegas 118",
-        "description": "Presencia mexicana en la cartelera de este fin de semana para UFC Vegas 118. The post Santiago Luna y Edgar Chairez en la cartelera de UFC Vegas 118 appeared first on Juanfutbol .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ufc"
-        ],
-        "creator": [
-            "julio beaujon"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-04 16:21:05",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:45:16",
-        "image_url": "https://media.juanfutbol.com/wp-content/uploads/2026/06/Notas-Compartidas-1.webp",
-        "video_url": null,
-        "source_id": "juanfutbol",
-        "source_name": "Juanfutbol",
-        "source_priority": 637048,
-        "source_url": "https://juanfutbol.com",
-        "source_icon": "https://n.bytvi.com/juanfutbol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "圣地亚哥·卢纳 (Santiago Luna) 和埃德加·主席 (Edgar Chairez) 在 UFC Vegas 118 卡上",
-        "description_zh": "墨西哥人出现在本周末 UFC Vegas 118 的卡片上。UFC Vegas 118 卡片上的后圣地亚哥·卢纳 (Santiago Luna) 和埃德加·主席 (Edgar Chairez) 首先出现在 Juanfutbol 上。"
-    },
-    {
-        "article_id": "9dffa2bcf13162d64d9950d9dff437ef",
-        "link": "https://www.infobae.com/politica/2026/06/04/tranquilizate-querida-el-cruce-de-juliana-di-tulio-y-patricia-bullrich-en-el-senado-por-la-marcha-del-ni-una-menos/",
-        "title": "“Tranquilizate, querida”: el cruce de Juliana Di Tullio y Patricia Bullrich en el Senado por la marcha del Ni Una Menos",
-        "description": "La presidenta del bloque de La Libertad Avanza defendió las cifras oficiales sobre violencia de género y la legisladora peronista cuestionó el uso político del tema",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "juliana di tulio",
-            "patricia bullrich",
-            "últimas noticias",
-            "femicidios",
-            "ni una menos",
-            "senado"
-        ],
-        "creator": [
-            "infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "colombia",
-            "united states of america",
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-06-04 16:21:02",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:32:05",
-        "image_url": "https://www.infobae.com/resizer/v2/T7RWNDDE6RG4DBAO47HATHQ5D4.jpg?auth=ab719a601ef5ff610aedd974e01f104c80f52d23afee33e5d26ed11ed568e434&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/tOqu9SXR-HeIT2Id1.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“冷静点，亲爱的”：朱莉安娜·迪·图利奥 (Juliana Di Tullio) 和帕特里夏·布尔里奇 (Patricia Bullrich) 在参议院参加 Ni Una Menos 游行",
-        "description_zh": "La Libertad Avanza 集团主席为有关性别暴力的官方数据进行辩护，庇隆主义立法者质疑该问题的政治用途"
-    },
-    {
-        "article_id": "6370d6e969976b1551a7b30d14129f68",
-        "link": "https://www.merca20.com/bbva-anuncia-la-venta-de-las-monedas-conmemorativas-de-oro-y-plata-del-mundial-acunadas-por-banxico/",
-        "title": "BBVA anuncia la venta de las monedas conmemorativas de oro y plata del Mundial acuñadas por Banxico",
-        "description": "BBVA México anunció que a partir del próximo 11 de junio de 2026 pondrá a disposición del público las monedas conmemorativas de oro y plata de la Copa Mundial FIFA 2026",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "laura islas"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-04 16:20:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 17:06:22",
-        "image_url": "https://files.merca20.com/uploads/2026/06/monedas-mundial-llegan-a-bbva.jpg",
-        "video_url": null,
-        "source_id": "merca20",
-        "source_name": "Mercadotecnia",
-        "source_priority": 42257,
-        "source_url": "https://www.merca20.com",
-        "source_icon": "https://n.bytvi.com/merca20.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "BBVA 宣布出售 Banxico 铸造的世界杯金银纪念币",
-        "description_zh": "BBVA墨西哥公司宣布，自2026年6月11日起，将向公众发售2026年FIFA世界杯金银纪念币。"
-    },
-    {
-        "article_id": "569d62f3e316ecc0af9ca0550d0acffe",
-        "link": "https://www.tvazteca.com/aztecadeportes/gta-vi-lanzara-nintendo-switch-2/",
-        "title": "¿El GTA VI se lanzará para la Nintendo Switch 2? Esto es lo que se sabe",
-        "description": "El GTA VI está muy cerca de lanzarse al público en México y el mundo, por lo que vale conocer si este videojuego saldrá para la Nintendo Switch 2.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "vi",
-            "gta"
-        ],
-        "creator": [
-            "alan chávez - marktube"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-04 16:20:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-04 16:34:34",
-        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/b2/ea/73b52d7547b2b67c0e0c21a1a614/gta-vi-lanzara-nintendo-switch-2.jpg",
-        "video_url": null,
-        "source_id": "tvazteca",
-        "source_name": "Azteca Deportes",
-        "source_priority": 17594,
-        "source_url": "https://www.tvazteca.com",
-        "source_icon": "https://n.bytvi.com/tvazteca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "GTA VI 会在 Nintendo Switch 2 上发布吗？这是已知的",
-        "description_zh": "GTA VI 即将在墨西哥和世界范围内向公众发布，因此值得了解这款视频游戏是否会在 Nintendo Switch 2 上发布。"
+        "title_zh": "超人将于 2026 年访问哥伦比亚：著名演员将作为明星嘉宾出席波哥大动漫展",
+        "description_zh": "这项一年一度的活动有望让哥伦比亚粉丝更近距离地接触世界上电影、电视、动漫和流行文化的巨星。"
     }
 ]
