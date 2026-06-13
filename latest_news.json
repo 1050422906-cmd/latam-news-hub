@@ -1,33 +1,74 @@
 [
     {
-        "article_id": "dd03e0c11622097c3d854e518e03b0e6",
-        "link": "https://www.capitalnews.com.br/colunistas/marco-eusebio/o-adeus-ao-escritor-guimaraes-rocha/441952",
-        "title": "O adeus ao escritor Guimarães Rocha",
-        "description": "A literatura sul-mato-grossense perdeu hoje um de seus maiores representantes.",
+        "article_id": "c4152d51be6462fda08e66f502f37d5d",
+        "link": "https://tribunadepetropolis.com.br/noticias/house-of-guinness-e-renovada-para-a-2a-temporada-pela-netflix/",
+        "title": "‘House of Guinness’ é renovada para a 2a temporada pela Netflix",
+        "description": "Os fãs de House of Guinness já podem comemorar. Segundo informações divulgadas pela revista Variety, a Netflix confirmou a renovação da série para uma segunda temporada, garantindo a continuidade da história inspirada na influente família irlandesa responsável pela criação do império Guinness. A novidade chega cerca de oito meses após a estreia da primeira temporada, [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "da coluna entrelinhas da notícia"
+            "por eduarda menina; estadão"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "lifestyle",
+            "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-11 16:44:00",
+        "pubDate": "2026-06-12 16:22:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 20:42:30",
-        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2026/06/11/1200x900/f34ce80d1278948909fe2613ed3e6aba-capitalnews-com-br.jpg",
+        "fetched_at": "2026-06-12 16:43:35",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
-        "source_id": "capitalnews",
-        "source_name": "Capital News",
-        "source_priority": 505998,
-        "source_url": "https://www.capitalnews.com.br",
-        "source_icon": "https://n.bytvi.com/capitalnews.png",
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "Netflix 续订《吉尼斯之家》第二季",
+        "description_zh": "吉尼斯之家的粉丝现在可以庆祝了。据《Variety》杂志发布的消息，Netflix 确认续订该剧第二季，确保故事的连续性，灵感来自于创建古帝国的颇具影响力的爱尔兰家族。"
+    },
+    {
+        "article_id": "4ab1615a3ef42fcce2b7bce9435b7648",
+        "link": "https://www.ambito.com/lifestyle/australia-busca-gente-vivir-gratis-trabajo-y-alojamiento-asegurado-como-postularse-n6288179",
+        "title": "Australia busca gente para vivir gratis con trabajo y alojamiento asegurado: cómo postularse",
+        "description": "Una propuesta atrae a viajeros de distintos países que buscan cambiar de aire mientras adquieren experiencia en destinos únicos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "australia"
+        ],
+        "creator": [
+            "ámbito.com"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:22:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 16:35:44",
+        "image_url": "https://media.ambito.com/p/5a6d4b6047739707d9d05f74d3707f4e/adjuntos/239/imagenes/043/438/0043438746/1200x675/smart/australia.jpg",
+        "video_url": null,
+        "source_id": "ambito",
+        "source_name": "Ambito",
+        "source_priority": 37705,
+        "source_url": "https://www.ambito.com",
+        "source_icon": "https://n.bytvi.com/ambito.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -35,36 +76,44 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "告别作家吉马良斯·罗查",
-        "description_zh": "今天，南马托格罗索州文学失去了最伟大的代表之一。"
+        "title_zh": "澳大利亚正在寻找免费居住、有工作和住宿保障的人：如何申请",
+        "description_zh": "一项提案吸引了来自不同国家的游客寻求改变风景，同时在独特的目的地获得经验。"
     },
     {
-        "article_id": "a9ca6449c4baed1e508f9b9a6ca30cc2",
-        "link": "https://www.lagaceta.com.ar/nota/1140688/deportes/inauguracion-mundial-2026-cambio-reglas-16-minutos-tres-sedes-nueva-forma-hacer-espectaculo.html",
-        "title": "La inauguración del Mundial 2026 cambió las reglas: 16 minutos, tres sedes y una nueva forma de hacer espectáculo",
-        "description": "La primera ceremonia del Mundial 2026 apostó por un formato breve y vertiginoso, con una sucesión de estrellas internacionales y guiños a la cultura pop",
+        "article_id": "e785bf338d44ad55c576b35fe19a7a88",
+        "link": "https://www.lagaceta.com.ar/nota/1140864/politica/daniel-vitolo-aca-hubo-desvio-fondos-afa-quiso-eludir-controles.html",
+        "title": "Daniel Vítolo: “Acá hubo un desvío de fondos y la AFA quiso eludir los controles”",
+        "description": "El ex titular de la Inspección General de Justicia de la Nación está en Tucumán y habló con LA GACETA sobre la causa que motivó su alejamiento de la función oficial.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "202287",
-            "méxico",
-            "mundial 2026"
+            "inspección general de justicia de la nación",
+            "mariano cuneo libarona",
+            "juan bautista mahiques",
+            "la gaceta",
+            "inteligencia artificial",
+            "pablo toviggino",
+            "tucumán",
+            "asociación del fútbol argentino",
+            "26",
+            "claudio “chiqui” tapia",
+            "afa"
         ],
         "creator": [
-            "ale casas cau"
+            "juan manuel montero"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top",
-            "sports"
+            "politics",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-11 16:44:00",
+        "pubDate": "2026-06-12 16:22:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 20:47:17",
-        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/06/11/inauguracion-mundial-2026-mexico-1140688-170928.jpeg",
+        "fetched_at": "2026-06-12 19:46:00",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/06/12/vitolo-llego-tucuman-invitado-federacion-argentina-magistrados-foto-la-gaceta-analia-jaramillo-1140864-161249.jpg",
         "video_url": null,
         "source_id": "lagaceta_ar",
         "source_name": "Lagaceta",
@@ -78,46 +127,42 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "2026年世界杯开幕改变了规则：16分钟、三个场地和新的表演方式",
-        "description_zh": "2026 年世界杯首届颁奖典礼选择了短小快节奏的形式，国际明星云集，向流行文化致敬"
+        "title_zh": "丹尼尔·维托洛（Daniel Vítolo）：“这里存在资金转移行为，AFA 想要逃避控制”",
+        "description_zh": "国家司法总监察局前局长现身图库曼，并接受《LA GACETA》采访，谈论了他辞去公职的原因。"
     },
     {
-        "article_id": "c3164a4543778be971ea61b54efb4757",
-        "link": "https://www.adnsur.com.ar/policiales---judiciales/una-familia-escapo-de-un-incendio-devastador--el-padre-sufrio-quemaduras-y-todas-las-mascotas-murieron_a6a2adae313470b046d8f7d62",
-        "title": "Una familia escapó de un incendio devastador: el padre sufrió quemaduras y todas las mascotas murieron",
-        "description": "Las llamas consumieron por completo la casa donde vivía una pareja y sus cuatro hijos. El municipio anunció asistencia inmediata para los damnificados.",
+        "article_id": "8337ddda7f6e10554f6a24076cd6dde3",
+        "link": "https://www.elchubut.com.ar/regionales/2026-6-12-13-22-0-provincia-recibio-a-autoridades-nacionales-y-de-unicef-para-fortalecer-el-desarrollo-integral-de-la-primera-infancia",
+        "title": "Provincia recibió a autoridades nacionales y de UNICEF para fortalecer el desarrollo integral de la primera infancia",
+        "description": "La provincia fue una de las primeras jurisdicciones del país en adherir al Programa Federal de Protección a la Primera Infancia, una iniciativa que fortalece los Centros de Desarrollo Infantil (CDI) y promueve el acompañamiento integral de familias con niños y niñas de hasta 4 años. La jornada reunió a representantes de UNICEF, autoridades nacionales y referentes de distintas áreas del Gobierno del Chubut.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "herido",
-            "familia",
-            "mascotas",
-            "chubut",
-            "incendio",
-            "esquel",
-            "perdidas totales"
+            "unicef",
+            "primera infancia",
+            "chubut"
         ],
         "creator": [
-            "adnsur"
+            "el chubut"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "crime",
+            "education",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-11 16:44:00",
+        "pubDate": "2026-06-12 16:22:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:08:56",
-        "image_url": "https://adnsur-assets.tadevel-cdn.com/6a2ade5513470b046d8fac79/720.jpeg",
+        "fetched_at": "2026-06-12 16:38:31",
+        "image_url": "https://pxbcdn.elchubut.com.ar/chubut/062026/1781281701614.jpg?cw=1170&ch=645",
         "video_url": null,
-        "source_id": "adnsur",
-        "source_name": "Adnsur",
-        "source_priority": 80627,
-        "source_url": "https://www.adnsur.com.ar",
-        "source_icon": "https://n.bytvi.com/adnsur.png",
+        "source_id": "elchubut_ar",
+        "source_name": "El Chubut",
+        "source_priority": 110150,
+        "source_url": "https://www.elchubut.com.ar",
+        "source_icon": "https://n.bytvi.com/elchubut_ar.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -125,16 +170,244 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "一场毁灭性火灾，一家人逃过一劫：父亲被烧伤，宠物全部死亡",
-        "description_zh": "大火完全烧毁了一对夫妇和他们的四个孩子所居住的房子。市政府宣布立即为受害者提供援助。"
+        "title_zh": "我省接待国家和联合国儿童基金会主管部门加强幼儿全面发展",
+        "description_zh": "该省是该国首批加入联邦幼儿保护计划的辖区之一，该计划旨在加强儿童发展中心 (CDI) 并促进对有 4 岁以下男孩和女孩的家庭提供全面支持。那天"
     },
     {
-        "article_id": "c9dca86d16019d8215fa9cd7a1c124fa",
-        "link": "https://br.investing.com/news/company-news/morgan-stanley-reduz-participacao-na-central-asia-metals-para-abaixo-de-7-93CH-1970591",
-        "title": "Morgan Stanley reduz participação na Central Asia Metals para abaixo de 7%",
-        "description": null,
+        "article_id": "941197604e886d1f8eefd5d4ab5e077e",
+        "link": "https://www.losandes.com.ar/sociedad/quiniela-mendoza-estos-son-los-resultados-del-sorteo-del-viernes-12-junio-n5994602",
+        "title": "Quiniela de Mendoza: estos son los resultados del sorteo del viernes 12 de junio",
+        "description": "Estos son los resultados de la Quiniela de Mendoza de hoy en todos los sorteos del día. Qué números salieron a la cabeza y el listado completo de los ganadores.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "quiniela",
+            "sorteo",
+            "quiniela de mendoza",
+            "números",
+            "resultados"
+        ],
+        "creator": [
+            "redacción"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:22:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 16:38:47",
+        "image_url": "https://media.losandes.com.ar/p/7e7696a9755bc28404ca9f83f0978eee/adjuntos/368/imagenes/100/598/0100598160/1200x675/smart/los-numeros-ganadores-la-quiniela-mendoza-hoy-imagen-ilustrativa-los-andes.png",
+        "video_url": null,
+        "source_id": "losandes",
+        "source_name": "Los Andes",
+        "source_priority": 114641,
+        "source_url": "https://www.losandes.com.ar",
+        "source_icon": "https://n.bytvi.com/losandes.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "门多萨彩票：这些是 6 月 12 日星期五的抽奖结果",
+        "description_zh": "这些是今天门多萨奎涅拉在当天所有抽签中的结果。哪些数字名列前茅以及完整的获奖者名单。"
+    },
+    {
+        "article_id": "1208b1db1b51598d5e69ffd4bbfe6709",
+        "link": "https://www.dgabc.com.br/Noticia/4328671/-house-of-guinness-e-renovada-para-a-2-temporada-pela-netflix",
+        "title": "'House of Guinness' é renovada para a 2a temporada pela Netflix",
+        "description": "'House of Guinness' é renovada para a 2a temporada pela Netflix",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "noticias on line abc",
+            "house of guinness",
+            "portal",
+            "diário",
+            "dgabc",
+            "setecidades",
+            "turismo",
+            "mauá",
+            "séries",
+            "abc",
+            "rio grande da serra",
+            "economia",
+            "são bernardo",
+            "d+",
+            "2ª temporada",
+            "santo andré",
+            "política",
+            "nacional",
+            "internacional",
+            "on line"
+        ],
+        "creator": [
+            "agência estado"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:22:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 17:18:15",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://n.bytvi.com/dgabc.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "Netflix 续订《吉尼斯之家》第二季",
+        "description_zh": "Netflix 续订《吉尼斯之家》第二季"
+    },
+    {
+        "article_id": "1a07512f14015ec01a18d7bf3e316fa1",
+        "link": "https://www.em.com.br/trends/2026/06/7439928-escritura-na-mao-como-a-regularizacao-fundiaria-valoriza-imoveis-e-amplia-o-acesso-ao-credito.html",
+        "title": "Escritura na mão: como a regularização fundiária valoriza imóveis e amplia o acesso ao crédito",
+        "description": "Com investimento de R$ 138 milhões, ação do Ministério das Cidades beneficia cerca de 100 mil famílias em 17 estados e garante segurança jurídica e acesso a financiamentos",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
+        "creator": [
+            "raissa ferri"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:21:35",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 19:31:34",
+        "image_url": "https://midias.em.com.br/_midias/jpg/2026/06/12/7439928-4eb94d7dfe6b46b98715f0cdad1f5fab-66898487.jpeg",
+        "video_url": null,
+        "source_id": "estadodeminas",
+        "source_name": "Jornal Estado De Minas",
+        "source_priority": 6179,
+        "source_url": "https://www.em.com.br",
+        "source_icon": "https://n.bytvi.com/estadodeminas.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "手中的契约：土地正规化如何增加财产价值并扩大获得信贷的机会",
+        "description_zh": "城市部投资 1.38 亿雷亚尔，使 17 个州的约 10 万家庭受益，并保障法律安全和融资渠道"
+    },
+    {
+        "article_id": "947df3ea9e40e887046dfc445f52ff80",
+        "link": "https://yobs.com/truc-tiep/bo-dao-nha-u20-vs-tunisia-u23-luc-0000-ngay-14-06-2026/",
+        "title": "Trực tiếp Bồ Đào Nha U20 vs Tunisia U23 full lúc 00:00, ngày 14/06",
+        "description": "Link trận đấu trực tiếp Bồ Đào Nha U20 vs Tunisia U23 được diễn ra vào lúc 00:00 giải đấu Toulon Maurice Revello Tournament, sẽ được phát sóng tại Socolive TV.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "phi tiểu đoàn"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:21:23",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 16:31:31",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "socolivezzn_cc",
+        "source_name": "Socolive Tv",
+        "source_priority": 99999999,
+        "source_url": "https://socolivezzn.cc",
+        "source_icon": "https://n.bytvi.com/socolivezzn_cc.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "6月14日 00:00 直播 葡萄牙 U20 vs 突尼斯 U23 全场",
+        "description_zh": "土伦莫里斯雷韦洛锦标赛 00:00 举行的葡萄牙 U20 对阵突尼斯 U23 比赛的直播链接将在 Socolive TV 播出。"
+    },
+    {
+        "article_id": "1e86e4b54fc0ab177dcf0d4221a19567",
+        "link": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/06/12/paraguaia-que-mora-na-espanha-coloca-aviso-no-elevador-sobre-gritos-durante-a-copa-sou-eu-ou-qualquer-outro.ghtml",
+        "title": "Paraguaia que mora na Espanha coloca aviso no elevador sobre gritos durante a Copa: 'sou eu ou qualquer outro'",
+        "description": "A influenciadora digital paraguaia Nana Garcette viralizou nas redes após publicar vídeo em que coloca placas no elevador de seu prédio, na Espanha, para informar vizinhos sobre gritos de gol na madrugada. Garcette avisa que a euforia se dá pelo longo período que o país ficou fora de um mundial, exatos dezesseis anos. Publicação da paraguaia ultrapassou os 15 mil likes no Instagram e foi replicada por páginas de futebol ao redor do mundo. Na placa, Nana fala por si e por outros, ao dizer que o grito da madrugada pode ser dela ou de qualquer outro torcedor do país. Initial plugin text \"Queridos vizinhos: sou paraguaia e voltamos ao mundial após 16 anos. Se durante a madrugada vocês escutarem um grito de GOOOOL, será meu ou de qualquer paraguaio.”, diz a plaquinha produzida pela torcedora e espalhada pelo prédio. A seleção do Paraguai não disputava uma Copa do Mundo desde a edição de 2010, e retorna ao torneio mundial na edição deste ano após conquistar a sexta colocação nas Eliminatórias sob o comando do técnico argentino Gustavo Alfaro e a criatividade de atacantes como Julio Enciso e Miguel Almirón. Na Copa da África do Sul, com o argentino Gerardo Martino como treinador, o Paraguai obteve seu melhor resultado em Mundiais até hoje, chegando às quartas de final, quando foi eliminado pela Espanha, que seria mais tarde a grande campeã. Gustavo Alfaro, que já classificou o Equador para a Copa do Mundo de 2022, é o quarto técnico argentino consecutivo no comando do Paraguai, depois de Daniel Garnero, Guillermo Barros Schelotto e Eduardo Berizzo. Os paraguaios enfrentam uma das anfitriãs desse mundial, os Estados Unidos, nesta sexta-feira às 16h00 no Estádio de Los Angeles.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:21:15",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 17:08:05",
+        "image_url": "https://s2-oglobo.glbimg.com/LwOGJAm9NYAfPA0cFSkqMe8aBc8=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/C/D/aO4lNtRvqeeThQqQe6jA/adobe-express-whatsapp-video-2026-06-12-at-13.22.00.gif",
+        "video_url": null,
+        "source_id": "oglobo_globo",
+        "source_name": "O Globo",
+        "source_priority": 93485,
+        "source_url": "https://oglobo.globo.com",
+        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "居住在西班牙的巴拉圭人在电梯里警告世界杯期间大喊大叫：“要么是我，要么是其他人”",
+        "description_zh": "巴拉圭数字影响者 Nana Garcette 在发布一段视频后在社交网络上疯传，视频中她在西班牙自家大楼的电梯里放置了标语，告知邻居凌晨时分的进球口号。加塞特警告说，这种兴奋是因为该国长期缺席世界杯"
+    },
+    {
+        "article_id": "70fffd25abd1ed92183e601e7950a8a6",
+        "link": "https://valor.globo.com/empresas/noticia/2026/06/12/spacex-abre-em-alta-em-forte-estreia-na-nasdaq.ghtml",
+        "title": "SpaceX abre em alta em forte estreia na Nasdaq",
+        "description": "As ações da SpaceX subiram 11% em sua estreia na N...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ipo",
+            "elon musk",
+            "openai",
+            "wall street",
+            "anthropic",
+            "nasdaq",
+            "inteligência artificial"
+        ],
         "creator": null,
         "language": "portuguese",
         "country": [
@@ -145,16 +418,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-11 16:43:59",
+        "pubDate": "2026-06-12 16:21:13",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:06:43",
-        "image_url": null,
+        "fetched_at": "2026-06-12 16:31:55",
+        "image_url": "https://s2-valor.glbimg.com/olayInQ48Q3f8zakYx6KElZSLN8=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/6/U/JZ9mK8RC2otD6YNnN2MQ/458382562.jpg",
         "video_url": null,
-        "source_id": "investing_br",
-        "source_name": "Investing Brasil",
-        "source_priority": 33451,
-        "source_url": "https://br.investing.com",
-        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "source_id": "valor_globo",
+        "source_name": "Valor Globo",
+        "source_priority": 2786,
+        "source_url": "https://valor.globo.com",
+        "source_icon": "https://n.bytvi.com/valor_globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -162,314 +435,286 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "摩根士丹利将中亚金属股份减持至 7% 以下",
-        "description_zh": "查看原文了解更多详情"
+        "title_zh": "SpaceX 在纳斯达克上市表现强劲，开盘走高",
+        "description_zh": "SpaceX 纽约首秀股价上涨 11%"
     },
     {
-        "article_id": "044a6cb17228bb4284bf02cbe642a5c3",
-        "link": "https://g1.globo.com/ma/maranhao/noticia/2026/06/11/casal-e-preso-em-timon-suspeito-de-praticar-homicidio-em-aldeias-altas-crime-teria-sido-por-vinganca.ghtml",
-        "title": "Casal é preso em Timon suspeito de praticar homicídio em Aldeias Altas; crime teria sido por vingança",
-        "description": "Casal é preso em Timon suspeito de praticar homicídio em Aldeias Altas; crime teria sido por vingança Divulgação/Polícia Civil do Maranhão A Polícia Civil do Maranhão prendeu, na quarta-feira (10), um homem de 29 anos e uma mulher de 34 anos investigados por envolvimento em um homicídio ocorrido no município de Aldeias Altas. O casal foi localizado e preso na cidade de Timon, em cumprimento a mandados de prisão preventiva. Segundo as investigações, o crime aconteceu na madrugada de 25 de janeiro deste ano, no bairro Lagoa do Mato, zona rural de Aldeias Altas. De acordo com a polícia, o homem é suspeito de ter atirado na cabeça de Laécio Sousa dos Santos, de 23 anos, que morreu no local. 📱Baixe o app do g1 para ver notícias do MA em tempo real e de graça A apuração também aponta que, após o crime, o suspeito fugiu na garupa de uma motocicleta conduzida pela companheira. Conforme a Polícia Civil, a mulher teria participado do planejamento da ação criminosa. As investigações indicam que a motivação do homicídio estaria relacionada a um desentendimento ocorrido dias antes. Segundo a polícia, o investigado teria sido agredido pela vítima e por outras pessoas durante uma bebedeira em um bar de Aldeias Altas. Agora no g1 Ainda de acordo com a apuração, o suspeito sofreu diversas escoriações pelo corpo e perdeu parcialmente a visão de um dos olhos em consequência das agressões. Para os investigadores, o crime foi motivado por vingança. A Polícia Civil afirma que o homem teria planejado o assassinato com a ajuda da companheira, o que resultou na execução da vítima. As prisões foram realizadas em uma ação conjunta da Delegacia Regional de Timon, por meio da Divisão de Inteligência e Captura (Dicap), do 2o Distrito Policial de Timon e da Delegacia Regional de Caxias. Após os procedimentos legais, os dois foram encaminhados ao sistema prisional e permanecem à disposição da Justiça.",
+        "article_id": "39004b16eb911663e0300079b33e8d0c",
+        "link": "https://www.eluniversal.com.mx/nacion/sheinbaum-refrenda-apoyo-a-madres-buscadoras-siempre-van-a-tener-nuestra-solidaridad-asegura/",
+        "title": "Sheinbaum refrenda apoyo a madres buscadoras; \"siempre van a tener nuestra solidaridad\", asegura",
+        "description": "\"Entendemos su dolor y vamos a estar cerca siempre\", agregó la Presidenta sobre las protestas de colectivos de búsqueda",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
+        "keywords": [
+            "claudia sheinbaum",
+            "personas desaparecidas",
+            "colectivos de busqueda",
+            "madres buscadoras",
+            "solidaridad",
+            "desaparecidos en mexico"
         ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-11 16:43:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:03:43",
-        "image_url": "https://s2-g1.glbimg.com/9mVjPaE-J0Flrs8EmmgWgKjghaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/8/nrYLUCSh6aEdedH0lNRQ/casal.jpg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "蒂蒙（Timon）夫妇因涉嫌在阿尔德亚斯阿尔塔斯（Aldeias Altas）谋杀而被捕；犯罪是为了报复",
-        "description_zh": "蒂蒙（Timon）夫妇因涉嫌在阿尔德亚斯阿尔塔斯（Aldeias Altas）谋杀而被捕；犯罪本来就是报复"
-    },
-    {
-        "article_id": "223f3a66c4ec44c0d35cbd5d04bc4009",
-        "link": "https://lagacetadigital.com.ar/2026/06/11/el-proximo-domingo-14-realizaran-la-expo-emprendedores-en-el-acueducto-vulpiani/",
-        "title": "El próximo domingo 14 realizarán la Expo Emprendedores en el acueducto Vulpiani",
-        "description": "Una nueva edición de Expo Emprendedores se desarrollará este domingo 14 de junio en el acueducto Vulpiani de la ciudad de Juana Koslay. La jornada, organizada por el ministerio de Desarrollo Productivo Sustentable, comenzará a las 15:00 y finalizará a las 19:00. El acceso es libre y gratuito. “En este momento, estamos trabajando en poder [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
         "creator": [
-            "por matías nieto"
+            "el universal"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
-        ],
-        "category": [
-            "tourism",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-11 16:43:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 16:50:08",
-        "image_url": "https://lagacetadigital.com.ar/wp-content/uploads/2026/06/luciana-tuti.jpg",
-        "video_url": null,
-        "source_id": "lagacetadigital",
-        "source_name": "La Gaceta Digital",
-        "source_priority": 2868974,
-        "source_url": "https://lagacetadigital.com.ar",
-        "source_icon": "https://n.bytvi.com/lagacetadigital.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "下周日，14号，他们将在Vulpiani渡槽举办企业家博览会",
-        "description_zh": "新一届的世博会将于 6 月 14 日星期日在胡安娜·科斯莱市的 Vulpiani 渡槽举行。这一天由可持续生产发展部组织，将于下午 3:00 开始。并于晚上 7:00 结束访问是免费且开放的。 “和"
-    },
-    {
-        "article_id": "7049badea79c6b514aefd818287dffef",
-        "link": "https://www.brasil247.com/brasil-sustentavel/bndes-azul-aprovacao-do-planejamento-espacial-marinho-da-regiao-norte-conclui-o-lancamento-do-pem-do-brasil",
-        "title": "BNDES Azul: aprovação do planejamento espacial marinho da Região Norte conclui o lançamento do PEM do Brasil",
-        "description": "Projeto abrange Amapá, Pará e Maranhão e prevê desenvolvimento com preservação ambiental",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "bndes azul",
-            "planejamento espacial marinho",
-            "bndes",
-            "amazônia azul",
-            "economia azul"
-        ],
-        "creator": [
-            "paulo emilio"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-11 16:43:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 20:14:13",
-        "image_url": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260611160636_ef2b5a00-644b-4a2d-8df5-0321090e9db6.png",
-        "video_url": null,
-        "source_id": "brasil247",
-        "source_name": "Brasil 247",
-        "source_priority": 272172,
-        "source_url": "https://www.brasil247.com",
-        "source_icon": "https://n.bytvi.com/brasil247.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "BNDES Azul：北部地区海洋空间规划的批准结束了巴西 PEM 的启动",
-        "description_zh": "项目涵盖阿马帕州、帕拉州和马拉尼昂州，预计在环境保护的同时进行开发"
-    },
-    {
-        "article_id": "505f2bb9d054fc8767a22ba9e2b132e7",
-        "link": "https://diariodocomercio.com.br/economia/crescimento-global-banco-mundial/",
-        "title": "Banco Mundial reduz previsão de crescimento global para 2,5% e alerta para queda a 1,3% por guerra",
-        "description": "Banco Mundial corta projeção de crescimento global para 2026 devido à guerra no Oriente Médio, com riscos de desaceleração ainda maior.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "economia",
-            "banco mundial",
-            "oriente médio",
-            "crescimento global",
-            "previsão econômica"
-        ],
-        "creator": [
-            "reuters"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-11 16:43:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 16:52:11",
-        "image_url": "https://diariodocomercio.com.br/wp-content/uploads/2025/12/banco-mundial.jpeg",
-        "video_url": null,
-        "source_id": "diariodocomercio_br",
-        "source_name": "Diariodocomercio Br",
-        "source_priority": 7463877,
-        "source_url": "https://diariodocomercio.com.br",
-        "source_icon": "https://n.bytvi.com/diariodocomercio_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "世界银行将全球经济增长预测下调至2.5%，并警告称，由于战争，经济增长将降至1.3%",
-        "description_zh": "受中东战争影响，世界银行下调了2026年全球经济增长预期，且存在进一步放缓的风险。"
-    },
-    {
-        "article_id": "797c9fdec65d6b0ca20da593bd8906d5",
-        "link": "https://www.infobae.com/mexico/2026/06/11/asesinan-a-ermelo-rivera-aspirante-de-morena-a-la-alcaldia-de-coyuca-de-benitez-en-guerrero/",
-        "title": "Asesinan a Ermelo Rivera, aspirante de Morena a la alcaldía de Coyuca de Benítez en Guerrero",
-        "description": "El aspirante de Morena fue atacado por hombres armados en la comunidad de El Papayo; otro hombre que lo acompañaba también murió",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mexico-noticias",
-            "morena",
-            "guerrero",
-            "narco en méxico",
-            "mexico-seguridad",
-            "ermelo rivera",
-            "disparos",
-            "asesinato",
-            "coyuca de benítez",
-            "narcotráfico méxico"
-        ],
-        "creator": [
-            "miguel flores"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "united states of america",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-11 16:43:40",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:02:30",
-        "image_url": "https://www.infobae.com/resizer/v2/NXH5TFIJWRGPRAQTORHWYP7RRQ.jpg?auth=9b09bfc65ead606e1d978afb0cee1d04b86a528783ab2a10f8de006414e04ad2&smart=true&width=605&height=409",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "格雷罗州科尤卡德贝尼特斯市长莫雷纳候选人埃尔梅洛·里维拉 (Ermelo Rivera) 被谋杀",
-        "description_zh": "莫雷纳候选人在埃尔帕帕约社区遭到武装人员袭击；陪同他的另一名男子也死亡"
-    },
-    {
-        "article_id": "d103ad830a047acd865e9cf3d38725a6",
-        "link": "https://www.infomoney.com.br/politica/lula-anuncia-avanco-na-cooperacao-energetica-com-o-mexico/",
-        "title": "Lula anuncia avanço na cooperação energética com o México",
-        "description": "De acordo com Lula, os líderes também concordaram em aprofundar a conversa sobre colaboração em outros setores The post Lula anuncia avanço na cooperação energética com o México appeared first on InfoMoney .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "lula",
-            "energia",
-            "méxico",
-            "claudia sheinbaum"
-        ],
-        "creator": [
-            "estadão conteúdo"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-11 16:43:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:07:38",
-        "image_url": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-02T130230Z_1573548033_RC2R1GASYA1I_RTRMADP_3_USA-TRUMP-TARIFFS-BRAZIL.jpg?fit=1354%2C903&quality=70&strip=all",
-        "video_url": null,
-        "source_id": "infomoney",
-        "source_name": "Infomoney",
-        "source_priority": 68762,
-        "source_url": "https://www.infomoney.com.br",
-        "source_icon": "https://n.bytvi.com/infomoney.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "卢拉宣布与墨西哥能源合作取得进展",
-        "description_zh": "卢拉表示，两国领导人还同意深化有关其他领域合作的对话。卢拉宣布与墨西哥能源合作取得进展的消息首先出现在 InfoMoney 上。"
-    },
-    {
-        "article_id": "f6786126dba2d3eec5939750ee28a702",
-        "link": "https://www.diarioestrategia.cl/texto-diario/mostrar/5916215/eau-condena-ataques-iran-bahrein-kuwait-jordania-considera-violacion-flagrante-soberania",
-        "title": "​EAU condena ataques de Irán a Bahréin, Kuwait y Jordania y los considera una \"violación flagrante de soberanía\"",
-        "description": "Las autoridades de Emiratos Árabes Unidos (EAU) han condenado este jueves los nuevos ataques \"hostiles\" de Irán contra Bahréin, Kuwait y Jordania, en la nueva oleada de represalias tras la ofensiva de Estados Unidos contra varios puntos del país centroasiático.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "estrategia on line"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
+            "mexico"
         ],
         "category": [
             "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-11 16:43:50",
+        "pubDate": "2026-06-12 16:21:56",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:11:55",
-        "image_url": "https://www.diarioestrategia.cl/images/showid/8018343",
+        "fetched_at": "2026-06-12 16:31:50",
+        "image_url": "https://www.eluniversal.com.mx/resizer/v2/LQ2MWNNUX5HI7MN5VUWMTKPRUA.jpg?auth=bb6f66bd25d39aa0ac15f788b6449444f140c4423a25298ac437c5a0f151f21d&smart=true&width=1200&height=740",
         "video_url": null,
-        "source_id": "diarioestrategia_cl",
-        "source_name": "Diario Estrategia",
-        "source_priority": 263817,
-        "source_url": "https://www.diarioestrategia.cl",
-        "source_icon": "https://n.bytvi.com/diarioestrategia_cl.png",
+        "source_id": "eluniversal",
+        "source_name": "El Universal",
+        "source_priority": 8884,
+        "source_url": "https://www.eluniversal.com.mx",
+        "source_icon": "https://n.bytvi.com/eluniversal.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "阿联酋谴责伊朗对巴林、科威特和约旦的袭击，并认为这是“公然侵犯主权”",
-        "description_zh": "阿拉伯联合酋长国（阿联酋）当局周四谴责伊朗对巴林、科威特和约旦发动新的“敌对”袭击，这是美国对中亚国家多个地点发动进攻后的新一波报复行动。"
+        "duplicate": false,
+        "title_zh": "希因鲍姆支持寻找母亲；他保证：“我们将永远与他们团结一致”",
+        "description_zh": "总统在谈到搜索组织的抗议时补充道：“我们理解你们的痛苦，我们将永远与你们保持密切联系。”"
     },
     {
-        "article_id": "e50c7666b1db057f0a1f8dca8506206a",
-        "link": "https://www.mural.com.mx/alertan-en-eu-por-posibles-ataques-durante-el-mundial-2026/ar3220772",
-        "title": "Alertan en EU por posibles ataques durante el Mundial 2026",
-        "description": null,
+        "article_id": "e615413ab025f61cb14a1b9e993b3613",
+        "link": "https://laextra.mx/por-errores-le-costara-al-iem-2-miloones-liquidacion-de-partidos-extintos/",
+        "title": "Por Errores le Costará al IEM 2 Millones Liquidación de Partidos Extintos",
+        "description": "El Instituto Electoral de Michoacán (IEM) aprobó este jueves la contratación de un especialista externo para finalizar la liquidación de cuatro partidos políticos que han sido disueltos, decisión que representantes de los partidos asociaron a las deficiencias del modelo interno implementado por el organismo mismo y que podría implicar un costo de hasta un millón [...] Información Directa / Noticias Morelia / Noticias Michoacan",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "liquidación",
+            "iem",
+            "partidos"
+        ],
+        "creator": [
+            "webmaster"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:21:55",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 16:49:48",
+        "image_url": "https://laextra.mx/wp-content/uploads/2026/04/IEM.png",
+        "video_url": null,
+        "source_id": "laextra",
+        "source_name": "Laextra",
+        "source_priority": 4368218,
+        "source_url": "https://laextra.mx",
+        "source_icon": "https://n.bytvi.com/laextra.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "由于错误将花费IEM 200万清算灭绝方",
+        "description_zh": "米却肯州选举协会（IEM）周四批准聘请一名外部专家来完成对四个已解散政党的清算，该党代表将这一决定与内部模式的缺陷联系起来。"
+    },
+    {
+        "article_id": "a628c675002a2a928930de0e5465b373",
+        "link": "https://www.tvazteca.com/aztecadeportes/llego-club-america-crack-precio-no-para-caer-salida-cerca/",
+        "title": "Llegó a Club América como un crack, su precio no para de caer y su salida estaría sentenciada",
+        "description": "Todos los caminos apuntan a que seguiría los pasos de André Jardine",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "américa"
+        ],
+        "creator": [
+            "diego gonzalez | dr"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:21:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 16:34:35",
+        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/1b/1e/bde19d4847318b429634eb616b75/america-raphael-veiga.jpg",
+        "video_url": null,
+        "source_id": "tvazteca",
+        "source_name": "Azteca Deportes",
+        "source_priority": 17594,
+        "source_url": "https://www.tvazteca.com",
+        "source_icon": "https://n.bytvi.com/tvazteca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他像明星一样来到美洲俱乐部，他的身价不会停止下跌，他的离开也注定了",
+        "description_zh": "所有的道路都指向他追随安德烈·贾丁的脚步"
+    },
+    {
+        "article_id": "f11e8bb7e991d2a19ab21981b4aa4735",
+        "link": "https://www.elespectador.com/deportes/seleccion-colombia/susto-en-la-seleccion-de-colombia-antes-del-debut-en-el-mundial-de-la-fifa-2026-jugador-recibio-fuerte-golpe-juan-camilo-cucho-hernandez/",
+        "title": "Susto en la selección de Colombia antes del debut mundialista: jugador recibió fuerte golpe",
+        "description": "A pocos días del estreno contra Uzbekistán, una acción durante la práctica encendió las alarmas en la selección de Colombia.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "colombia mundial de la fifa 2026",
+            "juan camilo ‘cucho’ hernández",
+            "mudial 2026 lesion juan camilo ‘cucho’ hernández",
+            "mundial de la fifa 2026 colombia cucho hernandez",
+            "jugador lesion mundial de la fifa 2026",
+            "cucho hernandez",
+            "mundial de la fifa 2026 seleccion colombia",
+            "mundial de la fifa 2026",
+            "lesion jugador mundial de la fifa 2026",
+            "juan camilo ‘cucho’ hernández lesion",
+            "juan camilo ‘cucho’ hernández lesion mundial 2026",
+            "mundial 2026",
+            "cucho hernandez mundial de la fifa 2026",
+            "mundial de la fifa 2026 lesion cucho hernandes",
+            "jugador colombia mundial de la fifa 2026",
+            "mundial de la fifa 2026 cucho hernandez",
+            "mundial de la fifa 2026 colombia",
+            "mundial de la fifa 2026 jugador",
+            "lesion mundial juan camilo ‘cucho’ hernández",
+            "seleccion colombia mundial de la fifa 2026"
+        ],
+        "creator": [
+            "diego alejandro daza gómez"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:21:35",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 16:44:18",
+        "image_url": "https://www.elespectador.com/resizer/v2/D4EITBIJFRDXXLBPLFKBAPYT2M.jpg?auth=3e05ddf8e21c0f22d93d68b52bbc1951962ca02959808b029c05a8efbffe9fd9&smart=true",
+        "video_url": null,
+        "source_id": "elespectador",
+        "source_name": "Elespectador.com",
+        "source_priority": 589787,
+        "source_url": "http://elespectador.com",
+        "source_icon": "https://n.bytvi.com/elespectador.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "世界杯首秀前哥伦比亚队惊恐：球员受到强烈打击",
+        "description_zh": "在对阵乌兹别克斯坦队的首秀前几天，训练中的一个动作引起了哥伦比亚队的警觉。"
+    },
+    {
+        "article_id": "8fdfe8b2b87fcd7998276f94af872f5f",
+        "link": "https://www.elheraldo.co/noticias/politica/2026/06/12/abelardo-de-la-espriella-suma-respaldos-de-expresidentes-latinoamericanos-de-cara-a-la-segunda-vuelta/",
+        "title": "Abelardo De la Espriella suma respaldos de expresidentes latinoamericanos de cara a la segunda vuelta",
+        "description": "Los exmandatarios Mauricio Macri y Mario Abdo Benítez expresaron públicamente su apoyo a la candidatura presidencial de Abelardo De la Espriella.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "segunda-vuelta-presidencial",
+            "elecciones-presidenciales",
+            "abelardo-de-la-espriella",
+            "latinoamerica",
+            "apoyo-expresidentes"
+        ],
+        "creator": [
+            "redacción elheraldo.co"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:21:35",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 16:35:55",
+        "image_url": "https://www.elheraldo.co/resizer/v2/S4EIFBQZLBA45J7TYXMQN3LEJQ.jpeg?auth=e57caaf46ffdb9f30655592b453fbf74614c35b065c5d86f87c9d4777e313c3e&smart=true&width=961&height=541",
+        "video_url": null,
+        "source_id": "elheraldo",
+        "source_name": "Elheraldo",
+        "source_priority": 38752,
+        "source_url": "https://www.elheraldo.co",
+        "source_icon": "https://n.bytvi.com/elheraldo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "阿韦拉多·德拉埃斯普里埃拉在第二轮投票前获得了前拉丁美洲总统的支持",
+        "description_zh": "前总统毛里西奥·马克里和马里奥·阿卜多·贝尼特斯公开表示支持阿韦拉多·德拉埃斯普里埃拉的总统候选人资格。"
+    },
+    {
+        "article_id": "b21a24e61507aa4ee751dde6ffc29b7f",
+        "link": "https://www.merca20.com/desfile-de-dia-de-muertos-mundialista-2026-a-que-hora-inicia-exactamente-y-por-donde-pasara-ruta/",
+        "title": "Desfile de Día de Muertos mundialista 2026, ¿a qué hora inicia exactamente y por dónde pasará? RUTA",
+        "description": "Como parte de las actividades en torno a la Copa Mundial FIFA 2026, el Gobierno de la Ciudad de México anunció la realización de lo que coloquialmente los usuarios han bautizado como el desfile de Día de Muertos mundialista",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "laura islas"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-12 16:21:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-12 16:36:04",
+        "image_url": "https://files.merca20.com/uploads/2026/06/desfile-mundialista.jpg",
+        "video_url": null,
+        "source_id": "merca20",
+        "source_name": "Mercadotecnia",
+        "source_priority": 42257,
+        "source_url": "https://www.merca20.com",
+        "source_icon": "https://n.bytvi.com/merca20.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "2026 年世界杯亡灵节游行，具体什么时间开始，会经过哪里？路线",
+        "description_zh": "作为围绕 2026 年 FIFA 世界杯活动的一部分，墨西哥城政府宣布举办用户俗称的世界杯亡灵节游行"
+    },
+    {
+        "article_id": "96a6189076d6c0a1ce40806418ec5f25",
+        "link": "https://oem.com.mx/diariodexalapa/local/gobernadora-envia-al-congreso-iniciativa-de-decreto-para-liquidar-deuda-bursatil-de-municipios-30506029",
+        "title": "Gobernadora envía al Congreso iniciativa de decreto para liquidar deuda bursátil de municipios",
+        "description": "En la iniciativa se establece que el gobierno del Estado asumirá el 75% del saldo insoluto de los ayuntamientos y la totalidad de las primas de amortización",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -478,97 +723,57 @@
             "mexico"
         ],
         "category": [
-            "sports"
+            "business",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-11 16:43:50",
+        "pubDate": "2026-06-12 16:21:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:17:04",
-        "image_url": null,
+        "fetched_at": "2026-06-12 21:43:52",
+        "image_url": "https://oem.com.mx/diariodexalapa/img/30506076/1781280738/BASE_LANDSCAPE/1200/image.jpg",
         "video_url": null,
-        "source_id": "mural",
-        "source_name": "Mural",
-        "source_priority": 966477,
-        "source_url": "https://www.mural.com.mx",
-        "source_icon": "https://n.bytvi.com/mural.png",
+        "source_id": "diariodexalapa",
+        "source_name": "Diariodexalapa",
+        "source_priority": 681835,
+        "source_url": "https://www.diariodexalapa.com.mx",
+        "source_icon": "https://n.bytvi.com/diariodexalapa.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "他们警告美国 2026 年世界杯期间可能发生袭击事件",
-        "description_zh": "查看原文了解更多详情"
+        "duplicate": false,
+        "title_zh": "州长向国会发出一项法令倡议，以清算市政当局的股票市场债务",
+        "description_zh": "该倡议规定，州政府将承担各市未付余额的 75% 以及所有摊销保费"
     },
     {
-        "article_id": "47bf6ab280363529b424f576ceba433a",
-        "link": "https://tribunademexico.com/mexico-llega-al-mundial-2026-fuera-del-top-25-en-valor-de-plantillas/",
-        "title": "México llega al Mundial 2026 fuera del Top 25 en valor de plantillas",
-        "description": "La distancia con las principales potencias es considerable. Francia encabeza el ranking con 1,530 millones de euros, seguida por Inglaterra, España y Portugal, mientras que México aparece muy lejos de ese grupo de selecciones dominantes El cargo México llega al Mundial 2026 fuera del Top 25 en valor de plantillas apareció primero en Tribuna de México .",
+        "article_id": "990d2eac2dae59d6db4ff4ead17fb18c",
+        "link": "https://oem.com.mx/elsoldesinaloa/local/entregan-mas-de-1-600-apoyos-a-sobrevivientes-de-cancer-de-mama-y-personas-con-discapacidad-30505838",
+        "title": "Entregan más de 1,600 apoyos a sobrevivientes de cáncer de mama y personas con discapacidad",
+        "description": "La gobernadora encabezó la entrega de 246 prótesis mamarias externas, 650 brasieres especializados y 734 apoyos funcionales y de movilidad",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "méxico"
-        ],
-        "creator": [
-            "carlos puelma"
-        ],
+        "keywords": null,
+        "creator": null,
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-11 16:43:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 16:45:29",
-        "image_url": "https://storage.googleapis.com/tribunamexicov2/2026/06/cp-zayu-mascota-mexico-mundial-2026.jpg.webp",
-        "video_url": null,
-        "source_id": "tribunademexico",
-        "source_name": "Tribuna De México",
-        "source_priority": 697716,
-        "source_url": "https://tribunademexico.com",
-        "source_icon": "https://n.bytvi.com/tribunademexico.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "墨西哥队进入 2026 年世界杯，阵容价值未进入前 25 名",
-        "description_zh": "与主要势力的距离相当大。法国队以15.3亿欧元位居榜首，紧随其后的是英格兰、西班牙和葡萄牙，而墨西哥似乎与这组统治球队相距甚远。墨西哥队未能进入 25 强，进入 2026 年世界杯"
-    },
-    {
-        "article_id": "9723c28cae95c8b41cf660a0d2cf4683",
-        "link": "https://centralnoticias.cl/?p=1463",
-        "title": "Gobierno reactivará gestiones para habilitar ruta entre Corral y La Unión por el Parque Nacional Alerce Costero",
-        "description": "La Delegación Presidencial Regional de Los Ríos confirmó que retomará las acciones destinadas a concretar [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "prensa"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
+            "health",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-11 16:43:42",
+        "pubDate": "2026-06-12 16:21:28",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 16:52:09",
-        "image_url": "https://centralnoticias.cl/wp-content/uploads/2026/06/parque-nacional-alerce-costero.jpg",
+        "fetched_at": "2026-06-12 21:42:18",
+        "image_url": "https://oem.com.mx/elsoldesinaloa/img/30506130/1781281040/BASE_LANDSCAPE/1200/image.jpg",
         "video_url": null,
-        "source_id": "centralnoticias",
-        "source_name": "Central Noticias",
-        "source_priority": 7920663,
-        "source_url": "https://centralnoticias.cl",
-        "source_icon": "https://n.bytvi.com/centralnoticias.png",
+        "source_id": "elsoldesinaloa_mx",
+        "source_name": "Elsoldesinaloa Mx",
+        "source_priority": 439063,
+        "source_url": "https://www.elsoldesinaloa.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldesinaloa_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -576,125 +781,23 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "政府将重新启动努力，开通科拉尔和拉乌尼翁之间穿越阿莱塞科斯特罗国家公园的路线",
-        "description_zh": "洛斯里奥斯地区总统代表团确认，它将恢复旨在实现 [...]"
+        "title_zh": "他们为乳腺癌幸存者和残疾人提供超过 1,600 项支持",
+        "description_zh": "州长牵头交付了 246 件外置乳房假体、650 件专用胸罩和 734 件功能性和活动性支架"
     },
     {
-        "article_id": "797c9fdec65d6b0ca20da593bd8906d5",
-        "link": "https://www.infobae.com/mexico/2026/06/11/asesinan-a-ermelo-rivera-aspirante-de-morena-a-la-alcaldia-de-coyuca-de-benitez-en-guerrero/",
-        "title": "Asesinan a Ermelo Rivera, aspirante de Morena a la alcaldía de Coyuca de Benítez en Guerrero",
-        "description": "El aspirante de Morena fue atacado por hombres armados en la comunidad de El Papayo; otro hombre que lo acompañaba también murió",
+        "article_id": "4aedb3bdd341ccf39b283219cfd6688c",
+        "link": "https://www.quadratin.com.mx/sucesos/nacen-en-edomex-los-nuevos-messi-mbappe-y-cristiano/",
+        "title": "Nacen en Edomex los nuevos Messi, Mbappé y Cristiano",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "mexico-noticias",
-            "morena",
-            "guerrero",
-            "narco en méxico",
-            "mexico-seguridad",
-            "ermelo rivera",
-            "disparos",
-            "asesinato",
-            "coyuca de benítez",
-            "narcotráfico méxico"
+            "cristiano ronaldo",
+            "edomex",
+            "messi",
+            "mbappé"
         ],
         "creator": [
-            "miguel flores"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "united states of america",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-11 16:43:40",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:02:30",
-        "image_url": "https://www.infobae.com/resizer/v2/NXH5TFIJWRGPRAQTORHWYP7RRQ.jpg?auth=9b09bfc65ead606e1d978afb0cee1d04b86a528783ab2a10f8de006414e04ad2&smart=true&width=605&height=409",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "格雷罗州科尤卡德贝尼特斯市长莫雷纳候选人埃尔梅洛·里维拉 (Ermelo Rivera) 被谋杀",
-        "description_zh": "莫雷纳候选人在埃尔帕帕约社区遭到武装人员袭击；陪同他的另一名男子也死亡"
-    },
-    {
-        "article_id": "e5695d38981b5746ba3b0ef9eeba3222",
-        "link": "https://www.infobae.com/teleshow/2026/06/11/marcelo-benedetto-abandono-un-movil-en-vivo-para-sacarse-una-foto-con-shakira-la-voy-a-buscar/",
-        "title": "Marcelo Benedetto abandonó un móvil en vivo para sacarse una foto con Shakira: “La voy a buscar”",
-        "description": "El periodista deportivo se encontraba en Estadio Azteca de la Ciudad de México cuando la cantante colombiana se preparaba para ensayar para la ceremonia inaugural. La reacción que se viralizó de inmediato",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mundial de fútbol",
-            "shakira",
-            "marcelo benedetto",
-            "méxico 2026",
-            "mundial 2026",
-            "copa mundial 2026"
-        ],
-        "creator": [
-            "lucía consiglieri"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "united states of america",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-06-11 16:43:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:02:30",
-        "image_url": "https://www.infobae.com/resizer/v2/R7QJWLQPEBB3HHIE3HTPOUUMOU.png?auth=f10761a12b9f39baa135ad8937d2462dc940a264ccde954e75974af42b13bcf1&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/74Grhelm-HeIT2Id1.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "马塞洛·贝内代托放弃手机与夏奇拉合影：“我要去寻找她”",
-        "description_zh": "当哥伦比亚歌手准备开幕式排练时，这位体育记者正在墨西哥城的阿兹台克体育场。这一反应立即火爆"
-    },
-    {
-        "article_id": "f9e127e545c37d142685da895ee97ad0",
-        "link": "https://eltiempomx.com/noticia/2026/gobierno-de-mexico-entrega-casi-500-boletos-para-el-mundial-2026.html",
-        "title": "Gobierno de México entrega casi 500 boletos para el Mundial 2026",
-        "description": "El Gobierno de México otorgó casi 500 boletos para el Mundial 2026 mediante dinámicas ciudadanas y anunció la continuidad de actividades deportivas comunitarias. La presidenta Claudia Sheinbaum Pardo informó que el Gobierno de México entregó casi 500 boletos para asistir a partidos de la Copa...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "méxico",
-            "el tiempo de monclova",
-            "mundial 2026",
-            "periódico monclova"
-        ],
-        "creator": [
-            "el tiempo de monclova"
+            "josué ramírez/quadratín emx"
         ],
         "language": "spanish",
         "country": [
@@ -705,16 +808,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-11 16:43:28",
+        "pubDate": "2026-06-12 16:21:26",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:17:50",
-        "image_url": "https://eltiempomx.com/monclova/2026/06/6a2ae5ebb0880.jpg",
+        "fetched_at": "2026-06-12 16:42:28",
+        "image_url": "https://www.quadratin.com.mx/www/wp-content/uploads/2026/06/bebe-1160x700.jpeg",
         "video_url": null,
-        "source_id": "eltiempomonclova_mx",
-        "source_name": "El Tiempo - Coahuila México",
-        "source_priority": 1168091,
-        "source_url": "https://eltiempomonclova.mx",
-        "source_icon": "https://n.bytvi.com/eltiempomonclova_mx.png",
+        "source_id": "quadratin",
+        "source_name": "Quadratín",
+        "source_priority": 320781,
+        "source_url": "https://www.quadratin.com.mx",
+        "source_icon": "https://n.bytvi.com/quadratin.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -722,99 +825,46 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "墨西哥政府发放近 500 张 2026 年世界杯门票",
-        "description_zh": "墨西哥政府通过公民倡议发放了近500张2026年世界杯门票，并宣布继续开展社区体育活动。总统克劳迪娅·谢因鲍姆·帕尔多 (Claudia Sheinbaum Pardo) 报告称，墨西哥政府已发放近 500 张杯赛门票"
+        "title_zh": "新梅西、姆巴佩和克里斯蒂亚诺在 Edomex 诞生",
+        "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "9237229018a84b8d3a3f2d633151b35d",
-        "link": "https://www.infobae.com/tecno/2026/06/11/como-usar-starlink-en-mi-vuelo-al-mundial-2026-internet-satelital-gratis/",
-        "title": "Cómo usar Starlink en mi vuelo al Mundial 2026: internet satelital gratis",
-        "description": "El sistema de SpaceX se activa al conectar el dispositivo al WiFi del avión y requiere, en la mayoría de las aerolíneas, el registro previo en su programa de viajero frecuente",
+        "article_id": "e9fa7d1c198fbbb72e4d3ac769295283",
+        "link": "https://www.cnnchile.com/negocios/spacex-debuta-nasdaq-accion-se-dispara-24-primeras-horas/",
+        "title": "SpaceX debuta en el NASDAQ y su acción se dispara cerca de 24% en las primeras horas",
+        "description": "La acción de SpaceX, que debutó bajo el ticker SPCX, cotiza en torno a los US$ 167,96, un alza de 24,41% respecto al precio de oferta de US$ 135 fijado un día antes.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "lo último en tecnología",
-            "starlink",
-            "tecnología-noticias",
-            "mundial 2026",
-            "internet satelital",
-            "avión",
-            "wifi"
+            "negocios",
+            "economía",
+            "spacex",
+            "nasdaq",
+            "estados unidos",
+            "elon musk",
+            "wall street"
         ],
         "creator": [
-            "dylan escobar ruiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "united states of america",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "technology",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-11 16:43:16",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:02:30",
-        "image_url": "https://www.infobae.com/resizer/v2/6EAVFAAJTBFNJCRARPWWASL2GQ.jpg?auth=bcafde4cc7fa56888a8687ee2894c9ba25b75aa1b97c9d790dd8eb34a2f9aae7&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "如何在飞往 2026 年世界杯的航班上使用 Starlink：免费卫星互联网",
-        "description_zh": "SpaceX 系统通过将设备连接到飞机上的 WiFi 来激活，并且大多数航空公司要求事先在其飞行常客计划中注册"
-    },
-    {
-        "article_id": "204cdf0c8ef1b9a01f8f88bba35bda16",
-        "link": "https://www.publimetro.cl/entretenimiento/2026/06/11/me-levanto-el-carino-de-la-gente-natalia-cuevas-se-emociono-al-recordar-un-calido-gesto-del-publico-despues-de-su-accidentado-paso-por-vina/",
-        "title": "“Me levantó el cariño de la gente”: Natalia Cuevas se emocionó al recordar un cálido gesto del público después de su accidentado paso por Viña",
-        "description": "A modo de reflexión de este traspié, la comediante dijo que “uno tiene que aprender de la caída, del fracaso y tiene que levantarse”.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "natalia cuevas festival de viña",
-            "natalia cuevas viña 2001",
-            "natalia cuevas viña del mar",
-            "natalia cuevas festival de viña 2024",
-            "natalia cuevas viña 2024",
-            "natalia cuevas",
-            "natalia cuevas fracaso viña",
-            "natalia cuevas fracaso festival de viña",
-            "natalia cuevas podcast",
-            "natalia cuevas viña"
-        ],
-        "creator": [
-            "martín toro"
+            "héctor basoalto"
         ],
         "language": "spanish",
         "country": [
             "chile"
         ],
         "category": [
-            "entertainment",
+            "business",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-11 16:43:13",
+        "pubDate": "2026-06-12 16:21:24",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:03:08",
-        "image_url": "https://www.publimetro.cl/resizer/v2/NQRXO3SBRRHL3HMCMNNX5JACXU.png?auth=2b70391a60dfdeceadd09e4fe497310208b9cb82f0dbe0381188bb96bd1b124e&smart=true&width=796&height=447",
+        "fetched_at": "2026-06-12 16:43:37",
+        "image_url": "https://media.cnnchile.com/2026/06/spacex-nasdaq-ipo-135-dolares-accion-spcx-2026-e1780588608607-1024x577.jpg",
         "video_url": null,
-        "source_id": "biobiochile",
-        "source_name": "Biobiochile",
-        "source_priority": 13427,
-        "source_url": "https://www.biobiochile.cl",
-        "source_icon": "https://n.bytvi.com/biobiochile.png",
+        "source_id": "cnnchile",
+        "source_name": "Cnn Chile",
+        "source_priority": 575108,
+        "source_url": "https://www.cnnchile.com",
+        "source_icon": "https://n.bytvi.com/cnnchile.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -822,46 +872,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "“人们的热情让我振奋”：娜塔莉亚·奎瓦斯 (Natalia Cuevas) 在维尼亚经历了多事之后，想起公众的热情举动，她深受感动",
-        "description_zh": "作为对这次挫折的反思，这位喜剧演员说，“一个人必须从跌倒、失败中吸取教训，然后才能站起来。”"
-    },
-    {
-        "article_id": "479b0b5001a0742eb1300232cdce0bd4",
-        "link": "https://www.diarioestrategia.cl/texto-diario/mostrar/5916211/dieta-mayor-calidad-asocia-menor-riesgo-muerte-enfermedad-renal-cronica",
-        "title": "Una dieta de mayor calidad se asocia con menor riesgo de muerte en enfermedad renal crónica",
-        "description": "Seguir un patrón alimentario de mayor calidad se asocia con un menor riesgo de muerte en personas con enfermedad renal crónica (ERC), según ha concluido un estudio liderado por investigadoras de la Universidad Autónoma de Madrid (UAM), que enfatizan la importancia que puede tener la dieta en la supervivencia de los pacientes.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "europa press"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-11 16:43:08",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-11 17:11:55",
-        "image_url": "https://www.diarioestrategia.cl/images/1563212",
-        "video_url": null,
-        "source_id": "diarioestrategia_cl",
-        "source_name": "Diario Estrategia",
-        "source_priority": 263817,
-        "source_url": "https://www.diarioestrategia.cl",
-        "source_icon": "https://n.bytvi.com/diarioestrategia_cl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "较高质量的饮食与较低的慢性肾病死亡风险相关",
-        "description_zh": "马德里自治大学 (UAM) 研究人员领导的一项研究表明，遵循较高质量的饮食模式与慢性肾病 (CKD) 患者较低的死亡风险相关，该研究强调了饮食对慢性肾病 (CKD) 患者的重要性。"
+        "title_zh": "SpaceX在纳斯达克上市，上市首小时股价飙升近24%",
+        "description_zh": "SpaceX 的股票以 SPCX 上市，目前交易价格约为 167.96 美元，较前一天设定的 135 美元的发行价上涨 24.41%。"
     }
 ]
