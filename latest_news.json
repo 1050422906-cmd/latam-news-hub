@@ -1,422 +1,37 @@
 [
     {
-        "article_id": "95d00cd15e87deeab573d66114b247ee",
-        "link": "https://www.gazetasp.com.br/gazeta-mais/curiosidades/curacao-hopi-hari-idioma-origem/",
-        "title": "Estreante da Copa do Mundo contribuiu para a criação do Hopi Hari",
-        "description": "Parque de diversões Hopi Hari, em São Paulo O post Estreante da Copa do Mundo contribuiu para a criação do Hopi Hari apareceu primeiro em Gazeta de São Paulo .",
+        "article_id": "303697ac68df172abab385be45813b8d",
+        "link": "https://www.tribunapr.com.br/noticias/parana/parana-reage-a-zema-para-fortalecer-alianca-com-a-familia-bolsonaro/",
+        "title": "Paraná reage a Zema para fortalecer aliança com a família Bolsonaro",
+        "description": "O partido Novo de Santa Catarina e o pré-candidato à Presidência Romeu Zema (Novo-MG) protagonizam mais um capítulo da disputa [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "são paulo",
-            "copa do mundo"
+            "eleições",
+            "flávio bolsonaro",
+            "romeu zema"
         ],
         "creator": [
-            "leonardo sandre"
+            "rafael fantin - gazeta do povo"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:50:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 18:16:22",
-        "image_url": "https://cdn.gazetasp.com.br/uploads/2026/06/parque-hopi-hari-site.jpg",
-        "video_url": null,
-        "source_id": "gazetasp_br",
-        "source_name": "Gazetasp Br",
-        "source_priority": 676902,
-        "source_url": "https://www.gazetasp.com.br",
-        "source_icon": "https://n.bytvi.com/gazetasp_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "世界杯首秀为霍皮哈里的创建做出了贡献",
-        "description_zh": "圣保罗的霍皮哈里游乐园这位世界杯后首次亮相的霍皮哈里游乐园首次出现在圣保罗公报上。"
-    },
-    {
-        "article_id": "b688edd35ee83a7196892f0bc6681a5a",
-        "link": "https://www.lagaceta.com.ar/nota/1141388/deportes/argentina-vs-argelia-hoy-en-vivo-hora-juega-lionel-messi-mundial-2026-formaciones-donde-ver.html",
-        "title": "Argentina vs Argelia hoy, EN VIVO: a qué hora juega Lionel Messi en el Mundial 2026, formaciones y dónde ver",
-        "description": "Acá, toda la previa y el minuto a minuto con las jugadas más importantes del partido y los goles.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "lautaro martínez",
-            "alexis mac allister",
-            "en vivo",
-            "178142",
-            "lionel messi",
-            "kansas city",
-            "nahuel molina",
-            "lisandro martínez",
-            "argelia",
-            "emiliano “dibu” martínez",
-            "lionel scaloni",
-            "thiago almada",
-            "mundial 2026",
-            "argentina vs argelia",
-            "estados unidos",
-            "rodrigo de paul"
-        ],
-        "creator": [
-            "la gaceta"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-06-16 16:50:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 20:06:24",
-        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/06/16/entrenamiento-scaloneta-arranca-defensa-titulo-obtenido-qatar-1141388-164426.jpg",
-        "video_url": null,
-        "source_id": "lagaceta",
-        "source_name": "La Gaceta",
-        "source_priority": 41850,
-        "source_url": "http://www.lagaceta.com.ar",
-        "source_icon": "https://n.bytvi.com/lagaceta.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿根廷 vs 阿尔及利亚今天直播：2026 年世界杯比赛时间、阵型和观看地点",
-        "description_zh": "在这里，您可以看到整个预览以及每分钟的比赛最重要的比赛和进球。"
-    },
-    {
-        "article_id": "db54c988b69b486b722c96970e35ceb5",
-        "link": "https://www.mdzol.com/policiales/claudio-barrelier-se-nego-declarar-el-femicidio-agostina-vega-y-lo-imputaron-homicidio-triplemente-calificado-n1544680",
-        "title": "Claudio Barrelier se negó a declarar por el femicidio de Agostina Vega y lo imputaron por homicidio triplemente calificado",
-        "description": "Claudio Barrelier negó los cargos y ejerció su derecho constitucional de abstenerse a declarar frente al fiscal Raúl Garzón.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "agostina vega",
-            "femicidio",
-            "claudio barrelier"
-        ],
-        "creator": [
-            "mdz policiales"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:50:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:01:01",
-        "image_url": "https://media.mdzol.com/p/4f5d84fbb52815e400ea07b0e1a0a7cf/adjuntos/373/imagenes/001/937/0001937121/1200x675/smart/claudio-gabriel-barrelier-desaparicion-agostina-cordoba.png",
-        "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://n.bytvi.com/mdzol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "克劳迪奥·巴雷利尔 (Claudio Barrelier) 拒绝为杀害阿戈斯蒂娜·维加 (Agostina Vega) 的案件作证，并被指控犯有三重杀人罪",
-        "description_zh": "克劳迪奥·巴雷利尔否认了这些指控，并行使其宪法权利，避免在检察官劳尔·加尔松面前作证。"
-    },
-    {
-        "article_id": "f30575a745287bee3b77130f4bbd13e3",
-        "link": "https://www.losandes.com.ar/mundo/hallan-dos-bustos-marmol-del-siglo-iii-el-descubrimiento-israel-que-parece-una-serie-netflix-n5994969",
-        "title": "Hallan dos bustos de mármol del siglo III: el descubrimiento en Israel que parece una serie de Netflix",
-        "description": "Un equipo de arqueólogos halló dos bustos del siglo III ocultos en un pozo de vino. El enigma de por qué fueron enterrados boca abajo ya es tendencia mundial.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "netflix",
-            "descubrimiento",
-            "israel",
-            "arqueología"
-        ],
-        "creator": [
-            "cristian reta"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:50:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:09:00",
-        "image_url": "https://media.losandes.com.ar/p/8a72e166e0eafc9e8515b330b48690f8/adjuntos/368/imagenes/100/721/0100721943/1200x675/smart/captura-pantalla-2026-06-16-120553.png",
-        "video_url": null,
-        "source_id": "losandes",
-        "source_name": "Los Andes",
-        "source_priority": 114641,
-        "source_url": "https://www.losandes.com.ar",
-        "source_icon": "https://n.bytvi.com/losandes.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "发现两尊 3 世纪的大理石半身像：以色列的发现，看起来像 Netflix 连续剧",
-        "description_zh": "一组考古学家在一口酒井里发现了两尊三世纪的半身像。为何它们被倒埋的谜团已经成为全球趋势。"
-    },
-    {
-        "article_id": "34b8646699b430b7ba48585527a69233",
-        "link": "https://www.terra.com.br/vida-e-estilo/nova-linha-match-promete-cabelos-hidratados-e-protegidos-por-3-dias,255e5e39d5e30b919bdf006e33236149yghxuh9u.html",
-        "title": "Nova linha Match promete cabelos hidratados e protegidos por 3 dias",
-        "description": "A hidratação dos cabelos ficou mais prática com o lançamento da nova linha Match Escudo de ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "flavia magalhães"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:49:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:04:48",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/06/16/1893075704-mceclip0-1781617859.jpg",
-        "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "新的 Match 系列承诺为头发提供 3 天的水润和保护",
-        "description_zh": "随着新的 Match Escudo de 的推出，头发保湿变得更加实用。"
-    },
-    {
-        "article_id": "c117b8009c3dc833a3e1ce3eca7265a1",
-        "link": "https://ovicio.com.br/hexed-nova-animacao-da-disney-ganha-titulo-no-brasil-e-primeiro-trailer-assista/",
-        "title": "Hexed: Nova animação da Disney ganha título no Brasil e primeiro trailer; Assista",
-        "description": "Longa animado tem Hailee Steinfeld (Gavião Arqueiro) e Rashida Jones (The Office) nos papéis principais O post Hexed: Nova animação da Disney ganha título no Brasil e primeiro trailer; Assista apareceu primeiro em O Vício .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "rashida jones",
-            "disney",
-            "enfeitiçadas: bem-vindos a hexe",
-            "hailee steinfeld",
-            "hexed"
-        ],
-        "creator": [
-            "ramon vitor"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-06-16 16:49:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 19:48:45",
-        "image_url": "https://ovicio.com.br/wp-content/uploads/2026/06/20260616-image-4.png",
-        "video_url": "https://www.youtube.com/watch?v=sqwnUBDPGDc",
-        "source_id": "ovicio_br",
-        "source_name": "O Vício",
-        "source_priority": 95526,
-        "source_url": "https://ovicio.com.br",
-        "source_icon": "https://n.bytvi.com/ovicio_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Hexed：新的迪士尼动画在巴西获得标题和第一部预告片；手表",
-        "description_zh": "动画长片由海莉·斯坦菲尔德 (Gavião Arqueiro) 和拉什达·琼斯 (Rashida Jones) (《办公室》) 担任主要角色。手表首先出现在《成瘾》中。"
-    },
-    {
-        "article_id": "3eb366d5f088790f516daefd387d0863",
-        "link": "https://www.terra.com.br/diversao/gente/vozinha-conquista-8-milhoes-de-seguidores-apos-estreia-na-copa,32134602b23c523ba27212f1b395d323guy0w5mj.html",
-        "title": "Vozinha conquista 8 milhões de seguidores após estreia na Copa",
-        "description": "A Copa do Mundo de 2026 ganhou um personagem inesperado nas redes sociais: o goleiro Vozinha. O ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "kevilin alves"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:49:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:04:48",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/06/16/1749946949-vozinha.jpg",
-        "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "沃齐尼亚首次亮相世界杯后就获得了 800 万粉丝",
-        "description_zh": "2026 年世界杯在社交媒体上出现了一位意想不到的人物：门将沃齐尼亚。这..."
-    },
-    {
-        "article_id": "b81931157e8bc1dab9dc7162230d4a4e",
-        "link": "https://www.infomoney.com.br/politica/arma-apreendida-pode-levar-jair-bolsonaro-de-volta-a-papudinha/",
-        "title": "Arma apreendida pode levar Jair Bolsonaro de volta à Papudinha",
-        "description": "Ministro do STF quer saber por que ex-presidente mantinha pistola em casa durante prisão domiciliar e se regras de fiscalização foram descumpridas The post Arma apreendida pode levar Jair Bolsonaro de volta à Papudinha appeared first on InfoMoney .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "jair bolsonaro",
-            "prisão",
-            "alexandre de moraes"
-        ],
-        "creator": [
-            "marina verenicz"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:49:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:07:17",
-        "image_url": "https://www.infomoney.com.br/wp-content/uploads/2025/06/jair-bolsonaro-stf-golpe-alexandre-moraes-e1749576821747.jpg?fit=1890%2C1200&quality=70&strip=all",
-        "video_url": null,
-        "source_id": "infomoney",
-        "source_name": "Infomoney",
-        "source_priority": 68762,
-        "source_url": "https://www.infomoney.com.br",
-        "source_icon": "https://n.bytvi.com/infomoney.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "查获的武器可能会将雅伊尔·博尔索纳罗带回帕普迪尼亚",
-        "description_zh": "STF部长想知道为什么前总统在软禁期间在家中保留一把手枪，以及是否违反了检查规则。被扣押的武器可以将雅伊尔·博尔索纳罗带回帕普迪尼亚的帖子首先出现在 InfoMoney 上。"
-    },
-    {
-        "article_id": "657438cda94a18aece62361788d5bf8c",
-        "link": "https://www.terra.com.br/esportes/neymar-faz-1-treino-em-campo-apos-convocacao-mas-ainda-sem-bola,88ebc3ff20aceb0eab1f1b4b02216b5bep40yil8.html",
-        "title": "Neymar faz 1o treino em campo após convocação, mas ainda sem bola",
-        "description": "O craque brasileiro Neymar foi a campo pela primeira vez desde a convocação da seleção para a ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "ansa"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:49:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:34:41",
-        "image_url": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-        "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "内马尔在被征召后进行了第一次上场训练，但仍然没有球",
-        "description_zh": "巴西球星内马尔自入选国家队以来首次登上赛场……"
-    },
-    {
-        "article_id": "80f8261fbc0f383af1624412a736a3a0",
-        "link": "https://bolivarense.com/fin-mayores-crisis-geopoliticas-recientes/",
-        "title": "Fin a una de las mayores crisis geopolíticas recientes: Irán declara terminada la guerra con EE.UU. e Israel, y se estabiliza paso por el estrecho de Ormuz",
-        "description": "El Gobierno de Irán anunció este martes 16 de junio el fin oficial de la guerra con Estados Unidos e Israel, un hecho que marca un punto de inflexión en uno de los conflictos más complejos y tensos de los últimos años en Medio Oriente. La decisión fue confirmada por el ministro de Exteriores iraní, Abbas Araqchi, quien aseguró que las hostilidades concluyeron formalmente luego de culminar la primera fase de un memorando de entendimiento negociado durante los últimos meses. Según las autoridades iraníes, el acuerdo fue posible gracias a un proceso de diálogo respaldado por mediadores internacionales, entre ellos Qatar y Pakistán, y contempla el cese de operaciones militares en todos los frentes vinculados al conflicto. El anuncio se produce después de semanas de expectativa en torno a las negociaciones que buscaban poner fin a una confrontación que tuvo repercusiones políticas, económicas y de seguridad en toda la región. Araqchi afirmó que la guerra terminó oficialmente el lunes y subrayó que el entendimiento alcanzado establece nuevas bases para la relación entre las partes involucradas. Asimismo, advirtió que cualquier acción militar que contradiga lo pactado podría interpretarse como una violación del acuerdo. Un acuerdo que abre una nueva etapa diplomática De acuerdo con la información divulgada por medios iraníes y agencias internacionales, el memorando incluye medidas destinadas a reducir las tensiones y estabilizar la región. Entre ellas figuran el restablecimiento de la seguridad en rutas estratégicas de navegación, especialmente en el estrecho de Ormuz, así como mecanismos relacionados con activos financieros iraníes que permanecían congelados en el exterior. El estrecho de Ormuz es considerado uno de los corredores marítimos más importantes del mundo para el transporte de petróleo y gas. Por esta razón, cualquier alteración en su funcionamiento suele tener efectos directos sobre los mercados energéticos internacionales y la economía global. La reapertura y normalización del tránsito marítimo en esta zona fue uno de los puntos centrales de las negociaciones. El acuerdo también contempla una segunda fase de conversaciones que se desarrollará durante los próximos 60 días. En esta etapa se espera abordar asuntos de especial sensibilidad, como el programa nuclear iraní, las sanciones económicas impuestas por Occidente y los mecanismos de supervisión sobre el enriquecimiento de uranio. Estos temas han sido históricamente algunos de los principales puntos de fricción entre Teherán y Washington. La firma definitiva del documento está prevista para los próximos días en Ginebra, Suiza. La delegación estadounidense será encabezada por el vicepresidente JD Vance, mientras que la representación iraní estará liderada por Mohamed Baqer Qalibaf, presidente del Parlamento de ese país. Un conflicto que dejó huella en Medio Oriente Las negociaciones llegan después de varios meses de enfrentamientos que elevaron la tensión en Medio Oriente y generaron preocupación en la comunidad internacional. El conflicto provocó alteraciones en las rutas comerciales, afectó los mercados energéticos y aumentó los temores sobre una posible escalada regional de mayores proporciones. Tras el anuncio, altos mandos militares iraníes destacaron que la salida diplomática fue posible luego de que, según su visión, los objetivos de sus adversarios no lograran doblegar al país. El jefe del Ejército iraní, Amir Hatami, sostuvo que la soberanía nacional se mantuvo intacta y que las negociaciones permitieron abrir una nueva etapa para resolver las diferencias por la vía política. A pesar del optimismo generado por el anuncio, diversos analistas consideran que aún quedan desafíos importantes por resolver. Las conversaciones sobre el programa nuclear iraní y las sanciones económicas serán determinantes para establecer si el entendimiento actual puede transformarse en una paz duradera o si se trata únicamente de una tregua temporal. Por ahora, el anuncio representa uno de los movimientos geopolíticos más relevantes del año y podría modificar significativamente el equilibrio de poder en Medio Oriente. La atención internacional permanece centrada en las próximas negociaciones y en el cumplimiento de los compromisos asumidos por las partes, mientras la región observa con expectativa la posibilidad de una nueva etapa marcada por la diplomacia en lugar de la confrontación armada. La entrada Fin a una de las mayores crisis geopolíticas recientes: Irán declara terminada la guerra con EE.UU. e Israel, y se estabiliza paso por el estrecho de Ormuz se publicó primero en El Bolivarense .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "geopolíticas",
-            "irán",
-            "ormuz"
-        ],
-        "creator": [
-            "miguel bula"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
         ],
         "category": [
             "politics",
             "top"
         ],
-        "datatype": "blog",
-        "pubDate": "2026-06-16 16:49:42",
+        "datatype": "pressrelease",
+        "pubDate": "2026-06-17 16:43:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:01:52",
-        "image_url": "https://bolivarense.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-16-at-11.29.03-AM.jpeg",
+        "fetched_at": "2026-06-17 20:17:26",
+        "image_url": "https://www.tribunapr.com.br/wp-content/uploads/2026/06/17163931/zema-flavio-reproducao-instagram.jpg",
         "video_url": null,
-        "source_id": "bolivarense",
-        "source_name": "El Bolivarense",
-        "source_priority": 2577,
-        "source_url": "https://bolivarense.com",
-        "source_icon": "https://n.bytvi.com/bolivarense.png",
+        "source_id": "tribunapr_br",
+        "source_name": "Tribuna Pr",
+        "source_priority": 1000827,
+        "source_url": "https://www.tribunapr.com.br",
+        "source_icon": "https://n.bytvi.com/tribunapr_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -424,42 +39,338 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "近期最大的地缘政治危机之一结束：伊朗与美国和以色列宣战结束，霍尔木兹海峡通道稳定",
-        "description_zh": "6 月 16 日星期二，伊朗政府宣布正式结束与美国和以色列的战争，这一事实标志着中东近年来最复杂、最紧张的冲突之一的转折点。该决定得到了外交部长的确认"
+        "title_zh": "巴拉那州回应泽马加强与博尔索纳罗家族的联盟",
+        "description_zh": "新圣卡塔琳娜党和总统候选人罗梅乌·泽马 (Novo-MG) 成为这场争端的又一章 [...]"
     },
     {
-        "article_id": "50b0b94512610951bd194db73ede14c0",
-        "link": "https://heraldodemexico.com.mx/mundo/2026/6/16/esa-cuerda-estaba-maldita-madre-de-maria-eduarda-rompe-el-silencio-tras-accidente-de-su-hija-en-bungee-833214.html",
-        "title": "\"Esa cuerda estaba maldita\": madre de María Eduarda rompe el silencio tras accidente de su hija en bungee",
-        "description": "Valdenia Rodrigues, madre de Maria Eduarda, publicó unas palabras de despedida después del funeral realizado en Sao Paulo",
+        "article_id": "bbaba814006900c8993bbb3578c6c8e1",
+        "link": "https://oantagonista.com.br/ladooa/entretenimento/confirmado-pela-lei-do-condominio-os-outros-usos-permitidos-para-a-sua-vaga-de-garagem/",
+        "title": "Confirmado pela Lei do Condomínio: os outros usos permitidos para a sua vaga de garagem",
+        "description": "A vaga de garagem pode servir para mais do que estacionar, mas não vira depósito sem regras. Pela lei espanhola, o proprietário pode aproveitar seu espaço privativo, desde que não invada áreas comuns, afete a segurança ou prejudique vizinhos. Por que a vaga de garagem gera tanta dúvida? A dúvida aparece porque a garagem parece... The post Confirmado pela Lei do Condomínio: os outros usos permitidos para a sua vaga de garagem appeared first on O Antagonista .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:43:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 16:51:24",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "oantagonista",
+        "source_name": "O Antagonista",
+        "source_priority": 2104208,
+        "source_url": "https://www.oantagonista.com",
+        "source_icon": "https://n.bytvi.com/oantagonista.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "公寓法确认的停车位的其他允许用途",
+        "description_zh": "车库空间不仅可以用于停车，但如果没有规则，它不会成为存储空间。根据西班牙法律，业主可以享受自己的私人空间，只要不侵犯公共区域、影响安全或伤害邻居。停车位为何引起如此多的质疑？阿杜"
+    },
+    {
+        "article_id": "e472e70e0b69e10384bdc6c8ea4e11f2",
+        "link": "https://www.estadao.com.br/sao-paulo/tarcisio-pede-desculpas-por-roubos-de-celular-em-sp-e-admite-falha-na-seguranca-deixa-trauma-npr/",
+        "title": "Tarcísio pede desculpas por roubos de celular em SP e admite falha na segurança: ‘Deixa trauma’",
+        "description": "De acordo com o chefe do Executivo paulista, esse tipo de roubo ‘é o crime que aborrece e que derruba a sensação de segurança’. Estado registra mais de 27 mil ocorrências em 2026",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "rayanderson guerra"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:43:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 17:34:02",
+        "image_url": "https://www.estadao.com.br/resizer/v2/FO4YEDR3YZDZNOALT6HF5HGS3Q.jpg?auth=a88db8e0d72696b18ef1912f527986c459e75cded0d0f75c6aa5e80c709fcc3d&smart=true&width=2048&height=1365",
+        "video_url": null,
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "塔尔西西奥为圣彼得堡手机失窃事件道歉并承认安全失败：“留下了创伤”",
+        "description_zh": "圣保罗行政长官表示，此类盗窃“是一种令人烦恼且破坏安全感的犯罪行为”。州记录到 2026 年将发生超过 27,000 起事件"
+    },
+    {
+        "article_id": "32a39c411c11c1a56770c9dc453ac546",
+        "link": "https://www.dgabc.com.br/Noticia/4329654/trump-cita-preocupacao-de-catastrofe-economica-por-continuidade-da-guerra-contra-ira",
+        "title": "Trump cita preocupação de 'catástrofe econômica' por continuidade da guerra contra Irã",
+        "description": "Trump cita preocupação de 'catástrofe econômica' por continuidade da guerra contra Irã",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "maría eduarda",
-            "brasil",
-            "bungee"
+            "esportes",
+            "on line",
+            "economia",
+            "política",
+            "mauá",
+            "internacional",
+            "noticia",
+            "diarinho",
+            "dgabc",
+            "nacional",
+            "d+",
+            "efeitos econômicos",
+            "notícias",
+            "portal",
+            "são bernardo",
+            "turismo",
+            "irã",
+            "diário",
+            "eua",
+            "diadema"
         ],
         "creator": [
-            "luz elena morales"
+            "agência estado"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:43:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 17:20:30",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://n.bytvi.com/dgabc.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "特朗普称，如果对伊朗的战争继续下去，将引发“经济灾难”",
+        "description_zh": "特朗普称，如果对伊朗的战争继续下去，将引发“经济灾难”"
+    },
+    {
+        "article_id": "62c08a6c9e80fcc39faf66d0aabafee7",
+        "link": "https://tribunadepetropolis.com.br/noticias/trump-cita-preocupacao-de-catastrofe-economica-por-continuidade-da-guerra-contra-ira/",
+        "title": "Trump cita preocupação de ‘catástrofe econômica’ por continuidade da guerra contra Irã",
+        "description": "O presidente dos Estados Unidos, Donald Trump, afirmou, em coletiva de imprensa nesta quarta-feira, 17, que não gostaria de ver uma “catástrofe econômica” acontecer por conta de um conflito prolongado contra o Irã. Na ocasião, ele apontou a sensibilidade dos mercados acionários ao noticiário geopolítico. “Os mercados acionários caíam muito toda vez que a gente [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "por isabella pugliese vellani; estadão"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:43:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 17:15:52",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "video_url": null,
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "特朗普称对伊朗持续战争造成“经济灾难”的担忧",
+        "description_zh": "美国总统唐纳德·特朗普17日周三在新闻发布会上表示，他不希望看到因与伊朗的长期冲突而发生“经济灾难”。当时，他指出股市对消息的敏感性"
+    },
+    {
+        "article_id": "4c2d8756938233d98e45e07b66f3fb41",
+        "link": "https://www.elchubut.com.ar/trelew/2026-6-17-13-43-0-la-super-feria-de-emprendedores-celebra-una-edicion-especial-por-el-dia-del-padre-en-trelew",
+        "title": "La Súper Feria de Emprendedores celebra una edición especial por el Día del Padre en Trelew",
+        "description": "La propuesta se realizará el sábado 21 y domingo 22 de junio en el Gimnasio de la Escuela 712, con entrada libre y gratuita.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "día del padre."
+        ],
+        "creator": [
+            "el chubut"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "argentina"
+        ],
+        "category": [
+            "lifestyle",
+            "education",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:43:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 17:09:57",
+        "image_url": "https://pxbcdn.elchubut.com.ar/chubut/062026/1781714634071.jpg?cw=1170&ch=645",
+        "video_url": null,
+        "source_id": "elchubut_ar",
+        "source_name": "El Chubut",
+        "source_priority": 110150,
+        "source_url": "https://www.elchubut.com.ar",
+        "source_icon": "https://n.bytvi.com/elchubut_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "超级企业家博览会在特雷利乌庆祝父亲节特别版",
+        "description_zh": "该提案将于6月21日星期六和6月22日星期日在712学校体育馆举行，免费入场。"
+    },
+    {
+        "article_id": "5b44dffc71778f60679fc220f8a892f1",
+        "link": "https://www.correiodopovo.com.br/esportes/copadomundo/mbappe-busca-quebrar-recordes-e-fazer-historia-na-copa-do-mundo-1.1723058",
+        "title": "Mbappé busca quebrar recordes e fazer história na Copa do Mundo",
+        "description": "Craque francês marca duas vezes e se aproxima de marcas históricas na artilharia da Copa do Mundo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "franca",
+            "futebol",
+            "esportes",
+            "copa do mundo",
+            "mbappe"
+        ],
+        "creator": [
+            "afp"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:42:55",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 22:10:42",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "correiodopovo",
+        "source_name": "Correio Do Povo",
+        "source_priority": 139621,
+        "source_url": "https://www.correiodopovo.com.br",
+        "source_icon": "https://n.bytvi.com/correiodopovo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "姆巴佩寻求在世界杯上打破纪录并创造历史",
+        "description_zh": "法国球星梅开二度，逼近世界杯炮火历史记录"
+    },
+    {
+        "article_id": "87ded0469ad5717b8456e43b813818ee",
+        "link": "https://www.nsctotal.com.br/noticias/magnesio-em-capsula-virou-febre-mas-voce-precisa-mesmo-tomar-o-que-diz-a-ciencia-e-a-anvisa",
+        "title": "Magnésio em cápsula virou febre, mas você precisa mesmo tomar? O que diz a ciência (e a Anvisa)",
+        "description": "Você abriu as redes sociais nas últimas semanas e foi recebido por um anúncio (ou cinco) sobre magnésio em cápsula. Bisglicinato, dimalato, citrato,",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "vida e saúde"
+        ],
+        "creator": [
+            "redação hora"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "health",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:42:52",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 17:03:55",
+        "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2026/06/magnesio-bisglicinato-magnesio-citrato-magnesio-treonato-Anvisa-deficiencia-de-magnesio-sintomas-suplementacao-magnesio-riscos-Anvisa-magnesio-alegacoes.jpg",
+        "video_url": null,
+        "source_id": "nsctotal",
+        "source_name": "Nsc Total",
+        "source_priority": 14276,
+        "source_url": "https://www.nsctotal.com.br",
+        "source_icon": "https://n.bytvi.com/nsctotal.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "胶囊形式的镁已风靡一时，但您真的需要服用吗？科学（和 Anvisa）所说的",
+        "description_zh": "过去几周，您打开社交媒体，看到一则（或五则）关于镁胶囊的广告。双甘氨酸盐、二苹果酸盐、柠檬酸盐、"
+    },
+    {
+        "article_id": "79f8a5387339d7ed2dc7c60d3f804d71",
+        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/17/jovem-que-morreu-ao-ser-lancada-sem-corda-usava-bom-humor-para-mostrar-trabalho-na-academia-assista.ghtml",
+        "title": "Jovem que morreu ao ser lançada sem corda usava bom humor para mostrar trabalho na academia; assista",
+        "description": "Mulher que morreu após ser lançada sem corda em salto fazia vídeos divertidos no trabalho Maria Eduarda Rodrigues de Freitas, a jovem que morreu após ser lançada sem corda de segurança durante um salto de rope jump em Limeira (SP) no sábado (13), usava bom humor em vídeos divulgados nas redes sociais para mostrar o trabalho na academia. As imagens, publicadas pelo estabelecimento em Jandira (SP), mostram a jovem brincando sobre o chulé dos clientes, fazendo uma coreografia e um vídeo sobre ser recrutada pela equipe de marketing — assista acima. Já no perfil próprio, a jovem de 21 anos publicava fotos de atividades ao ar livre e contato com ambientes de natureza. A descrição do perfil cita formações em educação física e gestão esportiva e torcida para o Santos Futebol Clube. Clique aqui para seguir o canal do g1 Piracicaba no WhatsApp A tragédia ocorreu na Ponte do Esqueleto, localizada na divisa entre Limeira e Cordeirópolis (SP). A estrutura ferroviária desativada possui cerca de 40 metros de altura e 350 metros de extensão. Segundo a Polícia Civil, o equipamento que deveria estar preso ao corpo da vítima para segurar a queda foi esquecido e ficou enrolado no chão da estrutura de salto. A jovem teve a morte constatada no local. LEIA TAMBÉM: Morte de jovem lançada sem corda em rope jump repercute na imprensa internacional Jovem lançada sem corda em rope jump: o que se sabe sobre tragédia Entenda o que é rope jumping Prefeitura vai processar Governo Federal por omissão em ponte Jovem fez post antes do acidente: 'Quem foi o doido que deixou eu vir pular de uma ponte?' 'Era para ser eu', diz homem que saltaria antes de jovem lançada sem corda Jovem que morreu ao ser lançada sem corda usava bom humor para mostrar trabalho na academia Reprodução/Redes Sociais Tragédia em Limeira Mulher morre após ser jogada de rope jump sem corda no interior de SP O vídeo que circula nas redes sociais mostra Maria Eduarda Rodrigues de Freitas sendo carregada por três funcionários até a beirada da Ponte do Esqueleto. Ela é impulsionada para frente e, logo após a queda, ouvem-se gritos de desespero dizendo \"a corda\" e \"gente, a corda\" — assista acima. A jovem caiu de uma altura de 40 metros e teve a morte constatada no local. Segundo a Polícia Civil, o equipamento que deveria estar preso ao corpo da vítima para segurar a queda foi esquecido e ficou enrolado no chão da estrutura de salto. Uma testemunha relatou que os instrutores não realizaram a checagem de segurança no momento do salto da jovem. Inicialmente, seis pessoas foram detidas, mas apenas três instrutores seguem presos. Os suspeitos são Luis Felipe Feliciano Egoroff, de 32 anos; Vitor de Freitas Gonçalves, de 27 anos; e Maicon Fernandes Cintra, de 42 anos. No domingo (14), a Justiça converteu em preventiva a prisão em flagrante deles. O grupo responsável pela atividade não possuía empresa formal, segundo a polícia. A delegada responsável pelo caso afirmou que os homens se mostraram desnorteados e alegaram não se recordar de quem era a obrigação de colocar a corda, nem por que a fiscalização final não foi feita antes de empurrarem a vítima. O advogado de defesa, Rafael Gomes dos Santos, afirmou que os três clientes são apaixonados pelo esporte, atuam há anos e nunca tiveram problemas. Ele classificou o caso como uma \"triste fatalidade\". Santos ressaltou, ainda, que o rope jump não é regulamentado, mas também não é proibido, e que eventos semelhantes já foram realizados na Ponte do Esqueleto sem intervenção do poder público. Infográfico - Jovem de 21 anos morre após ser lançada sem corda de ponte de 40 metros em Limeira Arte/g1 VÍDEOS: Tudo sobre Piracicaba e região Veja mais notícias sobre a região na página do g1 Piracicaba.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
         ],
         "category": [
             "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-16 16:50:00",
+        "pubDate": "2026-06-17 16:42:33",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:08:02",
-        "image_url": "https://heraldodemexico.com.mx/u/fotografias/m/2026/6/16/f1280x720-1296460_1428135_5050.jpg",
+        "fetched_at": "2026-06-17 17:05:26",
+        "image_url": "https://s2-g1.glbimg.com/Q4Mz5QgsSWS5j_QLzsrRNd8sQSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/m/fcm6YrTBSb5qbRXAVwPA/jovem-que-morreu-ao-ser-lancada-sem-corda-usava-bom-humor-para-mostrar-trabalho-na-academia-assista-1-.jpg",
         "video_url": null,
-        "source_id": "heraldodemexico",
-        "source_name": "El Heraldo De Mexico",
-        "source_priority": 21317,
-        "source_url": "https://heraldodemexico.com.mx",
-        "source_icon": "https://n.bytvi.com/heraldodemexico.png",
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -467,42 +378,86 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "“那根绳子被诅咒了”：玛丽亚·爱德华达的母亲在女儿蹦极事故后打破了沉默",
-        "description_zh": "玛丽亚·爱德华达的母亲瓦尔德尼亚·罗德里格斯在圣保罗举行葬礼后发表了一些告别辞"
+        "title_zh": "被无绳子抛掷身亡的年轻人用幽默的方式展示了他在健身房的表现；手表",
+        "description_zh": "周六（13日）在利梅拉（SP）跳绳时被抛掷而死的年轻女子在没有安全绳的情况下被抛掷身亡，她在工作中制作了有趣的视频，她在网上发布的视频中表现出了幽默感。"
     },
     {
-        "article_id": "60ce88b64f5e0d7fdf7374d272f1043a",
-        "link": "https://heraldodemexico.com.mx/nacional/2026/6/16/granizo-tormentas-calor-extremo-el-combo-climatico-que-amenaza-estos-municipios-de-nuevo-leon-el-17-de-junio-833224.html",
-        "title": "Granizo, tormentas y calor extremo: el combo climático que amenaza a estos municipios de Nuevo León el 17 de junio",
-        "description": "Desde inundaciones hasta temperaturas extremas: el preocupante reporte del clima para este miércoles en el estado. Se activó una nueva alerta meteorológica que cambiará el panorama mañana",
+        "article_id": "50f5486106504d3ac4a8cf1b3ecbffb1",
+        "link": "https://www.mixvale.com.br/2026/06/17/la-nueva-amenaza-rokarolla-un-sofisticado-troyano-de-android-apunta-a-217-aplicaciones-de-instituciones-financieras-es/",
+        "title": "La nueva amenaza Rokarolla, un sofisticado troyano de Android, apunta a 217 aplicaciones de instituciones financieras",
+        "description": "Un nuevo tipo de software malicioso, llamado Rokarolla, representa una amenaza importante para la seguridad de los dispositivos Android. Expertos en ciberseguridad han detectado una compleja ofensiva digital, que emplea espionaje, robo de datos de inicio de sesión y control remoto de dispositivos, con el fin de acceder a datos bancarios, tarjetas y billeteras de [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "clima",
-            "estados",
-            "nuevo león",
-            "clima en nuevo león"
+            "androide",
+            "ciberseguridad",
+            "seguridad móvil",
+            "malware",
+            "proteger google play",
+            "troyano bancario"
         ],
         "creator": [
-            "guillermo domínguez"
+            "bruna"
+        ],
+        "language": "spanish",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "technology",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:42:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 17:09:44",
+        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2026/06/Hacker-600x340.jpg",
+        "video_url": null,
+        "source_id": "mixvale",
+        "source_name": "Mix Vale",
+        "source_priority": 95409,
+        "source_url": "https://www.mixvale.com.br",
+        "source_icon": "https://n.bytvi.com/mixvale.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "新 Rokarolla 威胁是一种复杂的 Android 木马，针对 217 个金融机构应用程序",
+        "description_zh": "一种名为 Rokarolla 的新型恶意软件对 Android 设备的安全构成了重大威胁。网络安全专家发现了一种复杂的数字攻击，该攻击使用间谍活动、窃取登录数据和远程控制设备，"
+    },
+    {
+        "article_id": "c698463e370a7f9a8188e7c4b043821b",
+        "link": "https://pulsoslp.com.mx/motor/el-color-de-auto-que-menos-se-devalua/2058226",
+        "title": "El color de auto que menos se devalúa",
+        "description": "Los autos amarillos son los que menos se devalúan tras tres años de uso, según un análisis de iSeeCars.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "el color de auto que menos se devalúa"
+        ],
+        "creator": [
+            "pulso slp"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "entertainment"
+            "technology",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-16 16:50:00",
+        "pubDate": "2026-06-17 16:43:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:07:59",
-        "image_url": "https://heraldodemexico.com.mx/u/fotografias/m/2025/10/10/f1280x720-1194443_1326118_5050.jpg",
+        "fetched_at": "2026-06-17 19:51:44",
+        "image_url": "https://blobcore.pulsoslp.com.mx/images/2026/06/17/el-color-de-auto-que-menos-se-devalua-no-es-blanco-negro-ni-plata-375f7c14-focus-0-0-600-315.webp",
         "video_url": null,
-        "source_id": "heraldodemexico",
-        "source_name": "El Heraldo De Mexico",
-        "source_priority": 21317,
-        "source_url": "https://heraldodemexico.com.mx",
-        "source_icon": "https://n.bytvi.com/heraldodemexico.png",
+        "source_id": "pulsoslp_mx",
+        "source_name": "Pulso Diario San Luis",
+        "source_priority": 3206842,
+        "source_url": "https://www.pulsoslp.com.mx",
+        "source_icon": "https://n.bytvi.com/pulsoslp_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -510,14 +465,310 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "冰雹、暴风雨和酷热：6 月 17 日威胁新莱昂州这些城市的气候组合",
-        "description_zh": "从洪水到极端气温：该州本周三令人担忧的天气报告。新的天气警报已启动，明天的前景将发生变化"
+        "title_zh": "贬值最少的车颜色",
+        "description_zh": "根据 iSeeCars 的分析，黄色汽车是使用三年后贬值最少的汽车。"
     },
     {
-        "article_id": "d37b9bc6100841ebfa47086f74289789",
-        "link": "https://oem.com.mx/diariodequeretaro/local/ven-colectivos-posibilidad-de-avanzar-en-ley-de-identidad-de-genero-30581735",
-        "title": "Ven colectivos posibilidad de avanzar en ley de Identidad de Género",
-        "description": "Realizan primera mesa de trabajo colectivos LGBT+ con integrantes de la Comisión de Seguimiento de Agenda 2030 para conocer las observaciones del Gobernador y ven que sólo deberán tratar aspectos técnicos y de redacción",
+        "article_id": "ac3b90f6b412d6e2f1bcead62721afca",
+        "link": "https://www.elcolombiano.com/tecnologia/estudio-celular-adolescentes-depresion-sueno-jama-pediatrics-HM37806706",
+        "title": "No es la edad, es el uso: estudio revela qué pasa en el cerebro de los adolescentes con su primer celular",
+        "description": "La pregunta que lleva años traumatizando a padres y madres: ¿a qué edad se debe entregar el primer teléfono móvil a un menor? Movimientos globales de familias o educadores han presionado para retrasar este momento basándose en la intuición de que las pantallas dañan el bienestar o la salud mental de los jóvenes. Sin embargo, la evidencia empírica detrás de estas pautas seguía siendo limitada. Ahora, una investigación a gran escala arroja luz sobre este debate al demostrar que el simple hecho de adquirir un smartphone a los 13 años no se asocia directamente con la depresión o la obesidad un año más tarde, aunque sí provoca un impacto inmediato en la pérdida de sueño. El estudio, publicado esta semana en la revista JAMA Pediatrics , ha seguido la evolución de 1.959 adolescentes que no tenían teléfono móvil al inicio del seguimiento. Los resultados revelan que la clave del bienestar no radica tanto en el dispositivo en sí, sino en las dinámicas de uso . Mientras que la compra del teléfono aumentó en un 29 % las probabilidades de sufrir sueño insuficiente, no mostró un vínculo estadísticamente significativo con diagnósticos clínicos de depresión o con el desarrollo de obesidad un año después. La situación cambia de forma radical cuando se analiza la intensidad de uso. Entre los jóvenes que adquirieron el terminal, aquellos que pasaban más de cinco horas al día delante de la pantalla duplicaron con creces las probabilidades de sufrir depresión (un riesgo 2,27 veces mayor) y obesidad (2,66 veces más) en comparación con quienes realizaban un uso inferior a las dos horas diarias. Asimismo, el uso intensivo disparó el riesgo de dormir menos de las ocho horas recomendadas. La complejidad del fenómeno sugiere que evaluar el impacto de la tecnología requiere mirar más allá de las cifras. “Necesitamos alejarnos de la idea de que el tiempo de pantalla es una única cosa homogénea si queremos entender qué es verdaderamente saludable o insalubre”, explica Rinanda Shaleha , investigadora de la Universidad Estatal de Pennsylvania (Penn State) y coautora de un modelo teórico complementario publicado en la revista Developmental Psychology . Para los científicos, variables como el momento del día, el propósito de la navegación o el nivel de interactividad alteran por completo los efectos psicológicos del entorno digital. El consumo pasivo e infinito de vídeos cortos, por ejemplo, impone un peaje neurocognitivo muy distinto al de jugar en línea con amigos o programar. “El contenido fragmentado obliga al cerebro a cargar continuamente información en nuestros bloques de memoria de trabajo para luego borrarla una y otra vez”, advierte Nelson Roque , profesor de Desarrollo Humano en Penn State. Al carecer de una narrativa coherente, el sistema de recompensa del menor se ve sometido a estímulos constantes que dificultan la autorregulación . Esta sobreestimulación prolongada suele responder a estrategias de diseño que los expertos denominan Dark UX (experiencia de usuario oscura), elementos tramposos integrados en las aplicaciones para retener la atención del usuario más tiempo del que pretendía. El desplazamiento infinito ( infinite scroll ) de redes sociales como TikTok o los formatos de vídeo corto están diseñados específicamente para manipular los circuitos de dopamina , lo que, según los autores, genera un coste de oportunidad crítico al desplazar actividades esenciales como el deporte, el estudio o la interacción familiar. Ante este panorama, la investigación liderada por el Hospital Infantil de Filadelfia (CHOP) y la Universidad de Pennsylvania aporta soluciones pragmáticas y basadas en la evidencia para los hogares. La medida más eficaz y sencilla consiste en retirar los dispositivos de las estancias de descanso . El estudio de JAMA Pediatrics cuantificó de forma precisa el beneficio de esta norma: dejar el teléfono fuera del dormitorio a la hora de dormir redujo en un 36 % las probabilidades de padecer sueño insuficiente en los adolescentes. Lea también: ¿Por qué los adolescentes ignoran la voz de sus madres? Estudio encontró la respuesta en el cerebro A diferencia de análisis previos que vinculaban el uso de redes sociales a un mayor deterioro de la salud mental en las niñas, este seguimiento a largo plazo no halló diferencias significativas entre sexos ni tampoco discrepancias mayores entre el uso realizado durante los días lectivos y los fines de semana. Los autores sugieren que las diferencias de género en la manifestación de la depresión podrían hacerse más evidentes en etapas más tardías de la adolescencia , a medida que avanza el desarrollo puberal. “Nuestros hallazgos sugieren que, si bien la adquisición del teléfono inteligente a los 13 años no se asocia de forma independiente con peores resultados, ciertos patrones de uso conllevan riesgos claros ”, concluye el equipo médico e investigador en sus conclusiones. Hasta que las normativas públicas regulen las funciones de diseño más adictivas de las plataformas, la recomendación para proteger la salud de los jóvenes pasa por combinar un acceso tecnológicamente adaptado a su madurez con un control estricto de los horarios y la exclusión nocturna de las pantallas en las habitaciones. Para consultar contenido premium o profundizar sobre sus temas de interés de Medellín, Antioquia, Colombia y el Mundo, regístrese aquí .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "elcolombiano.com",
+            "elcolombiano.com.co",
+            "periodico el colombiano",
+            "noticias el colombiano",
+            "elcolombiano .com",
+            "el colombiano"
+        ],
+        "creator": [
+            "el colombiano"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:42:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 17:10:10",
+        "image_url": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/AAPN/afp-20191119-f0275409-v1-highres_50897350_20260617113257.jpg",
+        "video_url": null,
+        "source_id": "elcolombiano",
+        "source_name": "Elcolombiano",
+        "source_priority": 109876,
+        "source_url": "https://www.elcolombiano.com",
+        "source_icon": "https://n.bytvi.com/elcolombiano.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "重要的不是年龄，而是用途：研究揭示了青少年使用第一部手机时大脑中发生的变化",
+        "description_zh": "多年来一直困扰父母的问题是：未成年人应该在什么年龄拥有第一部手机？基于屏幕损害福祉或健康的直觉，家庭或教育工作者的全球运动推动了这一时刻的推迟。"
+    },
+    {
+        "article_id": "9feff4207b2ff2afd4feb3ce1edc9636",
+        "link": "https://www.semana.com/tecnologia/articulo/el-sorpresivo-ranking-mundial-de-google-trends-luis-diaz-y-james-rodriguez-figuran-entre-los-mas-buscados/202651/",
+        "title": "El sorpresivo ranking mundial de Google Trends: Luis Díaz y James Rodríguez figuran entre los más buscados",
+        "description": "Si bien los colombianos figuran entre los futbolistas que más llaman la atención, otras grandes estrellas del fútbol mundial también se han convertido en favoritas de la hinchada.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "futbolistas colombianos",
+            "ranking",
+            "google trends"
+        ],
+        "creator": [
+            "mary nelly  mora escamilla"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:42:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 17:05:00",
+        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/LKNVP2IBQBBGLFUSV37HFCUZNE.jpg?auth=ca3a48763a2b2d50c42338923f400f6805e2bb5b106165bcd432565d29320034&smart=true&width=1280&height=720",
+        "video_url": null,
+        "source_id": "semana",
+        "source_name": "Semana",
+        "source_priority": 15867,
+        "source_url": "https://www.semana.com",
+        "source_icon": "https://n.bytvi.com/semana.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "谷歌趋势令人惊讶的世界排名：路易斯·迪亚兹和詹姆斯·罗德里格斯跻身搜索次数最多的行列",
+        "description_zh": "尽管哥伦比亚人是最受关注的足球运动员之一，但世界足球的其他伟大明星也成为球迷的最爱。"
+    },
+    {
+        "article_id": "6d9abb43bf2bfc02521179cc07d07c3b",
+        "link": "https://www.elespectador.com/bienestar-y-amor/por-que-sufrimos-tanto-por-un-partido-de-futbol-los-psicologos-lo-explican/",
+        "title": "¿Por qué sufrimos tanto por un partido de fútbol? Los psicólogos lo explican",
+        "description": "Cuando nos sentamos a ver un partido, entramos en una montaña rusa mental que explica perfectamente por qué sufrimos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "bienestar",
+            "vida sana"
+        ],
+        "creator": [
+            "redacción bienestar"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "health",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:42:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 16:46:25",
+        "image_url": "https://www.elespectador.com/resizer/v2/ADXZ4J5WGJBTRO7FU36JJRCPRA.jpg?auth=ada522c752efb1f4e790b6bebc7c6d63910b6cd017a0f23d139820671208e0a4&smart=true",
+        "video_url": null,
+        "source_id": "elespectador",
+        "source_name": "Elespectador.com",
+        "source_priority": 589787,
+        "source_url": "http://elespectador.com",
+        "source_icon": "https://n.bytvi.com/elespectador.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "为什么我们要为一场足球比赛承受如此多的痛苦？心理学家这样解释",
+        "description_zh": "当我们坐下来观看比赛时，我们的精神就像过山车一样，这完美地解释了我们为什么会受苦。"
+    },
+    {
+        "article_id": "16960c55a9d58a96d9ecc2ac6d4b4fa3",
+        "link": "https://asisucede.com.mx/gem-atiende-99-encharcamientos-en-27-municipios-mexiquenses/",
+        "title": "GEM atiende 99 encharcamientos en 27 municipios mexiquenses",
+        "description": "A un mes del inicio de la temporada de lluvias, la Comisión del Agua del Estado de México (CAEM), a través del Grupo Tláloc y personal operativo proporciona atención oportuna a familias mexiquenses ante contingencias por lluvias; al momento, se actuó en 37 eventos de precipitación registrados, que generaron 99 encharcamientos en 27 municipios mexiquenses. [...] La entrada GEM atiende 99 encharcamientos en 27 municipios mexiquenses aparece primero en Así Sucede Noticias Toluca Edomex .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "redacción así sucede"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:42:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 16:47:51",
+        "image_url": "https://i0.wp.com/asisucede.com.mx/wp-content/uploads/2026/06/encharcamientos.jpeg?fit=1600%2C900&ssl=1",
+        "video_url": null,
+        "source_id": "asisucede",
+        "source_name": "Asi Sucede",
+        "source_priority": 1051776,
+        "source_url": "https://asisucede.com.mx",
+        "source_icon": "https://n.bytvi.com/asisucede.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "GEM 参与墨西哥 27 个城市的 99 次洪水救援",
+        "description_zh": "雨季开始前一个月，墨西哥州水务委员会（CAEM）通过 Tláloc 集团和业务人员，在发生降雨意外情况时及时关注墨西哥家庭；迄今为止，已对 37 起有记录的降水事件采取了行动"
+    },
+    {
+        "article_id": "04dee4367d8de0e1fb84dfba03481c3a",
+        "link": "https://www.elsiglodetorreon.com.mx/noticia/2026/portugal-vs-rd-congo-en-vivo-cristiano-ronaldo-debuta-en-el-mundial-2026.html",
+        "title": "Portugal vs RD Congo EN VIVO: Cristiano Ronaldo debuta en el Mundial 2026",
+        "description": "... Más información -- Portugal vs RD Congo EN VIVO: Cristiano Ronaldo debuta en el Mundial 2026 »",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "width:",
+            "mundial 2026",
+            "position:",
+            "font-size:",
+            "display:"
+        ],
+        "creator": [
+            "el siglo de torreón"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "blog",
+        "pubDate": "2026-06-17 16:42:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 17:09:01",
+        "image_url": "https://www.elsiglodetorreon.com.mx/m/i/2026/06/2020957.jpeg",
+        "video_url": null,
+        "source_id": "elsiglodetorreon",
+        "source_name": "El Siglo De Torreón",
+        "source_priority": 99698,
+        "source_url": "https://www.elsiglodetorreon.com.mx",
+        "source_icon": "https://n.bytvi.com/elsiglodetorreon.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "葡萄牙 vs 刚果民主共和国直播：克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 首次亮相 2026 年世界杯",
+        "description_zh": "... 更多信息 - 葡萄牙 vs 刚果民主共和国直播：克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 首次亮相 2026 年世界杯 »"
+    },
+    {
+        "article_id": "0b73ae2841b94bae5501f8a2ab660eaa",
+        "link": "https://www.lajornadadeoriente.com.mx/puebla/comisionado-estatal-desplazan-mando-policia-municipal-eloxochitlan/",
+        "title": "Nombran a comisionado estatal y desplazan a mando de la Policía Municipal en Eloxochitlán",
+        "description": "Tehuacán.– En respuesta a la creciente inconformidad social y a las exigencias de mayor control institucional, el gobierno del estado asumió el mando de la seguridad pública en el municipio de San Miguel Eloxochitlán , donde a partir de ahora las acciones en la materia serán coordinadas por un comisionado proveniente de la Policía Estatal , manteniendo la modalidad mixta. La coordinación queda bajo la responsabilidad de Domingo Muñoz Ramírez , quien tendrá a su cargo la conducción operativa de la corporación local, en un esquema que no implica la desaparición de la policía municipal, sino su integración a un modelo de trabajo conjunto bajo directrices estatales. De esta manera, queda fuera de funciones el anterior director de Seguridad Pública, Isaías Carrera Amador , cuya permanencia había sido ampliamente cuestionada por sectores de la población que lo señalaban por presuntos abusos y prácticas indebidas tanto al interior de la corporación como en perjuicio de la población. La decisión del estado llega tras semanas de presión ciudadana que se intensificaron desde el mes pasado, cuando pobladores organizaron protestas y bloqueos carreteros para denunciar excesos atribuidos a cuerpos de seguridad, así como para exigir cambios de fondo en la estructura policial del municipio. En su momento los inconformes no solo pidieron la destitución del mando policial, sino también la salida del presidente municipal, Delfino Hernández Hernández , a quien responsabilizan de permitir un clima de desorden institucional y de no atender los reclamos de la población tanto en materia de Seguridad Pública como en otros aspectos como obra pública, salud y educación. Consulta: Bloquean carretera en la Sierra Negra por presunto desvío de fondos públicos en Eloxochitlán El contexto en el que se da esta intervención estatal está marcado por una serie de conflictos locales , denuncias contra autoridades y episodios de violencia que han deteriorado la gobernabilidad en esta demarcación de la Sierra Negra , donde persiste la percepción de inseguridad y falta de justicia. Con la entrada del mando estatal , los habitantes mantienen la expectativa de que la reestructuración se traduzca en una disminución de abusos y en una actuación más efectiva de los cuerpos policiales, así como la efectiva contención de la delincuencia que se ha apoderado de la zona. Según los pobladores, los actos delictivos han ido en aumento desde el año pasado cobrando la vida de personas, sin que las autoridades municipales muestren una estrategia contundente para frenarlo, lo que sembró la sospecha de contubernio entre maleantes y gobernantes . Lo anterior, independientemente de los abusos cometidos por los propios funcionarios, quienes valiéndose del cargo incurren en acciones irregulares para su propio beneficio o bien para resolver a su favor conflictos de índole familiar o vecinal echando mano de las relaciones que su posición les otorga. La situación delictiva es una realidad en el municipio al grado de que el propio alcalde solicitó el año pasado protección especial al gobierno del estado tras recibir una serie de amenazas del crimen organizado. Te recomendamos leer: Acusan a funcionaria del ayuntamiento de Eloxochitlán por presunta sustracción de una menor La entrada Nombran a comisionado estatal y desplazan a mando de la Policía Municipal en Eloxochitlán aparece primero en La Jornada de Oriente .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "comisionado estatal",
+            "gobierno del estado de puebla",
+            "policía municipal de eloxochitlán",
+            "san miguel eloxochitlán",
+            "seguridad pública",
+            "delfino hernández hernández"
+        ],
+        "creator": [
+            "elizabeth rodríguez lezama"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:42:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 17:17:39",
+        "image_url": "https://www.lajornadadeoriente.com.mx/wp-content/uploads/2026/06/Presidencia-de-San-Miguel-Eloxochitla%CC%81n.jpg",
+        "video_url": null,
+        "source_id": "lajornadadeoriente_mx",
+        "source_name": "Lajornadadeoriente Mx",
+        "source_priority": 981450,
+        "source_url": "https://www.lajornadadeoriente.com.mx",
+        "source_icon": "https://n.bytvi.com/lajornadadeoriente_mx.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们任命一名国家专员并取代埃洛索奇特兰市警察的指挥权",
+        "description_zh": "特瓦坎 - 为了应对日益增长的社会不满和加强机构控制的要求，州政府接管了圣米格尔埃洛索奇特兰市的公共安全指挥权，从现在起，该地区的行动将由一个机构协调"
+    },
+    {
+        "article_id": "62c137875208b2bccd562b06f1fbc27b",
+        "link": "https://www.diariodelsur.com.co/hallan-cuerpo-de-un-hombre-en-el-rio-pasto-sector-los-dos-puentes/",
+        "title": "Hallan cuerpo de un hombre en el río Pasto, sector Los Dos Puentes",
+        "description": "Judicial | Pasto Bomberos Voluntarios de Pasto recuperaron el cadáver de un hombre en el río Pasto, a la altura de Los Dos Puentes. La emergencia se reportó por la presencia de una persona en el agua. Unidades de rescate llegaron al sitio y tras las labores de extracción confirmaron que se trataba de un [...] La entrada Hallan cuerpo de un hombre en el río Pasto, sector Los Dos Puentes se publicó primero en Diario del Sur .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "susan oliva"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-17 16:42:28",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-17 16:47:28",
+        "image_url": "https://www.diariodelsur.com.co/wp-content/uploads/2022/09/DiarioDelSur-Redes-1.png",
+        "video_url": null,
+        "source_id": "diariodelsur",
+        "source_name": "Diario Del Sur",
+        "source_priority": 832974,
+        "source_url": "http://diariodelsur.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelsur.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们在 Los Dos Puentes 地区的帕斯托河发现了一具男子的尸体",
+        "description_zh": "司法|帕斯托帕斯托志愿消防员在洛斯多斯蓬特斯附近的帕斯托河中发现了一具男子的尸体。由于有人在水中，报告了紧急情况。救援人员赶到现场，救援工作确认后"
+    },
+    {
+        "article_id": "fbfd0bc3f8dadc7e5b8fd77fed1f20c9",
+        "link": "https://www.zocalo.com.mx/sheinbaum-desea-que-en-las-elecciones-de-colombia-gane-el-pueblo/",
+        "title": "Sheinbaum desea que en las elecciones de Colombia ‘gane el pueblo’",
+        "description": "La Presidenta evitó este miércoles expresar respaldo a alguno de los candidatos que disputarán la presidencia",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -526,275 +777,66 @@
             "mexico"
         ],
         "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:50:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 22:16:06",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "diariodequeretaro",
-        "source_name": "Diario De Quer",
-        "source_priority": 416798,
-        "source_url": "https://www.diariodequeretaro.com.mx",
-        "source_icon": "https://n.bytvi.com/diariodequeretaro.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "团体看到推进性别认同法的可能性",
-        "description_zh": "第一次 LGBT+ 集体工作桌与 2030 年议程监测委员会成员举行，以了解总督的意见，他们认为只需解决技术和编辑方面的问题"
-    },
-    {
-        "article_id": "3b188e95037727d8716bfe2f10602def",
-        "link": "https://www.elporvenir.mx/nacional/sspc-detecta-nueva-modalidad-de-extorsion-contra-comerciantes/995625",
-        "title": "SSPC detecta nueva modalidad de extorsión contra comerciantes",
-        "description": "García Harfuch reiteró el llamado a denunciar la extorsión de manera anónima al teléfono 089.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "extorsión",
-            "sspc",
-            "comerciantes",
-            "omar garcía harfuch"
-        ],
-        "creator": [
-            "el universal"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:50:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:15:26",
-        "image_url": "https://blob.elporvenir.mx/images/2026/06/16/harfuch-58264e07-focus-min0.06-0.62-960-690.jpg",
-        "video_url": null,
-        "source_id": "elporvenir_mx",
-        "source_name": "El Porvenir",
-        "source_priority": 589407,
-        "source_url": "https://elporvenir.mx",
-        "source_icon": "https://n.bytvi.com/elporvenir_mx.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "SSPC 发现针对商家的新型勒索行为",
-        "description_zh": "加西亚·哈富赫 (García Harfuch) 再次呼吁拨打 089 匿名举报勒索事件。"
-    },
-    {
-        "article_id": "b25d44ec7b4b2115a57ecd2eb72dc65e",
-        "link": "https://www.cordobabn.com/articulo/cordoba/policia-nacional-detiene-15-personas-falsedad-documental-estafa-infraccion-ley-extranjeria/20260616184959260552.html",
-        "title": "La Policía Nacional arresta a 15 personas por estafa, falsedad y extranjería",
-        "description": "La investigación se inició a raíz de la detección de un resguardo de protección internacional falsificado",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "l.j.f."
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:49:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:17:33",
-        "image_url": "https://www.cordobabn.com/media/cordobabn/images/2026/02/28/2026022809471085030.jpg",
-        "video_url": null,
-        "source_id": "cordobabn",
-        "source_name": "Cordoba",
-        "source_priority": 1219601,
-        "source_url": "https://www.cordobabn.com",
-        "source_icon": "https://n.bytvi.com/cordobabn.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "国家警察以欺诈、虚假和移民罪逮捕了 15 人",
-        "description_zh": "调查是在发现伪造的国际保护收据后开始的"
-    },
-    {
-        "article_id": "af3570e8dcc5f756f2d72f8659b0f48d",
-        "link": "https://gmnoticias.mx/es-probable-que-si-sheinbaum-sobre-reunion-con-el-rey-de-espana/",
-        "title": "Es probable que sí: Sheinbaum sobre reunión con el rey de España",
-        "description": "En la víspera de la visita que el rey de España, Felipe VI, realizará al país en el marco de la Copa...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "gm noticias"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-06-16 16:49:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:12:53",
-        "image_url": "https://gmnoticias.mx/wp-content/uploads/2026/06/sheinbaumrey.webp",
-        "video_url": null,
-        "source_id": "gmnoticias",
-        "source_name": "Gm Noticias",
-        "source_priority": 300887,
-        "source_url": "https://gmnoticias.mx",
-        "source_icon": "https://n.bytvi.com/gmnoticias.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "可能是这样：希因鲍姆与西班牙国王的会面",
-        "description_zh": "西班牙国王费利佩六世将在...的框架内访问该国。"
-    },
-    {
-        "article_id": "f8fcaa3122bbb4b2d3235a3fcd0dfc71",
-        "link": "https://www.razon.com.mx/deportes/2026/06/16/tremenda-batalla-campal-en-nueva-york-entre-argentinos-y-argelinos-la-primera-del-mundial-2026-video/",
-        "title": "Tremenda batalla campal en Nueva York entre argentinos y argelinos, la primera del Mundial 2026 (VIDEO)",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mundial-2026",
-            "argentina",
-            "argelia",
-            "copa-del-mundo-2026-dia-5"
-        ],
-        "creator": [
-            "diego chávez ortiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-16 16:49:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:06:36",
-        "image_url": "https://www.razon.com.mx/resizer/v2/OSAFVZMIZBB6DHJXKWIVID4TMM.png?auth=41acb3ed5fabfd86ac05420264a92dde175391d0757d29f8756e685996eebece&smart=true&width=1024&height=516",
-        "video_url": null,
-        "source_id": "razon",
-        "source_name": "La Razón De México",
-        "source_priority": 45427,
-        "source_url": "https://www.razon.com.mx",
-        "source_icon": "https://n.bytvi.com/razon.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "2026 年世界杯第一场比赛，阿根廷队与阿尔及利亚队在纽约展开激烈激战（视频）",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "ff6a9fc9002286b3a68f9940d9d85d3f",
-        "link": "https://vanguardia.com.mx/noticias/se-deslinda-sedena-de-general-gerardo-merida-acusado-por-eu-EF21429287",
-        "title": "Se deslinda Sedena de General Gerardo Mérida, acusado por EU",
-        "description": "La Secretaría de la Defensa Nacional (Sedena) se deslindó del General retirado Gerardo Mérida Sánchez, ex Secretario de Seguridad Pública de Sinaloa que enfrenta un proceso penal en Estados Unidos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "seguridad"
-        ],
-        "creator": [
-            "reforma"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
             "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-16 16:49:54",
+        "pubDate": "2026-06-17 16:42:27",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:34:45",
-        "image_url": "https://vanguardia.com.mx/binrepository/1087002-sheinbaum-man-anera-segurida_1-15808717_20260616170115.jpg",
+        "fetched_at": "2026-06-17 17:12:30",
+        "image_url": "https://www.zocalo.com.mx/wp-content/uploads/2026/06/claudoak.jpg",
         "video_url": null,
-        "source_id": "vanguardia",
-        "source_name": "Vanguardia",
-        "source_priority": 24302,
-        "source_url": "https://vanguardia.com.mx",
-        "source_icon": "https://n.bytvi.com/vanguardia.png",
+        "source_id": "zocalo",
+        "source_name": "Periódico Zócalo",
+        "source_priority": 208655,
+        "source_url": "http://zocalo.com.mx",
+        "source_icon": "https://n.bytvi.com/zocalo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "塞德纳与受到美国指控的赫拉尔多·梅里达将军分道扬镳",
-        "description_zh": "国防部秘书处（塞德纳）与在美国面临刑事诉讼的锡那罗亚州前公安部长、退休将军赫拉尔多·梅里达·桑切斯保持了距离。"
+        "duplicate": true,
+        "title_zh": "希因鲍姆希望“人民在哥伦比亚选举中获胜”",
+        "description_zh": "本周三，总统避免表达对任何竞争总统职位的候选人的支持。"
     },
     {
-        "article_id": "2c3bf8aac6d23eab4b49d7427f0c8a66",
-        "link": "https://www.milenio.com/ciencia-y-salud/consejos-para-que-hijos-a-enfrenten-sus-miedos-sin-trauma",
-        "title": "Cómo enseñar a tu hijo a enfrentar sus miedos sin traumarlo: “Si el temor no se controla, genera ansiedad”",
-        "description": "La crianza implica enseñar a los niños a enfrentar sus miedos sin invalidar sus sentimientos.",
+        "article_id": "6c514beb3aa645551409d034058e6a43",
+        "link": "https://www.elfinanciero.com.mx/nacional/2026/06/17/sheinbaum-propone-discutir-restriccion-de-celulares-en-ninos-hay-que-jugar-a-la-matatena-y-resorte/",
+        "title": "Sheinbaum propone discutir restricción de celulares en niños: ‘Hay que jugar a la matatena y resorte’",
+        "description": "La presidenta Sheinbaum dijo que incluso algunos estudios mencionan que la ansiedad y malos hábitos de sueño se generan por pasar largo tiempo en las pantallas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "crianza de los hijos",
-            "psicología en niños",
-            "criar hijos",
-            "cómo hacer para no traumar a tus hijos",
-            "como no traumar a tus hijos",
-            "que hago si mi hijo tiene miedo",
-            "ansiedad infantil",
-            "salud mental",
-            "miedo en los hijos"
+            "restricción en el uso de celulares",
+            "uso de redes sociales en niños",
+            "sheinbaum pide discutir uso de celulares en niños",
+            "restricción en el uso de redes sociales",
+            "reino unido restricción celulares",
+            "uso de celulares en niños"
         ],
         "creator": [
-            "alejandra sigala"
+            "cristina hernández"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top",
-            "health"
+            "health",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-16 16:49:51",
+        "pubDate": "2026-06-17 16:42:26",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 21:53:33",
-        "image_url": "https://cdn.milenio.com/uploads/media/2026/06/16/miedo-crecimiento-ninos-gestionarla-responsabilidad.jpg",
+        "fetched_at": "2026-06-17 17:02:03",
+        "image_url": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/uAFDFYDkPrVIzbE8zhXMfpEy_xk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OVVZ2HTTAVE7JMCK3PKS2RXFHQ.png",
         "video_url": null,
-        "source_id": "milenio",
-        "source_name": "Milenio",
-        "source_priority": 10804,
-        "source_url": "https://www.milenio.com",
-        "source_icon": "https://n.bytvi.com/milenio.png",
+        "source_id": "elfinanciero",
+        "source_name": "El Financiero",
+        "source_priority": 6218,
+        "source_url": "https://www.elfinanciero.com.mx",
+        "source_icon": "https://n.bytvi.com/elfinanciero.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -802,72 +844,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "如何教您的孩子面对恐惧而不给他们造成创伤：“如果不控制恐惧，就会产生焦虑”",
-        "description_zh": "养育孩子需要教导孩子面对他们的恐惧，同时又不否定他们的感受。"
-    },
-    {
-        "article_id": "6236acceb8024d4c42d6e29910ebd5eb",
-        "link": "https://cnnespanol.cnn.com/2026/06/16/deportes/video/aficionados-japoneses-limpia-estados-copa-mundial-trax",
-        "title": "Por qué los aficionados japoneses al fútbol recogen la basura en la Copa del Mundo",
-        "description": "Los aficionados japoneses al fútbol tienen fama de recoger sus propios residuos en los grandes eventos deportivos mundiales, incluida la Copa Mundial de la FIFA de este verano. Hanako Montgomery, de CNN, explica las razones detrás de esta tradición.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "copa mundial de la fifa 2026",
-            "fútbol",
-            "mundial 2026",
-            "japón",
-            "aficionados"
-        ],
-        "creator": [
-            "jorge martinez"
-        ],
-        "language": "spanish",
-        "country": [
-            "cuba",
-            "nicaragua",
-            "dominican republic",
-            "peru",
-            "bolivia",
-            "spain",
-            "guatemala",
-            "honduras",
-            "guinea",
-            "puerto rico",
-            "argentina",
-            "el salvador",
-            "colombia",
-            "panama",
-            "venezuela",
-            "costa rica",
-            "paraguay",
-            "chile",
-            "mexico",
-            "uruguay",
-            "ecuador"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-06-16 16:49:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-16 17:04:12",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281596365.jpg?c=original",
-        "video_url": "https://clips-media-aka.warnermediacdn.com/cnn/clips/2026-06/2290953-ca5a13d550654ffc9ef5def47d1279f3/mp4/aficionados-japoneses-limpia-estados-copa-mundial-trax-2290953-1920x1080_8000k.mp4",
-        "source_id": "cnnespanol",
-        "source_name": "Cnn",
-        "source_priority": 16314,
-        "source_url": "https://cnnespanol.cnn.com",
-        "source_icon": "https://n.bytvi.com/cnnespanol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "为什么日本球迷在世界杯上捡垃圾",
-        "description_zh": "日本球迷因在全球重大体育赛事（包括今年夏天的国际足联世界杯）上追随自己而臭名昭著。美国有线电视新闻网 (CNN) 的哈纳科·蒙哥马利 (Hanako Montgomery) 解释了这一传统背后的原因。"
+        "title_zh": "希因鲍姆提议讨论儿童使用手机的限制：“我们必须玩 matatena y tumba”",
+        "description_zh": "希恩鲍姆总统表示，一些研究甚至提到，长时间盯着屏幕会产生焦虑和不良睡眠习惯。"
     }
 ]
