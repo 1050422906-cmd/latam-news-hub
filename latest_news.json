@@ -1,32 +1,33 @@
 [
     {
-        "article_id": "e780dfd6081408d51db2482173505a57",
-        "link": "https://tribunadepetropolis.com.br/noticias/bolsonaro-presta-depoimento-a-policia-civil-do-df-as-15h-sobre-arma-de-fogo-apreendida-em-blitz/",
-        "title": "Bolsonaro presta depoimento à Polícia Civil do DF às 15h sobre arma de fogo apreendida em blitz",
-        "description": "O ex-presidente Jair Bolsonaro (PL), preso por tentativa de golpe de Estado, presta depoimento à Polícia Civil do Distrito Federal nesta terça-feira, 23, sobre a arma de fogo apreendida em uma blitz de trânsito em Brasília. O depoimento está marcado para as 15h, presencialmente, no condomínio onde o ex-presidente cumpre pena. A arma foi apreendida [...]",
+        "article_id": "624145ff0269d87de3499d8c57498af4",
+        "link": "https://whiplash.net/materias/news_670/380379.html",
+        "title": "A banda rebelde e diferentona que impressionou o vocalista do Sex Pistols",
+        "description": "Conhecido pela fúria do grupo punk, John Lydon também se encantou por um clássico alemão que parecia vindo de outro tempo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "por lavínia kaucz; estadão"
+            "bruce william"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "politics"
+            "top",
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-23 16:08:00",
+        "pubDate": "2026-06-24 16:08:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:45:31",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "fetched_at": "2026-06-24 16:39:11",
+        "image_url": "https://whiplash.net/imagens_promo_22/sex_pistols_virgin_records.jpg",
         "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
+        "source_id": "whiplash",
+        "source_name": "Whiplash",
+        "source_priority": 97693,
+        "source_url": "https://whiplash.net",
+        "source_icon": "https://n.bytvi.com/whiplash.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -34,279 +35,46 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "博尔索纳罗于下午 3 点向民主力量民警发表声明，称其在交通站缴获了一把枪支",
-        "description_zh": "因政变未遂而被捕的前总统雅伊尔·博尔索纳罗 (Jair Bolsonaro) 于本周二 23 日向联邦区民警发表了一份声明，内容涉及在巴西利亚一个交通站点查获的枪支。证词定于下午 3 点在公寓亲自进行"
+        "title_zh": "给性手枪乐队主唱留下深刻印象的叛逆又与众不同的乐队",
+        "description_zh": "约翰·莱登 (John Lydon) 以朋克乐队的愤怒而闻名，他也对一部似乎来自另一个时代的德国经典着迷。"
     },
     {
-        "article_id": "a0b9bc83b343e6cbbe5809beb4342c48",
-        "link": "https://www.dgabc.com.br/Noticia/4330864/bolsonaro-presta-depoimento-a-policia-civil-do-df-as-15h-sobre-arma-de-fogo-apreendida-em-blitz",
-        "title": "Bolsonaro presta depoimento à Polícia Civil do DF às 15h sobre arma de fogo apreendida em blitz",
-        "description": "Bolsonaro presta depoimento à Polícia Civil do DF às 15h sobre arma de fogo apreendida em blitz",
+        "article_id": "70e4139534504b5701ad21941864de7a",
+        "link": "https://www.abcmais.com/pais/frio-de-quase-6c-em-pico-de-onda-polar-congela-camiseta-do-brasil-em-dia-de-jogo-contra-escocia-na-copa-do-mundo/",
+        "title": "Frio de quase -6°C em pico de onda polar congela camiseta do Brasil em dia de jogo contra Escócia na Copa do Mundo",
+        "description": "Dono da camiseta deixou a amarelinha por 5 horas em cima de carro durante madrugada fria",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "prisão",
-            "abc",
-            "automóveis",
-            "rio grande da serra",
-            "depoimento",
-            "dgabc",
-            "economia",
-            "grande abc",
-            "polícia civil",
-            "arma",
-            "diarinho",
-            "diário",
-            "são bernardo",
-            "domiciliar",
-            "internacional",
-            "notícias",
-            "são caetano",
-            "bolsonaro",
-            "on line",
-            "ribeirão pires"
+            "brasil",
+            "onda polar",
+            "santa catarina",
+            "onda polar massa de ar",
+            "sc",
+            "previsão do tempo",
+            "camiseta do brasil congelada",
+            "inverno",
+            "frio",
+            "fenômeno",
+            "copa do mundo",
+            "neve",
+            "frio de -9°c"
         ],
         "creator": [
-            "agência estado"
+            "leonardo siqueira; estadão conteúdo"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "crime",
-            "top"
+            "top",
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-23 16:08:00",
+        "pubDate": "2026-06-24 16:08:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 17:21:51",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://n.bytvi.com/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "博尔索纳罗于下午 3 点向民主力量民警发表声明，称其在交通站缴获了一把枪支",
-        "description_zh": "博尔索纳罗于下午 3 点向民主力量民警发表声明，称其在交通站缴获了一把枪支"
-    },
-    {
-        "article_id": "9837d0fe9919521df15306409e3409d5",
-        "link": "https://www.tudocelular.com/novos-produtos/noticias/n257091/diabo-veste-prada-2-estrear-passarela-disney.html",
-        "title": "O Diabo Veste Prada 2 recebe data para estrear no Disney+",
-        "description": "Uma das maiores bilheterias de 2026 chegará em breve ao streaming.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-23 16:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 21:34:09",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "tudocelular",
-        "source_name": "Tudocelular.com",
-        "source_priority": 14359,
-        "source_url": "https://www.tudocelular.com",
-        "source_icon": "https://n.bytvi.com/tudocelular.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "《穿普拉达的女魔头 2》在 Disney+ 上公布上映日期",
-        "description_zh": "2026 年票房最高的电影之一即将登陆流媒体。"
-    },
-    {
-        "article_id": "ab013909469c9c815aa079fc727dd2d4",
-        "link": "https://www.tribunapr.com.br/viva/vitrine/apos-reforma-supermercado-de-curitiba-lanca-servico-de-pizza-assada-em-3-minutos/",
-        "title": "Após reforma, supermercado de Curitiba lança serviço de pizza assada em 3 minutos",
-        "description": "Mercado de Curitiba cria mini pizzaria na loja: assa pizza na hora para cliente levar quentinha para casa.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "curitiba",
-            "condor",
-            "santa cândida",
-            "pizza"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "food",
-            "top"
-        ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-06-23 16:07:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 19:48:35",
-        "image_url": "https://www.tribunapr.com.br/wp-content/uploads/2026/06/23125314/Pizza-quentinha-na-hora-Condor-Santa-Candida-Curitiba.png",
-        "video_url": null,
-        "source_id": "tribunapr_br",
-        "source_name": "Tribuna Pr",
-        "source_priority": 1000827,
-        "source_url": "https://www.tribunapr.com.br",
-        "source_icon": "https://n.bytvi.com/tribunapr_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "库里蒂巴超市改造后推出3分钟烘焙披萨服务",
-        "description_zh": "Mercado de Curitiba 在店内开设了一家迷你披萨店：现场烘烤披萨供顾客带回家取暖。"
-    },
-    {
-        "article_id": "d94005c753d47b64423f485a94021805",
-        "link": "https://www.bahianoticias.com.br/noticia/318208-sindicato-anuncia-fim-da-greve-dos-garis-na-bahia-no-df-paralisacao-por-piso-salarial-nacional-ganha-forca",
-        "title": "Sindicato anuncia fim da greve dos Garis na Bahia; no DF, paralisação por piso salarial nacional ganha força",
-        "description": "A greve dos trabalhadores da limpeza urbana na Bahia foi encerrada nesta terça-feira (23), após deliberação de assembleias da categoria e avanços nas negociações com as empresas do setor.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "salvador",
-            "greve",
-            "garis"
-        ],
-        "creator": [
-            "daniel araújo"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-23 16:07:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:41:34",
-        "image_url": "https://www.bahianoticias.com.br/fotos/principal_noticias/318208/IMAGEM_NOTICIA_original.jpg",
-        "video_url": null,
-        "source_id": "bahianoticias",
-        "source_name": "Bahia Notícias",
-        "source_priority": 164044,
-        "source_url": "https://www.bahianoticias.com.br",
-        "source_icon": "https://n.bytvi.com/bahianoticias.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "工会宣布巴伊亚加里斯罢工结束；在 DF，因国家工资底线而举行的罢工愈演愈烈",
-        "description_zh": "经过类别议会的审议以及与该行业公司的谈判取得进展后，巴伊亚城市清洁工人的罢工于本周二（23日）结束。"
-    },
-    {
-        "article_id": "281c05063c35d5683789a8e897237610",
-        "link": "https://valor.globo.com/financas/noticia/2026/06/23/bolsas-europeias-recuam-pressionadas-por-tech-e-rumo-da-politica-monetaria-global.ghtml",
-        "title": "Bolsas europeias recuam pressionadas por 'tech' e rumo da política monetária global",
-        "description": "O mau humor global no setor de tecnologia pressionou os índices acionários europeus nesta terça-feira (23), que encerraram em leve queda. Os receios com os crescentes gastos em inteligência artificial, somados à perspectiva de políticas monetárias mais restritivas em nível internacional, direcionaram o rumo das negociações hoje. Sinais de contração na atividade econômica na zona do euro também contribuíram para o pessimismo. O índice pan-europeu Stoxx 600 encerrou em queda de 0,57%, aos 635,64 pontos, o DAX, de Frankfurt, recuou 0,98%, aos 24.893,58 pontos, o FTSE 100, de Londres, perdeu 0,09%, aos 10.428,85 pontos, e o CAC 40, de Paris, cedeu 0,71%, aos 8.340,71 pontos. O setor de tecnologia (-3,41%) passa por uma liquidação em nível global, iniciada ontem nos Estados Unidos, com um forte ajuste de posições em \"big techs\". O movimento se alastrou para os mercados asiáticos, em especial na Coreia do Sul, e ganhou tração ao também contaminar as ações de chips e semicondutores. Os crescentes gastos em inteligência artificial, somados à perspectiva de políticas monetárias mais restritivas, levaram a uma liquidação em ações de tecnologia, que já mostravam uma alta rentabilidade nos últimos meses e posições consideravelmente cheias (“crowded”). As leituras contracionistas dos índices gerentes de compra (PMI) no continente europeu, apesar de algumas melhoras em relação ao mês anterior, como foi o caso na França, também contribuíram para o pessimismo no mercado. A atividade do setor privado da zona do euro encolheu pelo terceiro mês consecutivo em junho, embora em um ritmo mais lento, já que uma modesta recuperação na demanda por turismo e lazer não foi suficiente para compensar totalmente a queda. As discussões em torno da política monetária também permanecem no radar. As apostas por uma restrição nos juros pelo Banco Central Europeu (BCE) recuaram pelo segundo dia consecutivo, enquanto há uma perspectiva crescente de que o Federal Reserve (Fed) elevará as taxas mais cedo neste ano, com o consenso apontando para a reunião de setembro. Cyril Marcilhacy/Bloomberg",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "inteligência artificial",
-            "tecnologia",
-            "estados unidos",
-            "zona do euro",
-            "política monetária",
-            "fabricação de semicondutores",
-            "índice ftse 100",
-            "microchips",
-            "frankfurt",
-            "bolsas europeias",
-            "coreia do sul",
-            "big techs",
-            "londres"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-23 16:07:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:32:29",
-        "image_url": "https://s2-valor.glbimg.com/uOb5XQSCkZLXUBCs27douN4PSBE=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2020/N/C/AOuLpPSiAO5gr3QkfBew/363560564.jpg",
-        "video_url": null,
-        "source_id": "valor_globo",
-        "source_name": "Valor Globo",
-        "source_priority": 2786,
-        "source_url": "https://valor.globo.com",
-        "source_icon": "https://n.bytvi.com/valor_globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "欧洲股市在“科技”和全球货币政策方向的压力下下跌",
-        "description_zh": "全球科技板块的不良情绪令本周二（23日）欧洲股指承压，收盘小幅下跌。对人工智能支出不断增长的担忧，加上国际层面货币政策收紧的前景，意味着"
-    },
-    {
-        "article_id": "65b46fa487a8f83827b2520bd4d4f35b",
-        "link": "https://www.abcmais.com/pais/professora-diz-ser-inventora-do-pix-e-pede-indenizacao-de-r-1-milhao-do-banco-central/",
-        "title": "Professora diz ser inventora do Pix e pede indenização de R$ 1 milhão do Banco Central",
-        "description": "Professora e empresária está processando Banco Central do Brasil",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "contestação",
-            "banco central",
-            "anette vernaschi toppan",
-            "registro",
-            "biblioteca nacional",
-            "pix",
-            "chaves",
-            "processo",
-            "projeto",
-            "bc",
-            "tá pago",
-            "sistema",
-            "dinheiro"
-        ],
-        "creator": [
-            "estadão conteúdo"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-23 16:07:44",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:22:47",
-        "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2025/10/01/pix-22558035.jpg",
+        "fetched_at": "2026-06-24 16:23:16",
+        "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/06/24/onda_polar_camisa_brasil_congelada-22808459.jpg",
         "video_url": null,
         "source_id": "abcmais",
         "source_name": "Abc+",
@@ -320,37 +88,54 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "教授自称Pix发明者，要求央行赔偿100万雷亚尔",
-        "description_zh": "教授兼女商人起诉巴西中央银行"
+        "title_zh": "世界杯对阵苏格兰的比赛当天，极地波峰的气温接近-6°C，巴西队的球衣结冰了",
+        "description_zh": "在寒冷的早晨，T恤的主人将跳房子留在车顶上长达5个小时"
     },
     {
-        "article_id": "4bd3aef10c563a565b8263b759ebd124",
-        "link": "https://br.investing.com/news/stock-market-news/holanda--acoes-fecharam-o-pregao-em-queda-e-o-indice-aex-recuou-160-1981308",
-        "title": "Holanda - Ações fecharam o pregão em queda e o Índice AEX recuou 1,60%",
-        "description": "Holanda - Ações fecharam o pregão em queda e o Índice AEX recuou 1,60%",
+        "article_id": "a677e19f2b4fcf23385dbdb26de27d78",
+        "link": "https://www.campograndenews.com.br/direto-das-ruas/arvore-caida-ha-quase-um-mes-na-vila-ipiranga-e-removida-apos-reportagem",
+        "title": "Árvore caída há quase um mês na Vila Ipiranga é removida após reportagem",
+        "description": "A árvore que estava caída havia quase um mês na Rua Francisco Alves Castelo, na Vila Ipiranga, em Campo Grande, foi removida nesta quarta-feira (24), após a publicação de matéria do Campo Grande News sobre os transtornos e riscos causados pelo problema. O galho de grande porte obstruía parte da via e dificultava a passagem de motoristas e pedestres. Moradores relatavam que a situação persistia desde o dia 14 de junho, após um temporal, mesmo depois de solicitações registradas junto à Prefeitura de Campo Grande por meio do Fala CG e da Defesa Civil. Na reportagem publicada na terça-feira (23), moradores reclamaram da demora no atendimento e alertaram para o risco de acidentes, principalmente à noite, já que o trecho estava sem sinalização adequada. O problema foi registrado na Rua Francisco Alves Castelo, no 29, próximo a uma distribuidora de tintas automotivas e imobiliárias. Imagens feitas nesta quarta mostram equipes trabalhando na retirada dos galhos e na limpeza da via. Um caminhão foi usado no serviço, enquanto trabalhadores cortavam e recolhiam os restos da árvore. A Sisep (Secretaria Municipal de Infraestrutura e Serviços Públicos) havia sido procurada pelo Campo Grande News para explicar a demora no atendimento e informar se havia previsão para a remoção, mas não respondeu até o fechamento da reportagem anterior.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "problema",
+            "news",
+            "árvore",
+            "galho",
+            "vila ipiranga",
+            "matéria",
+            "campo",
+            "publicação",
+            "transtornos",
+            "rua francisco alves castelo",
+            "caída havia quase",
+            "removida",
+            "riscos causados",
+            "-feira",
+            "porte obstruía"
+        ],
         "creator": [
-            "investing.com"
+            "por gabriel neris"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "business"
+            "top",
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-23 16:07:43",
+        "pubDate": "2026-06-24 16:08:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:36:44",
-        "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4C19P_L.jpg",
+        "fetched_at": "2026-06-24 16:41:04",
+        "image_url": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/06/24/u2t6lc3pru9j.jpeg",
         "video_url": null,
-        "source_id": "investing_br",
-        "source_name": "Investing Brasil",
-        "source_priority": 33451,
-        "source_url": "https://br.investing.com",
-        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "source_id": "campograndenews",
+        "source_name": "Campo Grande News",
+        "source_priority": 139036,
+        "source_url": "https://www.campograndenews.com.br",
+        "source_icon": "https://n.bytvi.com/campograndenews.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -358,21 +143,18 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "荷兰 - 股市收盘走低，AEX 指数下跌 1.60%",
-        "description_zh": "荷兰 - 股市收盘走低，AEX 指数下跌 1.60%"
+        "title_zh": "收到报告后，维拉伊皮兰加近一个月前倒下的树被移除",
+        "description_zh": "大坎普市伊皮兰加镇弗朗西斯科·阿尔维斯卡斯特洛街的这棵树已倒下近一个月，在《大坎普新闻》发表了一篇关于该问题造成的不便和风险的文章后，于本周三（24日）被拆除。大树枝挡住了部分"
     },
     {
-        "article_id": "bc0d655d105dfd4b93c7fb4655b49779",
-        "link": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-bndes-esta-dando-show-e-licao-ao-mundo-sobre-para-que-serve-um-banco-de-desenvolvimento/",
-        "title": "Lula: BNDES está ‘dando show e lição ao mundo’ sobre para que serve um banco de desenvolvimento",
-        "description": "O presidente da República, Luiz Inácio Lula da Silva (PT), afirmou nesta terça-feira, 23, que o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) está dando uma \"lição ao mundo\" ao emprestar dinheiro para que empresas façam obras de interesse público. A fala do presidente foi feita durante a inauguração de um trecho da Rodovia Presidente Dutra, no Rio de Janeiro. \"O BNDES está dando um show e lição ao mundo sobre para o que serve um banco de desenvolvimento. Um banco de desenvolvimento serve para criar as condições para emprestar dinheiro para que as empresas possam fazer as obras que o Brasil precisa\", declarou o presidente. Ao elogiar a ministra da Casa Civil, Miriam Belchior, Lula disse que o Novo Programa de Aceleração do Crescimento (PAC), conduzido pela ministra, foi feito para que os ministros do governo dele \"não ficassem inventando obra\". Com a medida, Lula afirmou que cada auxiliar já sabe o que será feito durante o mandato. \"O PAC foi inventado para que a gente não permita que ministro fique inventando obra. Cada um que entra no meu governo sabe o que vai fazer na educação, saúde, rodovias, portos e aeroportos. Está tudo planejado\", disse Lula. Lula inaugurou nesta terça-feira a primeira etapa das obras do trecho da Rodovia Presidente Dutra na Serra das Araras, no Rio de Janeiro. Foram lançados quatro quilômetros de pista de subida. O investimento total é de R$ 1,5 bilhão. Estadão Conteúdo.",
+        "article_id": "d6214a0c350351822404d567fb07760f",
+        "link": "https://jornaldebrasilia.com.br/noticias/brasil/homem-em-situacao-de-rua-e-encontrado-morto-apos-noite-de-frio-em-sp/",
+        "title": "Homem em situação de rua é encontrado morto após noite de frio em SP",
+        "description": "SÃO PAULO, SP (UOL/FOLHAPRESS) A Polícia Civil investiga a morte de um homem após uma noite fria em Mogi das Cruzes, na Grande São Paulo. O morador, que não deve a identidade divulgada, foi encontrado morto por volta das 6h45 de hoje. Ele estava na rua Coronel Marcolino Paiva, no centro da cidade, para onde a Polícia Militar foi chamada, segundo a SSP (Secretaria de Segurança Pública) de São Paulo. Militares constataram a morte no próprio local e não encontraram sinais de violência. A perícia foi acionada e foram pedidos exames necroscópico, toxicológico e de coleta de impressões digitais, que devem determinar a causa. O caso foi registrado como encontro de cadáver na Delegacia Seccional de Mogi das Cruzes. Prefeitura informou que o homem tinha vindo do interior de São Paulo e vivia em situação de rua \"há algum tempo\". Direção disse ainda que ele tinha um familiar em Mogi das Cruzes, mas que não mantinha vínculo devido a dependência química dele. Secretaria de Assistência Social alega ter acolhido o homem por três vezes ao longo do tempo. Apesar de não ter especificado as datas em que as entradas nos abrigos se deram, a pasta esclareceu que ele sempre fugia dos estabelecimentos. Agentes sociais teriam intensificado trabalho nas ruas desde o início do mês devido às baixas temperaturas. \"De domingo a domingo, as equipes atuam em horário estendido, até as 21 horas e, nos dias abaixo de 10o, até as 22 horas, dentro da Operação Inverno, que ampliou os serviços e as vagas nas entidades, passando de 158 para 192\", explicou a prefeitura. Adesão ao serviço ofertado ocorre de forma espontânea e não coercitiva. Município diz que o Serviço e Abordagem Social atua em locais previamente mapeados e também a partir de solicitações via WhatsApp pelo número (11) 99827-0909.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "pac",
-            "lula",
-            "investimento",
-            "bndes",
-            "dutra"
+            "homem em situação de rua",
+            "frio"
         ],
         "creator": [
             "redação jornal de brasília"
@@ -382,14 +164,14 @@
             "brazil"
         ],
         "category": [
-            "business",
-            "top"
+            "top",
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-23 16:07:37",
+        "pubDate": "2026-06-24 16:07:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 17:21:51",
-        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/06/19165730/lulaa.jpg",
+        "fetched_at": "2026-06-24 16:51:12",
+        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/06/30174410/frio_sao_paulo_1.webp",
         "video_url": null,
         "source_id": "jornaldebrasilia",
         "source_name": "Jornal De Brasília",
@@ -402,32 +184,74 @@
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "卢拉：BNDES 正在“向世界展示和教训”开发银行的用途",
-        "description_zh": "共和国总统路易斯·伊纳西奥·卢拉·达席尔瓦 (PT) 于 23 日周二表示，国家经济和社会发展银行 (BNDES) 正在通过向企业提供资金以开展公共利益工作来“给世界上一课”。总统的讲话很难听"
+        "duplicate": false,
+        "title_zh": "无家可归的男子在寒冷的夜晚后被发现死亡",
+        "description_zh": "圣保罗，圣保罗 (UOL/FOLHAPRESS) 在大圣保罗州莫吉达斯克鲁兹的一个寒冷的夜晚后，民警正在调查一名男子的死亡事件。该居民的身份尚未公布，于今天早上 6 点 45 分左右被发现死亡。他在市中心的 Coronel Marcolino Paiva 街上"
     },
     {
-        "article_id": "f1f68100b0992356573fab98893cfbe0",
-        "link": "https://br.investing.com/news/world-news/banxico-deve-manter-juros-em-650-em-meio-a-preocupacoes-com-inflacao-93CH-1981307",
-        "title": "Banxico deve manter juros em 6,50% em meio a preocupações com inflação",
-        "description": "Banxico deve manter juros em 6,50% em meio a preocupações com inflação",
+        "article_id": "645046c84712f398ff4935c87b3888e6",
+        "link": "https://odia.ig.com.br/teresopolis/2026/06/7268929-sincomercio-teresopolis-reivindica-reuniao-participativa-em-teresopolis-sobre-alteracoes-no-contrato-de-concessao-da-br-116.html",
+        "title": "Sincomércio Teresópolis reivindica reunião participativa em Teresópolis sobre alterações no contrato de concessão da BR-116",
+        "description": "Com apoio do deputado federal Hugo Leal e da Fecomércio-RJ, entidade defende a importância de aproximar o debate da população diretamente afetada",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "infraestrutura",
+            "comércio",
+            "estradas",
+            "antt"
+        ],
         "creator": [
-            "luke juricic"
+            "o dia"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "world"
+            "top",
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-23 16:07:21",
+        "pubDate": "2026-06-24 16:07:53",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:36:48",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_L.jpg",
+        "fetched_at": "2026-06-24 16:40:52",
+        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/06/24/br_116-38924473.jpeg",
+        "video_url": null,
+        "source_id": "odia_ig_br",
+        "source_name": "Odia Ig Br",
+        "source_priority": 144458,
+        "source_url": "https://odia.ig.com.br",
+        "source_icon": "https://n.bytvi.com/odia_ig_br.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Sincomércio Teresópolis 要求在特雷索波利斯召开参与式会议，讨论 BR-116 特许权合同的变更",
+        "description_zh": "在联邦议员 Hugo Leal 和 Fecomércio-RJ 的支持下，该实体捍卫了让辩论更接近直接受影响人群的重要性"
+    },
+    {
+        "article_id": "bd4d1c4c593398b9e1b1d9570f024450",
+        "link": "https://br.investing.com/news/stock-market-news/holanda--acoes-fecharam-o-pregao-em-queda-e-o-indice-aex-recuou-003-1982700",
+        "title": "Holanda - Ações fecharam o pregão em queda e o Índice AEX recuou 0,03%",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-24 16:07:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-24 16:36:35",
+        "image_url": null,
         "video_url": null,
         "source_id": "investing_br",
         "source_name": "Investing Brasil",
@@ -441,41 +265,165 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "由于担心通胀，墨西哥央行应将利率维持在 6.50%",
-        "description_zh": "由于担心通胀，墨西哥央行应将利率维持在 6.50%"
+        "title_zh": "荷兰 - 股市收盘走低，AEX 指数下跌 0.03%",
+        "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "ca85f513e8648ce1459d804e8a35b23b",
-        "link": "https://abcnoticias.mx/deportes/2026/6/23/mexico-rompe-record-de-audiencia-con-triunfo-sobre-corea-del-sur-285616.html",
-        "title": "México rompe récord de audiencia con triunfo sobre Corea del Sur",
-        "description": "México rompió récord de audiencia en el Mundial 2026 con 25.5 millones de espectadores ante Corea del Sur.",
+        "article_id": "1b804d5c7b649b2bd0173942b40f475f",
+        "link": "https://veja.abril.com.br/cultura/mestre-do-suspense-harlan-coben-fala-a-veja-sempre-soube-o-final-de-eu-vou-te-encontrar/",
+        "title": "Mestre do suspense, Harlan Coben fala a VEJA: ‘Sempre soube o final de Eu Vou Te Encontrar’",
+        "description": "Com 100 milhões de livros vendidos ao redor do mundo, o autor americano virou queridinho da Netflix",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "fifa",
-            "mundial 2026",
-            "selección mexicana"
+            "streaming",
+            "literatura",
+            "tela plana",
+            "netflix"
         ],
         "creator": [
-            "marifer ibáñez"
+            "beatriz haddad"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-24 16:07:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-24 16:32:15",
+        "image_url": "https://veja.abril.com.br/wp-content/uploads/2026/06/harlan-coben.jpg?quality=70&strip=info",
+        "video_url": null,
+        "source_id": "veja_abril_br",
+        "source_name": "Veja",
+        "source_priority": 5562,
+        "source_url": "https://veja.abril.com.br",
+        "source_icon": "https://n.bytvi.com/veja_abril_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "悬疑大师哈伦·科本 (Harlan Coben) 告诉 VEJA：“我一直知道《我会找到你》的结局”",
+        "description_zh": "这位美国作家的图书在全球售出 1 亿册，成为 Netflix 的宠儿"
+    },
+    {
+        "article_id": "4a23937cde347b1bc0fc8e040e16f506",
+        "link": "https://www.papelpop.com/2026/06/charli-xcx-anuncia-wink-wink-novo-single-da-era-music-fashion-film/",
+        "title": "Charli XCX anuncia “Wink Wink”, novo single da era “Music, Fashion Film”",
+        "description": "Após dividir um cigarro e uma pista de dança com Madonna em Paris, Charli XCX anunciou nesta quarta-feira (24) o single “Wink Wink”. A faixa chega às plataformas digitais já nesta quinta (25), acompanhada de um videoclipe. Abaixo, confira uma prévia do trabalho: Ver essa foto no Instagram Um post compartilhado por Papelpop (@papelpop) A ... O post Charli XCX anuncia “Wink Wink”, novo single da era “Music, Fashion Film” apareceu primeiro em PAPELPOP .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "charli xcx",
+            "wink wink",
+            "music fashion film"
+        ],
+        "creator": [
+            "catharina dourado"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-24 16:07:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-24 17:19:22",
+        "image_url": "https://assets.papelpop.com/wp-content/uploads/2026/06/SnapInsta.to_730263700_18602359570052491_2674919936895073976_n.jpg",
+        "video_url": null,
+        "source_id": "papelpop",
+        "source_name": "Papelpop",
+        "source_priority": 1243852,
+        "source_url": "https://www.papelpop.com",
+        "source_icon": null,
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Charli XCX 宣布“音乐、时尚电影”时代的新单曲《Wink Wink》",
+        "description_zh": "在巴黎与麦当娜共享一支香烟和舞池后，Charli XCX 在本周三（24 日）宣布了单曲“Wink Wink”。该曲目于本周四（25 日）登陆数字平台，并附有音乐视频。下面，看看作品预览：在 Instagram 上查看这张照片 嗯 po"
+    },
+    {
+        "article_id": "d522435344151ba5a9a1bc48f45f431c",
+        "link": "https://elplanteo.com/wall-street-psicodelicos/",
+        "title": "Wall Street Está a Punto de Robarles los Psicodélicos a Quienes Más los Necesitan",
+        "description": "¡No te pierdas ni una noticia! Suscríbete a nuestra newsletter GRATUITA y súmate a nuestro canal de Telegram o canal de WhatsApp. Síguenos en redes sociales para más contenido exclusivo: Instagram // Facebook // Twitter La evidencia clínica es real. Las valoraciones, no. Compass Pathways: capitalización de mercado de USD 560 millones, cero ingresos. MindMed: hasta USD 2.000 millones, cero ingresos. Incluso Ozempic perdió la mitad de su valor con USD 49.000 millones en ventas reales. Cuando esta burbuja estalle, las víctimas no estarán en Wall Street. Serán los pacientes ... Read more Lee \" Wall Street Está a Punto de Robarles los Psicodélicos a Quienes Más los Necesitan \" en El Planteo .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "rolando garcía"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "argentina"
         ],
         "category": [
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-24 16:07:43",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-24 16:18:24",
+        "image_url": "https://elplanteo.com/wp-content/uploads/2026/06/psicodelicos-wall-street.png",
+        "video_url": null,
+        "source_id": "elplanteo",
+        "source_name": "El Planteo",
+        "source_priority": 906563,
+        "source_url": "https://elplanteo.com",
+        "source_icon": "https://n.bytvi.com/elplanteo.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "华尔街即将从最需要的人那里窃取迷幻药",
+        "description_zh": "不要错过任何一条新闻！订阅我们的免费新闻通讯并加入我们的 Telegram 频道或 WhatsApp 频道。在社交媒体上关注我们以获取更多独家内容：Instagram // Facebook // Twitter 临床证据是真实的。收视率，没有。指南针路径：capit"
+    },
+    {
+        "article_id": "e0e12229aee814ea72118eb9716dff94",
+        "link": "https://www.clarin.com/fama/jose-chatruc-fulmino-diego-brancatelli-dichos-lionel-messi-da-cabeza_0_dkJwFD66Bk.html",
+        "title": "José Chatruc fulminó a Diego Brancatelli por sus dichos sobre Lionel Messi: “No le da la cabeza”",
+        "description": "El exfutbolista apuntó contra el periodista por sus opiniones sobre el astro argentino. Brancatelli recogió el guante, negó haber amenazado al capitán y respondió con dureza.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "diego brancatelli"
+        ],
+        "creator": [
+            "redacción clarín"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-23 16:08:00",
+        "pubDate": "2026-06-24 16:07:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:45:08",
-        "image_url": "https://abcnoticias.mx/u/fotografias/m/2026/6/18/f1280x720-351684_483359_5050.png",
+        "fetched_at": "2026-06-24 16:34:12",
+        "image_url": "https://cdn.jwplayer.com/v2/media/h05r1Ho7/poster.jpg?width=320",
         "video_url": null,
-        "source_id": "abcnoticias",
-        "source_name": "Abc Noticias",
-        "source_priority": 300132,
-        "source_url": "https://abcnoticias.mx",
-        "source_icon": "https://n.bytvi.com/abcnoticias.png",
+        "source_id": "clarin",
+        "source_name": "Clarin",
+        "source_priority": 1115,
+        "source_url": "https://www.clarin.com",
+        "source_icon": "https://n.bytvi.com/clarin.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -483,52 +431,49 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "墨西哥战胜韩国打破收视纪录",
-        "description_zh": "墨西哥队对阵韩国队，以 2550 万观众打破了 2026 年世界杯的观众人数纪录。"
+        "title_zh": "何塞·查特鲁克驳斥了迭戈·布兰卡特利对莱昂内尔·梅西的评论：“他没有头脑”",
+        "description_zh": "这位前足球运动员针对这位记者对这位阿根廷球星的看法。布兰卡特利拿起手套，否认威胁过队长，并做出了严厉的回应。"
     },
     {
-        "article_id": "d0e8d240620b3cfb42024fd22b872ca4",
-        "link": "https://www.poresto.com/mexico/sucesos/2026/6/23/atacan-a-jose-alberto-martinez-luna-exalcalde-de-miahuatlan-oaxaca-hay-un-escolta-muerto.html",
-        "title": "Atacan a José Alberto Martínez Luna, exalcalde de Miahuatlán, Oaxaca; hay un escolta muerto",
-        "description": "El exalcalde de Miahuatlán, Oaxaca, José Alberto Martínez Luna, fue víctima de un ataque armado. Un escolta murió y otro resultó herido. La Fiscalía ya investiga el atentado.",
+        "article_id": "94473606a0b21c51f50d908abb44da98",
+        "link": "https://www.informador.mx/gentebien/sociales-reunion-de-generaciones-capsulas-del-tiempo-en-the-american-school-foundation-of-guadalajara-20260624-0084.html",
+        "title": "Sociales: Reunión de generaciones: Cápsulas del tiempo en The American School Foundation of Guadalajara",
+        "description": "Se llevó a cabo la reunión de la Generación 2006, cuyos integrantes regresaron a las instalaciones para desenterrar su cápsula del tiempo",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "atacan",
-            "méxico",
-            "exalcalde",
-            "oaxaca",
-            "luna",
-            "escolta",
-            "inseguridad",
-            "alberto",
-            "martínez",
-            "miahuatlán",
-            "muerto",
-            "josé",
-            "delincuencia-organizada"
+            "carla camberos",
+            "cápsulas del tiempo",
+            "apertura",
+            "ama paula godoy",
+            "romina gonzález",
+            "alejandra ochoa",
+            "carlos albarrán",
+            "the american school foundation of guadalajara",
+            "reencuentro",
+            "renata villand"
         ],
         "creator": [
-            "israel olguín"
+            "xochitl martínez"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "crime",
-            "top"
+            "top",
+            "education"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-23 16:07:51",
+        "pubDate": "2026-06-24 16:08:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:49:21",
-        "image_url": "https://www.poresto.com/media/2026/6/23/jose-alberto-martinez-luna-expresidente-municipal-de-miahuatlan-oaxaca.jpg",
+        "fetched_at": "2026-06-24 17:05:33",
+        "image_url": "https://www.informador.mx/__export/1782318715201/sites/elinformador/img/2026/06/24/dsc_0075.jpg_539401183.jpg",
         "video_url": null,
-        "source_id": "poresto",
-        "source_name": "Por Esto!",
-        "source_priority": 1266292,
-        "source_url": "https://www.poresto.com",
-        "source_icon": "https://n.bytvi.com/poresto.png",
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://n.bytvi.com/informador_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -536,30 +481,197 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们攻击瓦哈卡州米亚瓦特兰市前市长何塞·阿尔贝托·马丁内斯·卢纳；有一个死保镖",
-        "description_zh": "瓦哈卡州米亚瓦特兰市前市长何塞·阿尔贝托·马丁内斯·卢纳 (José Alberto Martínez Luna) 成为武装袭击的受害者。一名护卫被杀，另一名护卫受伤。检察官办公室已经开始调查这起袭击事件。"
+        "title_zh": "社交：几代人的团聚：瓜达拉哈拉美国学校基金会的时间胶囊",
+        "description_zh": "2006 届同学聚会举行，同学们返回设施挖掘他们的时间胶囊"
     },
     {
-        "article_id": "30ec20138dc163171bdc66adbf17c115",
-        "link": "https://mx.investing.com/news/stock-market-news/las-bolsas-de-valores-de-holanda-cerraron-con-caidas-el-aex-perdio-un-160-3662316",
-        "title": "Las bolsas de valores de Holanda cerraron con caídas; el AEX perdió un 1.60%",
-        "description": null,
+        "article_id": "939f3918b729ffc1801fca8cce0068ff",
+        "link": "https://diariodelcauca.com.co/messi-rompe-record-impresionante-en-la-copa-del-mundo/",
+        "title": "Messi rompe récord impresionante en la copa del mundo",
+        "description": "Messi hace historia: se convierte en el máximo goleador de todos los Mundiales Lionel Messi rompió uno de los récords más codiciados del fútbol mundial al alcanzar 18 goles en Copas del Mundo tras un doblete ante Austria en la segunda fecha del Mundial 2026, superando definitivamente al alemán Miroslav Klose y quedando en solitario [...] La entrada Messi rompe récord impresionante en la copa del mundo se publicó primero en Diario del Cauca .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
-        "creator": null,
+        "creator": [
+            "pablo suarez"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-24 16:08:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-24 16:19:08",
+        "image_url": "https://diariodelcauca.com.co/wp-content/uploads/2026/06/IMG_5864.jpeg",
+        "video_url": null,
+        "source_id": "diariodelcauca_co",
+        "source_name": "Diario Del Cauca",
+        "source_priority": 994611,
+        "source_url": "https://diariodelcauca.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelcauca_co.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "梅西打破世界杯纪录",
+        "description_zh": "梅西创造历史：他成为历届世界杯的最佳射手 莱昂内尔·梅西 (Lionel Messi) 在 2026 年世界杯第二场对阵奥地利的比赛中梅开二度，打破了世界足坛最令人垂涎​​的纪录之一，在世界杯上攻入 18 粒进球，最终超越了德国人"
+    },
+    {
+        "article_id": "49dc05d62ed6205350bdb7a985edd2db",
+        "link": "https://heraldodemexico.com.mx/nacional/2026/6/24/claudia-sheinbaum-pardo-detalla-temas-tratar-con-el-rey-de-espana-838358.html",
+        "title": "Claudia Sheinbaum Pardo detalla temas a tratar con el Rey de España",
+        "description": "Dijo que en su gobierno se tomó en cuenta el gesto de que el rey de España visitará una exposición sobre la historia de México",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "sheinbaum",
+            "mañanera"
+        ],
+        "creator": [
+            "noemí gutiérrez y carlos navarro"
+        ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "business",
-            "top"
+            "technology"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-23 16:07:49",
+        "pubDate": "2026-06-24 16:08:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:33:58",
-        "image_url": null,
+        "fetched_at": "2026-06-24 16:38:26",
+        "image_url": "https://heraldodemexico.com.mx/u/fotografias/m/2026/6/24/f1280x720-1299516_1431191_5050.jpg",
+        "video_url": null,
+        "source_id": "heraldodemexico",
+        "source_name": "El Heraldo De Mexico",
+        "source_priority": 21317,
+        "source_url": "https://heraldodemexico.com.mx",
+        "source_icon": "https://n.bytvi.com/heraldodemexico.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "克劳迪娅·谢因鲍姆·帕尔多详细介绍了将与西班牙国王讨论的问题",
+        "description_zh": "他说，他的政府考虑到西班牙国王将参观墨西哥历史展览的姿态"
+    },
+    {
+        "article_id": "47b161f50afee640093438ed8eeb12c2",
+        "link": "https://www.noroeste.com.mx/portada/inflacion-en-mexico-baja-a-355-anual-en-primera-quincena-de-junio-2026-nivel-mas-bajo-en-casi-dos-anos-NH23539411",
+        "title": "Inflación en México baja a 3.55% anual en primera quincena de junio 2026, nivel más bajo en casi dos años",
+        "description": "El Índice Nacional de Precios al Consumidor registró una variación quincenal negativa de 0.11 por ciento en la primera quincena de junio de 2026, con lo que la inflación general anual se ubicó en 3.55 por ciento, según datos del Instituto Nacional de Estadística y Geografía. El INPC alcanzó un nivel de 145.274 puntos en el periodo analizado. El resultado contrasta de manera favorable con el desempeño registrado en la primera quincena de junio de 2025, cuando la variación quincenal fue de 0.10 por ciento al alza y la inflación anual se situó en 4.51 por ciento, lo que implica una reducción de casi un punto porcentual en términos anuales. El componente subyacente del índice —que excluye bienes y servicios con alta volatilidad en sus precios, así como aquellos que no responden a condiciones de mercado— registró un incremento de 0.19 por ciento a tasa quincenal. Al interior de este indicador, los precios de las mercancías avanzaron 0.11 por ciento, en tanto que los de servicios subieron 0.27 por ciento. El componente no subyacente, por su parte, descendió 1.14 por ciento a tasa quincenal, impulsado principalmente por una caída de 5.24 por ciento en los precios de frutas y verduras. Entre los productos genéricos con mayor incidencia al alza en el INPC durante la primera quincena de junio de 2026 destacaron el aguacate, con un incremento de 18.51 por ciento quincenal; el transporte aéreo, con 13.75 por ciento; los hoteles, con 8.73 por ciento; la papa y otros tubérculos, con 5.76 por ciento; y los servicios turísticos en paquete, con 4.07 por ciento. En sentido contrario, los productos que más contribuyeron a la baja del índice fueron el chile poblano, con una caída de 28.33 por ciento quincenal; el jitomate, con 23.98 por ciento; el chile serrano, con 15.21 por ciento; la uva, con 14.59 por ciento; y el huevo, con 4.51 por ciento. En materia geográfica, las entidades federativas con variación quincenal por encima del promedio nacional fueron Quintana Roo, con 0.31 por ciento; Aguascalientes, con 0.13 por ciento; Colima, con 0.12 por ciento; el Estado de México, con 0.09 por ciento; y San Luis Potosí, con 0.07 por ciento. A nivel ciudad, Cancún, Quintana Roo encabezó las alzas con 0.40 por ciento, seguida de Esperanza, Sonora, y Saltillo, Coahuila, ambas con 0.27 por ciento; Tijuana, Baja California, con 0.23 por ciento; y Jacona, Michoacán, con 0.21 por ciento. Las entidades con las mayores caídas en precios fueron Tlaxcala, con -0.68 por ciento; Puebla, con -0.63 por ciento; Hidalgo, con -0.50 por ciento; Nayarit, con -0.43 por ciento; y Guerrero, con -0.38 por ciento. Entre las ciudades con mayor deflación quincenal sobresalieron Izúcar de Matamoros, Puebla, con -0.85 por ciento, y Acapulco de Juárez, Guerrero, con -0.77 por ciento; seguidas de Tlaxcala, Tlaxcala, con -0.68 por ciento; Puebla, Puebla, con -0.59 por ciento; y Córdoba, Veracruz, con -0.58 por ciento. El INPC es la medida oficial que registra el cambio promedio en los precios de la canasta de bienes y servicios representativa del consumo de los hogares mexicanos. Su comportamiento sirve como referencia fundamental para la política monetaria del Banco de México, institución que ha mantenido un ciclo de recortes graduales a su tasa de interés de referencia en el contexto de una inflación que se acerca a su objetivo de 3 por ciento.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "carlos álvarez",
+            "inegi",
+            "economía",
+            "canasta básica",
+            "inflación",
+            "precios"
+        ],
+        "creator": [
+            "carlos álvarez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-24 16:07:59",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-24 16:48:21",
+        "image_url": "https://www.noroeste.com.mx/binrepository/inflacion_1-13752457_20260624090940.jpg",
+        "video_url": null,
+        "source_id": "noroeste",
+        "source_name": "Noroeste",
+        "source_priority": 841816,
+        "source_url": "https://www.noroeste.com.mx",
+        "source_icon": "https://n.bytvi.com/noroeste.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "2026年6月上半月墨西哥通胀年率降至3.55%，为近两年来最低水平",
+        "description_zh": "根据国家统计地理研究所的数据，2026 年 6 月上半月，全国消费者价格指数双周负变化为 0.11%，导致年度通胀率达到 3.55%。 INPC 达到"
+    },
+    {
+        "article_id": "9c474ae4f499f79030f8f4b1f2b58f78",
+        "link": "https://www.diariodelsur.com.co/messi-rompe-record-impresionante-en-la-copa-del-mundo/",
+        "title": "Messi rompe récord impresionante en la copa del mundo",
+        "description": "Messi hace historia: se convierte en el máximo goleador de todos los Mundiales Lionel Messi rompió uno de los récords más codiciados del fútbol mundial al alcanzar 18 goles en Copas del Mundo tras un doblete ante Austria en la segunda fecha del Mundial 2026, superando definitivamente al alemán Miroslav Klose y quedando en solitario [...] La entrada Messi rompe récord impresionante en la copa del mundo se publicó primero en Diario del Sur .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "pablo suarez"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-24 16:07:57",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-24 16:17:39",
+        "image_url": "https://www.diariodelsur.com.co/wp-content/uploads/2026/06/IMG_5864.jpeg",
+        "video_url": null,
+        "source_id": "diariodelsur",
+        "source_name": "Diario Del Sur",
+        "source_priority": 832974,
+        "source_url": "http://diariodelsur.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelsur.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "梅西打破世界杯纪录",
+        "description_zh": "梅西创造历史：他成为历届世界杯的最佳射手 莱昂内尔·梅西 (Lionel Messi) 在 2026 年世界杯第二场对阵奥地利的比赛中梅开二度，打破了世界足坛最令人垂涎​​的纪录之一，在世界杯上攻入 18 粒进球，最终超越了德国人"
+    },
+    {
+        "article_id": "65d8145c34e2255652de1eef9c146ac5",
+        "link": "https://mx.investing.com/news/stock-market-news/las-bolsas-de-valores-de-holanda-cerraron-con-caidas-el-aex-perdio-un-003-3663821",
+        "title": "Las bolsas de valores de Holanda cerraron con caídas; el AEX perdió un 0.03%",
+        "description": "Las bolsas de valores de Holanda cerraron con caídas; el AEX perdió un 0.03%",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "investing.com"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-24 16:07:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-24 16:33:16",
+        "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg",
         "video_url": null,
         "source_id": "investing_mx",
         "source_name": "Investing México",
@@ -573,94 +685,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "荷兰股市收低； AEX下跌1.60%",
-        "description_zh": "查看原文了解更多详情"
+        "title_zh": "荷兰股市收低； AEX下跌0.03%",
+        "description_zh": "荷兰股市收低； AEX下跌0.03%"
     },
     {
-        "article_id": "2dae92ca4cc0a5025b708d15b9ef557a",
-        "link": "https://horacero.com.mx/nuevo-leon/autobus-de-pasajeros-termina-consumido-por-el-fuego-en-apodaca",
-        "title": "Autobús de pasajeros termina consumido por el fuego en Apodaca",
-        "description": "Un autobús de pasajeros de la ruta 527 quedó prácticamente destruido tras incendiarse en el municipio de Apodaca. The post Autobús de pasajeros termina consumido por el fuego en Apodaca appeared first on Hora Cero Web .",
+        "article_id": "733e171e79358bf6964504f77a8e070d",
+        "link": "https://www.marca.com/tiramillas/sociedad/2026/06/24/diez-consejos-mantener-hidratado-gato-protegerlo-calor-verano.html",
+        "title": "Diez consejos para mantener hidratado a tu gato y protegerlo del calor este verano",
+        "description": "Las altas temperaturas también afectan a los gatos, incluso a aquellos que viven exclusivamente en el interior de casa",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "secundarias"
+            "hidratado",
+            "consejos",
+            "mantener",
+            "gato",
+            "diez"
         ],
         "creator": [
-            "marintia ortiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-23 16:07:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:18:23",
-        "image_url": "https://horacero.com.mx/wp-content/uploads/2026/06/726704092_1349973657197918_2233866256884782022_n.webp",
-        "video_url": null,
-        "source_id": "horacero_mx",
-        "source_name": "Horacero Mx",
-        "source_priority": 868697,
-        "source_url": "https://horacero.com.mx",
-        "source_icon": "https://n.bytvi.com/horacero_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿波达卡客车最终被大火烧毁",
-        "description_zh": "527 号公路上的一辆客车在阿波达卡市起火后几乎被毁。在阿波达卡被大火烧毁的客运巴士首先出现在 Hora Cero 网站上。"
-    },
-    {
-        "article_id": "9d0f8e22f3b584b331135250fd5c1622",
-        "link": "https://seguimiento.co/la-region-caribe/carpintero-magdalenense-murio-tras-ser-arrollado-por-un-bus-en-soledad-87148",
-        "title": "Carpintero magdalenense murió tras ser arrollado por un bus en Soledad",
-        "description": "Martes 23 de Junio de 2026 - 11:04am Un fuerte choque segó los planes de un hombre que se disponía a iniciar su jornada laboral, generando consternación entre los transeúntes y residentes de la zona. El afectado en este hecho fue plenamente identificado como Alejandro Carrascal, de 33 años de edad. El hombre era oriundo del corregimiento de Palermo , jurisdicción del municipio de Sitionuevo, Magdalena , pero se encontraba radicado en Soledad, Atlántico, donde se ganaba la vida ejerciendo labores de carpintería. Según el reporte preliminar, el siniestro ocurrió en horas de la mañana, en momentos en que el ciudadano se movilizaba a bordo de una motocicleta de placas FBU 87H. Durante el trayecto, el vehículo fue embestido de forma violenta por una buseta de transporte público afiliada a la empresa Transmecar, con placas UZC 985. La magnitud del impacto lateral provocó que Carrascal perdiera el control absoluto de la motocicleta, saliendo despedido y golpeando contra el pavimento Vecinos del sector y transeúntes que presenciaron el impacto acudieron de inmediato al punto con la intención de prestarle los primeros auxilios. No obstante, las múltiples contusiones sufridas en órganos vitales determinaron que el hombre quedara sin signos vitales de manera inmediata a un costado del vehículo. Judicial Investigación Accidente Soledad Atlántico magdalenense Región Caribe La región Caribe El hecho cobró la vida de Alejandro Carrascal, de 33 años. Visible: Sí Lindaospino",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "investigación",
-            "departamento del magdalena",
-            "región caribe",
-            "accidente",
-            "noticias de santa marta",
-            "últimas noticias de santa marta",
-            "soledad",
-            "atlántico",
-            "seguimiento.co",
-            "hoy diario del magdalena",
-            "seguimiento",
-            "noticias de hoy santa marta",
-            "magdalenense",
-            "judicial"
-        ],
-        "creator": [
-            "seguimiento co"
+            "javier fernández borrell"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "crime",
-            "top"
+            "science"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-23 16:07:40",
+        "pubDate": "2026-06-24 16:07:55",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:16:59",
-        "image_url": "https://seguimiento.co/sites/default/files/2026/6/23/articulo/seguimiento_3.jpeg",
+        "fetched_at": "2026-06-24 16:35:35",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/06/24/6a3c00d706c46.jpeg",
         "video_url": null,
-        "source_id": "seguimiento",
-        "source_name": "Seguimiento.co",
-        "source_priority": 654651,
-        "source_url": "http://seguimiento.co",
-        "source_icon": "https://n.bytvi.com/seguimiento.png",
+        "source_id": "marca",
+        "source_name": "Marca Claro",
+        "source_priority": 426,
+        "source_url": "https://www.marca.com",
+        "source_icon": "https://n.bytvi.com/marca.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -668,42 +729,97 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "玛格达琳木匠在索莱达被一辆公共汽车撞倒后死亡",
-        "description_zh": "2026 年 6 月 23 日星期二 - 上午 11:04 一场强烈的车祸打乱了一名正准备开始工作的男子的计划，引起了该地区路人和居民的恐慌。此次事件中受影响的人被确认为亚历杭德罗·卡拉斯卡尔 (Alejandro Carrascal)，33 岁。"
+        "title_zh": "今年夏天让你的猫保持水分并保护他免受炎热的十个秘诀",
+        "description_zh": "高温也会影响猫，即使是那些只生活在室内的猫。"
     },
     {
-        "article_id": "a30a0ad7cd7b519921b8e922860a44d9",
-        "link": "https://oem.com.mx/elsoldetlaxcala/tendencias/temporada-de-luciernagas-en-tlaxcala-recomendaciones-para-vivir-esta-experiencia-turistica-30721412",
-        "title": "Temporada de luciérnagas: te decimos cómo vivir esta experiencia turística en los bosques de Nanacamilpa",
-        "description": "Junto con la temporada de lluvias llega a los bosques de Tlaxcala uno de los fenómenos más llamativos de la naturaleza; conoce la guía práctica para disfrutar de este espectáculo de luminiscencia",
+        "article_id": "981814c3e5941ab289a69ef951f7326f",
+        "link": "https://www.semana.com/gente/articulo/no-es-necesario-alerta-se-fue-contra-piter-albeiro-por-tildar-de-traidores-a-algunos-votantes-tras-las-elecciones/202655/",
+        "title": "“No es necesario”: Alerta se fue contra Piter Albeiro por tildar de “traidores” a algunos votantes tras las elecciones",
+        "description": "El humorista cuestionó polémico comentario que publicó su colega el pasado 21 de junio.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "nanacamilpa",
-            "luciernagas",
-            "turismo"
+            "redes sociales",
+            "alerta",
+            "elecciones presidenciales 2026",
+            "piter albeiro"
         ],
         "creator": [
-            "arled jarillo"
+            "linda yicela hernández sánchez"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-24 16:07:55",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-24 16:34:33",
+        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/NNRUKQTUZJFEZARKHDP67UBLW4.jpg?auth=ec4e168548105478c3af1be79943f582d54d2357f63c7322640f01594f194896&smart=true&width=1640&height=924",
+        "video_url": null,
+        "source_id": "semana",
+        "source_name": "Semana",
+        "source_priority": 15867,
+        "source_url": "https://www.semana.com",
+        "source_icon": "https://n.bytvi.com/semana.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“没有必要”：Alerta 反对 Piter Albeiro 在选举后称一些选民为“叛徒”",
+        "description_zh": "这位喜剧演员对他的同事 6 月 21 日发表的有争议的评论提出了质疑。"
+    },
+    {
+        "article_id": "1983e3ed6fa39bb4a1e37fdb4d82592c",
+        "link": "https://www.poresto.com/mexico/2026/6/24/presidenta-claudia-sheinbaum-celebra-baja-de-inflacion-a-355-y-destaca-reduccion-en-precio-del-jitomate.html",
+        "title": "Presidenta Claudia Sheinbaum celebra baja de inflación a 3.55% y destaca reducción en precio del jitomate",
+        "description": "La Presidenta de México celebró que la inflación bajó a 3.55% en la primera quincena de junio y atribuyó el resultado a acuerdos sobre gasolina, diésel, canasta básica y jitomate.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "claudia sheinbaum",
+            "finanzas personales",
+            "baja",
+            "desarrollo económico en méxico",
+            "precio",
+            "presidenta",
+            "destaca",
+            "inflación",
+            "celebra",
+            "claudia",
+            "empleo en méxico",
+            "reducción",
+            "economía familiar",
+            "sheinbaum",
+            "jitomate"
+        ],
+        "creator": [
+            "israel olguín"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "environment",
-            "top"
+            "top",
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-23 16:07:39",
+        "pubDate": "2026-06-24 16:07:53",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 21:14:59",
-        "image_url": "https://oem.com.mx/elsoldetlaxcala/img/30711185/1782230178/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-06-24 16:18:55",
+        "image_url": "https://www.poresto.com/media/2026/6/24/claudia-sheinbaum-pardo-presidenta-de-mexico-2.jpg",
         "video_url": null,
-        "source_id": "elsoldetlaxcala_mx",
-        "source_name": "Elsoldetlaxcala Mx",
-        "source_priority": 348815,
-        "source_url": "https://www.elsoldetlaxcala.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldetlaxcala_mx.jpg",
+        "source_id": "poresto",
+        "source_name": "Por Esto!",
+        "source_priority": 1266292,
+        "source_url": "https://www.poresto.com",
+        "source_icon": "https://n.bytvi.com/poresto.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -711,86 +827,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "萤火虫季节：我们告诉您如何在纳纳卡米尔帕森林中体验这种旅游体验",
-        "description_zh": "随着雨季的到来，自然界中最引人注目的现象之一出现在特拉斯卡拉的森林中。获取实用指南来欣赏这一发光奇观"
+        "title_zh": "总统克劳迪娅·谢因鲍姆 (Claudia Sheinbaum) 庆祝通货膨胀率降至 3.55%，并强调西红柿价格的下降",
+        "description_zh": "墨西哥总统庆祝6月上半月通胀率降至3.55%，并将这一结果归因于汽油、柴油、基本篮子和番茄方面的协议。"
     },
     {
-        "article_id": "91fbd1f461ee58068437fc39ed5829b2",
-        "link": "https://redgol.cl/mundial/periodista-paraguayo-es-expulsado-del-mundial-2026-ataco-con-insultos-a-la-fifa-en-plena-transmision",
-        "title": "Periodista paraguayo es expulsado del Mundial 2026: atacó con insultos a la FIFA en plena transmisión",
-        "description": "Jorge Chipi Vera, periodista del medio paraguayo ABC, no podrá participar más del Mundial 2026 tras insultar a la FIFA. La FIFA tomó una severa decisión contra un periodista por insultos en medio de un transmisión del Mundial 2026 . Se trata del caso de Jorge Chipi Vera , quien ahora no podrá cubrir la Copa del Mundo. El comentarista de ABC Deportes reaccionó de manera explosiva a la expulsión de Miguel Almirón en el partido entre Paraguay y Turquía . El jugador vio la tarjeta roja por la nueva Ley Vínicius al taparse la boca para increpar a un rival. En vivo, Vera disparó con el árbitro del encuentro, Iván Barton, y lo llamó “ladrón”. Y fue más allá: “FIFA, mataste al fútbol. Infantino, eres el responsable. Alejandro Domínguez, ponte los pantalones con Infantino. Ladrones de mierda. Qué hijos de puta “. Este lunes, tuvo que publicar un comunicado en sus redes sociales. “FIFA ha decidido cancelar mi acreditación para esta Copa del Mundo. Esto significa que ya no podré formar parte de la cobertura de ABC en este Mundial, ni dentro ni fuera de los estadios “, confirmó. 🔴 Comunicado a nuestra audiencia Tras la revocación de credenciales de Jorge “Chipi” Vera por parte de la FIFA, el medio aplicó las medidas correspondientes y el periodista presentó disculpas formales. Desde el grupo editorial cuestionamos la proporcionalidad de la sanción y... pic.twitter.com/xdSYxZjMdb — ABC Digital (@ABCDigital) June 23, 2026 “Me corresponde asumir”: Periodista es expulsado del Mundial 2026 “Tuve un exabrupto. En medio de la frustración por la expulsión de un jugador de mi país, y de la sensación de que estaban perjudicando a mi selección, utilicé expresiones ofensivas e inaceptables contra el árbitro, la FIFA y sus autoridades “, expresó también Jorge Chipi Vera. “ Lo que dije estuvo mal y me corresponde asumir (...) He enviado una carta a FIFA expresando mis disculpas sinceras por lo ocurrido “, agregó. A la opinión pública. pic.twitter.com/ix5jwYnqX0 — Jorge Chipi Vera (@ChipiVera89) June 22, 2026",
+        "article_id": "c546555531ee7194011ce3fac4a890d1",
+        "link": "https://tribunacampeche.com/24/no-vamos-a-denunciar-a-expresidentes-sheinbaum-manto-protector-a-amlo/747831/",
+        "title": "NO VAMOS A DENUNCIAR A EXPRESIDENTES: SHEINBAUM; ¿MANTO PROTECTOR A AMLO?",
+        "description": "“CORRESPONDE A LA #FGR INVESTIGAR E INFORMAR” Durante su conferencia matutina desde Palacio Nacional, la... The post NO VAMOS A DENUNCIAR A EXPRESIDENTES: SHEINBAUM; ¿MANTO PROTECTOR A AMLO? first appeared on Tribuna Campeche .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "mundial",
-            "selección paraguay"
+            "tendencias",
+            "sheinbaum",
+            "no",
+            "expresidentes",
+            "denunciar"
         ],
         "creator": [
-            "javiera garcía l."
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "sports",
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-23 16:07:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:11:18",
-        "image_url": "https://media.redgol.cl/wp-content/uploads/sites/8/2026/06/23115656/jorge-chipi-vera-expulsado-mundial-2026-e1782230297202-1200x740.jpg",
-        "video_url": null,
-        "source_id": "redgol_cl",
-        "source_name": "Red Gol",
-        "source_priority": 179990,
-        "source_url": "https://redgol.cl",
-        "source_icon": "https://n.bytvi.com/redgol_cl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "巴拉圭记者被驱逐出2026年世界杯：全程直播辱骂国际足联",
-        "description_zh": "巴拉圭媒体A​​BC记者豪尔赫·奇皮·维拉(Jorge Chipi Vera)在侮辱国际足联后将不再参加2026年世界杯。国际足联对一名在 2026 年世界杯转播中侮辱记者的记者做出了严厉的决定。豪尔赫·奇皮·维拉（Jorge Chipi Vera）就是这种情况，他现在无法"
-    },
-    {
-        "article_id": "4204c7f9a7892dc512eadba0fccaaf35",
-        "link": "https://www.eluniversal.com.mx/metropoli/clara-brugada-mantiene-audiencias-ciudadanas-en-jardin-flotante-asi-sera-el-registro-y-la-atencion-este-martes/",
-        "title": "Clara Brugada mantiene audiencias ciudadanas en Jardín Flotante; así será el registro y la atención este martes",
-        "description": "La jefa de Gobierno y su gabinete recibirán solicitudes de la ciudadanía, el acceso será por Metro San Antonio Abad",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "audiencias ciudadanas",
-            "jardin flotente",
-            "calzada de tlalpan",
-            "clara brugada"
-        ],
-        "creator": [
-            "el universal"
+            "editor 2"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "politics",
-            "top"
+            "politics"
         ],
-        "datatype": "news",
-        "pubDate": "2026-06-23 16:07:28",
+        "datatype": "blog",
+        "pubDate": "2026-06-24 16:07:50",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:31:44",
-        "image_url": "https://www.eluniversal.com.mx/resizer/v2/KPY5Z6H6GNE3PC5E5Y6BPPAQLA.JPG?auth=bfa7f1c7c5506f938b51e3dbdbad9187e3106967e215b4e6ac310790bf8d8b03&smart=true&width=1201&height=740",
+        "fetched_at": "2026-06-24 16:19:28",
+        "image_url": "https://tribunacampeche.com/wp-content/uploads/2026/06/Clauweb-8.png",
         "video_url": null,
-        "source_id": "eluniversal",
-        "source_name": "El Universal",
-        "source_priority": 8884,
-        "source_url": "https://www.eluniversal.com.mx",
-        "source_icon": "https://n.bytvi.com/eluniversal.png",
+        "source_id": "tribunacampeche",
+        "source_name": "Tribuna Campeche",
+        "source_priority": 1508810,
+        "source_url": "https://tribunacampeche.com",
+        "source_icon": "https://n.bytvi.com/tribunacampeche.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -798,90 +871,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "克拉拉·布鲁加达 (Clara Brugada) 在 Jardín Flotante 举行公民听证会；这就是本周二的登记和关注",
-        "description_zh": "政府首脑和她的内阁将收到公民的请求，访问将通过圣安东尼奥阿巴德地铁"
-    },
-    {
-        "article_id": "a9c497fff49ef914168dab89b7ae3ce8",
-        "link": "https://diario.mx/estado/2026/jun/23/se-registra-perez-cuellar-para-coordinar-la-defensa-de-la-4t-1124172.html",
-        "title": "Se registra Pérez Cuéllar para coordinar la Defensa de la 4T",
-        "description": "El registro se realizó en el World Trade Center (WTC) de la Ciudad de México",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "araly castañón / el diario de juárez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-23 16:07:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:34:44",
-        "image_url": "https://diario.mx/core/dmx/assets/images/2026/06/23/cruz-eTBOa6L5J.jpg",
-        "video_url": null,
-        "source_id": "diario",
-        "source_name": "El Diario",
-        "source_priority": 14955,
-        "source_url": "https://diario.mx",
-        "source_icon": "https://n.bytvi.com/diario.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Pérez Cuéllar 注册协调 4T 防御",
-        "description_zh": "注册在墨西哥城世界贸易中心（WTC）进行"
-    },
-    {
-        "article_id": "69c903092a2bf3671882577dc61f6533",
-        "link": "https://www.cronica.com.mx/deportes/2026/06/23/la-isla-que-le-pidio-la-pelota-al-imperio/",
-        "title": "La isla que le pidió la pelota al imperio",
-        "description": "El Mundial es el único lugar donde una isla puede mirar de frente a un imperio y pedirle que ruede la pelota. No que le conceda audiencia, no que le mande cooperación internacional, no que la incluya en una postal amable del Caribe. No. Que juegue.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "curazao",
-            "mundial fifa",
-            "alemania",
-            "par entender el deporte mundialista"
-        ],
-        "creator": [
-            "mario ramírez barajas"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-23 16:07:24",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-23 16:44:04",
-        "image_url": "https://www.cronica.com.mx/resizer/v2/XEBHKQ67NZFYFCOP6EVWDOL3WE.jpg?auth=641d0277c3bf84c4adb7bdae98ba95b5c113f0b7a4556be0a603898b40a1fda6&smart=true&width=1200&height=900",
-        "video_url": null,
-        "source_id": "cronica_mx",
-        "source_name": "Cronica",
-        "source_priority": 362704,
-        "source_url": "https://www.cronica.com.mx",
-        "source_icon": "https://n.bytvi.com/cronica_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "向帝国索要球的岛屿",
-        "description_zh": "世界杯是唯一一个岛国可以直面帝国并要求其推动比赛的地方。不给她观众，不给她国际合作，不让她出现在来自加勒比海的友好明信片上。不，让他玩吧。"
+        "title_zh": "我们不会举报前任总统：希鲍姆； AMLO 的防护罩？",
+        "description_zh": "“调查和报告由 #FGR 负责”在国家宫举行的上午会议上，...的帖子我们不会报告前总统：希恩鲍姆； AMLO 的防护罩？首次出现在坎佩切论坛报上。"
     }
 ]
