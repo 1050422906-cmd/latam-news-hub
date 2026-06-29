@@ -1,133 +1,25 @@
 [
     {
-        "article_id": "56cc20af95914b7fc7d4f737f9bf7ea9",
-        "link": "https://www.dgabc.com.br/Noticia/4331795/ex-bbb-amanda-gontijo-anuncia-o-nascimento-da-primeira-filha-helena",
-        "title": "Ex-BBB Amanda Gontijo anuncia o nascimento da primeira filha, Helena",
-        "description": "Ex-BBB Amanda Gontijo anuncia o nascimento da primeira filha, Helena",
+        "article_id": "a215ef840aade2d84e77dec8f8d9b29c",
+        "link": "https://oantagonista.com.br/economia/carteira-de-trabalho-digital-muda-a-partir-de-julho-e-quem-nao-atualizar-pode-perder-acesso-ao-fgts/",
+        "title": "A partir de julho a Carteira de Trabalho Digital muda e quem ignorar pode perder o saque do FGTS",
+        "description": "Circula bastante a ideia de que a Carteira de Trabalho Digital “muda em julho” e que quem não atualizar os dados pode perder o acesso ao FGTS. Essa parte é falsa e tem cara de corrente de WhatsApp. Mas existem, sim, mudanças reais no recolhimento do FGTS em 2026. Este texto separa uma coisa da... The post A partir de julho a Carteira de Trabalho Digital muda e quem ignorar pode perder o saque do FGTS appeared first on O Antagonista .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "nacional",
-            "setecidades",
-            "política",
-            "diadema",
-            "grande abc",
-            "automóveis",
-            "notícias",
-            "portal",
-            "diarinho",
-            "rio grande da serra",
-            "são bernardo",
-            "esportes",
-            "economia",
-            "d+",
-            "noticias on line abc",
-            "santo andré",
-            "noticia",
-            "dgabc",
-            "abc",
-            "são caetano"
-        ],
-        "creator": [
-            "agência estado"
-        ],
+        "keywords": null,
+        "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
             "top",
-            "entertainment"
+            "technology"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-27 16:23:00",
+        "pubDate": "2026-06-28 16:43:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 17:18:59",
+        "fetched_at": "2026-06-28 16:49:38",
         "image_url": null,
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://n.bytvi.com/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "前 BBB 阿曼达·贡蒂霍 (Amanda Gontijo) 宣布她的第一个女儿海伦娜 (Helena) 出生",
-        "description_zh": "前 BBB 阿曼达·贡蒂霍 (Amanda Gontijo) 宣布她的第一个女儿海伦娜 (Helena) 出生"
-    },
-    {
-        "article_id": "73261715825454ad7c1e836abf1094b2",
-        "link": "https://www.mdzol.com/mdz-show/los-espectaculos-que-renuevan-la-cartelera-mendoza-este-domingo-28-junio-y-no-te-los-podes-perder-n1552527",
-        "title": "Los espectáculos que renuevan la cartelera de Mendoza este domingo 28 de junio y no te los podés perder",
-        "description": "Desde el debut de un esperado show infantil hasta experiencias sonoras únicas y teatro, te contamos cuáles son los imperdibles de este domingo",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "domingo",
-            "junio",
-            "mendoza"
-        ],
-        "creator": [
-            "valentina buttini"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:23:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:31:24",
-        "image_url": "https://media.mdzol.com/p/df4f5f4ba221f10641ee996f3dcece88/adjuntos/373/imagenes/001/953/0001953123/1200x675/smart/expectativa-y-realidad.jpg",
-        "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://n.bytvi.com/mdzol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "6 月 28 日周日更新门多萨广告牌的节目，您不容错过",
-        "description_zh": "从期待已久的儿童节目首次亮相到独特的声音体验和戏剧，我们告诉您本周日不能错过的内容"
-    },
-    {
-        "article_id": "af1503780a3cdf2fcedcd729d6487d71",
-        "link": "https://oantagonista.com.br/ladooa/entretenimento/rene-descartes-ha-300-anos-proferiu-a-frase-que-mudou-a-filosofia-para-sempre-cogito-ergo-sum/",
-        "title": "René Descartes há 300 anos proferiu a frase que mudou a filosofia para sempre: “Cogito Ergo Sum”",
-        "description": "“Cogito ergo sum” é latim para “penso, logo existo”. A frase foi escrita pelo filósofo francês René Descartes no século XVII e se tornou o ponto de partida da filosofia moderna. Em quatro palavras, ela resolve um dos problemas mais difíceis do pensamento humano: como ter certeza de que qualquer coisa é real. Quem foi... The post René Descartes há 300 anos proferiu a frase que mudou a filosofia para sempre: “Cogito Ergo Sum” appeared first on O Antagonista .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "filosofia",
-            "rené descartes"
-        ],
-        "creator": [
-            "vitor bruno"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "education"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:23:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:49:09",
-        "image_url": "https://cdn.oantagonista.com/uploads/2026/06/ngz-asddasads-43848.webp",
         "video_url": null,
         "source_id": "oantagonista",
         "source_name": "O Antagonista",
@@ -141,62 +33,18 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "笛卡尔在 300 年前说出了永远改变哲学的一句话：“Cogito Ergo Sum”",
-        "description_zh": "“Cogito ergo sum”是拉丁语，意思是“我思故我在”。这句话是法国哲学家笛卡尔在17世纪写下的，成为现代哲学的起点。简而言之，它解决了人类思想中最困难的问题之一：如何确保任何"
+        "title_zh": "从 7 月起，数字工作卡发生变化，任何忽视它的人都可能失去 FGTS 提款",
+        "description_zh": "人们广泛流传的想法是，数字工作卡“在七月发生变化”，任何不更新数据的人都可能失去对 FGTS 的访问权限。这部分是假的，看起来像 WhatsApp 链。但是，是的，2026 年 FGTS 的收藏确实发生了变化。本文将一件事与……分开。"
     },
     {
-        "article_id": "1486795685c419bc3d0b7b94274a33db",
-        "link": "https://www.lavozdesanjusto.com.ar/fue-sorprendido-sobre-el-techo-de-una-vivienda-quiso-escapar-por-una-casa-lindera-y-termino-detenido",
-        "title": "Fue sorprendido sobre el techo de una vivienda, quiso escapar por una casa lindera y terminó detenido",
-        "description": "El hecho ocurrió durante la madrugada en barrio San Cayetano. El hombre fue detenido y quedó a disposición de la fiscalía.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "detenido",
-            "casa",
-            "techo de una vivienda",
-            "ingresar por la fuerza"
-        ],
-        "creator": [
-            "la voz de san justo"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:22:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:44:19",
-        "image_url": "https://lvdsjcdn.eleco.com.ar/media/2026/01/policia_1.jpeg",
-        "video_url": null,
-        "source_id": "lavozdesanjusto_ar",
-        "source_name": "La Voz De San Justo | La Voz De San Justo Te Brind",
-        "source_priority": 576125,
-        "source_url": "https://www.lavozdesanjusto.com.ar",
-        "source_icon": "https://n.bytvi.com/lavozdesanjusto_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他在一栋房子的屋顶上感到惊讶，试图从邻近的房子逃跑，最终被拘留",
-        "description_zh": "这起事件发生在圣卡耶塔诺附近的凌晨。该男子被捕并交由检方处理。"
-    },
-    {
-        "article_id": "74823f06730649a6a78560dfd6539cb4",
-        "link": "https://www.terra.com.br/noticias/brasil/cidades/irmao-de-eloa-pimentel-tenente-da-rota-e-baleado-na-cabeca-na-grande-sp,31c0954dc7fab70c0a66bbb9701a7694lxljugas.html",
-        "title": "Irmão de Eloá Pimentel, tenente da Rota é baleado na cabeça na Grande SP",
-        "description": "O tenente da Polícia Militar Ronickson Pimentel dos Santos, irmão mais velho de Eloá Cristina ...",
+        "article_id": "422405da8937efa52d4ef680000aa155",
+        "link": "https://www.diariodecuiaba.com.br/brasil/assassino-e-neonazista-brasileiro-e-preso-na-italia-apos-um-ano-foragido/741365",
+        "title": "Assassino e neonazista brasileiro é preso na Itália após um ano foragido",
+        "description": "O brasileiro João Guilherme Corrêa, apontado como integrante de um grupo neonazista ligado à rede Hammerskin, foi preso no norte da Itália após mais de um ano foragido, e deve responder a processo de extradição para cumprir pena no Brasil. Neonazista brasileiro acusado de crime no Paraná em 2009 é detido na Itália. Apontado como um dos líderes da rede neonazista internacional Hammerskin Nation, o brasileiro João Guilherme Corrêa foi preso ontem, na região de Pavia, no norte da Itália, segundo informação do La Stampa confirmada pela Polícia Civil do Paraná. Detenção neste domingo (28) foi realizada por forças italianas com apoio de cooperação internacional. Criminoso foi localizado em propriedade rural. Ao ser detido, apresentou identidade falsa. Corrêa era alvo de um alerta vermelho da Interpol. Foragido, ele foi condenado a mais de 35 anos de prisão no Brasil pelo assassinato do casal Bernardo Pedroso e Renata Ferreira, em Quatro Barras, Região Metropolitana de Curitiba em 2009. Crime teria sido motivado por uma disputa interna de liderança dentro de um grupo neonazista. Assassinatos ocorreram após encontro do grupo neonazista, segundo investigações da Polícia Civil do Paraná. Fuga do Brasil ocorreu dias antes da leitura da sentença, em 2025. Corrêa havia sido detido durante uma reunião de nazistas em Santa Catarina, em 2022. Ele ficou em prisão domiciliar até março de 2025, condenado a 35 anos de prisão pelo assassinato do casal. A figa foi possível depois que ele se livrou da tornozeleira eletrônica sob o pretexto de uma cirurgia de emergência. Corrêa também é investigado por envolvimento e liderança em organizações que propagam ideologias racistas e supremacistas. Conforme denúncia do Ministério Público do Paraná, Corrêa é vinculado à rede Hammerskin Nation, associada a movimentos extremista. Após prisão, criminosos foi levado para Milão. Detido, Corrêa aguarda agora trâmites para extradição...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "redação terra"
+            "da folhapress"
         ],
         "language": "portuguese",
         "country": [
@@ -204,14 +52,219 @@
         ],
         "category": [
             "top",
-            "crime",
-            "politics"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-27 16:22:28",
+        "pubDate": "2026-06-28 16:43:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 17:04:37",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/06/27/foto-2026-06-27t131754-267-1hr5bx79el9pf.jpg",
+        "fetched_at": "2026-06-28 18:22:14",
+        "image_url": "http://www.diariodecuiaba.com.br/images/logo-sharer.png",
+        "video_url": null,
+        "source_id": "diariodecuiaba",
+        "source_name": "Diariodecuiaba",
+        "source_priority": 12245876,
+        "source_url": "https://www.diariodecuiaba.com.br",
+        "source_icon": "https://n.bytvi.com/diariodecuiaba.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "巴西杀人犯和新纳粹分子在逃亡一年后在意大利被捕",
+        "description_zh": "巴西人若昂·吉列尔梅·科雷亚 (João Guilherme Corrêa) 被确定为与 Hammerskin 网络有联系的新纳粹组织成员，在逃亡一年多后在意大利北部被捕，必须面临引渡程序才能在巴西服刑。巴西新纳粹分子被指控在巴拉那州犯罪"
+    },
+    {
+        "article_id": "e2d85afad1833a696de9a242dafadcd9",
+        "link": "https://www.cnnbrasil.com.br/nacional/onibus-do-rio-deixam-de-aceitar-dinheiro-veja-como-pagar-a-passagem/",
+        "title": "Ônibus do Rio deixam de aceitar dinheiro; veja como pagar a passagem",
+        "description": "Integrações tarifárias passam a valer apenas para usuários cadastrados no sistema Jaé",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "camille barbosa"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:42:31",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 17:01:40",
+        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/WhatsApp-Image-2026-06-28-at-12.31.00-PM-1.jpeg?w=1200&h=1200&crop=1",
+        "video_url": null,
+        "source_id": "cnnbrasil_br",
+        "source_name": "Cnn Brasil",
+        "source_priority": 1209,
+        "source_url": "https://www.cnnbrasil.com.br",
+        "source_icon": "https://n.bytvi.com/cnnbrasil_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "里约巴士停止接受现金；查看如何支付门票",
+        "description_zh": "资费整合仅对 Jaé 系统中注册的用户有效"
+    },
+    {
+        "article_id": "a34726993410da243d11257e358ab9bd",
+        "link": "https://www.mixvale.com.br/2026/06/28/ripple-pode-fazer-algo-especial-ceo-levanta-duvidas-sobre-ipo-e-beneficios-a-detentores-de-xrp/",
+        "title": "Ripple pode fazer algo especial? CEO levanta dúvidas sobre IPO e benefícios a detentores de XRP",
+        "description": "Uma declaração do diretor executivo da Ripple, Brad Garlinghouse, sobre um possível “acordo especial” para os detentores de XRP caso a empresa abra seu capital, gerou grande repercussão na comunidade de criptomoedas. A palavra “talvez” do CEO foi interpretada por muitos como uma promessa de benefício futuro, reacendendo discussões antigas sobre a relação entre a [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:42:22",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 17:08:07",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "mixvale",
+        "source_name": "Mix Vale",
+        "source_priority": 95409,
+        "source_url": "https://www.mixvale.com.br",
+        "source_icon": "https://n.bytvi.com/mixvale.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Ripple 能做一些特别的事情吗？首席执行官对 IPO 和 XRP 持有者的利益提出质疑",
+        "description_zh": "Ripple 首席执行官布拉德·加林豪斯 (Brad Garlinghouse) 发表的一份声明称，如果该公司上市，XRP 持有者可能会获得“特别交易”，这在加密货币社区中引起了广泛反响。首席执行官的“也许”一词被许多人解读为良好的承诺"
+    },
+    {
+        "article_id": "8d3101024cb3f1822fe8611b52a5422d",
+        "link": "https://diariodovale.com.br/cidade/barra-no-hexa-transmite-brasil-x-japao-nesta-segunda-feira-29/",
+        "title": "Barra no Hexa transmite Brasil x Japão nesta segunda-feira (29)",
+        "description": "Barra do Piraí — O Largo da Feira será novamente ponto de encontro dos torcedores da Seleção Brasileira nesta segunda-feira (29), durante mais uma edição do Barra no Hexa. Promovido...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "barra no hexa",
+            "transmissão do jogo do brasil",
+            "grupo of samba",
+            "barra mansa"
+        ],
+        "creator": [
+            "luciano junior"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "blog",
+        "pubDate": "2026-06-28 16:42:13",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 17:21:04",
+        "image_url": "https://diariodovale.com.br/wp-content/uploads/2026/06/barra-hexa-jogobrasil.jpeg",
+        "video_url": null,
+        "source_id": "diariodovale_br",
+        "source_name": "Diário Do Vale",
+        "source_priority": 5323621,
+        "source_url": "https://diariodovale.com.br",
+        "source_icon": "https://n.bytvi.com/diariodovale_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Barra 于本周一在 Hexa 直播巴西 x 日本 (29)",
+        "description_zh": "Barra do Piraí — Largo da Feira 将在本周一（29 日）的另一届 Barra at Hexa 期间再次成为巴西队球迷的聚会点。晋升..."
+    },
+    {
+        "article_id": "7f8e39c1698a4ca73ccf3596c189f930",
+        "link": "https://www.infobae.com/america/medio-ambiente/2026/06/28/ola-de-calor-en-europa-la-energia-solar-impulso-el-uso-de-aire-acondicionado-domestico-y-reabrio-el-debate-ambiental/",
+        "title": "Ola de calor en Europa: la energía solar impulsó el uso de aire acondicionado doméstico y reabrió el debate ambiental",
+        "description": "Miles de viviendas aprovechan paneles en sus techos para alimentar sistemas de refrigeración, mientras especialistas advierten sobre los riesgos asociados a la expansión masiva de equipos y al uso de refrigerantes contaminantes",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "energía solar",
+            "newsroom bue",
+            "ola de calor",
+            "cambio climático",
+            "aire acondicionado"
+        ],
+        "creator": [
+            "ismael yasnikowski"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "united states of america",
+            "mexico",
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:42:11",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 17:02:13",
+        "image_url": "https://www.infobae.com/resizer/v2/RB2FEUP6XREXFL3ZOYQS7LYC24.png?auth=77edd038c6442bf8eb40a00730516483f82ac8cb00ba8650205590bc20463d0e&smart=true&width=2752&height=1536",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "欧洲热浪：太阳能推动家用空调使用，重新掀起环保争论",
+        "description_zh": "成千上万的家庭在屋顶上使用面板为冷却系统供电，而专家警告称，大规模扩建设备和使用污染性制冷剂会带来风险"
+    },
+    {
+        "article_id": "19f7ea3da2f786d9bb72666a68615b15",
+        "link": "https://www.terra.com.br/noticias/calor-derrete-asfalto-e-obstrui-trilhos-de-bonde-na-alemanha,d821cf6fd1596ba61f368f5408db96fage5zyt8q.html",
+        "title": "Calor derrete asfalto e obstrui trilhos de bonde na Alemanha",
+        "description": "Em Leipzig, calor de 40oC amoleceu revestimento de asfalto e concreto, que escorreu para os ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "deutsche welle"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:42:03",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 17:04:48",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/06/28/1913950480-77743422354.jpg",
         "video_url": null,
         "source_id": "terra",
         "source_name": "Terra",
@@ -225,21 +278,24 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "埃洛·皮门特尔 (Eloá Pimentel) 的兄弟、罗塔 (Rota) 中尉在大 SP 头部中弹",
-        "description_zh": "宪兵中尉罗尼克森·皮门特尔·多斯桑托斯，埃洛·克里斯蒂娜的哥哥……"
+        "title_zh": "德国热熔沥青堵塞电车轨道",
+        "description_zh": "在莱比锡，40oC 的热软化沥青和混凝土涂层，遇到了……"
     },
     {
-        "article_id": "20dbd4c76241751dc8e0b091108d7101",
-        "link": "https://www.laopinioncoruna.es/deportes/2026/06/27/davidovich-rompe-maldicion-gana-primer-mallorca-torneo-atp-131883645.html",
-        "title": "Davidovich rompe su maldición y gana su primer título ATP en Mallorca",
-        "description": "Alejandro Davidovich rompió su racha de cinco finales perdidas en torneos ATP y levantó su primer título en el torneo de Mallorca, de categoría 250 que se disputa sobre hierba, al ganar al estadounidense Ethan Quinn por 7-6 (4) y 6-3.",
+        "article_id": "5337582632574ed4aaa1b2b088c67d48",
+        "link": "https://www.laopinioncoruna.es/coruna/2026/06/28/crimen-os-rosales-segunda-muerte-violenta-ano-coruna-131906575.html",
+        "title": "El crimen de Os Rosales es la segunda muerte violenta de este año en A Coruña",
+        "description": "La muerte de un hombre de una puñalada ocurrida este domingo en Os Rosales es la segunda de tipo violento que se produce este año en A Coruña, tras la de un hombre que apareció el pasado abril fallecido, maniatado y cubierto en una vivienda de la avenida de Os Mallos, caso que es investigado por la policía como un homicidio. Durante el primer trimestre del año, último periodo sobre el que hay cifras oficiales del Ministerio del Interior, en la ciudad se produjeron cinco tentativas de homicidio o asesinato.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "alejandro davidovich",
-            "tenis"
+            "criminalidad",
+            "homicidios",
+            "asesinato",
+            "coruña",
+            "crimen"
         ],
         "creator": [
-            "efe"
+            "josé manuel gutiérrez"
         ],
         "language": "spanish",
         "country": [
@@ -247,13 +303,13 @@
         ],
         "category": [
             "top",
-            "sports"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-27 16:22:27",
+        "pubDate": "2026-06-28 16:41:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 17:05:44",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd673427-f592-4ea8-be73-3056856a1bb8_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "fetched_at": "2026-06-28 17:05:58",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2c870fc8-443d-4138-9005-260c0e1e04ea_16-9-aspect-ratio_default_0_x1000y412.jpg",
         "video_url": null,
         "source_id": "laopinioncoruna",
         "source_name": "La Opinión A Coruña",
@@ -266,43 +322,39 @@
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "达维多维奇打破了诅咒，在马洛卡赢得了他的第一个 ATP 冠军",
-        "description_zh": "亚历杭德罗·达维多维奇打破了他在 ATP 锦标赛决赛中五连败的记录，并在马略卡锦标赛中以 7-6 (4) 和 6-3 击败美国选手伊森·奎因 (Ethan Quinn)，在草地上进行的 250 人组比赛中赢得了他的第一个冠军。"
+        "duplicate": false,
+        "title_zh": "奥斯·罗萨莱斯案是拉科鲁尼亚今年发生的第二起暴力死亡事件",
+        "description_zh": "周日在奥斯罗萨莱斯发生的一名男子因刺伤死亡是拉科鲁尼亚今年发生的第二起暴力死亡事件，此前去年四月一名男子被绑在奥斯马洛斯大道的一所房子里，被绑起来并被覆盖，该案件正在调查中。"
     },
     {
-        "article_id": "517496097642cdbea3e2c5b77043deff",
-        "link": "https://www.abcmais.com/obituario/falecimentos-desta-sexta-feira-26-de-junho/",
-        "title": "Falecimentos desta sexta-feira, 26 de junho",
-        "description": "Falecimentos desta sexta-feira (26), na região: Alberto Adão Konrath (93 anos), Sapiranga Irene Sangalli Bozeto (91 anos), Esteio Selma Kerckhoff (91 anos), Ivoti Maria Lurdes de Jesus Pereira Lyra (89 anos), Novo Hamburgo Abilio Santo de Fraga (87 anos), Novo Hamburgo Eva da Rocha (87 anos), Novo Hamburgo Augusta Rodrigues dos Santos (85 anos), Rolante [...]",
+        "article_id": "bc44f8aa6c470a270f2b82c26e37d96a",
+        "link": "https://www.bemparana.com.br/noticias/parana/jogador-futebol7/",
+        "title": "Jogador de Futebol 7 é preso em Curitiba minutos antes de entrar em campo. Entenda",
+        "description": "Um jogador de Futebol 7, de 28 anos, foi preso na manhã deste domingo, 28 junho, em Curitiba. A prisão... O post Jogador de Futebol 7 é preso em Curitiba minutos antes de entrar em campo. Entenda apareceu primeiro em Bem Paraná .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "óbitos",
-            "falecimentos",
-            "obituários"
-        ],
+        "keywords": null,
         "creator": [
-            "redação abc"
+            "ana ehlert"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top",
-            "crime"
+            "crime",
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-27 16:22:16",
+        "pubDate": "2026-06-28 16:41:24",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:51:45",
-        "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2024/07/23/falecimentos-21784545.jpg",
+        "fetched_at": "2026-06-28 21:07:19",
+        "image_url": "https://www.bemparana.com.br/wp-content/uploads/2026/06/jogador.jpg",
         "video_url": null,
-        "source_id": "abcmais",
-        "source_name": "Abc+",
-        "source_priority": 5471397,
-        "source_url": "https://www.abcmais.com",
-        "source_icon": "https://n.bytvi.com/abcmais.png",
+        "source_id": "bemparana_br",
+        "source_name": "Bemparana Br",
+        "source_priority": 2047682,
+        "source_url": "https://www.bemparana.com.br",
+        "source_icon": "https://n.bytvi.com/bemparana_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -310,60 +362,18 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "6 月 26 日星期五死亡人数",
-        "description_zh": "本周五（26），该地区死亡人数：Alberto Adão Konrath（93 岁）、Sapiranga Irene Sangalli Bozeto（91 岁）、Esteio Selma Kerckhoff（91 岁）、Ivoti Maria Lurdes de Jesus Pereira Lyra（89 岁）、Novo Hamburgo Abilio Santo de Fraga（87 岁）、Novo Hamburgo Eva da Rocha（87 岁）旧），新"
+        "title_zh": "7 号足球运动员在上场前几分钟在库里蒂巴被捕。理解",
+        "description_zh": "6 月 28 日周日上午，一名 28 岁的 Football 7 球员​​在库里蒂巴被捕。逮捕... 这名后卫在库里蒂巴上场前几分钟被捕。 《理解》首先出现在 Bem Paraná。"
     },
     {
-        "article_id": "00e24eb29097fcc3a69287521a90358d",
-        "link": "https://www.lanacion.com.ar/el-mundo/terremotos-en-venezuela-el-mensaje-del-futbolista-a-su-esposa-que-murio-mientras-protegia-a-su-hija-nid27062026/",
-        "title": "Terremotos en Venezuela: el mensaje del futbolista a su esposa, que murió mientras protegía a su hija",
-        "description": "Andrea, la mujer de Héctor Bello, quedó atrapada bajo los escombros y salvó a su bebé de un año; vivían en La Guaira, la zona más afectada por el desastre",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "las últimas notcias del terremoto en venezuela",
-            "venezuela"
-        ],
-        "creator": [
-            "la nacion"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:22:06",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:30:42",
-        "image_url": "https://resizer.glanacion.com/resizer/v2/6SZHZNWTCZFXFOCO4UBYLMNUUQ.jpg?auth=983322544eb8dc5596410ede46c8be972445bda44d315bceda2f01c56d58760c&smart=true&width=864&height=486",
-        "video_url": null,
-        "source_id": "lanacion",
-        "source_name": "La Nacion",
-        "source_priority": 7204,
-        "source_url": "https://www.lanacion.com.ar",
-        "source_icon": "https://n.bytvi.com/lanacion.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "委内瑞拉地震：足球运动员向在保护女儿时去世的妻子传达的信息",
-        "description_zh": "埃克托·贝洛的妻子安德里亚被困在废墟下，救出了她一岁的孩子；他们住在受灾最严重的拉瓜伊拉地区"
-    },
-    {
-        "article_id": "b6dac1a9f92b13f98fcc9607c7953431",
-        "link": "https://www.corrienteshoy.com/deportes/la-comunidad-caboverdiana-en-argentina-entre-la-historia-portuaria-y-un-debut-mundialista-unico.htm",
-        "title": "La comunidad caboverdiana en Argentina, entre la historia portuaria y un debut mundialista único",
-        "description": "Portal de noticias de la ciudad de Corrientes, actualidad, galerías de fotos, sociales, eventos, carnavales. Información general y radio en vivo.",
+        "article_id": "0314d3d7f68d8209c67e32ea7e8fecf4",
+        "link": "https://www.elonce.com/humor/las-aventuras-de-pancha-19.htm",
+        "title": "Las aventuras de Pancha",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "daniel caran"
+            "elonce.com"
         ],
         "language": "spanish",
         "country": [
@@ -371,19 +381,19 @@
         ],
         "category": [
             "top",
-            "tourism"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-27 16:21:57",
+        "pubDate": "2026-06-28 16:41:22",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 17:13:29",
-        "image_url": "https://www.corrienteshoy.com/galeria/fotos/2026/06/27/m_989f616ff5f08de8b8a62521c4678c55.jpeg",
+        "fetched_at": "2026-06-28 17:16:55",
+        "image_url": "https://elonce-media.elonce.com/humor/2026/06/28/o_1782664884_73483.jpeg",
         "video_url": null,
-        "source_id": "corrienteshoy",
-        "source_name": "Corrientes Hoy",
-        "source_priority": 370282,
-        "source_url": "https://www.corrienteshoy.com",
-        "source_icon": "https://n.bytvi.com/corrienteshoy.png",
+        "source_id": "elonce",
+        "source_name": "Elonce",
+        "source_priority": 1130131,
+        "source_url": "https://www.elonce.com",
+        "source_icon": "https://n.bytvi.com/elonce.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -391,113 +401,23 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿根廷佛得角社区，了解港口历史和独特的世界杯首秀",
-        "description_zh": "科连特斯市的新闻门户、时事、照片库、社交活动、嘉年华。一般信息和现场广播。"
+        "title_zh": "潘查的冒险",
+        "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "e1c40fcd9a060c9b3b43466c2406de59",
-        "link": "https://www.elliberal.com.ar/nota/84059/2026/06/sorprenden-a-cuatro-jovenes-con-mas-de-un-kilo-de-marihuana",
-        "title": "Sorprenden a cuatro jóvenes con más de un kilo de marihuana",
-        "description": "Se les secuestró los celulares y otros elementos de vital importancia para la causa.",
+        "article_id": "73de161054a3127d7eab5ee41942a2f3",
+        "link": "https://forbes.com.mx/moscas-el-film-de-eimbcke-sobre-el-dolor-de-los-familiares-de-pacientes-hospitalizados/",
+        "title": "‘Moscas’, el film de Eimbcke sobre el dolor de los familiares de pacientes hospitalizados",
+        "description": "La cinta trata de abordar la complejidad del sistema sanitario mexicano, muchas veces poco accesible para los ciudadanos, pero sobre todo trata de explicar la sociedad de México, según Ramírez, quien reconoce en ‘Moscas’ la oportunidad perfecta de explicar la complejidad del país y la situación precaria de la sanidad mexicana.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "santiago del estero",
-            "news",
-            "periodico",
-            "ultimo momento",
-            "diario",
-            "noticias",
-            "argentina",
-            "el liberal"
+            "méxico",
+            "moscas",
+            "fernando eimbcke",
+            "pelicula"
         ],
         "creator": [
-            "f autor"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:21:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:50:55",
-        "image_url": "https://www.elliberal.com.ar/img/publicaciones/2026/06/27/alta/2199334.webp",
-        "video_url": null,
-        "source_id": "elliberal",
-        "source_name": "El Liberal",
-        "source_priority": 1699418,
-        "source_url": "https://www.elliberal.com.ar",
-        "source_icon": null,
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "四名年轻人惊讶地发现一公斤多大麻",
-        "description_zh": "他们的手机和其他对案件至关重要的物品被没收。"
-    },
-    {
-        "article_id": "efa7b52b6291b519e1aee963cfb9cf19",
-        "link": "https://www.marca.com/tiramillas/sucesos/2026/06/27/investigan-tres-hombres-agredir-coaccionar-quitara-camiseta-seleccion-nacional-vitoria.html",
-        "title": "Investigan a tres hombres por agredir y coaccionar a otro para que se quitara una camiseta de la selección nacional en Vitoria",
-        "description": "La Ertzaintza atribuye a los tres implicados, de 32, 30 y 22 años, presuntos delitos de lesiones leves, coacciones y odio",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "coaccionar",
-            "investigan",
-            "tres",
-            "hombres",
-            "agredir"
-        ],
-        "creator": [
-            "javier fernández borrell"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "science"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:22:43",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:34:38",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/04/18/69e39cc064cb8.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "三名男子因在维多利亚袭击并强迫另一名男子脱下国家队球衣而受到调查",
-        "description_zh": "Ertzaintza 将涉嫌轻伤、胁迫和仇恨的犯罪行为归咎于三名涉案人员，年龄分别为 32 岁、30 岁和 22 岁。"
-    },
-    {
-        "article_id": "5a2dfbab3a7b0424ab3bd558dcb88e0e",
-        "link": "https://www.yucatan.com.mx/mexico/2026/06/27/funcionarios-mexicanos-se-han-convertido-en-informantes-del-gobierno-de-trump.html",
-        "title": "Funcionarios mexicanos se han convertido en informantes del gobierno de Trump",
-        "description": "La presidenta de México, Claudia Sheinbaum, ha cuestionado las investigaciones estadounidenses sobre políticos mexicanos. Ahora, algunos quieren colaborar. El gobierno de Donald Trump ha intensificado sus investigaciones sobre el gobierno de México y, a medida que esos esfuerzos avanzan, algunos funcionarios electos del partido en el poder se han ofrecido de manera discreta a las [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "the new york times",
-            "recomendada"
-        ],
-        "creator": [
-            "the new york times"
+            "forbes méxico staff"
         ],
         "language": "spanish",
         "country": [
@@ -505,13 +425,265 @@
         ],
         "category": [
             "top",
-            "politics"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-27 16:22:33",
+        "pubDate": "2026-06-28 16:43:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:36:56",
-        "image_url": "https://i0.wp.com/newspack-yucatan.s3.amazonaws.com/uploads/2026/06/FUNCIONARIOS-MEXICANOS-SE-HAN-CONVERTIDO-EN-INFORMANTES-DEL-GOBIERNO-DE-TRUMP-0.jpg?fit=2048%2C1536&ssl=1",
+        "fetched_at": "2026-06-28 17:04:21",
+        "image_url": "https://cdn.forbes.com.mx/2026/06/Screenshot-2026-06-24-at-11.07.27-a.m-scaled-e1782321078395.png",
+        "video_url": null,
+        "source_id": "forbes_mx",
+        "source_name": "Forbes Mx",
+        "source_priority": 23981,
+        "source_url": "https://www.forbes.com.mx",
+        "source_icon": "https://n.bytvi.com/forbes_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "艾姆贝克的电影《莫斯卡斯》讲述了住院患者亲属的痛苦",
+        "description_zh": "拉米雷斯表示，这部电影试图解决墨西哥医疗系统的复杂性，而这往往是公民无法接触到的，但最重要的是，它试图解释墨西哥社会，他认为《莫斯卡斯》是解释该国和局势复杂性的绝佳机会。"
+    },
+    {
+        "article_id": "ab749722da3f8bb2810c20c5e5558122",
+        "link": "https://abcnoticias.mx/deportes/2026/6/28/donde-como-ver-en-vivo-paises-bajos-vs-marruecos-en-monterrey-dieciseisavos-de-final-286076.html",
+        "title": "¿Dónde y cómo ver EN VIVO Países Bajos vs. Marruecos en Monterrey? Dieciseisavos de Final",
+        "description": "Países Bajos y Marruecos se enfrentan en los Dieciseisavos de Final del Mundial 2026 tras avanzar invictos en la Fase de Grupos, con el Estadio Monterrey como escenario.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mundial 2026",
+            "marruecos",
+            "países bajos"
+        ],
+        "creator": [
+            "marifer ibáñez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:43:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 20:16:10",
+        "image_url": "https://abcnoticias.mx/u/fotografias/m/2026/6/25/f1280x720-352431_484106_5050.png",
+        "video_url": null,
+        "source_id": "abcnoticias",
+        "source_name": "Abc Noticias",
+        "source_priority": 300132,
+        "source_url": "https://abcnoticias.mx",
+        "source_icon": "https://n.bytvi.com/abcnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "在哪里以及如何观看蒙特雷直播的荷兰对阵摩洛哥的比赛？ 32强",
+        "description_zh": "荷兰队和摩洛哥队在小组赛中以不败战绩晋级后，将在2026年世界杯32强赛中以蒙特雷体育场为舞台展开对决。"
+    },
+    {
+        "article_id": "846bf617067cb2bf347e6044b890b8c5",
+        "link": "https://www.elpais.com.co/mundo/la-andi-y-el-sector-internacional-activan-masivas-donaciones-por-terremotos-en-venezuela-2850.html",
+        "title": "La Andi y el sector internacional activan masivas donaciones por terremotos en Venezuela",
+        "description": "Diversas organizaciones, plataformas logísticas y gobiernos articulan esfuerzos de emergencia para canalizar recursos económicos y ayudas en especie.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "andi",
+            "sector aéreo",
+            "actividades",
+            "donaciones",
+            "internacional"
+        ],
+        "creator": [
+            "jesús adolfo chacín silva"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:42:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 17:05:37",
+        "image_url": "https://semana-el-pais-prod.web.arc-cdn.net/resizer/v2/6R2BRNENJJHVRCKZYUBQRPOSRQ.png?auth=4f254699201383ffc45bb76b66120f233f6e07327759ef2cb25f0c456e7ff41a&smart=true&width=1400&height=900",
+        "video_url": null,
+        "source_id": "elpaiscl",
+        "source_name": "El Pais",
+        "source_priority": 39172,
+        "source_url": "https://www.elpais.com.co",
+        "source_icon": "https://n.bytvi.com/elpaiscl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "安迪和国际部门为委内瑞拉地震启动大量捐款",
+        "description_zh": "各种组织、物流平台和政府正在协调紧急努力，以引导经济资源和实物援助。"
+    },
+    {
+        "article_id": "588f52849971d7301997b29da17a57cd",
+        "link": "https://www.diariodelsur.com.co/james-rodriguez-y-cristiano-ronaldo-protagonizaron-un-emotivo-reencuentro-antes-del-duelo-entre-colombia-y-portugal/",
+        "title": "James Rodríguez y Cristiano Ronaldo protagonizaron un emotivo reencuentro antes del duelo entre Colombia y Portugal",
+        "description": "El fútbol volvió a reunir a dos figuras que dejaron huella en el mismo vestuario. Antes del pitazo inicial del partido entre Colombia y Portugal por el Mundial de Estados Unidos, México y Canadá 2026, James Rodríguez y Cristiano Ronaldo compartieron un saludo especial que recordó su etapa como compañeros en el Real Madrid. Los [...] La entrada James Rodríguez y Cristiano Ronaldo protagonizaron un emotivo reencuentro antes del duelo entre Colombia y Portugal se publicó primero en Diario del Sur .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "oscar chaves"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:42:18",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 16:46:27",
+        "image_url": "https://www.diariodelsur.com.co/wp-content/uploads/2026/06/ja.jpg",
+        "video_url": null,
+        "source_id": "diariodelsur",
+        "source_name": "Diario Del Sur",
+        "source_priority": 832974,
+        "source_url": "http://diariodelsur.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelsur.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "詹姆斯·罗德里格斯和克里斯蒂亚诺·罗纳尔多在哥伦比亚和葡萄牙之间的决斗前激动地重聚",
+        "description_zh": "足球再次将两个在同一个更衣室留下印记的人物聚集在一起。 2026 年美国、墨西哥和加拿大世界杯哥伦比亚队对阵葡萄牙队的比赛开场哨响前，詹姆斯·罗德里格斯和克里斯蒂亚诺·罗纳尔多分享了特别的问候，回忆起他们的时光。"
+    },
+    {
+        "article_id": "5fc093201e4dc79ce4ed4b0ae4253b2f",
+        "link": "https://www.zocalo.com.mx/y-por-que-no-cabo-verde-suena-con-una-hazana-ante-argentina/",
+        "title": "¿Y por qué no?: Cabo Verde sueña con una hazaña ante Argentina",
+        "description": "De los 11 titulares que hicieron méritos de sobra para su empate 0-0 con Arabia Saudita en Houston el viernes, seis nacieron fuera del país",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:42:11",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 17:16:23",
+        "image_url": "https://www.zocalo.com.mx/wp-content/uploads/2026/06/aficionados-cabo-verde.jpg",
+        "video_url": null,
+        "source_id": "zocalo",
+        "source_name": "Periódico Zócalo",
+        "source_priority": 208655,
+        "source_url": "http://zocalo.com.mx",
+        "source_icon": "https://n.bytvi.com/zocalo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "为什么不呢？：佛得角梦想对阵阿根廷的壮举",
+        "description_zh": "周五在休斯敦0-0战平沙特阿拉伯的比赛中，11名首发球员中，有6人出生在国外。"
+    },
+    {
+        "article_id": "7f8e39c1698a4ca73ccf3596c189f930",
+        "link": "https://www.infobae.com/america/medio-ambiente/2026/06/28/ola-de-calor-en-europa-la-energia-solar-impulso-el-uso-de-aire-acondicionado-domestico-y-reabrio-el-debate-ambiental/",
+        "title": "Ola de calor en Europa: la energía solar impulsó el uso de aire acondicionado doméstico y reabrió el debate ambiental",
+        "description": "Miles de viviendas aprovechan paneles en sus techos para alimentar sistemas de refrigeración, mientras especialistas advierten sobre los riesgos asociados a la expansión masiva de equipos y al uso de refrigerantes contaminantes",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "energía solar",
+            "newsroom bue",
+            "ola de calor",
+            "cambio climático",
+            "aire acondicionado"
+        ],
+        "creator": [
+            "ismael yasnikowski"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "united states of america",
+            "mexico",
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:42:11",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 17:02:13",
+        "image_url": "https://www.infobae.com/resizer/v2/RB2FEUP6XREXFL3ZOYQS7LYC24.png?auth=77edd038c6442bf8eb40a00730516483f82ac8cb00ba8650205590bc20463d0e&smart=true&width=2752&height=1536",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "欧洲热浪：太阳能推动家用空调使用，重新掀起环保争论",
+        "description_zh": "成千上万的家庭在屋顶上使用面板为冷却系统供电，而专家警告称，大规模扩建设备和使用污染性制冷剂会带来风险"
+    },
+    {
+        "article_id": "5f281b5e26bcfd0820f5f68c3e5b11dd",
+        "link": "https://www.yucatan.com.mx/mexico/2026/06/28/terremotos-venezuela-unicef-680-mil-ninos-ayuda.html",
+        "title": "Terremotos en Venezuela dejan 680 mil niños afectados: Unicef alerta que necesitan ayuda",
+        "description": "CIUDAD DE MÉXICO.— El Fondo de las Naciones Unidas para la Infancia (Unicef) calcula en 1.8 millones de personas, entre ellas 680 mil niñas, niños y adolescentes, que requieren asistencia humanitaria tras los trágicos terremotos ocurridos en Venezuela el pasado 24 de junio, los más fuertes en ese país en más de un siglo. Como [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "venezuela",
+            "terremoto en venezuela",
+            "recomendada"
+        ],
+        "creator": [
+            "el universal"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:41:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 17:06:44",
+        "image_url": "https://i0.wp.com/newspack-yucatan.s3.amazonaws.com/uploads/2026/06/Terremotos-en-Venezuela-1.jpg?fit=1200%2C712&ssl=1",
         "video_url": null,
         "source_id": "yucatan",
         "source_name": "Diario De Yucatán",
@@ -525,126 +697,132 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "墨西哥官员成为特朗普政府的线人",
-        "description_zh": "墨西哥总统克劳迪娅·谢因鲍姆质疑美国对墨西哥政客的调查。现在，有些人想要合作。特朗普政府加强了对墨西哥政府的调查，随着这些努力的进展，一些人"
+        "title_zh": "委内瑞拉地震造成68万名儿童受影响：联合国儿童基金会警告他们需要帮助",
+        "description_zh": "墨西哥城——联合国儿童基金会（儿童基金会）估计，6 月 24 日委内瑞拉发生世界上最强地震后，有 180 万人需要人道主义援助，其中包括 68 万名女孩、男孩和青少年。"
     },
     {
-        "article_id": "71e1d627dc88bb88f90e6f963977f8fb",
-        "link": "https://ntv.com.mx/2026/06/27/recuperan-cuerpo-de-hombre-atacado-por-cocodrilo-en-playa-de-puerto-vallarta/",
-        "title": "Recuperan cuerpo de hombre atacado por cocodrilo en playa de Puerto Vallarta",
-        "description": "Un hombre de 28 años de edad que había sido reportado como desaparecido tras ser atacado por un cocodrilo la tarde del viernes en la playa del hotel Marriott, en Puerto Vallarta, fue localizado sin vida luego de un operativo encabezado por autoridades federales y estatales. De acuerdo con la información más reciente, personal de [...] The post Recuperan cuerpo de hombre atacado por cocodrilo en playa de Puerto Vallarta appeared first on NTV+ | El Portal de Nayarit .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "carlos rentería"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:22:29",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:46:12",
-        "image_url": "https://i0.wp.com/ntv.com.mx/wp-content/uploads/2026/06/deas3.jpeg?fit=1600%2C900&ssl=1",
-        "video_url": null,
-        "source_id": "ntvmx",
-        "source_name": "Ntv",
-        "source_priority": 777827,
-        "source_url": "https://www.ntv.com.mx",
-        "source_icon": "https://n.bytvi.com/ntvmx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "巴亚尔塔港海滩发现被鳄鱼袭击的男子尸体",
-        "description_zh": "周五下午，一名 28 岁男子在巴亚尔塔港万豪酒店的海滩上遭到鳄鱼袭击，据报失踪，联邦和州当局开展行动后发现他已死亡。据资料显示"
-    },
-    {
-        "article_id": "dc23ac59cd81a396711b3d875cc0b608",
-        "link": "https://www.elimparcial.com/mundo/2026/06/27/iran-asegura-haber-atacado-posiciones-de-estados-unidos-en-el-golfo-tras-nuevos-bombardeos/",
-        "title": "Irán asegura haber atacado posiciones de Estados Unidos en el Golfo tras nuevos bombardeos",
-        "description": "Los Guardianes de la Revolución afirman que la ofensiva fue una represalia por los ataques estadounidenses; Washington había respondido previamente a un incidente en el estrecho de Ormuz",
+        "article_id": "ca9e6f1b394a62662c862b5211559510",
+        "link": "https://www.latercera.com/el-deportivo/noticia/un-sentido-mensaje-de-apoyo-exjugador-de-colo-colo-sale-en-defensa-de-fernando-muslera-tras-la-eliminacion-de-uruguay/",
+        "title": "Un sentido mensaje de apoyo: exjugador de Colo Colo sale en defensa de Fernando Muslera tras la eliminación de Uruguay",
+        "description": "Andrés Scotti, otrora defensor del Cacique y mundialista con la Celeste en 2010, salió en defensa del arquero, que ha sido duramente criticado tras cometer varios errores en la Copa del Mundo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "bombardeo",
-            "iran"
+            "colo colo",
+            "marcelo bielsa",
+            "fútbol",
+            "fernando muslera",
+            "selección de uruguay",
+            "mundial",
+            "mundial 2026",
+            "andrés scotti",
+            "fútbol internacional",
+            "copa del mundo"
         ],
         "creator": [
-            "tadeo campoy"
+            "la tercera"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:22:27",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:34:17",
-        "image_url": "https://www.elimparcial.com/resizer/v2/BFPEFHKLPJDNTITDGOLX4DZSEY.JPG?auth=d37b577c4a63d3adef403e0ad86a29feec04dd98f7f98e3fe2e039d8af55cfdc&smart=true&width=5500&height=3667",
-        "video_url": null,
-        "source_id": "elimparcial",
-        "source_name": "El Imparcial",
-        "source_priority": 25219,
-        "source_url": "https://www.elimparcial.com",
-        "source_icon": "https://n.bytvi.com/elimparcial.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "伊朗声称在新的爆炸事件后袭击了美国在海湾的阵地",
-        "description_zh": "革命卫队声称此次攻势是对美国袭击的报复；华盛顿此前曾对霍尔木兹海峡事件做出回应"
-    },
-    {
-        "article_id": "382a1bac2404cbe796e0863b7b2a211e",
-        "link": "https://www.diariocordoba.com/deportes/2026/06/27/davidovich-rompe-maldicion-gana-primer-mallorca-torneo-atp-131883651.html",
-        "title": "Davidovich rompe su maldición y gana su primer título ATP en Mallorca",
-        "description": "Alejandro Davidovich rompió su racha de cinco finales perdidas en torneos ATP y levantó su primer título en el torneo de Mallorca, de categoría 250 que se disputa sobre hierba, al ganar al estadounidense Ethan Quinn por 7-6 (4) y 6-3.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mallorca",
-            "torneo atp",
-            "maldicion",
-            "gana",
-            "rompe",
-            "davidovich",
-            "primer"
-        ],
-        "creator": [
-            "efe"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
+            "chile"
         ],
         "category": [
             "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-27 16:22:27",
+        "pubDate": "2026-06-28 16:41:52",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:37:11",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd673427-f592-4ea8-be73-3056856a1bb8_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "fetched_at": "2026-06-28 17:05:36",
+        "image_url": "https://www.latercera.com/resizer/v2/M7LKWUQQLRCX7E242BK7EJHC5E.jpg?auth=66d4077f8b8d9aac0aedb540794bed79dad64ee84334e769d1416bc69637e670&smart=true&width=1920&height=1080",
         "video_url": null,
-        "source_id": "diariocordoba",
-        "source_name": "Cordoba",
-        "source_priority": 48787,
-        "source_url": "https://www.diariocordoba.com",
-        "source_icon": "https://n.bytvi.com/diariocordoba.png",
+        "source_id": "latercera",
+        "source_name": "Latercera",
+        "source_priority": 32330,
+        "source_url": "https://www.latercera.com",
+        "source_icon": "https://n.bytvi.com/latercera.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "衷心的支持信息：前科洛科洛球员在乌拉圭队被淘汰后站出来为费尔南多·穆斯莱拉辩护",
+        "description_zh": "前酋长后卫、2010 年随塞莱斯特队夺得世界杯冠军的安德烈斯·斯科蒂站出来为这名门将辩护，这名门将在世界杯上多次犯错后受到了严厉批评。"
+    },
+    {
+        "article_id": "4d0267d9deb73552df9ccdbad6f1b204",
+        "link": "https://www.marca.com/tiramillas/economia/2026/06/28/justicia-da-razon-inquilino-dejo-pagar-alquiler-vivir-ano-calefaccion.html",
+        "title": "La Justicia da la razón a un inquilino que dejó de pagar el alquiler por vivir más de un año sin calefacción",
+        "description": "Se ha descartado el desahucio y la reclamación de las mensualidad impagadas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "inquilino",
+            "justicia",
+            "da",
+            "dejó",
+            "razón"
+        ],
+        "creator": [
+            "ramón garcia parrilla"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "science"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:41:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 17:04:29",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/06/28/6a414b597a22a.jpeg",
+        "video_url": null,
+        "source_id": "marca",
+        "source_name": "Marca Claro",
+        "source_priority": 426,
+        "source_url": "https://www.marca.com",
+        "source_icon": "https://n.bytvi.com/marca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "司法裁决有利于一名因一年多没有供暖而停止支付租金的租户",
+        "description_zh": "驱逐和未付每月付款的索赔已被排除"
+    },
+    {
+        "article_id": "02a0f49361382dc074a2b2ae22155248",
+        "link": "https://diariodelcauca.com.co/james-rodriguez-y-cristiano-ronaldo-protagonizaron-un-emotivo-reencuentro-antes-del-duelo-entre-colombia-y-portugal/",
+        "title": "James Rodríguez y Cristiano Ronaldo protagonizaron un emotivo reencuentro antes del duelo entre Colombia y Portugal",
+        "description": "El fútbol volvió a reunir a dos figuras que dejaron huella en el mismo vestuario. Antes del pitazo inicial del partido entre Colombia y Portugal por el Mundial de Estados Unidos, México y Canadá 2026, James Rodríguez y Cristiano Ronaldo compartieron un saludo especial que recordó su etapa como compañeros en el Real Madrid. Los [...] La entrada James Rodríguez y Cristiano Ronaldo protagonizaron un emotivo reencuentro antes del duelo entre Colombia y Portugal se publicó primero en Diario del Cauca .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "oscar chaves"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-06-28 16:41:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-06-28 16:47:25",
+        "image_url": "https://diariodelcauca.com.co/wp-content/uploads/2026/06/ja.jpg",
+        "video_url": null,
+        "source_id": "diariodelcauca_co",
+        "source_name": "Diario Del Cauca",
+        "source_priority": 994611,
+        "source_url": "https://diariodelcauca.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelcauca_co.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -652,213 +830,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "达维多维奇打破了诅咒，在马洛卡赢得了他的第一个 ATP 冠军",
-        "description_zh": "亚历杭德罗·达维多维奇打破了他在 ATP 锦标赛决赛中五连败的记录，并在马略卡锦标赛中以 7-6 (4) 和 6-3 击败美国选手伊森·奎因 (Ethan Quinn)，在草地上进行的 250 人组比赛中赢得了他的第一个冠军。"
-    },
-    {
-        "article_id": "577170cd805fbbe98875cc866b58d15a",
-        "link": "https://diario.mx/el-paso/2026/jun/27/amplian-restricciones-sobre-residentes-legales-con-delitos-1124930.html",
-        "title": "Amplían restricciones sobre residentes legales con delitos",
-        "description": "Podrán ser sometidos a libertad condicional migratoria, determina Corte Suprema",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "associated press"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:22:11",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:33:29",
-        "image_url": "https://diario.mx/core/dmx/assets/images/2026/06/27/eq-L0ye4KngD.jpg",
-        "video_url": null,
-        "source_id": "diario",
-        "source_name": "El Diario",
-        "source_priority": 14955,
-        "source_url": "https://diario.mx",
-        "source_icon": "https://n.bytvi.com/diario.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "扩大对有犯罪行为的合法居民的限制",
-        "description_zh": "最高法院裁定，他们可能会受到移民有条件释放的限制"
-    },
-    {
-        "article_id": "5b58236b2a9e172cd81c826b6f7359bf",
-        "link": "https://www.vanguardia.com/loterias/2026/06/27/culona-noche-numero-ganador-de-hoy-sabado-27-de-junio-de-2026/",
-        "title": "Culona Noche: número ganador de hoy sábado 27 de junio de 2026",
-        "description": "Conoce los resultados del último sorteo de La Culona Noche del viernes 26 de junio de 2026.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "lo más viral",
-            "la culona noche",
-            "lotería"
-        ],
-        "creator": [
-            "redacción vanguardia"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:22:10",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-28 01:05:28",
-        "image_url": "https://www.vanguardia.com/resizer/v2/F4EX2A2US5E5RBK6NBCXDD26UE.jpeg?auth=0fab4153363c829db7613a80a84cb9fd7f1c66d5417801cd0ea7567d196dc482&smart=true&width=1050&height=700",
-        "video_url": null,
-        "source_id": "vanguardia",
-        "source_name": "Vanguardia",
-        "source_priority": 24302,
-        "source_url": "https://vanguardia.com.mx",
-        "source_icon": "https://n.bytvi.com/vanguardia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Culona Noche：今天的中奖号码，星期六，2026 年 6 月 27 日",
-        "description_zh": "查看 2026 年 6 月 26 日星期五最后一次 La Culona Noche 抽奖结果。"
-    },
-    {
-        "article_id": "5f53d713c6ba1ee5eff4b5cdc7b46611",
-        "link": "https://periodismopublico.com/la-mente-brillante-que-lidero-la-victoria-de-abelardo-de-la-espriella-en-cundinamarca",
-        "title": "La mente brillante que lideró la victoria de Abelardo de la Espriella en Cundinamarca",
-        "description": "Detrás de la victoria de Abelardo De La Espriella en Cundinamarca hubo una estrategia territorial sólida, un equipo comprometido y La entrada La mente brillante que lideró la victoria de Abelardo de la Espriella en Cundinamarca apareció primero en Periodismo Público .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "fabio parra beltrán",
-            "abelardo de la espriella",
-            "cundinamarca"
-        ],
-        "creator": [
-            "periodismo público"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:21:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:46:44",
-        "image_url": "https://periodismopublico.com/wp-content/uploads/2026/06/Fabio-Parra-Beltran-lidero-la-victoria-de-Abelardo-de-la-Espriella-en-Cundinamarca-.jpg",
-        "video_url": null,
-        "source_id": "periodismopublico",
-        "source_name": "Periodismopublico",
-        "source_priority": 835660,
-        "source_url": "https://periodismopublico.com",
-        "source_icon": "https://n.bytvi.com/periodismopublico.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "带领阿韦拉多·德拉埃斯普里埃拉在昆迪纳马卡取得胜利的聪明才智",
-        "description_zh": "阿韦拉多·德拉埃斯普里埃拉 (Abelardo De La Espriella) 在昆迪纳马卡 (Cundinamarca) 取得胜利的背后，有坚实的领土战略、一支忠诚的团队以及带领阿韦拉多·德拉埃斯普里埃拉 (Abelardo de la Espriella) 在昆迪纳马卡 (Cundinamarca) 取得胜利的聪明才智。"
-    },
-    {
-        "article_id": "49eb62194deb561efae30b51ddda18b4",
-        "link": "https://www.heraldo.mx/recuperan-cadaver-de-turista-y-capturan-a-cocodrilo/",
-        "title": "Recuperan cadáver de turista y capturan a cocodrilo",
-        "description": "Tania Casillas Agencia Reforma GUADALAJARA, Jalisco: Durante la madrugada de este sábado, personal de la Secretaría de Marina recuperó el cadáver de un turista que fue arrastrado por un cocodrilo en Puerto Vallarta. El animal también fue capturado, informó la Unidad Estatal de Protección Civil y Bomberos de Jalisco (UEPCBJ). El hallazgo se logró a [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "por agencia reforma"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:21:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:46:53",
-        "image_url": "https://www.heraldo.mx/wp-content/uploads/2026/06/batch_6-Recuperan-cadaver-de-turista-y_2884480.webp",
-        "video_url": null,
-        "source_id": "heraldo_mx",
-        "source_name": "El Heraldo De Aguascalientes",
-        "source_priority": 1061009,
-        "source_url": "https://www.heraldo.mx",
-        "source_icon": "https://n.bytvi.com/heraldo_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "游客尸体被找到，鳄鱼被捕获",
-        "description_zh": "哈利斯科州瓜达拉哈拉塔尼亚·卡西利亚斯改革通讯社：本周六凌晨，海军部长的工作人员在巴亚尔塔港发现了一名被鳄鱼拖走的游客的尸体。据国家民防部门报道，这只动物也被捕获。"
-    },
-    {
-        "article_id": "ff844c65b5ed57527cbef558dc3ed0c4",
-        "link": "https://www.razon.com.mx/deportes/2026/06/27/orgullo-nacional-ernesto-rivera-hace-historia-al-ganar-el-sprint-del-gran-premio-de-austria-de-f3/",
-        "title": "¡Orgullo nacional! Ernesto Rivera hace historia al ganar el Sprint del Gran Premio de Austria de F3",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ernesto-rivera",
-            "f3",
-            "gran-premio-de-austria"
-        ],
-        "creator": [
-            "enrique villanueva"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-27 16:21:40",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-27 16:36:46",
-        "image_url": "https://www.razon.com.mx/resizer/v2/LT62CNDTTVAF7FAKRXWCSQP4TE.jpg?auth=a73789f9af2d7c6cd883c2f11536f8356b5a3ed50d4a26521cc3a2fdc9fa7b69&smart=true&width=1200&height=628",
-        "video_url": null,
-        "source_id": "razon",
-        "source_name": "La Razón De México",
-        "source_priority": 45427,
-        "source_url": "https://www.razon.com.mx",
-        "source_icon": "https://n.bytvi.com/razon.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "民族自豪感！埃内斯托·里维拉 (Ernesto Rivera) 赢得奥地利 F3 大奖赛冲刺赛冠军，创造历史",
-        "description_zh": "查看原文了解更多详情"
+        "title_zh": "詹姆斯·罗德里格斯和克里斯蒂亚诺·罗纳尔多在哥伦比亚和葡萄牙之间的决斗前激动地重聚",
+        "description_zh": "足球再次将两个在同一个更衣室留下印记的人物聚集在一起。 2026 年美国、墨西哥和加拿大世界杯哥伦比亚队对阵葡萄牙队的比赛开场哨响前，詹姆斯·罗德里格斯和克里斯蒂亚诺·罗纳尔多分享了特别的问候，回忆起他们的时光。"
     }
 ]
