@@ -1,9 +1,255 @@
 [
     {
-        "article_id": "6b68a8cc12458d12d45c4fbad9a96fda",
-        "link": "https://www.tudocelular.com/mercado/noticias/n257635/qualcomm-dragonfly-ai200-ganha-mais-detalhes.html",
-        "title": "Qualcomm Dragonfly AI200: chip de IA rival da NVIDIA ganha mais detalhes com memória avançada",
-        "description": "Primeiro acelerador de IA da Qualcomm, o Dragonfly AI200 ganhou mais detalhes trazendo memórias LPDDR de alto velocidade e cronograma ambicioso",
+        "article_id": "d402873e9f9219869ed8124433bf1b6e",
+        "link": "https://www.lagaceta.com.ar/nota/1143628/deportes/paraguay-gano-rebeldia-chilavert-no-perdono-alfaro-tras-batacazo-ante-alemania.html",
+        "title": "\"Paraguay ganó por la rebeldía\": Chilavert no perdonó a Alfaro tras el batacazo ante Alemania",
+        "description": "El histórico exarquero paraguayo cuestionó al entrenador pese al pase a los octavos de final del Mundial 2026. Aseguró que el triunfo ante Alemania fue mérito exclusivo de los jugadores y lanzó nuevos y duros mensajes en redes sociales.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "selección paraguaya de fútbol",
+            "josé luis chilavert",
+            "mundial 2026",
+            "551042",
+            "gustavo alfaro",
+            "selección alemana de fútbol"
+        ],
+        "creator": [
+            "benjamín papaterra"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-01 16:05:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-01 19:18:11",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/07/01/chilavert-destaco-rebeldia-jugadores-paraguayos-duelo-frente-alemania-1143628-161105.jpg",
+        "video_url": null,
+        "source_id": "lagaceta_ar",
+        "source_name": "Lagaceta",
+        "source_priority": 975335,
+        "source_url": "https://www.lagaceta.com.ar",
+        "source_icon": "https://n.bytvi.com/LaGaceta_Ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“巴拉圭靠叛逆获胜”：奇拉维特在对阵德国的打击后并没有原谅阿尔法罗",
+        "description_zh": "这位历史悠久的前巴拉圭门将在进入 2026 年世界杯 16 强的情况下仍对教练提出了质疑。他保证对德国队的胜利是球员们的唯一功绩，并在社交网络上发布了新的严厉信息。"
+    },
+    {
+        "article_id": "c871ddb177c050a9d9e4554d57739f98",
+        "link": "https://www.correiobraziliense.com.br/politica/2026/07/7452810-boulos-reforca-prioridade-do-governo-para-pec-do-fim-da-escala-6x1.html",
+        "title": "Boulos reforça \"prioridade\" do governo para PEC do fim da escala 6x1",
+        "description": "Ministro pede avanço da tramitação no Senado e cita diálogo institucional",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "escala 6x",
+            "escala 6x1",
+            "guilherme boulos",
+            "economia",
+            "politics",
+            "ministro"
+        ],
+        "creator": [
+            "correio braziliense"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-01 16:05:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-01 16:18:11",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/07/01/675x450/1_55367467187-2397de7243-o-67078178.jpg",
+        "video_url": null,
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Boulos 强调了政府在 6x1 规模结束时对 PEC 的“优先考虑”",
+        "description_zh": "部长呼吁参议院进程取得进展并援引机构对话"
+    },
+    {
+        "article_id": "af77aa3298e52b4775701886ff4ede58",
+        "link": "https://www.meutimao.com.br/coluna/maria_beatriz_de_teves/4241/quem-o-corinthians-ja-pode-contratar-de-graca-pensando-em-2027/",
+        "title": "[Maria Beatriz de Teves] Quem o Corinthians já pode contratar de graça pensando em 2027?",
+        "description": "Mais de 160 jogadoras da Série A1 já podem assinar pré-contrato para 2027. Veja quem está disponível no mercado e pode reforçar o Corinthians sem custos de transferência.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "corinthians feminino",
+            "corinthians",
+            "mercado da bola",
+            "sport club corinthians paulista"
+        ],
+        "creator": [
+            "maria beatriz de teves"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-01 16:05:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-01 16:10:36",
+        "image_url": "https://cdn.meutimao.com.br/_upload/post-no-blog/2026/07/corinthians_encontra_mais_de_160_opcoes_de_mercado_sem_gb614w.jpg",
+        "video_url": null,
+        "source_id": "meutimao",
+        "source_name": "Meu Timão",
+        "source_priority": 142685,
+        "source_url": "https://www.meutimao.com.br",
+        "source_icon": "https://n.bytvi.com/meutimao.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "[Maria Beatriz de Teves] 考虑到 2027 年，科林蒂安现在可以免费雇用谁？",
+        "description_zh": "超过 160 名来自 A1 系列的球员现在可以签署 2027 年的预合同。看看市场上有哪些球员可以在无需转会费用的情况下补强科林蒂安。"
+    },
+    {
+        "article_id": "1ad11f26aed4e24a3e4a35bb667b4811",
+        "link": "https://www.perfil.com/noticias/nea/margarita-barrientos-cruzo-al-nuevo-vocero-de-milei-el-seguro-no-va-a-apagar-la-estufa.phtml",
+        "title": "Margarita Barrientos cruzó al nuevo vocero de Milei: “Él seguro no va a apagar la estufa”",
+        "description": "“Es una falta de respeto lo que dijo, porque él seguro que no va a apagar la estufa, él va a vivir calentito, los que van a sufrir va a ser la gente que menos tiene, como siempre”, aseguró la referente social. Leer más",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nea",
+            "gas",
+            "tarifas",
+            "aumento del gas",
+            "buenos aires",
+            "margarita barrientos",
+            "servicios públicos",
+            "adrián ravier"
+        ],
+        "creator": [
+            "josé pérez"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-01 16:04:55",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-01 16:37:31",
+        "image_url": "https://fotos.perfil.com/2026/04/25/trim/540/304/25-4-2026-margarita-barrientos-2227632.jpg",
+        "video_url": null,
+        "source_id": "perfil",
+        "source_name": "Perfil",
+        "source_priority": 56989,
+        "source_url": "https://www.perfil.com",
+        "source_icon": "https://n.bytvi.com/perfil.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "玛格丽塔·巴里恩托斯 (Margarita Barrientos) 与 Milei 新代言人发生矛盾：“他肯定不会关掉炉子”",
+        "description_zh": "这位社会领袖表示：“他的话是不尊重的，因为他肯定不会关掉炉子，他要过温暖的生活，受苦的将是那些拥有最少的人，一如既往。”阅读更多"
+    },
+    {
+        "article_id": "b29f8c83773e1963bbd1cf79688e55cb",
+        "link": "https://cnnespanol.cnn.com/2026/07/01/venezuela/video/venezuela-busca-nina-rescatada-cnn-america",
+        "title": "Una madre busca a su hija de 6 años tras los terremotos en Venezuela",
+        "description": "Ana Cecilia Machado intenta ubicar a su hija de seis años tras los terremotos en Venezuela . La mujer dice que fue rescatada, pero que no puede dar con su paradero en hospitales ni refugios.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "niña",
+            "venezuela",
+            "terremoto"
+        ],
+        "creator": [
+            "rebeka kelly"
+        ],
+        "language": "spanish",
+        "country": [
+            "el salvador",
+            "cuba",
+            "panama",
+            "venezuela",
+            "nicaragua",
+            "colombia",
+            "guinea",
+            "dominican republic",
+            "spain",
+            "bolivia",
+            "guatemala",
+            "mexico",
+            "chile",
+            "costa rica",
+            "ecuador",
+            "argentina",
+            "peru",
+            "uruguay",
+            "paraguay",
+            "honduras",
+            "puerto rico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-07-01 16:04:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-01 17:04:52",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/photo-2026-06-30-22-08-57-scale.jpg?c=original",
+        "video_url": "https://clips-media-aka.warnermediacdn.com/cnn/clips/2026-07/2305174-010bb8b071b04f518878e3e0e0c18b81/mp4/venezuela-cnn-america-2305174-1920x1080_8000k.mp4",
+        "source_id": "cnnespanol",
+        "source_name": "Cnn",
+        "source_priority": 16314,
+        "source_url": "https://cnnespanol.cnn.com",
+        "source_icon": "https://n.bytvi.com/cnnespanol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "委内瑞拉地震后，一位母亲正在寻找她 6 岁的女儿",
+        "description_zh": "委内瑞拉地震后，安娜·塞西莉亚·马查多 (Ana Cecilia Machado) 试图寻找她六岁的女儿。这名妇女说她被救了，但她在医院或避难所找不到自己的下落。"
+    },
+    {
+        "article_id": "7d90a6a3ae99a94a6b2d4d5dd6983bcf",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/01/falta-de-agua-em-bairro-da-zona-sul-de-sp-entra-no-4o-dia-sabesp-preve-normalizacao-ate-quinta.ghtml",
+        "title": "Falta de água em bairro da Zona Sul de SP entra no 4o dia; Sabesp prevê normalização até quinta",
+        "description": "Falta de água em Americanópolis entra no 4o dia; Sabesp identifica vazamento oculto Moradores de Americanópolis, na Zona Sul de São Paulo, enfrentam falta de água desde o último domingo (28). A moradora Andrea, que vive na Rua Marco Palmezzano, afirma que o abastecimento foi interrompido por volta das 16h e ainda não foi restabelecido. Segundo ela, após acionar a Sabesp, foi informada de que o fornecimento seria retomado em até 24 horas. No entanto, passado esse prazo, ela diz que continua sem água. Desde então, moradores da região reclamam da interrupção no abastecimento e da falta de respostas. Em nota, a Sabesp informou que, após diversas vistorias e manobras operacionais, identificou na noite de terça-feira (30/06) um vazamento não visível em uma rede de água de grande porte na Rua Rolando Curti, altura do número 391, na Vila Clara, em Americanópolis. De acordo com a companhia, o vazamento infiltrava diretamente em um córrego da região, o que dificultou sua identificação e afetou o abastecimento local. Falta de água em Americanópolis entra no quarto dia; Sabesp identifica vazamento oculto Arquivo pessoal A Sabesp informou que equipes trabalham ininterruptamente desde a madrugada desta quarta-feira (1o) no reparo da tubulação. Segundo a empresa, a intervenção é considerada de alta complexidade, porque a rede está instalada no interior da estrutura de concreto de um córrego, exigindo o corte de parte dessa estrutura para que a tubulação possa ser acessada e o conserto seja realizado com segurança. A previsão da companhia é concluir o reparo ainda nesta quarta-feira. O abastecimento deverá ser retomado gradualmente até a madrugada de quinta (2). Em atualização divulgada posteriormente, a Sabesp informou que mantém uma operação emergencial para reduzir os impactos da interrupção. Segundo a companhia, oito caminhões-pipa atendem a região, com prioridade para unidades de saúde, escolas, serviços essenciais e casos de maior criticidade. A empresa orienta os moradores que ainda necessitem de atendimento a informar seus endereços para que as equipes programem o abastecimento por caminhão-pipa. A Sabesp também recomenda o uso consciente da água armazenada durante o período de normalização do sistema. A Secretaria Municipal da Educação informou que as atividades no CEI Carmen Rodrigues, que atende crianças de até 3 anos, seguem normalmente. Segundo a pasta, a unidade conveniada contratou, na manhã desta terça-feira (1o), um caminhão-pipa para garantir o abastecimento. A secretaria afirmou ainda que, até o momento, a Diretoria Regional de Educação não recebeu registro de outras unidades educacionais afetadas pela falta de água na região.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -13,19 +259,19 @@
         ],
         "category": [
             "top",
-            "technology"
+            "environment"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-30 16:26:00",
+        "pubDate": "2026-07-01 16:04:52",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 22:03:46",
-        "image_url": null,
+        "fetched_at": "2026-07-01 16:37:44",
+        "image_url": "https://s2-g1.glbimg.com/Xz4gpmI-yFTVV8GTL37EvQBBAQU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/V/GOyYOYTIeeBrfWLnpqvQ/falta-de-agua-zona-sul-sp.jpg",
         "video_url": null,
-        "source_id": "tudocelular",
-        "source_name": "Tudocelular.com",
-        "source_priority": 14359,
-        "source_url": "https://www.tudocelular.com",
-        "source_icon": "https://n.bytvi.com/tudocelular.png",
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -33,66 +279,17 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "高通 Dragonfly AI200：NVIDIA 的竞争对手 AI 芯片通过先进的内存获得更多细节",
-        "description_zh": "高通首款AI加速器Dragonfly AI200获得更多细节，带来高速LPDDR内存和雄心勃勃的时间表"
+        "title_zh": "新加坡南区一小区缺水已进入第四天；萨贝斯普预计周四实现正常化",
+        "description_zh": "美洲波利斯缺水进入第四天；萨贝斯普发现隐藏的泄漏 自上周日（28 日）以来，圣保罗南部地区美洲波利斯的居民就面临着缺水的问题。住在 Rua Marco Palmezzano 的居民 Andrea 声称，供应中断的原因是"
     },
     {
-        "article_id": "4eacde536822a70ba57c413d4563a4cd",
-        "link": "https://www.terra.com.br/diversao/gente/por-onde-andam-as-paquitas-que-voltam-aos-palcos-com-xuxa-em-o-ultimo-voo-da-nave,9ab1e792fef0d77aaec1ff12b4aa4ccdnbwl6oxd.html",
-        "title": "Por onde andam as paquitas que voltam aos palcos com Xuxa em 'O Último Voo da Nave'",
-        "description": "No último domingo, 28, Xuxa Meneghel compartilhou nas redes sociais um registro dos primeiros ...",
+        "article_id": "a1f2be83d05a71a163e6c9db32e6d98f",
+        "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/01/dois-homens-morrem-e-a-esposa-de-um-deles-fica-ferida-em-acidente-na-mgc-479.ghtml",
+        "title": "Dois homens morrem e a esposa de um deles fica ferida em acidente na MGC-479",
+        "description": "Carros envolvidos no acidente Polícia Militar Dois homens morreram e a esposa de um deles ficou ferida em um acidente na MGC-479, em Buritis, nesta terça-feira (30). Segundo informações da Polícia Militar, dois carros bateram de frente no km 330. Um deles era conduzido por um homem, de 59 anos, que viajava com a companheira, de 53. No outro, estava apenas o motorista, de 28. 📲Clique aqui para seguir o canal do g1 Grande Minas no WhatsApp Uma equipe do Samu esteve no local, constatou os óbitos e prestou atendimento à mulher, que apresentava cortes, fraturas e dores. Ela foi levada para o pronto-socorro municipal de Buritis e, em seguida, transferida para uma unidade de saúde em Unaí. Agora no g1 Uma testemunha contou aos policiais que o veículo conduzido pelo homem de 28 anos invadiu a contramão durante uma ultrapassagem e bateu no outro carro. O filho do casal envolvido no acidente disse à PM que os pais seguiam de Brasília (DF) para Formoso (MG). Os parentes do outro condutor afirmaram que ele ia de Urucuia (MG) para Brasília (DF). Como o motorista ficou preso às ferragens, o Corpo de Bombeiros foi acionado para fazer o desencarceramento. A perícia da Polícia Civil foi chamada e liberou os corpos para serem levados ao Posto Médico-Legal de Unaí. LEIA TAMBÉM: Torresmo, salgados e 'caos' de malas: família mineira viraliza ao mostrar viagem de ônibus com 60 parentes para Porto Seguro Professora morre após ser atingida por linha chilena enquanto pilotava motocicleta em Montes Claros Justiça condena Eco135 a pagar R$ 60 mil a vítimas de acidente com vacas na BR-135 Vídeos do Norte, Centro e Noroeste de MG Veja mais notícias da região em g1 Grande Minas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "xuxa [maria da graça xuxa meneghel]"
-        ],
-        "creator": [
-            "eduarda menina"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-30 16:26:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 17:05:01",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/06/30/1329758110-gzw4ygzfijgurohfjxrfwio244.jpg",
-        "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "在《O Último Voo da Nave》中与 Xuxa 一起重返舞台的帕基塔们在哪里",
-        "description_zh": "上周日，28 日，Xuxa Meneghel 在社交媒体上分享了第一条记录……"
-    },
-    {
-        "article_id": "53fe0ded3be3415e27302689d0620ebf",
-        "link": "https://www.correiodopovo.com.br/esportes/copadomundo/video-classificacao-do-marrocos-na-copa-gera-euforia-e-prisoes-na-holanda-1.1726811",
-        "title": "VÍDEO: Classificação do Marrocos na Copa gera euforia e prisões na Holanda",
-        "description": "Vitória dramática em Haia provoca reações diversas, de celebração a confrontos com a polícia",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "copa do mundo",
-            "marrocos",
-            "prisões",
-            "vídeo",
-            "holanda"
-        ],
-        "creator": [
-            "correio do povo"
-        ],
+        "keywords": null,
+        "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
@@ -102,16 +299,16 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-30 16:25:58",
+        "pubDate": "2026-07-01 16:04:45",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 18:41:03",
-        "image_url": null,
+        "fetched_at": "2026-07-01 16:34:04",
+        "image_url": "https://s2-g1.glbimg.com/59b1CG6KCnv3PPGPRye4QYSCty8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/Q/5dSnHRRVuKuKgez8LlpA/1782919888390070-1-.jpg",
         "video_url": null,
-        "source_id": "correiodopovo",
-        "source_name": "Correio Do Povo",
-        "source_priority": 139621,
-        "source_url": "https://www.correiodopovo.com.br",
-        "source_icon": "https://n.bytvi.com/correiodopovo.png",
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -119,87 +316,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "视频：摩洛哥的世界杯预选赛在荷兰引起兴奋和逮捕",
-        "description_zh": "海牙的戏剧性胜利引发了不同的反应，从庆祝到与警察发生冲突"
+        "title_zh": "MGC-479 发生事故，两名男子死亡，一名男子的妻子受伤",
+        "description_zh": "参与事故的汽车 军警 本周二（30 日）在布里蒂斯 MGC-479 发生的一起事故中，两名男子死亡，其中一名男子的妻子受伤。据宪兵队消息，两车在330公里处正面相撞，其中一辆驾驶者为一名59岁男子，"
     },
     {
-        "article_id": "e6296fa5c87d9819c8c3615766d52029",
-        "link": "https://www.infobae.com/teleshow/2026/06/30/el-desopilante-video-retro-de-wanda-nara-y-dario-barassi-en-plena-produccion-de-fotos-estas-imitando-mi-pose/",
-        "title": "El desopilante video retro de Wanda Nara y Darío Barassi en plena producción de fotos: “Estás imitando mi pose”",
-        "description": "La empresaria y el conductor estrenaron la segunda edición de Love is blind Argentina 2 y divirtieron con un tape del backstage",
+        "article_id": "121219c71d6b7620e793b32be7e72266",
+        "link": "https://contilnetnoticias.com.br/noticia/o-povo-pediu-mailza-recebe-nathanzinho-nos-bastidores-da-expoacre-jurua/",
+        "title": "“O povo pediu”: Mailza recebe Nathanzinho nos bastidores da Expoacre Juruá",
+        "description": "Durante a Expoacre Juruá 2026, na noite desta terça-feira (30), em Cruzeiro do Sul, o cantor Nathanzinho gravou um vídeo ao lado da governadora Mailza Assis. No registro, o artista...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "reality show",
-            "wanda nara",
-            "love is blind",
-            "darío barassi",
-            "netflix",
-            "reality de parejas"
+            "mailza recebe nathanzinho nos bastidores"
         ],
         "creator": [
-            "infobae"
+            "juan vinícius",
+            "contilnet"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "colombia",
-            "united states of america",
-            "mexico",
-            "argentina"
+            "brazil"
         ],
         "category": [
             "top",
             "entertainment"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-06-30 16:25:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:32:51",
-        "image_url": "https://www.infobae.com/resizer/v2/5ODOC3FUFRCJNOYESBKKCDVIQM.jpg?auth=3f05f10000138c2d137ce1922d5bb7ff95ccc32874687a054c6cd7f75cb5e84d&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/CkMMFeSW-HeIT2Id1.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "万达·娜拉 (Wanda Nara) 和达里奥·巴拉西 (Darío Barassi) 的搞笑复古视频全照片制作：“你在模仿我的姿势”",
-        "description_zh": "女商人和主持人首映了《爱情是盲目的阿根廷2》第二版，并在后台磁带上玩得很开心"
-    },
-    {
-        "article_id": "c46fee761116e2d407b64ba4e7607bc7",
-        "link": "https://www.terra.com.br/noticias/arqueologos-descobrem-cidade-maia-virgem-no-mexico,cd7a4f82e7570f7d0c6605b47b06d635qode5nr0.html",
-        "title": "Arqueólogos descobrem cidade maia \"virgem\" no México",
-        "description": "Após três décadas explorando as terras baixas da região central da civilização maia, o ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "deutsche welle"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
         "datatype": "news",
-        "pubDate": "2026-06-30 16:25:36",
+        "pubDate": "2026-07-01 16:04:42",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 17:05:01",
-        "image_url": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+        "fetched_at": "2026-07-01 16:11:05",
+        "image_url": "https://contilnetnoticias.com.br/wp-content/uploads/2026/07/Nathan.jpeg",
         "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
+        "source_id": "contilnetnoticias",
+        "source_name": "Contilnet Notícias",
+        "source_priority": 155904,
+        "source_url": "https://contilnetnoticias.com.br",
+        "source_icon": "https://n.bytvi.com/contilnetnoticias.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -207,99 +358,14 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "考古学家在墨西哥发现“处女”玛雅城市",
-        "description_zh": "经过三十年对玛雅文明中部地区低地的探索，..."
+        "title_zh": "“人们要求它”：Mailza 在 Expoacre Juruá 后台欢迎 Nathanzinho",
+        "description_zh": "周二晚（30 日），在 2026 年朱鲁阿博览会期间，歌手 Nathanzinho 与州长 Mailza Assis 一起录制了一段视频。据记录，艺术家..."
     },
     {
-        "article_id": "5f463f9ca617cc02bf6b47d427e09c2c",
-        "link": "https://br.investing.com/news/company-news/ceo-da-manolete-exerce-opcoes-e-vende-acoes-para-cobrir-impostos-93CH-1988406",
-        "title": "CEO da Manolete exerce opções e vende ações para cobrir impostos",
-        "description": "CEO da Manolete exerce opções e vende ações para cobrir impostos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "investing.com"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-30 16:25:36",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:36:43",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_L.jpg",
-        "video_url": null,
-        "source_id": "investing_br",
-        "source_name": "Investing Brasil",
-        "source_priority": 33451,
-        "source_url": "https://br.investing.com",
-        "source_icon": "https://n.bytvi.com/investing_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "马诺莱特首席执行官行使期权并出售股票以缴纳税款",
-        "description_zh": "马诺莱特首席执行官行使期权并出售股票以缴纳税款"
-    },
-    {
-        "article_id": "23363d80d21f0937f24a9822b40a411a",
-        "link": "https://www.surenio.com.ar/aerolineas-argentinas-suma-vuelos-a-viedma-bajo-el-programa-de-conectividad-sostenible/",
-        "title": "Aerolíneas Argentinas suma vuelos a Viedma bajo el programa de Conectividad Sostenible",
-        "description": "Aerolíneas Argentinas sumará vuelos a Viedma, provincia de Río Negro, en el marco del programa de Conectividad Sostenible y a partir de este acuerdo, la ruta entre Buenos Aires y... La entrada Aerolíneas Argentinas suma vuelos a Viedma bajo el programa de Conectividad Sostenible se publicó primero en Diario El Sureño .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "vuelos a viedma",
-            "río negro",
-            "conectividad sostenible",
-            "destino",
-            "aerolineas argentinas",
-            "buenos aires"
-        ],
-        "creator": [
-            "diario el sureño"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-30 16:25:36",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:51:37",
-        "image_url": "https://s3.eu-central-003.backblazeb2.com/vsign-wp-surenio-offload/wp-content/uploads/2026/06/AA-2026.jpg",
-        "video_url": null,
-        "source_id": "surenio_ar",
-        "source_name": "Diario El Sureño",
-        "source_priority": 2233889,
-        "source_url": "https://www.surenio.com.ar",
-        "source_icon": "https://n.bytvi.com/surenio_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿根廷航空公司根据可持续连通性计划增加了飞往维德马的航班",
-        "description_zh": "阿根廷航空公司将在可持续连通性计划的框架内增加飞往里奥内格罗省维德马的航班，并且根据该协议，布宜诺斯艾利斯和...之间的航线 阿根廷航空公司在可持续连通性计划下增加飞往维德马的航班条目首先发布"
-    },
-    {
-        "article_id": "5e91bff0d6ef1d0e9eaf8f8e24a6dead",
-        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/06/30/vini-jr-lidera-ranking-de-influencia-digital-no-futebol-1.ghtml",
-        "title": "Vini Jr. lidera ranking de influência digital no futebol",
-        "description": "Com o início do principal torneio internacional de futebol, Vini Jr. lidera o ranking dos atletas brasileiros mais influentes no Instagram, segundo levantamento da Influency.me, agência de marketing de conteúdo. Realizado entre maio e junho deste ano, o estudo coloca o atacante à frente de Neymar e destaca a crescente relevância da influência digital no universo esportivo. Para elaborar o ranking, a Influency.me aplicou uma metodologia proprietária baseada em indicadores de desempenho oriundos da plataforma de marketing de influência. A análise considera métricas como número de seguidores, engajamento por seguidores, engajamento por alcance, percentual médio de visualização e média de visualizações, compondo um índice que busca refletir de forma mais abrangente o potencial de influência dos atletas nas redes sociais. O levantamento ganha relevância devido ao começo do principal torneio internacional de futebol, que amplia a atenção do público sobre atletas e intensifica a disputa das marcas por relevância nas redes sociais. Segundo estimativa da consultoria WARC Media, o evento deve impulsionar cerca de US$ 10,5 bilhões em investimentos publicitários globalmente. Nesse cenário, a influência digital se consolida como um ativo estratégico para empresas que buscam ampliar alcance, fortalecer posicionamento e gerar conexão com consumidores por meio dos jogadores. \"A liderança de Vinícius Jr. mostra que a influência digital acompanha as transformações do futebol. O atleta reúne alcance, engajamento e capacidade de gerar conversa com a sua comunidade, características cada vez mais valorizadas por torcedores e marcas. Hoje, a relevância nas redes sociais depende muito mais da capacidade de mobilização da audiência do que apenas do tamanho da base de seguidores\", afirma \"Nathalia Cremoneze, diretora de Operações da \"Influency.me\". Influência digital vai além do tamanho da audiência O levantamento também reforça uma mudança na forma de mensurar a influência nas redes sociais. Embora o número de seguidores continue sendo um indicador importante, métricas relacionadas à interação, alcance efetivo, consumo de conteúdo e autenticidade da audiência passaram a ter peso crescente na avaliação do potencial de um perfil. \"Grandes eventos esportivos costumam ampliar a atenção sobre os atletas, mas a influência digital não se constrói de forma instantânea. Os perfis que apresentam resultados consistentes são aqueles que cultivam relacionamento contínuo com suas comunidades, gerando conexão e relevância ao longo do tempo\", acrescenta \"Cremoneze.\" Jogadores como Luiz Henrique, Danilo Santos, Weberton e Léo Pereira também figuram entre aqueles com maior impacto nas redes sociais. Mesmo sem estarem entre os jogadores com maior número de seguidores, garantem o engajamento de sua audiência. O resultado indica que métricas como engajamento, alcance, consumo de conteúdo e qualidade da audiência têm peso cada vez maior na construção da relevância digital dos atletas. Para marcas e anunciantes, esse poder de mobilização tornou-se um ativo estratégico. Mais do que alcance, a capacidade de engajar comunidades e estimular conversas relevantes passou a ser um diferencial importante na escolha de atletas para campanhas, ações de conteúdo e projetos de comunicação. Confira, abaixo, o ranking dos 10 jogadores brasileiros mais influentes no Instagram atualmente: Vini Jr. Neymar Jr Raphinha Casemiro Luiz Henrique Danilo Santos Weverton Endrick Gabriel Magalhães Léo Pereira Metodologia O ranking foi desenvolvido pela Influency.me a partir de dados coletados entre maio e junho de 2026. A classificação utiliza uma metodologia proprietária que combina, por meio de média ponderada, cinco indicadores de desempenho no Instagram e seu respectivo peso na composição do ranking: número de seguidores (20%), engajamento por seguidores (20%), engajamento por alcance (10%), percentual médio de visualização (30%) e média de visualizações (20%). O resultado é uma métrica única capaz de refletir, de forma mais abrangente, o potencial de influência digital dos atletas, considerando não apenas o tamanho da audiência, mas também sua capacidade de gerar conexão efetiva com o público.",
+        "article_id": "543e0310d41092d93164132f8d8abcee",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj1/playlist/videos-rj1-de-quarta-1-de-julho-de-2026.ghtml",
+        "title": "VÍDEOS: RJ1 de quarta, 1o de julho de 2026",
+        "description": "Assista aos vídeos do telejornal com as notícias do Rio de Janeiro.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
@@ -309,19 +375,100 @@
         ],
         "category": [
             "top",
-            "sports"
+            "business"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-07-01 16:04:38",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-01 16:37:44",
+        "image_url": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1",
+        "video_url": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj1/playlist/videos-rj1-de-quarta-1-de-julho-de-2026.ghtml",
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "视频：2026 年 7 月 1 日星期三的 RJ1",
+        "description_zh": "观看新闻视频，了解里约热内卢的新闻。"
+    },
+    {
+        "article_id": "a927e15d984e5573f2032104ba4ea821",
+        "link": "https://www.clarin.com/economia/ypf-suma-opciones-app-ahora-tarjeta-mastercard_0_CaYIJ4uhjd.html",
+        "title": "YPF suma opciones con su app y ahora tendrá una tarjeta Mastercard",
+        "description": "Será un plástico prepago, que permitirá hacer compras tanto en comercios físicos como virtuales, por fuera de las estaciones de servicio.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "estaciones de servicio",
+            "nuevas tecnologías",
+            "ypf",
+            "tarjetas de crédito"
+        ],
+        "creator": [
+            "redacción clarín"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "technology"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-30 16:25:31",
+        "pubDate": "2026-07-01 16:04:36",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 17:09:13",
-        "image_url": "https://ogcss.infoglobo.com.br/9876543210/img/oglobo.jpg",
+        "fetched_at": "2026-07-01 16:32:47",
+        "image_url": "https://www.clarin.com/img/2026/07/01/IKatyzDkg_2000x1500__1.jpg",
         "video_url": null,
-        "source_id": "oglobo_globo",
-        "source_name": "O Globo",
-        "source_priority": 93485,
-        "source_url": "https://oglobo.globo.com",
-        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
+        "source_id": "clarin",
+        "source_name": "Clarin",
+        "source_priority": 1115,
+        "source_url": "https://www.clarin.com",
+        "source_icon": "https://n.bytvi.com/clarin.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "YPF 在其应用程序中添加了选项，现在您将拥有一张万事达卡",
+        "description_zh": "它将是一种预付费塑料卡，允许您在加油站外的实体店和虚拟商店中进行购买。"
+    },
+    {
+        "article_id": "3c16e0af0d3a8947510cb726eb796875",
+        "link": "https://www.elnorte.com/decide-eu-no-renovar-t-mec-pacto-esta-vigente-otra-decada/ar3232672",
+        "title": "Decide EU no renovar T-MEC; pacto está vigente otra década",
+        "description": "EU decidió no renovar T-MEC, pese a que sigue vigente 10 años, optando por revisiones anuales, dice el representante comercial a Bloomberg.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-01 16:05:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-01 16:39:33",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "elnorte",
+        "source_name": "Elnorte",
+        "source_priority": 107502,
+        "source_url": "https://www.elnorte.com",
+        "source_icon": "https://n.bytvi.com/elnorte.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -329,75 +476,35 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "小维尼 (Vini Jr.) 在足球数字影响力排名中名列前茅",
-        "description_zh": "根据内容营销机构 Influency.me 的一项调查，随着主要国际足球锦标赛的开始，小维尼 (Vini Jr.) 在 Instagram 上最具影响力的巴西运动员排名中名列前茅。这项研究于今年五月至六月期间进行，将攻击者置于内玛之前"
+        "title_zh": "欧盟决定不再续签T-MEC；协议已生效十年",
+        "description_zh": "这位贸易代表告诉彭博社，尽管 T-MEC 仍然有效 10 年，但美国决定不再续签 T-MEC，而是选择每年进行审查。"
     },
     {
-        "article_id": "53ed64211b97891e8af122ab4e79a9c6",
-        "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/30/vini-jr-lidera-ranking-de-influencia-digital-no-futebol-1.ghtml",
-        "title": "Vini Jr. lidera ranking de influência digital no futebol",
-        "description": "Com o início do principal torneio internacional de futebol, Vini Jr. lidera o ranking dos atletas brasileiros mais influentes no Instagram, segundo levantamento da Influency.me, agência de marketing de conteúdo. Realizado entre maio e junho deste ano, o estudo coloca o atacante à frente de Neymar e destaca a crescente relevância da influência digital no universo esportivo. Para elaborar o ranking, a Influency.me aplicou uma metodologia proprietária baseada em indicadores de desempenho oriundos da plataforma de marketing de influência. A análise considera métricas como número de seguidores, engajamento por seguidores, engajamento por alcance, percentual médio de visualização e média de visualizações, compondo um índice que busca refletir de forma mais abrangente o potencial de influência dos atletas nas redes sociais. O levantamento ganha relevância devido ao começo do principal torneio internacional de futebol, que amplia a atenção do público sobre atletas e intensifica a disputa das marcas por relevância nas redes sociais. Segundo estimativa da consultoria WARC Media, o evento deve impulsionar cerca de US$ 10,5 bilhões em investimentos publicitários globalmente. Nesse cenário, a influência digital se consolida como um ativo estratégico para empresas que buscam ampliar alcance, fortalecer posicionamento e gerar conexão com consumidores por meio dos jogadores. \"A liderança de Vinícius Jr. mostra que a influência digital acompanha as transformações do futebol. O atleta reúne alcance, engajamento e capacidade de gerar conversa com a sua comunidade, características cada vez mais valorizadas por torcedores e marcas. Hoje, a relevância nas redes sociais depende muito mais da capacidade de mobilização da audiência do que apenas do tamanho da base de seguidores\", afirma \"Nathalia Cremoneze, diretora de Operações da \"Influency.me\". Influência digital vai além do tamanho da audiência O levantamento também reforça uma mudança na forma de mensurar a influência nas redes sociais. Embora o número de seguidores continue sendo um indicador importante, métricas relacionadas à interação, alcance efetivo, consumo de conteúdo e autenticidade da audiência passaram a ter peso crescente na avaliação do potencial de um perfil. \"Grandes eventos esportivos costumam ampliar a atenção sobre os atletas, mas a influência digital não se constrói de forma instantânea. Os perfis que apresentam resultados consistentes são aqueles que cultivam relacionamento contínuo com suas comunidades, gerando conexão e relevância ao longo do tempo\", acrescenta \"Cremoneze.\" Jogadores como Luiz Henrique, Danilo Santos, Weberton e Léo Pereira também figuram entre aqueles com maior impacto nas redes sociais. Mesmo sem estarem entre os jogadores com maior número de seguidores, garantem o engajamento de sua audiência. O resultado indica que métricas como engajamento, alcance, consumo de conteúdo e qualidade da audiência têm peso cada vez maior na construção da relevância digital dos atletas. Para marcas e anunciantes, esse poder de mobilização tornou-se um ativo estratégico. Mais do que alcance, a capacidade de engajar comunidades e estimular conversas relevantes passou a ser um diferencial importante na escolha de atletas para campanhas, ações de conteúdo e projetos de comunicação. Confira, abaixo, o ranking dos 10 jogadores brasileiros mais influentes no Instagram atualmente: Vini Jr. Neymar Jr Raphinha Casemiro Luiz Henrique Danilo Santos Weverton Endrick Gabriel Magalhães Léo Pereira Metodologia O ranking foi desenvolvido pela Influency.me a partir de dados coletados entre maio e junho de 2026. A classificação utiliza uma metodologia proprietária que combina, por meio de média ponderada, cinco indicadores de desempenho no Instagram e seu respectivo peso na composição do ranking: número de seguidores (20%), engajamento por seguidores (20%), engajamento por alcance (10%), percentual médio de visualização (30%) e média de visualizações (20%). O resultado é uma métrica única capaz de refletir, de forma mais abrangente, o potencial de influência digital dos atletas, considerando não apenas o tamanho da audiência, mas também sua capacidade de gerar conexão efetiva com o público.",
+        "article_id": "dca979a9504787aad2cba4021385f422",
+        "link": "https://www.elnorte.com/decide-eu-no-renovar-t-mec-opta-por-revisiones-anuales/ar3232672",
+        "title": "Decide EU no renovar T-MEC; opta por revisiones anuales",
+        "description": "EU decidió no renovar acuerdo comercial con Canadá y México, anunció el Representante Comercial y en su lugar optará por revisiones anuales.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "mexico"
         ],
         "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-30 16:25:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:33:11",
-        "image_url": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
-        "video_url": null,
-        "source_id": "valor_globo",
-        "source_name": "Valor Globo",
-        "source_priority": 2786,
-        "source_url": "https://valor.globo.com",
-        "source_icon": "https://n.bytvi.com/valor_globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "小维尼 (Vini Jr.) 在足球数字影响力排名中名列前茅",
-        "description_zh": "根据内容营销机构 Influency.me 的一项调查，随着主要国际足球锦标赛的开始，小维尼 (Vini Jr.) 在 Instagram 上最具影响力的巴西运动员排名中名列前茅。这项研究于今年五月至六月期间进行，将攻击者置于内玛之前"
-    },
-    {
-        "article_id": "099bd7f46753e43467d43a05142a1309",
-        "link": "https://ecosdanoticia.net/2026/06/fartura-na-mesa-piracema-faz-preco-do-mandi-despencar-em-cruzeiro-do-sul/",
-        "title": "Fartura na mesa: Piracema faz preço do mandi despencar em Cruzeiro do Sul",
-        "description": "CRUZEIRO DO SUL — O fenômeno da piracema trouxe fartura para as bancas do Mercado do Peixe de Cruzeiro do Sul e um alívio bem-vindo para o bolso do consumidor. Nesta semana, o valor do mandi — uma das espécies de água doce mais procuradas na região do Vale do Juruá — registrou uma queda [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "redação ecos da notícia"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
             "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-30 16:25:26",
+        "pubDate": "2026-07-01 16:05:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:46:37",
-        "image_url": "https://ecosdanoticia.net/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-13.24.29.jpeg",
+        "fetched_at": "2026-07-01 16:09:31",
+        "image_url": null,
         "video_url": null,
-        "source_id": "ecosdanoticia",
-        "source_name": "Ecos Da Notícia",
-        "source_priority": 587383,
-        "source_url": "https://ecosdanoticia.net",
-        "source_icon": "https://n.bytvi.com/ecosdanoticia.png",
+        "source_id": "elnorte",
+        "source_name": "Elnorte",
+        "source_priority": 107502,
+        "source_url": "https://www.elnorte.com",
+        "source_icon": "https://n.bytvi.com/elnorte.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -405,93 +512,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "餐桌上的食物充足：Piracema 使南克鲁塞罗的曼迪价格暴跌",
-        "description_zh": "南克鲁塞罗——皮拉塞马现象给南克鲁塞罗鱼市场的摊位带来了充足的货源，也减轻了消费者的负担。本周，曼迪（Juruá Valley 地区最受欢迎的淡水物种之一）的价值出现下降 [...]"
+        "title_zh": "美国决定不再续签T-MEC；选择年度审查",
+        "description_zh": "贸易代表宣布，美国决定不再与加拿大和墨西哥续签贸易协定，而是选择进行年度审查。"
     },
     {
-        "article_id": "e6296fa5c87d9819c8c3615766d52029",
-        "link": "https://www.infobae.com/teleshow/2026/06/30/el-desopilante-video-retro-de-wanda-nara-y-dario-barassi-en-plena-produccion-de-fotos-estas-imitando-mi-pose/",
-        "title": "El desopilante video retro de Wanda Nara y Darío Barassi en plena producción de fotos: “Estás imitando mi pose”",
-        "description": "La empresaria y el conductor estrenaron la segunda edición de Love is blind Argentina 2 y divirtieron con un tape del backstage",
+        "article_id": "a2dd013a1301f7489c33fd254ad20059",
+        "link": "https://periodicolavoz.com.mx/mundo/revisiones-anuales-del-t-mec-tras-decision-de-donald-trump/375923",
+        "title": "Donald Trump no renueva el T-MEC: revisiones anuales con México y Canadá",
+        "description": "¡ES OFICIAL! Donald Trump no renueva el T-MEC; opta por revisiones anuales con México y Canadá",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "reality show",
-            "wanda nara",
-            "love is blind",
-            "darío barassi",
-            "netflix",
-            "reality de parejas"
+            "incertidumbre empresas norteam&#233;rica",
+            "revisiones anuales t&#45;mec",
+            "aranceles comercio m&#233;xico canad&#225;",
+            "donald trump t&#45;mec",
+            "acuerdo comercial estados unidos"
         ],
         "creator": [
-            "infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "united states of america",
-            "mexico",
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-06-30 16:25:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:32:51",
-        "image_url": "https://www.infobae.com/resizer/v2/5ODOC3FUFRCJNOYESBKKCDVIQM.jpg?auth=3f05f10000138c2d137ce1922d5bb7ff95ccc32874687a054c6cd7f75cb5e84d&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/CkMMFeSW-HeIT2Id1.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "万达·娜拉 (Wanda Nara) 和达里奥·巴拉西 (Darío Barassi) 的搞笑复古视频全照片制作：“你在模仿我的姿势”",
-        "description_zh": "女商人和主持人首映了《爱情是盲目的阿根廷2》第二版，并在后台磁带上玩得很开心"
-    },
-    {
-        "article_id": "63f22bac411c3faae49f372dbf32d5ce",
-        "link": "https://www.elgrafico.mx//espectaculos/2026/06/30/el-maestro-shifu-sorprende-en-el-cafe-de-maryfer-centeno-y-se-une-a-una-iniciativa-por-venezuela/",
-        "title": "El Maestro Shifu sorprende en el café de Maryfer Centeno y se une a una iniciativa por Venezuela",
-        "description": "El Maestro Shifu se unió a una buena causa y encabezó un emotivo evento para apoyar a las familias afectadas en Venezuela",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "grafocafé",
-            "maryfer centeno",
-            "adriano zendejas",
-            "viral",
-            "maestro shifu"
-        ],
-        "creator": [
-            "el gráfico"
+            "staff / la voz"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top",
-            "lifestyle"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-30 16:25:55",
+        "pubDate": "2026-07-01 16:05:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:43:44",
-        "image_url": "https://www.elgrafico.mx/resizer/v2/EN5VQUJW3ZGCLLVZ5YNBC7KZ6U.jpeg?auth=5518004d1464b05ef95f88567d59597797adc3f17951b7376b88bbe3f9a59cf4&smart=true&width=1320&height=777",
+        "fetched_at": "2026-07-01 22:44:15",
+        "image_url": "https://blobcore.periodicolavoz.com.mx/images/2026/07/01/whatsapp-image-2026-07-01-at-42311-pm-9d690c5b-focus-0-0-608-342.jpg",
         "video_url": null,
-        "source_id": "elgrafico",
-        "source_name": "Elgrafico Mx",
-        "source_priority": 360449,
-        "source_url": "https://www.elgrafico.mx",
-        "source_icon": "https://n.bytvi.com/elgrafico.jpg",
+        "source_id": "periodicolavoz_mx",
+        "source_name": "Periodicolavoz Mx",
+        "source_priority": 462138,
+        "source_url": "https://periodicolavoz.com.mx",
+        "source_icon": "https://n.bytvi.com/periodicolavoz_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -499,170 +556,21 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "师父在 Maryfer Centeno 的咖啡馆里给大家带来惊喜，并加入了一项针对委内瑞拉的倡议",
-        "description_zh": "师父加入公益事业并领导一场情感活动来支持委内瑞拉受影响的家庭"
+        "title_zh": "唐纳德·特朗普不会续签《美墨加协定》：与墨西哥和加拿大进行年度审查",
+        "description_zh": "这是官方的！唐纳德·特朗普 (Donald Trump) 不会续签 T-MEC；选择与墨西哥和加拿大进行年度审查"
     },
     {
-        "article_id": "bd3221b599b33b4cb493439b9629b721",
-        "link": "https://lahora.cl/entretencion/2026/06/30/fauna-primavera-anuncia-line-up-por-dia-y-suma-a-hot-chip/",
-        "title": "Fauna Primavera anuncia line up por día y suma a Hot Chip",
-        "description": "Además se confirma venta de pases diarios y abono Fin de Semana",
+        "article_id": "98b0396a1181471173d42de1512cfffb",
+        "link": "https://www.eluniversal.com.mx/mundo/arrestan-a-cuatro-policias-en-venezuela-por-robo-tras-terremotos-saqueos-se-extienden/",
+        "title": "Arrestan a cuatro policías en Venezuela por robo; tras terremotos, saqueos se extienden",
+        "description": "En un video se ve cómo un agente sostiene una pequeña caja deformada y aplastada, seguramente recuperada entre los escombros, con dólares dentro",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "hot chip",
-            "fauna primavera",
-            "line up por día",
-            "música electrónica.",
-            "abonos fin de semana",
-            "festival chile 2026"
-        ],
-        "creator": [
-            "ignacio duque"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-30 16:25:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:49:43",
-        "image_url": "https://img.lahora.cl/upload/2026/06/17161D524C43426D15150F55534945731F131718534141781711-2000x1125.jpg",
-        "video_url": null,
-        "source_id": "lahora_cl",
-        "source_name": "Diario La Hora",
-        "source_priority": 1509297,
-        "source_url": "https://lahora.cl",
-        "source_icon": "https://n.bytvi.com/lahora_cl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Fauna Primavera 宣布每日阵容并添加 Hot Chip",
-        "description_zh": "此外，每日通行证和周末通行证的销售也已确定。"
-    },
-    {
-        "article_id": "b7f0b4c980253c0527406dccad8bcfab",
-        "link": "https://www.diariocambio.com.mx/2026/mundial-2026/dios-los-oiga-alineacion-salvaje-de-africam-safari-pronostica-triunfo-de-mexico-vs-ecuador-en-el-mundial-2026-video/",
-        "title": "Dios los oiga: “Alineación Salvaje” de Africam Safari pronostica triunfo de México vs Ecuador en el Mundial 2026 (VIDEO)",
-        "description": "La “Alineación Salvaje” de Africam Safari volvió a pronunciarse de cara al siguiente compromiso de la Selección Mexicana en el Mundial 2026 y, por cuarta vez, los elefantes del parque señalaron al Tricolor como su favorito para imponerse a Ecuador. 🐘🇲🇽 Mañana México se enfrenta a Ecuador y nuestra #AlineaciónSalvaje ya tiene favorito.Después de acertar [...] The post Dios los oiga: “Alineación Salvaje” de Africam Safari pronostica triunfo de México vs Ecuador en el Mundial 2026 (VIDEO) appeared first on Diario Cambio .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "pronostico",
-            "selección de ecuador",
-            "mundial 2026",
-            "selección mexicana"
-        ],
-        "creator": [
-            "mara gonzález"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-30 16:25:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:40:57",
-        "image_url": "https://www.diariocambio.com.mx/wp-content/uploads/2026/06/Alineacion-Salvaje-pronostica-triunfo-de-Mexico-vs-Ecuador-en-el-Mundial-2026-2_11zon.webp",
-        "video_url": null,
-        "source_id": "diariocambio",
-        "source_name": "Diariocambio",
-        "source_priority": 137606,
-        "source_url": "https://www.diariocambio.com.mx",
-        "source_icon": "https://n.bytvi.com/diariocambio.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "上帝垂听：Africam Safari 的“狂野阵容”预测 2026 年世界杯墨西哥 vs 厄瓜多尔将获胜（视频）",
-        "description_zh": "Africam Safari 的“狂野阵容”再次为墨西哥国家队在 2026 年世界杯上的下一个承诺做出了承诺，公园里的大象第四次指出三色旗是击败厄瓜多尔的最爱。 🐘🇲🇽 明天墨西哥将迎战厄瓜多尔和新墨西哥"
-    },
-    {
-        "article_id": "720d7717c28e62a50ab4403e76433f9b",
-        "link": "https://www.marca.com/futbol/futbol-sala/2026/06/30/nueva-liga-futbol-sala-jugara-formato-torneos-apertura-clausura.html",
-        "title": "La nueva Liga de fútbol sala se jugará con formato de torneos Apertura y Clausura",
-        "description": "La otra gran novedad de la temporada es la unificación de la Copa de España y la Copa del Rey en una sola competición",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "fútbol",
-            "sala",
-            "nueva",
-            "jugará",
-            "liga"
-        ],
-        "creator": [
-            "efe (agencia)"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-06-30 16:25:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:31:31",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/06/30/6a43edf416a50.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "新的室内足球联赛将以 Apertura 和 Clausura 锦标赛形式进行",
-        "description_zh": "本赛季的另一大新奇之处是将西班牙杯和国王杯合并为一项赛事"
-    },
-    {
-        "article_id": "813922ba3d9220fbe57467c0340099c5",
-        "link": "https://www.eluniversal.com.mx/tendencias/fifa-fan-fest-a-que-hora-abren-las-puertas-hoy-30-de-junio-para-ver-el-mexico-vs-chequia-aqui-te-lo-decimos/",
-        "title": "FIFA Fan Fest: A qué hora abren las puertas HOY, 30 de junio para ver el México vs Ecuador; aquí te lo decimos",
-        "description": "Si piensas asistir, conoce a qué hora abre, cuáles son los accesos y qué objetos están prohibidos para evitar contratiempos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "partido seleccion mexicana",
-            "donde ver mexico vs ecuador gratis",
-            "octavos de final mundial 2026",
-            "a que hora abre el fan fifa fest",
-            "fifa fan fest zocalo horario",
-            "partido mexico",
-            "mexico",
-            "fan fest mundial 2026 cdmx",
-            "transmision mexico vs ecuador",
-            "mundial",
-            "mundial 2026",
-            "mundial 2026 mexico",
-            "seleccion mexicana",
-            "mexico vs ecuador",
-            "tricolor",
-            "ecuador",
-            "ver el mundial en el zocalo",
-            "partido mexico ecuador cdmx",
-            "fifa fan fest",
-            "horario mexico vs ecuador mundial 2026"
+            "saqueos en venezuela",
+            "policías roban en la guaira",
+            "asistencia humanitaria",
+            "venezuela",
+            "robos en venezuela tras terremotos"
         ],
         "creator": [
             "el universal"
@@ -673,13 +581,13 @@
         ],
         "category": [
             "top",
-            "sports"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-30 16:25:39",
+        "pubDate": "2026-07-01 16:04:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:31:14",
-        "image_url": "https://www.eluniversal.com.mx/resizer/v2/JOKQOEPAOZC2NB46CAZ3P3TRKA.png?auth=ba9dca2374ff82eda8fa3058944c35bac94b29559f1acaa70eddbc9a371b0580&smart=true&width=1600&height=983",
+        "fetched_at": "2026-07-01 16:31:51",
+        "image_url": "https://www.eluniversal.com.mx/resizer/v2/ORAKO4ZCVJHEBJSQIAR7KU3IXI.jpg?auth=b271014023bf794e751e328249f6fedc2e0aea19168655a0d9b75543c6aa8008&smart=true&width=1201&height=740",
         "video_url": null,
         "source_id": "eluniversal",
         "source_name": "El Universal",
@@ -693,46 +601,62 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "FIFA 球迷节：今天 6 月 30 日几点开门观看墨西哥对阵厄瓜多尔；在这里我们告诉你",
-        "description_zh": "如果您打算参加，请了解开放时间、进入范围以及禁止携带哪些物品，以避免发生意外"
+        "title_zh": "四名警察因抢劫在委内瑞拉被捕；地震后，抢劫蔓延",
+        "description_zh": "在视频中，您可以看到特工如何拿着一个变形且被压碎的小盒子，肯定是从废墟中找到的，里面装着美元。"
     },
     {
-        "article_id": "a4ce2b82215b373bb8cc669cb88ee9ef",
-        "link": "https://www.diarioelcentro.cl/2026/06/30/desempleo-en-chile-llega-a-94-y-marca-su-nivel-mas-alto-desde-2021/",
-        "title": "Desempleo en Chile llega a 9,4% y marca su nivel más alto desde 2021",
-        "description": "El desempleo llegó a 9,4% en el trimestre marzo-mayo de 2026, su nivel más alto desde 2021. Mujeres e informalidad laboral muestran los mayores desafíos. The post Desempleo en Chile llega a 9,4% y marca su nivel más alto desde 2021 appeared first on Diario El Centro .",
+        "article_id": "b29f8c83773e1963bbd1cf79688e55cb",
+        "link": "https://cnnespanol.cnn.com/2026/07/01/venezuela/video/venezuela-busca-nina-rescatada-cnn-america",
+        "title": "Una madre busca a su hija de 6 años tras los terremotos en Venezuela",
+        "description": "Ana Cecilia Machado intenta ubicar a su hija de seis años tras los terremotos en Venezuela . La mujer dice que fue rescatada, pero que no puede dar con su paradero en hospitales ni refugios.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "informalidad laboral",
-            "mercado laboral",
-            "fuerza de trabajo",
-            "chile",
-            "economía",
-            "ine",
-            "desempleo"
+            "niña",
+            "venezuela",
+            "terremoto"
         ],
         "creator": [
-            "patricio mora"
+            "rebeka kelly"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "el salvador",
+            "cuba",
+            "panama",
+            "venezuela",
+            "nicaragua",
+            "colombia",
+            "guinea",
+            "dominican republic",
+            "spain",
+            "bolivia",
+            "guatemala",
+            "mexico",
+            "chile",
+            "costa rica",
+            "ecuador",
+            "argentina",
+            "peru",
+            "uruguay",
+            "paraguay",
+            "honduras",
+            "puerto rico"
         ],
         "category": [
             "top",
-            "business"
+            "environment"
         ],
-        "datatype": "news",
-        "pubDate": "2026-06-30 16:25:30",
+        "datatype": "multimedia",
+        "pubDate": "2026-07-01 16:04:53",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:45:14",
-        "image_url": "https://www.diarioelcentro.cl/wp-content/uploads/2023/05/desempleo-3.jpg",
-        "video_url": null,
-        "source_id": "diarioelcentro_cl",
-        "source_name": "Diario El Centro",
-        "source_priority": 489469,
-        "source_url": "https://diarioelcentro.cl",
-        "source_icon": "https://n.bytvi.com/diarioelcentro_cl.jpg",
+        "fetched_at": "2026-07-01 17:04:52",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/photo-2026-06-30-22-08-57-scale.jpg?c=original",
+        "video_url": "https://clips-media-aka.warnermediacdn.com/cnn/clips/2026-07/2305174-010bb8b071b04f518878e3e0e0c18b81/mp4/venezuela-cnn-america-2305174-1920x1080_8000k.mp4",
+        "source_id": "cnnespanol",
+        "source_name": "Cnn",
+        "source_priority": 16314,
+        "source_url": "https://cnnespanol.cnn.com",
+        "source_icon": "https://n.bytvi.com/cnnespanol.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -740,41 +664,37 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "智利失业率达9.4%，创2021年以来最高水平",
-        "description_zh": "2026 年 3 月至 5 月季度失业率达到 9.4%，为 2021 年以来的最高水平。妇女和劳动力非正规性面临最大的挑战。智利的失业率达到 9.4%，这是自 2021 年以来的最高水平。"
+        "title_zh": "委内瑞拉地震后，一位母亲正在寻找她 6 岁的女儿",
+        "description_zh": "委内瑞拉地震后，安娜·塞西莉亚·马查多 (Ana Cecilia Machado) 试图寻找她六岁的女儿。这名妇女说她被救了，但她在医院或避难所找不到自己的下落。"
     },
     {
-        "article_id": "d8495b9cda55a255df4f37623cf4d301",
-        "link": "https://www.semana.com/mundo/articulo/revelan-detalle-inedito-de-la-reunion-entre-putin-y-trump-en-alaska-y-aumenta-la-tension-por-acuerdo-de-paz-con-ucrania/202627/",
-        "title": "Revelan detalle inédito de la reunión entre Putin y Trump en Alaska y aumenta la tensión por acuerdo de paz con Ucrania",
-        "description": "Lo que ocurrió en Anchorage en agosto de 2025 se ha convertido en fuente de opuestas interpretaciones entre Washington y Moscú.",
+        "article_id": "7342f805b5736ca2d6f66aa4247da33e",
+        "link": "https://elheraldodesaltillo.mx/2026/07/01/el-mundial-2026-unio-a-los-mexicanos-y-freno-la-polarizacion-senala-academico-de-la-unam/",
+        "title": "El Mundial 2026 unió a los mexicanos y frenó la polarización, señala académico de la UNAM",
+        "description": "Es temporal, pues este fenómeno se mantiene mientras duren los triunfos, aclaró Ciudad de México.- Lo que ha logrado el Mundial 2026 no lo pudo un discurso pacífico, un mensaje político o la religión, ha sido una pacificación, un paréntesis que ha conseguido neutralizar -por un breve espacio sobre todo cuando juega la selección de [...] La entrada El Mundial 2026 unió a los mexicanos y frenó la polarización, señala académico de la UNAM se publicó primero en El Heraldo de Saltillo .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "alaska",
-            "vladimir putin",
-            "donald trump"
-        ],
+        "keywords": null,
         "creator": [
-            "redacción mundo"
+            "agencias"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "mexico"
         ],
         "category": [
-            "world"
+            "domestic"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-30 16:25:27",
+        "pubDate": "2026-07-01 16:04:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:35:15",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/X36BUH4MP5AGFCOQB2Q4QXXM2Y.jpg?auth=0d8c29ec9c336510f31a0d003701c053830a29fb5bcbbdcea970c68079f6143e&smart=true&width=1288&height=762",
+        "fetched_at": "2026-07-01 16:14:07",
+        "image_url": "https://elheraldodesaltillo.mx/wp-content/uploads/2026/07/el-mundial.jpg",
         "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://n.bytvi.com/semana.png",
+        "source_id": "elheraldodesaltillo_mx",
+        "source_name": "Elheraldodesaltillo Mx",
+        "source_priority": 435997,
+        "source_url": "https://elheraldodesaltillo.mx",
+        "source_icon": "https://n.bytvi.com/elheraldodesaltillo_mx.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -782,20 +702,20 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "普京和特朗普在阿拉斯加会面的未公开细节被披露，与乌克兰的和平协议导致紧张局势加剧",
-        "description_zh": "2025 年 8 月在安克雷奇发生的事情已成为华盛顿和莫斯科之间相互对立解读的根源。"
+        "title_zh": "墨西哥国立自治大学学者表示，2026 年世界杯团结了墨西哥人并结束了两极分化",
+        "description_zh": "墨西哥城澄清说，这是暂时的，因为只要胜利持续，这种现象就会持续下去。- 2026 年世界杯所取得的成就无法通过和平话语、政治信息或宗教来实现，它是一种安抚，是一种设法中和的括号 - 在短暂的空间内"
     },
     {
-        "article_id": "6ab39ea2b91ee2953ab517b9bf3d239a",
-        "link": "https://eltiempomx.com/noticia/2026/donde-conviene-cargar-gasolina-esto-encontro-profeco-tras-sus-evaluaciones.html",
-        "title": "¿Dónde conviene cargar gasolina? Esto encontró Profeco tras sus evaluaciones",
-        "description": "La Profeco informó que Pemex, G500 y Orsan destacaron en sus evaluaciones por ofrecer una buena relación entre precio, litros completos y cumplimiento. La Procuraduría Federal del Consumidor (Profeco) aclaró que no existe una única \"mejor gasolinera\" en México, ya que sus evaluaciones conside...",
+        "article_id": "290e1ff110584079a9e5f7853423333a",
+        "link": "https://eltiempomx.com/noticia/2026/sheinbaum-ofrece-apoyo-a-familias-de-fallecidos-tras-festejos-de-mexico.html",
+        "title": "Sheinbaum ofrece apoyo a familias de fallecidos tras festejos de México",
+        "description": "La presidenta Claudia Sheinbaum lamentó el fallecimiento de tres personas durante los festejos por la victoria de México ante Ecuador y ofreció apoyo a sus familias. La presidenta Claudia Sheinbaum Pardo expresó sus condolencias por la muerte de tres personas durante las celebraciones por el ...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "profeco",
-            "el tiempo de monclova",
             "méxico",
-            "periódico monclova"
+            "sheinbaum",
+            "periódico monclova",
+            "el tiempo de monclova"
         ],
         "creator": [
             "el tiempo de monclova"
@@ -806,13 +726,13 @@
         ],
         "category": [
             "top",
-            "business"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-30 16:25:27",
+        "pubDate": "2026-07-01 16:04:38",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:49:16",
-        "image_url": "https://eltiempomx.com/monclova/2026/06/6a43ee6172f38.jpg",
+        "fetched_at": "2026-07-01 16:48:27",
+        "image_url": "https://eltiempomx.com/monclova/2026/07/6a453c1da8bf2.jpg",
         "video_url": null,
         "source_id": "eltiempomonclova_mx",
         "source_name": "El Tiempo - Coahuila México",
@@ -826,47 +746,35 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "应该在哪里加汽油？这是 Profeco 评估后发现的结果",
-        "description_zh": "Profeco 报告称，Pemex、G500 和 Orsan 在价格、满升和合规性之间提供了良好的关系，因此在评估中脱颖而出。联邦消费者检察官办公室 (Profeco) 澄清说，根据其评估，墨西哥没有一个“最佳加油站”。"
+        "title_zh": "谢因鲍姆为墨西哥庆祝活动后去世的人的家人提供支持",
+        "description_zh": "克劳迪娅·辛鲍姆总统对墨西哥战胜厄瓜多尔庆祝活动中三人的去世表示遗憾，并向他们的家人表示支持。总统克劳迪娅·谢因鲍姆·帕尔多在庆祝活动中对三人的死亡表示哀悼。"
     },
     {
-        "article_id": "81380a661589d0565b843839e71bd74d",
-        "link": "https://www.infobae.com/honduras/2026/06/30/congreso-de-honduras-sin-consensos-para-aprobar-reformas-energeticas/",
-        "title": "Congreso de Honduras sin consensos para aprobar reformas energéticas",
-        "description": "El secretario legislativo, Carlos Ledezma, afirmó que los diálogos entre bancadas continúan, con énfasis en el Partido Liberal, para alcanzar 65 respaldos en el hemiciclo y avanzar con la iniciativa del Ejecutivo",
+        "article_id": "fd73c7d1c34912d3111d1ef176932ec3",
+        "link": "https://unomasuno.com.mx/nacional/34266/",
+        "title": "Sheinbaum va por la regulación a las redes sociales e IA",
+        "description": "Mientras millones de mexicanos siguen atentos al Mundial de Futbol 2026, el gobierno federal ya tiene definida cuál será una de sus siguientes prioridades; la presidenta Claudia Sheinbaum confirmó que, una vez terminada la Copa del Mundo, buscará regular las redes sociales, la inteligencia artificial y el uso de teléfonos celulares, especialmente entre niñas, niños [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "congresonacional",
-            "honduras",
-            "consensos",
-            "bancadas",
-            "reformas"
-        ],
-        "creator": [
-            "oscar ortiz barahona"
-        ],
+        "keywords": null,
+        "creator": null,
         "language": "spanish",
         "country": [
-            "colombia",
-            "united states of america",
-            "mexico",
-            "argentina"
+            "mexico"
         ],
         "category": [
-            "top",
-            "business"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-06-30 16:25:25",
+        "pubDate": "2026-07-01 16:04:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-06-30 16:32:51",
-        "image_url": "https://www.infobae.com/resizer/v2/4IRW5ZR6SFAH7L3UDJCZBKXENA.JPG?auth=e091e537adf2730721866aa8f8cf7e745dc9727441c776f57806f806e87bd26e&smart=true&width=5011&height=3341",
+        "fetched_at": "2026-07-01 16:20:21",
+        "image_url": "https://unomasuno.com.mx/wp-content/uploads/2026/07/REDES-1.jpeg.webp",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "unomasuno",
+        "source_name": "Unomasuno Maxico",
+        "source_priority": 1956795,
+        "source_url": "https://unomasuno.com.mx",
+        "source_icon": "https://n.bytvi.com/unomasuno.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -874,7 +782,85 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "洪都拉斯国会未就批准能源改革达成共识",
-        "description_zh": "立法秘书卡洛斯·莱德兹马表示，各团体之间的对话将继续进行，重点是自由党，以在众议院获得 65 票支持，并在行政部门的倡议下取得进展。"
+        "title_zh": "Sheinbaum 致力于社交网络和人工智能的监管",
+        "description_zh": "虽然数百万墨西哥人继续关注 2026 年足球世界杯，但联邦政府已经确定了下一步的优先事项之一；总统克劳迪娅·谢因鲍姆证实，世界杯结束后，她将寻求监管社交网络、人工智能"
+    },
+    {
+        "article_id": "73231b702171eb2094af84105c5a6f8d",
+        "link": "https://diario.mx/juarez/2026/jul/01/se-retira-el-teniente-de-bomberos-enoc-garcia-tras-26-anos-de-servicio-1125536.html",
+        "title": "Se retira el teniente de Bomberos Enoc García tras 26 años de servicio",
+        "description": "A lo largo de su carrera, el oficial participó en innumerables acciones de atención a emergencias, protección civil y rescate",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "araly castañón / el diario de juárez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-01 16:04:25",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-01 16:33:45",
+        "image_url": "https://diario.mx/core/dmx/assets/images/2026/07/01/b1-8dwmpOoIn.jpg",
+        "video_url": null,
+        "source_id": "diario",
+        "source_name": "El Diario",
+        "source_priority": 14955,
+        "source_url": "https://diario.mx",
+        "source_icon": "https://n.bytvi.com/diario.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "消防中尉 Enoc García 在服役 26 年后退休",
+        "description_zh": "在他的职业生涯中，该军官参与了无数的应急响应、民防和救援行动。"
+    },
+    {
+        "article_id": "b1139f828c8699780abcf95063fb0939",
+        "link": "https://www.diarioestrategia.cl/texto-diario/mostrar/5939570/creacion-empleo-sector-privado-eeuu-ralentizo-junio-98000-empleos-segun-adp",
+        "title": "La creación de empleo en el sector privado de EEUU se ralentizó en junio, con 98.000 empleos más, según ADP",
+        "description": "El sector privado de Estados Unidos generó 98.000 nuevos puestos de trabajo en el mes de junio, por debajo de las previsiones de los mercados y un dato menor al obtenido el mes anterior, según ha comunicado este miércoles la consultora ADP.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "europa press"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-01 16:04:10",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-01 16:12:39",
+        "image_url": "https://www.diarioestrategia.cl/images/1563212",
+        "video_url": null,
+        "source_id": "diarioestrategia_cl",
+        "source_name": "Diario Estrategia",
+        "source_priority": 263817,
+        "source_url": "https://www.diarioestrategia.cl",
+        "source_icon": "https://n.bytvi.com/diarioestrategia_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "ADP数据显示，6月份美国私营部门创造就业机会放缓，增加了98,000个就业机会",
+        "description_zh": "咨询公司 ADP 本周三报告称，美国 6 月份私营部门新增就业岗位 98,000 个，低于市场预期，也低于上个月的数据。"
     }
 ]
