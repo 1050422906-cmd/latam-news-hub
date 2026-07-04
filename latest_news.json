@@ -1,20 +1,20 @@
 [
     {
-        "article_id": "6f33c84b8db4b546af66f76d241170ad",
-        "link": "https://odia.ig.com.br/rio-de-janeiro/2026/07/7272389-mulher-e-baleada-em-tiroteio-no-centro.html",
-        "title": "Mulher é baleada em tiroteio no Centro",
-        "description": "Jaqueline da Silva Pereira foi levada para o hospital e recebeu alta no mesmo dia",
+        "article_id": "c6bba9e5649d5eb88c47548df8f85afa",
+        "link": "https://tribunaonline.com.br/policia/dono-de-farmacia-e-preso-por-desviar-medicamentos-para-traficantes-do-es-315307",
+        "title": "Dono de farmácia é preso por desviar medicamentos para traficantes do ES",
+        "description": "PF cumpriu mandados de busca e apreensão no estabelecimento | Foto: Divulgação/PF O dono de uma farmácia foi preso na manhã desta sexta-feira (03), em Vitória, durante a Operação FENTANIL II da Polícia Federal (PF), suspeito de fornecer, de forma irregular, medicamentos como Fentanil e Misoprostol (Citotec) a traficantes da Grande Vitória e do interior do Espírito Santo.As investigações tiveram início após denúncias encaminhadas à PF e apontam que os fármacos eram usados na adulteração de cocaína e crack, o que aumenta o risco de intoxicação e overdose e configura grave ameaça à saúde pública.Apreensões, irregularidades e crimes investigadosNos mandados de busca e apreensão, policiais recolheram medicamentos sujeitos a controle especial, aparelhos eletrônicos, documentos e registros comerciais. A farmácia não possuía a autorização sanitária exigida para comercializar medicamentos, além de outras irregularidades administrativas.O homem foi preso em flagrante por comercializar medicamentos sem o registro exigido pelo órgão de vigilância sanitária. Segundo a PF, ele responderá por falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais.O suspeito também pode responder por tráfico e associação para o tráfico, caso os elementos recolhidos confirmem as suspeitas iniciais.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "força municipal",
-            "tiroteio",
-            "polícia civil",
-            "polícia militar",
-            "rua senador dantas",
-            "centro"
+            "operação fentanil ii pf",
+            "farmácia irregular es",
+            "misoprostol citotec",
+            "pf vitória operação",
+            "fentanil no espírito santo",
+            "saúde pública"
         ],
         "creator": [
-            "mylena moura"
+            "layna cruz"
         ],
         "language": "portuguese",
         "country": [
@@ -25,16 +25,16 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-02 15:51:00",
+        "pubDate": "2026-07-03 15:43:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:10:39",
-        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/07/02/captura_de_tela_2026_07_02_125715-38983270.jpg",
+        "fetched_at": "2026-07-03 16:18:54",
+        "image_url": "https://tribunaonline.com.br/themes/TON/assets/img/logo-ton-512.jpg",
         "video_url": null,
-        "source_id": "odia_ig_br",
-        "source_name": "Odia Ig Br",
-        "source_priority": 144458,
-        "source_url": "https://odia.ig.com.br",
-        "source_icon": "https://n.bytvi.com/odia_ig_br.jpg",
+        "source_id": "tribunaonline_br",
+        "source_name": "Tribuna Online",
+        "source_priority": 1025555,
+        "source_url": "https://tribunaonline.com.br",
+        "source_icon": "https://n.bytvi.com/tribunaonline_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -42,416 +42,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "市中心枪击案中一名女子被枪杀",
-        "description_zh": "杰奎琳·达席尔瓦·佩雷拉被送往医院并于当天出院"
+        "title_zh": "药店老板因将药品转移给ES的毒贩而被捕",
+        "description_zh": "PF 在该场所执行搜查和扣押令 |照片：披露/PF 周五早上（03），维多利亚一家药店老板在联邦警察（PF）的芬太尼 II 行动中被捕，涉嫌不定期供应芬太尼和味噌等药品"
     },
     {
-        "article_id": "1e74202c791affc2122f40c1ff27414b",
-        "link": "https://www.em.com.br/gerais/2026/07/7453755-suspeita-de-matar-casal-de-idosos-queria-dinheiro-para-curtir-a-vida.html",
-        "title": "Suspeita de matar casal de idosos queria dinheiro para 'curtir a vida'",
-        "description": "Paola Cirino é suspeita de matar Cláudio Atala e Maria Clotilde em um apartamento de luxo no Bairro São Pedro, na Região Centro-Sul da capital",
+        "article_id": "e958a3596e722b3fcf450203395b5830",
+        "link": "https://www.conjur.com.br/2026-jul-03/plano-deve-cobrir-cirurgia-robotica-para-cancer-de-prostata-fora-do-rol-da-ans/",
+        "title": "Plano deve cobrir cirurgia robótica para câncer de próstata fora do rol da ANS",
+        "description": "A 4a Turma do Superior Tribunal de Justiça decidiu que um plano de saúde deve cobrir a cirurgia de prostatovesiculectomia radical laparoscópica pela técnica robótica, indicada a um beneficiário para o tratamento de câncer de próstata. De acordo com o colegiado, deve ser aplicada no caso a taxatividade mitigada do rol de procedimentos da Agência [...] O post Plano deve cobrir cirurgia robótica para câncer de próstata fora do rol da ANS apareceu primeiro em Consultor Jurídico .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "homicídio",
-            "polícia",
-            "bh"
+            "cirurgia",
+            "rol da ans",
+            "plano de saúde",
+            "superior tribunal de justiça"
         ],
         "creator": [
-            "larissa leone*"
+            "sem autor; isabel briskievicz teixeira"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:51:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 19:01:59",
-        "image_url": "https://midias.em.com.br/_midias/jpg/2026/07/02/1200x720/1_suspeita-de-matar-idosos-em-bh-foi-presa-em-itabira-67087557.jpeg",
-        "video_url": null,
-        "source_id": "estadodeminas",
-        "source_name": "Jornal Estado De Minas",
-        "source_priority": 6179,
-        "source_url": "https://www.em.com.br",
-        "source_icon": "https://n.bytvi.com/estadodeminas.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "涉嫌杀害老年夫妇想要钱“享受生活”",
-        "description_zh": "保拉·西里诺 (Paola Cirino) 涉嫌在首都中南部地区圣佩德罗城 (Bairro São Pedro) 的一间豪华公寓内杀害了克劳迪奥·阿塔拉 (Cláudio Atala) 和玛丽亚·克洛蒂尔德 (Maria Clotilde)"
-    },
-    {
-        "article_id": "76faab17476845d6a053449b74561f43",
-        "link": "https://www.sonoticias.com.br/politica/governo-de-mato-grosso-sobe-para-3o-como-o-que-mais-tem-investimentos-empenhados-em-obras/",
-        "title": "Governo de MT melhor desempenho e é 3o com mais tem investimentos empenhados em obras",
-        "description": "Mato Grosso consolidou, em 2025, sua posição entre os que mais investem em obras públicas, no país. O mais recente levantamento da secretaria de Fazenda (Sefaz), divulgado ontem, com base nos relatórios resumidos de execução orçamentária dos 26 Estados e do Distrito Federal, mostra que Mato Grosso aplicou 15,3% da Receita Corrente Líquida (RCL) para [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "marcos azevedo"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:51:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 15:51:51",
-        "image_url": "https://www.sonoticias.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-11-at-10.41.551.jpeg",
-        "video_url": null,
-        "source_id": "sonoticias",
-        "source_name": "So Noticias",
-        "source_priority": 5011382,
-        "source_url": "https://www.sonoticias.com.br",
-        "source_icon": "https://n.bytvi.com/sonoticias.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "MT政府表现较好，工程投资最多，排名第三",
-        "description_zh": "到 2025 年，马托格罗索州巩固了其在该国公共工程投资最多的国家中的地位。财政部 (Sefaz) 昨天根据 26 个州和联邦区的预算执行摘要报告发布的最新调查显示，马托"
-    },
-    {
-        "article_id": "82409d75d1b40bac48028404a3154ad7",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/governo-comeca-a-retirar-subsidio-a-gasolina-na-proxima-semana-diz-fazenda.shtml",
-        "title": "Governo começa a retirar subsídio à gasolina na próxima semana, diz Fazenda",
-        "description": "O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (2) que o subsídio à gasolina começa a ser retirado na próxima semana. A ideia, afirmou, é fazer um corte gradual do benefício, que é de R$ 0,44 por litro. Leia mais (07/02/2026 - 12h51)",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "meta fiscal",
-            "folha de s.paulo",
-            "diesel",
-            "& economics",
-            "petrobras",
-            "business",
-            "ministério da fazenda",
-            "governo federal",
-            "preço da gasolina",
-            "finance",
-            "petróleo",
-            "combustíveis",
-            "folha",
-            "gasolina",
-            "orçamento"
-        ],
-        "creator": [
-            "nicola pamplona"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:51:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:02:28",
-        "image_url": "https://f.i.uol.com.br/fotografia/2026/06/17/17817072556a32b1f70a877_1781707255_3x2_md.jpg",
-        "video_url": null,
-        "source_id": "folha",
-        "source_name": "Folha",
-        "source_priority": 3498,
-        "source_url": "https://www.folha.uol.com.br",
-        "source_icon": "https://n.bytvi.com/folha.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "财政部称政府下周开始取消汽油补贴",
-        "description_zh": "财政部长达里奥·杜里根(Dario Durigan)周四(2)表示，汽油补贴将于下周开始取消。他表示，这个想法是逐步削减每升 0.44 雷亚尔的福利。了解更多（2026 年 2 月 7 日 - 中午 12:51）"
-    },
-    {
-        "article_id": "cbfac349cb4d59d9a5da8f08840cad52",
-        "link": "https://www.losandes.com.ar/policiales/caso-loan-su-abuela-aseguro-que-tres-hombres-le-dijeron-laudelina-que-instale-la-version-del-accidente-n5997117",
-        "title": "Caso Loan: su abuela aseguró que tres hombres le dijeron a Laudelina que instale la versión del accidente",
-        "description": "Catalina Peña declaró esta mañana en el juicio que investiga la desaparición del pequeño en la localidad 9 de Julio de la provincia de Corrientes.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "corrientes",
-            "juicio",
-            "loan peña"
-        ],
-        "creator": [
-            "redacción policiales"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:51:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:09:47",
-        "image_url": "https://media.losandes.com.ar/p/03349404a8da09490da37e1a898ee9ff/adjuntos/368/imagenes/100/018/0100018041/1200x675/smart/catalina-pena-la-abuela-loan-reza-todos-los-dias-que-el-nene-aparezca-foto-clarin.png",
-        "video_url": null,
-        "source_id": "losandes",
-        "source_name": "Los Andes",
-        "source_priority": 114641,
-        "source_url": "https://www.losandes.com.ar",
-        "source_icon": "https://n.bytvi.com/losandes.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "贷款案：奶奶放心三人告诉劳德琳娜安装事故版本",
-        "description_zh": "卡塔利娜·佩纳今天上午在调查科连特斯省七月九日镇小男孩失踪案的审判中作证。"
-    },
-    {
-        "article_id": "a271913e51672c2294242b7e2a8c4295",
-        "link": "https://www.rfi.fr/pt/mundo/20260702-um-homem-salvo-dos-escombros-na-venezuela",
-        "title": "Um homem salvo dos escombros na Venezuela",
-        "description": "Um homem foi retirado dos escombros de um edifício em Catia La Mar, cidade venezuelana mais afectada pelos sismos de 24 de Junho, pela Força Operacional Conjunta portuguesa (FOCON).",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tragédia",
-            "governo",
-            "mortos",
-            "delcy rodríguez",
-            "portugal",
-            "mortes",
-            "militares",
-            "política",
-            "políticos",
-            "sismo",
-            "mundo",
-            "américa do sul",
-            "venezuela"
-        ],
-        "creator": [
-            "marco martins com lusa"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil",
-            "portugal",
-            "mozambique",
-            "angola",
-            "cape verde",
-            "timor-leste"
-        ],
-        "category": [
-            "world"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:50:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:03:36",
-        "image_url": "https://s.rfi.fr/media/display/77feff16-762d-11f1-a97e-005056bfb2b6/w:1280/p:16x9/AP26183499360947.jpg",
-        "video_url": null,
-        "source_id": "rfi_fr",
-        "source_name": "Rfi",
-        "source_priority": 8490,
-        "source_url": "https://www.rfi.fr",
-        "source_icon": "https://n.bytvi.com/rfi_fr.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "委内瑞拉废墟中救出一名男子",
-        "description_zh": "葡萄牙联合作战部队 (FOCON) 从委内瑞拉城市卡蒂亚拉马尔 (Catia La Mar) 的一栋建筑废墟中救出了一名男子，该城市是受 6 月 24 日地震影响最严重的城市。"
-    },
-    {
-        "article_id": "bd1e9b8133ed8a6f6b59879ea38efaab",
-        "link": "https://www.infobae.com/mexico/2026/07/02/mexico-supera-a-brasil-en-las-apuestas-de-wall-street-pese-a-incertidumbre-del-t-mec/",
-        "title": "México supera a Brasil en las apuestas de Wall Street pese a incertidumbre del T-MEC",
-        "description": "Bank of America baja su calificación a Brasil mientras los analistas identifican en México catalizadores propios",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "economia mexicana",
-            "wall street",
-            "t-mec",
-            "mexico-noticias",
-            "méxico",
-            "política mexicana",
-            "brasil"
-        ],
-        "creator": [
-            "itzallana lópez castillo"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "united states of america",
-            "colombia"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:50:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:02:01",
-        "image_url": "https://www.infobae.com/resizer/v2/4MZCATGNBVFNTKDPUFRBSLL2TY.png?auth=bd4048c74766f1143f614f7ce5272d691e27af0349b225f1c103118a47b3c62b&smart=true&width=5280&height=2970",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "尽管 T-MEC 存在不确定性，墨西哥在华尔街押注中仍超过巴西",
-        "description_zh": "由于分析师发现墨西哥自身的催化剂，美国银行降低了对巴西的评级"
-    },
-    {
-        "article_id": "39984342eb4c3d1922410aa518e95d0d",
-        "link": "https://www.infobae.com/espana/agencias/2026/07/02/un-coro-sevillano-lleva-al-parlamento-europeo-una-cantata-sobre-greta-thunberg/",
-        "title": "Un coro sevillano lleva al Parlamento Europeo una cantata sobre Greta Thunberg",
-        "description": "Un coro sevillano lleva al Parlamento Europeo una cantata sobre Greta Thunberg",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "united states of america",
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:50:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:02:01",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "塞维利亚合唱团向欧洲议会带来了关于格蕾塔·桑伯格的康塔塔",
-        "description_zh": "塞维利亚合唱团向欧洲议会带来了关于格蕾塔·桑伯格的康塔塔"
-    },
-    {
-        "article_id": "c61467115900fae5a44c24ca27814b9b",
-        "link": "https://www.perfil.com/noticias/opinion/adorni-y-la-peligrosa-banalizacion-del-poder.phtml",
-        "title": "Adorni y la peligrosa banalización del poder",
-        "description": "Las denuncias judiciales, las declaraciones de funcionarios y las inconsistencias en el manejo de fondos vuelven a poner bajo la lupa la gestión del exjefe de Gabinete. Más allá de lo que determine la Justicia, el caso expone una preocupante falta de profesionalismo en el ejercicio del poder. Leer más",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "jefatura de gabinete",
-            "corrupción",
-            "arca",
-            "manuel adorni",
-            "gobierno nacional",
-            "justicia"
-        ],
-        "creator": [
-            "marcelo longobardi"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "opinion",
-        "pubDate": "2026-07-02 15:50:44",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:37:08",
-        "image_url": "https://fotos.perfil.com/2026/06/30/trim/540/304/manuel-adorni-2272260.jpg",
-        "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿多尼和危险的权力轻视",
-        "description_zh": "司法投诉、官员言论以及资金管理上的不一致再次将前参谋长的管理置于显微镜下。除了正义的裁决之外，该案暴露了权力行使中令人担忧的缺乏专业精神。李"
-    },
-    {
-        "article_id": "a8ad7632f6969f3d82c44afd8fa58532",
-        "link": "https://www.infobae.com/espana/agencias/2026/07/02/congelar-ovulos-antes-de-los-36-anos-duplica-las-posibilidades-de-ser-madre-a-los-40/",
-        "title": "Congelar óvulos antes de los 36 años duplica las posibilidades de ser madre a los 40",
-        "description": "Congelar óvulos antes de los 36 años duplica las posibilidades de ser madre a los 40",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "united states of america",
-            "colombia"
         ],
         "category": [
             "top",
             "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-02 15:50:40",
+        "pubDate": "2026-07-03 15:43:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:02:01",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "fetched_at": "2026-07-03 16:14:46",
+        "image_url": "https://www.conjur.com.br/wp-content/uploads/2026/02/plano-de-saude-operadora.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "conjur_br",
+        "source_name": "Consultor Jurídico",
+        "source_priority": 476485,
+        "source_url": "https://www.conjur.com.br",
+        "source_icon": "https://n.bytvi.com/conjur_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -459,30 +86,583 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "36 岁之前冷冻卵子可以使 40 岁时成为母亲的机会增加一倍",
-        "description_zh": "36 岁之前冷冻卵子可以使 40 岁时成为母亲的机会增加一倍"
+        "title_zh": "计划应涵盖 ANS 列表之外的前列腺癌机器人手术",
+        "description_zh": "高等法院第四小组决定，健康计划必须涵盖使用机器人技术的腹腔镜根治性前列腺膀胱切除术，推荐给前列腺癌治疗的受益人。据该学院称，TA"
     },
     {
-        "article_id": "1134016a9512811c67090a82de2aa678",
-        "link": "https://www.elimparcial.com/deporte/2026/07/02/raul-tala-rangel-entra-al-radar-de-espana-tras-4-partidos-sin-recibir-gol-con-mexico-en-el-mundial-2026-y-consolida-su-proyeccion-desde-chivas/",
-        "title": "Raúl “Tala” Rangel Aguilar, portero de la Selección Mexicana, llama la atención de España tras 4 partidos sin recibir gol con México en el Mundial 2026 y elevar su valor como portero de Chivas",
-        "description": "El portero de Chivas suma cuatro partidos sin recibir gol con la Selección Mexicana y su actuación ante Ecuador reforzó la atención internacional sobre su rendimiento.",
+        "article_id": "a294a616404483bb7cc401cae5f99353",
+        "link": "https://contilnetnoticias.com.br/esporte/via-verde-shopping-tera-horario-especial-durante-brasil-x-noruega/",
+        "title": "Via Verde Shopping terá horário especial durante Brasil x Noruega",
+        "description": "Neste domingo (5), dia da partida entre Brasil e Noruega, o Via Verde Shopping terá horário especial de funcionamento. As lojas satélites e os quiosques poderão adotar horário facultativo durante...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "fifa",
-            "javier aguirre",
-            "chivas",
-            "europa",
-            "mundial de futbol 2026",
-            "seleccion mexicana",
-            "españa",
-            "mundial 2026",
-            "méxico",
-            "futbolista",
-            "copa del mundo"
+            "via verde shopping"
         ],
         "creator": [
-            "ana karen celaya"
+            "redação contilnet"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:52",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 16:11:28",
+        "image_url": "https://contilnetnoticias.com.br/wp-content/uploads/2026/07/ChatGPT-Image-3-de-jul.-de-2026-10_42_15.png",
+        "video_url": null,
+        "source_id": "contilnetnoticias",
+        "source_name": "Contilnet Notícias",
+        "source_priority": 155904,
+        "source_url": "https://contilnetnoticias.com.br",
+        "source_icon": "https://n.bytvi.com/contilnetnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Via Verde Shopping 将在巴西 x 挪威期间提供特别营业时间",
+        "description_zh": "本周日（5），即巴西与挪威比赛当天，Via Verde Shopping 将有特别开放时间。卫星商店和售货亭可能会在...期间采用可选的营业时间"
+    },
+    {
+        "article_id": "9e50765adbb64923eed50cde5b778211",
+        "link": "https://www.clarin.com/espectaculos/frenesi-boda-taylor-swift-lista-secreta-invitados-acuerdos-confidencialidad-panico-outfit-ideal_0_boIeKKGCTo.html",
+        "title": "Frenesí por la boda de Taylor Swift: la lista secreta de invitados, los acuerdos de confidencialidad y el pánico por el outfit ideal",
+        "description": "A poco del casamiento de la cantante con el jugador de fútbol americano, Nueva York se muestra en estado de alerta. La versión de un casamiento en secreto y qué se sabe quiénes asistirán este viernes al Madison Square Garden.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "taylor swift"
+        ],
+        "creator": [
+            "redacción clarín"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 16:03:53",
+        "image_url": "https://www.clarin.com/img/2026/07/03/3Oqsl2PWH_2000x1500__1.jpg",
+        "video_url": null,
+        "source_id": "clarin",
+        "source_name": "Clarin",
+        "source_priority": 1115,
+        "source_url": "https://www.clarin.com",
+        "source_icon": "https://n.bytvi.com/clarin.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "泰勒·斯威夫特 (Taylor Swift) 婚礼的狂热：秘密宾客名单、保密协议以及对理想着装的恐慌",
+        "description_zh": "这位歌手与美国橄榄球运动员结婚后不久，纽约就处于戒备状态。秘密婚礼的版本以及已知的谁将在本周五参加麦迪逊广场花园。"
+    },
+    {
+        "article_id": "1693a8b9526bd06308b761c336c7d5f1",
+        "link": "https://www.folhavitoria.com.br/mundo/sobe-para-2-595-numero-de-mortos-em-terremotos-na-venezuela/",
+        "title": "Sobe para 2.595 número de mortos em terremotos na Venezuela",
+        "description": "Foto: RS/ Fotos Públicas Boletim aponta mais de 12 mil feridos após terremotos; estimativa da ONU indica mais de 50 mil desaparecidos",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mundo",
+            "venezuelanos",
+            "terremoto",
+            "venezuela"
+        ],
+        "creator": [
+            "agência brasil"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 16:09:36",
+        "image_url": "https://www.folhavitoria.com.br/agenciabrasil.ebc.com.br/ebc.png?id=1695822&o=node",
+        "video_url": null,
+        "source_id": "folhavitoria_br",
+        "source_name": "Folha Vitória",
+        "source_priority": 123574,
+        "source_url": "https://www.folhavitoria.com.br",
+        "source_icon": "https://n.bytvi.com/folhavitoria_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "委内瑞拉地震死亡人数升至2,595人",
+        "description_zh": "照片：RS/Public Photos 公告显示，地震后已有超过 12,000 人受伤；联合国估计有超过5万人失踪"
+    },
+    {
+        "article_id": "869ea62ec4e62e3913a0926b94f85378",
+        "link": "https://elintransigente.com/2026/07/jimena-monteverde-pizzas-turcas-mundial-2026/",
+        "title": "Pizzas turcas exprés para el Mundial 2026: la receta de Jimena Monteverde para alentar a la Argentina",
+        "description": "La cocinera compartió su versión de los clásicos barquitos turcos para alentar a la Selección, sin reposo y en 15 minutos. The post Pizzas turcas exprés para el Mundial 2026: la receta de Jimena Monteverde para alentar a la Argentina appeared first on El Intransigente .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "jimena monteverde",
+            "mundial 2026",
+            "receta",
+            "selección argentina"
+        ],
+        "creator": [
+            "camilaporto"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "food"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 15:50:52",
+        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/07/Captura20de20pantalla202026-07-0320124011-convertido-a-1200x680-1.webp?fit=1200%2C680&quality=95&ssl=1",
+        "video_url": null,
+        "source_id": "elintransigente",
+        "source_name": "El Intransigente",
+        "source_priority": 3446332,
+        "source_url": "https://elintransigente.com",
+        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "为 2026 年世界杯制作土耳其披萨：希梅纳·蒙特维德 (Jimena Monteverde) 鼓励阿根廷队的食谱",
+        "description_zh": "厨师在 15 分钟内不间断地分享了她的经典土耳其船只版本，为国家队加油。 《Express》为 2026 年世界杯准备的土耳其披萨：希梅纳·蒙特维德 (Jimena Monteverde) 鼓励阿根廷队的食谱首先出现在《El Intransigente》上。"
+    },
+    {
+        "article_id": "8a412b256cbfdfbfa98c51b280ca653f",
+        "link": "https://www.mixvale.com.br/2026/07/03/celebracao-historica-o-feriado-paulista-de-9-de-julho-e-a-revolucao-constitucionalista-de-1932/",
+        "title": "Celebração histórica: o feriado paulista de 9 de julho e a Revolução Constitucionalista de 1932",
+        "description": "Em 2026, os paulistanos terão uma folga extra no dia 9 de julho. A data, que cairá em uma quinta-feira, marca o feriado estadual da Revolução Constitucionalista de 1932, um evento histórico fundamental para o estado de São Paulo. A celebração é um momento de reflexão sobre a luta por uma nova Constituição e a [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 16:09:16",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "mixvale",
+        "source_name": "Mix Vale",
+        "source_priority": 95409,
+        "source_url": "https://www.mixvale.com.br",
+        "source_icon": "https://n.bytvi.com/mixvale.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "历史庆典：7 月 9 日圣保罗假期和 1932 年立宪革命",
+        "description_zh": "2026 年，圣保罗居民将在 7 月 9 日额外休息一天。这一天恰逢星期四，标志着 1932 年立宪革命的国定假日，这是圣保罗州的一个重大历史事件。这次庆祝活动是对为实现目标而奋斗的反思时刻"
+    },
+    {
+        "article_id": "68fe7484976be2822511c5b69d34f189",
+        "link": "https://www.terra.com.br/esportes/palmeiras/paulinho-do-palmeiras-vive-affair-com-rainha-de-bateria-veja-fotos,4965478c80727622cef7821c37bb51aefwzovfl9.html",
+        "title": "Paulinho, do Palmeiras, vive affair com rainha de bateria; veja fotos",
+        "description": "Aproveitando a pausa no calendário do futebol por conta da Copa do Mundo de 2026, o atacante ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 16:04:31",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/07/03/1736412561-paulinho-em-apresentacao-no-palmeiras.jpg",
+        "video_url": null,
+        "source_id": "terra",
+        "source_name": "Terra",
+        "source_priority": 24247,
+        "source_url": "https://www.terra.com.br",
+        "source_icon": "https://n.bytvi.com/terra.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "来自帕尔梅拉斯的保利尼奥与一位鼓女王有染。看照片",
+        "description_zh": "趁着 2026 年世界杯足球日历中断的机会，这位前锋..."
+    },
+    {
+        "article_id": "16c52d9bbb33ecf8dce854a2be898e59",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/mulher-de-igor-thiago-da-selecao-expoe-segredo-envolvendo-esposas-dos-jogadores,731295a47ec60dbace423151c6184a1f0m0pk72x.html",
+        "title": "Mulher de Igor Thiago, da Seleção, expõe 'segredo' envolvendo esposas dos jogadores",
+        "description": "A Seleção Brasileira de Futebol segue firme em sua caminhada nos Estados Unidos e já garantiu a ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "renata garre"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 16:04:31",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/07/03/471796426-esposa-igor-thiago.jpg",
+        "video_url": null,
+        "source_id": "terra",
+        "source_name": "Terra",
+        "source_priority": 24247,
+        "source_url": "https://www.terra.com.br",
+        "source_icon": "https://n.bytvi.com/terra.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "桑巴军团伊戈尔·蒂亚戈的妻子揭露了涉及球员妻子的“秘密”",
+        "description_zh": "巴西足球队在美国的旅程仍然坚定，并且已经获得了......"
+    },
+    {
+        "article_id": "ce952d9d67c53ed58b212978f8e76476",
+        "link": "https://elintransigente.com/2026/07/florencia-pena-llamo-mama-messi-disculpas/",
+        "title": "El llamado de Florencia Peña a la mamá de Messi para disculparse",
+        "description": "La actriz no pudo contener las lágrimas The post El llamado de Florencia Peña a la mamá de Messi para disculparse appeared first on El Intransigente .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "llanto",
+            "mamá de messi",
+            "florencia peña",
+            "fernando burlando",
+            "disculpas"
+        ],
+        "creator": [
+            "wenceslao mena saravia"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:26",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 15:50:52",
+        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/07/image-44.webp?fit=1200%2C669&quality=95&ssl=1",
+        "video_url": null,
+        "source_id": "elintransigente",
+        "source_name": "El Intransigente",
+        "source_priority": 3446332,
+        "source_url": "https://elintransigente.com",
+        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "弗洛伦西亚·佩纳致电梅西母亲道歉",
+        "description_zh": "女演员忍不住流下了眼泪。弗洛伦西亚·佩纳致电梅西母亲道歉的帖子首先出现在《El Intransigente》上。"
+    },
+    {
+        "article_id": "e7a003f2cd0e07c3c03bba3853d0311f",
+        "link": "https://lasillarota.com/deportes/2026/7/3/jugadores-de-mexico-regresan-rolex-al-influencer-stevewilldoit-tras-polemica-por-apuesta-millonaria-606807.html",
+        "title": "Jugadores de México regresan Rolex al influencer \"SteveWillDoIt\", tras polémica por apuesta millonaria",
+        "description": "Tras el acierto en su pronóstico donde México venció a Ecuador, 2-0, \"SteveWillDoIt\" acudió a la concentración del equipo para regalar relojes Rolex a jugadores y miembros del cuerpo técnico antes de disputar los octavos de final contra Inglaterra",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "selección mexicana",
+            "stevewilldoit",
+            "mundial 2026"
+        ],
+        "creator": [
+            "alejandro garita"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:44:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 21:14:37",
+        "image_url": "https://lasillarota.com/u/fotografias/m/2026/7/3/f1280x720-878496_1010171_4932.jpg",
+        "video_url": null,
+        "source_id": "lasillarota",
+        "source_name": "La Silla Rota",
+        "source_priority": 200644,
+        "source_url": "https://lasillarota.com",
+        "source_icon": "https://n.bytvi.com/lasillarota.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "在百万美元赌注引发争议后，墨西哥玩家将劳力士归还给网红“SteveWillDoIt”",
+        "description_zh": "在正确预测墨西哥2-0击败厄瓜多尔后，“SteveWillDoIt”在16强对阵英格兰之前，前往球队集中注意力，向球员和教练组成员赠送劳力士手表"
+    },
+    {
+        "article_id": "7426468ab35bf4f7ffcb327bb18bec2e",
+        "link": "https://lasillarota.com/guanajuato/local/2026/7/3/a-que-hora-empieza-llover-en-leon-este-viernes-de-julio-606812.html",
+        "title": "¿A qué hora empieza a llover en León este viernes 3 de julio?",
+        "description": "De acuerdo con el pronóstico por horas, a esta hora comenzará a llover en León",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "lluvias en león",
+            "noticias de guanajuato"
+        ],
+        "creator": [
+            "fernanda noriega"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:44:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 16:15:48",
+        "image_url": "https://lasillarota.com/u/fotografias/m/2026/7/3/f1280x720-878501_1010176_5050.png",
+        "video_url": null,
+        "source_id": "lasillarota",
+        "source_name": "La Silla Rota",
+        "source_priority": 200644,
+        "source_url": "https://lasillarota.com",
+        "source_icon": "https://n.bytvi.com/lasillarota.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "7 月 3 日星期五 莱昂 几点开始下雨？",
+        "description_zh": "根据每小时预报，此时莱昂将开始下雨"
+    },
+    {
+        "article_id": "a434584d7689852391bbf4ddf620d440",
+        "link": "https://lasillarota.com/deportes/2026/7/3/influencer-gana-millonaria-apuesta-por-atinarle-al-mexico-vs-ecuador-regala-rolex-jugadores-fifa-prohibe-apuestas-606807.html",
+        "title": "Influencer gana millonaria apuesta por atinarle al México vs Ecuador y regala Rolex a jugadores; FIFA prohibe apuestas",
+        "description": "Tras el acierto en su pronóstico donde México venció a Ecuador, 2-0, \"SteveWillDoIt\" acudió a la concentración del equipo para regalar relojes Rolex a jugadores y miembros del cuerpo técnico antes de disputar los octavos de final contra Inglaterra",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "selección mexicana",
+            "stevewilldoit",
+            "mundial 2026"
+        ],
+        "creator": [
+            "alejandro garita"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-07-03 15:44:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 16:13:49",
+        "image_url": "https://lasillarota.com/u/fotografias/m/2026/7/3/f1280x720-878496_1010171_4932.jpg",
+        "video_url": "https://geo.dailymotion.com/player/x8bic.html?playlist=x7g1kr",
+        "source_id": "lasillarota",
+        "source_name": "La Silla Rota",
+        "source_priority": 200644,
+        "source_url": "https://lasillarota.com",
+        "source_icon": "https://n.bytvi.com/lasillarota.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "有影响力的人赢得了墨西哥对厄瓜多尔的百万富翁赌注，并向玩家赠送劳力士；国际足联禁止赌博",
+        "description_zh": "在正确预测墨西哥2-0击败厄瓜多尔后，“SteveWillDoIt”在16强对阵英格兰之前，前往球队集中注意力，向球员和教练组成员赠送劳力士手表"
+    },
+    {
+        "article_id": "eb2132d4f4d0af6d012d7bf4d24e0878",
+        "link": "https://www.soyfutbol.com/noticias/rayados-prepara-bombazo-de-8-millones-por-diego-luna-sera-el-fichaje-estrella-de-la-liga-mx-20260703-0006.html",
+        "title": "Rayados prepara bombazo de 8 millones por Diego Luna: ¿será el fichaje estrella de la Liga MX?",
+        "description": "Monterrey no baja los brazos por una de las grandes figuras de la MLS y estaría dispuesto a realizar una inversión millonaria para cumplir uno de los deseos de Matías Almeyda.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:55",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 17:46:33",
+        "image_url": "https://www.soyfutbol.com/images-formats/1200x675/t_2-p_9-fpx_600-fpy_370/jpg/2026/07/03/x3dbropxmptmtfetfmia7zcyaq_1.jpg",
+        "video_url": null,
+        "source_id": "soyfutbol",
+        "source_name": "Soyfutbol",
+        "source_priority": 877070,
+        "source_url": "https://www.soyfutbol.com",
+        "source_icon": "https://n.bytvi.com/soyfutbol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "雷亚多斯为迭戈卢纳准备800万炸弹：他会成为MX联赛的明星签约吗？",
+        "description_zh": "蒙特雷并没有放弃美国职业足球大联盟的一位伟大人物，并且愿意投入一百万美元来实现马蒂亚斯·阿尔梅达的一个愿望。"
+    },
+    {
+        "article_id": "baf77c62f6e98d7fb41ae3036d9c1b23",
+        "link": "https://ladiscusion.cl/existen-brotes-de-sarampion-en-distintos-paises-y-eso-aumenta-el-riesgo-de-importacion-de-casos/",
+        "title": "“Existen brotes de sarampión en distintos países y eso aumenta el riesgo de importación de casos”",
+        "description": "Ante la circulación de sarampión en distintos países y el riesgo de importación de casos, la Seremi de Salud de Ñuble y el Servicio de Salud Ñuble reforzaron el llamado a la comunidad a revisar su esquema de vacunación, especialmente en niños y personas que viajarán al extranjero, en el marco de la campaña “Chile [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "posted by"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 16:14:24",
+        "image_url": "https://ladiscusion.cl/wp-content/uploads/2026/07/SARAMPION-2.jpg",
+        "video_url": null,
+        "source_id": "ladiscusion_cl",
+        "source_name": "Ladiscusion Cl",
+        "source_priority": 338295,
+        "source_url": "https://www.ladiscusion.cl",
+        "source_icon": "https://n.bytvi.com/ladiscusion_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“不同国家都爆发麻疹疫情，这增加了病例输入的风险”",
+        "description_zh": "鉴于麻疹在不同国家的传播和病例输入的风险，Seremi de Salud de Ñuble 和 Ñuble 卫生服务部门再次呼吁社区审查其疫苗接种计划，特别是针对儿童和将出国、海上旅行的人。"
+    },
+    {
+        "article_id": "27a1aa68ae82e69181805dacfb8dfdb6",
+        "link": "https://www.mural.com.mx/se-encamina-dolar-a-su-mayor-caida-semanal-desde-abril/ar3233986",
+        "title": "Se encamina dólar a su mayor caída semanal desde abril",
+        "description": "El dólar perfila su mayor caída semanal en 12 semanas, tras un reporte de empleo en EU que enfrió expectativas de un alza de tasas de Fed.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-03 15:43:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-03 15:47:15",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "mural",
+        "source_name": "Mural",
+        "source_priority": 966477,
+        "source_url": "https://www.mural.com.mx",
+        "source_icon": "https://n.bytvi.com/mural.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "美元有望创四月以来最大单周跌幅",
+        "description_zh": "美国就业报告冷却了美联储加息的预期后，美元将出现 12 周以来的最大单周跌幅。"
+    },
+    {
+        "article_id": "a6697f97c3e7f205deb6863cf449bd0a",
+        "link": "https://www.merca20.com/pepsi-lanza-tortachampions-el-torneo-que-convierte-la-torta-en-competencia-global/",
+        "title": "Pepsi lanza “TortaChampions”: el torneo que convierte la torta en competencia global",
+        "description": "La idea parte de un fenómeno conocido en marketing cultural: cuando un producto deja de ser solo consumo y se convierte en ritual.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "home"
+        ],
+        "creator": [
+            "maria teresa espinoza"
         ],
         "language": "spanish",
         "country": [
@@ -492,16 +672,16 @@
             "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-02 15:51:00",
+        "pubDate": "2026-07-03 15:43:39",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:05:20",
-        "image_url": "https://www.elimparcial.com/resizer/v2/IK5W5HUNUFDQNEZU6QOWBAELVE.jpg?auth=0e79ade5af9d7017200a04cfbd525ba57bfcaecb320c86457233c405a504c04b&smart=true&width=1200&height=750",
+        "fetched_at": "2026-07-03 19:37:04",
+        "image_url": "https://files.merca20.com/uploads/2026/07/DSC00184-scaled.jpg",
         "video_url": null,
-        "source_id": "elimparcial",
-        "source_name": "El Imparcial",
-        "source_priority": 25219,
-        "source_url": "https://www.elimparcial.com",
-        "source_icon": "https://n.bytvi.com/elimparcial.png",
+        "source_id": "merca20",
+        "source_name": "Mercadotecnia",
+        "source_priority": 42257,
+        "source_url": "https://www.merca20.com",
+        "source_icon": "https://n.bytvi.com/merca20.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -509,151 +689,58 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "墨西哥国家队门将劳尔·“塔拉”·兰赫尔·阿吉拉尔在 2026 年世界杯上与墨西哥队 4 场比赛不失一球后引起了西班牙的注意，并提升了他作为芝华士门将的价值",
-        "description_zh": "这位芝华士门将在墨西哥国家队已经有四场比赛没有丢球，他在对阵厄瓜多尔的比赛中的表现加强了国际社会对他表现的关注。"
+        "title_zh": "百事可乐推出“TortaChampions”：将蛋糕变成全球竞赛的锦标赛",
+        "description_zh": "这个想法基于文化营销中已知的一种现象：当产品不再仅仅是消费而成为一种仪式时。"
     },
     {
-        "article_id": "68e66b33436f39e8818df86e05e7fb73",
-        "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-07-02/nasa-sahara-mancha-negra-12000-anos-1qrt_4381592/",
-        "title": "La NASA mira al Sáhara desde el espacio y encuentra una mancha negra a 3.265 metros de altura: es resultado de lo que pasó hace 12.000 años",
-        "description": "El aspecto de la mancha desde la Estación Espacial Internacional sorprendió a los propios astronautas. Narra una historia que combina lava, sal y un antiguo lago desaparecido",
+        "article_id": "1c10aed795378b176688a67f56da662e",
+        "link": "https://www.tvazteca.com/aztecanoticias/cirujana-china-xiao-yu-extiende-su-labor-medica-mas-alla-las-fronteras/",
+        "title": "Cirujana china extiende su labor médica más allá de las fronteras",
+        "description": "La cirujana Xiao Yu participó en la misión más extensa realizada hasta ahora por un buque hospital de la Armada del Ejército Popular de Liberación de China.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "el futuro de la nasa",
-            "sáhara"
+            "china"
         ],
         "creator": [
-            "r. badillo"
+            "azteca noticias"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "technology"
+            "world"
         ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:51:00",
+        "datatype": "multimedia",
+        "pubDate": "2026-07-03 15:43:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:02:55",
-        "image_url": "https://images.ecestaticos.com/rvosczGU-tOvg00cftKrk6uED7o=/0x0:1212x840/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F27b%2F77f%2Fd0d%2F27b77fd0d308215cd74b9d9a2a593286.jpg",
-        "video_url": null,
-        "source_id": "elconfidencial",
-        "source_name": "El Confidencial",
-        "source_priority": 1147,
-        "source_url": "https://www.elconfidencial.com",
-        "source_icon": "https://n.bytvi.com/elconfidencial.jpg",
+        "fetched_at": "2026-07-03 16:05:34",
+        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/8c/1a/8a06e2094f3e9e41ed1778364610/cirujana-china-extiende-su-labor-medica-mas-alla-de-las-fronteras.jpg",
+        "video_url": "https://mdstrm.com/video/6a47d0f6790ae8e0f1350f8e.m3u8",
+        "source_id": "tvazteca",
+        "source_name": "Azteca Deportes",
+        "source_priority": 17594,
+        "source_url": "https://www.tvazteca.com",
+        "source_icon": "https://n.bytvi.com/tvazteca.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "NASA从太空看撒哈拉沙漠，发现3265米高处有一个黑点：这是12000年前发生的事情的结果",
-        "description_zh": "国际空间站上这一点的出现让宇航员们自己都感到惊讶。它讲述了一个结合了熔岩、盐和一个已经消失的古老湖泊的故事。"
+        "duplicate": true,
+        "title_zh": "中国外科医生将医疗工作延伸到国界之外",
+        "description_zh": "外科医生肖宇参加了中国人民解放军海军医院船有史以来执行的最广泛的任务。"
     },
     {
-        "article_id": "bd1e9b8133ed8a6f6b59879ea38efaab",
-        "link": "https://www.infobae.com/mexico/2026/07/02/mexico-supera-a-brasil-en-las-apuestas-de-wall-street-pese-a-incertidumbre-del-t-mec/",
-        "title": "México supera a Brasil en las apuestas de Wall Street pese a incertidumbre del T-MEC",
-        "description": "Bank of America baja su calificación a Brasil mientras los analistas identifican en México catalizadores propios",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "economia mexicana",
-            "wall street",
-            "t-mec",
-            "mexico-noticias",
-            "méxico",
-            "política mexicana",
-            "brasil"
-        ],
-        "creator": [
-            "itzallana lópez castillo"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "united states of america",
-            "colombia"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:50:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:02:01",
-        "image_url": "https://www.infobae.com/resizer/v2/4MZCATGNBVFNTKDPUFRBSLL2TY.png?auth=bd4048c74766f1143f614f7ce5272d691e27af0349b225f1c103118a47b3c62b&smart=true&width=5280&height=2970",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "尽管 T-MEC 存在不确定性，墨西哥在华尔街押注中仍超过巴西",
-        "description_zh": "由于分析师发现墨西哥自身的催化剂，美国银行降低了对巴西的评级"
-    },
-    {
-        "article_id": "39984342eb4c3d1922410aa518e95d0d",
-        "link": "https://www.infobae.com/espana/agencias/2026/07/02/un-coro-sevillano-lleva-al-parlamento-europeo-una-cantata-sobre-greta-thunberg/",
-        "title": "Un coro sevillano lleva al Parlamento Europeo una cantata sobre Greta Thunberg",
-        "description": "Un coro sevillano lleva al Parlamento Europeo una cantata sobre Greta Thunberg",
+        "article_id": "92ee6b378402de3e5ae51d1b30992989",
+        "link": "https://diario.mx/nacional/2026/jul/03/el-objetivo-en-michoacan-es-erradicar-la-extorsion-csp-1125926.html",
+        "title": "El objetivo en Michoacán es erradicar la extorsión.- CSP",
+        "description": "En tanto, la Secretaria Ejecutiva del Sistema Nacional de Seguridad Pública, Marcela Figueroa, informó que los homicidios en Michoacán han bajado 46 por ciento entre enero de 2025 y junio de 2026",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "united states of america",
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:50:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:02:01",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "塞维利亚合唱团向欧洲议会带来了关于格蕾塔·桑伯格的康塔塔",
-        "description_zh": "塞维利亚合唱团向欧洲议会带来了关于格蕾塔·桑伯格的康塔塔"
-    },
-    {
-        "article_id": "8a30f4a73e40bfff0678bc94f78d4f51",
-        "link": "https://eldiariodechihuahua.mx/internacional/2026/jul/02/rescatan-a-hernan-una-semana-despues-de-sismos-en-venezuela-813608.html",
-        "title": "Rescatan a 'Hernán', una semana después de sismos en Venezuela",
-        "description": "Gil Flores, quien trabajaba como guardia, se encontraba de servicio dentro de su pequeña caseta de seguridad cuando se produjo el primer temblor el 24 de junio",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "associated press"
+            "jorge ricardo y claudia salazar / agencia reforma"
         ],
         "language": "spanish",
         "country": [
@@ -664,181 +751,60 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-02 15:50:50",
+        "pubDate": "2026-07-03 15:43:31",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:08:46",
-        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/07/02/afp-20260702-b93c49g-v1-midres-venezuelaearthquakeaftermath-NKglUpipt.jpg",
+        "fetched_at": "2026-07-03 16:04:38",
+        "image_url": "https://diario.mx/core/dmx/assets/images/2026/07/03/er-o3oxPjLJx.jpg",
         "video_url": null,
-        "source_id": "eldiariodechihuahua",
-        "source_name": "Eldiariodechihuahua",
-        "source_priority": 77437,
-        "source_url": "https://www.eldiariodechihuahua.mx",
-        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
+        "source_id": "diario",
+        "source_name": "El Diario",
+        "source_priority": 14955,
+        "source_url": "https://diario.mx",
+        "source_icon": "https://n.bytvi.com/diario.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "委内瑞拉地震一周后，他们营救了“埃尔南”",
-        "description_zh": "6 月 24 日第一次地震发生时，吉尔·弗洛雷斯 (Gil Flores) 正在他的小保安亭内值班。"
+        "duplicate": true,
+        "title_zh": "米却肯州的目标是消除勒索行为。- CSP",
+        "description_zh": "与此同时，国家公共安全系统执行秘书马塞拉·菲格罗亚 (Marcela Figueroa) 报告称，2025 年 1 月至 2026 年 6 月期间，米却肯州的凶杀案下降了 46%。"
     },
     {
-        "article_id": "25b0072e114f45a46f6362315367404b",
-        "link": "https://www.eldinamo.cl/mundo/2026/07/02/videos-terremotos-en-venezuela-asi-fue-como-bomberos-chilenos-rescataron-a-hombre-que-estuvo-mas-de-170-horas-bajo-los-escombros/",
-        "title": "VIDEOS – Terremotos en Venezuela: así fue como Bomberos chilenos rescataron a hombre que estuvo más de 170 horas bajo los escombros",
-        "description": "Tras rescatarlo de entre las ruinas, la Cruz Roja venezolana trasladó a Hernán Gil a un centro asistencial para que recibiera atención médica.",
+        "article_id": "0281aefbe19d63823157c96a9e51e52a",
+        "link": "https://oem.com.mx/elsoldesinaloa/local/ayuntamiento-desplegara-operativo-vial-por-cierre-del-bulevar-pedro-infante-debido-a-construccion-de-nuevo-puente-30924889",
+        "title": "Ayuntamiento desplegará operativo vial por cierre del bulevar Pedro Infante debido a construcción de nuevo puente",
+        "description": "Como parte del operativo, elementos de Tránsito permanecerán de manera permanente en los principales cruceros y puntos de desvío para brindar orientación a los conductores",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "rescate",
-            "venezuela",
-            "actualidad",
-            "chilenos",
-            "mundo"
+            "construcciones",
+            "culiacan",
+            "operativos",
+            "ayuntamientos"
         ],
         "creator": [
-            "juan pablo ernst"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:50:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:10:46",
-        "image_url": "https://media.eldinamo.cl/2026/07/Rescate-Venezuela.png",
-        "video_url": null,
-        "source_id": "eldinamo",
-        "source_name": "El Dinamo",
-        "source_priority": 139625,
-        "source_url": "https://www.eldinamo.cl",
-        "source_icon": "https://n.bytvi.com/eldinamo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "视频 – 委内瑞拉地震：智利消防员如何营救一名在废墟下度过 170 多个小时的男子",
-        "description_zh": "委内瑞拉红十字会从废墟中救出埃尔南·吉尔后，将他转移到医疗中心接受治疗。"
-    },
-    {
-        "article_id": "de6155fce23ac0b225c964b4f56541f1",
-        "link": "https://eldiariodechihuahua.mx/local/2026/jul/02/dedican-mujeres-en-la-historia-a-chihuahuense-813607.html",
-        "title": "Dedican Mujeres en la Historia a chihuahuense",
-        "description": "Fue dedicada a la doctora Leonila Vázquez García, quien dedicó su vida profesional al estudio de la biología, en especial de los insectos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "orlando chávez | el diario"
+            "mario núñez"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:50:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:38:32",
-        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/07/02/mujer2-FvdNtS53I.jpg",
-        "video_url": null,
-        "source_id": "eldiariodechihuahua",
-        "source_name": "Eldiariodechihuahua",
-        "source_priority": 77437,
-        "source_url": "https://www.eldiariodechihuahua.mx",
-        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "历史上献身于奇瓦瓦的女性",
-        "description_zh": "它是献给莱奥尼拉·巴斯克斯·加西亚博士的，她将自己的职业生涯奉献给了生物学，特别是昆虫的研究。"
-    },
-    {
-        "article_id": "14f38db300e1e97b2edb4484ea160059",
-        "link": "https://www.elnuevodia.com.co/tolima/procuraduria-formula-cargos-contra-exalcalde-de-natagaima-537685",
-        "title": "Procuraduría formula cargos contra exalcalde de Natagaima",
-        "description": "Procuraduría formula cargos contra exalcalde de Natagaima jorjuela Jue, 02/07/2026 - 10:50 Fecha nodo Jue, 02/07/2026 - 10:50 Image /sites/default/files/imagenes/2026/07/NOTA%201%20_%20Procuradur%C3%ADa%20formula%20cargos%20contra%20exalcalde%20de%20Natagaima%20%20.jpg Body La Procuraduría General de la Nación formuló pliego de cargos contra el exalcalde de Natagaima , David Mauricio Andrade Ramírez , por el presunto incumplimiento de obligaciones ambientales relacionadas con el antiguo botadero de basura a cielo abierto de la vereda San Miguel , en ese municipio del sur del Tolima . Según la Procuraduría Provincial de Instrucción de Chaparral , el entonces mandatario debía garantizar la ejecución del plan de abandono, cierre, clausura y posclausura del sitio de disposición final de residuos, conforme a las obligaciones impuestas por la autoridad ambiental. Exalcalde de Natagaima es investigado por presunta omisión ambiental El organismo de control indicó que el exfuncionario, al parecer, no adoptó las medidas necesarias para asegurar una adecuada gestión de los residuos sólidos ni el cumplimiento de las acciones exigidas por Cortolima . \"El entonces mandatario debía garantizar el cumplimiento de las obligaciones impuestas por la autoridad ambiental y adoptar las medidas necesarias para asegurar la adecuada gestión de los residuos sólidos\", señaló la entidad. Como consecuencia de estos hechos, la Procuraduría calificó provisionalmente la conducta como una presunta falta gravísima , cometida a título de culpa gravísima , lo que hace parte del proceso disciplinario que actualmente adelanta el ente de control. No obstante, la entidad aclaró que la formulación del pliego de cargos no constituye una decisión definitiva ni un juicio de responsabilidad disciplinaria . Se trata de una etapa procesal en la que David Mauricio Andrade Ramírez podrá ejercer plenamente su derecho de defensa, presentar pruebas y controvertir los señalamientos antes de que se adopte una decisión de fondo. Creado por Redacción Tolima",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "redacción tolima"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:50:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:33:57",
-        "image_url": "https://www.elnuevodia.com.co/sites/default/files/styles/galeria_1200x600_/public/imagenes/2026/07/NOTA%201%20_%20Procuradur%C3%ADa%20formula%20cargos%20contra%20exalcalde%20de%20Natagaima%20%20.jpg?itok=8e1pnEnY",
-        "video_url": null,
-        "source_id": "elnuevodia",
-        "source_name": "El Nuevo Día",
-        "source_priority": 14300,
-        "source_url": "https://www.elnuevodia.com",
-        "source_icon": "https://n.bytvi.com/elnuevodia.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "检察官办公室对纳塔盖马前市长提出指控",
-        "description_zh": "检察官办公室对 Natagaima jorjuela 前市长提出指控 Thu, 07/02/2026 - 10:50 节点日期 Thu, 07/02/2026 - 10:50 图片/sites/default/files/imagenes/2026/07/NOTA%201%20_%20Procuradur%C3%ADa%20formula%20cargos%20contra%20exalcalde%20de%20Natagaima%20%20.jpg 正文 总检察长办公室"
-    },
-    {
-        "article_id": "a8ad7632f6969f3d82c44afd8fa58532",
-        "link": "https://www.infobae.com/espana/agencias/2026/07/02/congelar-ovulos-antes-de-los-36-anos-duplica-las-posibilidades-de-ser-madre-a-los-40/",
-        "title": "Congelar óvulos antes de los 36 años duplica las posibilidades de ser madre a los 40",
-        "description": "Congelar óvulos antes de los 36 años duplica las posibilidades de ser madre a los 40",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "united states of america",
-            "colombia"
-        ],
-        "category": [
             "top",
-            "health"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-02 15:50:40",
+        "pubDate": "2026-07-03 15:43:30",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 16:02:01",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "fetched_at": "2026-07-03 21:14:05",
+        "image_url": "https://oem.com.mx/elsoldesinaloa/img/30907112/1783093294/BASE_LANDSCAPE/400/image.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "elsoldesinaloa_mx",
+        "source_name": "Elsoldesinaloa Mx",
+        "source_priority": 439063,
+        "source_url": "https://www.elsoldesinaloa.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldesinaloa_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -846,57 +812,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "36 岁之前冷冻卵子可以使 40 岁时成为母亲的机会增加一倍",
-        "description_zh": "36 岁之前冷冻卵子可以使 40 岁时成为母亲的机会增加一倍"
-    },
-    {
-        "article_id": "965856659315b9c2b728ccf91e082f7b",
-        "link": "https://laopinion.co/deportes/argentina-con-messi-buscara-no-dejarse-enredar-por-cabo-verde-en-la-pelea-por-los-octavos",
-        "title": "Argentina con Messi buscará no dejarse enredar por Cabo Verde en la pelea por los octavos de final",
-        "description": "Authored by omarromero Image Colprensa Jueves, 2 de Julio de 2026 Madrid (Europa Press) La vigente campeona del mundo, Argentina, afronta este viernes a las (5:00 p.m.) su estreno en las eliminatorias del Mundial 2026 con un duelo de dieciseisavos de final frente a la sorprendente Cabo Verde en el Hard Rock Stadium de Miami (Estados Unidos), un cruce entre una de las grandes favoritas al título y una de las revelaciones del torneo. La selección de Lionel Scaloni ha confirmado en la fase de grupos que sigue siendo una candidata firme a revalidar la corona conquistada en Catar, con un Leo Messi que sigue tirando del carro y un grupo que cierra filas junto a él, pero con muchos más argumentos de peso para, de momento, terminar con una Cabo Verde que sigue soñando. La albiceleste cerró el Grupo J, con pleno de victorias tras imponerse (3-0) a Argelia, (2-0) a Austria y (3-1), a Jordania, administrando esfuerzos sin perder competitividad y con un Leo Messi que continúa agrandando su leyenda, incluso saliendo desde el banquillo, para hacer más grande su historia. El capitán argentino volvió a ser decisivo en la última jornada. Entró en la segunda mitad frente a Jordania y firmó el 1-3 definitivo, su decimonoveno gol en los Mundiales. Campeonato del que es máximo goleador histórico y el séptimo partido consecutivo viendo puerta en la competición, una muestra más de la profundidad de una selección capaz de ganar también con rotaciones y que cuenta además con el olfato de Lautaro Martínez, la creatividad de Enzo Fernández, De Paul y Mac Allister o la jerarquía defensiva de Cristian Romero y Lisandro Martínez. Le puede interesar: Portugal-Croacia, duelo inédito por el cupo a los octavos de final del Mundial 2026 Los caboverdianos Enfrente estará una Cabo Verde que ya ha escrito la página más brillante de su historia futbolística. Debutante en una Copa del Mundo, el conjunto dirigido por Bubista alcanzó los cruces sin conocer la derrota tras empatar con España (0-0) en su estreno, rescatar un valioso (2-2) frente a Uruguay y cerrar la fase de grupos con otro (0-0) ante Arabia Saudí. Tres empates que le bastaron para clasificarse como segunda del Grupo H y mantener vivo un sueño que parecía improbable antes del torneo. Los 'Tiburones Azules' han construido su éxito desde el orden y la solidaridad. Apenas han recibido dos goles en tres partidos, con el veterano Vozinha transmitiendo seguridad bajo palos y futbolistas como Ryan Mendes, Jamiro Monteiro o Willy Semedo liderando un bloque competitivo que ya ha demostrado que puede incomodar a rivales de mayor entidad, como hizo frente a la campeona de Europa, España, o a una Uruguay a la que logró remontar para sumar un punto. Le puede interesar: Es la victoria más importante de mi vida: Gustavo Alfaro, DT de Paraguay El contraste de estilos convierte el duelo en uno de los más atractivos de estos dieciseisavos. Argentina llega con nueve goles marcados en la primera fase y la sensación de haber ido creciendo con el paso de los encuentros, mientras que Cabo Verde intentará alargar el partido, minimizar espacios y aprovechar cualquier oportunidad para seguir alimentando a la contra la mayor sorpresa del campeonato. El premio será un billete para los octavos de final, donde el vencedor se enfrentará al ganador del cruce entre Australia y Egipto, previsto para el próximo 7 de julio en Atlanta. Ficha técnica. Posibles formaciones. Argentina: Emiliano Martínez; Molina, Romero, Lisandro Martínez, Medina; Mac Allister, De Paul, Enzo Fernández; Almada, Messi y Lautaro Martínez. Cabo Verde: Vozinha; Diney Borges, Pico Lopes, Wagner Pina, Kevin Pina; Joao Paulo, Jamiero Montiero, Deroy Duarte, Willy Semedo; Dailon Livramento y Ryan Mendes. Árbitro: Drew Fischer (CAN). Estadio: Hard Rock Café Stadium, Miami. Gracias por valorar La Opinión Digital. Suscríbete y disfruta de todos los contenidos y beneficios en http://bit.ly/SuscripcionesLaOpinion . Recomendados para ti Autor La Opinión Portugal-Croacia, duelo inédito por el cupo a los octavos de final del Mundial 2026 Autor Colprensa Suiza y Argelia definen su clasificación a la tercera ronda del Mundial Autor Colprensa Es la victoria más importante de mi vida: Gustavo Alfaro, DT de Paraguay Autor Colprensa ¡Es oficial! Lucas González es el nuevo técnico de Atlético Nacional, ¿quién lo acompañará?",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "afa",
-            "copa mundial de la fifa 2026",
-            "selección argentina",
-            "conmebol",
-            "diario la opinión",
-            "noticias de colombia en el mundial de la fifa",
-            "la opinión",
-            "selección colombia",
-            "copa mundial de 2026",
-            "la opinión cúcuta"
-        ],
-        "creator": [
-            "omarromero"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-02 15:50:34",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-02 17:34:19",
-        "image_url": "https://laopinion.co/sites/default/files/2026-07/1-02-07-026-ARGENTINA.jpg",
-        "video_url": null,
-        "source_id": "laopinion",
-        "source_name": "La Opinión",
-        "source_priority": 14302,
-        "source_url": "https://laopinion.com",
-        "source_icon": "https://n.bytvi.com/laopinion.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "拥有梅西的阿根廷队将寻求在16强的争夺中不被佛得角纠缠",
-        "description_zh": "作者：omarromero Image Colprensa 2026 年 7 月 2 日，星期四，马德里（Europa Press） 现任世界冠军阿根廷队将于本周五（下午 5:00）在 2026 年世界杯预选赛中首次亮相，他们将在 H 联赛中与出人意料的佛得角队进行 32 强对决。"
+        "title_zh": "由于修建新桥而关闭佩德罗因凡特大道，市议会将部署道路运营",
+        "description_zh": "作为行动的一部分，交通部门将永久留在主要十字路口和绕行点，为司机提供指导。"
     }
 ]
