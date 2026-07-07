@@ -1,13 +1,114 @@
 [
     {
-        "article_id": "2a97436541ce7f7057ae22f6607080da",
-        "link": "https://tribunadepetropolis.com.br/noticias/ex-mulher-do-goleiro-bruno-e-encontrada-apos-3-dias-desaparecida-e-da-entrada-em-hospital-de-bh/",
-        "title": "Ex-mulher do goleiro Bruno é encontrada após 3 dias desaparecida e dá entrada em hospital de BH",
-        "description": "Dayanne Rodrigues do Carmo, de 39 anos, ex-mulher do goleiro Bruno Fernandes, deu entrada em um hospital de Belo Horizonte na noite deste sábado, 4, após passar três dias desaparecida. A informação foi confirmada pela Polícia Civil de Minas Gerais (PCMG), que afirmou que Dayanne foi socorrida na noite de sábado pelo Serviço de Atendimento [...]",
+        "article_id": "213807dd1ef3d9225ee0cb94737c942c",
+        "link": "https://www.correiobraziliense.com.br/politica/2026/07/7455745-paulo-figueiredo-desiste-de-ir-a-audiencia-sobre-tarifas-nos-eua.html",
+        "title": "Paulo Figueiredo desiste de ir à audiência sobre tarifas nos EUA",
+        "description": "Segundo o influenciador bolsonarista, o foco deverá ser a participação do senador Flávio Bolsonaro nas discussões",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "politics",
+            "política",
+            "estados unidos"
+        ],
         "creator": [
-            "por redação o estado de s paulo; estadão"
+            "correio braziliense"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:16:04",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2024/02/10/paulo_figueiredo_filho_1024x576-34983456.jpg",
+        "video_url": null,
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "保罗·菲格雷多放弃出席美国关税听证会",
+        "description_zh": "据博尔索纳罗影响者称，重点应该是参议员弗拉维奥·博尔索纳罗参与讨论"
+    },
+    {
+        "article_id": "e65f4ccd134b842b5973c72a22bcdf6b",
+        "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/07/lidia-jorge-recebe-camoes-um-ano-depois-de-controversia-sobre-pureza.shtml",
+        "title": "Lídia Jorge recebe Camões um ano depois de controvérsia sobre pureza",
+        "description": "Um ano depois de afirmar que em Portugal \"ninguém tem sangue puro\", Lídia Jorge recebeu o Prêmio Camões . A coincidência não transforma o prêmio num plebiscito sobre as suas ideias, mas revela a coerência entre uma obra enraizada na língua e uma escritora capaz de olhar para o futuro. Leia mais (07/06/2026 - 13h00)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "prêmio camões",
+            "visual arts",
+            "escritores",
+            "folha de s.paulo",
+            "portugal",
+            "architecture & crafts",
+            "literatura",
+            "livro",
+            "países lusófonos",
+            "folha",
+            "performing arts",
+            "lingua-portuguesa",
+            "livros"
+        ],
+        "creator": [
+            "josé manuel diogo"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "opinion",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:02:52",
+        "image_url": "https://f.i.uol.com.br/fotografia/2026/07/02/17830154466a46a8166838d_1783015446_3x2_md.jpg",
+        "video_url": null,
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "纯洁争议一年后，莉迪亚·豪尔赫迎来了卡蒙斯",
+        "description_zh": "在宣称葡萄牙“没有人拥有纯正血统”一年后，莉迪亚·豪尔赫 (Lídia Jorge) 获得了卡蒙斯奖。这一巧合并没有使该奖项变成对她的想法的公民投票，但它揭示了植根于语言的作品与能够展望未来的作家之间的连贯性。读"
+    },
+    {
+        "article_id": "9cf9a3037c861fa4879acc14ca03e66e",
+        "link": "https://www.em.com.br/bem-viver/2026/07/7455780-deixar-a-barba-crescer-nao-basta-por-que-ela-continua-falhada.html",
+        "title": "Deixar a barba crescer não basta: por que ela continua falhada?",
+        "description": "O ciclo biológico dos fios pode demorar até 12 meses para se estabilizar, mas um detalhe na sua rotina pode acelerar a conquista de um rosto uniforme",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "bem-estar",
+            "estética",
+            "masculino",
+            "autocuidado",
+            "barba"
+        ],
+        "creator": [
+            "estado de minas"
         ],
         "language": "portuguese",
         "country": [
@@ -15,12 +116,306 @@
         ],
         "category": [
             "top",
-            "crime"
+            "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-05 16:09:00",
+        "pubDate": "2026-07-06 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:44:04",
+        "fetched_at": "2026-07-06 19:32:04",
+        "image_url": "https://midias.em.com.br/_midias/jpg/2026/07/06/1200x720/1_barba-estetica-masculina-67113397.jpg",
+        "video_url": null,
+        "source_id": "estadodeminas",
+        "source_name": "Jornal Estado De Minas",
+        "source_priority": 6179,
+        "source_url": "https://www.em.com.br",
+        "source_icon": "https://n.bytvi.com/estadodeminas.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "留胡子还不够：为什么仍然失败？",
+        "description_zh": "头发的生物周期可能需要长达 12 个月的时间才能稳定下来，但日常护理中的一个细节可以加快实现均匀脸部的速度。"
+    },
+    {
+        "article_id": "ed7b6ae4e75d5c16f390dae3c4a6772f",
+        "link": "https://la100.cienradios.com/sociedad/cuanto-cuesta-una-comida-para-2-personas-en-la-pizzeria-la-mezzetta-en-julio-2026/",
+        "title": "Cuánto cuesta una comida para 2 personas en la pizzería La Mezzetta en julio 2026",
+        "description": "Se trata de un histórico local gastronómico, considerado como uno de los templos de la fugazzeta rellena.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "la mezzeta"
+        ],
+        "creator": [
+            "la 100"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:19:23",
+        "image_url": "https://la100.cienradios.com/resizer/v2/VW7FWSREE5FRXCYWOUBDKEMLG4.jpg?auth=00edca58ac5cbdf5fe306af40ae1c5e0255e7ae6c46ffa199c20046666240bdc&smart=true&width=1200&height=900&quality=85",
+        "video_url": null,
+        "source_id": "la100",
+        "source_name": null,
+        "source_priority": 999999,
+        "source_url": null,
+        "source_icon": null,
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "2026 年 7 月 La Mezzetta 披萨店 2 人餐费用是多少",
+        "description_zh": "这是一家历史悠久的美食场所，被认为是酿法加泽塔的圣殿之一。"
+    },
+    {
+        "article_id": "19553a09830e5fe66cb820a4fb623864",
+        "link": "https://www.perfil.com/noticias/economia/la-macro-se-ordena-pero-el-empleo-juega-otro-partido-la-informalidad-ya-afecta-a-mas-de-9-millones-de-trabajadores-a40.phtml",
+        "title": "La macro se ordena, pero el empleo juega otro partido: la informalidad ya afecta a más de 9 millones de trabajadores",
+        "description": "Aunque la desocupación se mantiene casi sin cambios, el deterioro aparece en la calidad del trabajo. Laura Caullo, economista de IERAL, advierte que el mercado laboral “está jugando otro partido”. Un informe de IDESA suma otro dato: crece la participación laboral de mujeres jóvenes, pero mayormente en empleos informales. Leer más",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "informalidad laboral",
+            "presión laboral",
+            "mercado laboral",
+            "ieral",
+            "subocupación"
+        ],
+        "creator": [
+            "maría lorena rodríguez"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:39:01",
+        "image_url": "https://fotos.perfil.com/2025/09/30/trim/540/304/roberto-corne-el-40-de-los-trabajadores-informales-esta-bajo-la-linea-de-pobreza-2109035.jpg",
+        "video_url": null,
+        "source_id": "perfil",
+        "source_name": "Perfil",
+        "source_priority": 56989,
+        "source_url": "https://www.perfil.com",
+        "source_icon": "https://n.bytvi.com/perfil.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": "尽管失业率几乎保持不变，但工作质量却出现恶化。 IERAL 经济学家劳拉·考洛 (Laura Caullo) 警告称，劳动力市场“正在玩另一场游戏”。 IDESA 的一份报告补充了另一个事实：年轻女性的劳动力参与率正在增长，但更多"
+    },
+    {
+        "article_id": "9678862b13affe354021753b292a9687",
+        "link": "https://jornalinside.com/uma-grande-potencia-ultrapassa-um-marco-que-os-especialistas-adiavam-para-2050/",
+        "title": "Uma grande potência ultrapassa um marco que os especialistas adiavam para 2050",
+        "description": "O anúncio caiu como um trovão: um país central no tabuleiro global atravessou um marco que os especialistas empurravam para 2050. Em vez de celebração ... Ler mais The post Uma grande potência ultrapassa um marco que os especialistas adiavam para 2050 appeared first on Jornal Inside .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "josé fonseca"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:25:24",
+        "image_url": "https://jornalinside.com/wp-content/uploads/2026/07/uma-grande-potencia-ultrapassa-um-marco-que-os-especialistas-adiavam-para-2050-6556.jpg",
+        "video_url": null,
+        "source_id": "jornalinside",
+        "source_name": "Jornal Inside",
+        "source_priority": 6670873,
+        "source_url": "https://jornalinside.com",
+        "source_icon": "https://n.bytvi.com/jornalinside.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "一个大国超越了专家推迟到2050年的里程碑",
+        "description_zh": "这一消息如雷贯耳：全球棋盘上的一个中央国家跨越了专家们推动的 2050 年里程碑。"
+    },
+    {
+        "article_id": "c66fa7e27d2e07859a1615622c83c34b",
+        "link": "https://www.correiodopovo.com.br/bellamais/colunistas/lubrito/quando-a-empreendedora-prospera-fortalece-a-aldeia-inteira-1.1726121",
+        "title": "Quando a empreendedora prospera, fortalece a aldeia inteira",
+        "description": "Lu Brito analisa o impacto geracional das redes de apoio lideradas por mulheres e destaca o trabalho do Centro de Oportunidades do Mário Quintana",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mulheres empreendedoras",
+            "empreendedorismo social",
+            "bellamais",
+            "porto alegre",
+            "lu brito"
+        ],
+        "creator": [
+            "lu brito"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:11:47",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "correiodopovo",
+        "source_name": "Correio Do Povo",
+        "source_priority": 139621,
+        "source_url": "https://www.correiodopovo.com.br",
+        "source_icon": "https://n.bytvi.com/correiodopovo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "当企业家繁荣时，她就会增强整个村庄的实力",
+        "description_zh": "Lu Brito 分析了女性领导的支持网络对代际的影响，并重点介绍了 Mário Quintana 机会中心的工作"
+    },
+    {
+        "article_id": "a62066a8d7693e0a034fe1e679624fb2",
+        "link": "https://www.mdzol.com/tecnologia/gta-6-el-problema-no-sera-la-consola-sino-la-velocidad-internet-n1558348",
+        "title": "GTA 6: el problema no será la consola, sino la velocidad de internet",
+        "description": "GTA 6, el esperado título de Rockstar, ocuparía unos 120 GB y, con conexiones lentas, la descarga podría extenderse durante horas o incluso varios días.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "rockstar games",
+            "gta 6",
+            "velocidad",
+            "internet"
+        ],
+        "creator": [
+            "mdz tecnología"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:31:37",
+        "image_url": "https://media.mdzol.com/p/32ee574488d8dac042c59c7e8bca3761/adjuntos/373/imagenes/001/957/0001957284/1200x675/775x331:795x351/chatgpt-image-2-jul-2026-04_38_42-pm.png",
+        "video_url": null,
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://n.bytvi.com/mdzol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "GTA 6：问题不是主机，而是网速",
+        "description_zh": "期待已久的 Rockstar 游戏《GTA 6》将占用约 120 GB 空间，如果连接速度较慢，下载可能需要几个小时甚至几天。"
+    },
+    {
+        "article_id": "0247927310336b0ecaa506f5d117f163",
+        "link": "https://www.ambito.com/espectaculos/un-triangulo-amoroso-diferente-todos-la-pelicula-romantica-prime-video-que-tenes-que-ver-n6296167",
+        "title": "Un triángulo amoroso diferente a todos: la película romántica de Prime Video que tenés que ver",
+        "description": "Una comedia con enredos, identidades cruzadas y situaciones inesperadas propone una historia fresca para disfrutar durante el fin de semana.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "películas",
+            "prime video"
+        ],
+        "creator": [
+            "ámbito.com"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:07:14",
+        "image_url": "https://media.ambito.com/p/a7a0713642ab1d4f0bd83b4ae5db818a/adjuntos/239/imagenes/043/493/0043493379/la-otra-zoey-portada.jpg",
+        "video_url": null,
+        "source_id": "ambito",
+        "source_name": "Ambito",
+        "source_priority": 37705,
+        "source_url": "https://www.ambito.com",
+        "source_icon": "https://n.bytvi.com/ambito.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "与众不同的三角恋：你必须要看的 Prime Video 浪漫电影",
+        "description_zh": "一部充满纠葛、交叉身份和意外情况的喜剧，为周末带来了一个值得欣赏的新鲜故事。"
+    },
+    {
+        "article_id": "900c86807f98d1e082fb6cbf2f1cf5cf",
+        "link": "https://tribunadepetropolis.com.br/noticias/bndes-aprova-r-2675-milhoes-para-aquisicao-de-432-onibus-menos-poluentes-em-sc-sp-e-df/",
+        "title": "BNDES aprova R$ 267,5 milhões para aquisição de 432 ônibus menos poluentes em SC, SP e DF",
+        "description": "O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou financiamento de R$ 267,55 milhões para a compra de 432 ônibus euro 6, menos poluentes, por três empresas do Grupo Comporte: Blumob Concessionária de Transporte Urbano de Blumenau, BR Mobilidade Baixada Santista e Viação Piracicabana S.A. Os veículos serão usados em linhas de transporte coletivo [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "por denise luna; estadão"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:47:27",
         "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
         "source_id": "tribunadepetropolis_br",
@@ -34,124 +429,78 @@
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "门将布鲁诺的前妻三天后被发现失踪并被送往波黑医院",
-        "description_zh": "39岁的达安妮·罗德里格斯·多卡尔莫是门将布鲁诺·费尔南德斯的前妻，在失踪三天后于4日周六晚被送进贝洛奥里藏特的一家医院。该消息得到了米纳斯吉拉斯州民警（PCMG）的证实，称达安妮已获救"
-    },
-    {
-        "article_id": "30b5be8fa0ee6a6146eb06e42091fa2b",
-        "link": "https://ecosdanoticia.net/2026/07/homem-descumpre-medida-protetiva-e-e-preso-em-flagrante-pela-policia-penal/",
-        "title": "Homem descumpre medida protetiva e é preso em flagrante pela Polícia Penal",
-        "description": "Um homem identificado pelas iniciais W. G. S., que cumpre pena sob monitoramento por tornozeleira eletrônica, foi preso em flagrante na madrugada deste domingo (5) em Rio Branco. Ele foi detido após invadir a área de exclusão determinada por uma medida protetiva de urgência em favor de sua ex-companheira. A infração foi detectada pelo sistema [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "redação ecos da notícia"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:08:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:15:14",
-        "image_url": "https://ecosdanoticia.net/wp-content/uploads/2026/07/Frame-693-37.avif",
-        "video_url": null,
-        "source_id": "ecosdanoticia",
-        "source_name": "Ecos Da Notícia",
-        "source_priority": 587383,
-        "source_url": "https://ecosdanoticia.net",
-        "source_icon": "https://n.bytvi.com/ecosdanoticia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "男子违反防护措施被刑警当场抓获",
-        "description_zh": "一名姓名缩写为 W.G.S. 的男子于本周日（5 日）凌晨在里约布兰科被捕，他正在电子脚镯的监控下服刑。他在闯入根据有利于前妻的紧急保护措施确定的禁区后被拘留。"
+        "title_zh": "BNDES 批准 2.675 亿雷亚尔用于在 SC、SP 和 DF 收购 432 辆污染较少的公交车",
+        "description_zh": "国家经济和社会发展银行 (BNDES) 批准融资 2.6755 亿雷亚尔，用于购买 432 辆污染较少的欧元 6 公交车，由 Comporte 集团的三家公司购买：Blumob Concessionária de Transporte Urbano de Blumenau、BR Mobilidade Baixada Santista 和 Viação P"
     },
     {
-        "article_id": "090a9f86bba3eb18d91bf101fcd21bb8",
-        "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/05/natal-chuvas-acima-media-semestre.ghtml",
-        "title": "Natal registra chuvas 23% acima da média histórica no 1o semestre",
-        "description": "Chuvas em Natal Demis Roussos/prefeitura de Natal Natal encerrou o primeiro semestre de 2026 com um volume de chuvas 23,2% acima da média histórica para o período. Os dados forma divulgados pela Defesa Civil de Natal, com base em medições do Instituto Nacional de Meteorologia (Inmet). 📳 Clique aqui para seguir o canal do g1 RN no WhatsApp De acordo com a Defesa Civil, entre janeiro e junho deste ano foram registrados 1.381,6 milímetros de precipitação - 260 milímetros a mais que a média histórica dos últimos 22 anos, de 1.121,3 milímetros. A série histórica do Inmet foi iniciada em 2003. O levantamento considera apenas os anos com medições consistentes, desconsiderando períodos que apresentaram falhas de registro. Agora no g1 A Defesa Civil de Natal orienta a população a colaborar com a preservação do sistema de drenagem, evitando o descarte irregular de lixo em ruas, galerias e bocas de lobo, prática que compromete o escoamento das águas pluviais e aumenta o risco de alagamentos. Em situações de emergência, o órgão pode ser acionado pelo telefone 199. Alerta de chuvas O Inmet emitiu um alerta de chuvas intensas para todas as 167 cidades do Rio Grande do Norte até 23h59 deste domingo (5). O alerta dura desde o sábado (4) e reduz o número de cidades a partir de segunda-feira, mantendo a capital Natal entre os municípios atingidos. O grau de severidade do alerta é de perigo potencial, da cor amarela, que prevê chuva entre 20 e 30 mm/h ou de até 50 mm por dia, além da possibilidade de ventos intensos, variando entre 40 e 60 km/h. O Inmet destaca que neste tipo de alerta é baixo o risco de corte de energia elétrica, queda de galhos de árvores, alagamentos e descargas elétricas. Vídeos mais assistidos do g1 RN",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:08:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:34:34",
-        "image_url": "https://s2-g1.glbimg.com/jJ3uN058bHfjuEGu0uc5eZ5eOoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/q/eP0Qv2RpuhjjHiAApGCg/chuva.jpeg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "纳塔尔上半年降雨量较历史平均水平高出23%",
-        "description_zh": "纳塔尔 Demis Roussos/纳塔尔市政厅的降雨量截至 2026 年上半年，降雨量比同期历史平均水平高出 23.2%。该数据由纳塔尔民防局根据国家气象研究所 (Inmet) 的测量结果发布。 📳 点击"
-    },
-    {
-        "article_id": "12962725b4654bb049b378fa45af1987",
-        "link": "https://www.infobae.com/mexico/2026/07/05/registro-de-la-tarjeta-violeta-2026-estos-son-los-requisitos-para-solicitar-el-apoyo-en-guerrero/",
-        "title": "Registro de la Tarjeta Violeta 2026: estos son los requisitos para solicitar el apoyo en Guerrero",
-        "description": "El programa abrirá un nuevo periodo de registro; conoce quiénes pueden solicitar el apoyo, cuáles son los requisitos y cómo consultar la convocatoria oficial",
+        "article_id": "1804d5f16dba2992f5a42a7cc09a0e9b",
+        "link": "https://www.elimparcial.com/estilos/2026/07/06/momentos-especiales-junto-a-papa/",
+        "title": "Momentos especiales junto a papá",
+        "description": "Cada abrazo, cada carcajada y cada mirada llena de complicidad se convierten en instantes que merecen ser atesorados",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "mexico-noticias",
-            "tarjeta violeta",
-            "guerrero",
-            "mexico-servicios",
-            "programas sociales",
-            "gobierno de guerrero"
+            "estilos papá"
         ],
         "creator": [
-            "lorna huitrón"
+            "redacción gh"
         ],
         "language": "spanish",
         "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:36:15",
+        "image_url": "https://www.elimparcial.com/resizer/v2/7OGIAIHD2VAHXEEUWF65B5TWG4.JPG?auth=2253cb7c9075ab763a69d628cba5625f3c9367307ce7b469b0fd8c2710674261&smart=true&width=1284&height=1619",
+        "video_url": null,
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "与父亲的特别时刻",
+        "description_zh": "每一个拥抱、每一次欢笑、每一个充满共谋的眼神，都成为值得珍惜的时刻。"
+    },
+    {
+        "article_id": "13937a972e6ef56a44b11ebd9e12621c",
+        "link": "https://newsroom.rcnradio.com/colombia/transmilenio-modifica-recorrido-de-la-ruta-facil-6-y-horarios-de-los-servicios-d24-y-j24",
+        "title": "TransMilenio modifica recorrido de la Ruta Fácil 6 y horarios de los servicios D24 y J24",
+        "description": "TransMilenio implementó cambios en la Ruta Fácil 6 y ajustó los horarios de los servicios D24 y J24. Conoce cómo impactan los recorridos de los usuarios.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "laura gutierrez valbuena"
+        ],
+        "language": "spanish",
+        "country": [
             "colombia"
         ],
         "category": [
-            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-05 16:08:19",
+        "pubDate": "2026-07-06 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:30:28",
-        "image_url": "https://www.infobae.com/resizer/v2/BG7TLLGCDRHUDCQQZI3XKMGFAA.jpg?auth=361f76fe737a3747071b4d06f45a6fff65aaf568bde55b6758ebdc0ab561ef83&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-07-07 02:12:00",
+        "image_url": "https://assets.rcnradio.com/assets/cms/Trans_Milenio_Bogota_fed459bcef.webp",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "rcnradio",
+        "source_name": "Rcn Radio",
+        "source_priority": 105846,
+        "source_url": "https://www.rcnradio.com",
+        "source_icon": "https://n.bytvi.com/rcnradio.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -159,121 +508,39 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "2026 年紫罗兰卡注册：这些是在格雷罗州请求支持的要求",
-        "description_zh": "计划将开启新的报名期；了解谁可以申请支持、有什么要求以及如何咨询官方电话"
+        "title_zh": "TransMilenio 修改 Easy Route 6 的路线以及 D24 和 J24 的服务时间表",
+        "description_zh": "TransMilenio 对 Easy Route 6 进行了更改，并调整了 D24 和 J24 的服务时间表。了解它们如何影响用户旅程。"
     },
     {
-        "article_id": "9e437cfa38450b4fa840184c78e4af78",
-        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/05/incendio-destroi-carro-no-pereque-mirim-em-caraguatatuba-ninguem-se-feriu.ghtml",
-        "title": "Incêndio destrói carro no Perequê-Mirim, em Caraguatatuba; ninguém se feriu",
-        "description": "Bombeiros atuam para apagar fogo que destruiu carro em Caraguatatuba Corpo de Bombeiros/Divulgação Um incêndio atingiu um carro na manhã deste domingo (5), no bairro Perequê-Mirim, em Caraguatatuba. Ninguém ficou ferido. Segundo o Corpo de Bombeiros, a ocorrência foi registrada por volta das 7h30, na Rua Izidro Paulino Ferreira, próximo ao Depósito do Mineiro. Quando as equipes chegaram ao local, o fogo atingia o compartimento do motor do veículo. As chamas foram controladas após o uso de cerca de 1,5 mil litros de água. ✅ Clique aqui para seguir o canal do g1 Vale do Paraíba e região bragantina no WhatsApp Os bombeiros informaram que o proprietário do carro não estava no local durante o atendimento. As causas do incêndio não foram informadas. Agora no g1 Segundo a corporação, como havia objetos no interior do veículo, a ocorrência também foi apresentada na Delegacia de Polícia para as providências cabíveis. Veja mais notícias do Vale do Paraíba e região bragantina",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:08:13",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:35:17",
-        "image_url": "https://s2-g1.glbimg.com/Dcx1EiV59WFNwh4UFFtEDSn3wzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/u/q9CQHiQoK39HBAnsXWbA/foto-g1-10-.png",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "卡拉瓜塔图巴 Perequê-Mirim 的汽车被大火烧毁；没人受伤",
-        "description_zh": "卡拉瓜塔图巴 (Caraguatatuba) 的消防队员正在努力扑灭一场烧毁一辆汽车的大火。 消防局/披露 本周日早上 (5)，卡拉瓜塔图巴 Perequê-Mirim 社区的一辆汽车发生火灾。没有人受伤。据消防部门称，该事件是在大约"
-    },
-    {
-        "article_id": "3906bf317467d611080a767a265fa063",
-        "link": "https://oantagonista.com.br/ladooa/entretenimento/a-armadura-natural-desse-animal-suporta-ate-mordida-de-leao-e-transforma-um-mamifero-pequeno-em-uma-bola-quase-impossivel-de-abrir/",
-        "title": "A armadura natural desse animal suporta até mordida de leão e transforma um mamífero pequeno em uma bola quase impossível de abrir",
-        "description": "Um predador grande normalmente vence pela força da mordida, pela velocidade e pelo peso do ataque. Mas existe um animal pequeno, discreto e quase sempre escondido que desafia essa lógica: quando ameaçado, ele vira uma bola blindada capaz de resistir até à investida de um leão. Como uma armadura natural pode proteger um animal pequeno?... The post A armadura natural desse animal suporta até mordida de leão e transforma um mamífero pequeno em uma bola quase impossível de abrir appeared first on O Antagonista .",
+        "article_id": "a1c71092e8acfd5e6a89c7818c71fd8b",
+        "link": "https://www.elimparcial.com/son/estilosgh/2026/07/06/rumbo-al-siguiente-paso/",
+        "title": "RUMBO AL SIGUIENTE PASO",
+        "description": "Con emoción, alumnas de sexto de primaria se despiden de esta etapa académica",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "dicas",
-            "entretenimento",
-            "curiosidades"
+            "estilos gh"
         ],
         "creator": [
-            "josé dantas"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-07-05 16:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:20:27",
-        "image_url": "https://cdn.oantagonista.com/uploads/2026/07/d492c597-78d3-4c70-96a8-e8e711febd75.jpg",
-        "video_url": "https://www.youtube.com/watch?v=EFZL5DXJn0k",
-        "source_id": "oantagonista",
-        "source_name": "O Antagonista",
-        "source_priority": 2104208,
-        "source_url": "https://www.oantagonista.com",
-        "source_icon": "https://n.bytvi.com/oantagonista.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "这种动物的天然盔甲甚至可以承受狮子的撕咬，将小型哺乳动物变成几乎无法打开的球。",
-        "description_zh": "大型捕食者通常通过咬合的力量、速度和攻击的力度来获胜。但有一种小型、谨慎且几乎总是隐藏的动物违背了这一逻辑：当受到威胁时，它会变成一个装甲球，甚至能够抵抗狮子的攻击。就像铠甲一样"
-    },
-    {
-        "article_id": "534ef792dcb024dff57a737deeb0c2c0",
-        "link": "https://www.minutouno.com/deportes/el-golpe-kylian-mbappe-un-jugador-paraguay-que-la-tv-no-mostro-el-mundial-2026-n6296329",
-        "title": "El golpe de Kylian Mbappé a un jugador de Paraguay que la TV no mostró en el Mundial 2026",
-        "description": "Un video que se viralizó en las redes sociales dejó al descubierto un cruce del delantero francés con un futbolista paraguayo durante una pausa de hidratación.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mundial 2026",
-            "kylian mbappé",
-            "francia",
-            "paraguay"
-        ],
-        "creator": [
-            "minutouno"
+            "redacción gh"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
+            "mexico"
         ],
         "category": [
-            "sports"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-05 16:08:00",
+        "pubDate": "2026-07-06 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:36:53",
-        "image_url": "https://media.minutouno.com/p/e680910c96723ee86e7a7e65b9111ea9/adjuntos/150/imagenes/043/493/0043493902/1200x675/smart/mbappe.jpg",
+        "fetched_at": "2026-07-06 16:36:15",
+        "image_url": "https://www.elimparcial.com/resizer/v2/SUKTZOQHJNC5HEDXHRODYLFKJQ.JPG?auth=f1076b55d15dc11f356d15021689e06f7808a365a0bad2af68937a03860c232a&smart=true&width=6240&height=4160",
         "video_url": null,
-        "source_id": "minutouno",
-        "source_name": "Minutouno",
-        "source_priority": 33172,
-        "source_url": "https://www.minutouno.com",
-        "source_icon": "https://n.bytvi.com/minutouno.png",
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -281,85 +548,81 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "2026 年世界杯电视上没有播放基利安·姆巴佩对巴拉圭球员的打击",
-        "description_zh": "一段在社交网络上疯传的视频显示，这位法国前锋和一名巴拉圭足球运动员在补水休息期间发生了交叉。"
+        "title_zh": "进入下一步",
+        "description_zh": "六年级学生感慨告别这个学业舞台"
     },
     {
-        "article_id": "a7029b044f135352bad3bdd128b32cca",
-        "link": "https://www.correiodobrasil.com.br/a/venezuela-inicia-esforco-reconstrucao-terremotos",
-        "title": "Venezuela inicia esforço para reconstrução, após terremotos",
-        "description": "O Ministério das Comunicações venezuelano informou que pelo menos 2.954 pessoas morreram e 16.592 ficaram feridas na catástrofe.",
+        "article_id": "33c6bad216898d72ccdc01881bfd1dc9",
+        "link": "https://www.elimparcial.com/estilos/2026/07/06/mas-alla-de-la-tradicion/",
+        "title": "Más allá de la tradición",
+        "description": "Antes los retos que enfrenta la ganadería sonorense, la capacitación y la incorporación de nuevas herramientas técnicas cobran relevancia para preparar a quienes administrarán los ranchos del futuro.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "publicação",
-            "artigo"
+            "retos y oportunidades"
         ],
         "creator": [
-            "cdb"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:07:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 19:16:29",
-        "image_url": "https://correiodobrasil.com.br/img/1809561_big-tremor.jpg",
-        "video_url": null,
-        "source_id": "correiodobrasil_br",
-        "source_name": "Correio Do Brasil",
-        "source_priority": 672908,
-        "source_url": "https://www.correiodobrasil.com.br",
-        "source_icon": "https://n.bytvi.com/correiodobrasil_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "委内瑞拉开始地震后重建工作",
-        "description_zh": "委内瑞拉交通部报告称，这场灾难至少造成2,954人死亡、16,592人受伤。"
-    },
-    {
-        "article_id": "f36aa74f706a8864d08899bafe7e8dc1",
-        "link": "https://www.laopinioncoruna.es/coruna/2026/07/05/trabajadores-extranjeros-viven-coruna-duplican-131967664.html",
-        "title": "Los trabajadores extranjeros que viven en A Coruña se duplican en cinco años y pasan por primera vez de las 10.000 personas",
-        "description": "La cifra de coruñeses con trabajo sigue creciendo. Este mes de mayo el número de vecinos afiliados a la Seguridad Social en alta laboral se acercó a los 98.600, el número más elevado desde que el Instituto Galego de Estatística (IGE) inició la serie de datos, en 2011. Y buena parte del crecimiento de los últimos años se debe a la aportación de los trabajadores extranjeros, que en mayo rebasaron, por primera vez, la cifra de 10.000 personas. Su número se triplicó en una década, y la mayor parte del crecimiento se corresponde con los últimos años, pues en 2021 la cifra rondaba los 5.000, la mitad que ahora.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "trabajadores extranjeros",
-            "extranjeros",
-            "mercado laboral",
-            "trabajar"
-        ],
-        "creator": [
-            "enrique carballo"
+            "eduardo lópez"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
+            "mexico"
         ],
         "category": [
-            "business",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:36:15",
+        "image_url": "https://www.elimparcial.com/resizer/v2/NEPRYVIZ5JEJRL526KOFD4QVMQ.jpg?auth=a7d52aa75e06c7632492d972ce993d025f541dc98da77b2ad0b965d399d20e0f&smart=true&width=5472&height=3648",
+        "video_url": null,
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "超越传统",
+        "description_zh": "鉴于索诺兰畜牧业面临的挑战，培训和新技术工具的结合对于为未来牧场管理人员做好准备变得至关重要。"
+    },
+    {
+        "article_id": "be9a1dcc283ed3c33af259d8e2983160",
+        "link": "https://www.sdpnoticias.com/deportes/argentina-vs-egipto-a-que-hora-y-donde-ver-el-partido-de-octavos-del-mundial-2026/",
+        "title": "Argentina vs Egipto: A qué hora y dónde ver el partido de octavos del Mundial 2026",
+        "description": "Argentina enfrenta a Egipto en octavos del Mundial 2026 este martes 7 de julio en Atlanta; ViX transmite a las 10:00 horas.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "copa mundial de fútbol de 2026",
+            "lionel messi",
+            "vix"
+        ],
+        "creator": [
+            "gabriel cruz"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-05 16:07:44",
+        "pubDate": "2026-07-06 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:36:51",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7f6869ac-8638-4c63-8b41-389bd6b7a8e3_16-9-aspect-ratio_default_0_x1000y445.jpg",
+        "fetched_at": "2026-07-06 16:08:17",
+        "image_url": "https://www.sdpnoticias.com/resizer/v2/QSGBOBRTRFFBJIT7XARTMEVO7I.jpg?smart=true&auth=69318896cd0d1545b1dd16a673dfcbac2bdf666e678949953a5092cab9968028&width=1440&height=810",
         "video_url": null,
-        "source_id": "laopinioncoruna",
-        "source_name": "La Opinión A Coruña",
-        "source_priority": 50098,
-        "source_url": "https://www.laopinioncoruna.es",
-        "source_icon": "https://n.bytvi.com/laopinioncoruna.png",
+        "source_id": "sdpnoticias",
+        "source_name": null,
+        "source_priority": 59718,
+        "source_url": null,
+        "source_icon": null,
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -367,339 +630,39 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "居住在拉科鲁尼亚的外国工人五年内翻了一番，首次突破 10,000 人",
-        "description_zh": "拉科鲁尼亚有工作的人数持续增长。今年 5 月，加入社会保障并登记工作的居民人数接近 98,600 人，这是加利西亚统计研究所 (IGE) 自 2011 年开始该数据系列以来的最高数字。"
+        "title_zh": "阿根廷 vs 埃及：2026 年世界杯 16 强比赛的观看时间和地点",
+        "description_zh": "阿根廷队将于本周二（7 月 7 日）在亚特兰大举行 2026 年世界杯 16 强赛，对阵埃及队； ViX 上午 10:00 播出"
     },
     {
-        "article_id": "7ad3b76037661e20d84d73016d6aad53",
-        "link": "https://www.terra.com.br/esportes/pilotos-da-f1-divertem-publico-do-gp-da-inglaterra-com-confusao-envolvendo-carros-de-lego,331cc950d7c2463f8d0bbd6a643142a2l0zrv63t.html",
-        "title": "Pilotos da F1 divertem público do GP da Inglaterra com confusão envolvendo carros de Lego",
-        "description": "‌Os pilotos da Fórmula 1 entraram na pista em carros construídos com peças de ​Lego para uma ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "alan baldwin"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:07:43",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:34:40",
-        "image_url": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-        "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "F1 车手用乐高汽车带来的困惑给英国大奖赛观众带来欢乐",
-        "description_zh": "‌一级方程式赛车手驾驶用乐高积木搭建的汽车走上赛道，享受..."
-    },
-    {
-        "article_id": "53cc4a8a289eef93281525688f24da6b",
-        "link": "https://www.larepublica.co/globoeconomia/operadores-de-carry-trader-se-desvian-del-dolar-para-apostar-por-mercados-emergentes-4429440",
-        "title": "Operadores de carry trader se desvían del dólar para apostar por mercados emergentes",
-        "description": "Colombia y Brasil, que ofrecen algunas de las tasas de interés reales más altas en los mercados emergentes, han visto cómo sus monedas se apreciaban al menos 5%",
+        "article_id": "636b2f9020be75d0fc1cae5ab53dc220",
+        "link": "https://www.cronica.com.mx/tendencias/2026/07/06/resultados-progol-revancha-2339-ganadores-de-la-quiniela-de-fin-de-semana/",
+        "title": "Resultados Progol Revancha 2339: ganadores de la quiniela de fin de semana",
+        "description": "Consulta los resultados oficiales del Progol 2339 del 4 de julio de 2026. Revisa la quiniela ganadora, los 14 partidos, los premios por categoría, los aciertos y verifica si tu boleto resultó ganador.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "legislación-marcas",
-            "entretenimento",
-            "espectáculos",
-            "agro",
-            "gastronomía",
-            "industria",
-            "ambiente",
-            "cultura",
-            "moda",
-            "salud",
-            "deporte",
-            "bancos",
-            "comercio",
-            "tecnología",
-            "educación",
-            "automotor",
-            "transporte",
-            "energía y minas",
-            "bolsas",
-            "construcción"
+            "combinación ganadora progol",
+            "progol hoy",
+            "progol 4 de julio 2026",
+            "premios progol",
+            "cuánto pagó la quiniela ganadora del progol 2339",
+            "quiniela progol",
+            "resultados pronósticos",
+            "resultados progol 2339",
+            "resultados de los 14 partidos del progol 2339",
+            "resultados progol del 4 de julio de 2026",
+            "pronósticos",
+            "progol 2339",
+            "quiniela ganadora progol 2339",
+            "progol resultados",
+            "resultados de la quiniela progol 2339",
+            "premios progol 2339",
+            "resultados pronósticos progol",
+            "¿quién ganó el progol 2339?",
+            "lista de premios progol",
+            "progol concurso 2339"
         ],
         "creator": [
-            "bloomberg"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:08:43",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:35:44",
-        "image_url": "https://img.lalr.co/cms/2026/03/17063412/Bolsas.jpg?size=xl&ratio=r40_21",
-        "video_url": null,
-        "source_id": "larepublicacl",
-        "source_name": "Larepublica",
-        "source_priority": 43349,
-        "source_url": "https://www.larepublica.co",
-        "source_icon": "https://n.bytvi.com/larepublicacl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "套利交易者从美元转向新兴市场",
-        "description_zh": "哥伦比亚和巴西是新兴市场中实际利率最高的国家，其货币已升值至少 5%"
-    },
-    {
-        "article_id": "9b9d49259d9eba36b2f530ee6baafca4",
-        "link": "https://www.diariodelsur.com.co/comunidad-solicita-intervencion-de-poste-averiado-en-bugalagrande/",
-        "title": "Comunidad solicita intervención de poste averiado en Bugalagrande",
-        "description": "Los habitantes del barrio Villa del Sol, en Bugalagrande, solicitaron la intervención urgente de un poste ubicado en la carrera 5 # 10-27, el cual permanece inclinado y sin servicio de energía desde hace varias semanas, luego de que fuera impactado por un vehículo. Según la comunidad, la estructura no ha sido reparada y representa [...] La entrada Comunidad solicita intervención de poste averiado en Bugalagrande se publicó primero en Diario del Sur .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "alejandro munoz"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:08:43",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:17:19",
-        "image_url": "https://www.diariodelsur.com.co/wp-content/uploads/2026/07/poste_bugalagrande_menos_2MB.jpg",
-        "video_url": null,
-        "source_id": "diariodelsur",
-        "source_name": "Diario Del Sur",
-        "source_priority": 832974,
-        "source_url": "http://diariodelsur.com.co",
-        "source_icon": "https://n.bytvi.com/diariodelsur.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "社区请求对布加拉格兰德受损的电线杆进行干预",
-        "description_zh": "布加拉格兰德 Villa del Sol 社区的居民请求对位于 Carrera 5 # 10-27 的一根电线杆进行紧急干预，该电线杆在被车辆撞倒后，几周以来一直保持倾斜且断电。根据社区的说法，该结构"
-    },
-    {
-        "article_id": "5d25f49a6970418c0e9853f2ccaa9474",
-        "link": "https://www.elcolombiano.com/colombia/comisionado-de-paz-confirma-zarco-aldinever-asesinado-eln-AO38507645",
-        "title": "Comisionado de Paz confirma que el Zarco Aldinever fue asesinado por el ELN: “Su cuerpo fue arrojado al río Arauca”",
-        "description": "El alto comisionado para la Paz, Otty Patiño , aseguró que José Manuel Sierra Sabogal, conocido con el alias de ‘Zarco Aldinever’ y señalado por las autoridades de ordenar el atentado contra el entonces senador Miguel Uribe Turbay en junio de 2025, murió en los Llanos Orientales . La declaración fue entregada en una entrevista concedida a la revista Semana , en la que el funcionario indicó que la información proviene de fuentes que calificó como confiables y que, según dijo, tuvieron conocimiento directo de los hechos. De acuerdo con Patiño, alias ‘Zarco Aldinever’, identificado como integrante de la Segunda Marquetalia, habría sido asesinado por una estructura del Ejército de Liberación Nacional (ELN) bajo el mando de alias ‘Pablito’ . Además, sostuvo que el cuerpo no fue sepultado y que, según los reportes recibidos, fue arrojado al río Arauca. Siga leyendo: Compañero de británico acusado por crimen de Natalia Villalba dice que despertaba “como drogado” y con dolores compatibles con abuso Durante la entrevista, el alto comisionado explicó el origen de la información y reiteró que considera confirmada la muerte del jefe guerrillero. “Lo que me aseveran fuentes confiables, bastante confiables, es que ese señor murió en manos de Pablito Arauca, del Eln. A él no lo enterraron. Su cuerpo lo arrojaron a un río en los Llanos Orientales; me hablan del río Arauca. Definitivamente, ese señor está muerto. Lo mataron los elenos”. Patiño agregó que los datos fueron suministrados por personas que, según afirmó, conocieron directamente lo ocurrido. Sin embargo, hasta el momento las autoridades no han informado sobre la recuperación del cuerpo ni han presentado un reporte forense que confirme oficialmente el fallecimiento. Alias ‘Zarco Aldinever’ era señalado por las autoridades como uno de los responsables de ordenar el atentado contra Miguel Uribe Turbay, ocurrido en Bogotá. El entonces senador falleció dos meses después como consecuencia de las heridas sufridas durante el ataque. Lea también: Corte condenó a la excongresista Tatiana Cabello Flórez por exigir parte de su salario a integrantes de su equipo de trabajo En la misma entrevista, Patiño se refirió al estado de los procesos de paz con los grupos armados ilegales. Indicó que los diálogos con el ELN permanecen congelados y que actualmente no existen mesas de negociación activas con esa organización. También señaló que la Segunda Marquetalia atraviesa un proceso de reconfiguración tras la desaparición de la cúpula que era encabezada por alias ‘Iván Márquez’. En ese contexto, manifestó que prepara el informe de cierre de su gestión de cara al cambio de Gobierno. El funcionario explicó que aún desconoce qué entidad o qué funcionario recibirá ese balance, debido a la posibilidad de que la Consejería para la Paz sea eliminada durante la próxima administración. Según indicó, el documento incluirá recomendaciones sobre orden público y planteará mantener los procesos de negociación con los grupos armados ilegales que demuestren voluntad de diálogo y avances en los territorios. No obstante, precisó que las conversaciones con la estructura liderada por alias ‘Iván Mordisco’ continúan suspendidas por la falta de disposición de ese grupo para avanzar en un proceso de negociación. Para consultar contenido premium o profundizar sobre sus temas de interés de Medellín, Antioquia, Colombia y el Mundo, regístrese aquí .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "guerra",
-            "otty patiño",
-            "eln",
-            "declaraciones",
-            "asesinato",
-            "colombia",
-            "alias zarco aldinever",
-            "muerte"
-        ],
-        "creator": [
-            "maría camila salas valencia"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:08:34",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:36:25",
-        "image_url": "https://estaticos.elcolombiano.com/binrepository/399x300/0c0/0d0/center/11101/JSYX/diseno-sin-titulo-41_51044308_20260705105540.jpg",
-        "video_url": null,
-        "source_id": "elcolombiano",
-        "source_name": "Elcolombiano",
-        "source_priority": 109876,
-        "source_url": "https://www.elcolombiano.com",
-        "source_icon": "https://n.bytvi.com/elcolombiano.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "和平专员证实扎尔科·阿尔迪内弗被民族解放军谋杀：“他的尸体被扔进阿劳卡河”",
-        "description_zh": "和平事务高级专员奥蒂·帕蒂尼奥 (Otty Patiño) 保证，何塞·曼努埃尔·塞拉·萨博加尔 (José Manuel Sierra Sabogal) 死于东部平原，他化名“扎尔科·阿尔迪内弗 (Zarco Aldinever)”，被当局指控于 2025 年 6 月下令袭击当时的参议员米格尔·乌里韦·图尔巴伊 (Miguel Uribe Turbay)。宣言"
-    },
-    {
-        "article_id": "12962725b4654bb049b378fa45af1987",
-        "link": "https://www.infobae.com/mexico/2026/07/05/registro-de-la-tarjeta-violeta-2026-estos-son-los-requisitos-para-solicitar-el-apoyo-en-guerrero/",
-        "title": "Registro de la Tarjeta Violeta 2026: estos son los requisitos para solicitar el apoyo en Guerrero",
-        "description": "El programa abrirá un nuevo periodo de registro; conoce quiénes pueden solicitar el apoyo, cuáles son los requisitos y cómo consultar la convocatoria oficial",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mexico-noticias",
-            "tarjeta violeta",
-            "guerrero",
-            "mexico-servicios",
-            "programas sociales",
-            "gobierno de guerrero"
-        ],
-        "creator": [
-            "lorna huitrón"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:08:19",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:30:28",
-        "image_url": "https://www.infobae.com/resizer/v2/BG7TLLGCDRHUDCQQZI3XKMGFAA.jpg?auth=361f76fe737a3747071b4d06f45a6fff65aaf568bde55b6758ebdc0ab561ef83&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "2026 年紫罗兰卡注册：这些是在格雷罗州请求支持的要求",
-        "description_zh": "计划将开启新的报名期；了解谁可以申请支持、有什么要求以及如何咨询官方电话"
-    },
-    {
-        "article_id": "771009ea27d5701c6c1ad49e4d09b830",
-        "link": "https://diariodelcauca.com.co/moe-destaco-la-solidez-operativa-de-las-elecciones-presidenciales-y-formulo-recomendaciones-de-cara-a-las-elecciones-locales-de-2027/",
-        "title": "MOE destacó la solidez operativa de las elecciones presidenciales y formuló recomendaciones de cara a las elecciones locales de 2027",
-        "description": "La Misión de Observación Electoral —MOE— presentó su Informe Preliminar correspondiente a la segunda vuelta de las elecciones a la Presidencia de la República, celebrada el 21 de junio. El documento, elaborado a partir del monitoreo técnico e independiente hecho por la organización, entre el 1o y el 25 de junio, ofrece un balance integral [...] La entrada MOE destacó la solidez operativa de las elecciones presidenciales y formuló recomendaciones de cara a las elecciones locales de 2027 se publicó primero en Diario del Cauca .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "edison parra garzon"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:08:18",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:18:34",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "diariodelcauca_co",
-        "source_name": "Diario Del Cauca",
-        "source_priority": 994611,
-        "source_url": "https://diariodelcauca.com.co",
-        "source_icon": "https://n.bytvi.com/diariodelcauca_co.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "教育部强调总统选举的运作力度并为2027年地方选举提出建议",
-        "description_zh": "选举观察团 - MOE - 提交了与 6 月 21 日举行的第二轮共和国总统选举相对应的初步报告。该文件是根据该组织进行的技术和独立监测编写的，在 1"
-    },
-    {
-        "article_id": "0cdc168a25049c197804fe617d7fb5f8",
-        "link": "https://www.marca.com/tenis/wimbledon/2026/07/05/djokovic-tambien-mejor-historia-sobre-hierba-wimbledon.html",
-        "title": "Djokovic también es el mejor de la historia sobre la hierba de Wimbledon",
-        "description": "El serbio derrota a Safiullin y alcanza las 106 victorias en el torneo, una más que Federer",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "historia",
-            "hierba",
-            "sobre",
-            "mejor",
-            "djokovic"
-        ],
-        "creator": [
-            "joan solsona"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-05 16:08:05",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:30:23",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/07/05/6a4a6b1bb5ac7.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "德约科维奇也是温网草地历史最佳",
-        "description_zh": "塞尔维亚人击败萨菲乌林，在赛事中取得106场胜利，比费德勒多一场"
-    },
-    {
-        "article_id": "213d3421c7b8528e2600c0ed9bd2535b",
-        "link": "https://heraldodemexico.com.mx/economia/2026/7/5/coppel-tiene-en-oferta-hielera-con-banco-fmf-seleccion-nacional-de-mexico-de-20-litros-con-capacidad-para-36-latas-844353.html",
-        "title": "Coppel tiene en oferta Hielera con Banco FMF Selección Nacional de México de 20 litros: con capacidad para 36 latas",
-        "description": "Esta es una gran oportunidad para utilizar en todos tus eventos y tener bebidas frías.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "hielera",
-            "ofertas",
-            "coppel"
-        ],
-        "creator": [
-            "matías torino"
+            "fernando huacuz"
         ],
         "language": "spanish",
         "country": [
@@ -710,16 +673,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-05 16:08:00",
+        "pubDate": "2026-07-06 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:35:36",
-        "image_url": "https://heraldodemexico.com.mx/u/fotografias/m/2026/7/5/f1280x720-1303534_1435209_5050.png",
+        "fetched_at": "2026-07-06 16:15:12",
+        "image_url": "https://www.cronica.com.mx/resizer/v2/7O4BBYCSJ5E5XA772QRZDMDYKE.png?auth=32b9ad5f953303a57894cf4d3f6df2ee66871f81bf2e649fafcb04852c00b67f&smart=true&width=1200&height=900",
         "video_url": null,
-        "source_id": "heraldodemexico",
-        "source_name": "El Heraldo De Mexico",
-        "source_priority": 21317,
-        "source_url": "https://heraldodemexico.com.mx",
-        "source_icon": "https://n.bytvi.com/heraldodemexico.png",
+        "source_id": "cronica_mx",
+        "source_name": "Cronica",
+        "source_priority": 362704,
+        "source_url": "https://www.cronica.com.mx",
+        "source_icon": "https://n.bytvi.com/cronica_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -727,40 +690,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Coppel 推出 20 升 FMF 墨西哥国家精选冰箱：可容纳 36 罐",
-        "description_zh": "这是您在所有活动中使用和享用冷饮的绝佳机会。"
+        "title_zh": "Progol Revancha 2339 结果：周末泳池获胜者",
+        "description_zh": "查看 2026 年 7 月 4 日 Progol 2339 的官方结果。查看获胜池、14 场比赛、按类别划分的奖品、成功情况并验证您的彩票是否中奖。"
     },
     {
-        "article_id": "9143e5a69171533f950b8445de86fb7a",
-        "link": "https://www.diariocordoba.com/cordoba-ciudad/2026/07/05/comedor-trinitario-cordoba-da-comer-131998292.html",
-        "title": "El comedor trinitario de Córdoba da de comer a una media de 120 personas cada día en pleno verano",
-        "description": "El comedor social de los trinitarios de Córdoba, que se encuentra en la Ronda del Marrubial, no ha notado un descenso en la afluencia de personas sin hogar que acuden a sus instalaciones pese al intenso calor que lleva semanas azotando la ciudad y a la apertura extraordinaria de la Casa de Acogida Municipal, donde se ha ampliado hasta 15 las plazas del Plan Ola de Calor 2026 para comer, merendar y permanecer hasta las 20 horas.",
+        "article_id": "4727850547f6319258dcdcf45e79b6ff",
+        "link": "https://www.eleconomista.com.mx/los-especiales/turismo-mundialista-estancias-promedio-latinoamericanos-crecen-16-noches-20260706-821848.html",
+        "title": "Turismo mundialista: Estancias promedio de latinoamericanos crecen a 16 noches en 2026",
+        "description": "La contratación de protección para viajes de larga duración creció 35% ante la logística que implica trasladarse entre México, EU y Canadá.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "fundación prolibertas"
+            "mundial de futbol",
+            "cuidado de la salud",
+            "turismo",
+            "mundial de futbol 2026"
         ],
         "creator": [
-            "araceli r. arjona"
+            "alba servín"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "politics",
+            "tourism",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-05 16:07:45",
+        "pubDate": "2026-07-06 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:36:40",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0dc51d8f-d27d-4520-9797-4c17b09d5e48_16-9-aspect-ratio_default_0_x1000y500.jpg",
+        "fetched_at": "2026-07-06 16:03:57",
+        "image_url": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/06/29/6a433a1236c03.jpeg",
         "video_url": null,
-        "source_id": "diariocordoba",
-        "source_name": "Cordoba",
-        "source_priority": 48787,
-        "source_url": "https://www.diariocordoba.com",
-        "source_icon": "https://n.bytvi.com/diariocordoba.png",
+        "source_id": "eleconomista",
+        "source_name": "El Economista",
+        "source_priority": 19606,
+        "source_url": "https://www.eleconomista.com.mx",
+        "source_icon": "https://n.bytvi.com/eleconomista.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -768,41 +734,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "科尔多瓦的特立尼达餐厅在仲夏期间平均每天为 120 人提供食物",
-        "description_zh": "科尔多瓦的 Trinitarios 施粥所位于 Ronda del Marrubial，尽管数周以来酷热天气袭击了这座城市，而且庇护所的开放也非同寻常，但来到该设施的无家可归者的数量并没有减少。"
+        "title_zh": "世界杯旅游：2026 年拉丁美洲人平均停留时间增至 16 晚",
+        "description_zh": "由于墨西哥、美国和加拿大之间的运输涉及物流，长期旅行的保护雇佣增长了 35%。"
     },
     {
-        "article_id": "07050251128a586c211cfef63f871633",
-        "link": "https://www.diariocordoba.com/cordoba-ciudad/2026/07/05/verano-personas-hogar-cordoba-salimos-132079214.html",
-        "title": "El verano de las personas sin hogar en Córdoba: \"Cuando salimos de la piscina, solo nos queda refrescarnos en las fuentes\"",
-        "description": "Vivir en la calle es siempre un acto de resistencia que exige cierta dosis de heroicidad. En una ciudad como Córdoba, a los esfuerzos por la supervivencia habituales, se añade en verano el calor, que este año lleva días poniendo a prueba a la población con máximas de más de 40 grados. Quienes no tienen un techo bajo el que resguardarse son usuarios habituales del comedor trinitario que gestiona la Fundación Prolibertas y que un año más, organiza salidas a la piscina de la Fuensanta dos días a la semana gracias a un convenio con el Instituto Municipal de Deportes. Antes de entrar, todos reciben el kit de verano: una botella de agua reutilizable, una gorra y un protector solar.",
+        "article_id": "db1f3a28458c1003e36991f4d438562f",
+        "link": "https://www.elimparcial.com/son/arizona/2026/07/06/musical-instrument-museum-el-museo-de-la-musica-que-debes-visitar-en-phoenix/",
+        "title": "Musical Instrument Museum: el museo de la música que debes visitar en Phoenix",
+        "description": "Musical Instrument Museum: el museo de la música que debes visitar en Phoenix",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "fundación prolibertas",
-            "las fuentes"
+            "arizona zt",
+            "arizona"
         ],
         "creator": [
-            "araceli r. arjona"
+            "karla valenzuela"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "business",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-05 16:07:45",
+        "pubDate": "2026-07-06 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 16:36:40",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7fac88ed-c001-41fb-88f8-41dce900c91f_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "fetched_at": "2026-07-06 16:36:15",
+        "image_url": "https://www.elimparcial.com/resizer/v2/NUEJM57ZMRGMNH2NY7ICQX4AL4.jpg?auth=47fb8b7406f3bfc99df82c6c8447aaa57e3c4d109fff88ad83b441aaa5dd2181&smart=true&width=2031&height=1252",
         "video_url": null,
-        "source_id": "diariocordoba",
-        "source_name": "Cordoba",
-        "source_priority": 48787,
-        "source_url": "https://www.diariocordoba.com",
-        "source_icon": "https://n.bytvi.com/diariocordoba.png",
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -810,46 +775,79 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "科尔多瓦无家可归者的夏天：“当我们离开泳池时，我们只能在喷泉里纳凉”",
-        "description_zh": "流落街头始终是一种抵抗行为，需要一定的英雄主义精神。在科尔多瓦这样的城市，除了平时的生存努力外，夏季还增添了酷暑，今年连续几天最高气温超过40度，考验着人们。 WHO"
+        "title_zh": "乐器博物馆：凤凰城你必须参观的音乐博物馆",
+        "description_zh": "乐器博物馆：凤凰城你必须参观的音乐博物馆"
     },
     {
-        "article_id": "12e42d11a4fca43cf3b3b3e12419ac3a",
-        "link": "https://www.biobiochile.cl/noticias/nacional/region-de-atacama/2026/07/05/segundo-sismo-sacude-a-las-regiones-de-coquimbo-y-atacama-durante-este-domingo.shtml",
-        "title": "Segundo sismo sacude a las regiones de Coquimbo y Atacama durante este domingo",
-        "description": "Un segundo sismo se registró este domingo en la región de Coquimbo y que también fue percibido en la región de Atacama, a poco más de 1 hora del movimiento 4,9 que se percibió durante la mañana. Según la información del Centro Sismológico Nacional, este nuevo movimiento tuvo una magnitud de 5.1 y se registró, ... Continua leyendo \"Segundo sismo sacude a las regiones de Coquimbo y Atacama durante este domingo\" The post Segundo sismo sacude a las regiones de Coquimbo y Atacama durante este domingo appeared first on BioBioChile .",
+        "article_id": "0cdb6be7c502b38f38a482097432cd2c",
+        "link": "https://www.portafolio.co/economia/el-metro-de-bogota-esta-por-llegar-ya-solo-falta-el-20-de-la-obra-segun-el-mas-reciente-informe-497602",
+        "title": "El Metro de Bogotá está por llegar, ya solo falta el 20% de la obra, según el más reciente informe",
+        "description": "La estación Calle 26 - Atrio ya opera al 100 %, mientras la obra general del Metro llega al 80,37 % de avance.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "región de atacama",
-            "segundo sismo",
-            "copiapó",
-            "sismo",
-            "región de coquimbo",
-            "la serena",
-            "temblor"
+            "construcción del metro de bogotá",
+            "metro de bogotá",
+            "línea 1 el metro",
+            "historia del metro de bogotá"
         ],
         "creator": [
-            "alejandro alarcón"
+            "maría camila monsalve martínez"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "colombia"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-06 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-06 16:37:26",
+        "image_url": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/07/06/6a4bd1c5d9eee.jpeg",
+        "video_url": null,
+        "source_id": "portafolio",
+        "source_name": "Noticias Economicas De Colombia Y El Mundo | Porta",
+        "source_priority": 37310,
+        "source_url": "https://www.portafolio.co",
+        "source_icon": null,
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "最新报告称波哥大地铁即将抵达，仅剩20%工作",
+        "description_zh": "Calle 26 - Atrio 车站目前运营率为 100%，而地铁的总体工程进度则达到 80.37%。"
+    },
+    {
+        "article_id": "1bbcea4db7e39a75013fbebd9651116a",
+        "link": "https://periodicoelmomento.com/refuerzan-mantenimiento-en-avenida-salvador-nava-tras-crecimiento-de-maleza/",
+        "title": "Refuerzan mantenimiento en avenida Salvador Nava tras crecimiento de maleza",
+        "description": "Las labores incluyen deshierbe, poda y limpieza para mejorar la seguridad vial.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
         ],
         "category": [
             "top",
             "environment"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-05 16:07:30",
+        "pubDate": "2026-07-06 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-05 17:02:50",
-        "image_url": "https://media.biobiochile.cl/wp-content/uploads/2026/07/social-sismo-3.png",
+        "fetched_at": "2026-07-06 16:23:12",
+        "image_url": "https://periodicoelmomento.com/wp-content/uploads/2026/07/cbb9958c-4e66-4650-b473-aa9327afd17f-1024x683.jpg",
         "video_url": null,
-        "source_id": "biobiochile",
-        "source_name": "Biobiochile",
-        "source_priority": 13427,
-        "source_url": "https://www.biobiochile.cl",
-        "source_icon": "https://n.bytvi.com/biobiochile.png",
+        "source_id": "periodicoelmomento",
+        "source_name": "Inicio - Momento",
+        "source_priority": 3162964,
+        "source_url": "https://periodicoelmomento.com",
+        "source_icon": "https://n.bytvi.com/periodicoelmomento.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -857,7 +855,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "本周日科金博和阿塔卡马地区发生第二次地震",
-        "description_zh": "周日，科金博地区发生了第二次地震，阿塔卡马地区也发生了第二次地震，距上午发生的 4.9 级地震仅一个多小时。据国家地震中心信息显示，此次新地震震级为"
+        "title_zh": "他们在杂草生长后加强了萨尔瓦多纳瓦大道的维护",
+        "description_zh": "这项工作包括除草、修剪和清洁，以提高道路安全。"
     }
 ]
