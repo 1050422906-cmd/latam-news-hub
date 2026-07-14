@@ -1,81 +1,37 @@
 [
     {
-        "article_id": "233584b8884d929766be83bdf2ae1a0a",
-        "link": "https://www.mdzol.com/sociedad/un-muerto-infarto-y-seis-emergencias-cardiacas-el-partido-la-seleccion-n1563735",
-        "title": "Un muerto por infarto y seis emergencias cardíacas durante el partido de la Selección",
-        "description": "La victoria de la Selección argentina ante Suiza dejó una víctima fatal y seis personas asistidas por emergencias cardíacas en la Ciudad de Buenos Aires.",
+        "article_id": "d444c3a295e370989f88e743863e1393",
+        "link": "https://www.em.com.br/politica/2026/07/7460342-minas-concentra-rs-1304-milhoes-em-emendas-sob-autoria-de-lideres.html",
+        "title": "Minas concentra R$ 130,4 milhões em emendas sob autoria de líderes",
+        "description": "Segundo a Transparência Brasil, a modalidade dificulta a identificação dos parlamentares responsáveis pelas indicações",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "selección argentina",
-            "argentina",
-            "infarto",
-            "buenos aires"
+            "emendas",
+            "congresso-nacional",
+            "camara-dos-deputados"
         ],
         "creator": [
-            "mdz sociedad"
+            "vinícius prates"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-12 15:35:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:00:55",
-        "image_url": "https://media.mdzol.com/p/af1e65415cabfd8ce326f4f81c3d791a/adjuntos/373/imagenes/001/961/0001961130/1200x675/smart/argentina-buenos-aires-partido.jpg",
-        "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://n.bytvi.com/mdzol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "国家队比赛期间有 1 人因心脏病发作死亡，6 人出现心脏急症",
-        "description_zh": "阿根廷国家队战胜瑞士队后，布宜诺斯艾利斯市造成一名死者死亡，六人因心脏病紧急接受治疗。"
-    },
-    {
-        "article_id": "f61f241bae1d72d32fbaa80d9f49d55e",
-        "link": "https://www.diariodecuyo.com.ar/pasion-deportiva/messi-anticipo-la-semifinal-inglaterra-diario-cuyo-es-la-primera-vez-toda-mi-carrera-que-juego-contra-ellos-n6577293",
-        "title": "Messi anticipó la semifinal con Inglaterra ante Diario de Cuyo: \"Es la primera vez en toda mi carrera que juego contra ellos\"",
-        "description": "Tras la clasificación de Argentina a las semifinales del Mundial 2026, Lionel Messi dialogó con Diario de Cuyo, destacó lo especial que será enfrentar a Inglaterra y reconoció el desgaste físico que acumula la Selección.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "selección argentina",
-            "lionel messi",
-            "diario de cuyo"
-        ],
-        "creator": [
-            "redacción diario de cuyo"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports",
+            "business",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-12 15:35:00",
+        "pubDate": "2026-07-13 14:56:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 15:45:14",
-        "image_url": "https://media.diariodecuyo.com.ar/p/83d557bca7020003b8e9c7ed9ccf3dbc/adjuntos/380/imagenes/100/325/0100325215/1200x675/112x210:132x230/messi-cuyo.png",
+        "fetched_at": "2026-07-13 18:03:15",
+        "image_url": "https://midias.em.com.br/_midias/jpg/2026/05/01/1200x720/1_wpt70601-66498847.jpg?20260501170955?20260501170955",
         "video_url": null,
-        "source_id": "diariodecuyo",
-        "source_name": "Diario De Cuyo",
-        "source_priority": 394047,
-        "source_url": "https://www.diariodecuyo.com.ar",
-        "source_icon": "https://n.bytvi.com/diariodecuyo.jpg",
+        "source_id": "estadodeminas",
+        "source_name": "Jornal Estado De Minas",
+        "source_priority": 6179,
+        "source_url": "https://www.em.com.br",
+        "source_icon": "https://n.bytvi.com/estadodeminas.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -83,92 +39,54 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "梅西期待与英格兰队的半决赛对阵迪亚里奥·德库约：“这是我整个职业生涯中第一次对阵他们”",
-        "description_zh": "阿根廷晋级 2026 年世界杯半决赛后，莱昂内尔·梅西 (Lionel Messi) 接受《Diario de Cuyo》采访，强调了面对英格兰队的特殊性，并承认国家队所积累的身体磨损。"
+        "title_zh": "米纳斯集中了 1.304 亿雷亚尔用于领导人起草的修正案",
+        "description_zh": "据 Transparência Brasil 称，这种模式使得很难确定负责提名的议员"
     },
     {
-        "article_id": "b2eada1b4502540ceec5476e3cf5d1c7",
-        "link": "https://www.lagaceta.com.ar/nota/1145203/deportes/en-vivo-san-martin-tucuman-enfrenta-almagro-ciudadela.html",
-        "title": "EN VIVO: San Martín de Tucumán enfrenta a Almagro en La Ciudadela",
-        "description": "San Martín afronta el compromiso con la necesidad de sumar de a tres para acercarse a los puestos de Reducido",
+        "article_id": "df8e96ddcc95009cf32794b07b93a8b8",
+        "link": "https://www.campograndenews.com.br/politica/consagrado-como-locutor-bernal-se-tornou-prefeito-fechado-ao-dialogo",
+        "title": "Consagrado como locutor, Bernal se tornou prefeito fechado ao diálogo",
+        "description": "A comunicação sempre foi determinante na trajetória do ex-prefeito de Campo Grande, Alcides Bernal, que morreu na madrugada desta segunda-feira (13), aos 60 anos, na véspera de seu aniversário. Foi considerado por muitos um dos melhores radialistas de Campo Grande, o que possibilitou uma forte conexão com a população e garantiu uma longa carreira no Legislativo, como vereador e deputado estadual. Mas, quando chegou ao Paço Municipal, em 2012, fechou-se ao diálogo com a classe política, o que culminou na sua cassação, em 2014. No dia da sua morte, quem conviveu com ele ainda lamentou o fim trágico, após o envolvimento do ex-prefeito com o assassinato do fiscal tributário aposentado Roberto Carlos Mazzini, de 61 anos, morto a tiros por Bernal em março deste ano, em um imóvel no Jardim dos Estados, em Campo Grande. O diretor da Rede MS de Rádio e Televisão, Ulisses Serra Netto, conhecido como Noninho, se limitou a falar sobre os 18 anos de Bernal na FM Cidade 97. \"O Alcides, como locutor, foi exemplar, um dos melhores que eu tive\", disse. Ele lembrou que Bernal começou trabalhando nas madrugadas, na Rádio Ativa, que também fazia parte do grupo. Na sequência, assumiu o programa Refazenda. \"Teve uma trajetória muito rápida, sempre liderando a audiência. Tecnicamente impecável\", completou. O ex-vereador Paulo Pedra foi um dos seis parlamentares que votaram contra a cassação de Bernal na Câmara Municipal. Ele lembra que, quando o nome do locutor surgiu na disputa majoritária, foi seu perfil de um \"líder popular\" que chamou a atenção dos eleitores. \"Ele foi um dos melhores, talvez o melhor radialista que já tivemos em Campo Grande. Isso fez ele se aproximar dos eleitores, ele foi para as bases e essa conexão o sistema não conseguiu apagar\", avaliou. A candidatura foi considerada de estilo “azarão”, termo usado no turfe para quem tem baixa probabilidade de vitória. O cenário político era de hegemonia do então PMDB (atual MDB), mas o candidato do PP se sagrou campeão no segundo turno. Sem aliados, lançou chapa pura, contra outros seis adversários. Porém, segundo ele, ao assumir a administração, \"faltou maturidade e, por causa disso, foi cassado\". Pedra chegou a compor o primeiro escalão de Bernal, quando ele voltou à Prefeitura para encerrar o mandato. \"Ele voltou, fez uma administração boa, mas perdeu a conexão. Tentei fazer o que fosse possível\", disse. Pedra ainda lamentou o último capítulo da história de Bernal. \"Mostrou, da parte dele, um desequilíbrio\", finalizou. O deputado estadual Zeca do PT ocupava uma cadeira na Câmara Municipal em 2012 e também votou contra a cassação de Bernal. O parlamentar avalia que a falta de diálogo foi o maior problema da gestão. \"Bernal foi vítima da incapacidade absoluta dele de dialogar, de conversar com a Câmara, de negociar. Eu avisei ele disso, eu falei: 'Bernal, está errado, o processo exige diálogo, conversação, você tem que dialogar com a Câmara, buscar o entendimento'. Acho que ele foi vítima disso, foi criando um grau de radicalismo na Câmara que foi impossível depois contornar\", relatou. O petista ainda citou a pressão que o ex-prefeito sofreu das lideranças políticas que dominam o cenário sul-mato-grossense e lamentou a tragédia no fim da vida. \"Fico sentido com a morte do Bernal, uma figura importante. Cometeu o crime e tinha que cumprir, mas não imaginava que seu fim seria tão trágico\", completou. Receba as principais notícias do Estado pelo Whats. Clique aqui para acessar o canal do Campo Grande News e siga nossas redes sociais .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "tucumán",
-            "la ciudadela",
-            "san martín",
-            "san martín de tucumán",
-            "178142"
+            "trajetória",
+            "-feira",
+            "madrugada",
+            "considerado",
+            "forte conexão",
+            "melhores radialistas",
+            "ex-prefeito",
+            "possibilitou",
+            "morreu",
+            "alcides bernal",
+            "determinante",
+            "comunicação",
+            "campo",
+            "véspera",
+            "aniversário"
         ],
         "creator": [
-            "la gaceta"
+            "por fernanda palheta"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-07-12 15:35:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 18:48:52",
-        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/07/12/en-vivo-san-martin-tucuman-enfrenta-almagro-ciudadela-1145203-151911.jpg",
-        "video_url": null,
-        "source_id": "lagaceta_ar",
-        "source_name": "Lagaceta",
-        "source_priority": 975335,
-        "source_url": "https://www.lagaceta.com.ar",
-        "source_icon": "https://n.bytvi.com/LaGaceta_Ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "直播：图库曼圣马丁在 La Ciudadela 迎战阿尔马格罗",
-        "description_zh": "圣马丁面临着需要增加三个以接近减少位置的承诺"
-    },
-    {
-        "article_id": "fcb8d43fa93ede13a38e628aecaae661",
-        "link": "https://www.infobae.com/espana/cultura/2026/07/12/blaise-pascal-filosofo-todos-los-problemas-de-la-humanidad-provienen-de-la-incapacidad-del-hombre-para-estar-solo-y-en-silencio-sen-una-habitacion/",
-        "title": "Blaise Pascal, filósofo: “Todos los problemas de la humanidad provienen de la incapacidad del hombre para estar solo y en silencio sen una habitación”",
-        "description": "Considerado como una de las mentes más brillantes de la Francia anterior a la Ilustración, una experiencia mística motivó que pasara sus últimos años reflexionando sobre la naturaleza de los seres humanos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "filósofos",
-            "españa-cultura",
-            "españa-noticias",
-            "filosofía",
-            "filosofía de vida"
-        ],
-        "creator": [
-            "nel gómez"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
+            "brazil"
         ],
         "category": [
             "politics",
             "top"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-07-12 15:34:59",
+        "datatype": "news",
+        "pubDate": "2026-07-13 14:56:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:02:46",
-        "image_url": "https://www.infobae.com/resizer/v2/YGVJ3BINRBGN7JCYIA5FMTLGZ4.jpg?auth=929909e5a7db54ada76b4d13a8c1291b5137e4e8c9f0d65c3b3d530d807fd993&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/bixbgj3j-GEW42hld.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "fetched_at": "2026-07-13 15:42:55",
+        "image_url": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/07/13/6a54fce3b87f3.jpg",
+        "video_url": null,
+        "source_id": "campograndenews",
+        "source_name": "Campo Grande News",
+        "source_priority": 139036,
+        "source_url": "https://www.campograndenews.com.br",
+        "source_icon": "https://n.bytvi.com/campograndenews.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -176,164 +94,18 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "哲学家布莱斯·帕斯卡（Blaise Pascal）：“人类的所有问题都源于人们无法在房间里独处和沉默。”",
-        "description_zh": "被认为是启蒙运动前法国最杰出的思想家之一，一次神秘的经历促使他在生命的最后几年反思人类的本质。"
+        "title_zh": "伯纳尔以播音员而闻名，却成为了拒绝对话的市长",
+        "description_zh": "在大坎普市前市长阿尔西德斯·贝纳尔 (Alcides Bernal) 的人生轨迹中，沟通一直起着决定性作用。他于本周一 (13 日) 凌晨去世，享年 60 岁，生日前夕。他被许多人认为是大坎普最好的广播电台播音员之一，这使得他成为了大坎普地区最优秀的广播员之一。"
     },
     {
-        "article_id": "b9cd22fda9b8736cf361171ef6dda39f",
-        "link": "https://www.terra.com.br/noticias/mundo/europa/franca-abre-investigacao-antiterrorismo-apos-descoberta-de-armas-em-carro-perto-de-sinagoga,016c6342edb943fabff5961be0f1fb300os3f3f0.html",
-        "title": "França abre investigação antiterrorismo após descoberta de armas em carro perto de sinagoga",
-        "description": "Uma investigação foi aberta por \"associação criminosa terrorista com o objetivo de preparar ...",
+        "article_id": "3c6472fae1b8438294f5deb734499cb9",
+        "link": "https://www.cnnbrasil.com.br/pop/celebridades/morre-ator-josh-grisetti-da-broadway-aos-44-anos/",
+        "title": "Morre ator Josh Grisetti, da Broadway, aos 44 anos",
+        "description": "Notícia do falecimento foi confirmado por Rob McClure, com quem ele trabalhou no musical “Something Rotten”",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "rfi"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-12 15:34:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:05:22",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/07/12/1923779775-france-securite-israel-juifs.jpg",
-        "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "法国在犹太教堂附近的汽车中发现武器后展开反恐调查",
-        "description_zh": "“恐怖犯罪协会已展开调查，目的是准备......"
-    },
-    {
-        "article_id": "045a6f6a725355eb3025c9d7bee3e799",
-        "link": "https://www.infobae.com/mexico/2026/07/12/voto-de-las-mujeres-en-mexico-asi-va-el-sufragio-femenino-a-71-anos-de-su-aprobacion-y-frente-a-las-nuevas-tendencias-conservadoras/",
-        "title": "Voto de las mujeres en México: así va el sufragio femenino a 71 años de su aprobación y frente a las nuevas tendencias conservadoras",
-        "description": "La participación femenina superó en casi 10 puntos porcentuales la de los hombres en las elecciones del 2024",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mujeres",
-            "voto",
-            "política mexicana",
-            "elecciones",
-            "mexico-noticias",
-            "conservadurismo",
-            "sufragio femenino"
-        ],
-        "creator": [
-            "fernanda lópez castro"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-12 15:34:44",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:02:46",
-        "image_url": "https://www.infobae.com/resizer/v2/L6M3FZUJVVG4TDC2J4E3JQULK4.jpg?auth=fc11ac1fe5de6661a1979567830990a8202fd957aedafcf78f65b0ca1eae147e&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "墨西哥妇女投票权：这就是妇女选举权在获得批准 71 年后以及面对新的保守趋势时的进展情况",
-        "description_zh": "在 2024 年选举中，女性参与率比男性高出近 10 个百分点"
-    },
-    {
-        "article_id": "f1e61442a0a86e8dbd40ff139b52bf79",
-        "link": "https://www1.folha.uol.com.br/educacao/2026/07/inscricoes-para-vestibular-do-ita-2027-terminam-neste-domingo-com-recorde-de-vagas.shtml",
-        "title": "Inscrições para vestibular do ITA 2027 terminam neste domingo com recorde de vagas",
-        "description": "Vestibular do ITA: Inscrições terminam neste domingo com recorde de vagas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "aeronáutica",
-            "faculdade pública",
-            "folha de s.paulo",
-            "universidade",
-            "education & learning",
-            "faculdade",
-            "vestibular",
-            "forças armadas",
-            "faculdade particular",
-            "educação",
-            "folha",
-            "ita",
-            "são josé dos campos"
-        ],
-        "creator": [
-            "gustavo gonçalves"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-12 15:34:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:16:38",
-        "image_url": "https://imguol.com/c/home/c4/2026/07/12/estudantes-em-sala-de-aula-durante-aula-de-cursinho-preparatorio-para-o-vestibular-1783859551798_v2_300x225.jpg",
-        "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://n.bytvi.com/uol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "ITA 2027 入学考试报名将于本周日结束，空缺数量创历史新高",
-        "description_zh": "ITA 入学考试：报名将于周日结束，名额创历史新高"
-    },
-    {
-        "article_id": "533ecc1a845c1c7198ae46b0928c2551",
-        "link": "https://ovicio.com.br/moana-registra-estreia-global-catastrofica-nas-bilheterias/",
-        "title": "Moana registra estreia global catastrófica nas bilheterias",
-        "description": "Disney investiu US$ 250 milhões no orçamento O post Moana registra estreia global catastrófica nas bilheterias apareceu primeiro em O Vício .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "disney",
-            "destaque",
-            "dwayne johnson",
-            "moana"
-        ],
-        "creator": [
-            "victor nascimento"
+            "cnn brasil"
         ],
         "language": "portuguese",
         "country": [
@@ -344,16 +116,16 @@
             "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-12 15:34:31",
+        "pubDate": "2026-07-13 14:55:55",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 17:33:20",
-        "image_url": "https://ovicio.com.br/wp-content/uploads/2026/07/20260712-moana-live-action-2.webp",
+        "fetched_at": "2026-07-13 15:30:38",
+        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/josh-grisetti-morte.jpg?w=1200&h=1200&crop=1",
         "video_url": null,
-        "source_id": "ovicio_br",
-        "source_name": "O Vício",
-        "source_priority": 95526,
-        "source_url": "https://ovicio.com.br",
-        "source_icon": "https://n.bytvi.com/ovicio_br.png",
+        "source_id": "cnnbrasil_br",
+        "source_name": "Cnn Brasil",
+        "source_priority": 1209,
+        "source_url": "https://www.cnnbrasil.com.br",
+        "source_icon": "https://n.bytvi.com/cnnbrasil_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -361,23 +133,62 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "《莫阿娜》全球首映票房惨败",
-        "description_zh": "迪士尼在预算中投入了 2.5 亿美元。 《莫阿娜》全球首映票房惨败，首先出现在《上瘾》中。"
+        "title_zh": "百老汇演员乔什·格里塞蒂去世，享年 44 岁",
+        "description_zh": "他去世的消息得到了罗布·麦克卢尔的证实，他曾与他合作制作了音乐剧《腐烂的东西》。"
     },
     {
-        "article_id": "c6685e75336bfafd1ee1f6cf73621e45",
-        "link": "https://chequeado.com/el-explicador/el-suicidio-ya-es-la-principal-causa-de-muerte-entre-adolescentes-y-jovenes-adultos-en-argentina/",
-        "title": "El suicidio ya es la principal causa de muerte entre adolescentes y jóvenes adultos en Argentina",
-        "description": "Durante décadas, los accidentes de tránsito fueron la principal causa de muerte entre adolescentes y jóvenes adultos en Argentina. Sin embargo, esa situación",
+        "article_id": "331b794d2dde10c6651af16cd6796482",
+        "link": "https://br.investing.com/news/stock-market-news/noruega--acoes-fecharam-o-pregao-em-alta-e-o-indice-oslo-obx-avancou-100-2000038",
+        "title": "Noruega - Ações fecharam o pregão em alta e o Índice Oslo OBX avançou 1,00%",
+        "description": "Noruega - Ações fecharam o pregão em alta e o Índice Oslo OBX avançou 1,00%",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "investing.com"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-13 14:55:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-13 15:07:09",
+        "image_url": "https://i-invdn-com.investing.com/news/Traders_800x533_L_1644202045.jpg",
+        "video_url": null,
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "挪威 - 股市收高，奥斯陆 OBX 指数上涨 1.00%",
+        "description_zh": "挪威 - 股市收高，奥斯陆 OBX 指数上涨 1.00%"
+    },
+    {
+        "article_id": "f6a2554eb19f7f75557296315972cc98",
+        "link": "https://www.perfil.com/noticias/nea/una-joven-esta-en-terapia-intensiva-tras-sufrir-una-golpiza-en-la-costanera-y-chocar-contra-un-camion.phtml",
+        "title": "Una joven está en terapia intensiva tras sufrir una golpiza en la Costanera y chocar contra un camión",
+        "description": "La víctima fue atacada a patadas en la cabeza a la salida de un boliche capitalino. Debido a la agresión, perdió sus anteojos y, mientras regresaba a su domicilio en estado de shock, colisionó contra un vehículo de gran porte. Leer más",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "salud mental",
-            "organización panamericana de la salud",
-            "suicidio adolescente",
-            "pandemia"
+            "golpiza en la costanera",
+            "corrientes",
+            "josé romero",
+            "policía de corrientes",
+            "hospital escuela"
         ],
         "creator": [
-            "florencia ballarino"
+            "diego caniglia"
         ],
         "language": "spanish",
         "country": [
@@ -388,16 +199,16 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-12 15:34:28",
+        "pubDate": "2026-07-13 14:55:46",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 15:42:29",
-        "image_url": "https://chequeado.com/wp-content/uploads/2026/07/Template-Nota-web-41-1.webp",
+        "fetched_at": "2026-07-13 15:38:07",
+        "image_url": "https://fotos.perfil.com/2026/07/13/trim/540/304/brutal-golpiza-en-la-costanera-de-corrientes-2281331.jpg",
         "video_url": null,
-        "source_id": "chequeado",
-        "source_name": "Chequeado",
-        "source_priority": 180907,
-        "source_url": "https://chequeado.com",
-        "source_icon": "https://n.bytvi.com/chequeado.png",
+        "source_id": "perfil",
+        "source_name": "Perfil",
+        "source_priority": 56989,
+        "source_url": "https://www.perfil.com",
+        "source_icon": "https://n.bytvi.com/perfil.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -405,47 +216,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "自杀已经成为阿根廷青少年和年轻人死亡的主要原因",
-        "description_zh": "几十年来，交通事故是阿根廷青少年和年轻人死亡的主要原因。然而，这种情况"
+        "title_zh": "一名年轻女子在 Costanera 上遭受殴打并撞上卡车后正在接受重症监护",
+        "description_zh": "受害者在离开首都的一个保龄球馆时头部遭到踢击。由于袭击，他失去了眼镜，在震惊的回家途中与一辆大型车辆相撞。阅读更多"
     },
     {
-        "article_id": "a6ad2716c3d5588c5d9568b53a6957d1",
-        "link": "https://www.infobae.com/estados-unidos/2026/07/12/la-inteligencia-artificial-impulsa-un-desarrollo-record-de-centrales-a-gas-en-estados-unidos/",
-        "title": "La inteligencia artificial impulsa un desarrollo récord de centrales a gas en Estados Unidos",
-        "description": "Mediante la demanda de electricidad de los servidores se está presionando al sistema y se reactivaron proyectos para extender la vigencia de unidades a carbón. Mientras que distintos referentes intentan resguardar las metas climáticas a largo plazo",
+        "article_id": "50cb8fc0917728af89c75e852895b767",
+        "link": "https://www.rionegro.com.ar/sociedad/vacunacion-antigripal-rio-negro-ya-aplico-mas-de-100-000-dosis-4646302/",
+        "title": "Río Negro superó las 100.000 dosis aplicadas en la campaña de vacunación antigripal",
+        "description": "La provincia ya administró 101.090 vacunas contra la gripe y utilizó el 76,6% de las dosis recibidas. Según Salud, la cobertura alcanzada se ubica por encima de la prevista para esta etapa del año.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "centros de datos",
-            "gas natural",
-            "energías renovables",
-            "inteligencia artificial",
-            "estados unidos noticias"
+            "vacuna antigripal",
+            "río negro",
+            "roca",
+            "vacunación"
         ],
         "creator": [
-            "osvaldo ortiz"
+            "redacción"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
+            "argentina"
         ],
         "category": [
             "top",
-            "technology"
+            "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-12 15:34:15",
+        "pubDate": "2026-07-13 14:55:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:02:46",
-        "image_url": "https://www.infobae.com/resizer/v2/QDZR6IAYTNEO7H7LLKENUGIRVA.jpg?auth=eb6a24b60a42f69676ed3c67f84b2321efc26f3d75ed7d048f31434473e9eb78&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-07-13 15:17:00",
+        "image_url": "https://www.rionegro.com.ar/wp-content/uploads/2026/07/RN-2026-07-13T112130.375.jpg?w=1200&h=630&crop=1&resize=1200,630",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "rionegro",
+        "source_name": "Diario Río Negro",
+        "source_priority": 337049,
+        "source_url": "https://www.rionegro.com.ar",
+        "source_icon": "https://n.bytvi.com/rionegro.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -453,119 +260,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "人工智能推动美国天然气工厂创纪录发展",
-        "description_zh": "由于服务器对电力的需求，系统面临压力，并且重新启动了项目以延长燃煤机组的使用寿命。尽管不同的领导人都试图保护长期气候目标"
+        "title_zh": "Río Negro 在流感疫苗接种活动中接种了超过 100,000 剂疫苗",
+        "description_zh": "该省已接种了 101,090 剂流感疫苗，并使用了所收到疫苗的 76.6%。据卫生部门称，所实现的覆盖率高于今年这个阶段的预期。"
     },
     {
-        "article_id": "0bb8fd20d69dbefdb9e640a3cb1a84a7",
-        "link": "https://www.record.com.mx/historia/guido-pizarro-es-captado-en-el-partido-de-argentina-en-kansas-city-a-dias-del-arranque-del-apertura-2026-2026071215044068738",
-        "title": "Guido Pizarro es captado en el partido de Argentina en Kansas City a días del arranque del Apertura 2026",
-        "description": "Guido Pizarro es captado en el partido de Argentina en Kansas City a días del arranque del Apertura 2026",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-12 15:35:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 15:35:00",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "record",
-        "source_name": "Record",
-        "source_priority": 21395,
-        "source_url": "https://www.record.com.mx",
-        "source_icon": "https://n.bytvi.com/record.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "吉多·皮萨罗 (Guido Pizarro) 在 2026 年开赛前几天在堪萨斯城举行的阿根廷比赛中被抓拍",
-        "description_zh": "吉多·皮萨罗 (Guido Pizarro) 在 2026 年开赛前几天在堪萨斯城举行的阿根廷比赛中被抓拍"
-    },
-    {
-        "article_id": "e7f9996de9a0f1573233e80fd5f07e51",
-        "link": "https://www.record.com.mx/historia/caifanes-revive-la-euforia-del-mundial-2026-con-homenaje-a-la-aficion-mexicana-2026071215084531618",
-        "title": "Caifanes revive la euforia del Mundial 2026 con homenaje a la afición mexicana",
-        "description": "Caifanes revive la euforia del Mundial 2026 con homenaje a la afición mexicana",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-12 15:35:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 15:35:00",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "record",
-        "source_name": "Record",
-        "source_priority": 21395,
-        "source_url": "https://www.record.com.mx",
-        "source_icon": "https://n.bytvi.com/record.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Caifanes 向墨西哥球迷致敬，重拾 2026 年世界杯的喜悦",
-        "description_zh": "Caifanes 向墨西哥球迷致敬，重拾 2026 年世界杯的喜悦"
-    },
-    {
-        "article_id": "fcb8d43fa93ede13a38e628aecaae661",
-        "link": "https://www.infobae.com/espana/cultura/2026/07/12/blaise-pascal-filosofo-todos-los-problemas-de-la-humanidad-provienen-de-la-incapacidad-del-hombre-para-estar-solo-y-en-silencio-sen-una-habitacion/",
-        "title": "Blaise Pascal, filósofo: “Todos los problemas de la humanidad provienen de la incapacidad del hombre para estar solo y en silencio sen una habitación”",
-        "description": "Considerado como una de las mentes más brillantes de la Francia anterior a la Ilustración, una experiencia mística motivó que pasara sus últimos años reflexionando sobre la naturaleza de los seres humanos",
+        "article_id": "712575f5f931eae986ad00d106c07f43",
+        "link": "https://flipr.com.ar/nacionales/politica/laletrachica/los-diputados-vuelven-al-recinto-en-medio-de-la-fiebre-por-el-mundial/",
+        "title": "Los diputados vuelven al recinto en medio de la fiebre por el Mundial",
+        "description": "En La Libertad Avanza, el armado de Sebastián Pareja busca desplazar a Agustín Romo de la jefatura de bloque mediante...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "filósofos",
-            "españa-cultura",
-            "españa-noticias",
-            "filosofía",
-            "filosofía de vida"
+            "política nacional",
+            "peronismo"
         ],
         "creator": [
-            "nel gómez"
+            "la letra chica"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
+            "argentina"
         ],
         "category": [
             "politics",
             "top"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-07-12 15:34:59",
+        "datatype": "pressrelease",
+        "pubDate": "2026-07-13 14:55:36",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:02:46",
-        "image_url": "https://www.infobae.com/resizer/v2/YGVJ3BINRBGN7JCYIA5FMTLGZ4.jpg?auth=929909e5a7db54ada76b4d13a8c1291b5137e4e8c9f0d65c3b3d530d807fd993&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/bixbgj3j-GEW42hld.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "fetched_at": "2026-07-13 15:18:08",
+        "image_url": "https://laletrachica.com.ar/uploads/noticias/2/2026/07/20260712214918_20231021013530-diputados-recinto-2022-i.jpg",
+        "video_url": null,
+        "source_id": "flipr_ar",
+        "source_name": "Flipr.news",
+        "source_priority": 459507,
+        "source_url": "https://flipr.com.ar",
+        "source_icon": "https://n.bytvi.com/flipr_ar.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -573,42 +302,284 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "哲学家布莱斯·帕斯卡（Blaise Pascal）：“人类的所有问题都源于人们无法在房间里独处和沉默。”",
-        "description_zh": "被认为是启蒙运动前法国最杰出的思想家之一，一次神秘的经历促使他在生命的最后几年反思人类的本质。"
+        "title_zh": "代表队在世界杯狂热中重返赛场",
+        "description_zh": "在 La Libertad Avanza，塞巴斯蒂安·帕雷哈 (Sebastián Pareja) 的组织试图通过……取代阿古斯丁·罗莫 (Agustín Romo) 的街区领导权。"
     },
     {
-        "article_id": "bd6bbed61b39cc492fab14418f86e830",
-        "link": "https://www.kienyke.com/bogota/bogota-amplia-la-convocatoria-de-mejora-tu-casa-requisitos-y-como-postularse",
-        "title": "Bogotá amplía la convocatoria de ‘Mejora Tu Casa’",
-        "description": "La Caja de la Vivienda Popular extendió las inscripciones del programa que busca mejorar las condiciones de vivienda de familias en varias localidades de la capital.",
+        "article_id": "eb9a8b6a21cae6af764de366ce8a23d0",
+        "link": "https://tribunadonorte.com.br/videos/eua-decidem-nesta-semana-se-aumentam-tarifas-contra-o-brasil/",
+        "title": "EUA decidem nesta semana se aumentam tarifas contra o Brasil",
+        "description": "O post EUA decidem nesta semana se aumentam tarifas contra o Brasil apareceu primeiro em Tribuna do Norte .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "bogotá",
-            "subsidios"
+            "vídeo-destaque",
+            "vídeo",
+            "vídeos"
         ],
         "creator": [
-            "esteban.fonseca"
+            "redação tribuna do norte"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-07-13 14:55:36",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-13 15:11:36",
+        "image_url": "https://tribunadonorte.com.br/wp-content/uploads/2026/07/DROPS-NEWS-Thumb-HORIZONTAL-RECUPERADO-5.png",
+        "video_url": null,
+        "source_id": "tribunadonorte",
+        "source_name": "Tribuna Do Norte",
+        "source_priority": 89984,
+        "source_url": "https://tribunadonorte.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadonorte.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "美国本周决定是否提高对巴西的关税",
+        "description_zh": "美国本周决定是否提高对巴西关税的帖子首先出现在北方论坛报上。"
+    },
+    {
+        "article_id": "312204db7f11973a73a6c6648700d570",
+        "link": "https://www.ole.com.ar/fuera-de-juego/insolito-rescindieron-contrato-club-posteo-video-errores_0_XbBc7iYUg7.html",
+        "title": "Insólito: le rescindieron el contrato y el club lo despidió con un video de sus errores",
+        "description": "Amazonas, equipo de la Serie C de Brasil, anunció la salida de Leo Coelho, ex Nacional y Peñarol, con un posteo que incluyó fallos del defensor en jugadas que terminaron en gol rival.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ascenso de brasil"
+        ],
+        "creator": [
+            "redacción olé"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-13 14:55:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-13 15:33:55",
+        "image_url": "https://www.ole.com.ar/images/2026/07/13/B_8tB-mLI_1200x630__1.jpg",
+        "video_url": null,
+        "source_id": "ole_ar",
+        "source_name": "Ole Ar",
+        "source_priority": 13161,
+        "source_url": "https://www.ole.com.ar",
+        "source_icon": "https://n.bytvi.com/ole_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "不同寻常的是：他们终止了他的合同，俱乐部用他的错误视频解雇了他",
+        "description_zh": "巴西丙级球队亚马逊队宣布前国家队和佩纳罗尔球员利奥·科埃略离开，并发布了一条帖子，其中包括这名后卫在比赛中的失误，最终导致对手进球。"
+    },
+    {
+        "article_id": "6a8e75714abd086d567d80593053a57c",
+        "link": "https://tribunaonline.com.br/tvtribunaband/tribunanoticias1/13072026---assista-agora-ao-tribuna-noticias-1-edicao-316004",
+        "title": "13/07/2026 - Assista agora ao Tribuna Notícias 1a Edição",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "redação tribuna online"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-13 14:55:29",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-13 15:20:42",
+        "image_url": "https://cdn2.tribunaonline.com.br/img/galeria-home/310000/17062026---Assista-agora-ao-Tribuna-Noticias-1-Edi0031401700202606171154.jpg?xid=1473008",
+        "video_url": null,
+        "source_id": "tribunaonline_br",
+        "source_name": "Tribuna Online",
+        "source_priority": 1025555,
+        "source_url": "https://tribunaonline.com.br",
+        "source_icon": "https://n.bytvi.com/tribunaonline_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "2026 年 7 月 13 日 - 立即观看《论坛新闻》第一版",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "aad53cd2197b07e9954b87ded043505f",
+        "link": "https://www.cordobabn.com/articulo/deportes/marlaska-tacha-racismo-estupidez-palabras-rajoy-seleccion-francesa-futbol/20260713165556262704.html",
+        "title": "Marlaska califica de \"racismo o estupidez\" las declaraciones de Rajoy sobre Francia",
+        "description": "El ministro del Interior, Fernando Grande-Marlaska, calificó como \"racismo o estupidez\" la columna publicada en 'El Debate', en la que el expresidente Mariano Rajoy afirmó que la selección de fútbol francesa es buena \"pero sin franceses\"....",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "l.j.f."
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-13 14:55:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-13 15:22:08",
+        "image_url": "https://www.cordobabn.com/media/cordobabn/images/2026/07/13/2026071316504164185.jpg",
+        "video_url": null,
+        "source_id": "cordobabn",
+        "source_name": "Cordoba",
+        "source_priority": 1219601,
+        "source_url": "https://www.cordobabn.com",
+        "source_icon": "https://n.bytvi.com/cordobabn.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "马拉斯卡将拉霍伊关于法国的言论描述为“种族主义或愚蠢”",
+        "description_zh": "内政部长费尔南多·格兰德-马拉斯卡将《辩论》上发表的专栏描述为“种族主义或愚蠢”，前总统马里亚诺·拉霍伊在专栏中表示，法国足球队很好，“但没有法国人”……"
+    },
+    {
+        "article_id": "db33a020cf9315f110bc1e7120a7f4c0",
+        "link": "https://mx.investing.com/news/stock-market-news/las-bolsas-de-valores-de-noruega-cerraron-con-subidas-el-oslo-obx-gano-un-100-3683967",
+        "title": "Las bolsas de valores de Noruega cerraron con subidas; el Oslo OBX ganó un 1.00%",
+        "description": "Las bolsas de valores de Noruega cerraron con subidas; el Oslo OBX ganó un 1.00%",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "investing.com"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-13 14:55:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-13 15:02:24",
+        "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL730R1_L.jpg",
+        "video_url": null,
+        "source_id": "investing_mx",
+        "source_name": "Investing México",
+        "source_priority": 1205,
+        "source_url": "https://mx.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "挪威股市收高；奥斯陆 OBX 上涨 1.00%",
+        "description_zh": "挪威股市收高；奥斯陆 OBX 上涨 1.00%"
+    },
+    {
+        "article_id": "3ee8c11c9033f2f2dd14bbf055949327",
+        "link": "https://www.sdpnoticias.com/mexico/sheinbaum-responde-a-ken-salazar-tras-sus-senalamientos-contra-amlo-por-el-caso-de-el-mayo-zambada/",
+        "title": "Sheinbaum responde a Ken Salazar tras sus señalamientos contra AMLO por el caso de El Mayo Zambada",
+        "description": "Claudia Sheinbaum reitera que existe una versión contradictoria de Ken Salazar por el caso de El Mayo Zambada; niega relación con el crimen organizado.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "estados unidos",
+            "claudia sheinbaum",
+            "cartel de sinaloa",
+            "amlo",
+            "fbi"
+        ],
+        "creator": [
+            "pamela grande"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-13 14:55:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-13 15:09:15",
+        "image_url": "https://www.sdpnoticias.com/resizer/v2/TX2SUSLDAND7FNUF6C7YAQLNRU.jpg?focal=436%2C168&auth=b46a842315b011d3d9285d7e6d5b4045be947bd4b1fb0d74a30c092149f3c469&width=1440&height=810",
+        "video_url": null,
+        "source_id": "sdpnoticias",
+        "source_name": "Sdp Noticias",
+        "source_priority": 59718,
+        "source_url": "https://www.sdpnoticias.com",
+        "source_icon": "https://n.bytvi.com/sdpnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "肯·萨拉查 (Ken Salazar) 在埃尔梅奥·赞巴达 (El Mayo Zambada) 案中指控奥夫拉多尔",
+        "description_zh": "克劳迪娅·谢因鲍姆 (Claudia Sheinbaum) 重申，在埃尔·梅奥·赞巴达 (El Mayo Zambada) 案件中，存在着与肯·萨拉查 (Ken Salazar) 相矛盾的版本；否认与有组织犯罪的关系。"
+    },
+    {
+        "article_id": "28cf446d5935c6a70db7882bf208b0bc",
+        "link": "https://www.elnuevodia.com.co/judicial/fuerte-incendio-en-zona-rural-de-ibague-afecta-una-bodega-537962",
+        "title": "Fuerte incendio en zona rural de Ibagué afecta una bodega",
+        "description": "Fuerte incendio en zona rural de Ibagué afecta una bodega jorjuela Lun, 13/07/2026 - 09:55 Fecha nodo Lun, 13/07/2026 - 09:55 Image /sites/default/files/imagenes/2026/07/Incendio%20en%20ibague.jpg Body Un incendio de gran magnitud se registra este lunes festivo 13 de julio en la vereda Carrizales, corregimiento 13 El Salado, zona rural de Ibagué, donde una bodega resultó afectada por las llamas. La emergencia fue advertida inicialmente por ciudadanos desde distintos puntos de la ciudad, quienes reportaron una densa columna de humo en la zona montañosa. Posteriormente, se confirmó que se trataba de una conflagración en el sector, con riesgo para viviendas cercanas. De acuerdo con información preliminar, un transformador habría sido el origen del incendio, aunque esta versión aún no ha sido confirmada por las autoridades. Habitantes del sector señalaron que el primer vehículo de bomberos que llegó al lugar presentaba limitaciones en el suministro de agua. Además, indicaron que el mal estado de la vía de acceso dificultó la llegada oportuna de los organismos de socorro. El Cuerpo de Bomberos continúa en la zona adelantando labores para controlar la emergencia y evitar su propagación. Noticia en desarrollo... Creado por Redacción Judiciales/Q'Hubo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "-"
+        ],
+        "creator": [
+            "redacción judiciales/q'hubo"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "politics",
-            "lifestyle",
-            "top"
+            "top",
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-12 15:34:54",
+        "pubDate": "2026-07-13 14:55:35",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 18:16:04",
-        "image_url": "https://www.kienyke.com/sites/default/files/2026-07/paso-a-paso-para-postularse-al-programa-mejora-tu-casa-en-bogota.jpg",
+        "fetched_at": "2026-07-13 16:04:13",
+        "image_url": "https://www.elnuevodia.com.co/sites/default/files/styles/galeria_1200x600_/public/imagenes/2026/07/Incendio%20en%20ibague.jpg?itok=Ico55F7d",
         "video_url": null,
-        "source_id": "kienyke",
-        "source_name": "Kienyke",
-        "source_priority": 400833,
-        "source_url": "https://www.kienyke.com",
-        "source_icon": "https://n.bytvi.com/kienyke.png",
+        "source_id": "elnuevodia",
+        "source_name": "El Nuevo Día",
+        "source_priority": 14300,
+        "source_url": "https://www.elnuevodia.com",
+        "source_icon": "https://n.bytvi.com/elnuevodia.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -616,66 +587,24 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "波哥大呼吁“改善您的家园”",
-        "description_zh": "大众住房基金扩大了该计划的注册范围，旨在改善首都多个地点家庭的住房条件。"
+        "title_zh": "伊瓦格乡村地区的大火影响了一家酿酒厂",
+        "description_zh": "伊巴格乡村地区的强火影响了 Jorjuela 酒庄 星期一, 07/13/2026 - 09:55 节点日期 星期一, 07/13/2026 - 09:55 Image /sites/default/files/imagenes/2026/07/Incendio%20en%20ibague.jpg Body 7 月 13 日星期一，卡里萨莱斯 (Carrizales) 发生了一场大火村庄,"
     },
     {
-        "article_id": "29ad3b1b23ca051215e551044668045d",
-        "link": "https://www.elimparcial.com/tij/columnas/2026/07/12/invertir-en-la-educacion-superior/",
-        "title": "Invertir en la educación superior",
-        "description": "Ahora es la Anuies la que pone de nuevo el tema sobre la mesa de la necesidad de aumentar el presupuesto para atender la cobertura, gratuidad y calidad educativa.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "agua caliente"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-12 15:34:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:04:59",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/elimparcial/L32APCE7A5HBHBVBRHTH6XOYWM.jpg",
-        "video_url": null,
-        "source_id": "elimparcial",
-        "source_name": "El Imparcial",
-        "source_priority": 25219,
-        "source_url": "https://www.elimparcial.com",
-        "source_icon": "https://n.bytvi.com/elimparcial.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "投资高等教育",
-        "description_zh": "现在，阿努伊斯将需要增加预算来解决覆盖率、免费和优质教育的问题重新摆上桌面。"
-    },
-    {
-        "article_id": "d76947321751490e5cc5af67220b0c00",
-        "link": "https://laopinion.co/mundo/imagenes-de-la-nasa-muestran-el-desplazamiento-del-terreno-tras-los-terremotos-en-venezuela",
-        "title": "Imágenes de la NASA muestran el desplazamiento del terreno tras los terremotos en Venezuela",
-        "description": "Authored by dsifontes Image Efecto Cocuyo Domingo, 12 de Julio de 2026 Lo que vivimos los venezolanos el 24 de junio de 2026, un doblete sísmico de 7,2, el primero y 7,5 el segundo, no fue cualquier cosa. A juzgar por las consecuencias en la infraestructura, 190 edificios colapsados y más de 800 afectados, fue un evento devastador, si contar, por supuesto, el número de personas fallecidas a la fecha, más de 4 mil según cifras oficiales. Pero hay un dato muy revelador de la magnitud de este evento sísmico registrado por el Administración Nacional de Aeronáutica y el Espacio , Nasa por sus siglas en ingles: el registro del movimiento de tierra hacia el mar Caribe. “En los días posteriores, los mapas satelitales de desplazamiento del terreno mostraron cómo se movió la superficie terrestre, lo que permitió comprender las fuerzas que provocaron la grave destrucción en lugares como La Guaira y otras ciudades costeras del estado de La Guaira”, explica la Agencia en su página web. Lea aquí: Venezuela alista plan para construir 25.000 viviendas tras los terremotos Explica la Nasa que se elaboró un mapa ​​utilizando datos del satélite NISAR (Radar de Apertura Sintética NASA-ISRO) y fue procesado por el equipo científico de NISAR en el Laboratorio de Propulsión a Chorro (JPL) de la NASA. Los científicos emplearon una técnica denominada InSAR , que compara datos de pasadas repetidas para detectar cambios sutiles en la distancia entre el satélite y la superficie terrestre. Las imágenes obtenidas el 25 y el 30 de junio, después de los sismos, se compararon con las imágenes del 13 y el 18 de junio, anteriores a los sismos. Aquí reproducimos la explicación científica, tal y cómo está contenida en la página de la agencia espacial. “El NISAR observa la Tierra en un ángulo de aproximadamente 40 grados con respecto a la vertical, lo que le permite capturar una combinación de desplazamiento horizontal y vertical. En este mapa, las áreas rojas muestran dónde se movió el terreno hacia el este y hacia arriba; las áreas azules se movieron hacia el oeste y hacia abajo. Sin embargo, debido a que el terremoto ocurrió en una falla de deslizamiento horizontal , la mayor parte del desplazamiento que se muestra en este mapa fue horizontal (este y oeste). Las áreas blancas indican un desplazamiento de tierra mínimo o nulo, incluyendo una delgada franja cerca del centro-izquierda de la escena, cerca de Morón, que marca aproximadamente dónde se rompió la falla en profundidad. La falla es parte de una red de fracturas que se extiende a lo largo del límite entre la placa del Caribe al norte y la placa sudamericana al sur. Los científicos afirman que las fallas a lo largo de este límite de placas, incluyendo el sistema de fallas de San Sebastián donde probablemente ocurrieron estos sismos (y posiblemente parte del sistema de Boconó), han estado acumulando tensión durante mucho tiempo . La ruptura de la falla se propagó mar adentro, hacia el este, y luego regresó a tierra firme cerca del aeropuerto internacional al norte de Caracas, marcada por la estrecha banda blanca visible entre el desplazamiento hacia el oeste y hacia el este. Justo al sur de esta sección de la falla, el color azul oscuro indica que el desplazamiento de la superficie hacia el oeste a lo largo de esta parte de la falla fue mucho mayor que en otras zonas, alcanzando hasta 60 centímetros (24 pulgadas).” Un geofísico del JPL, Eric Fielding, considera que en esas imágenes están las razones por las cuales los daños en La Guaira y Caracas fueron tan graves. “La tecnología InSAR nos revela mucho sobre lo que sucedió durante este terremoto”. “Esto es de gran ayuda para quienes necesitan comprender por qué los daños fueron tan graves en esa zona”, dijo Fielding. Utilizando los datos del NISAR, el Servicio Geológico de Estados Unidos perfeccionó su modelo de deslizamiento de fallas, o ” modelo de falla finita “, para delimitar mejor cómo se deslizó la falla en profundidad, incluso a lo largo de la sección oriental de la ruptura. “Esto es de gran ayuda para quienes necesitan comprender por qué los daños fueron tan graves en esa zona”, dijo Fielding. Esta es la primera vez que el sistema de respuesta urgente (UR) del NISAR se utiliza para mapear el desplazamiento de la superficie tras un gran terremoto. Gracias por valorar La Opinión Digital. Suscríbete y disfruta de todos los contenidos y beneficios en http://bit.ly/SuscripcionesLaOpinion . Recomendados para ti Autor Colprensa Estas son las ciudades con mejor y peor calidad de vida en el mundo en 2026 Autor Colprensa Marco Rubio reitera la presión de EE. UU. sobre Cuba: piden reformas y la liberación de los presos políticos Autor Colprensa Ascienden a más de 4.000 los fallecidos en el doble terremoto de Venezuela Autor Colprensa Donald Trump ordena bombardear a Irán a niveles nunca vistos si sufre algún ataque",
+        "article_id": "4937897a93851c0b1f38089784c60d55",
+        "link": "https://www.elheraldo.co/sociedad/2026/07/13/recomendaciones-para-lavar-tenis-en-la-lavadora-y-que-no-se-danen/",
+        "title": "Recomendaciones para lavar tenis en la lavadora y que no se dañen",
+        "description": "Uno de los primeros pasos es repasar el material de los zapatos para evitar que se deformen.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "la opinión",
-            "norte de santander",
-            "cúcuta",
-            "nasa",
-            "diario la opinión",
-            "terremotos",
-            "la opinión cúcuta",
-            "mundo",
-            "venezuela"
+            "lavadora",
+            "lavar-tenis",
+            "lavado",
+            "tenis",
+            "hogar"
         ],
         "creator": [
-            "dsifontes"
+            "redacción tendencias"
         ],
         "language": "spanish",
         "country": [
@@ -686,16 +615,16 @@
             "environment"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-12 15:34:46",
+        "pubDate": "2026-07-13 14:55:35",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 15:48:55",
-        "image_url": "https://laopinion.co/sites/default/files/2026-07/TERREMOTOS-VENEZUELA_2.jpg",
+        "fetched_at": "2026-07-13 15:07:33",
+        "image_url": "https://www.elheraldo.co/resizer/v2/B3UP3X5SINFYBP6YGI3ZNX4PIU.jpg?auth=74ce870587fef3dd198469e8ffcc318ef028a581b917bbdfc32955f05c646751&smart=true&width=1024&height=559",
         "video_url": null,
-        "source_id": "laopinion_co",
-        "source_name": "La Opinión Colombia",
-        "source_priority": 1051145,
-        "source_url": "https://www.laopinion.co",
-        "source_icon": "https://n.bytvi.com/laopinion_co.png",
+        "source_id": "elheraldo",
+        "source_name": "Elheraldo",
+        "source_priority": 38752,
+        "source_url": "https://www.elheraldo.co",
+        "source_icon": "https://n.bytvi.com/elheraldo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -703,49 +632,36 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "美国宇航局图像显示委内瑞拉地震后土地位移",
-        "description_zh": "作者：dsifontes 图片 Cocuyo 效应 2026 年 7 月 12 日星期日 我们委内瑞拉人在 2026 年 6 月 24 日所经历的第一次 7.2 级地震和第二次 7.5 级地震的双重地震并不简单。从对基础设施的影响来看，190座建筑物倒塌，800多座建筑物倒塌。"
+        "title_zh": "建议在洗衣机中清洗网球鞋，以免损坏它们",
+        "description_zh": "第一步是检查鞋子的材料，以防止它们变形。"
     },
     {
-        "article_id": "045a6f6a725355eb3025c9d7bee3e799",
-        "link": "https://www.infobae.com/mexico/2026/07/12/voto-de-las-mujeres-en-mexico-asi-va-el-sufragio-femenino-a-71-anos-de-su-aprobacion-y-frente-a-las-nuevas-tendencias-conservadoras/",
-        "title": "Voto de las mujeres en México: así va el sufragio femenino a 71 años de su aprobación y frente a las nuevas tendencias conservadoras",
-        "description": "La participación femenina superó en casi 10 puntos porcentuales la de los hombres en las elecciones del 2024",
+        "article_id": "bd3c216d77bd835347910f0f849fecf9",
+        "link": "https://mx.investing.com/news/stock-market-news/las-bolsas-de-valores-de-israel-cerraron-con-subidas-el-ta-35-gano-un-007-3683966",
+        "title": "Las bolsas de valores de Israel cerraron con subidas; el TA 35 ganó un 0.07%",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mujeres",
-            "voto",
-            "política mexicana",
-            "elecciones",
-            "mexico-noticias",
-            "conservadurismo",
-            "sufragio femenino"
-        ],
-        "creator": [
-            "fernanda lópez castro"
-        ],
+        "keywords": null,
+        "creator": null,
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
+            "mexico"
         ],
         "category": [
-            "politics",
+            "business",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-12 15:34:44",
+        "pubDate": "2026-07-13 14:55:25",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:02:46",
-        "image_url": "https://www.infobae.com/resizer/v2/L6M3FZUJVVG4TDC2J4E3JQULK4.jpg?auth=fc11ac1fe5de6661a1979567830990a8202fd957aedafcf78f65b0ca1eae147e&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-07-13 15:02:24",
+        "image_url": null,
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "investing_mx",
+        "source_name": "Investing México",
+        "source_priority": 1205,
+        "source_url": "https://mx.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -753,47 +669,43 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "墨西哥妇女投票权：这就是妇女选举权在获得批准 71 年后以及面对新的保守趋势时的进展情况",
-        "description_zh": "在 2024 年选举中，女性参与率比男性高出近 10 个百分点"
+        "title_zh": "以色列股市收高； TA 35 指数上涨 0.07%",
+        "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "a6ad2716c3d5588c5d9568b53a6957d1",
-        "link": "https://www.infobae.com/estados-unidos/2026/07/12/la-inteligencia-artificial-impulsa-un-desarrollo-record-de-centrales-a-gas-en-estados-unidos/",
-        "title": "La inteligencia artificial impulsa un desarrollo récord de centrales a gas en Estados Unidos",
-        "description": "Mediante la demanda de electricidad de los servidores se está presionando al sistema y se reactivaron proyectos para extender la vigencia de unidades a carbón. Mientras que distintos referentes intentan resguardar las metas climáticas a largo plazo",
+        "article_id": "84103baf4dda9a7c5a925aea61843071",
+        "link": "https://redgol.cl/mundial/varsky-se-atreve-a-decir-una-gran-verdad-tras-arbitrajes-a-favor-de-argentina-si-es-al-reves",
+        "title": "Varsky se atreve a decir una gran verdad tras arbitrajes a “favor” de Argentina: “Si es al revés...”",
+        "description": "El reconocido comentarista habló de la expulsión al suizo Breel Embolo en los cuartos de final del Mundial 2026. Argentina ha sufrido más de la cuenta, pero sigue en pie en el Mundial 2026 , donde este miércoles jugará un partidazo por las semifinales ante Inglaterra , en Atlanta. La Albiceleste viene de dejar en el camino a Suiza en los cuartos de final, duelo que tuvo una fuerte polémica arbitral, al igual que en varios partidos del conjunto de Lionel Scaloni . Los argentinos jugaron gran parte del encuentro con un jugador más, por la expulsión del delantero Breel Embolo por parte del árbitro portugués Joao Pinheiro , tras ayuda del VAR. Juan Pablo Varsky analiza la expulsión de Breel Embolo ante Argentina Embolo vio la roja tras recibir una segunda tarjeta amarilla, la que vino por información del VAR, luego de una simulación ante una jugada con Leandro Paredes, quien había sido amonestado injustamente. La situación fue analizada por el reconocido periodista argentino Juan Pablo Varsky , quien asumió que si la jugada era en contra de la Albiceleste, todavía estaban reclamando. “Al mostrarle la amarilla, el VAR revisa. Podría no haber revisado el VAR y haber dejado la amarilla a Paredes. Sí, es cierto, pero al mismo tiempo estamos hablando de un partido de cuartos de final, donde una amarilla influye decisivamente en el comportamiento del jugador”, explicó el comentarista. Joao Pinheiro expulsó a Breel Embolo ante Argentina. (Photo by David Ramos/Getty Images) “La ley puede ser severa, pero la realidad es que el VAR no podía hacerse el distraido. Obviamente, si es al revés, estamos puteando de arriba a bajo porque nos sentimos perjudicados “, agregó en su canal Clank!. Por último, Varsky mencionó el tema de las conspiraciones que circulan en redes sociales, por un supuesto favoritismo de la FIFA con Argentina. “El tema de conspiraciones es una situación de redes sociales, chicos, diviértanse, pero no entra en un análisis porque no creo en esas cosas”, cerró Juan Pablo Varsky. En síntesis El árbitro Joao Pinheiro expulsó al delantero Breel Embolo en cuartos de final. La selección de Argentina enfrentará a Inglaterra este miércoles por las semifinales del Mundial. El periodista Juan Pablo Varsky desestimó las teorías de conspiración a favor de Argentina. ¿Cuándo y a qué hora es la semifinal entre Inglaterra y Argentina por el Mundial 2026? El partido entre Inglaterra y Argentina por las semifinales del Mundial 2026 se jugará este miércoles 15 de julio, a partir de las 15:00 horas de Chile, en Atlanta.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "centros de datos",
-            "gas natural",
-            "energías renovables",
-            "inteligencia artificial",
-            "estados unidos noticias"
+            "juan pablo varsky",
+            "selección argentina",
+            "selección suiza",
+            "mundial"
         ],
         "creator": [
-            "osvaldo ortiz"
+            "carlos silva rojas"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
+            "chile"
         ],
         "category": [
-            "top",
-            "technology"
+            "sports",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-12 15:34:15",
+        "pubDate": "2026-07-13 14:55:24",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:02:46",
-        "image_url": "https://www.infobae.com/resizer/v2/QDZR6IAYTNEO7H7LLKENUGIRVA.jpg?auth=eb6a24b60a42f69676ed3c67f84b2321efc26f3d75ed7d048f31434473e9eb78&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-07-13 15:14:00",
+        "image_url": "https://media.redgol.cl/wp-content/uploads/sites/8/2026/07/13103414/Breel-Embolo-Suiza-e1783953499965-1200x740.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "redgol_cl",
+        "source_name": "Red Gol",
+        "source_priority": 179990,
+        "source_url": "https://redgol.cl",
+        "source_icon": "https://n.bytvi.com/redgol_cl.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -801,41 +713,120 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "人工智能推动美国天然气工厂创纪录发展",
-        "description_zh": "由于服务器对电力的需求，系统面临压力，并且重新启动了项目以延长燃煤机组的使用寿命。尽管不同的领导人都试图保护长期气候目标"
+        "title_zh": "瓦尔斯基在仲裁后敢于说出“有利于”阿根廷的伟大真相：“如果情况相反……”",
+        "description_zh": "这位著名评论员谈到了瑞士人布雷尔·恩博洛在 2026 年世界杯四分之一决赛中被驱逐的情况。阿根廷队遭受了不必要的痛苦，但仍能参加 2026 年世界杯，周三他们将在亚特兰大的半决赛中对阵英格兰队，进行一场精彩的比赛。阿尔比塞莱斯特"
     },
     {
-        "article_id": "3ac22242ce4a2f5952f14926b03d74ec",
-        "link": "https://heraldodemexico.com.mx/nacional/2026/7/12/llega-la-capital-de-chihuahua-la-cabalgata-villista-con-mas-de-600-jinetes-848285.html",
-        "title": "Llega a la capital de Chihuahua la Cabalgata Villista con más de 600 jinetes",
-        "description": "Los jinetes recorrieron el Centro Histórico como parte del Festival Internacional de Turismo de Aventura 2026",
+        "article_id": "ebf2b341c0cfb6551dd39c7b83633343",
+        "link": "https://www.zocalo.com.mx/afirman-que-el-ice-mato-a-una-persona-durante-tiroteo-en-maine/",
+        "title": "Afirman que el ICE mató a una persona durante tiroteo en Maine",
+        "description": "El hecho se da apenas unos días después de que un agente federal de inmigración matara a tiros a un inmigrante mexicano",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-13 14:55:15",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-13 15:14:48",
+        "image_url": "https://www.zocalo.com.mx/wp-content/uploads/2026/07/iceok.jpg",
+        "video_url": null,
+        "source_id": "zocalo",
+        "source_name": "Periódico Zócalo",
+        "source_priority": 208655,
+        "source_url": "http://zocalo.com.mx",
+        "source_icon": "https://n.bytvi.com/zocalo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们声称 ICE 在缅因州的枪击事件中造成一人死亡",
+        "description_zh": "该事件发生几天前，一名联邦移民特工枪杀了一名墨西哥移民。"
+    },
+    {
+        "article_id": "7f75c04c64a14728b32ecbdbd38eed37",
+        "link": "https://www.diarioestrategia.cl/texto-diario/mostrar/5952132/cobre-cerro-alza-lunes-bolsa-metales-londres",
+        "title": "Cobre cerró al alza este lunes en la Bolsa de Metales de Londres",
+        "description": "\"El mercado de metales sigue operando con cautela por la escalada de tensiones en Medio Oriente, luego de nuevos ataques entre Estados Unidos e Irán y amenazas sobre el tránsito por el Estrecho de Ormuz\", comentó Felipe Sepúlveda Soto, analista jefe de Admirals Latinoamérica.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "estrategia on line"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-13 14:55:13",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-13 15:14:52",
+        "image_url": "https://www.diarioestrategia.cl/images/showid/8062562",
+        "video_url": null,
+        "source_id": "diarioestrategia_cl",
+        "source_name": "Diario Estrategia",
+        "source_priority": 263817,
+        "source_url": "https://www.diarioestrategia.cl",
+        "source_icon": "https://n.bytvi.com/diarioestrategia_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "伦敦金属交易所铜周一收高",
+        "description_zh": "Admirals Latin America 首席分析师 Felipe Sepúlveda Soto 表示：“在美国和伊朗之间发生新的袭击以及霍尔木兹海峡过境受到威胁之后，中东紧张局势升级，金属市场继续谨慎运行。”"
+    },
+    {
+        "article_id": "7e0cec46f818c33255e3e0d131e1f02d",
+        "link": "https://altonivel.com.mx/trump-dice-que-estados-unidos-tomara-el-control-del-estrecho-de-ormuz/",
+        "title": "Trump dice que Estados Unidos tomará el control del estrecho de Ormuz",
+        "description": "Donald Trump aseguró que Estados Unidos podría administrar el estrecho de Ormuz y cobrar por proteger la ruta petrolera, mientras el WTI subió 3.25% por la tensión con Irán. The post Trump dice que Estados Unidos tomará el control del estrecho de Ormuz appeared first on Alto Nivel .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cabalgata villista",
-            "chihuahua"
+            "economía",
+            "estrecho de ormuz",
+            "brent",
+            "wti",
+            "petróleo",
+            "donald trump",
+            "estados unidos"
         ],
         "creator": [
-            "federico guevara"
+            "alto nivel"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "tourism",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-12 15:34:05",
+        "pubDate": "2026-07-13 14:55:07",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 19:04:41",
-        "image_url": "https://heraldodemexico.com.mx/u/fotografias/m/2026/7/12/f1280x720-1306070_1437745_5050.jpg",
+        "fetched_at": "2026-07-13 15:46:47",
+        "image_url": "https://altonivel.com.mx/wp-content/uploads/2026/03/trump-amenaza-a-iran.webp",
         "video_url": null,
-        "source_id": "heraldodemexico",
-        "source_name": "El Heraldo De Mexico",
-        "source_priority": 21317,
-        "source_url": "https://heraldodemexico.com.mx",
-        "source_icon": "https://n.bytvi.com/heraldodemexico.png",
+        "source_id": "altonivel",
+        "source_name": "Alto Nivel",
+        "source_priority": 409429,
+        "source_url": "https://www.altonivel.com.mx",
+        "source_icon": "https://n.bytvi.com/altonivel.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -843,70 +834,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Villista Cavalcade 携 600 多名骑手抵达奇瓦瓦州首府",
-        "description_zh": "作为 2026 年国际探险旅游节的一部分，骑手们游览了历史中心"
-    },
-    {
-        "article_id": "513f05ef5ddbb56ccc25e2f9a3b047a4",
-        "link": "https://cnnespanol.cnn.com/2026/07/12/mundo/video/tiroteo-masivo-festival-latino-toronto-canada-trax",
-        "title": "Tiroteo masivo en festival callejero latino en Toronto",
-        "description": "Dos personas murieron y varias más resultaron heridas en un tiroteo masivo durante el mayor festival callejero latino de Canadá , celebrado en Toronto, según informó la Policía.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "canada",
-            "toronto",
-            "tiroteo"
-        ],
-        "creator": [
-            "cnn en español"
-        ],
-        "language": "spanish",
-        "country": [
-            "puerto rico",
-            "ecuador",
-            "costa rica",
-            "bolivia",
-            "spain",
-            "colombia",
-            "nicaragua",
-            "chile",
-            "venezuela",
-            "guinea",
-            "uruguay",
-            "dominican republic",
-            "panama",
-            "cuba",
-            "el salvador",
-            "paraguay",
-            "argentina",
-            "guatemala",
-            "mexico",
-            "honduras",
-            "peru"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-07-12 15:33:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-12 16:04:17",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285139796-20260712152745532.jpg?c=original",
-        "video_url": "https://clips-media-aka.warnermediacdn.com/cnn/clips/2026-07/2311870-8631771cc8524960af385e7055ba6c26/mp4/tiroteo-masivo-festival-latino-toronto-canada-trax-2311870-1920x1080_8000k.mp4",
-        "source_id": "cnnespanol",
-        "source_name": "Cnn",
-        "source_priority": 16314,
-        "source_url": "https://cnnespanol.cnn.com",
-        "source_icon": "https://n.bytvi.com/cnnespanol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "多伦多拉丁街头音乐节发生大规模枪击事件",
-        "description_zh": "警方称，在多伦多举行的加拿大最大的拉丁裔街头节日期间发生大规模枪击事件，造成两人死亡、多人受伤。"
+        "title_zh": "特朗普称美国将控制霍尔木兹海峡",
+        "description_zh": "唐纳德·特朗普保证美国可以管理霍尔木兹海峡并负责保护石油航线，而由于与伊朗的紧张关系，WTI上涨3.25%。特朗普称美国将控制霍尔木兹海峡的帖子首先出现在高层。"
     }
 ]
