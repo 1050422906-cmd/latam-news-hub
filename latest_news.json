@@ -1,33 +1,32 @@
 [
     {
-        "article_id": "2998e6466a0f3a3cc51f19a2fce5950f",
-        "link": "https://www.capitalnews.com.br/nacional/falta-de-controle-financeiro-em-tempo-real-atinge-126-milhoes-de-empresas-no-brasil/444009",
-        "title": "Falta de controle financeiro em tempo real atinge 12,6 milhões de empresas no Brasil",
-        "description": "Quase dois terços das empresas brasileiras enfrentam dificuldades para controlar as finanças em tempo real.",
+        "article_id": "76b6e38bee2ddcb32fd52cdd7b3cf41c",
+        "link": "https://tribunadepetropolis.com.br/noticias/fifa-abre-investigacao-contra-argentina-apos-confusao-na-final-da-copa-do-mundo/",
+        "title": "Fifa abre investigação contra Argentina após confusão na final da Copa do Mundo",
+        "description": "A Fifa, segundo a Sky Sports, abriu uma investigação disciplinar para apurar os incidentes envolvendo integrantes da seleção argentina após a derrota por 1 a 0 para a Espanha na final da Copa do Mundo, disputada no último domingo. A entidade irá analisar os relatórios da arbitragem e as imagens da decisão antes de definir [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "brasil"
+            "por estadão"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "business",
-            "top"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-19 15:51:00",
+        "pubDate": "2026-07-20 15:22:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:45:19",
-        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2026/07/18/1200x900/4bf406b5c824943d3cce4717f9af7bf9-capitalnews-com-br.jpg",
+        "fetched_at": "2026-07-20 15:47:04",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
-        "source_id": "capitalnews",
-        "source_name": "Capital News",
-        "source_priority": 505998,
-        "source_url": "https://www.capitalnews.com.br",
-        "source_icon": "https://n.bytvi.com/capitalnews.png",
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -35,88 +34,59 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "缺乏实时财务控制影响了巴西 1260 万家公司",
-        "description_zh": "近三分之二的巴西公司面临实时控制财务的困难。"
+        "title_zh": "世界杯决赛混乱后国际足联对阿根廷展开调查",
+        "description_zh": "据天空体育报道，国际足联在上周日举行的世界杯决赛中以 1-0 输给西班牙队后，对涉及阿根廷国家队成员的事件展开了纪律调查。实体将分析仲裁报告和图像"
     },
     {
-        "article_id": "ad0221a85c85cf0b2fd86dc3790d58ae",
-        "link": "https://www.surenio.com.ar/abdala-viajo-al-mundial-y-quedo-varado-en-fort-lauderdale/",
-        "title": "Abdala viajó al Mundial y quedó varado en Fort Lauderdale",
-        "description": "Quedó varado en Fort Lauderdale y le pidió al cónsul de Nueva York que le gestione un vuelo. Indignado, al final combina vuelo corto y auto. LA POLITICA ONLINE.- El... La entrada Abdala viajó al Mundial y quedó varado en Fort Lauderdale se publicó primero en Diario El Sureño .",
+        "article_id": "36ea5e63fb5fd111888d24163b92d32c",
+        "link": "https://www.dgabc.com.br/Noticia/4336267/fifa-abre-investigacao-contra-argentina-apos-confusao-na-final-da-copa",
+        "title": "Fifa abre investigação contra Argentina após confusão na final da Copa",
+        "description": "Um dos principais casos sob análise é a expulsão de Leandro Paredes, que recebeu cartão vermelho depois do apito final por conduta violenta",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "senado",
-            "fort lauderdale",
-            "bartolomé abdala",
-            "buenos aires",
-            "varado",
-            "copa del mundo"
+            "fifa",
+            "argentina",
+            "on line",
+            "ribeirão pires",
+            "são bernardo",
+            "d+",
+            "setecidades",
+            "economia",
+            "rio grande da serra",
+            "noticia",
+            "são caetano",
+            "grande abc",
+            "diadema",
+            "copa do mundo",
+            "diarinho",
+            "mauá",
+            "confusão",
+            "automóveis",
+            "turismo",
+            "abc"
         ],
         "creator": [
-            "diario el sureño"
+            "agência estado"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-19 15:50:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 15:51:44",
-        "image_url": "https://s3.eu-central-003.backblazeb2.com/vsign-wp-surenio-offload/wp-content/uploads/2026/07/abdala.jpg",
-        "video_url": null,
-        "source_id": "surenio_ar",
-        "source_name": "Diario El Sureño",
-        "source_priority": 2233889,
-        "source_url": "https://www.surenio.com.ar",
-        "source_icon": "https://n.bytvi.com/surenio_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿卜达拉前往参加世界杯并滞留在劳德代尔堡",
-        "description_zh": "他被困在劳德代尔堡，请求纽约领事为他安排航班。愤怒之下，他最终将短途飞行和汽车结合起来。在线政治.-... 阿卜杜拉前往世界杯并滞留在劳德代尔堡的条目首次发表在《Diario El Sureño》上。"
-    },
-    {
-        "article_id": "9144b1af75128e90c45cb1e479d9ec20",
-        "link": "https://www.eltrecetv.com.ar/puro-show/2026/07/19/tete-coustarot-respaldo-a-tomas-fonzi-tras-su-cruce-con-alejandro-fantino-no-es-un-invento/",
-        "title": "Teté Coustarot respaldó a Tomás Fonzi tras su cruce con Alejandro Fantino: “No es un invento”",
-        "description": "La conductora aseguró que el público extraña las ficciones en la televisión y se refirió a la falta de trabajo que atraviesan muchos actores.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "teté coustarot",
-            "noticias",
-            "tomás fonzi"
-        ],
-        "creator": [
-            "redacción ejes"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
             "top",
-            "entertainment"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-19 15:50:52",
+        "pubDate": "2026-07-20 15:22:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:10:24",
-        "image_url": "https://www.eltrecetv.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F2-146-7a09e6d61ebb1784385075203-1784468666.jpg?auth=1447c1c94d1724a73e49b7158d44e2e235d24f712fe80f3ed431b808c631949b&width=1440",
+        "fetched_at": "2026-07-20 16:23:40",
+        "image_url": "https://www.dgabc.com.br/Imagens/Home/Index/2026720124651.jpg?altura=100",
         "video_url": null,
-        "source_id": "eltrecetv_ar",
-        "source_name": "Eltrecetv",
-        "source_priority": 123447,
-        "source_url": "https://www.eltrecetv.com.ar",
-        "source_icon": "https://n.bytvi.com/eltrecetv_ar.png",
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://n.bytvi.com/dgabc.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -124,95 +94,36 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Teté Coustarot 在与 Alejandro Fantino 会面后支持 Tomás Fonzi：“这不是发明”",
-        "description_zh": "主持人保证公众会怀念电视上的虚构故事，并提到许多演员缺乏工作。"
+        "title_zh": "世界杯决赛混乱后国际足联对阿根廷展开调查",
+        "description_zh": "正在分析的主要案件之一是莱昂德罗·帕雷德斯被驱逐，他在终场哨响后因暴力行为而被红牌罚下"
     },
     {
-        "article_id": "bb0143e14ec94af585a8f8a61d73f682",
-        "link": "https://www.elliberal.com.ar/nota/86086/2026/07/la-lista-historica--los-18-jugadores-que-ganaron-dos-mundiales-con-la-seleccion-argentina",
-        "title": "La lista histórica: los 18 jugadores que ganaron dos Mundiales con la Selección Argentina",
-        "description": "Tras la consagración ante España en la final del Mundial 2026, Lionel Messi y otros 16 integrantes de la Scaloneta se sumaron a Daniel Passarella como los únicos futbolistas argentinos bicampeones del mundo.",
+        "article_id": "6094b3dc0a108e2c6015fd9a0baa2397",
+        "link": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/07/20/o-que-decide-a-durabilidade-de-um-condominio-fica-sob-o-solo-diz-fauze-youssef-skaff-1.ghtml",
+        "title": "O que decide a durabilidade de um condomínio fica sob o solo, diz Fauze Youssef Skaff",
+        "description": "A região administrativa de Campinas concentrou 2.765 lotes lançados no primeiro trimestre de 2026, o equivalente a 38% de tudo o que foi lançado entre os 81 municípios paulistas pesquisados pela Brain Inteligência Estratégica para a AELO (Associação das Empresas de Loteamento Urbano) e o Secovi-SP. Foram 11 empreendimentos em três meses, o maior número entre todas as regiões administrativas analisadas. No agregado, o estado registrou 7.297 lotes em 27 empreendimentos no período, com retração de 19% na comparação anual, um recuo que não se distribuiu de forma homogênea: enquanto parte do mercado desacelerou, o eixo do interior manteve ritmo. A demanda ajuda a explicar a assimetria. Pesquisa da Brain apresentada pelo Secovi-SP em maio, cobrindo 42 cidades do interior paulista, da Baixada Santista e da Região Metropolitana, apontou que 49% dos brasileiros pretendem comprar um imóvel, sendo 29% em até um ano. É um patamar que empurra incorporadoras para terrenos maiores, mais baratos e mais distantes dos centros consolidados. O loteamento fechado e o condomínio de médio porte em cidade média deixaram de ser exceção e viraram o produto padrão de um ciclo inteiro. O que raramente entra no anúncio de lançamento é que a vida útil desses empreendimentos não é decidida na fase que aparece nas maquetes. Ela é decidida antes, quando o terreno ainda é terreno. Cortes, aterros, nivelamento, compactação do solo e controle de cotas definem as inclinações das vias internas, o comportamento do solo sob carga e as condições em que toda a infraestrutura subterrânea vai operar pelas décadas seguintes. A terraplanagem é a etapa em que o projeto de drenagem deixa de ser desenho e passa a ser topografia. E é justamente aí que o país tem um problema documentado. O Diagnóstico Temático do Sistema Nacional de Informações em Saneamento Básico mostra que apenas 40,44% dos municípios brasileiros possuem sistemas exclusivos de drenagem pluvial, e que 32,49% relataram não ter nenhum. Levantamento do Instituto Trata Brasil calcula que o aporte por habitante precisaria saltar dos atuais R$43,79 para R$117,01 para universalizar o serviço até 2033. Em outras palavras: o empreendimento novo chega a um município que, na média, não tem para onde mandar a água. Quando a preparação do terreno é tratada como formalidade de cronograma, a conta não desaparece, apenas muda de endereço. Recalques diferenciais produzem fissuras em fundações, pisos e muros. Desníveis mal resolvidos rompem tubulações e deformam o pavimento. Erosões comprometem áreas comuns vendidas como atributo do produto. O morador descobre o problema anos depois, na assembleia que aprova a taxa extra. O custo dessa correção tardia é mensurável. Estudo da Universidade de Brasília aponta que o retrabalho em obras pode elevar os custos totais em até 42%, um índice que soma gastos diretos e indiretos e mede o impacto percentual sobre o previsto. Em fundações e infraestrutura enterrada, o efeito é ainda mais severo, porque a intervenção corretiva exige desfazer camadas que já receberam outras camadas em cima. Refazer não é repetir a tarefa: é pagar de novo por tudo o que veio depois dela. É esse raciocínio que orienta a atuação de Fauze Youssef Skaff, presidente da Skaff Construtora, empresa que atua com terraplanagem, pavimentação asfáltica e infraestrutura para empreendimentos residenciais, comerciais e industriais no interior de São Paulo e em Mato Grosso do Sul. Em análise publicada em julho, Fauze Youssef Skaff alertou que o boom imobiliário sul-mato-grossense avança mais rápido do que a infraestrutura que deveria sustentá-lo. O diagnóstico que ele faz agora é a versão microscópica do mesmo problema, aplicada ao lote. A leitura de Fauze Youssef Skaff é que cada terreno impõe um projeto próprio. Relevo, tipo de solo, capacidade de suporte e comportamento diante de chuva não se repetem de gleba para gleba, o que torna a padronização um risco disfarçado de economia. É o estudo geotécnico anterior à obra que define volumes de corte e aterro, compactação e estabilidade de taludes. Sem ele, a máquina entra no terreno resolvendo o que encontra, não o que o projeto pediu. \"A terraplanagem não é a etapa que antecede a obra. Ela é a obra que ninguém vê, e é a única que não dá para refazer depois que o condomínio está de pé\", afirma Fauze Youssef Skaff. Há ainda o componente que extrapola o muro do condomínio. Um terreno preparado com critério controla erosão e reduz o escoamento superficial despejado na rede pública. Em cidades médias que receberam dezenas de empreendimentos simultâneos nos últimos anos, a soma dessas decisões privadas define a capacidade de drenagem da malha inteira. O condomínio que resolve mal a própria água não devolve o problema apenas ao seu morador. Devolve à rua de fora. \"Quando um empreendimento novo alaga, quase sempre a explicação está três anos atrás, numa cota que foi aceita como suficiente\", diz Fauze Youssef Skaff. O interior paulista deve seguir absorvendo a demanda, e as cidades médias vão continuar recebendo bairros inteiros de uma vez. A pergunta que o ciclo ainda não respondeu é se o critério aplicado ao que se vê, a fachada, o paisagismo, a área de lazer, chegará com a mesma exigência ao que ninguém fotografa. Porque o que está sob o solo é a única parte do empreendimento que o comprador não consegue inspecionar, e a única que ele vai pagar duas vezes se estiver errada.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "news",
-            "periodico",
-            "noticias",
-            "el liberal",
-            "argentina",
-            "ultimo momento",
-            "diario",
-            "santiago del estero"
-        ],
-        "creator": [
-            "f autor"
-        ],
-        "language": "spanish",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
         "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-19 15:50:41",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:22:45",
-        "image_url": "https://www.elliberal.com.ar/img/publicaciones/2026/07/19/alta/2204278.webp",
-        "video_url": null,
-        "source_id": "elliberal",
-        "source_name": "El Liberal",
-        "source_priority": 1699418,
-        "source_url": "https://www.elliberal.com.ar",
-        "source_icon": null,
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "历史榜单：随阿根廷国家队两夺世界杯的18名球员",
-        "description_zh": "在 2026 年世界杯决赛对阵西班牙队的比赛中，莱昂内尔·梅西 (Lionel Messi) 和斯卡洛内塔队的其他 16 名成员与丹尼尔·帕萨雷拉 (Daniel Passarella) 一起成为唯一两届世界冠军阿根廷足球运动员。"
-    },
-    {
-        "article_id": "fd74cc62fc8fd5ff034ab6a430402aa1",
-        "link": "https://www.infobae.com/guatemala/2026/07/19/guatemala-asume-la-presidencia-de-la-red-iberoamericana-de-directores-y-directoras-de-biodiversidad-por-dos-anos/",
-        "title": "Guatemala asume la presidencia de la Red Iberoamericana de Directores y Directoras de Biodiversidad por dos años",
-        "description": "El encuentro de tres días consolidó a la red de directores y directoras de biodiversidad, con sesiones plenarias, talleres y mesas de diálogo para acordar retos compartidos, coordinar respuestas y reforzar la cooperación",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "guatemala",
-            "iberbio",
-            "gobierno de guatemala",
-            "bernardo arévalo",
-            "conap guatemala"
-        ],
-        "creator": [
-            "sayda galicia"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "colombia",
-            "united states of america"
+            "brazil"
         ],
         "category": [
             "top",
-            "environment"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-19 15:50:40",
+        "pubDate": "2026-07-20 15:21:59",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:01:48",
-        "image_url": "https://www.infobae.com/resizer/v2/INUV6NYRJRCOPAKRFNAPSPUORI.jpg?auth=d96aa94253745388c7848499092209521682933bcd9b2d7939ae6e263659e1ba&smart=true&width=2048&height=1365",
+        "fetched_at": "2026-07-20 16:10:25",
+        "image_url": "https://ogcss.infoglobo.com.br/9876543210/img/oglobo.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "oglobo_globo",
+        "source_name": "O Globo",
+        "source_priority": 93485,
+        "source_url": "https://oglobo.globo.com",
+        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -220,37 +131,117 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "危地马拉担任伊比利亚美洲生物多样性主任网络主席，任期两年",
-        "description_zh": "为期三天的会议巩固了生物多样性主任网络，通过全体会议、研讨会和对话桌就共同挑战达成一致，协调应对措施并加强合作"
+        "title_zh": "福兹·优素福·斯卡夫 (Fauze Youssef Skaff) 表示，决定公寓耐久性的因素在于地下",
+        "description_zh": "坎皮纳斯行政区集中了 2026 年第一季度推出的 2,765 个地块，相当于 Brain Inteligencia Estratégica 为 AELO (Associação das Empresas de Loteamento Urbano) 和 Sec 进行的调查的圣保罗 81 个城市中推出的所有地块的 38%"
     },
     {
-        "article_id": "1fb143b0e9e2bdcf829b06d8a00c4ea7",
-        "link": "https://elintransigente.com/2026/07/el-gobierno-no-cumplio-la-meta-fiscal-del-primer-semestre-con-el-fmi-y-ahora-debera-pedir-un-waiver/",
-        "title": "El Gobierno no cumplió la meta fiscal del primer semestre con el FMI y ahora deberá pedir un waiver",
-        "description": "El déficit registrado en junio dejó al Ejecutivo por debajo del objetivo acordado con el Fondo Monetario Internacional y lo obligará a pedir un waiver. The post El Gobierno no cumplió la meta fiscal del primer semestre con el FMI y ahora deberá pedir un waiver appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
+        "article_id": "93897bf22bad9b77095d3f16cbec1c28",
+        "link": "https://valor.globo.com/politica/noticia/2026/07/20/renan-santos-elogia-ciro-gomes-aps-sinalizao-de-possvel-apoio.ghtml",
+        "title": "Renan Santos elogia Ciro Gomes após sinalização de possível apoio",
+        "description": "O pré-candidato à Presidência da República pelo Missão, Renan Santos, reagiu às declarações do ex-governador do Ceará e pré-candidato ao governo do Estado Ciro Gomes (PSDB) sobre a possibilidade de apoiá-lo nas eleições de 2026. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-20 15:21:59",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-20 15:32:23",
+        "image_url": "https://s2-valor.glbimg.com/1kt8goDM0_uq-BpI0ZazK3UNkEA=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/f/X/LOnrKTSOWmvTbfjuFtSw/renan-santos-partido-missao-2.jpg",
+        "video_url": null,
+        "source_id": "valor_globo",
+        "source_name": "Valor Globo",
+        "source_priority": 2786,
+        "source_url": "https://valor.globo.com",
+        "source_icon": "https://n.bytvi.com/valor_globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "雷南·桑托斯在表示可能支持后赞扬西罗·戈麦斯",
+        "description_zh": "米桑共和国总统预候选人雷南·桑托斯 (Renan Santos) 对塞阿拉州前州长、州政府预候选人西罗·戈麦斯 (PSDB) 关于在 2026 年选举中支持他的可能性的声明做出了回应。订阅者的独家文章。拥有完全访问权限"
+    },
+    {
+        "article_id": "f4c0ee50b2fe4f3dd12df71955a0a8c0",
+        "link": "https://www.lance.com.br/corinthians/corinthians-define-datas-para-quitar-direitos-de-imagem.html",
+        "title": "Osmar Stabile, presidente do Corinthians (Foto: Peter Leone/Ofotográfico/Folhapress)",
+        "description": "O Corinthians deve quitar, nesta segunda-feira (20), os direitos de imagem dos jogadores referentes ao mês de junho.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "javier milei",
-            "fmi",
-            "gobierno nacional",
-            "déficit fiscal"
+            "update_me",
+            "futebol nacional",
+            "ia",
+            "corinthians"
         ],
         "creator": [
-            "rodolfonasif"
+            "guilherme lesnok"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-20 15:21:52",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-20 15:34:05",
+        "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,format=webp/uploads/2026/07/Osmar-Stabile-scaled.jpeg",
+        "video_url": null,
+        "source_id": "lance",
+        "source_name": "Lance!",
+        "source_priority": 12891,
+        "source_url": "https://www.lance.com.br",
+        "source_icon": "https://n.bytvi.com/lance.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Osmar Stabile，科林蒂安俱乐部主席（照片：Peter Leone/Ofotography/Folhapress）",
+        "description_zh": "科林蒂安队必须在本周一（20 日）还清球员六月份的肖像权。"
+    },
+    {
+        "article_id": "3afed038e57cd2bbeb185bcc2078fa80",
+        "link": "https://elintransigente.com/2026/07/gustavo-mendez-acusacion-wanda-nara-demanda/",
+        "title": "“Se fue a la mi....”: la respuesta de Gustavo Méndez a la acusación de Wanda Nara",
+        "description": "El desgarrador llanto del periodista The post “Se fue a la mi....”: la respuesta de Gustavo Méndez a la acusación de Wanda Nara appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "gustavo méndez",
+            "escándalo",
+            "wanda nara"
+        ],
+        "creator": [
+            "lucía gianninoto"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "business",
+            "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-19 15:50:37",
+        "pubDate": "2026-07-20 15:21:50",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 15:52:48",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/05/Diseno-sin-titulo-2026-05-30T115744.420.png?fit=1200%2C680&quality=95&ssl=1",
+        "fetched_at": "2026-07-20 15:24:43",
+        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/07/wanda-nara-gustavo-mendez.webp?fit=1200%2C675&quality=95&ssl=1",
         "video_url": null,
         "source_id": "elintransigente",
         "source_name": "El Intransigente",
@@ -264,222 +255,88 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "政府没有达到国际货币基金组织第一学期的财政目标，现在必须请求豁免",
-        "description_zh": "六月份出现的赤字使执行机构未能达到与国际货币基金组织商定的目标，并将迫使其请求豁免。 《政府没有达到国际货币基金组织第一学期的财政目标，现在必须请求豁免》一文首先出现在 El Intransigente 上"
+        "title_zh": "“他下地狱了……”：古斯塔沃·门德斯对旺达·娜拉指控的回应",
+        "description_zh": "记者心碎的呼喊 “他下地狱了……”：古斯塔沃·门德斯对万达·娜拉指控的回应首先出现在《El Intransigente：来自阿根廷和世界的实时最新新闻》上。"
     },
     {
-        "article_id": "0aa309aed0c42fe6ccf1bd9fd882d810",
-        "link": "https://flipr.com.ar/nacionales/baenegocios/final-del-mundial-2026-como-funcionara-el-transporte-publico-en-el-amba-durante-el-partido-entre-argentina-y-espana/",
-        "title": "Final del Mundial 2026: cómo funcionará el transporte público en el AMBA durante el partido entre Argentina y España",
-        "description": "Colectivos con modificaciones, trenes con servicio de domingo y subte operativo: las empresas anunciaron cómo será la circulación durante el...",
+        "article_id": "f1ba5240ee09477c8eb550a7723fa359",
+        "link": "https://contilnetnoticias.com.br/editais-concursos/10-licoes-da-copa-do-mundo-2026-para-concursos-publicos/",
+        "title": "10 lições da Copa do Mundo 2026 para concursos públicos",
+        "description": "O encerramento do ciclo de competições de seleções internacionais direciona os olhares de milhões de torcedores para o ápice do rendimento físico e estratégico. Nos gramados, a conquista da taça exige mais do que talento individual, demandando planejamento de longo prazo, resiliência diante de adversidades e execução cirúrgica de metodologias trabalhadas exaustivamente nos bastidores. Para a comunidade de estudantes que almeja uma vaga definitiva no funcionalismo público, a jornada rumo à estabilidade guarda semelhanças profundas com a preparação de uma equipe de elite. A Base do Sucesso: A conquista de metas audaciosas — seja levantar o troféu mundial ou assinar...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "selección argentina"
+            "concursos",
+            "copa do mundo"
         ],
         "creator": [
-            "bae negocios"
+            "redação contilnet; q concursos; folha dirigida"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-07-19 15:50:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:15:15",
-        "image_url": "https://flipr.com.ar/wp-content/uploads/2025/10/IMG_0173.jpeg",
-        "video_url": null,
-        "source_id": "flipr_ar",
-        "source_name": "Flipr.news",
-        "source_priority": 459507,
-        "source_url": "https://flipr.com.ar",
-        "source_icon": "https://n.bytvi.com/flipr_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "2026 年世界杯决赛：阿根廷与西班牙比赛期间 AMBA 公共交通将如何运作",
-        "description_zh": "经过改装的巴士、周日服务的火车和运营的地铁：各公司宣布了......"
-    },
-    {
-        "article_id": "2c43963f201b19981bccfc7ad9bc9521",
-        "link": "https://www.perfil.com/noticias/sociedad/fe-lluvia-y-camisetas-la-multitudinaria-procesion-de-los-fieles-de-san-expedito-que-pidieron-el-triunfo-de-argentina.phtml",
-        "title": "Fe, lluvia y camisetas: la multitudinaria procesión de los fieles de San Expedito, que pidieron el triunfo de Argentina",
-        "description": "Miles de fieles colmaron la parroquia de Balvanera para agradecer al patrono de las causas urgentes y dejar un rezo especial para el equipo de Scaloni. La coincidencia con la camiseta 19 de Messi y el recuerdo de Maradona. Leer más",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "selección argentina",
-            "final mundial 2026",
-            "san expedito"
-        ],
-        "creator": [
-            "maría eugenia godoy"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "politics",
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-19 15:50:34",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:38:00",
-        "image_url": "https://fotos.perfil.com/2026/07/19/trim/540/304/san-expedito-19072026-2286200.jpg",
-        "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "信仰、雨水和T恤：圣埃佩迪托信徒的大规模游行，他们祈求阿根廷的胜利",
-        "description_zh": "数千名信徒聚集在巴尔瓦内拉教区，感谢紧急事业的守护神，并为斯卡罗尼团队留下特别的祈祷。与梅西的19号球衣和马拉多纳的记忆不谋而合。阅读更多"
-    },
-    {
-        "article_id": "e0ebefd455c93b42b7eaca73a47ab630",
-        "link": "https://www.infobae.com/espana/deportes/2026/07/19/borja-iglesias-se-queja-del-elevado-precio-de-las-entradas-del-mundial-2026-es-una-verguenza/",
-        "title": "Borja Iglesias se queja del elevado precio de las entradas de la final del Mundial 2026 en Nueva York: “Es una vergüenza”",
-        "description": "Pueden ir desde 7.000 a 50.000 euros y la reventa alcanza los 90.000",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "españa-deportes",
-            "mundial 2026",
-            "precios españa",
-            "españa-noticias",
-            "borja iglesias",
-            "selección española mundial 2026"
-        ],
-        "creator": [
-            "marcos montalbán"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "colombia",
-            "united states of america"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-19 15:50:31",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:01:48",
-        "image_url": "https://www.infobae.com/resizer/v2/TUW5FXMVB5H5JBOKHXKNZCB42E.jpg?auth=b49eb06004ff1953b3294b6c8251b614a7125f5a37b5e66374d7c312279f0e31&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "博尔哈·伊格莱西亚斯抱怨2026年纽约世界杯决赛门票价格过高：“真是可惜”",
-        "description_zh": "售价从 7,000 欧元到 50,000 欧元不等，转售量达到 90,000 欧元"
-    },
-    {
-        "article_id": "9a62739050672f8daa8eafd7478e6c6f",
-        "link": "https://www.laopinionsemanario.com.ar/noticia/tengo-todo-en-regla-y-me-dejaron-sin-luz-el-drama-de-una-vecina-afectada-por-el-corte-de-luz-en-barrio-azar",
-        "title": "“Tengo todo en regla y me dejaron sin luz”: el drama de una vecina afectada por el corte de luz en barrio Azar",
-        "description": "Lorena Rondán denunció que la Cooperativa le interrumpió el suministro eléctrico sin previo aviso, pese a ser propietaria del lote, tener medidor a su nombre y encontrarse al día con el servicio. Aseguró que el corte responde a un conflicto con el desarrollador del barrio y anticipó que inició reclamos ante el OCEBA.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "barrio azar",
-            "corte de luz",
-            "quejas de vecinos",
-            "cabaña",
-            "emprendimiento",
-            "scazzariello",
-            "lorena rondán"
-        ],
-        "creator": [
-            "la opinión semanario"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
             "top",
-            "crime"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-07-19 15:50:16",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:16:03",
-        "image_url": "https://opinionsemanariocdn.eleco.com.ar/media/2026/07/barrio_azar_lorena_rondan.webp",
-        "video_url": "https://www.laopinionsemanario.com.ar/noticia/tengo-todo-en-regla-y-me-dejaron-sin-luz-el-drama-de-una-vecina-afectada-por-el-corte-de-luz-en-barrio-azar",
-        "source_id": "laopinionsemanario_ar",
-        "source_name": "Las Últimas Noticias De San Pedro | La Versión Ori",
-        "source_priority": 517006,
-        "source_url": "https://www.laopinionsemanario.com.ar",
-        "source_icon": "https://n.bytvi.com/laopinionsemanario_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“我一切都井井有条，他们让我断电了”：阿扎尔社区一位受停电影响的邻居的戏剧",
-        "description_zh": "洛雷娜·隆丹 (Lorena Rondán) 报告称，合作社在没有事先通知的情况下中断了她的电力供应，尽管她是该地块的所有者，在她的名下有一个电表，并且随时了解最新的服务。他保证，此次削减是为了应对与附近开发商的冲突，并预计它将开始"
-    },
-    {
-        "article_id": "1cfa6aaa7b679d70d8380af3dcf5fa81",
-        "link": "https://www.elporvenir.mx/deportes/isaac-queda-tercero-en-etapa-15-del-tour-de-francia/1007651",
-        "title": "Isaac queda tercero en etapa 15 del Tour de Francia",
-        "description": "El mexicano, miembro del equipo árabe UAE, compitió en un exigente recorrido de alta montaña de 183 kilómetros",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "uae",
-            "isaac del toro",
-            "tour de francia"
-        ],
-        "creator": [
-            "alberto cant&uacute;"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-19 15:51:00",
+        "pubDate": "2026-07-20 15:21:49",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:46:47",
-        "image_url": "https://blob.elporvenir.mx/images/2026/07/19/deltoro-1e764de8-focus-0.04-0.44-960-690.jpg",
+        "fetched_at": "2026-07-20 15:42:18",
+        "image_url": "https://contilnetnoticias.com.br/wp-content/uploads/2026/07/Copa-do-Mundo.avif",
         "video_url": null,
-        "source_id": "elporvenir_mx",
-        "source_name": "El Porvenir",
-        "source_priority": 589407,
-        "source_url": "https://elporvenir.mx",
-        "source_icon": "https://n.bytvi.com/elporvenir_mx.jpg",
+        "source_id": "contilnetnoticias",
+        "source_name": "Contilnet Notícias",
+        "source_priority": 155904,
+        "source_url": "https://contilnetnoticias.com.br",
+        "source_icon": "https://n.bytvi.com/contilnetnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "2026 年世界杯公开招标的 10 个教训",
+        "description_zh": "国际球队比赛周期的结束，将数百万球迷的目光引向了身体和战略表现的巅峰。在球场上，赢得奖杯需要的不仅仅是个人天赋，还需要长期规划、面对困难时的韧性"
+    },
+    {
+        "article_id": "ffe6d28d23aea189e063ae79cd5405f3",
+        "link": "https://atarde.com.br/educacao/escola-de-camacari-e-revitalizada-e-ganha-estrutura-modernizada-1395897",
+        "title": "Escola de Camaçari é revitalizada e ganha estrutura modernizada",
+        "description": "A Escola Municipal Santo Antônio, localizada na comunidade de Machadinho, em Camaçari, na Região Metropolitana de Salvador (RMS), passou por uma ampla revitalização estrutural. A unidade foi entregue na manhã desta segunda-feira, 20, e irá beneficiar diretamente os 307 estudantes matriculados na unidade que tem como objetivo oferecer um ambiente mais confortável, seguro e adequado às atividades de ensino e aprendizagem.A diretora da unidade, Verônica Morais Vieira, destacou o impacto das melhorias para toda a comunidade escolar.\"Há muito tempo essa escola não recebia uma intervenção estrutural dessa dimensão. Foram melhorias muito importantes, principalmente na Sala dos Professores e na ampliação da cozinha, que agora oferece muito mais conforto e melhores condições de trabalho para toda a equipe. É uma conquista que fortalece o ambiente escolar e beneficia diretamente a todos\", afirmou. Leia Também: EDUCAÇÃO Escola quilombola é requalificada na zona rural de Alagoinhas EDUCAÇÃO Escolas da Bahia têm sete dias para se inscrever no Prêmio EcoInovar PREPARAÇÃO Escola de Salvador cria cartilha para redação nota mil no Enem Principais melhorias realizadas:Revitalização completa da cozinha;Instalação de novos revestimentos cerâmicosBancadas em granito e ampliação das janelasAmpliação e reorganização da despensaReforma e climatização da Sala dos ProfessoresReestruturação completa do sistema de esgotoSubstituição da rede elétricaInstalação de novas calhas para drenagem das águas pluviaisCobertura em policarbonato entre os blocos de salasAdequações na secretariaPintura geral da unidade. 1 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 2 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 3 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 4 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 5 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 6 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 7 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 8 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 9 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 10 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 11 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 12 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 13 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 14 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 15 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 16 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 17 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 18 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari Além das intervenções estruturais, a unidade também recebeu novos equipamentos e materiais didáticos, contribuindo para um ambiente mais adequado às atividades escolares.A merendeira Rosalina Santana, que trabalha na escola há mais de 20 anos, comemorou a renovação da cozinha.\"Estou muito feliz em ver essa cozinha renovada. Trabalho aqui há mais de 20 anos e essa melhoria era um sonho antigo de todos nós. Agora temos um espaço muito mais bonito, organizado e adequado para preparar a alimentação das crianças com ainda mais cuidado\", disse.Os estudantes também aprovaram a nova estrutura. Aluno do 4o ano, Davi Reis Sena, de 9 anos, afirmou que o ambiente ficou mais acolhedor.\"Eu gostei muito porque a escola ficou mais bonita. Eu amo estudar português, agora vou gostar ainda mais. Achei tudo muito legal\", comentou.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "escola santo antônio camaçari",
+            "melhorias na rede de ensino",
+            "escola municipal camaçari reforma",
+            "comunidade de machadinho",
+            "infraestrutura escolar",
+            "revitalização de escola em machadinho",
+            "educação municipal camaçari"
+        ],
+        "creator": [
+            "vitória sacramento"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "education",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-20 15:21:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-20 18:38:07",
+        "image_url": "https://cdn.atarde.com.br/img/Artigo-Destaque/1390000/escola-de-camacari-e-revitalizada-e-ganha-estrutur0139589700202607201521.jpg?xid=7146943",
+        "video_url": null,
+        "source_id": "atarde",
+        "source_name": "A Tarde",
+        "source_priority": 57528,
+        "source_url": "https://www.atarde.com.br",
+        "source_icon": "https://n.bytvi.com/atarde.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -487,24 +344,224 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "艾萨克在环法自行车赛第 15 赛段获得第三名",
-        "description_zh": "墨西哥人是阿联酋阿拉伯队的成员，参加了全长183公里的高山赛道"
+        "title_zh": "卡马萨里学校焕然一新并拥有现代化的结构",
+        "description_zh": "圣安东尼奥市政学校位于萨尔瓦多大都市区 (RMS) 卡马萨里的马查迪尼奥社区，经历了广泛的结构复兴。该单元已于本周一20日上午交付，将直接惠及就读的307名学生"
     },
     {
-        "article_id": "7bb6ace933fdfc6528e3a6c4c29f81df",
-        "link": "https://oem.com.mx/elsoldetampico/local/he-sido-amenazado-de-muerte-director-de-la-academia-militarizada-doenitz-teme-por-su-seguridad-31196973",
-        "title": "“He sido amenazado de muerte”; director de la Academia Militarizada Doenitz teme por su seguridad",
-        "description": "Jorge Luis Ponce Ortega ha recibido amenazas de muerte en redes sociales y pidió esperar el resultado de las investigaciones sobre el fallecimiento de Dafne",
+        "article_id": "b002001ba5bd02370a12be7b21ecd9af",
+        "link": "https://www.diarioelzondasj.com.ar/360750-un-choque-multiple-en-libertador-y-catamarca-dejo-dos-heridos-y-complico-el-transito",
+        "title": "Un choque múltiple en Libertador y Catamarca dejó dos heridos y complicó el tránsito",
+        "description": "Un Fiat Siena rojo embistió a tres vehículos que aguardaban el semáforo en avenida Libertador y calle Catamarca. Bomberos debieron rescatar a dos ocupantes del rodado, mientras la Policía intenta establecer cómo ocurrió el siniestro.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "el zonda"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-20 15:21:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-20 15:51:02",
+        "image_url": "https://www.diarioelzondasj.com.ar/content/bucket/3/396923.jpg",
+        "video_url": null,
+        "source_id": "diarioelzondasj_ar",
+        "source_name": "El Zonda",
+        "source_priority": 1206421,
+        "source_url": "https://www.diarioelzondasj.com.ar",
+        "source_icon": "https://n.bytvi.com/diarioelzondasj_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "解放者城和卡塔马卡发生多起车祸，造成两人受伤，交通复杂",
+        "description_zh": "一辆红色菲亚特锡耶纳撞上了解放者大道和卡塔马卡街等待红绿灯的三辆汽车。消防队员必须救出车上的两名乘客，而警方则试图确定事故是如何发生的。"
+    },
+    {
+        "article_id": "2ecb05e32bf66b97a7b358b4b4c7e7de",
+        "link": "https://contilnetnoticias.com.br/universo-pop/gracyanne-faltara-a-evento-de-samba-com-viviane-araujo-entenda-motivo/",
+        "title": "Gracyanne faltará a evento de samba com Viviane Araújo; entenda",
+        "description": "Rainha de bateria da União da Ilha revelou em conversa exclusiva que desfalcará a escola no evento de sábado por conta de uma viagem de férias com o namorado no...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "madero",
-            "escuelas privadas",
-            "tamaulipas",
-            "fiscalía general de justicia",
-            "ciudad madero"
+            "entenda motivo"
         ],
         "creator": [
-            "juan hernández"
+            "redação contilnet"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-20 15:21:39",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-20 15:42:18",
+        "image_url": "https://contilnetnoticias.com.br/wp-content/uploads/2026/07/gracyanne-1200x675.webp",
+        "video_url": null,
+        "source_id": "contilnetnoticias",
+        "source_name": "Contilnet Notícias",
+        "source_priority": 155904,
+        "source_url": "https://contilnetnoticias.com.br",
+        "source_icon": "https://n.bytvi.com/contilnetnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Gracyanne 将缺席与 Viviane Araújo 的桑巴舞比赛；理解",
+        "description_zh": "Union da Ilha 鼓皇后在一次独家谈话中透露，由于与男友在......度假，她将缺席周六活动的学校。"
+    },
+    {
+        "article_id": "6ad16ee8a8983b50dc2da48cc1bbc376",
+        "link": "https://www.elmanana.com/tamaulipas/matamoros/avances-en-investigacion-muerte-dafne-en-tamaulipas/6163074",
+        "title": "Avances en investigación muerte Dafne en Tamaulipas",
+        "description": "El Ejecutivo estatal garantizó el acompañamiento institucional a la familia de la víctima y afirmó que el lamentable suceso no quedará impune",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "muerte menor ciudad madero",
+            "resultados investigaci&#243;n muerte dafne",
+            "am&#233;rico villarreal anaya declaraciones",
+            "fiscal general tamaulipas avances"
+        ],
+        "creator": [
+            "miguel jim&eacute;nez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-20 15:22:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-20 20:43:53",
+        "image_url": "https://blob.elmanana.com/images/2026/07/20/crop-w702-h586-8b84ea19-145f-418a-979b-88018090e421-00c60b53.jpg",
+        "video_url": null,
+        "source_id": "elmanana",
+        "source_name": "Últimas Noticias - El Mañana De Reynosa",
+        "source_priority": 258494,
+        "source_url": "https://www.elmanana.com",
+        "source_icon": "https://n.bytvi.com/elmanana.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "塔毛利帕斯州达芙妮死亡调查取得进展",
+        "description_zh": "州行政部门保证向受害者家属提供机构支持，并确认这一不幸事件不会逃脱惩罚。"
+    },
+    {
+        "article_id": "ee43826b8bfe8291ff965d5068b06bfb",
+        "link": "https://diariodelcauca.com.co/fenomeno-del-nino-cinco-recomendaciones-para-un-consumo-mas-eficiente/",
+        "title": "Fenómeno del Niño: Cinco recomendaciones para un consumo más eficiente",
+        "description": "Por el Fenómeno del Niño se recomienda revisiones periódicas del cableado, evitar sobrecargas y utilizar materiales eléctricos certificados. La entrada Fenómeno del Niño: Cinco recomendaciones para un consumo más eficiente se publicó primero en Diario del Cauca .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "yhancy burgos"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "health",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-20 15:21:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-20 15:50:48",
+        "image_url": "https://diariodelcauca.com.co/wp-content/uploads/2026/07/image-111.jpg",
+        "video_url": null,
+        "source_id": "diariodelcauca_co",
+        "source_name": "Diario Del Cauca",
+        "source_priority": 994611,
+        "source_url": "https://diariodelcauca.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelcauca_co.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "厄尔尼诺现象：提高消费效率的五项建议",
+        "description_zh": "由于厄尔尼诺现象，建议定期检查接线，避免过载并使用经过认证的电气材料。 《儿童现象：提高消费效率的五项建议》首先发表在《Diario del Cauca》上。"
+    },
+    {
+        "article_id": "e072bb69f0f11c0091c765ead4ad3606",
+        "link": "https://www.marca.com/tiramillas/cine/2026/07/20/todos-secretos-primer-trailer-vengadores-doomsday-reencuentro-thor-capitan-america-profesor-x-magneto-pelea-doctor-doom.html",
+        "title": "Todos los secretos del primer tráiler de ‘Vengadores: Doomsday’: el reencuentro de Thor y Capitán América, el Profesor X con Magneto, la pelea con Doctor Doom...",
+        "description": "La película llegará a las salas de cine el 18 de diciembre de 2026",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "todos",
+            "vengadores",
+            "secretos",
+            "primer",
+            "tráiler"
+        ],
+        "creator": [
+            "ramón garcia parrilla"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "science"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-20 15:21:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-20 15:34:21",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/07/20/6a5e3c141af96.jpeg",
+        "video_url": null,
+        "source_id": "marca",
+        "source_name": "Marca Claro",
+        "source_priority": 426,
+        "source_url": "https://www.marca.com",
+        "source_icon": "https://n.bytvi.com/marca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "《复仇者联盟：世界末日》第一部预告片中的所有秘密：雷神和美国队长的重聚、X 教授与万磁王、与毁灭博士的战斗……",
+        "description_zh": "该片将于 2026 年 12 月 18 日上映"
+    },
+    {
+        "article_id": "007359a1d942fcfe3bda91a7ae9e0cc4",
+        "link": "https://diario.mx/estados-unidos/2026/jul/20/acusa-eu-a-cuba-de-decadas-de-espionaje-y-subversion-1128772.html",
+        "title": "Acusa EU a Cuba de décadas de espionaje y subversión",
+        "description": "Cuba ha liderado \"una campaña que se ha infiltrado en las más altas esferas del Gobierno de EU\", además de reclutar y formar \"generaciones de activistas\" y respaldar el \"terrorismo de izquierda\", señala informe",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "afp"
         ],
         "language": "spanish",
         "country": [
@@ -512,41 +569,38 @@
         ],
         "category": [
             "politics",
-            "top",
-            "crime"
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-19 15:51:00",
+        "pubDate": "2026-07-20 15:21:43",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 21:16:26",
-        "image_url": "https://oem.com.mx/elsoldetampico/img/31197106/1784476222/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-07-20 15:33:39",
+        "image_url": "https://diario.mx/core/dmx/assets/images/2026/07/20/afp-r4SLtajkR.jpg",
         "video_url": null,
-        "source_id": "elsoldetampico_mx",
-        "source_name": "Elsoldetampico Mx",
-        "source_priority": 458854,
-        "source_url": "https://www.elsoldetampico.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldetampico_mx.png",
+        "source_id": "diario",
+        "source_name": "El Diario",
+        "source_priority": 14955,
+        "source_url": "https://diario.mx",
+        "source_icon": "https://n.bytvi.com/diario.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“我受到死亡威胁”；邓尼茨军事学院院长担心自己的安全",
-        "description_zh": "豪尔赫·路易斯·庞塞·奥尔特加在社交网络上收到死亡威胁，要求等待达芙妮死亡调查结果"
+        "duplicate": true,
+        "title_zh": "美国指责古巴数十年的间谍和颠覆活动",
+        "description_zh": "报告称，古巴除了招募和培训“几代活动人士”并支持“左翼恐怖主义”外，还领导了“一场渗透到美国政府最高层的运动”。"
     },
     {
-        "article_id": "748b3d9d1bf77d5bde081fa2c8765f74",
-        "link": "https://www.eldiario.com.co/noticias/sismo-de-magnitud-51-sacude-el-centro-de-peru-y-deja-al-menos-un-muerto-y-diez-heridos/",
-        "title": "Sismo de magnitud 5,1 sacude el centro de Perú y deja al menos un muerto y diez heridos",
-        "description": "Un sismo de magnitud 5,1 registrado la noche del sábado en la región de Junín, en el centro de Perú, dejó al menos una persona muerta, diez heridas y daños en hospitales, viviendas y monumentos históricos, según el balance preliminar entregado por las autoridades peruanas. De acuerdo con el Instituto Geofísico del Perú (IGP), el [...]",
+        "article_id": "3abbb3c8d57dc6eba9c1ece662eadbe9",
+        "link": "https://caracol.com.co/2026/07/20/decretan-estado-de-catastrofe-en-chile-por-lluvias-que-han-dejado-muertos-y-cientos-de-damnificados/",
+        "title": "Decretan estado de catástrofe en Chile por lluvias que han dejado muertos y cientos de damnificados",
+        "description": "Un temporal de lluvias está afectando especialmente el norte de Chile desde el pasado 15 de julio.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "p8"
-        ],
+        "keywords": null,
         "creator": [
-            "m.h. editor web"
+            "afp"
         ],
         "language": "spanish",
         "country": [
@@ -557,16 +611,16 @@
             "environment"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-19 15:50:59",
+        "pubDate": "2026-07-20 15:21:35",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:14:05",
-        "image_url": "https://www.eldiario.com.co/wp-content/uploads/2026/07/PLANTILLA-PUBLICACIONES-1920-x-1080-px-31.jpg",
+        "fetched_at": "2026-07-20 15:36:28",
+        "image_url": "https://caracol.com.co/resizer/v2/MBGHSRKT5NFNDPZMTFOQTMKX5A.jpg?auth=71f4901bbd7b376ffafdc7006bf7b716a9a2281aa6d7971130ce5c7511147197&smart=true&width=3826&height=2206",
         "video_url": null,
-        "source_id": "eldiario",
-        "source_name": "El Diario",
-        "source_priority": 307799,
-        "source_url": "https://www.eldiario.com.co",
-        "source_icon": "https://n.bytvi.com/eldiario.png",
+        "source_id": "caracol",
+        "source_name": "Caracol Radio",
+        "source_priority": 30675,
+        "source_url": "https://caracol.com.co",
+        "source_icon": "https://n.bytvi.com/caracol.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -574,41 +628,127 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "秘鲁中部发生5.1级地震，造成至少1人死亡、10人受伤",
-        "description_zh": "根据秘鲁当局提供的初步平衡，周六晚上，秘鲁中部胡宁地区发生了 5.1 级地震，造成至少 1 人死亡、10 人受伤，医院、房屋和历史古迹受损。据他说"
+        "title_zh": "他们宣布智利进入灾难状态，因降雨造成死亡和数百人遇难",
+        "description_zh": "自去年7月15日以来，一场暴风雨对智利北部的影响尤其严重。"
     },
     {
-        "article_id": "fd74cc62fc8fd5ff034ab6a430402aa1",
-        "link": "https://www.infobae.com/guatemala/2026/07/19/guatemala-asume-la-presidencia-de-la-red-iberoamericana-de-directores-y-directoras-de-biodiversidad-por-dos-anos/",
-        "title": "Guatemala asume la presidencia de la Red Iberoamericana de Directores y Directoras de Biodiversidad por dos años",
-        "description": "El encuentro de tres días consolidó a la red de directores y directoras de biodiversidad, con sesiones plenarias, talleres y mesas de diálogo para acordar retos compartidos, coordinar respuestas y reforzar la cooperación",
+        "article_id": "6214e74bd9105b68e733f4962b859c88",
+        "link": "https://redgol.cl/apuestas/codigos/codigo-promocional-rojabet",
+        "title": "Código promocional Rojabet: REDVIP válido Julio 2026",
+        "description": "El código promocional Rojabet es REDVIP. Con este código obtendrás hasta 125% hasta $300.000 CLP + 30 apuestas gratis. En este artículo te enseñaremos todo lo que necesitas saber sobre el código promocional Rojabet, los bonos disponibles con el operador y cuáles son los deportes en los que puedes realizar tus pronósticos deportivos. ¿Cúal es el código promocional Rojabet para Chile? El código promocional Rojabet es REDVIP en 2026. Usando este código durante el registro puedes obtener un paquete de bienvenida de hasta 125% hasta $300.000CLP + 30 Free Spins . ¿Qué obtengo con el código promocional de Rojabet? El código promocional Rojabet te hará obtener el 125% de tu primer depósito con un tope máximo de $300.000 CLP + 30 free spins. Si haces un ingreso de $5.000 CLP automáticamente se verá reflejado en tu cuenta. Bono rojabet Detalle Código Promocional Rojabet Primer depósito 125% hasta $300.000CLP + 30 Free Spins REDVIP Tomada de Rojabet CL ¿Cómo uso el código promocional RojaBet? Para utilizar algunos de los códigos promocionales disponibles en RojaBet, tal como el bono de bienvenida Rojabet , lo primero que debes hacer es hacer tu cuenta en este popular sitio. Acá el registro en Rojabet paso a paso de cómo lograrlo: Ingresa en Rojabet En el extremo superior izquierdo de la pantalla haz clic en el botón de registro. Completa el formulario con los datos personales que son: email, nombre, apellido, fecha de nacimiento y género. Añade tus datos de Calle, Ciudad, Código Postal, País y un teléfono que luego servirá para realizar la verificación de la cuenta. Introduce el código promocional Rojabet si lo tienes para poderlo utilizar. Selecciona tu nombre de usuario el cual sólo debe contener caracteres latinos. Añade una contraseña, la cual no debes revelar a nadie. Así, una vez finalizado el proceso, se te enviará un correo o mensaje por teléfono para verificar que el usuario ya está activado. Oferta de bienvenida de Rojabet En el paquete para juegos de casino, al que tendrás acceso cuando realices tu primer depósito, podrás incrementar tus fondos en los primeros tres depósitos, además de obtener Free Spins. Las condiciones generales son las siguientes tras aplicar el código y poder utilizar el bono: Al realizar tu primer depósito, obtendrás el 125% del mismo por hasta 300.000 CLP, además de 30 giros gratis para tus juegos de casino. Descubre más detalles, mínimos y máximos para el bono, e información sobre el bono casino en la plataforma del operador para hacer tus apuestas de casino. Condiciones principales de la oferta de bienvenida de Rojabet Acá una lista de los puntos más importantes de los términos y condiciones de Rojabet: Promoción válida sólo para usuarios registrados correctamente en rojabet.cl o rojabet.com. La oferta es válida una vez por usuario, persona, dirección IP, correo electrónico, número de tarjeta de crédito/débito, cuenta bancaria o criterio que considere la Casa de apuestas. El monto máximo del bono por el 1er depósito a otorgar es de $300,000 CLP. En caso el usuario deposite un monto mayor a los $300,000 CLP solo podrá recibir como máximo los $300,000 CLP. Para acceder al bono, el primer depósito deberá ser como mínimo de 5.000 CLP o su equivalente en otra moneda (si el depósito es en dólares o euros, se aplica el tipo de cambio del día). Para poder retirar el dinero del bono, se deberá cumplir con el rollover. Es decir deberá jugarse la totalidad del bono 8x para deportes y 45x para casino Rojabet se reserva el derecho de poder solicitar al usuario una prueba de documento de identidad que permita la acreditación del bono solicitado. Rojabet considerará la acreditación del bono para usuarios que no tienen bonos vigentes o si el sistema no permite brindarlo por motivos ajenos al servicio (saldo negativo, validación de identidad, duplicidad, abuso de bonos, etc.). Oferta de bienvenida casino Rojabet Si eres amante de los juegos de casino y tragamonedas online, este bono está diseñado para ti. El bono de bienvenida de la plataforma de Rojabet sigue una estructura similar al de apuestas deportivas, ofreciendo grandes promociones y beneficios: Reclama el 125% de tu primer depósito y por hasta $300,000 CLP + 30 giros gratis, los cuales están sujetos a Términos y Condiciones que se deben cumplir como: Disponible para nuevos usuarios mayores de edad residentes en Chile. Depósito mínimo para activar el bono: $5,000 CLP. Requisito de apuesta (rollover): 45x. El bono debe ser aceptado dentro de los 7 días posteriores al primer depósito. Vigencia del bono: 15 días. Los primeros 20 giros gratis se acreditarán un día después de activar el bono. Descubre más detalles e información sobre el bono en la plataforma del operador. ¿Qué requisitos debo cumplir para apostar en Rojabet? Al ser un juego que involucra dinero y posibles pérdidas, casi todas las casas de apuestas tienen algunas restricciones en sus Términos y Condiciones que puedes ver con más información en sus respectivas webs. Asi, dentro de ellos destacan: Ser mayor de 18 años. Contar mínimo con un documento de identificación válido. Comprobar un domicilio estable. No utilizar dos usuarios en el mismo portal. Comparación de código promocional de Rojabet con otros códigos promocionales En general, el código promocional de bienvenida en Rojabet es bastante competitivo con el mercado actual comparado con otros códigos promocionales de Chile. Para compararlos, hicimos esta tabla con las diferentes ofertas disponibles actualmente: Casas de apuestas Bonos disponibles Depósito mínimo Cuota mínima Rollover Código promocional Rojabet 125% hasta $300,000 CLP + 30 giros gratis $5,000 CLP Apuesta simple o combinada con cuota de 1.70+ 8x ROJ... Betano 100% hasta $200.000 CLP gratis $5000 CLP Apuestas con cuotas de 1.65+ X5 REDVIP Jugabet 257% +$100.000 en apuesta gratis + 2 raspe y gana $5.000 CLP Apuesta simple con cuota 1.80+ Combinadas 2 o más eventos, cada una 1.60+ X7 REDVIP 1xbet 100% de tu primer depósito hasta $500.000 CLP $740 CLP Combinadas de 3 o más eventos con cuota de 1.40+ X5 REDBONO La devolución de hasta $300,000 CLP de apuesta es de los más altos disponibles en el mercado que puedes utilizar, superando a otros sitios como Betano y la plataforma de 1xBet , pero también hay que comparar cuáles son las condiciones que tienen para poder hacer retiro de esa bonificación luego de hacer las jugadas. En la plataforma de Rojabet tu primer depósito desde los 5.000 CLP te permite realizar apuestas flexibles, tras tus depósitos, puedes hacer apuestas combinadas o simples con una cuota mínima de 1.70 y un rollover de 8x. Esto es valorado según las Rojabet opiniones . Otras promociones de Rojabet Chile En un intento por fidelizar a sus jugadores Rojabet también ofrece promociones para usuarios ya registrados en su sitio web, y no sólo entregando bonos de primer depósito a quienes visitan por primera vez a este operador. Acá un listado de las principales ofertas o promociones disponibles en esta casa de apuestas: Bono de segundo depósito: Esta oferta te devuelve el 50% del segundo depósito, para lo que sólo debes aceptar el bono del 50%, este aparecerá en bonos activos. Debes tener el saldo a $0.00. Seguidamente haz tu depósito y completa una apuesta simple o combinada de cuota 2.0 o superior. Promoción Mala Racha: La promoción Mala Racha consiste en la devolución de un cashback de hasta 22.000 CLP para que puedas continuar realizando tus pronósticos deportivos. Para esto deberás haber perdido las últimas 5 apuestas de manera consecutiva y para conseguirlo deberás contactarte con el servicio de atención al cliente para reclamar esta oferta. Este tipo de promociones son las más destacadas en este sitio web que específicamente tiene como principales mercados el fútbol nacional y eventos internacional. Las opciones de los bonos al segundo y tercer depósito son, sin dudas, los más interesantes que podemos encontrar en RojaBet. Pros y contras del código promocional Rojabet Hablemos nuevamente del código promocional de RojaBet del 125% de tu primer depósito hasta $300,000 CLP. Si bien es competitivo en cuanto al tope máximo del mismo en comparación con otras casas de apuestas, es importante destacar que el tiempo disponible para jugar puede resultar poco coqueto para los jugadores nuevos. Al contar con apenas 7 días para utilizar el código de bienvenida hace qu e las jugadas a veces sean más bien forzadas , por eso deberás establecer una buena estrategia si eres de los que se están uniendo por primera vez en este sitio. Algo que sí es positivo es que l as cuotas de las apuestas no son elevadas ni su rollover parece descabellado en comparación con los otros sitios. En general se maneja en un mismo margen comparándolos con casas como 1xBet, Betano y Jugabet. Además de eso , la sumatoria de bonos al segundo y tercer depósito para jugadores nuevos es un plus así que lo destaca por sobre los otros sitios. Pros Contra Buen monto máximo de devolución Pocos días para utilizarlo Fácil de conseguir en el sitio web No cuenta con app móvil Flexible para apuestas simples y combinadas Experiencia personal con Rojabet Rojabet tiene un amplio apartado de deportes y cuotas para hacer tu apuesta, sobre todo en el fútbol. Si vas a jugar en vivo tendrás que tener en cuenta el Cashout que ofrece un portal como Rojabet. Sobre la experiencia de juego existen varios mercados, eventos disponibles, diferentes cuotas y deportes en vivo , sin tener nada que envidiarle a otros portales que tienen una mayor trayectoria en el mundo de las casas de apuestas. En cuanto al servicio al cliente Rojabet cuenta con una amplia variedad de plataformas para contactarlos en caso de algún inconveniente con una jugada, evento o si es que salta alguna duda en cuanto a los pronósticos realizados en ese operador. A pesar de no contar con una aplicación móvil, su página web oficial se adapta bien a las funcionalidades de Android y también para los sistemas iOS. Sería un punto positivo si la app Rojabet saliera rápido para que los jugadores tuviesen un rendimiento aún más rápido a la hora de navegar en este operador. Preguntas frecuentes sobre el código promocional Rojabet + ¿Cuál es el bono de bienvenida en Rojabet? El bono de bienvenida Rojabet permite que tras tus primeros depósitos, consigas consigas el 125% de ese valor hasta $300,000 CLP y, adicional, 30 free spins. + ¿Qué requisitos debo cumplir para liberar el bono? Las condiciones del bono exigen apostar el depósito 8 veces en cuotas mínimas de 1.70 en apuestas simples o combinadas. + ¿Quiénes pueden usar el código promocional Rojabet? Únicamente pueden emplear el código promocional Rojabet los usuarios que se registran por primera vez, mayores de 18 años con residencia en Chile. + ¿Hay un código sin depósito en Rojabet? No, para activar el código promocional Rojabet es imprescindible hacer un depósito mínimo en la cuenta.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "guatemala",
-            "iberbio",
-            "gobierno de guatemala",
-            "bernardo arévalo",
-            "conap guatemala"
+            "apuestas"
         ],
         "creator": [
-            "sayda galicia"
+            "cintia soto"
         ],
         "language": "spanish",
         "country": [
-            "argentina",
-            "mexico",
-            "colombia",
-            "united states of america"
+            "chile"
         ],
         "category": [
             "top",
-            "environment"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-19 15:50:40",
+        "pubDate": "2026-07-20 15:21:25",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:01:48",
-        "image_url": "https://www.infobae.com/resizer/v2/INUV6NYRJRCOPAKRFNAPSPUORI.jpg?auth=d96aa94253745388c7848499092209521682933bcd9b2d7939ae6e263659e1ba&smart=true&width=2048&height=1365",
+        "fetched_at": "2026-07-20 16:12:46",
+        "image_url": "https://media.redgol.cl/wp-content/uploads/sites/8/2024/03/21104839/codigo-promocional-rojabet-REDVIP-03-1200x740.jpg",
+        "video_url": null,
+        "source_id": "redgol_cl",
+        "source_name": "Red Gol",
+        "source_priority": 179990,
+        "source_url": "https://redgol.cl",
+        "source_icon": "https://n.bytvi.com/redgol_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Rojabet 促销代码：REDVIP 2026 年 7 月有效",
+        "description_zh": "Rojabet 促销代码是 REDVIP。使用此代码，您将获得高达 125% 的奖金，最高可达 $300,000 CLP + 30 个免费投注。在本文中，我们将教您有关 Rojabet 促销代码、运营商提供的奖金以及您可以参加哪些运动的所有信息。"
+    },
+    {
+        "article_id": "696cc88f12840a337a670ed30fac74d0",
+        "link": "https://www.las2orillas.co/el-equipo-economico-del-ex-presidente-duque-aterrizo-en-el-gobierno-del-tigre-y-el-mininterior-escogio-viceministro/",
+        "title": "El equipo económico del ex presidente Duque aterrizó en el gobierno del Tigre y el Mininterior escogió viceministro",
+        "description": "Altos funcionarios de José Manuel Restrepo como ministro de hacienda trabajaran con Miguel Gómez Martínez y un huilense será la mano derecha de Rodrigo Lara El artículo El equipo económico del ex presidente Duque aterrizó en el gobierno del Tigre y el Mininterior escogió viceministro fue publicado originalmente en Las2orillas.co: Historias, voces y noticias de Colombia . Copyrights Las2orillas.co",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "gobierno",
+            "josé manuel restrepo",
+            "espriella"
+        ],
+        "creator": [
+            "las dos orillas"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-20 15:21:25",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-20 15:35:54",
+        "image_url": "https://www.las2orillas.co/wp-content/uploads/2026/07/Congreso-1200-x-630-px.jpg",
+        "video_url": null,
+        "source_id": "las2orillas",
+        "source_name": "Las2orillas",
+        "source_priority": 23814,
+        "source_url": "https://www.las2orillas.co",
+        "source_icon": "https://n.bytvi.com/las2orillas.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "前总统杜克经济团队登陆蒂格雷政府 内政部选出副部长",
+        "description_zh": "担任财政部长的何塞·曼努埃尔·雷斯特雷波的高级官员将与米格尔·戈麦斯·马丁内斯合作，来自威拉的一名男子将成为罗德里戈·拉拉的得力助手。前总统杜克经济团队登陆蒂格雷政府、内政部推选副部长一文发表"
+    },
+    {
+        "article_id": "92834c761e124b1c7c14d0f35253bfb1",
+        "link": "https://www.infobae.com/america/ciencia-america/2026/07/20/por-primera-vez-logran-producir-celulas-similares-a-los-globulos-rojos-de-perros-en-el-laboratorio/",
+        "title": "Por primera vez, logran producir células similares a los glóbulos rojos de perros en el laboratorio",
+        "description": "Científicos japoneses reprogramaron células caninas. Cómo a partir de los resultados se podrían cambiar las transfusiones veterinarias y contribuir al desarrollo de productos sanguíneos para uso humano",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "edición genética",
+            "bancos de sangre",
+            "sangre",
+            "últimas noticias",
+            "células madre",
+            "salud canina",
+            "glóbulos rojos"
+        ],
+        "creator": [
+            "valeria román"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "argentina",
+            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "science"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-20 15:21:14",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-20 15:30:38",
+        "image_url": "https://www.infobae.com/resizer/v2/A6WTE3VCCZB2DE7N5GT6JBDUU4.png?auth=ea463bb975aae527c8b7c6d062ee0ece052377664a631d39220883ddfce57267&smart=true&width=1408&height=768",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -622,49 +762,42 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "危地马拉担任伊比利亚美洲生物多样性主任网络主席，任期两年",
-        "description_zh": "为期三天的会议巩固了生物多样性主任网络，通过全体会议、研讨会和对话桌就共同挑战达成一致，协调应对措施并加强合作"
+        "title_zh": "他们首次在实验室中成功生产出类似于狗红细胞的细胞",
+        "description_zh": "日本科学家对犬细胞进行了重新编程。研究结果如何改变兽医输血并有助于人类使用血液制品的开发"
     },
     {
-        "article_id": "15f55165c62a286327f413188be4771e",
-        "link": "https://www.milenio.com/internacional/madrilenos-no-cambian-rutina-y-pronostican-triunfo-final-mundial-2026",
-        "title": "Entre la calma y expectativa: Madrileños pronostican que España le ganará a Argentina",
-        "description": "Los españoles se preparan para vivir esta noche la final de la Copa del Mundo ante Argentina sin cambiar sus hábitos de cada domingo.",
+        "article_id": "568ec1ae3cebcb348411db4035137a31",
+        "link": "https://www.latercera.com/mundo/noticia/estados-unidos-confirma-el-inicio-de-las-operaciones-para-la-implementacion-de-zonas-piloto-en-libano/",
+        "title": "Estados Unidos confirma el inicio de las operaciones para la implementación de zonas piloto en Líbano",
+        "description": "El portavoz del Departamento de Estado, Tommy Pigott, sostuvo que “este hito es el resultado directo de las conversaciones mantenidas la semana pasada en Roma entre Israel y Líbano. Estados Unidos seguirá colaborando estrechamente con ambas partes para llevar a buen término la aplicación del acuerdo”.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "argentina  vs españa",
-            "final del mundial",
-            "madrid",
-            "españa",
-            "afición española",
-            "argentina",
-            "seleccion espanola",
-            "partido final mundial",
-            "mundial 2026",
-            "españa vs aregntina"
+            "israel",
+            "estados unidos",
+            "líbano"
         ],
         "creator": [
-            "josé antonio lópez"
+            "la tercera"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "chile"
         ],
         "category": [
-            "sports",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-19 15:50:36",
+        "pubDate": "2026-07-20 15:21:10",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 22:34:25",
-        "image_url": "https://cdn.milenio.com/uploads/media/2026/07/19/aficionados-seleccion-espana-reunen-mundial.jpg",
+        "fetched_at": "2026-07-20 15:36:19",
+        "image_url": "https://www.latercera.com/resizer/v2/23O35EH32BB6LIKTK6HKXQS33E.jpeg?auth=aa7b878c6f44eb883b37669d4a7d2fa44debb4990a35ec0dac6f91e8ab5861c7&smart=true&width=1590&height=960",
         "video_url": null,
-        "source_id": "milenio",
-        "source_name": "Milenio",
-        "source_priority": 10804,
-        "source_url": "https://www.milenio.com",
-        "source_icon": "https://n.bytvi.com/milenio.png",
+        "source_id": "latercera",
+        "source_name": "Latercera",
+        "source_priority": 32330,
+        "source_url": "https://www.latercera.com",
+        "source_icon": "https://n.bytvi.com/latercera.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -672,29 +805,21 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "冷静与期待之间：马德里人预测西班牙将击败阿根廷",
-        "description_zh": "西班牙人准备在不改变每周日习惯的情况下，体验今晚对阵阿根廷的世界杯决赛。"
+        "title_zh": "美国确认在黎巴嫩启动试验区实施行动",
+        "description_zh": "美国国务院发言人汤米·皮戈特表示，“这一里程碑是以色列和黎巴嫩上周在罗马举行会谈的直接结果。美国将继续与双方密切合作，以成功实施该协议。”"
     },
     {
-        "article_id": "13f2b30ae46e4c1bad88ae68d68aa2c3",
-        "link": "https://www.ejecentral.com.mx/nuestro-eje/manifestaciones-hoy-domingo-19-de-julio-en-cdmx-donde-y-a-que-hora-habra-marchas-y-bloqueos",
-        "title": "Manifestaciones hoy domingo 19 de julio en CDMX: ¿Dónde y a qué hora habrá marchas y bloqueos?",
-        "description": "Las movilizaciones sociales y eventos masivos previstos para este domingo serán principalmente en Paseo de la Reforma, Centro Histórico, Roma Norte, Coyoacán, Tlalpan, Benito Juárez, entre otros.",
+        "article_id": "e82763ddf33256a7448e4f870216370f",
+        "link": "https://novedadesdetabasco.com.mx/2026/07/20/columna-prospectiva-153/",
+        "title": "Columna: Prospectiva",
+        "description": "Por: Emilio de Ygartua M. El Estrecho de Ormuz y el Fin de la Tregua La frágil paz entre Washington y Teherán se desmorona nuevamente en un momento de máxima sensibilidad para la economía mundial. La reactivación de la tensión entre ambas capitales vuelve a sacudir a los mercados, reaviva los temores en torno al ...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "bloqueos hoy",
-            "paseo de la reforma bloqueos hoy",
-            "glorieta del ahuehuete",
-            "glorieta del ahuehuete hoy",
-            "paseo de la reforma hoy",
-            "alameda central",
-            "lago mayor chapultepec",
-            "azcapotzalco hoy",
-            "marchas hoy",
-            "manifestaciones cdmx"
+            "cat:local",
+            "type:post"
         ],
         "creator": [
-            "eje central"
+            "novedades"
         ],
         "language": "spanish",
         "country": [
@@ -705,16 +830,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-19 15:50:36",
+        "pubDate": "2026-07-20 15:21:06",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:13:33",
-        "image_url": "https://assets.ejecentral.com.mx/dims4/default/1df83d8/2147483647/strip/false/crop/1600x900+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fd4%2F88%2F360f74b749f2b2dd2590be417323%2Fangel-de-la-independencia.jpg",
+        "fetched_at": "2026-07-20 15:25:59",
+        "image_url": "https://novedadesdetabasco.com.mx/wp-content/uploads/2026/02/ChatGPT-Image-21-feb-2026-07_58_16.jpg",
         "video_url": null,
-        "source_id": "ejecentral_mx",
-        "source_name": "Ejecentral Mx",
-        "source_priority": 306830,
-        "source_url": "https://www.ejecentral.com.mx",
-        "source_icon": "https://n.bytvi.com/ejecentral_mx.jpg",
+        "source_id": "novedadesdetabasco_mx",
+        "source_name": "Novedades De Tabasco",
+        "source_priority": 3923723,
+        "source_url": "https://novedadesdetabasco.com.mx",
+        "source_icon": "https://n.bytvi.com/novedadesdetabasco_mx.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -722,175 +847,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "今天，星期日，7 月 19 日在 CDMX 举行示威活动：何时何地将举行游行和封锁？",
-        "description_zh": "计划于本周日举行的社会动员和大型活动将主要在改革大道、历史中心、北罗马、科约阿坎、特拉尔潘、贝尼托华雷斯等地举行。"
-    },
-    {
-        "article_id": "e0ebefd455c93b42b7eaca73a47ab630",
-        "link": "https://www.infobae.com/espana/deportes/2026/07/19/borja-iglesias-se-queja-del-elevado-precio-de-las-entradas-del-mundial-2026-es-una-verguenza/",
-        "title": "Borja Iglesias se queja del elevado precio de las entradas de la final del Mundial 2026 en Nueva York: “Es una vergüenza”",
-        "description": "Pueden ir desde 7.000 a 50.000 euros y la reventa alcanza los 90.000",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "españa-deportes",
-            "mundial 2026",
-            "precios españa",
-            "españa-noticias",
-            "borja iglesias",
-            "selección española mundial 2026"
-        ],
-        "creator": [
-            "marcos montalbán"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "colombia",
-            "united states of america"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-19 15:50:31",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:01:48",
-        "image_url": "https://www.infobae.com/resizer/v2/TUW5FXMVB5H5JBOKHXKNZCB42E.jpg?auth=b49eb06004ff1953b3294b6c8251b614a7125f5a37b5e66374d7c312279f0e31&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "博尔哈·伊格莱西亚斯抱怨2026年纽约世界杯决赛门票价格过高：“真是可惜”",
-        "description_zh": "售价从 7,000 欧元到 50,000 欧元不等，转售量达到 90,000 欧元"
-    },
-    {
-        "article_id": "7866ef001160a15ff04fabb35599df49",
-        "link": "https://vamoscruzazul.bolavip.com/noticias/haaland-y-bellingham-los-nuevos-apodos-del-plantel-de-cruz-azul-para-gabriel-fernandez",
-        "title": "“Haaland” y “Bellingham”: Los nuevos apodos del plantel de Cruz Azul para Gabriel Fernández",
-        "description": "En una señal positiva de convicencia en La Máquina, los jugadores re-bautizaron al Toro en las redes sociales. Gabriel Fernández es uno de los nombres del momento en Cruz Azul. Tanto por la expectativa por la definición de su futuro como por el gol anotado en la primera jornada, el delantero está en boca de todos en La Noria. Y en las últimas horas fue “rebautizado” por sus compañeros con dos nuevos curiosos apodos . El delantero uruguayo se lució en el debut ante Atlético de San Luis anotando un gol que contribuyó a darle la vuelta al marcador y quedarse con los tres puntos. A través de las redes sociales, el Toro lanzó un mensaje positivo hacia el futuro en el que pareció dar buenas señales sobre una continuidad. Y en dicha publicación en su cuenta de Instagram, los futbolistas de La Máquina le colocaron dos nuevos apodos al charrúa. “Jude Bellingham” y “Haaland” fueron los comentarios de futbolistas como Carlos Rodríguez, Luka Romero, Andrés Montaño, Amaury Morales y García. Los apodos de Cruz Azul para el Toro Fernández. (@toro_fernandez19) Los apodos de Cruz Azul para el Toro Fernández. (@toro_fernandez19) Los apodos de Cruz Azul para el Toro Fernández. (@toro_fernandez19) La explicación a los dos sobrenombres tiene diferentes motivos. Por el lado de la estrella de Inglaterra, el paralelismo tiene que ver con la similitud en el festej o a una de las figuras del Mundial. En relación al atacante noruego, también en tendencia tras la Copa del Mundo, el apodo es a modo de broma por haberse teñido el pelo de rubio . ¿Cómo está la situación del Toro Fernández con Cruz Azul? Luego de varias semanas y meses de negociación, las últimas horas parecieron inclinar la balanza en favor de una renovación del Toro Fernández y Cruz Azul . Adrián Esparza Oteo informó que las tratativas para extender el contrato evolucionan favorablemente. Luego de anotarle al Atlético de San Luis en la primera jornada, Gabriel Fernández publicó un mensaje para todos los cementeros en los que habló de lo que viene, en una posible señal de continuidad con la institución de La Noria. “ Era importantísimo empezar así . Sabíamos que iba a ser un partido muy difícil, pero con el trabajo de todo el equipo, el esfuerzo y la intensidad que buscamos mantener hasta el final, pudimos conseguir un triunfo muy importante. Hay que seguir por este camino. Vamos Cruz Azul “.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "apertura 2026",
-            "liga mx",
-            "gabriel fernández"
-        ],
-        "creator": [
-            "juan manuel marino"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-19 15:50:26",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:03:59",
-        "image_url": "https://media.bolavip.com/wp-content/uploads/sites/12/2026/07/19091633/toro-jam-2-e1784474214416-1200x740.jpg",
-        "video_url": null,
-        "source_id": "vamoscruzazul",
-        "source_name": "Vamos Azul",
-        "source_priority": 3554,
-        "source_url": "https://vamoscruzazul.bolavip.com",
-        "source_icon": "https://n.bytvi.com/vamoscruzazul.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“哈兰德”和“贝灵厄姆”：加布里埃尔·费尔南德斯为蓝十字队起的新绰号",
-        "description_zh": "球员们在社交媒体上为公牛重新施洗，这是拉马奎纳信念的积极迹象。加布里埃尔·费尔南德斯 (Gabriel Fernández) 是当时蓝色十字 (Cruz Azul) 的知名人物之一。无论是对自己未来定义的期待，还是第一天的进球，这名前锋都"
-    },
-    {
-        "article_id": "42688328475cb8c431b5d0f13d2d6207",
-        "link": "https://www.record.com.mx/historia/y-vozinha-santiago-mele-apunta-a-salir-de-rayados-rumbo-a-colo-colo-2026071915502638071",
-        "title": "¿Y Vozinha? Santiago Mele apunta a salir de Rayados rumbo a Colo Colo",
-        "description": "¿Y Vozinha? Santiago Mele apunta a salir de Rayados rumbo a Colo Colo",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-19 15:50:26",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 16:34:45",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "record",
-        "source_name": "Record",
-        "source_priority": 21395,
-        "source_url": "https://www.record.com.mx",
-        "source_icon": "https://n.bytvi.com/record.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "沃齐尼亚呢？圣地亚哥·梅莱打算离开拉亚多斯前往科洛科洛",
-        "description_zh": "沃齐尼亚呢？圣地亚哥·梅莱打算离开拉亚多斯前往科洛科洛"
-    },
-    {
-        "article_id": "7f3591d8eb43a89679ac0a17cb5a46d8",
-        "link": "https://www.elmostrador.cl/datos-utiles/2026/07/19/mal-genio-y-antojos-las-10-senales-de-que-estas-durmiendo-mal-sin-darte-cuenta/",
-        "title": "Mal genio y antojos: las 10 señales de que estás durmiendo mal sin darte cuenta",
-        "description": "Desde antojos descontrolados hasta parpadeos involuntarios en el Metro. Revisa las señales de alerta de tu cuerpo y los consejos de salud para revertirlo.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "datos útiles"
-        ],
-        "creator": [
-            "mesa de noticias de el mostrador"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "health"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-19 15:50:06",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-19 17:05:51",
-        "image_url": "https://media-front.elmostrador.cl/2026/05/Mal-genio-y-antojos-las-10-senales-de-que-estas-durmiendo-mal-sin-darte-cuenta.jpg",
-        "video_url": null,
-        "source_id": "elmostrador",
-        "source_name": "El Mostrador",
-        "source_priority": 30342,
-        "source_url": "https://www.elmostrador.cl",
-        "source_icon": "https://n.bytvi.com/elmostrador.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "脾气暴躁和食欲旺盛：这 10 个迹象表明您在不知不觉中睡眠质量不佳",
-        "description_zh": "从不受控制的渴望到地铁上不自觉的眨眼。检查你身体的警告信号和健康提示来扭转它。"
+        "title_zh": "专栏： 展望",
+        "description_zh": "作者：Emilio de Ygartua M. 霍尔木兹海峡与停战协议的结束 在世界经济最敏感的时刻，华盛顿和德黑兰之间脆弱的和平再次崩溃。两国首都之间紧张局势的重新激活再次震动了市场，重振了市场"
     }
 ]
