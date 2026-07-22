@@ -1,166 +1,36 @@
 [
     {
-        "article_id": "76b6e38bee2ddcb32fd52cdd7b3cf41c",
-        "link": "https://tribunadepetropolis.com.br/noticias/fifa-abre-investigacao-contra-argentina-apos-confusao-na-final-da-copa-do-mundo/",
-        "title": "Fifa abre investigação contra Argentina após confusão na final da Copa do Mundo",
-        "description": "A Fifa, segundo a Sky Sports, abriu uma investigação disciplinar para apurar os incidentes envolvendo integrantes da seleção argentina após a derrota por 1 a 0 para a Espanha na final da Copa do Mundo, disputada no último domingo. A entidade irá analisar os relatórios da arbitragem e as imagens da decisão antes de definir [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "por estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:22:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:47:04",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "世界杯决赛混乱后国际足联对阿根廷展开调查",
-        "description_zh": "据天空体育报道，国际足联在上周日举行的世界杯决赛中以 1-0 输给西班牙队后，对涉及阿根廷国家队成员的事件展开了纪律调查。实体将分析仲裁报告和图像"
-    },
-    {
-        "article_id": "36ea5e63fb5fd111888d24163b92d32c",
-        "link": "https://www.dgabc.com.br/Noticia/4336267/fifa-abre-investigacao-contra-argentina-apos-confusao-na-final-da-copa",
-        "title": "Fifa abre investigação contra Argentina após confusão na final da Copa",
-        "description": "Um dos principais casos sob análise é a expulsão de Leandro Paredes, que recebeu cartão vermelho depois do apito final por conduta violenta",
+        "article_id": "0ff2701edec14f014c0b18fde4fba18f",
+        "link": "https://www.ambito.com/espectaculos/rosalia-reposteo-un-polemico-video-mia-khalifa-el-triunfo-espana-y-estallaron-las-redes-n6301958",
+        "title": "Rosalía reposteó un polémico video de Mía Khalifa tras el triunfo de España y estallaron las redes",
+        "description": "La cantante española compartió un clip de Mía Khalifa celebrando la derrota de Argentina con un fragmento de \"La Perla\" y generó críticas entre sus fans.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "fifa",
-            "argentina",
-            "on line",
-            "ribeirão pires",
-            "são bernardo",
-            "d+",
-            "setecidades",
-            "economia",
-            "rio grande da serra",
-            "noticia",
-            "são caetano",
-            "grande abc",
-            "diadema",
-            "copa do mundo",
-            "diarinho",
-            "mauá",
-            "confusão",
-            "automóveis",
-            "turismo",
-            "abc"
+            "selección argentina",
+            "música"
         ],
         "creator": [
-            "agência estado"
+            "ámbito.com"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "argentina"
         ],
         "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:22:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 16:23:40",
-        "image_url": "https://www.dgabc.com.br/Imagens/Home/Index/2026720124651.jpg?altura=100",
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://n.bytvi.com/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "世界杯决赛混乱后国际足联对阿根廷展开调查",
-        "description_zh": "正在分析的主要案件之一是莱昂德罗·帕雷德斯被驱逐，他在终场哨响后因暴力行为而被红牌罚下"
-    },
-    {
-        "article_id": "6094b3dc0a108e2c6015fd9a0baa2397",
-        "link": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/07/20/o-que-decide-a-durabilidade-de-um-condominio-fica-sob-o-solo-diz-fauze-youssef-skaff-1.ghtml",
-        "title": "O que decide a durabilidade de um condomínio fica sob o solo, diz Fauze Youssef Skaff",
-        "description": "A região administrativa de Campinas concentrou 2.765 lotes lançados no primeiro trimestre de 2026, o equivalente a 38% de tudo o que foi lançado entre os 81 municípios paulistas pesquisados pela Brain Inteligência Estratégica para a AELO (Associação das Empresas de Loteamento Urbano) e o Secovi-SP. Foram 11 empreendimentos em três meses, o maior número entre todas as regiões administrativas analisadas. No agregado, o estado registrou 7.297 lotes em 27 empreendimentos no período, com retração de 19% na comparação anual, um recuo que não se distribuiu de forma homogênea: enquanto parte do mercado desacelerou, o eixo do interior manteve ritmo. A demanda ajuda a explicar a assimetria. Pesquisa da Brain apresentada pelo Secovi-SP em maio, cobrindo 42 cidades do interior paulista, da Baixada Santista e da Região Metropolitana, apontou que 49% dos brasileiros pretendem comprar um imóvel, sendo 29% em até um ano. É um patamar que empurra incorporadoras para terrenos maiores, mais baratos e mais distantes dos centros consolidados. O loteamento fechado e o condomínio de médio porte em cidade média deixaram de ser exceção e viraram o produto padrão de um ciclo inteiro. O que raramente entra no anúncio de lançamento é que a vida útil desses empreendimentos não é decidida na fase que aparece nas maquetes. Ela é decidida antes, quando o terreno ainda é terreno. Cortes, aterros, nivelamento, compactação do solo e controle de cotas definem as inclinações das vias internas, o comportamento do solo sob carga e as condições em que toda a infraestrutura subterrânea vai operar pelas décadas seguintes. A terraplanagem é a etapa em que o projeto de drenagem deixa de ser desenho e passa a ser topografia. E é justamente aí que o país tem um problema documentado. O Diagnóstico Temático do Sistema Nacional de Informações em Saneamento Básico mostra que apenas 40,44% dos municípios brasileiros possuem sistemas exclusivos de drenagem pluvial, e que 32,49% relataram não ter nenhum. Levantamento do Instituto Trata Brasil calcula que o aporte por habitante precisaria saltar dos atuais R$43,79 para R$117,01 para universalizar o serviço até 2033. Em outras palavras: o empreendimento novo chega a um município que, na média, não tem para onde mandar a água. Quando a preparação do terreno é tratada como formalidade de cronograma, a conta não desaparece, apenas muda de endereço. Recalques diferenciais produzem fissuras em fundações, pisos e muros. Desníveis mal resolvidos rompem tubulações e deformam o pavimento. Erosões comprometem áreas comuns vendidas como atributo do produto. O morador descobre o problema anos depois, na assembleia que aprova a taxa extra. O custo dessa correção tardia é mensurável. Estudo da Universidade de Brasília aponta que o retrabalho em obras pode elevar os custos totais em até 42%, um índice que soma gastos diretos e indiretos e mede o impacto percentual sobre o previsto. Em fundações e infraestrutura enterrada, o efeito é ainda mais severo, porque a intervenção corretiva exige desfazer camadas que já receberam outras camadas em cima. Refazer não é repetir a tarefa: é pagar de novo por tudo o que veio depois dela. É esse raciocínio que orienta a atuação de Fauze Youssef Skaff, presidente da Skaff Construtora, empresa que atua com terraplanagem, pavimentação asfáltica e infraestrutura para empreendimentos residenciais, comerciais e industriais no interior de São Paulo e em Mato Grosso do Sul. Em análise publicada em julho, Fauze Youssef Skaff alertou que o boom imobiliário sul-mato-grossense avança mais rápido do que a infraestrutura que deveria sustentá-lo. O diagnóstico que ele faz agora é a versão microscópica do mesmo problema, aplicada ao lote. A leitura de Fauze Youssef Skaff é que cada terreno impõe um projeto próprio. Relevo, tipo de solo, capacidade de suporte e comportamento diante de chuva não se repetem de gleba para gleba, o que torna a padronização um risco disfarçado de economia. É o estudo geotécnico anterior à obra que define volumes de corte e aterro, compactação e estabilidade de taludes. Sem ele, a máquina entra no terreno resolvendo o que encontra, não o que o projeto pediu. \"A terraplanagem não é a etapa que antecede a obra. Ela é a obra que ninguém vê, e é a única que não dá para refazer depois que o condomínio está de pé\", afirma Fauze Youssef Skaff. Há ainda o componente que extrapola o muro do condomínio. Um terreno preparado com critério controla erosão e reduz o escoamento superficial despejado na rede pública. Em cidades médias que receberam dezenas de empreendimentos simultâneos nos últimos anos, a soma dessas decisões privadas define a capacidade de drenagem da malha inteira. O condomínio que resolve mal a própria água não devolve o problema apenas ao seu morador. Devolve à rua de fora. \"Quando um empreendimento novo alaga, quase sempre a explicação está três anos atrás, numa cota que foi aceita como suficiente\", diz Fauze Youssef Skaff. O interior paulista deve seguir absorvendo a demanda, e as cidades médias vão continuar recebendo bairros inteiros de uma vez. A pergunta que o ciclo ainda não respondeu é se o critério aplicado ao que se vê, a fachada, o paisagismo, a área de lazer, chegará com a mesma exigência ao que ninguém fotografa. Porque o que está sob o solo é a única parte do empreendimento que o comprador não consegue inspecionar, e a única que ele vai pagar duas vezes se estiver errada.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:21:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 16:10:25",
-        "image_url": "https://ogcss.infoglobo.com.br/9876543210/img/oglobo.jpg",
-        "video_url": null,
-        "source_id": "oglobo_globo",
-        "source_name": "O Globo",
-        "source_priority": 93485,
-        "source_url": "https://oglobo.globo.com",
-        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "福兹·优素福·斯卡夫 (Fauze Youssef Skaff) 表示，决定公寓耐久性的因素在于地下",
-        "description_zh": "坎皮纳斯行政区集中了 2026 年第一季度推出的 2,765 个地块，相当于 Brain Inteligencia Estratégica 为 AELO (Associação das Empresas de Loteamento Urbano) 和 Sec 进行的调查的圣保罗 81 个城市中推出的所有地块的 38%"
-    },
-    {
-        "article_id": "93897bf22bad9b77095d3f16cbec1c28",
-        "link": "https://valor.globo.com/politica/noticia/2026/07/20/renan-santos-elogia-ciro-gomes-aps-sinalizao-de-possvel-apoio.ghtml",
-        "title": "Renan Santos elogia Ciro Gomes após sinalização de possível apoio",
-        "description": "O pré-candidato à Presidência da República pelo Missão, Renan Santos, reagiu às declarações do ex-governador do Ceará e pré-candidato ao governo do Estado Ciro Gomes (PSDB) sobre a possibilidade de apoiá-lo nas eleições de 2026. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
+            "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-20 15:21:59",
+        "pubDate": "2026-07-21 15:21:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:32:23",
-        "image_url": "https://s2-valor.glbimg.com/1kt8goDM0_uq-BpI0ZazK3UNkEA=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/f/X/LOnrKTSOWmvTbfjuFtSw/renan-santos-partido-missao-2.jpg",
+        "fetched_at": "2026-07-21 15:36:50",
+        "image_url": "https://media.ambito.com/p/f27d91a6a060efd119d0bdf36d375f4b/adjuntos/239/imagenes/043/530/0043530721/1200x675/smart/rosalia.jpg",
         "video_url": null,
-        "source_id": "valor_globo",
-        "source_name": "Valor Globo",
-        "source_priority": 2786,
-        "source_url": "https://valor.globo.com",
-        "source_icon": "https://n.bytvi.com/valor_globo.png",
+        "source_id": "ambito",
+        "source_name": "Ambito",
+        "source_priority": 37705,
+        "source_url": "https://www.ambito.com",
+        "source_icon": "https://n.bytvi.com/ambito.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -168,66 +38,30 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "雷南·桑托斯在表示可能支持后赞扬西罗·戈麦斯",
-        "description_zh": "米桑共和国总统预候选人雷南·桑托斯 (Renan Santos) 对塞阿拉州前州长、州政府预候选人西罗·戈麦斯 (PSDB) 关于在 2026 年选举中支持他的可能性的声明做出了回应。订阅者的独家文章。拥有完全访问权限"
+        "title_zh": "西班牙队获胜后，罗莎莉亚转发了一段有争议的米娅·哈利法视频，引起网络爆炸",
+        "description_zh": "这位西班牙歌手分享了米亚·哈利法 (Mía Khalifa) 用《La Perla》片段庆祝阿根廷队失利的片段，并引起了粉丝的批评。"
     },
     {
-        "article_id": "f4c0ee50b2fe4f3dd12df71955a0a8c0",
-        "link": "https://www.lance.com.br/corinthians/corinthians-define-datas-para-quitar-direitos-de-imagem.html",
-        "title": "Osmar Stabile, presidente do Corinthians (Foto: Peter Leone/Ofotográfico/Folhapress)",
-        "description": "O Corinthians deve quitar, nesta segunda-feira (20), os direitos de imagem dos jogadores referentes ao mês de junho.",
+        "article_id": "f4630c9452c520c61e46e9c7f1c6628c",
+        "link": "https://diariopanorama.com/noticia/560342/incendio-vivienda-abandonada-movilizo-policias-bomberos-barrio-francisco-solano",
+        "title": "Incendio en una vivienda abandonada movilizó a policías y bomberos en el barrio Francisco Solano",
+        "description": "Una densa columna de humo negro alarmó a los vecinos durante la mañana de este martes. Se sospecha que el fuego se originó cuando intentaron quemar basura acumulada en el inmueble.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "update_me",
-            "futebol nacional",
-            "ia",
-            "corinthians"
+            "solano",
+            "movilizo",
+            "barrio",
+            "policiales",
+            "policias",
+            "diario panorama",
+            "abandonada",
+            "vivienda",
+            "incendio",
+            "francisco",
+            "bomberos"
         ],
         "creator": [
-            "guilherme lesnok"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:21:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:34:05",
-        "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,format=webp/uploads/2026/07/Osmar-Stabile-scaled.jpeg",
-        "video_url": null,
-        "source_id": "lance",
-        "source_name": "Lance!",
-        "source_priority": 12891,
-        "source_url": "https://www.lance.com.br",
-        "source_icon": "https://n.bytvi.com/lance.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Osmar Stabile，科林蒂安俱乐部主席（照片：Peter Leone/Ofotography/Folhapress）",
-        "description_zh": "科林蒂安队必须在本周一（20 日）还清球员六月份的肖像权。"
-    },
-    {
-        "article_id": "3afed038e57cd2bbeb185bcc2078fa80",
-        "link": "https://elintransigente.com/2026/07/gustavo-mendez-acusacion-wanda-nara-demanda/",
-        "title": "“Se fue a la mi....”: la respuesta de Gustavo Méndez a la acusación de Wanda Nara",
-        "description": "El desgarrador llanto del periodista The post “Se fue a la mi....”: la respuesta de Gustavo Méndez a la acusación de Wanda Nara appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "gustavo méndez",
-            "escándalo",
-            "wanda nara"
-        ],
-        "creator": [
-            "lucía gianninoto"
+            "redacción diario panorama"
         ],
         "language": "spanish",
         "country": [
@@ -238,16 +72,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-20 15:21:50",
+        "pubDate": "2026-07-21 15:21:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:24:43",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/07/wanda-nara-gustavo-mendez.webp?fit=1200%2C675&quality=95&ssl=1",
+        "fetched_at": "2026-07-21 18:35:19",
+        "image_url": "https://diariopanorama.com/fotos/notas/2026/07/21/barrio-francisco-solano-560342-152115.jpg",
         "video_url": null,
-        "source_id": "elintransigente",
-        "source_name": "El Intransigente",
-        "source_priority": 3446332,
-        "source_url": "https://elintransigente.com",
-        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
+        "source_id": "diariopanorama",
+        "source_name": "Diario Panorama",
+        "source_priority": 31285,
+        "source_url": "https://diariopanorama.com",
+        "source_icon": "https://n.bytvi.com/diariopanorama.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -255,21 +89,112 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "“他下地狱了……”：古斯塔沃·门德斯对旺达·娜拉指控的回应",
-        "description_zh": "记者心碎的呼喊 “他下地狱了……”：古斯塔沃·门德斯对万达·娜拉指控的回应首先出现在《El Intransigente：来自阿根廷和世界的实时最新新闻》上。"
+        "title_zh": "弗朗西斯科·索拉诺 (Francisco Solano) 社区一栋废弃房屋发生火灾，警察和消防员出动",
+        "description_zh": "周二早上，一股浓浓的黑烟惊动了邻居。火灾疑似是他们试图焚烧屋内堆积的垃圾时引发的。"
     },
     {
-        "article_id": "f1ba5240ee09477c8eb550a7723fa359",
-        "link": "https://contilnetnoticias.com.br/editais-concursos/10-licoes-da-copa-do-mundo-2026-para-concursos-publicos/",
-        "title": "10 lições da Copa do Mundo 2026 para concursos públicos",
-        "description": "O encerramento do ciclo de competições de seleções internacionais direciona os olhares de milhões de torcedores para o ápice do rendimento físico e estratégico. Nos gramados, a conquista da taça exige mais do que talento individual, demandando planejamento de longo prazo, resiliência diante de adversidades e execução cirúrgica de metodologias trabalhadas exaustivamente nos bastidores. Para a comunidade de estudantes que almeja uma vaga definitiva no funcionalismo público, a jornada rumo à estabilidade guarda semelhanças profundas com a preparação de uma equipe de elite. A Base do Sucesso: A conquista de metas audaciosas — seja levantar o troféu mundial ou assinar...",
+        "article_id": "eacdafa9590a26d21f4e4543f06fe10e",
+        "link": "https://www.tudocelular.com/rumores/noticias/n259128/vivo-s2-pode-ser-anunciado-na-india-em-agosto.html",
+        "title": "Vivo S2 pode ser anunciado na Índia após quase uma década de hiato",
+        "description": "Rumores apontam que a vivo lançará o S2 na Índia no próximo mês, quase sete anos após a estreia do vivo S1.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:21:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 20:33:46",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "tudocelular",
+        "source_name": "Tudocelular.com",
+        "source_priority": 14359,
+        "source_url": "https://www.tudocelular.com",
+        "source_icon": "https://n.bytvi.com/tudocelular.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "时隔近十年后，Vivo S2 可能在印度发布",
+        "description_zh": "有传言称，vivo 将于下个月在印度推出 S2，距离 vivo S1 首次亮相已近七年。"
+    },
+    {
+        "article_id": "1587b848bd25d8b56137e5b51ac7c0c4",
+        "link": "https://www.elchubut.com.ar/regionales/2026-7-21-12-21-0-provincia-fortalece-politicas-sociales-para-el-abordaje-de-problematicas-complejas-en-comodoro-rivadavia",
+        "title": "Provincia fortalece políticas sociales para el abordaje de problemáticas complejas en Comodoro Rivadavia",
+        "description": "A través del Ministerio de Desarrollo Humano se realizó una jornada de formación institucional dirigida a equipos de primera intervención, fuerzas de seguridad e instituciones vinculadas al acompañamiento de personas en situación de vulnerabilidad.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "concursos",
-            "copa do mundo"
+            "comodoro"
         ],
         "creator": [
-            "redação contilnet; q concursos; folha dirigida"
+            "el chubut"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:21:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 15:40:50",
+        "image_url": "https://pxbcdn.elchubut.com.ar/chubut/072026/1784647358163.jpg?cw=1170&ch=645",
+        "video_url": null,
+        "source_id": "elchubut_ar",
+        "source_name": "El Chubut",
+        "source_priority": 110150,
+        "source_url": "https://www.elchubut.com.ar",
+        "source_icon": "https://n.bytvi.com/elchubut_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "该省加强社会政策以解决里瓦达维亚海军准将城的复杂问题",
+        "description_zh": "通过人类发展部，为第一批干预小组、安全部队和与支持弱势群体有关的机构举办了机构培训日。"
+    },
+    {
+        "article_id": "367b44112f110d0e4fba4dcb99f1f4b9",
+        "link": "https://www.campograndenews.com.br/cidades/capital/prefeitura-lanca-licitacao-de-r-2-4-milhoes-para-reordenamento-da-tamandare",
+        "title": "Prefeitura lança licitação de R$ 2,4 milhões para reordenamento da Tamandaré",
+        "description": "A Prefeitura de Campo Grande lançou uma nova licitação para contratar a empresa responsável pelo reordenamento viário no cruzamento das avenidas Tamandaré e Euler de Azevedo, no Bairro São Francisco, com implantação de semáforos na rotatória. De acordo com o aviso de licitação publicado no Diogrande (Diário Oficial de Campo Grande) desta terça-feira (21), o Executivo vai investir R$ 2.424.305,11 na obra. O pregão eletrônico, coordenado pela Agetran (Agência Municipal de Transporte e Trânsito), prevê mudanças no tráfego e intervenções no entorno da rotatória, considerada um dos pontos mais críticos da região. As propostas poderão ser enviadas a partir de hoje até o dia 6 de agosto, data marcada para a abertura da licitação. Esta é a segunda licitação que prevê intervenções no cruzamento. Em maio deste ano, a Prefeitura abriu licitação de R$ 2,38 milhões com o mesmo objetivo. Porém, o certame terminou deserto, ou seja, nenhuma empresa apresentou proposta para executar a obra, considerada uma das intervenções mais aguardadas no trânsito da região norte da cidade. O cruzamento é rota de motoristas que seguem para a UCDB (Universidade Católica Dom Bosco), UEMS (Universidade Estadual de Mato Grosso do Sul), Detran-MS e bairros como Seminário, Coophasul, Santa Luzia, José Abrão e Vila Nasser. A rotatória também acumula reclamações por lentidão e registros de acidentes. Um ano - O reordenamento da rotatória entre as avenidas Euler de Azevedo e Tamandaré foi anunciado durante as comemorações do aniversário de Campo Grande no ano passado. A expectativa era que a obra fosse concluída no próximo mês, quando Campo Grande completar 127 anos. Receba as principais notícias do Estado pelo Whats. Clique aqui para acessar o canal do Campo Grande News e siga nossas redes sociais .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "avenidas tamandaré",
+            "licitação",
+            "bairro",
+            "implantação",
+            "cruzamento",
+            "reordenamento viário",
+            "azevedo",
+            "semáforos",
+            "contratar",
+            "lançou",
+            "campo",
+            "francisco",
+            "euler",
+            "empresa responsável",
+            "prefeitura"
+        ],
+        "creator": [
+            "por fernanda palheta"
         ],
         "language": "portuguese",
         "country": [
@@ -277,66 +202,19 @@
         ],
         "category": [
             "top",
-            "sports"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-20 15:21:49",
+        "pubDate": "2026-07-21 15:21:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:42:18",
-        "image_url": "https://contilnetnoticias.com.br/wp-content/uploads/2026/07/Copa-do-Mundo.avif",
+        "fetched_at": "2026-07-21 15:41:11",
+        "image_url": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/07/21/6a5f8dec8eb8e.jpeg",
         "video_url": null,
-        "source_id": "contilnetnoticias",
-        "source_name": "Contilnet Notícias",
-        "source_priority": 155904,
-        "source_url": "https://contilnetnoticias.com.br",
-        "source_icon": "https://n.bytvi.com/contilnetnoticias.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "2026 年世界杯公开招标的 10 个教训",
-        "description_zh": "国际球队比赛周期的结束，将数百万球迷的目光引向了身体和战略表现的巅峰。在球场上，赢得奖杯需要的不仅仅是个人天赋，还需要长期规划、面对困难时的韧性"
-    },
-    {
-        "article_id": "ffe6d28d23aea189e063ae79cd5405f3",
-        "link": "https://atarde.com.br/educacao/escola-de-camacari-e-revitalizada-e-ganha-estrutura-modernizada-1395897",
-        "title": "Escola de Camaçari é revitalizada e ganha estrutura modernizada",
-        "description": "A Escola Municipal Santo Antônio, localizada na comunidade de Machadinho, em Camaçari, na Região Metropolitana de Salvador (RMS), passou por uma ampla revitalização estrutural. A unidade foi entregue na manhã desta segunda-feira, 20, e irá beneficiar diretamente os 307 estudantes matriculados na unidade que tem como objetivo oferecer um ambiente mais confortável, seguro e adequado às atividades de ensino e aprendizagem.A diretora da unidade, Verônica Morais Vieira, destacou o impacto das melhorias para toda a comunidade escolar.\"Há muito tempo essa escola não recebia uma intervenção estrutural dessa dimensão. Foram melhorias muito importantes, principalmente na Sala dos Professores e na ampliação da cozinha, que agora oferece muito mais conforto e melhores condições de trabalho para toda a equipe. É uma conquista que fortalece o ambiente escolar e beneficia diretamente a todos\", afirmou. Leia Também: EDUCAÇÃO Escola quilombola é requalificada na zona rural de Alagoinhas EDUCAÇÃO Escolas da Bahia têm sete dias para se inscrever no Prêmio EcoInovar PREPARAÇÃO Escola de Salvador cria cartilha para redação nota mil no Enem Principais melhorias realizadas:Revitalização completa da cozinha;Instalação de novos revestimentos cerâmicosBancadas em granito e ampliação das janelasAmpliação e reorganização da despensaReforma e climatização da Sala dos ProfessoresReestruturação completa do sistema de esgotoSubstituição da rede elétricaInstalação de novas calhas para drenagem das águas pluviaisCobertura em policarbonato entre os blocos de salasAdequações na secretariaPintura geral da unidade. 1 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 2 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 3 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 4 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 5 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 6 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 7 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 8 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 9 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 10 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 11 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 12 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 13 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 14 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 15 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 16 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 17 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari 18 de 18 | Foto: Patrick Abreu/ Prefeitura de Camaçari Além das intervenções estruturais, a unidade também recebeu novos equipamentos e materiais didáticos, contribuindo para um ambiente mais adequado às atividades escolares.A merendeira Rosalina Santana, que trabalha na escola há mais de 20 anos, comemorou a renovação da cozinha.\"Estou muito feliz em ver essa cozinha renovada. Trabalho aqui há mais de 20 anos e essa melhoria era um sonho antigo de todos nós. Agora temos um espaço muito mais bonito, organizado e adequado para preparar a alimentação das crianças com ainda mais cuidado\", disse.Os estudantes também aprovaram a nova estrutura. Aluno do 4o ano, Davi Reis Sena, de 9 anos, afirmou que o ambiente ficou mais acolhedor.\"Eu gostei muito porque a escola ficou mais bonita. Eu amo estudar português, agora vou gostar ainda mais. Achei tudo muito legal\", comentou.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "escola santo antônio camaçari",
-            "melhorias na rede de ensino",
-            "escola municipal camaçari reforma",
-            "comunidade de machadinho",
-            "infraestrutura escolar",
-            "revitalização de escola em machadinho",
-            "educação municipal camaçari"
-        ],
-        "creator": [
-            "vitória sacramento"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "education",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:21:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 18:38:07",
-        "image_url": "https://cdn.atarde.com.br/img/Artigo-Destaque/1390000/escola-de-camacari-e-revitalizada-e-ganha-estrutur0139589700202607201521.jpg?xid=7146943",
-        "video_url": null,
-        "source_id": "atarde",
-        "source_name": "A Tarde",
-        "source_priority": 57528,
-        "source_url": "https://www.atarde.com.br",
-        "source_icon": "https://n.bytvi.com/atarde.png",
+        "source_id": "campograndenews",
+        "source_name": "Campo Grande News",
+        "source_priority": 139036,
+        "source_url": "https://www.campograndenews.com.br",
+        "source_icon": "https://n.bytvi.com/campograndenews.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -344,18 +222,26 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "卡马萨里学校焕然一新并拥有现代化的结构",
-        "description_zh": "圣安东尼奥市政学校位于萨尔瓦多大都市区 (RMS) 卡马萨里的马查迪尼奥社区，经历了广泛的结构复兴。该单元已于本周一20日上午交付，将直接惠及就读的307名学生"
+        "title_zh": "市政厅为 Tamandaré 重组启动 240 万雷亚尔招标",
+        "description_zh": "大坎普市政厅启动了一项新招标，聘请一家公司负责圣弗朗西斯科湾 Tamandaré 大道和 Euler de Azevedo 大道交叉口的道路重组，并在环岛安装红绿灯。根据已发布的招标公告"
     },
     {
-        "article_id": "b002001ba5bd02370a12be7b21ecd9af",
-        "link": "https://www.diarioelzondasj.com.ar/360750-un-choque-multiple-en-libertador-y-catamarca-dejo-dos-heridos-y-complico-el-transito",
-        "title": "Un choque múltiple en Libertador y Catamarca dejó dos heridos y complicó el tránsito",
-        "description": "Un Fiat Siena rojo embistió a tres vehículos que aguardaban el semáforo en avenida Libertador y calle Catamarca. Bomberos debieron rescatar a dos ocupantes del rodado, mientras la Policía intenta establecer cómo ocurrió el siniestro.",
+        "article_id": "f70ec2f9c6919e90b6719370bfbc411e",
+        "link": "https://www.mejorinformado.com/policiales/buscaban-auto-estafa-buenos-aires-aparecio-alto-valle_1784647257",
+        "title": "Buscaban un auto por estafa en Buenos Aires y apareció en el Alto Valle",
+        "description": "Un Peugeot 208 con pedido de secuestro vigente en una causa por presunta estafa fue localizado en Fernández Oro e interceptado minutos después en Cipolletti.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "cipolletti",
+            "estafa",
+            "911 emergencia",
+            "río negro",
+            "policiales",
+            "auto secuestrado",
+            "buenos aires"
+        ],
         "creator": [
-            "el zonda"
+            "fabian rossi"
         ],
         "language": "spanish",
         "country": [
@@ -366,16 +252,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-20 15:21:44",
+        "pubDate": "2026-07-21 15:20:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:51:02",
-        "image_url": "https://www.diarioelzondasj.com.ar/content/bucket/3/396923.jpg",
+        "fetched_at": "2026-07-21 15:46:57",
+        "image_url": "https://pxcdn.mejorinformado.com/mejorinformado/072026/1784647123495.jpg?cw=320&ch=180",
         "video_url": null,
-        "source_id": "diarioelzondasj_ar",
-        "source_name": "El Zonda",
-        "source_priority": 1206421,
-        "source_url": "https://www.diarioelzondasj.com.ar",
-        "source_icon": "https://n.bytvi.com/diarioelzondasj_ar.png",
+        "source_id": "mejorinformado",
+        "source_name": "Mejorinformado",
+        "source_priority": 463646,
+        "source_url": "https://www.mejorinformado.com",
+        "source_icon": "https://n.bytvi.com/mejorinformado.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -383,355 +269,27 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "解放者城和卡塔马卡发生多起车祸，造成两人受伤，交通复杂",
-        "description_zh": "一辆红色菲亚特锡耶纳撞上了解放者大道和卡塔马卡街等待红绿灯的三辆汽车。消防队员必须救出车上的两名乘客，而警方则试图确定事故是如何发生的。"
+        "title_zh": "他们在布宜诺斯艾利斯寻找一辆用于诈骗的汽车，它出现在 Alto Valle",
+        "description_zh": "一辆因涉嫌欺诈而提出绑架请求的标致 208 在费尔南德斯奥罗被发现，几分钟后在奇波莱蒂被拦截。"
     },
     {
-        "article_id": "2ecb05e32bf66b97a7b358b4b4c7e7de",
-        "link": "https://contilnetnoticias.com.br/universo-pop/gracyanne-faltara-a-evento-de-samba-com-viviane-araujo-entenda-motivo/",
-        "title": "Gracyanne faltará a evento de samba com Viviane Araújo; entenda",
-        "description": "Rainha de bateria da União da Ilha revelou em conversa exclusiva que desfalcará a escola no evento de sábado por conta de uma viagem de férias com o namorado no...",
+        "article_id": "717121ba7afac92f55f843618c10b699",
+        "link": "https://www.infobae.com/mexico/2026/07/21/realizan-colecta-anual-de-utiles-escolares-para-hijos-de-victimas-de-feminicidio-y-desaparicion-en-guadalajara/",
+        "title": "Realizan colecta anual de útiles escolares para hijos de víctimas de feminicidio y desaparición en Guadalajara",
+        "description": "La convocatoria cierra el 8 de agosto para reunir material destinado a niñas, niños y adolescentes en Jalisco cuyos padres o madres fueron víctimas de estos delitos",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "entenda motivo"
+            "niños",
+            "feminicidios",
+            "huérfanos",
+            "mexico-noticias",
+            "hijos",
+            "mexico-seguridad",
+            "guadalajara",
+            "desparecidos"
         ],
         "creator": [
-            "redação contilnet"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:21:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:42:18",
-        "image_url": "https://contilnetnoticias.com.br/wp-content/uploads/2026/07/gracyanne-1200x675.webp",
-        "video_url": null,
-        "source_id": "contilnetnoticias",
-        "source_name": "Contilnet Notícias",
-        "source_priority": 155904,
-        "source_url": "https://contilnetnoticias.com.br",
-        "source_icon": "https://n.bytvi.com/contilnetnoticias.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Gracyanne 将缺席与 Viviane Araújo 的桑巴舞比赛；理解",
-        "description_zh": "Union da Ilha 鼓皇后在一次独家谈话中透露，由于与男友在......度假，她将缺席周六活动的学校。"
-    },
-    {
-        "article_id": "6ad16ee8a8983b50dc2da48cc1bbc376",
-        "link": "https://www.elmanana.com/tamaulipas/matamoros/avances-en-investigacion-muerte-dafne-en-tamaulipas/6163074",
-        "title": "Avances en investigación muerte Dafne en Tamaulipas",
-        "description": "El Ejecutivo estatal garantizó el acompañamiento institucional a la familia de la víctima y afirmó que el lamentable suceso no quedará impune",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "muerte menor ciudad madero",
-            "resultados investigaci&#243;n muerte dafne",
-            "am&#233;rico villarreal anaya declaraciones",
-            "fiscal general tamaulipas avances"
-        ],
-        "creator": [
-            "miguel jim&eacute;nez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:22:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 20:43:53",
-        "image_url": "https://blob.elmanana.com/images/2026/07/20/crop-w702-h586-8b84ea19-145f-418a-979b-88018090e421-00c60b53.jpg",
-        "video_url": null,
-        "source_id": "elmanana",
-        "source_name": "Últimas Noticias - El Mañana De Reynosa",
-        "source_priority": 258494,
-        "source_url": "https://www.elmanana.com",
-        "source_icon": "https://n.bytvi.com/elmanana.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "塔毛利帕斯州达芙妮死亡调查取得进展",
-        "description_zh": "州行政部门保证向受害者家属提供机构支持，并确认这一不幸事件不会逃脱惩罚。"
-    },
-    {
-        "article_id": "ee43826b8bfe8291ff965d5068b06bfb",
-        "link": "https://diariodelcauca.com.co/fenomeno-del-nino-cinco-recomendaciones-para-un-consumo-mas-eficiente/",
-        "title": "Fenómeno del Niño: Cinco recomendaciones para un consumo más eficiente",
-        "description": "Por el Fenómeno del Niño se recomienda revisiones periódicas del cableado, evitar sobrecargas y utilizar materiales eléctricos certificados. La entrada Fenómeno del Niño: Cinco recomendaciones para un consumo más eficiente se publicó primero en Diario del Cauca .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "yhancy burgos"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:21:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:50:48",
-        "image_url": "https://diariodelcauca.com.co/wp-content/uploads/2026/07/image-111.jpg",
-        "video_url": null,
-        "source_id": "diariodelcauca_co",
-        "source_name": "Diario Del Cauca",
-        "source_priority": 994611,
-        "source_url": "https://diariodelcauca.com.co",
-        "source_icon": "https://n.bytvi.com/diariodelcauca_co.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "厄尔尼诺现象：提高消费效率的五项建议",
-        "description_zh": "由于厄尔尼诺现象，建议定期检查接线，避免过载并使用经过认证的电气材料。 《儿童现象：提高消费效率的五项建议》首先发表在《Diario del Cauca》上。"
-    },
-    {
-        "article_id": "e072bb69f0f11c0091c765ead4ad3606",
-        "link": "https://www.marca.com/tiramillas/cine/2026/07/20/todos-secretos-primer-trailer-vengadores-doomsday-reencuentro-thor-capitan-america-profesor-x-magneto-pelea-doctor-doom.html",
-        "title": "Todos los secretos del primer tráiler de ‘Vengadores: Doomsday’: el reencuentro de Thor y Capitán América, el Profesor X con Magneto, la pelea con Doctor Doom...",
-        "description": "La película llegará a las salas de cine el 18 de diciembre de 2026",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "todos",
-            "vengadores",
-            "secretos",
-            "primer",
-            "tráiler"
-        ],
-        "creator": [
-            "ramón garcia parrilla"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "science"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:21:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:34:21",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/07/20/6a5e3c141af96.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "《复仇者联盟：世界末日》第一部预告片中的所有秘密：雷神和美国队长的重聚、X 教授与万磁王、与毁灭博士的战斗……",
-        "description_zh": "该片将于 2026 年 12 月 18 日上映"
-    },
-    {
-        "article_id": "007359a1d942fcfe3bda91a7ae9e0cc4",
-        "link": "https://diario.mx/estados-unidos/2026/jul/20/acusa-eu-a-cuba-de-decadas-de-espionaje-y-subversion-1128772.html",
-        "title": "Acusa EU a Cuba de décadas de espionaje y subversión",
-        "description": "Cuba ha liderado \"una campaña que se ha infiltrado en las más altas esferas del Gobierno de EU\", además de reclutar y formar \"generaciones de activistas\" y respaldar el \"terrorismo de izquierda\", señala informe",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "afp"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:21:43",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:33:39",
-        "image_url": "https://diario.mx/core/dmx/assets/images/2026/07/20/afp-r4SLtajkR.jpg",
-        "video_url": null,
-        "source_id": "diario",
-        "source_name": "El Diario",
-        "source_priority": 14955,
-        "source_url": "https://diario.mx",
-        "source_icon": "https://n.bytvi.com/diario.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "美国指责古巴数十年的间谍和颠覆活动",
-        "description_zh": "报告称，古巴除了招募和培训“几代活动人士”并支持“左翼恐怖主义”外，还领导了“一场渗透到美国政府最高层的运动”。"
-    },
-    {
-        "article_id": "3abbb3c8d57dc6eba9c1ece662eadbe9",
-        "link": "https://caracol.com.co/2026/07/20/decretan-estado-de-catastrofe-en-chile-por-lluvias-que-han-dejado-muertos-y-cientos-de-damnificados/",
-        "title": "Decretan estado de catástrofe en Chile por lluvias que han dejado muertos y cientos de damnificados",
-        "description": "Un temporal de lluvias está afectando especialmente el norte de Chile desde el pasado 15 de julio.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "afp"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:21:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:36:28",
-        "image_url": "https://caracol.com.co/resizer/v2/MBGHSRKT5NFNDPZMTFOQTMKX5A.jpg?auth=71f4901bbd7b376ffafdc7006bf7b716a9a2281aa6d7971130ce5c7511147197&smart=true&width=3826&height=2206",
-        "video_url": null,
-        "source_id": "caracol",
-        "source_name": "Caracol Radio",
-        "source_priority": 30675,
-        "source_url": "https://caracol.com.co",
-        "source_icon": "https://n.bytvi.com/caracol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们宣布智利进入灾难状态，因降雨造成死亡和数百人遇难",
-        "description_zh": "自去年7月15日以来，一场暴风雨对智利北部的影响尤其严重。"
-    },
-    {
-        "article_id": "6214e74bd9105b68e733f4962b859c88",
-        "link": "https://redgol.cl/apuestas/codigos/codigo-promocional-rojabet",
-        "title": "Código promocional Rojabet: REDVIP válido Julio 2026",
-        "description": "El código promocional Rojabet es REDVIP. Con este código obtendrás hasta 125% hasta $300.000 CLP + 30 apuestas gratis. En este artículo te enseñaremos todo lo que necesitas saber sobre el código promocional Rojabet, los bonos disponibles con el operador y cuáles son los deportes en los que puedes realizar tus pronósticos deportivos. ¿Cúal es el código promocional Rojabet para Chile? El código promocional Rojabet es REDVIP en 2026. Usando este código durante el registro puedes obtener un paquete de bienvenida de hasta 125% hasta $300.000CLP + 30 Free Spins . ¿Qué obtengo con el código promocional de Rojabet? El código promocional Rojabet te hará obtener el 125% de tu primer depósito con un tope máximo de $300.000 CLP + 30 free spins. Si haces un ingreso de $5.000 CLP automáticamente se verá reflejado en tu cuenta. Bono rojabet Detalle Código Promocional Rojabet Primer depósito 125% hasta $300.000CLP + 30 Free Spins REDVIP Tomada de Rojabet CL ¿Cómo uso el código promocional RojaBet? Para utilizar algunos de los códigos promocionales disponibles en RojaBet, tal como el bono de bienvenida Rojabet , lo primero que debes hacer es hacer tu cuenta en este popular sitio. Acá el registro en Rojabet paso a paso de cómo lograrlo: Ingresa en Rojabet En el extremo superior izquierdo de la pantalla haz clic en el botón de registro. Completa el formulario con los datos personales que son: email, nombre, apellido, fecha de nacimiento y género. Añade tus datos de Calle, Ciudad, Código Postal, País y un teléfono que luego servirá para realizar la verificación de la cuenta. Introduce el código promocional Rojabet si lo tienes para poderlo utilizar. Selecciona tu nombre de usuario el cual sólo debe contener caracteres latinos. Añade una contraseña, la cual no debes revelar a nadie. Así, una vez finalizado el proceso, se te enviará un correo o mensaje por teléfono para verificar que el usuario ya está activado. Oferta de bienvenida de Rojabet En el paquete para juegos de casino, al que tendrás acceso cuando realices tu primer depósito, podrás incrementar tus fondos en los primeros tres depósitos, además de obtener Free Spins. Las condiciones generales son las siguientes tras aplicar el código y poder utilizar el bono: Al realizar tu primer depósito, obtendrás el 125% del mismo por hasta 300.000 CLP, además de 30 giros gratis para tus juegos de casino. Descubre más detalles, mínimos y máximos para el bono, e información sobre el bono casino en la plataforma del operador para hacer tus apuestas de casino. Condiciones principales de la oferta de bienvenida de Rojabet Acá una lista de los puntos más importantes de los términos y condiciones de Rojabet: Promoción válida sólo para usuarios registrados correctamente en rojabet.cl o rojabet.com. La oferta es válida una vez por usuario, persona, dirección IP, correo electrónico, número de tarjeta de crédito/débito, cuenta bancaria o criterio que considere la Casa de apuestas. El monto máximo del bono por el 1er depósito a otorgar es de $300,000 CLP. En caso el usuario deposite un monto mayor a los $300,000 CLP solo podrá recibir como máximo los $300,000 CLP. Para acceder al bono, el primer depósito deberá ser como mínimo de 5.000 CLP o su equivalente en otra moneda (si el depósito es en dólares o euros, se aplica el tipo de cambio del día). Para poder retirar el dinero del bono, se deberá cumplir con el rollover. Es decir deberá jugarse la totalidad del bono 8x para deportes y 45x para casino Rojabet se reserva el derecho de poder solicitar al usuario una prueba de documento de identidad que permita la acreditación del bono solicitado. Rojabet considerará la acreditación del bono para usuarios que no tienen bonos vigentes o si el sistema no permite brindarlo por motivos ajenos al servicio (saldo negativo, validación de identidad, duplicidad, abuso de bonos, etc.). Oferta de bienvenida casino Rojabet Si eres amante de los juegos de casino y tragamonedas online, este bono está diseñado para ti. El bono de bienvenida de la plataforma de Rojabet sigue una estructura similar al de apuestas deportivas, ofreciendo grandes promociones y beneficios: Reclama el 125% de tu primer depósito y por hasta $300,000 CLP + 30 giros gratis, los cuales están sujetos a Términos y Condiciones que se deben cumplir como: Disponible para nuevos usuarios mayores de edad residentes en Chile. Depósito mínimo para activar el bono: $5,000 CLP. Requisito de apuesta (rollover): 45x. El bono debe ser aceptado dentro de los 7 días posteriores al primer depósito. Vigencia del bono: 15 días. Los primeros 20 giros gratis se acreditarán un día después de activar el bono. Descubre más detalles e información sobre el bono en la plataforma del operador. ¿Qué requisitos debo cumplir para apostar en Rojabet? Al ser un juego que involucra dinero y posibles pérdidas, casi todas las casas de apuestas tienen algunas restricciones en sus Términos y Condiciones que puedes ver con más información en sus respectivas webs. Asi, dentro de ellos destacan: Ser mayor de 18 años. Contar mínimo con un documento de identificación válido. Comprobar un domicilio estable. No utilizar dos usuarios en el mismo portal. Comparación de código promocional de Rojabet con otros códigos promocionales En general, el código promocional de bienvenida en Rojabet es bastante competitivo con el mercado actual comparado con otros códigos promocionales de Chile. Para compararlos, hicimos esta tabla con las diferentes ofertas disponibles actualmente: Casas de apuestas Bonos disponibles Depósito mínimo Cuota mínima Rollover Código promocional Rojabet 125% hasta $300,000 CLP + 30 giros gratis $5,000 CLP Apuesta simple o combinada con cuota de 1.70+ 8x ROJ... Betano 100% hasta $200.000 CLP gratis $5000 CLP Apuestas con cuotas de 1.65+ X5 REDVIP Jugabet 257% +$100.000 en apuesta gratis + 2 raspe y gana $5.000 CLP Apuesta simple con cuota 1.80+ Combinadas 2 o más eventos, cada una 1.60+ X7 REDVIP 1xbet 100% de tu primer depósito hasta $500.000 CLP $740 CLP Combinadas de 3 o más eventos con cuota de 1.40+ X5 REDBONO La devolución de hasta $300,000 CLP de apuesta es de los más altos disponibles en el mercado que puedes utilizar, superando a otros sitios como Betano y la plataforma de 1xBet , pero también hay que comparar cuáles son las condiciones que tienen para poder hacer retiro de esa bonificación luego de hacer las jugadas. En la plataforma de Rojabet tu primer depósito desde los 5.000 CLP te permite realizar apuestas flexibles, tras tus depósitos, puedes hacer apuestas combinadas o simples con una cuota mínima de 1.70 y un rollover de 8x. Esto es valorado según las Rojabet opiniones . Otras promociones de Rojabet Chile En un intento por fidelizar a sus jugadores Rojabet también ofrece promociones para usuarios ya registrados en su sitio web, y no sólo entregando bonos de primer depósito a quienes visitan por primera vez a este operador. Acá un listado de las principales ofertas o promociones disponibles en esta casa de apuestas: Bono de segundo depósito: Esta oferta te devuelve el 50% del segundo depósito, para lo que sólo debes aceptar el bono del 50%, este aparecerá en bonos activos. Debes tener el saldo a $0.00. Seguidamente haz tu depósito y completa una apuesta simple o combinada de cuota 2.0 o superior. Promoción Mala Racha: La promoción Mala Racha consiste en la devolución de un cashback de hasta 22.000 CLP para que puedas continuar realizando tus pronósticos deportivos. Para esto deberás haber perdido las últimas 5 apuestas de manera consecutiva y para conseguirlo deberás contactarte con el servicio de atención al cliente para reclamar esta oferta. Este tipo de promociones son las más destacadas en este sitio web que específicamente tiene como principales mercados el fútbol nacional y eventos internacional. Las opciones de los bonos al segundo y tercer depósito son, sin dudas, los más interesantes que podemos encontrar en RojaBet. Pros y contras del código promocional Rojabet Hablemos nuevamente del código promocional de RojaBet del 125% de tu primer depósito hasta $300,000 CLP. Si bien es competitivo en cuanto al tope máximo del mismo en comparación con otras casas de apuestas, es importante destacar que el tiempo disponible para jugar puede resultar poco coqueto para los jugadores nuevos. Al contar con apenas 7 días para utilizar el código de bienvenida hace qu e las jugadas a veces sean más bien forzadas , por eso deberás establecer una buena estrategia si eres de los que se están uniendo por primera vez en este sitio. Algo que sí es positivo es que l as cuotas de las apuestas no son elevadas ni su rollover parece descabellado en comparación con los otros sitios. En general se maneja en un mismo margen comparándolos con casas como 1xBet, Betano y Jugabet. Además de eso , la sumatoria de bonos al segundo y tercer depósito para jugadores nuevos es un plus así que lo destaca por sobre los otros sitios. Pros Contra Buen monto máximo de devolución Pocos días para utilizarlo Fácil de conseguir en el sitio web No cuenta con app móvil Flexible para apuestas simples y combinadas Experiencia personal con Rojabet Rojabet tiene un amplio apartado de deportes y cuotas para hacer tu apuesta, sobre todo en el fútbol. Si vas a jugar en vivo tendrás que tener en cuenta el Cashout que ofrece un portal como Rojabet. Sobre la experiencia de juego existen varios mercados, eventos disponibles, diferentes cuotas y deportes en vivo , sin tener nada que envidiarle a otros portales que tienen una mayor trayectoria en el mundo de las casas de apuestas. En cuanto al servicio al cliente Rojabet cuenta con una amplia variedad de plataformas para contactarlos en caso de algún inconveniente con una jugada, evento o si es que salta alguna duda en cuanto a los pronósticos realizados en ese operador. A pesar de no contar con una aplicación móvil, su página web oficial se adapta bien a las funcionalidades de Android y también para los sistemas iOS. Sería un punto positivo si la app Rojabet saliera rápido para que los jugadores tuviesen un rendimiento aún más rápido a la hora de navegar en este operador. Preguntas frecuentes sobre el código promocional Rojabet + ¿Cuál es el bono de bienvenida en Rojabet? El bono de bienvenida Rojabet permite que tras tus primeros depósitos, consigas consigas el 125% de ese valor hasta $300,000 CLP y, adicional, 30 free spins. + ¿Qué requisitos debo cumplir para liberar el bono? Las condiciones del bono exigen apostar el depósito 8 veces en cuotas mínimas de 1.70 en apuestas simples o combinadas. + ¿Quiénes pueden usar el código promocional Rojabet? Únicamente pueden emplear el código promocional Rojabet los usuarios que se registran por primera vez, mayores de 18 años con residencia en Chile. + ¿Hay un código sin depósito en Rojabet? No, para activar el código promocional Rojabet es imprescindible hacer un depósito mínimo en la cuenta.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "apuestas"
-        ],
-        "creator": [
-            "cintia soto"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:21:25",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 16:12:46",
-        "image_url": "https://media.redgol.cl/wp-content/uploads/sites/8/2024/03/21104839/codigo-promocional-rojabet-REDVIP-03-1200x740.jpg",
-        "video_url": null,
-        "source_id": "redgol_cl",
-        "source_name": "Red Gol",
-        "source_priority": 179990,
-        "source_url": "https://redgol.cl",
-        "source_icon": "https://n.bytvi.com/redgol_cl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Rojabet 促销代码：REDVIP 2026 年 7 月有效",
-        "description_zh": "Rojabet 促销代码是 REDVIP。使用此代码，您将获得高达 125% 的奖金，最高可达 $300,000 CLP + 30 个免费投注。在本文中，我们将教您有关 Rojabet 促销代码、运营商提供的奖金以及您可以参加哪些运动的所有信息。"
-    },
-    {
-        "article_id": "696cc88f12840a337a670ed30fac74d0",
-        "link": "https://www.las2orillas.co/el-equipo-economico-del-ex-presidente-duque-aterrizo-en-el-gobierno-del-tigre-y-el-mininterior-escogio-viceministro/",
-        "title": "El equipo económico del ex presidente Duque aterrizó en el gobierno del Tigre y el Mininterior escogió viceministro",
-        "description": "Altos funcionarios de José Manuel Restrepo como ministro de hacienda trabajaran con Miguel Gómez Martínez y un huilense será la mano derecha de Rodrigo Lara El artículo El equipo económico del ex presidente Duque aterrizó en el gobierno del Tigre y el Mininterior escogió viceministro fue publicado originalmente en Las2orillas.co: Historias, voces y noticias de Colombia . Copyrights Las2orillas.co",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "gobierno",
-            "josé manuel restrepo",
-            "espriella"
-        ],
-        "creator": [
-            "las dos orillas"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-20 15:21:25",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:35:54",
-        "image_url": "https://www.las2orillas.co/wp-content/uploads/2026/07/Congreso-1200-x-630-px.jpg",
-        "video_url": null,
-        "source_id": "las2orillas",
-        "source_name": "Las2orillas",
-        "source_priority": 23814,
-        "source_url": "https://www.las2orillas.co",
-        "source_icon": "https://n.bytvi.com/las2orillas.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "前总统杜克经济团队登陆蒂格雷政府 内政部选出副部长",
-        "description_zh": "担任财政部长的何塞·曼努埃尔·雷斯特雷波的高级官员将与米格尔·戈麦斯·马丁内斯合作，来自威拉的一名男子将成为罗德里戈·拉拉的得力助手。前总统杜克经济团队登陆蒂格雷政府、内政部推选副部长一文发表"
-    },
-    {
-        "article_id": "92834c761e124b1c7c14d0f35253bfb1",
-        "link": "https://www.infobae.com/america/ciencia-america/2026/07/20/por-primera-vez-logran-producir-celulas-similares-a-los-globulos-rojos-de-perros-en-el-laboratorio/",
-        "title": "Por primera vez, logran producir células similares a los glóbulos rojos de perros en el laboratorio",
-        "description": "Científicos japoneses reprogramaron células caninas. Cómo a partir de los resultados se podrían cambiar las transfusiones veterinarias y contribuir al desarrollo de productos sanguíneos para uso humano",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "edición genética",
-            "bancos de sangre",
-            "sangre",
-            "últimas noticias",
-            "células madre",
-            "salud canina",
-            "glóbulos rojos"
-        ],
-        "creator": [
-            "valeria román"
+            "nallely sánchez"
         ],
         "language": "spanish",
         "country": [
@@ -741,14 +299,14 @@
             "mexico"
         ],
         "category": [
-            "top",
-            "science"
+            "lifestyle",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-20 15:21:14",
+        "pubDate": "2026-07-21 15:20:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:30:38",
-        "image_url": "https://www.infobae.com/resizer/v2/A6WTE3VCCZB2DE7N5GT6JBDUU4.png?auth=ea463bb975aae527c8b7c6d062ee0ece052377664a631d39220883ddfce57267&smart=true&width=1408&height=768",
+        "fetched_at": "2026-07-21 15:30:40",
+        "image_url": "https://www.infobae.com/resizer/v2/OH7K53FIYBADRMEOPBU5NUFULE.jpg?auth=68ed73b0cfea3e1c2d0d43caa3fbf457cfdd528fd59a2802aa0c07eba849eea9&smart=true&width=4686&height=3124",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -762,42 +320,37 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们首次在实验室中成功生产出类似于狗红细胞的细胞",
-        "description_zh": "日本科学家对犬细胞进行了重新编程。研究结果如何改变兽医输血并有助于人类使用血液制品的开发"
+        "title_zh": "他们每年为瓜达拉哈拉女性被杀和失踪受害者的孩子收集学习用品",
+        "description_zh": "该呼吁将于 8 月 8 日结束，旨在为哈利斯科州父亲或母亲是这些罪行受害者的女孩、男孩和青少年收集材料"
     },
     {
-        "article_id": "568ec1ae3cebcb348411db4035137a31",
-        "link": "https://www.latercera.com/mundo/noticia/estados-unidos-confirma-el-inicio-de-las-operaciones-para-la-implementacion-de-zonas-piloto-en-libano/",
-        "title": "Estados Unidos confirma el inicio de las operaciones para la implementación de zonas piloto en Líbano",
-        "description": "El portavoz del Departamento de Estado, Tommy Pigott, sostuvo que “este hito es el resultado directo de las conversaciones mantenidas la semana pasada en Roma entre Israel y Líbano. Estados Unidos seguirá colaborando estrechamente con ambas partes para llevar a buen término la aplicación del acuerdo”.",
+        "article_id": "228d234d634bdc420b98e00cec312b03",
+        "link": "https://br.investing.com/news/stock-market-news/acoes-da-klarna-disparam-9-com-parceria-de-leasing-de-dispositivos-apple-2008591",
+        "title": "Ações da Klarna disparam 9% com parceria de leasing de dispositivos Apple",
+        "description": "Ações da Klarna disparam 9% com parceria de leasing de dispositivos Apple",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "israel",
-            "estados unidos",
-            "líbano"
-        ],
+        "keywords": null,
         "creator": [
-            "la tercera"
+            "louis juricic"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "chile"
+            "brazil"
         ],
         "category": [
-            "politics",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-20 15:21:10",
+        "pubDate": "2026-07-21 15:20:56",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:36:19",
-        "image_url": "https://www.latercera.com/resizer/v2/23O35EH32BB6LIKTK6HKXQS33E.jpeg?auth=aa7b878c6f44eb883b37669d4a7d2fa44debb4990a35ec0dac6f91e8ab5861c7&smart=true&width=1590&height=960",
+        "fetched_at": "2026-07-21 15:36:59",
+        "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
         "video_url": null,
-        "source_id": "latercera",
-        "source_name": "Latercera",
-        "source_priority": 32330,
-        "source_url": "https://www.latercera.com",
-        "source_icon": "https://n.bytvi.com/latercera.jpg",
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -805,41 +358,142 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "美国确认在黎巴嫩启动试验区实施行动",
-        "description_zh": "美国国务院发言人汤米·皮戈特表示，“这一里程碑是以色列和黎巴嫩上周在罗马举行会谈的直接结果。美国将继续与双方密切合作，以成功实施该协议。”"
+        "title_zh": "Klarna 与苹果设备租赁合作伙伴股价飙升 9%",
+        "description_zh": "Klarna 与苹果设备租赁合作伙伴股价飙升 9%"
     },
     {
-        "article_id": "e82763ddf33256a7448e4f870216370f",
-        "link": "https://novedadesdetabasco.com.mx/2026/07/20/columna-prospectiva-153/",
-        "title": "Columna: Prospectiva",
-        "description": "Por: Emilio de Ygartua M. El Estrecho de Ormuz y el Fin de la Tregua La frágil paz entre Washington y Teherán se desmorona nuevamente en un momento de máxima sensibilidad para la economía mundial. La reactivación de la tensión entre ambas capitales vuelve a sacudir a los mercados, reaviva los temores en torno al ...",
+        "article_id": "977173ed0ba61db182756ed5449a73a1",
+        "link": "https://www.cronista.com/negocios/el-barrio-de-buenos-aires-donde-el-metro-cuadrado-se-disparo-un-18-en-apenas-un-ano-cuanto-cuesta-construir-hoy/",
+        "title": "El barrio de Buenos Aires donde el metro cuadrado se disparó un 18% en apenas un año: cuánto cuesta construir hoy",
+        "description": "Un nuevo informe mostró cómo evolucionaron los precios de venta y alquiler en el AMBA durante junio. Entre los datos más llamativos aparece un municipio que lideró la suba del valor de las casas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cat:local",
-            "type:post"
+            "mercado inmobiliario",
+            "real estate",
+            "construcción",
+            "alquileres",
+            "soluciones-ec",
+            "metro cuadrado"
         ],
         "creator": [
-            "novedades"
+            "el cronista"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:20:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 15:34:40",
+        "image_url": "https://www.cronista.com/resizer/v2/2EMVU5AUNVH3TC3UITHL7ZGZWQ.jpg?auth=f8a1a03e67dc070f33a580d885d82158b89f0980b384eb943c92d5bc87fa14d9&smart=true&width=1920&height=1080",
+        "video_url": null,
+        "source_id": "cronista",
+        "source_name": "El Cronista",
+        "source_priority": 17097,
+        "source_url": "https://www.cronista.com",
+        "source_icon": "https://n.bytvi.com/cronista.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "布宜诺斯艾利斯街区一年内面积增加了 18%：今天的建筑成本是多少",
+        "description_zh": "一份新报告显示了 6 月份 AMBA 销售和租金价格的变化情况。最引人注目的数据之一是引领房价上涨的城市。"
+    },
+    {
+        "article_id": "0278e47d46c312c2491f285fe12dc0ce",
+        "link": "https://www.infobae.com/honduras/2026/07/21/mas-de-15-mil-familias-del-corredor-seco-recibiran-alimentos-tras-perdidas-provocadas-por-la-sequia/",
+        "title": "Más de 15 mil familias del corredor seco recibirán alimentos tras pérdidas provocadas por la sequía",
+        "description": "La asistencia beneficiará a 15.229 hogares afectados por la sequía en 12 municipios de Choluteca y El Paraíso, con entregas durante 19 días consecutivos que iniciaron en San Antonio de Flores.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "corredorseco",
+            "municipios",
+            "sedesol",
+            "alimentos",
+            "familias",
+            "honduras"
+        ],
+        "creator": [
+            "oscar ortiz barahona"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "argentina",
+            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:20:55",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 15:30:40",
+        "image_url": "https://www.infobae.com/resizer/v2/WXJTW5CO2Q45UYVMT6UITBC7TM.jpg?auth=025573f2b3d21f5328427f28adab81fb610c7b84a435cf044fdcd05ebc094a88&smart=true&width=728&height=493",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "干旱走廊15000多个家庭将在因干旱造成损失后获得食物",
+        "description_zh": "该援助将从圣安东尼奥德弗洛雷斯开始连续 19 天交付，将惠及乔卢特卡和埃尔帕拉伊索 12 个市镇受干旱影响的 15,229 户家庭。"
+    },
+    {
+        "article_id": "0f1c6acdc8ca3e33b3b14d454e11f407",
+        "link": "https://www.expreso.com.mx/noticias/sonora/trayectoria-del-huracan-fausto-en-el-pacifico/260909",
+        "title": "Trayectoria del huracán Fausto en el Pacífico",
+        "description": "El huracán Fausto mantiene un desplazamiento constante sobre las aguas del océano Pacífico con una trayectoria perfilada hacia el oeste-noroeste. El fenómeno meteorológico sigue su curso alejándose del territorio nacional, por lo que no representa un riesgo de impacto directo para México en este momento. A pesar de su lejanía continental, la circulación del sistema provoca alteraciones marítimas que alcanzan al país. Los primeros efectos de este fenómeno meteorológico comienzan a registrarse específicamente en las costas de la península de Baja California. Para esta región costera del noroeste se pronostica un incremento significativo del oleaje en las próximas horas. A la par de este fenómeno, se advierte sobre la formación de corrientes de resaca que cambian la dinámica habitual del mar en la península. Las coordenadas actuales ubican el centro del ciclón en la latitud 16.6 norte y longitud 119.9 oeste . Esta posición lo sitúa a una distancia aproximada de 1,260 kilómetros al oeste-suroeste del extremo sur de Baja California. Monitoreo y trayectoria del ciclón La confirmación de esta ubicación exacta corresponde al reporte emitido a las 11:00 MST de este martes. El Centro Nacional de Huracanes (NHC, por sus siglas en inglés) es la dependencia encargada de mantener la vigilancia del progreso de la tormenta. El avance del ciclón tropical continúa de forma estable hacia el interior del Pacífico abierto . Las autoridades en la región noroeste mantienen el monitoreo de las condiciones del mar para garantizar la seguridad de la navegación y las zonas costeras. La constante vigilancia permite prever cualquier modificación en la velocidad o ruta del meteoro en los siguientes días. De momento, las condiciones climáticas en tierra firme permanecen sin alteraciones de gravedad por causa de esta tormenta.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "pron&#243;stico hurac&#225;n fausto",
+            "cicl&#243;n fausto oc&#233;ano pac&#237;fico",
+            "trayectoria hurac&#225;n fausto",
+            "hurac&#225;n fausto ubicaci&#243;n actual",
+            "centro nacional de huracanes fausto",
+            "efectos hurac&#225;n fausto baja california",
+            "hurac&#225;n fausto en el pac&#237;fico",
+            "oleaje baja california hurac&#225;n"
+        ],
+        "creator": [
+            "frank ramos"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "politics",
-            "top"
+            "top",
+            "environment"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-20 15:21:06",
+        "pubDate": "2026-07-21 15:21:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-20 15:25:59",
-        "image_url": "https://novedadesdetabasco.com.mx/wp-content/uploads/2026/02/ChatGPT-Image-21-feb-2026-07_58_16.jpg",
+        "fetched_at": "2026-07-21 23:48:13",
+        "image_url": "https://blob.expreso.com.mx/images/2026/07/21/trayectoria-del-huracan-fausto-en-el-pacifico-7c3ea6f5-focus-0-0-400-300.webp",
         "video_url": null,
-        "source_id": "novedadesdetabasco_mx",
-        "source_name": "Novedades De Tabasco",
-        "source_priority": 3923723,
-        "source_url": "https://novedadesdetabasco.com.mx",
-        "source_icon": "https://n.bytvi.com/novedadesdetabasco_mx.jpg",
+        "source_id": "expreso_mx",
+        "source_name": "Expreso",
+        "source_priority": 816853,
+        "source_url": "https://www.expreso.com.mx",
+        "source_icon": "https://n.bytvi.com/expreso_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -847,7 +501,423 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "专栏： 展望",
-        "description_zh": "作者：Emilio de Ygartua M. 霍尔木兹海峡与停战协议的结束 在世界经济最敏感的时刻，华盛顿和德黑兰之间脆弱的和平再次崩溃。两国首都之间紧张局势的重新激活再次震动了市场，重振了市场"
+        "title_zh": "飓风福斯托在太平洋的路径",
+        "description_zh": "飓风福斯托在太平洋水域上空持续移动，其路径向西北偏西方向移动。气象现象继续远离国家领土，因此不会对墨西哥造成直接影响的风险"
+    },
+    {
+        "article_id": "5b3e297ce90608bfcc01f44cffb85a11",
+        "link": "https://www.expreso.com.mx/noticias/seguridad/captan-a-sujeto-vandalizando-autos-en-la-colonia-san-benito/260910",
+        "title": "Captan a sujeto vandalizando autos en la colonia San Benito",
+        "description": "Cámaras de seguridad captaron el momento exacto en que un sujeto vandalizó un vehículo estacionado a las afueras de un establecimiento comercial, en la intersección de las calles Veracruz y General Bernardo Reyes , en la colonia San Benito . En las grabaciones se observa cómo el individuo se aproxima a la unidad automotriz, ubicada frente a una casa de cambio, y provoca daños materiales de consideración en el espejo retrovisor para posteriormente darse a la fuga a pie. La propietaria del automóvil descubrió el daño al concluir su jornada laboral y salir del inmueble. Vecinos exigen mayor presencia policial ante vandalismo recurrente A raíz de este incidente, vecinos y trabajadores del sector manifestaron que no se trata de un hecho aislado. De acuerdo con denunciantes locales, el mismo individuo recorre habitualmente las calles de la colonia San Benito cometiendo actos de violencia e intimidación en la vía pública. Ante el incremento de la inseguridad y la presencia constante del sospechoso, los afectados hicieron un llamado urgente a las autoridades de seguridad pública para que refuercen los patrullajes en la zona y den con el responsable antes de que sus actos escalen a daños físicos contra la comunidad.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "vecinos exigen polic&#237;a vandalismo san benito",
+            "sujeto vandaliza veh&#237;culo colonia san benito",
+            "agresor reincidente colonia san benito",
+            "seguridad p&#250;blica vandalismo san benito"
+        ],
+        "creator": [
+            "redacción"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:21:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 23:48:10",
+        "image_url": "https://blob.expreso.com.mx/images/2026/07/21/captan-a-sujeto-vandalizando-autos-en-la-colonia-san-benito-5367de30-focus-0-0-400-300.webp",
+        "video_url": null,
+        "source_id": "expreso_mx",
+        "source_name": "Expreso",
+        "source_priority": 816853,
+        "source_url": "https://www.expreso.com.mx",
+        "source_icon": "https://n.bytvi.com/expreso_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们捕捉到了一个在圣贝尼托社区破坏汽车的拍摄对象",
+        "description_zh": "安全摄像头捕捉到了一名嫌疑人破坏了停在圣贝尼托社区韦拉克鲁斯街和贝尔纳多·雷耶斯将军街交叉口的一家商业机构外的一辆车辆的确切瞬间。在录音中可以观察到个人如何"
+    },
+    {
+        "article_id": "dc1e6b44d5aeb08cbec5a168d1bd20da",
+        "link": "https://www.informador.mx/entretenimiento/fallece-ex-miss-jamaica-a-los-35-anos-quien-era-latoya-malcolm-20260721-0062.html",
+        "title": "¿Quién era LaToya Malcolm, la ex Miss Jamaica 2024 que falleció a los 35 años?",
+        "description": "LaToya Malcolm, exfinalista de Miss Universe Jamaica 2024, actriz y presentadora jamaicana, falleció este pasado sábado, según confirmó la organización del certamen",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "miss universo",
+            "celebridades",
+            "decesos de celebridades"
+        ],
+        "creator": [
+            "sun ."
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:21:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 15:35:56",
+        "image_url": "https://www.informador.mx/__export/1784647176133/sites/elinformador/img/2026/07/21/f0to_-1-_version1784647173837.png_1980793090.png",
+        "video_url": null,
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://n.bytvi.com/informador_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "35 岁去世的前 2024 年牙买加小姐拉托亚·马尔科姆 (LaToya Malcolm) 是谁？",
+        "description_zh": "经选美组织证实，2024 年牙买加环球小姐前决赛入围者、牙买加演员兼主持人拉托亚·马尔科姆于上周六去世。"
+    },
+    {
+        "article_id": "9b2e9aeddc9162184e6111ac2a38d084",
+        "link": "https://www.informador.mx/jalisco/dia-del-perro-este-21-de-julio-es-dia-de-los-lomitos-conoce-los-refugios-y-centros-de-adopcion-en-guadalajara-para-que-los-llenes-de-amor-20260721-0068.html",
+        "title": "¡Hoy es Día de los lomitos! Conoce los refugios y centros de adopción en Guadalajara",
+        "description": "Tener un perrito, pese a todas las satisfacciones que te puede proporcionar en la vida, tener una mascota es una responsabilidad",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "adopción",
+            "guadalajara",
+            "perros"
+        ],
+        "creator": [
+            "fabián flores"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:21:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 15:35:56",
+        "image_url": "https://www.informador.mx/__export/1784646982692/sites/elinformador/img/2026/07/21/dia_del_perro-adpcion-guadalajara_version1784646981945.jpg_1721402260.jpg",
+        "video_url": null,
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://n.bytvi.com/informador_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "今天是里脊肉日！了解瓜达拉哈拉的庇护所和收养中心",
+        "description_zh": "养狗虽然可以给你的生活带来很多满足，但养宠物也是一种责任。"
+    },
+    {
+        "article_id": "877f7a9658e776d8dd90c00ee1700a00",
+        "link": "https://www.eluniversal.com.mx/tendencias/pensiones-bienestar-2026-quienes-reciben-su-deposito-hoy-21-de-julio-consulta-aqui/",
+        "title": "Pensiones Bienestar 2026: ¿quiénes reciben su depósito HOY, 21 de julio?; consulta aquí",
+        "description": "Los depósitos correspondientes a este cuarto bimestre del año finalizarán el próximo miércoles 29 de julio a nivel nacional",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "pago",
+            "deposito",
+            "calendario de pagos pensiones",
+            "banco del bienestar",
+            "pension mujeres bienestar",
+            "calidad de vida",
+            "sembrando vida",
+            "pensiones bienestar",
+            "autonomis economica",
+            "gobierno de mexico",
+            "pagos bimestrales",
+            "tarjeta bienestar",
+            "programas bienestar",
+            "julio",
+            "programas sociales",
+            "personas con discapacidad",
+            "secretaria del bienestar",
+            "programa madres trabajadoras",
+            "cajero automatico",
+            "leticia ramirez amaya"
+        ],
+        "creator": [
+            "miriam de santos morales"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:20:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 16:00:36",
+        "image_url": "https://www.eluniversal.com.mx/resizer/v2/6GPC7HQMDVHCPBN6N7MQGJS76Q.png?auth=4db3a292fbf1bf564a0e49fc515fe78643b0ff43b8a446b3d217fbee89adf215&smart=true&width=1200&height=740",
+        "video_url": null,
+        "source_id": "eluniversal",
+        "source_name": "El Universal",
+        "source_priority": 8884,
+        "source_url": "https://www.eluniversal.com.mx",
+        "source_icon": "https://n.bytvi.com/eluniversal.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "2026 年福利养老金：7 月 21 日今天谁收到存款？检查这里",
+        "description_zh": "今年第四个两个月期间的存款将于下周三（7 月 29 日）在全国范围内结束"
+    },
+    {
+        "article_id": "717121ba7afac92f55f843618c10b699",
+        "link": "https://www.infobae.com/mexico/2026/07/21/realizan-colecta-anual-de-utiles-escolares-para-hijos-de-victimas-de-feminicidio-y-desaparicion-en-guadalajara/",
+        "title": "Realizan colecta anual de útiles escolares para hijos de víctimas de feminicidio y desaparición en Guadalajara",
+        "description": "La convocatoria cierra el 8 de agosto para reunir material destinado a niñas, niños y adolescentes en Jalisco cuyos padres o madres fueron víctimas de estos delitos",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "niños",
+            "feminicidios",
+            "huérfanos",
+            "mexico-noticias",
+            "hijos",
+            "mexico-seguridad",
+            "guadalajara",
+            "desparecidos"
+        ],
+        "creator": [
+            "nallely sánchez"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "argentina",
+            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:20:57",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 15:30:40",
+        "image_url": "https://www.infobae.com/resizer/v2/OH7K53FIYBADRMEOPBU5NUFULE.jpg?auth=68ed73b0cfea3e1c2d0d43caa3fbf457cfdd528fd59a2802aa0c07eba849eea9&smart=true&width=4686&height=3124",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们每年为瓜达拉哈拉女性被杀和失踪受害者的孩子收集学习用品",
+        "description_zh": "该呼吁将于 8 月 8 日结束，旨在为哈利斯科州父亲或母亲是这些罪行受害者的女孩、男孩和青少年收集材料"
+    },
+    {
+        "article_id": "ee49427f147608ef229164b293b4e668",
+        "link": "https://mx.investing.com/news/stock-market-news/acciones-de-klarna-suben-9-por-alianza-de-arrendamiento-con-apple-3694406",
+        "title": "Acciones de Klarna suben 9% por alianza de arrendamiento con Apple",
+        "description": "Acciones de Klarna suben 9% por alianza de arrendamiento con Apple",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "louis juricic"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:20:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 15:33:03",
+        "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "video_url": null,
+        "source_id": "investing_mx",
+        "source_name": "Investing México",
+        "source_priority": 1205,
+        "source_url": "https://mx.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "与苹果签订租赁联盟 Klarna 股价上涨 9%",
+        "description_zh": "与苹果签订租赁联盟 Klarna 股价上涨 9%"
+    },
+    {
+        "article_id": "0278e47d46c312c2491f285fe12dc0ce",
+        "link": "https://www.infobae.com/honduras/2026/07/21/mas-de-15-mil-familias-del-corredor-seco-recibiran-alimentos-tras-perdidas-provocadas-por-la-sequia/",
+        "title": "Más de 15 mil familias del corredor seco recibirán alimentos tras pérdidas provocadas por la sequía",
+        "description": "La asistencia beneficiará a 15.229 hogares afectados por la sequía en 12 municipios de Choluteca y El Paraíso, con entregas durante 19 días consecutivos que iniciaron en San Antonio de Flores.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "corredorseco",
+            "municipios",
+            "sedesol",
+            "alimentos",
+            "familias",
+            "honduras"
+        ],
+        "creator": [
+            "oscar ortiz barahona"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "argentina",
+            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:20:55",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 15:30:40",
+        "image_url": "https://www.infobae.com/resizer/v2/WXJTW5CO2Q45UYVMT6UITBC7TM.jpg?auth=025573f2b3d21f5328427f28adab81fb610c7b84a435cf044fdcd05ebc094a88&smart=true&width=728&height=493",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "干旱走廊15000多个家庭将在因干旱造成损失后获得食物",
+        "description_zh": "该援助将从圣安东尼奥德弗洛雷斯开始连续 19 天交付，将惠及乔卢特卡和埃尔帕拉伊索 12 个市镇受干旱影响的 15,229 户家庭。"
+    },
+    {
+        "article_id": "94a47bab95b676aac20e0f71aef2df27",
+        "link": "https://oem.com.mx/elsoldehidalgo/turismo/tesoros-naturales-que-protege-el-parque-nacional-el-chico-desde-hace-44-anos-31023806",
+        "title": "Tesoros naturales que protege el Parque Nacional El Chico desde hace 44 años",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "áreas naturales protegidas",
+            "hidalgo",
+            "ecoturismo",
+            "naturaleza"
+        ],
+        "creator": [
+            "dulce cruz"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:20:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 20:51:42",
+        "image_url": "https://oem.com.mx/elsoldehidalgo/img/28635580/1771935144/BASE_LANDSCAPE/400/image.jpg",
+        "video_url": null,
+        "source_id": "elsoldehidalgo_mx",
+        "source_name": "Elsoldehidalgo Mx",
+        "source_priority": 1444883,
+        "source_url": "https://www.elsoldehidalgo.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldehidalgo_mx.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "埃尔奇科国家公园 44 年来保护的自然宝藏",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "f171bee4abe7eac73f3ec99077842ad0",
+        "link": "https://oem.com.mx/elsoldecuernavaca/local/siembra-de-temporal-en-morelos-canicula-pone-a-prueba-cultivos-y-productores-31229990",
+        "title": "Siembra de temporal en Morelos: Canícula pone a prueba cultivos y productores",
+        "description": "La canícula afecta la siembra de temporal en Morelos. Sedagro descarta siniestros al momento y confirma cobertura de seguro agrícola para productores",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "lluvias",
+            "productores",
+            "canícula",
+            "morelos"
+        ],
+        "creator": [
+            "angelina albarrán"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-21 15:20:49",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-21 20:50:19",
+        "image_url": "https://oem.com.mx/elsoldecuernavaca/img/31230079/1784647165/BASE_LANDSCAPE/400/image.jpg",
+        "video_url": null,
+        "source_id": "elsoldecuernavaca_mx",
+        "source_name": "El Sol De Cuernavaca",
+        "source_priority": 1039602,
+        "source_url": "https://www.elsoldecuernavaca.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldecuernavaca_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "莫雷洛斯州雨养播种：坎库拉测试作物和生产者",
+        "description_zh": "热浪影响了莫雷洛斯州的雨养播种。 Sedagro 立即排除索赔并确认生产者的农业保险范围"
     }
 ]
