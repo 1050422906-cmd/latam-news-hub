@@ -1,153 +1,17 @@
 [
     {
-        "article_id": "b56f9e260f70f39c632fde527eac4d6a",
-        "link": "https://www.mdzol.com/mdz-show/revelan-sorpresivos-detalles-la-reconciliacion-javier-milei-una-famosa-expareja-la-quiere-candidata-las-elecciones-n1572998",
-        "title": "Revelan sorpresivos detalles de la reconciliación de Javier Milei con una famosa expareja: \"La quiere de candidata para las elecciones\"",
-        "description": "Ángel de Brito dio a conocer este viernes en LAM una inesperada afirmación sobre el presente sentimental de Javier Milei.",
+        "article_id": "85d309f765b9eb6c17b355dc69bb0a69",
+        "link": "https://odia.ig.com.br/esporte/2026/07/7282386-brasil-sofre-virada-da-turquia-e-fica-com-o-vice-da-liga-das-nacoes.html",
+        "title": "Brasil sofre virada da Turquia e fica com o vice da Liga das Nações",
+        "description": "Seleção brasileira vence o primeiro set, mas vê Melissa Vargas comandar reação turca na decisão",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "javier milei",
-            "fátima florez"
+            "brasil",
+            "liga das nações",
+            "turquia"
         ],
         "creator": [
-            "mdz show"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:34:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:01:53",
-        "image_url": "https://media.mdzol.com/p/702c3484590d76447170cf1b0fb1615f/adjuntos/373/imagenes/001/945/0001945960/1200x675/smart/javier-milei-rosario.jpg",
-        "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://n.bytvi.com/mdzol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们透露了哈维尔·米雷与一位著名前伴侣和解的令人惊讶的细节：“他希望她作为选举候选人”",
-        "description_zh": "Ángel de Brito 本周五在 LAM 上宣布了一份关于哈维尔·米雷 (Javier Milei) 感伤礼物的意外声明。"
-    },
-    {
-        "article_id": "36dd0a19eceff6066727f3ac4e146574",
-        "link": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/campeonato-brasileiro-tem-cinco-times-lutando-contra-o-rebaixamento-neste-sabado.shtml",
-        "title": "Campeonato Brasileiro tem cinco times lutando contra o rebaixamento neste sábado",
-        "description": "Cinco dos seis times que entraram em campo neste sábado (25) terão o mesmo objetivo pela 20a rodada do Campeonato Brasileiro que é o de sair ou tentar se afastar da zona de rebaixamento. São eles: Santos , Internacional , Vasco , Mirassol e Chapecoense . Leia mais (07/25/2026 - 12h34)",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:34:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:02:18",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "folha",
-        "source_name": "Folha",
-        "source_priority": 3498,
-        "source_url": "https://www.folha.uol.com.br",
-        "source_icon": "https://n.bytvi.com/folha.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "巴西锦标赛本周六有五支球队为保级而战",
-        "description_zh": "本周六上场的六支球队中的五支（25支）在巴西锦标赛第20轮比赛中将有相同的目标，那就是离开或试图摆脱降级区。它们是：桑托斯、国际、瓦斯科、米拉索尔和沙佩科恩斯。了解更多（2026 年 7 月 25 日 - 中午 12:34）"
-    },
-    {
-        "article_id": "603bbe96aaeb4a503a52c8b83535ccb5",
-        "link": "https://diariopanorama.com/noticia/560854/elias-suarez-futuro-implica-seguir-trabajando-desde-estado-para-desarrollo-todos-santiaguenos",
-        "title": "Elías Suárez: \"El futuro implica seguir trabajando desde el Estado para el desarrollo de todos los santiagueños\"",
-        "description": "Realizó un balance de las celebraciones por un nuevo aniversario de la \"Madre de Ciudades\" y expresó su satisfacción por la amplia participación de vecinos y visitantes.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "santiaguenos",
-            "diario panorama",
-            "todos",
-            "seguir",
-            "trabajando",
-            "futuro",
-            "locales",
-            "suarez",
-            "para",
-            "desarrollo",
-            "estado",
-            "desde",
-            "elias",
-            "implica"
-        ],
-        "creator": [
-            "redacción diario panorama"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:34:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 19:05:00",
-        "image_url": "https://diariopanorama.com/fotos/notas/2026/07/25/20260725152928.jpg",
-        "video_url": null,
-        "source_id": "diariopanorama",
-        "source_name": "Diario Panorama",
-        "source_priority": 31285,
-        "source_url": "https://diariopanorama.com",
-        "source_icon": "https://n.bytvi.com/diariopanorama.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "埃利亚斯·苏亚雷斯：“未来意味着国家将继续为所有圣地亚哥居民的发展而努力”",
-        "description_zh": "他回顾了“城市之母”一周年庆祝活动，对邻里和游客的广泛参与表示满意。"
-    },
-    {
-        "article_id": "e29322fa5063d8583eb6701075569f34",
-        "link": "https://www.meutimao.com.br/noticias-do-corinthians/536272/corinthians-fecha-primeiro-turno-do-brasileirao-com-terceira-melhor-campanha-da-decada-veja-numeros",
-        "title": "Corinthians fecha primeiro turno do Brasileirão com terceira melhor campanha da década; veja números",
-        "description": "O triunfo sobre o Remo, na última quinta-feira, garantiu que o Corinthians fechasse o primeiro turno do Campeonato Brasileiro com a sua terceira melhor campanha nesta década.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "corinthians x remo",
-            "corinthians",
-            "próximos jogos do corinthians",
-            "sport club corinthians paulista",
-            "brasileirão série a",
-            "campeonato brasileiro",
-            "resultados do corinthians"
-        ],
-        "creator": [
-            "victor bhering"
+            "estad&atilde;o conte&uacute;do"
         ],
         "language": "portuguese",
         "country": [
@@ -157,166 +21,10 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-25 15:34:00",
+        "pubDate": "2026-07-26 15:42:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:11:19",
-        "image_url": "https://cdn.meutimao.com.br/fotos-do-corinthians/w614/2026/07/23/elenco_titular_do_corinthians_diante_do_remo_gfz1.jpg",
-        "video_url": null,
-        "source_id": "meutimao",
-        "source_name": "Meu Timão",
-        "source_priority": 142685,
-        "source_url": "https://www.meutimao.com.br",
-        "source_icon": "https://n.bytvi.com/meutimao.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "科林蒂安队以十年来第三好的战绩结束了巴西联赛第一轮比赛；看数字",
-        "description_zh": "上周四战胜雷莫的比赛确保科林蒂安队以近十年来第三好的成绩结束了巴西锦标赛的第一轮比赛。"
-    },
-    {
-        "article_id": "b4ed8745b82f4e6ebb6f2890e5b19b82",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/25/acidente-entre-carro-e-caminhao-bloqueia-faixa-da-anhanguera-em-campinas.ghtml",
-        "title": "Acidente entre carro e caminhão bloqueia faixa da Anhanguera em Campinas",
-        "description": "Acidente entre carro e caminhão bloqueia faixa da Anhanguera em Campinas Um acidente entre um carro e um caminhão bloqueou a faixa da esquerda da Rodovia Anhanguera (SP-330), em Campinas (SP), na manhã deste sábado (25). A colisão traseira ocorreu no km 94, sentido capital, e causou 2 quilômetros de congestionamento no local. De acordo com a concessionária AutoBan, ninguém ficou ferido. Como a pista da esquerda segue interditada, o tráfego flui apenas pela faixa da direita na região do Parque Industrial. Carro que colidiu com a traseira do caminhão na Rodovia Anhanguera (SP-330), em Campinas. Isadora de Paiva VÍDEOS: Tudo sobre Campinas e região Acidente entre carro e caminhão bloqueia faixa da Anhanguera em Campinas Veja mais notícias sobre a região no g1 Campinas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "science"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:33:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:03:06",
-        "image_url": "https://s2-g1.glbimg.com/wkVRGs7sDYwiUZ3SPM7jXFEy8pQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/3/Lx5jZwSWAYlCBBKI8VJg/design-sem-nome-7-.jpg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "坎皮纳斯市汽车与卡车之间的事故堵塞了安汉格拉车道",
-        "description_zh": "汽车与卡车之间的事故堵塞了坎皮纳斯市的 Anhanguera 车道 本周六上午 (25 日)，一辆汽车与卡车之间的事故堵塞了坎皮纳斯市 (SP) Anhanguera 高速公路 (SP-330) 的左侧车道。追尾事故发生在距首都94公里处，造成2公里距离"
-    },
-    {
-        "article_id": "4959a2ba761cb02d25927583d22796a7",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/07/25/itamaraty-nega-vistos-a-funcionarios-do-governo-trump-que-viriam-ao-brasil-para-discutir-eleicoes.ghtml",
-        "title": "Itamaraty nega vistos a funcionários do governo Trump que viriam ao Brasil para discutir eleições",
-        "description": "O Itamaraty negou, na última sexta-feira, os vistos de dois funcionários do governo dos Estados Unidos que viriam ao Brasil com a justificativa oficial de discutir liberdade de expressão no contexto das eleições. Riley M. Barnes, secretário-assistente do Escritório de Democracia, Direitos Humanos e Trabalho, e Samuel D. Samson, secretário-assistente adjunto do mesmo escritório, atuam no Departamento de Estado, chefiado por Marco Rubio. A reportagem apurou que o governo brasileiro tomou conhecimento, no dia 20, do interesse do Departamento de Estado em enviar os dois funcionários ao Brasil para contatos com autoridades vinculadas ao processo eleitoral, com o objetivo de discutir questões relacionadas à liberdade de expressão nas eleições. A avaliação interna levou em consideração que o pedido de visto com esta finalidade ocorreu em um momento em que o candidato à presidência Flávio Bolsonaro (PL) questionou as urnas eletrônicas, inclusive em um evento com diplomatas. Observou-se haver, então, um risco de instrumentalização da visita em um contexto pré-eleitoral. Uma reportagem do Washington Post publicada na última sexta-feira informou que o governo de Donald Trump planejava enviar ao Brasil funcionários para questionar a integridade das urnas eletrônicas. Entre os funcionários mencionados estão Riley M. Barnes e Samuel D. Samson, do Departamento de Estado. A negativa por parte do governo brasileiro, o entanto, ocorreu antes da reportagem. A viagem de Barnes e Samson veio à tona na mesma semana em que Flávio Bolsonaro pediu a representantes diplomáticos estrangeiros que enviem observadores internacionais ao país após levantar suspeitas sob as urnas eletrônicas com base em informações falsas desmentidas pelo Tribunal Superior Eleitoral desde 2017. — O pedido que eu faço a todos aqui, não estou questionando o sistema de votação brasileiro, mas que todos os países possam mandar a maior quantidade de observadores possíveis para nossas eleições, como sempre fazem, e também pessoas que tenham conhecimento sobre essa tecnologia e como o Brasil pode dar eleições mais seguras e transparentes — disse.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:33:19",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:09:53",
-        "image_url": "https://s2-oglobo.glbimg.com/pT3jiSblWHa86inm349LbaeZTZg=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/D/U/meS9b3TjS31oPD2BeePw/afp-20260708-b9n92un-v1-midres-turkeynatosummitdefence.jpg",
-        "video_url": null,
-        "source_id": "oglobo_globo",
-        "source_name": "O Globo",
-        "source_priority": 93485,
-        "source_url": "https://oglobo.globo.com",
-        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "伊塔马拉蒂拒绝向前往巴西讨论选举的特朗普政府官员发放签证",
-        "description_zh": "上周五，伊塔马拉蒂拒绝了两名美国政府官员的签证，这两名美国政府官员将带着在选举背景下讨论言论自由的官方理由来巴西。 Riley M. Barnes，民主、人权办公室助理部长"
-    },
-    {
-        "article_id": "7bfd1e4f40a5851d37e3fc9803870db4",
-        "link": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/07/25/deepseek-pausa-rodada-de-investimentos-apos-posts-virais-diz-agencia.ghtml",
-        "title": "DeepSeek pausa rodada de investimentos após posts virais, diz agência",
-        "description": "A DeepSeek informou a potenciais investidores de sua segunda rodada de captação de recursos que, por enquanto, está suspendendo a operação, segundo pessoas familiarizadas com o assunto. A decisão ocorre poucos dias depois de comentários amplamente atribuídos ao fundador da empresa, Liang Wenfeng, sobre a competição entre Estados Unidos e China na área de inteligência artificial terem se tornado virais. A pioneira chinesa em IA comunicou verbalmente a alguns dos potenciais investidores que eles não assinariam os acordos de investimento nos próximos dias, como era esperado, disseram as fontes. Segundo essas pessoas, a DeepSeek poderá decidir retomar o processo de captação em uma data futura. Elas pediram para não ser identificadas por estarem tratando de discussões privadas. A suspensão decorre, em parte, da frustração de Liang com relatos divulgados na internet sobre comentários que ele teria feito a investidores durante a primeira rodada de financiamento da empresa, concluída em junho e que levantou US$ 7 bilhões para o laboratório de IA, afirmaram as fontes. A Bloomberg não conseguiu verificar a autenticidade dessas publicações, que se referem à suposta transcrição de uma reunião realizada por Liang com participantes não identificados. A mídia chinesa, incluindo o Yicai, informou nesta semana que o fundador bilionário comentou sobre a dependência da Nvidia para o desenvolvimento de inteligência artificial e sobre o fato de a China ainda permanecer atrás dos Estados Unidos em termos de sofisticação tecnológica em IA. A DeepSeek não respondeu imediatamente a um pedido de comentário enviado por e-mail sobre a suposta transcrição nem sobre a captação de recursos. As negociações continuam em andamento e a empresa ainda pode decidir prosseguir com a operação. Também não está claro se a DeepSeek comunicou sua decisão a todos os potenciais investidores da atual rodada. As conversas começaram apenas algumas semanas depois de a empresa concluir sua primeira rodada recorde de financiamento, quando atraiu investidores de peso, como a Tencent e a Contemporary Amperex Technology (CATL). A DeepSeek tinha como meta levantar pelo menos 10 bilhões de yuans em fundos adicionais em uma rodada de financiamento subsequente, embora o valor final pudesse ser maior, dependendo do número de investidores que aderissem. A startup buscava uma avaliação pré-investimento de pelo menos 480 bilhões de yuans, conforme noticiado anteriormente pela Bloomberg News. Isso representa um aumento em relação aos cerca de US$ 50 bilhões que a DeepSeek obteve em sua primeira rodada de investimentos. Além disso, a empresa iniciou os preparativos para uma oferta pública inicial de ações (IPO) e poderá protocolar o pedido já neste ano, abrindo caminho para o que poderá ser uma estreia histórica para o setor de tecnologia da China.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estados unidos",
-            "china",
-            "hard news",
-            "inteligência artificial"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:33:19",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:09:53",
-        "image_url": "https://s2-oglobo.glbimg.com/df0BdBTpLWyZpu5c3n3h3Zy04ds=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2025/H/H/JpwMzMSVKmsKSlAXAWcg/426497754.jpg",
-        "video_url": null,
-        "source_id": "oglobo_globo",
-        "source_name": "O Globo",
-        "source_priority": 93485,
-        "source_url": "https://oglobo.globo.com",
-        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "该机构表示，DeepSeek 在病毒帖子后暂停了一轮投资",
-        "description_zh": "据知情人士透露，DeepSeek 已在第二轮融资中通知潜在投资者，目前将暂停运营。该决定是在该公司创始人梁文发表评论几天后做出的"
-    },
-    {
-        "article_id": "e7f93bf26c36db1a667868f90a8d5727",
-        "link": "https://odia.ig.com.br/paraty/2026/07/7282107-casa-republica-promove-debates-sobre-democracia-e-literatura-na-flip.html",
-        "title": "Casa República promove debates sobre democracia e literatura na Flip",
-        "description": "Quinta edição do espaço reúne ministros, escritores, artistas e especialistas para discutir autoritarismo, desinformação, crise democrática e os desafios do Brasil contemporâneo",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "casa república debate flip tse stf"
-        ],
-        "creator": [
-            "jaciara santos"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:33:15",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:11:29",
-        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/07/25/whatsapp_image_2026_07_25_at_12_14_16-39126532.jpeg",
+        "fetched_at": "2026-07-26 16:11:32",
+        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/07/26/tur-39130052.jpg",
         "video_url": null,
         "source_id": "odia_ig_br",
         "source_name": "Odia Ig Br",
@@ -330,62 +38,196 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Casa República 在 Flip 上推动有关民主和文学的辩论",
-        "description_zh": "第五届空间汇集了部长、作家、艺术家和专家，讨论独裁主义、虚假信息、民主危机和当代巴西的挑战"
+        "title_zh": "巴西队惨败土耳其队，国联排名第二",
+        "description_zh": "巴西队赢得第一盘，但梅丽莎·巴尔加斯在决定中领先土耳其队"
     },
     {
-        "article_id": "298fbce0a13813b7217612c8f3423ee5",
-        "link": "https://flipr.com.ar/nacionales/eldiarioar/puede-haber-amor-despues-del-amor-un-poetico-film-islandes-da-su-respuesta/",
-        "title": "¿Puede haber amor después del amor?, un poético film islandés da su respuesta",
-        "description": "El director Hlynur Palmason, de quien se estrenó localmente en 2025 la extraordinaria “Godland”, nos ofrece ahora la tierna, elegíaca...",
+        "article_id": "67f71c933b4a82239d1670f5ac9e41de",
+        "link": "https://www.folhavitoria.com.br/policia/gravida-morre-em-grave-acidente-na-br-101-em-mimoso-do-sul/",
+        "title": "Grávida morre em grave acidente na BR-101, em Mimoso do Sul",
+        "description": "(Fotos: Reprodução/Redes Sociais) Aline Xavier não resistiu aos ferimentos após uma colisão envolvendo vários veículos na noite de sexta-feira (24)",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
+        "keywords": [
+            "corpo de bombeiros",
+            "acidente de trânsito",
+            "mimoso do sul - es",
+            "grávida",
+            "polícia científica",
+            "polícia rodoviária federal (prf)"
+        ],
+        "creator": [
+            "gabriel miranda"
+        ],
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
-            "entertainment",
+            "crime",
             "top"
         ],
-        "datatype": "pressrelease",
-        "pubDate": "2026-07-25 15:33:13",
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:41:59",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 15:46:19",
-        "image_url": "https://static.eldiario.es/clip/58c96590-f657-4d6f-a132-f7b485ddafc9_16-9-discover-aspect-ratio_default_0.jpg",
+        "fetched_at": "2026-07-26 16:09:44",
+        "image_url": "https://uploads.folhavitoria.com.br/imagens/2026/07/aline-vitima-gravida-acidente-mimoso-do-sul-marido-filha.png",
         "video_url": null,
-        "source_id": "flipr_ar",
-        "source_name": "Flipr.news",
-        "source_priority": 459507,
-        "source_url": "https://flipr.com.ar",
-        "source_icon": "https://n.bytvi.com/flipr_ar.png",
+        "source_id": "folhavitoria_br",
+        "source_name": "Folha Vitória",
+        "source_priority": 123574,
+        "source_url": "https://www.folhavitoria.com.br",
+        "source_icon": "https://n.bytvi.com/folhavitoria_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "爱情之后还能有爱情吗？一部充满诗意的冰岛电影给出了答案",
-        "description_zh": "导演赫林努尔·帕尔马森 (Hlynur Palmason) 的非凡作品《神国》于 2025 年在当地首映，现在为我们带来了温柔、哀伤的……"
+        "duplicate": false,
+        "title_zh": "孕妇在 BR-101 南米莫索的严重事故中死亡",
+        "description_zh": "（图片来源：转载/社交网络）艾琳·泽维尔（Aline Xavier）在周五晚上发生多辆车相撞事故后伤重不治（24）"
     },
     {
-        "article_id": "9e48931d455d2e9bd510fc149414c810",
-        "link": "https://www.infomoney.com.br/advisor/marca-pessoal-deixa-de-ser-vitrine-vira-ferramenta-negocios-assessores/",
-        "title": "Marca pessoal deixa de ser vitrine e vira ferramenta de negócios para assessores",
-        "description": "Executivos dizem na Expert XP que redes sociais passaram a influenciar prospecção, relacionamento e geração de receita The post Marca pessoal deixa de ser vitrine e vira ferramenta de negócios para assessores appeared first on InfoMoney .",
+        "article_id": "6fc60d0d2f647fd093123e8c5c493304",
+        "link": "https://tn.com.ar/sociedad/2026/07/26/una-mujer-estaba-comprando-en-un-supermercado-se-resbalo-con-un-charco-de-agua-y-deberan-indeminizarla-por-haberse-lastimado/",
+        "title": "Una mujer estaba comprando en un supermercado, se resbaló con un charco de agua y deberán indeminizarla por haberse lastimado",
+        "description": "Sucedió en Olavarría. La Justicia condenó a la empresa a resarcir a la clienta, que sufrió una caída por una gotera que no había sido señalizada.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "expert xp",
-            "influenciador digital",
-            "influencer",
-            "influenciador de finanças",
-            "assessor de investimentos",
-            "redes sociais"
+            "supermercado",
+            "justicia",
+            "demanda",
+            "indemnización",
+            "fallo",
+            "olavarria"
         ],
         "creator": [
-            "daniel navas"
+            "carolina villalba"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:41:25",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 16:02:20",
+        "image_url": "https://tn.com.ar/resizer/v2/HWENC6A4ZBFNZGTDQLJV6C3JWI.png?auth=eb5b6d39e9e946d4f1c722379c24ba2df0d0721cee63b51bb2e7be7c428d2959",
+        "video_url": null,
+        "source_id": "tn",
+        "source_name": "Todo Noticias",
+        "source_priority": 6803,
+        "source_url": "https://tn.com.ar",
+        "source_icon": "https://n.bytvi.com/tn.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "一名女子在超市购物，踩到一滩水滑倒，受伤人员必须赔偿",
+        "description_zh": "事情发生在奥拉瓦里亚。法院命令该公司对客户进行赔偿，该客户因未报告的泄漏而摔倒。"
+    },
+    {
+        "article_id": "0376992d9320fcedf5b76ef617defd3c",
+        "link": "https://veja.abril.com.br/politica/o-isolamento-da-candidatura-de-ronaldo-caiado-a-presidencia/",
+        "title": "O isolamento da candidatura de Ronaldo Caiado à Presidência",
+        "description": "PSD não selou apoio de nenhuma outra sigla de centro-direita e alguns dos principais governadores da legenda não foram à convenção",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ronaldo caiado",
+            "maquiavel",
+            "eleições 2026"
+        ],
+        "creator": [
+            "anna satie"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:41:19",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 16:01:58",
+        "image_url": "https://veja.abril.com.br/wp-content/uploads/2026/07/20260726_113831.jpg?quality=70&strip=info",
+        "video_url": null,
+        "source_id": "veja_abril_br",
+        "source_name": "Veja",
+        "source_priority": 5562,
+        "source_url": "https://veja.abril.com.br",
+        "source_icon": "https://n.bytvi.com/veja_abril_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "罗纳尔多·卡亚多总统候选人资格的孤立",
+        "description_zh": "社会民主党不支持任何其他中右翼政党，该党的一些主要州长也没有出席大会"
+    },
+    {
+        "article_id": "5a7b6464f7822891d0b9ee65ced46270",
+        "link": "https://elintransigente.com/2026/07/se-terminan-91-anos-de-saqueo-karen-reichardt-defendio-la-reforma-oficialista-del-banco-central/",
+        "title": "«Se terminan 91 años de saqueo»: Karen Reichardt defendió la reforma oficialista del Banco Central",
+        "description": "La diputada nacional respalda la modificación que gobierno busca hacer de la carta orgánica del organismo financiero The post «Se terminan 91 años de saqueo»: Karen Reichardt defendió la reforma oficialista del Banco Central appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "javier milei",
+            "banco central",
+            "karen reichardt",
+            "reforma"
+        ],
+        "creator": [
+            "jeremiaschacon"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:41:12",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 15:52:10",
+        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2025/11/karen-reichardt-2114856.jpg?fit=1280%2C720&quality=95&ssl=1",
+        "video_url": null,
+        "source_id": "elintransigente",
+        "source_name": "El Intransigente",
+        "source_priority": 3446332,
+        "source_url": "https://elintransigente.com",
+        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“91年的抢劫结束了”：凯伦·雷查特为央行官方改革辩护",
+        "description_zh": "国家代表支持政府寻求对金融组织章程进行的修改“91年的抢劫即将结束”的帖子：凯伦·雷查特（Karen Reichardt）为中央银行的官方改革辩护首先出现在《El Intransigente》上：来自阿根廷和阿根廷的最新消息"
+    },
+    {
+        "article_id": "0c7184d39cd017e1207bb3902181f1d7",
+        "link": "https://www.estadao.com.br/economia/lula-critica-tarifas-dos-eua-e-diz-que-ninguem-vai-nos-derrotar-com-mentiras/",
+        "title": "Lula critica tarifas dos EUA e diz que ‘ninguém vai nos derrotar com mentiras’",
+        "description": "Em artigo no Washington Post, presidente rebate argumentos de Trump, avalia reciprocidade e condena “interferência externa”",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "lavínia  kaucz"
         ],
         "language": "portuguese",
         "country": [
@@ -395,16 +237,16 @@
             "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-25 15:33:12",
+        "pubDate": "2026-07-26 15:41:08",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 15:37:49",
-        "image_url": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260724-14h40-pop-up-financial-lab-2.jpg?fit=1620%2C1080&quality=70&strip=all",
+        "fetched_at": "2026-07-26 16:03:43",
+        "image_url": "https://www.estadao.com.br/resizer/v2/X54BUYWIPNCOPHLFIRG3UVM34U.jpg?quality=80&auth=6470d6adf0361c54dfb861d196e3f0450814981c51c982cfd5c5742b55d64f28&width=1200&height=1200&smart=true",
         "video_url": null,
-        "source_id": "infomoney",
-        "source_name": "Infomoney",
-        "source_priority": 68762,
-        "source_url": "https://www.infomoney.com.br",
-        "source_icon": "https://n.bytvi.com/infomoney.png",
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://n.bytvi.com/estadao_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -412,35 +254,438 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "个人品牌不再是展示品，而是成为顾问的商业工具",
-        "description_zh": "高管们在 Expert XP 上表示，社交网络已经开始影响勘探、关系和创收。个人品牌不再是展示品，而是成为顾问的商业工具，这一点首先出现在 InfoMoney 上。"
+        "title_zh": "卢拉批评美国关税并表示“没有人会用谎言打败我们”",
+        "description_zh": "在《华盛顿邮报》的一篇文章中，总统反驳了特朗普的论点，评估了互惠并谴责“外部干涉”"
     },
     {
-        "article_id": "48fda8c21f789c269add6635eda0a386",
-        "link": "https://www.soyfutbol.com/internacional/roma-insiste-por-israel-reyes-pero-america-considera-insuficiente-la-primera-oferta-20260724-0051.html",
-        "title": "Roma insiste por Israel Reyes, pero América considera insuficiente la primera oferta",
-        "description": "El conjunto italiano busca fichar al defensor mexicano tras seguirlo de cerca durante la Copa del Mundo 2026. Sin embargo, la directiva azulcrema considera baja la propuesta inicial y espera una nueva oferta para negociar su posible salida",
+        "article_id": "10ba57916ae1581955ecaa29ced1e510",
+        "link": "https://www.iprofesional.com/politica/460805-villarruel-se-fue-de-vacaciones-y-no-compartio-el-acto-en-la-rural-con-javier-milei",
+        "title": "Villarruel se fue de vacaciones y no compartió el acto en La Rural con Javier Milei",
+        "description": "La vicepresidenta prefirió tomarse unos días en Neuquén mientras el mandatario encabezaba el acto central en el predio de Palermo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "argentina",
+            "economía",
+            "vinos",
+            "technology",
+            "autos",
+            "noticias",
+            "finanzas",
+            "victoria villarruel",
+            "life and style",
+            "negocios",
+            "management",
+            "marketing",
+            "legal",
+            "politics",
+            "tecnología",
+            "breaking",
+            "real estate",
+            "economy",
+            "buenos aires",
+            "diario"
+        ],
+        "creator": [
+            "iprofesional"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:41:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 16:09:31",
+        "image_url": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/621601.jpg",
+        "video_url": null,
+        "source_id": "iprofesional",
+        "source_name": "Iprofesional",
+        "source_priority": 120704,
+        "source_url": "https://www.iprofesional.com",
+        "source_icon": "https://n.bytvi.com/iprofesional.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Villarruel 去度假了，没有与 Javier Milei 分享 La Rural 的活动",
+        "description_zh": "副总统更愿意在内乌肯待几天，而总统则在巴勒莫现场主持中心活动"
+    },
+    {
+        "article_id": "e99b4aa6cb9481f2086ad790580821fd",
+        "link": "https://la100.cienradios.com/virales/es-venezolano-defendio-a-argentina-de-las-acusaciones-racista-y-se-volvio-viral-el-argentino-nace-donde-quiere/",
+        "title": "Es venezolano, defendió a Argentina de las acusaciones racista y se volvió viral: “El argentino nace donde quiere”",
+        "description": "Un venezolano radicado en Argentina defendió al país de las acusaciones racistas y discriminatorias al contar su experiencia.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "argentina"
+        ],
+        "creator": [
+            "la 100"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-07-26 15:40:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 15:48:33",
+        "image_url": "https://la100.cienradios.com/resizer/v2/XJD26OHWBBF47DLUP3FIQVUDQU.png?auth=8b513afe4074ac3ffbdbaa22f14f19ae9a9c5001f3cfcd3eba9ce6c2b0f05c58&smart=true&width=1200&height=900&quality=85",
+        "video_url": "https://la100.cienradios.com/virales/es-venezolano-defendio-a-argentina-de-las-acusaciones-racista-y-se-volvio-viral-el-argentino-nace-donde-quiere/",
+        "source_id": "la100",
+        "source_name": "La Cien Radio",
+        "source_priority": 999999,
+        "source_url": "https://la100.cienradios.com",
+        "source_icon": "https://n.bytvi.com/la100.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他是委内瑞拉人，他捍卫阿根廷免受种族主义指控，这句话疯传：“阿根廷人出生在他想要的地方”",
+        "description_zh": "一名居住在阿根廷的委内瑞拉人通过讲述自己的经历，捍卫国家免受种族主义和歧视性指控。"
+    },
+    {
+        "article_id": "9f9a42f108e52fe1c804ebade0445293",
+        "link": "https://www.bahianoticias.com.br/municipios/noticia/51798-acidente-envolvendo-motocicleta-e-caminhonete-na-ba-026-deixa-dois-mortos",
+        "title": "Acidente envolvendo motocicleta e caminhonete na BA-026 deixa dois mortos",
+        "description": "Um grave acidente de trânsito entre uma motocicleta e uma caminhonete em um trecho da rodovia BA-026 que conecta os municípios de Caculé e Licínio de Almeida, deixou dois mortos na noite do último sábado (25). De acordo com informações do site Achei Sudoeste, parceiro do Bahia Notícias, as vítimas fatais estavam a bordo da motocicleta, uma Honda CG 150 Titan e faleceram ainda no local. Segundo a 94a Companhia Independente de Polícia Militar (CIPM), a guarnição foi acionada via Centro Integrado de Comunicações (Cicom) de Guanambi para atender à ocorrência. Ao chegarem no local, os policiais confirmaram a colisão frontal envolvendo uma motocicleta e uma caminhonete Chevrolet D20. As vítimas que ocupavam a motocicleta não resistiram aos ferimentos foram identificadas como Roberto de Jesus Matos (condutor) e Ricardo Brito Ferreira (passageiro). Ambos eram moradores do povoado de Tamburiuzinho, localizado na zona rural de Caculé. O condutor da caminhonete D20 recebeu socorro de uma equipe do Serviço de Atendimento Móvel de Urgência (Samu) e foi encaminhado ao Hospital Nossa Senhora Aparecida antes da chegada da Polícia Militar ao local. A área da colisão foi isolada e preservada pela PM para os procedimentos legais. O Departamento de Polícia Técnica (DPT) realizou o levantamento fotográfico e a perícia de campo, além de efetuar a remoção dos corpos, que foram levados ao Instituto Médico Legal (IML) de Guanambi. As causas que levaram à colisão frontal serão apuradas pelas autoridades.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "achei sudoeste",
+            "ba-026"
+        ],
+        "creator": [
+            "redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:40:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 15:41:43",
+        "image_url": "https://www.bahianoticias.com.br/fotos/municipios_noticias/51798/IMAGEM_NOTICIA_original.jpg",
+        "video_url": null,
+        "source_id": "bahianoticias",
+        "source_name": "Bahia Notícias",
+        "source_priority": 164044,
+        "source_url": "https://www.bahianoticias.com.br",
+        "source_icon": "https://n.bytvi.com/bahianoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "BA-026 上涉及摩托车和卡车的事故造成两人死亡",
+        "description_zh": "上周六晚 (25)，在连接卡库莱市和利西尼奥德阿尔梅达市的 BA-026 高速公路的一段路段上，一辆摩托车和一辆皮卡车之间发生了一起严重交通事故，造成两人死亡。根据 Bahia Notícias 合作伙伴 Acho Sudoeste 网站的信息，"
+    },
+    {
+        "article_id": "3332a2ee991f021561e7df56058a3ade",
+        "link": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/novas-chuvas-podem-fazer-rio-dos-sinos-superar-cota-de-inundacao-em-150-metro-em-sao-leopoldo-ate-a-proxima-semana-1.1734257",
+        "title": "Novas chuvas podem fazer rio dos Sinos superar cota de inundação em 1,50 metro em São Leopoldo até a próxima semana",
+        "description": "Prefeitura trabalha com possibilidade de cota de até seis metros do rio, estável neste sábado, ser alcançada até dia 1o, o que alagaria parte do bairro São Geraldo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "rio dos sinos",
+            "alagamento",
+            "inundação",
+            "chuvas",
+            "enchente"
+        ],
+        "creator": [
+            "correio do povo"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:40:35",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 22:11:02",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "correiodopovo",
+        "source_name": "Correio Do Povo",
+        "source_priority": 139621,
+        "source_url": "https://www.correiodopovo.com.br",
+        "source_icon": "https://n.bytvi.com/correiodopovo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "下周新的降雨可能会使里约多斯西诺斯 (Rio dos Sinos) 的洪水位超过圣莱奥波尔多 (São Leopoldo) 1.50 米",
+        "description_zh": "市政厅正在研究河流水位可能达到六米的可能性，该水位将于本周六稳定，一号水位将达到，这将淹没圣杰拉尔多社区的部分地区"
+    },
+    {
+        "article_id": "74c8d8d087d85b683318812be6d8deff",
+        "link": "https://pulsoslp.com.mx/meta/liga-mx-horarios-y-canales-para-ver-necaxa-vs-rayados-de-la-j2/2070470",
+        "title": "Liga MX: Horarios y canales para ver Necaxa vs Rayados de la J2",
+        "description": "Sigue Necaxa vs Rayados en Liga MX con horario y canal oficiales para el duelo del 26 de julio.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "necaxa vs rayados horario y canal",
+            "liga mx jornada 2 necaxa monterrey",
+            "necaxa victoria apertura 2026",
+            "rayados triunfo santos laguna",
+            "partido necaxa rayados 26 julio 2026"
+        ],
+        "creator": [
+            "pulso slp"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:42:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 17:52:48",
+        "image_url": "https://blobcore.pulsoslp.com.mx/images/2025/07/19/captura-de-pantalla-2025-07-19-104422-487c0813-focus-0-0-600-315.webp",
+        "video_url": null,
+        "source_id": "pulsoslp_mx",
+        "source_name": "Pulso Diario San Luis",
+        "source_priority": 3206842,
+        "source_url": "https://www.pulsoslp.com.mx",
+        "source_icon": "https://n.bytvi.com/pulsoslp_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Liga MX：观看 Necaxa 对阵 J2 Rayados 的时间表和频道",
+        "description_zh": "关注 Necaxa 对阵 Rayados 的 Liga MX，了解 7 月 26 日对决的官方赛程表和频道。"
+    },
+    {
+        "article_id": "98c099e7225e4fab1e10723ab8b59dcb",
+        "link": "https://www.quadratin.com.mx/nacionales/huracan-se-intensifica-a-categoria-3-en-el-pacifico/",
+        "title": "Huracán se intensifica a categoría 3 en el Pacífico",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "huracán",
+            "jalisco"
+        ],
+        "creator": [
+            "redacción/quadratín jalisco"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:41:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 15:44:28",
+        "image_url": "https://www.quadratin.com.mx/www/wp-content/uploads/2026/07/Inundaciones-1160x700-1-1160x700.jpeg",
+        "video_url": null,
+        "source_id": "quadratin",
+        "source_name": "Quadratín",
+        "source_priority": 320781,
+        "source_url": "https://www.quadratin.com.mx",
+        "source_icon": "https://n.bytvi.com/quadratin.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "太平洋飓风强度达到三级",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "3992cb2342fc42c6f4e37e01050b59c8",
+        "link": "https://www.elgrafico.mx//al-dia/2026/07/26/por-que-la-estacion-barranca-del-muerto-del-metro-cdmx-tiene-dos-aves-como-simbolo/",
+        "title": "¿Por qué la estación Barranca del Muerto del Metro CDMX tiene dos aves como símbolo?",
+        "description": "Descubre por qué la estación del Metro CDMX muestra dos aves en su emblemático símbolo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "significado simbolos del metro cdmx",
+            "barranca del muerto",
+            "metro cdmx",
+            "estaciones del metro cdmx",
+            "historia"
+        ],
+        "creator": [
+            "el gráfico"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:41:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 16:13:59",
+        "image_url": "https://www.elgrafico.mx/resizer/v2/4YVCTF7KUFGWTCKRZBZ7MR4QLM.jpg?auth=fd934554a376123049c0672955d7a03022f49b281449aa0a0f62ec105224917c&smart=true&width=1200&height=740",
+        "video_url": null,
+        "source_id": "elgrafico",
+        "source_name": "Elgrafico Mx",
+        "source_priority": 360449,
+        "source_url": "https://www.elgrafico.mx",
+        "source_icon": "https://n.bytvi.com/elgrafico.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "为什么 CDMX 地铁的 Barranca del Muerto 站以两只鸟作为标志？",
+        "description_zh": "了解为什么 CDMX 地铁站的标志性符号中显示有两只鸟"
+    },
+    {
+        "article_id": "a30f460a2184e1351a6d1d7a4b98e5cb",
+        "link": "https://www.diarioeldia.cl/noticias/2026/07/26/145804-alcalde-manouchehri-pide-acelerar-la-recuperacion-de-caminos-y-conectividad-tras-la-emergencia",
+        "title": "Alcalde Manouchehri pide acelerar la recuperación de caminos y conectividad tras la emergencia",
+        "description": "El jefe comunal se reunió con el subsecretario de Obras Públicas y autoridades de Vialidad para coordinar acciones urgentes que permitan restablecer la infraestructura, los servicios básicos y la conexión de los sectores aislados de Coquimbo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
-        "creator": null,
+        "creator": [
+            "equipo el día"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "politics",
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:41:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 15:47:58",
+        "image_url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/07/diarioeldia/images/02/69/80/2698091_85f7892ad9e31687d4bb2aa03ac15675b42221fcb8abc51212416aab3b29468f/md.webp",
+        "video_url": null,
+        "source_id": "diarioeldia",
+        "source_name": "Diario El D",
+        "source_priority": 942639,
+        "source_url": "https://diarioeldia.cl",
+        "source_icon": "https://n.bytvi.com/diarioeldia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "市长马努切里要求紧急情况后加快道路和连通性的恢复",
+        "description_zh": "社区负责人会见了公共工程和道路当局副部长，协调紧急行动，以恢复基础设施、基本服务以及科金博偏远地区的连接。"
+    },
+    {
+        "article_id": "584f61e88eeab721798a11aff4505996",
+        "link": "https://www.diarioeldia.cl/noticias/2026/07/26/145804-manouchehri-pide-acelerar-recuperacion-de-caminos-y-conectividad",
+        "title": "Manouchehri pide acelerar recuperación de caminos y conectividad",
+        "description": "El alcalde de Coquimbo se reunió con el subsecretario de Obras Públicas y autoridades de Vialidad para coordinar acciones urgentes destinadas a restablecer la conectividad, recuperar la infraestructura dañada y garantizar los servicios básicos en los sectores aislados de la comuna.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "equipo el día"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-26 15:41:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-26 19:18:45",
+        "image_url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/07/diarioeldia/images/02/69/80/2698091_85f7892ad9e31687d4bb2aa03ac15675b42221fcb8abc51212416aab3b29468f/md.webp",
+        "video_url": null,
+        "source_id": "diarioeldia",
+        "source_name": "Diario El D",
+        "source_priority": 942639,
+        "source_url": "https://diarioeldia.cl",
+        "source_icon": "https://n.bytvi.com/diarioeldia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "马努切里要求加快道路和连通性的恢复",
+        "description_zh": "科金博市长会见了公共工程和道路部门副部长，协调紧急行动，旨在恢复连通性、恢复受损的基础设施并保障该社区偏远地区的基本服务。"
+    },
+    {
+        "article_id": "653a2e2c9bff444c1dad1b20e4c954b0",
+        "link": "https://oem.com.mx/la-prensa/metropoli/pan-denuncia-falta-de-estrategia-efectiva-ante-aumento-de-feminicidios-en-cdmx-31303961",
+        "title": "PAN denuncia falta de estrategia efectiva ante aumento de feminicidios en CDMX",
+        "description": "El PAN en CDMX condena el aumento del 11.7% en feminicidios en la capital, denuncia la ausencia de una estrategia efectiva y exige atención inmediata y acciones concretas ante la violencia contra las mujeres",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "feminicidios",
+            "violencia de género",
+            "pan cdmx"
+        ],
+        "creator": [
+            "patricia carrasco"
+        ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "sports"
+            "health",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-25 15:34:00",
+        "pubDate": "2026-07-26 15:41:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:18:25",
-        "image_url": "https://www.soyfutbol.com/images-formats/1200x675/t_2-p_9-fpx_1600-fpy_1066/jpg/2026/07/24/jam_m_278840.jpg",
+        "fetched_at": "2026-07-26 21:16:42",
+        "image_url": "https://oem.com.mx/la-prensa/img/30827529/1782658462/BASE_LANDSCAPE/400/image.jpg",
         "video_url": null,
-        "source_id": "soyfutbol",
-        "source_name": "Soyfutbol",
-        "source_priority": 877070,
-        "source_url": "https://www.soyfutbol.com",
-        "source_icon": "https://n.bytvi.com/soyfutbol.png",
+        "source_id": "la_prensa_mx",
+        "source_name": "La Prensa",
+        "source_priority": 512334,
+        "source_url": "https://www.la-prensa.com.mx",
+        "source_icon": "https://n.bytvi.com/la_prensa_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -448,125 +693,50 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "罗马坚持要以色列雷耶斯，但美国认为第一个报价不够",
-        "description_zh": "意大利队在 2026 年世界杯期间密切关注这位墨西哥后卫后，寻求签下他。然而，azulcrema 董事会认为最初的提议较低，并等待新的提议来谈判他可能的离职"
+        "title_zh": "国家行动党谴责在 CDMX 地区杀戮女性事件增加时缺乏有效策略",
+        "description_zh": "CDMX 的 PAN 谴责首都女性被杀事件增加 11.7%，谴责缺乏有效的战略，并要求立即关注并采取具体行动打击暴力侵害妇女行为"
     },
     {
-        "article_id": "cae23ffe16e49e412454735f68af3c7c",
-        "link": "https://www.mediotiempo.com/mas-deportes/isaac-toro-amarra-virtualmente-podio-tour-france-2026",
-        "title": "Tadej Pogacar e Isaac del Toro brillan en el Tour de France",
-        "description": "Con una fecha por correrse, que suele ser más de exhibición, el ciclista mexicano aparece en el tercer lugar de la general por detrás de Pogacar y Evenepoel.",
+        "article_id": "0488d198d3d4580706f8f9a4ede75436",
+        "link": "https://www.poresto.com/campeche/2026/7/26/cfe-detecta-diablitos-y-conexiones-clandestinas-que-afectan-el-suministro-electrico-en-campeche.html",
+        "title": "CFE detecta \"diablitos\" y conexiones clandestinas que afectan el suministro eléctrico en Campeche",
+        "description": "Durante trabajos de mantenimiento, brigadas localizaron tomas ilegales, reemplazaron postes y transformadores dañados por las lluvias.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "en qué lugar acabó isaac del toro"
+            "cfe",
+            "eléctrico",
+            "afectan",
+            "conexiones",
+            "detecta",
+            "campeche",
+            "suministro",
+            "diablitos",
+            "clandestinas",
+            "comisión federal de electricidad",
+            "península de yucatán"
         ],
         "creator": [
-            "agencia efe"
+            "redacción por esto"
         ],
         "language": "spanish",
         "country": [
             "mexico"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:33:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 15:35:58",
-        "image_url": "https://s3.us-east-2.amazonaws.com/cdn.mediotiempo.com/uploads/media/2026/07/25/tadej-pogacar-isaac-toro-brillan.jpg",
-        "video_url": null,
-        "source_id": "mediotiempo",
-        "source_name": "Medio Tiempo",
-        "source_priority": 36606,
-        "source_url": "https://www.mediotiempo.com",
-        "source_icon": "https://n.bytvi.com/mediotiempo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "塔德·波加卡尔和艾萨克·德尔·托罗在环法自行车赛中大放异彩",
-        "description_zh": "由于比赛日期通常更像是一场表演赛，这位墨西哥自行车手在总成绩上排名第三，落后于波加卡尔和埃弗内普尔。"
-    },
-    {
-        "article_id": "8c55a6ee4ae52eee6c1ffd2b50838757",
-        "link": "https://www.elnuevosiglo.com.co/deportes/carapaz-gana-la-etapa-reina-y-pogacar-roza-su-quinto-tour",
-        "title": "Carapaz gana la etapa reina y Pogačar roza su quinto Tour",
-        "description": "Carapaz gana la etapa reina y Pogačar roza su quinto Tour Presente en la escapada desde el inicio de la etapa, la \"Locomotora del Carchi\", del EF Education, superó por 26 segundos al belga Remco Evenepoel y por 31 segundos al estadounidense Sepp Kuss",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "etapa 20 del tour de francia",
-            "carapaz",
-            "tour de francia",
-            "pogacar"
-        ],
-        "creator": [
-            "ibrain.alape"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:33:36",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:22:54",
-        "image_url": "https://www.elnuevosiglo.com.co/sites/default/files/2026/07/25/imagen/Carapaz%20gana%20la%20etapa%20reina%20y%20Poga%C4%8Dar%20roza%20su%20quinto%20Tour.png",
-        "video_url": null,
-        "source_id": "elnuevosiglo",
-        "source_name": "El Nuevo Siglo",
-        "source_priority": 3048165,
-        "source_url": "http://elnuevosiglo.com.co",
-        "source_icon": "https://n.bytvi.com/elnuevosiglo.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Carapaz gana la etapa reina y Pogačar roza su quinto Tour 巡演",
-        "description_zh": "卡拉帕斯 (Carapaz) 赢得女王赛段，波加查 (Pogačar) 即将第五次参加巡回赛，从赛段一开始就突围而出，来自 EF Education 的“Locomotora del Carchi”以 26 秒的优势击败了比利时选手 Remco Evenepoel，以 31 秒的优势击败了美国选手 Sepp Kuss"
-    },
-    {
-        "article_id": "f6846598afdf1563d6039f8fd7df9d0b",
-        "link": "https://www.eldiario.com.co/actualidad/gaula-militar-eje-cafetero-tiene-nuevo-comandante-para-risaralda-caldas-y-quindio/",
-        "title": "Gaula Militar Eje Cafetero tiene nuevo comandante para Risaralda, Caldas y Quindío",
-        "description": "El mayor Carlos Alberto Díaz Chacón asumió el mando de la unidad especializada en la lucha contra el secuestro y la extorsión. Durante la ceremonia también fue reconocida la gestión del comandante saliente, mayor Andrés Felipe Quesada Ducuara. En la plaza de armas del Batallón de Artillería de Campaña N.° 8 San Mateo se realizó [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "p4"
-        ],
-        "creator": [
-            "s.g - editor web"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
         ],
         "category": [
             "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-25 15:33:35",
+        "pubDate": "2026-07-26 15:41:06",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 15:44:31",
-        "image_url": "https://www.eldiario.com.co/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-10.22.07-AM.jpeg",
+        "fetched_at": "2026-07-26 17:48:45",
+        "image_url": "https://www.poresto.com/media/2026/7/26/las-conexiones-clandestinas-danan-la-infraestructura-electrica-y-aumentan-el-riesgo-de-apagones.jpg",
         "video_url": null,
-        "source_id": "eldiario",
-        "source_name": "El Diario",
-        "source_priority": 307799,
-        "source_url": "https://www.eldiario.com.co",
-        "source_icon": "https://n.bytvi.com/eldiario.png",
+        "source_id": "poresto",
+        "source_name": "Por Esto!",
+        "source_priority": 1266292,
+        "source_url": "https://www.poresto.com",
+        "source_icon": "https://n.bytvi.com/poresto.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -574,118 +744,44 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "军事高拉咖啡轴心国任命了新指挥官：里萨拉尔达、卡尔达斯和金迪奥",
-        "description_zh": "卡洛斯·阿尔贝托·迪亚斯·查孔少校接任专门负责打击绑架和敲诈勒索的部队的指挥。在仪式上，即将离任的指挥官安德烈斯·费利佩·克萨达·杜夸拉少校的管理也受到了认可。在炮兵营阅兵场"
+        "title_zh": "CFE 发现影响坎佩切电力供应的“小恶魔”和秘密联系",
+        "description_zh": "在维护工作中，各小组找到了非法插座，更换了因雨水损坏的电线杆和变压器。"
     },
     {
-        "article_id": "e7143da63f48d5ad862fca5b0b7677cf",
-        "link": "https://elpulsocaribe.com/en-houston-andreina-garcia-pinto-llevo-el-drama-del-agua-en-la-guajira-al-women-economic-forumnlos-de-los-ee-uu/",
-        "title": "EN HOUSTON: Andreina García Pinto, llevo el drama del agua en La Guajira, al Women Economic Forumnlos de los EE.UU",
-        "description": "La experiencia de La Guajira en acceso al agua potable fue presentada ante líderes de distintos países en uno de los foros de liderazgo femenino más importantes del mundo La gerente general de ESEPGUA, Andreina García Pinto, participó como conferencista en el Women Economic Forum Houston Texas 2026, donde presentó",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:33:34",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 15:55:54",
-        "image_url": "https://elpulsocaribe.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-8.22.50-PM-768x1024.jpeg",
-        "video_url": null,
-        "source_id": "elpulsocaribe",
-        "source_name": "Elpulsocaribe",
-        "source_priority": 97173921,
-        "source_url": "https://elpulsocaribe.com",
-        "source_icon": "https://n.bytvi.com/elpulsocaribe.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "休斯顿：安德烈娜·加西亚·平托 (Andreina García Pinto) 将拉瓜希拉 (La Guajira) 的水上戏剧带到了美国妇女经济论坛上",
-        "description_zh": "在世界上最重要的女性领导力论坛之一上，拉瓜希拉在获得饮用水方面的经验被向来自不同国家的领导人介绍。 ESEGUA 总经理 Andreina García Pinto 作为发言人参加德克萨斯州休斯顿妇女经济论坛"
-    },
-    {
-        "article_id": "3e6fb150e91e90eb85bb5b7f8f554cbf",
-        "link": "https://caracol.com.co/2026/07/25/hijo-del-expresidente-bolsonaro-oficializa-su-candidatura-presidencial-en-brasil/",
-        "title": "Hijo del expresidente Bolsonaro oficializa su candidatura presidencial en Brasil",
-        "description": "Flávio Bolsonaro, hoy senador, se medirá en octubre de este año con el izquierdista Luiz Inácio Lula da Silva, que a los 80 años busca su reelección.",
+        "article_id": "f2c53cecf79ebfc1923c64f2fdac7545",
+        "link": "https://www.elmanana.com/escena/famosos/black-panther-ii-david-jonsson-interpretara-a-tchalla-ii/6165610",
+        "title": "Black Panther II: David Jonsson interpretará a T'Challa II",
+        "description": "Ryan Coogler confirma a David Jonsson como protagonista de Black Panther II.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "flávio bolsonaro",
-            "elecciones",
-            "jair bolsonaro",
-            "brasil",
-            "lula da silva"
+            "ryan coogler comic&#45;con 2026",
+            "t&#39;challa ii marvel",
+            "david jonsson black panther ii",
+            "black panther ii estreno",
+            "david jonsson carrera"
         ],
         "creator": [
-            "afp"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:33:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:06:02",
-        "image_url": "https://caracol.com.co/resizer/v2/KDBWXB2C6JDG5IS4ORTLIDR4XE.jpg?auth=31c447cdd66ce7d1bfeaabaa613e9fb5b128ad1277a1d1fab72403205dda9644&smart=true&width=3611&height=2408",
-        "video_url": null,
-        "source_id": "caracol",
-        "source_name": "Caracol Radio",
-        "source_priority": 30675,
-        "source_url": "https://caracol.com.co",
-        "source_icon": "https://n.bytvi.com/caracol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "巴西前总统博尔索纳罗之子正式竞选总统",
-        "description_zh": "现任参议员弗拉维奥·博尔索纳罗将于今年 10 月与左翼人士路易斯·伊纳西奥·卢拉·达席尔瓦对决，后者现年 80 岁，正在寻求连任。"
-    },
-    {
-        "article_id": "dd9fc44869f1490c326d5c4309776bec",
-        "link": "https://www.elimparcial.com/columnas/2026/07/25/parejas-dementes/",
-        "title": "Parejas dementes",
-        "description": "Un dato cada vez más confirmado es que cuando uno de los cónyuges sufre Alzheimer, las probabilidades de que el otro llegue también a padecerlo son mayores",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "jesús canale"
+            "el universal"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "business"
+            "entertainment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-25 15:33:18",
+        "pubDate": "2026-07-26 15:41:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:05:17",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/elimparcial/SMHGT5GZ2NBATDHM7MNJPWBO34.jpg",
+        "fetched_at": "2026-07-26 20:44:12",
+        "image_url": "https://blob.elmanana.com/images/2026/07/26/captura-de-pantalla-2026-07-26-a-las-34231-p-m-d660cd48.png",
         "video_url": null,
-        "source_id": "elimparcial",
-        "source_name": "El Imparcial",
-        "source_priority": 25219,
-        "source_url": "https://www.elimparcial.com",
-        "source_icon": "https://n.bytvi.com/elimparcial.png",
+        "source_id": "elmanana",
+        "source_name": "Últimas Noticias - El Mañana De Reynosa",
+        "source_priority": 258494,
+        "source_url": "https://www.elmanana.com",
+        "source_icon": "https://n.bytvi.com/elmanana.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -693,109 +789,57 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "疯狂的情侣",
-        "description_zh": "越来越证实的事实是，当配偶中的一方患有阿尔茨海默氏症时，另一方也患上这种疾病的可能性就更大。"
+        "title_zh": "《黑豹 II》：大卫·琼森演绎特查拉 II",
+        "description_zh": "瑞恩·库格勒确认大卫·琼森将担任《黑豹 II》的主角。"
     },
     {
-        "article_id": "13a69d5bc89e5eac1b29aad3ad3e7f23",
-        "link": "https://depor.com/futbol-peruano/descentralizado/fichajes-universitario-jose-carabali-por-que-podria-volver-y-que-paso-en-ldu-de-quito-para-que-quiera-irse-torneo-clausura-liga-1-2026-noticia/",
-        "title": "¿José Carabalí podría volver a Universitario? Lo último que se sabe y por qué se abrió esta posibilidad",
-        "description": "En las últimas horas surgió la opción de que José Carabalí pueda volver a Universitario. ¿Qué se sabe al respecto y qué tendría que pasar?",
+        "article_id": "72ee459559f621d34c42d2d27e85df21",
+        "link": "https://eldiariodechihuahua.mx/estado/2026/jul/26/continuan-lluvias-fuertes-en-la-sierra-preven-calor-de-40-grados-821387.html",
+        "title": "Continúan lluvias fuertes en la Sierra; prevén calor de 40 grados",
+        "description": "Protección Civil pronosticó lluvias moderadas a puntualmente fuertes, con acumulados de 25.1 a 50 milímetros, en Madera, Temósachi, Moris, Uruachi y Chínipas",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "universitario josé carabalí",
-            "josé carabalí",
-            "universitario de deportes"
-        ],
+        "keywords": null,
         "creator": [
-            "redacción depor"
+            "ismael carrillo | el diario"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "mexico"
         ],
         "category": [
-            "sports"
+            "top",
+            "environment"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-25 15:33:16",
+        "pubDate": "2026-07-26 15:40:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 15:36:48",
-        "image_url": "https://depor.com/resizer/v2/4E4U4QCF3JFNDJEJ5CQKJYAMX4.jpg?auth=7381c5979765524720fedfe99f0dfb73ed0776b96925c64caed95281db9fcf95&smart=true&width=1200&height=680",
+        "fetched_at": "2026-07-26 16:07:48",
+        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/07/26/visi3-b6mz5coiv-1ku5m7GDM.jpg",
         "video_url": null,
-        "source_id": "depor",
-        "source_name": "Depor",
-        "source_priority": 36977,
-        "source_url": "https://depor.com",
-        "source_icon": "https://n.bytvi.com/depor.png",
+        "source_id": "eldiariodechihuahua",
+        "source_name": "Eldiariodechihuahua",
+        "source_priority": 77437,
+        "source_url": "https://www.eldiariodechihuahua.mx",
+        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "何塞·卡拉巴利能重返大学吗？已知的最新情况以及为什么开启这种可能性",
-        "description_zh": "在最后几个小时内，出现了何塞·卡拉巴利可以返回大学的选择。关于它已知什么以及将会发生什么？"
+        "duplicate": true,
+        "title_zh": "山脉地区持续下大雨；他们预测气温将达到 40 度",
+        "description_zh": "民防部门预计马德拉、特莫萨奇、莫里斯、乌鲁阿奇和奇尼帕斯将出现中到偶发大雨，累积雨量为 25.1 至 50 毫米"
     },
     {
-        "article_id": "bbfe77a892eff695ccad7bb1ebd92621",
-        "link": "https://www.marca.com/futbol/malaga/2026/07/25/malaga-leicester-horario-ver-hoy-tv-partido-amistoso-pretemporada.html",
-        "title": "Málaga - Leicester: horario y dónde ver hoy en TV el partido amistoso de pretemporada",
-        "description": null,
+        "article_id": "4c12256f1c96236af409f65ab6fc0404",
+        "link": "https://actualidad.rt.com/actualidad/618998-les-importaron-bledo-promesas-intereses",
+        "title": "\"Les importaron un bledo todas sus promesas y nuestros intereses\": Putin sobre cómo Occidente engañó a Rusia",
+        "description": "Tras la caída de la URSS, las capitales occidentales prometieron a Moscú que la OTAN no se extendería hacia el este, pero fue expandiéndose progresivamente.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "málaga",
-            "leicester",
-            "ver",
-            "dónde",
-            "horario"
-        ],
+        "keywords": null,
         "creator": [
-            "félix durán"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-25 15:33:12",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 16:02:17",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/07/20/6a5e2cc0eced5.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "马拉加 - 莱斯特：时间表以及今天在电视上观看季前赛友谊赛的地点",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "4f05e4fc8a8ba8b5f64b8ef35ac9600d",
-        "link": "https://www.diariocambio.com.mx/2026/nacional/sep-no-autoriza-escuelas-militarizadas-en-mexico-y-condena-la-muerte-de-dafne-mario-delgado/",
-        "title": "SEP no autoriza escuelas militarizadas en México y condena la muerte de Dafne: Mario Delgado",
-        "description": "Este viernes 24 de julio, la Secretaría de Educación Pública (SEP) desconoció a las escuelas y academias militarizadas, mismas que según su normativa, no están autorizadas para la prestación de servicio educativo. Además lamentó la muerte de la menor Dafne Zapata en Tamaulipas. “La SEP reitera a la población en general y a las autoridades [...] The post SEP no autoriza escuelas militarizadas en México y condena la muerte de Dafne: Mario Delgado appeared first on Diario Cambio .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mario delgado carrillo",
-            "dafne zapata quintos",
-            "menor de edad",
-            "secretaría de educación pública"
-        ],
-        "creator": [
-            "magdalena maldonado"
+            "rt en español"
         ],
         "language": "spanish",
         "country": [
@@ -803,20 +847,19 @@
         ],
         "category": [
             "politics",
-            "education",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-25 15:32:56",
+        "pubDate": "2026-07-26 15:40:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-25 15:41:17",
-        "image_url": "https://www.diariocambio.com.mx/wp-content/uploads/2026/07/SEP-no-autoriza-escuelas-militarizadas-en-Mexico-y-condena-la-muerte-de-Dafne-Mario-Delgado.webp",
+        "fetched_at": "2026-07-26 16:04:18",
+        "image_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a662dc8e9ff712f016d6b62.jpg",
         "video_url": null,
-        "source_id": "diariocambio",
-        "source_name": "Diariocambio",
-        "source_priority": 137606,
-        "source_url": "https://www.diariocambio.com.mx",
-        "source_icon": "https://n.bytvi.com/diariocambio.jpg",
+        "source_id": "rt_mx",
+        "source_name": "Rt",
+        "source_priority": 19092,
+        "source_url": "https://actualidad.rt.com",
+        "source_icon": "https://n.bytvi.com/rt_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -824,7 +867,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "SEP不授权墨西哥设立军事学校并谴责达芙妮之死：马里奥·德尔加多",
-        "description_zh": "7 月 24 日星期五，公共教育部 (SEP) 对军事学校和学院置之不理，根据其规定，这些学校和学院无权提供教育服务。他还对塔毛利帕斯州未成年人达芙妮·萨帕塔的去世表示遗憾。 “SEP 房地产投资信托基金"
+        "title_zh": "“他们根本不在乎他们的所有承诺和我们的利益”：普京谈西方如何欺骗俄罗斯",
+        "description_zh": "苏联解体后，西方国家向莫斯科承诺北约不会东扩，但北约却在逐步扩张。"
     }
 ]
