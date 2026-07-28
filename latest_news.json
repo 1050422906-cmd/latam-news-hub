@@ -1,246 +1,148 @@
 [
     {
-        "article_id": "85d309f765b9eb6c17b355dc69bb0a69",
-        "link": "https://odia.ig.com.br/esporte/2026/07/7282386-brasil-sofre-virada-da-turquia-e-fica-com-o-vice-da-liga-das-nacoes.html",
-        "title": "Brasil sofre virada da Turquia e fica com o vice da Liga das Nações",
-        "description": "Seleção brasileira vence o primeiro set, mas vê Melissa Vargas comandar reação turca na decisão",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "brasil",
-            "liga das nações",
-            "turquia"
-        ],
-        "creator": [
-            "estad&atilde;o conte&uacute;do"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:42:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 16:11:32",
-        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/07/26/tur-39130052.jpg",
-        "video_url": null,
-        "source_id": "odia_ig_br",
-        "source_name": "Odia Ig Br",
-        "source_priority": 144458,
-        "source_url": "https://odia.ig.com.br",
-        "source_icon": "https://n.bytvi.com/odia_ig_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "巴西队惨败土耳其队，国联排名第二",
-        "description_zh": "巴西队赢得第一盘，但梅丽莎·巴尔加斯在决定中领先土耳其队"
-    },
-    {
-        "article_id": "67f71c933b4a82239d1670f5ac9e41de",
-        "link": "https://www.folhavitoria.com.br/policia/gravida-morre-em-grave-acidente-na-br-101-em-mimoso-do-sul/",
-        "title": "Grávida morre em grave acidente na BR-101, em Mimoso do Sul",
-        "description": "(Fotos: Reprodução/Redes Sociais) Aline Xavier não resistiu aos ferimentos após uma colisão envolvendo vários veículos na noite de sexta-feira (24)",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "corpo de bombeiros",
-            "acidente de trânsito",
-            "mimoso do sul - es",
-            "grávida",
-            "polícia científica",
-            "polícia rodoviária federal (prf)"
-        ],
-        "creator": [
-            "gabriel miranda"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:41:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 16:09:44",
-        "image_url": "https://uploads.folhavitoria.com.br/imagens/2026/07/aline-vitima-gravida-acidente-mimoso-do-sul-marido-filha.png",
-        "video_url": null,
-        "source_id": "folhavitoria_br",
-        "source_name": "Folha Vitória",
-        "source_priority": 123574,
-        "source_url": "https://www.folhavitoria.com.br",
-        "source_icon": "https://n.bytvi.com/folhavitoria_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "孕妇在 BR-101 南米莫索的严重事故中死亡",
-        "description_zh": "（图片来源：转载/社交网络）艾琳·泽维尔（Aline Xavier）在周五晚上发生多辆车相撞事故后伤重不治（24）"
-    },
-    {
-        "article_id": "6fc60d0d2f647fd093123e8c5c493304",
-        "link": "https://tn.com.ar/sociedad/2026/07/26/una-mujer-estaba-comprando-en-un-supermercado-se-resbalo-con-un-charco-de-agua-y-deberan-indeminizarla-por-haberse-lastimado/",
-        "title": "Una mujer estaba comprando en un supermercado, se resbaló con un charco de agua y deberán indeminizarla por haberse lastimado",
-        "description": "Sucedió en Olavarría. La Justicia condenó a la empresa a resarcir a la clienta, que sufrió una caída por una gotera que no había sido señalizada.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "supermercado",
-            "justicia",
-            "demanda",
-            "indemnización",
-            "fallo",
-            "olavarria"
-        ],
-        "creator": [
-            "carolina villalba"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:41:25",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 16:02:20",
-        "image_url": "https://tn.com.ar/resizer/v2/HWENC6A4ZBFNZGTDQLJV6C3JWI.png?auth=eb5b6d39e9e946d4f1c722379c24ba2df0d0721cee63b51bb2e7be7c428d2959",
-        "video_url": null,
-        "source_id": "tn",
-        "source_name": "Todo Noticias",
-        "source_priority": 6803,
-        "source_url": "https://tn.com.ar",
-        "source_icon": "https://n.bytvi.com/tn.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "一名女子在超市购物，踩到一滩水滑倒，受伤人员必须赔偿",
-        "description_zh": "事情发生在奥拉瓦里亚。法院命令该公司对客户进行赔偿，该客户因未报告的泄漏而摔倒。"
-    },
-    {
-        "article_id": "0376992d9320fcedf5b76ef617defd3c",
-        "link": "https://veja.abril.com.br/politica/o-isolamento-da-candidatura-de-ronaldo-caiado-a-presidencia/",
-        "title": "O isolamento da candidatura de Ronaldo Caiado à Presidência",
-        "description": "PSD não selou apoio de nenhuma outra sigla de centro-direita e alguns dos principais governadores da legenda não foram à convenção",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ronaldo caiado",
-            "maquiavel",
-            "eleições 2026"
-        ],
-        "creator": [
-            "anna satie"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:41:19",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 16:01:58",
-        "image_url": "https://veja.abril.com.br/wp-content/uploads/2026/07/20260726_113831.jpg?quality=70&strip=info",
-        "video_url": null,
-        "source_id": "veja_abril_br",
-        "source_name": "Veja",
-        "source_priority": 5562,
-        "source_url": "https://veja.abril.com.br",
-        "source_icon": "https://n.bytvi.com/veja_abril_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "罗纳尔多·卡亚多总统候选人资格的孤立",
-        "description_zh": "社会民主党不支持任何其他中右翼政党，该党的一些主要州长也没有出席大会"
-    },
-    {
-        "article_id": "5a7b6464f7822891d0b9ee65ced46270",
-        "link": "https://elintransigente.com/2026/07/se-terminan-91-anos-de-saqueo-karen-reichardt-defendio-la-reforma-oficialista-del-banco-central/",
-        "title": "«Se terminan 91 años de saqueo»: Karen Reichardt defendió la reforma oficialista del Banco Central",
-        "description": "La diputada nacional respalda la modificación que gobierno busca hacer de la carta orgánica del organismo financiero The post «Se terminan 91 años de saqueo»: Karen Reichardt defendió la reforma oficialista del Banco Central appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "javier milei",
-            "banco central",
-            "karen reichardt",
-            "reforma"
-        ],
-        "creator": [
-            "jeremiaschacon"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:41:12",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 15:52:10",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2025/11/karen-reichardt-2114856.jpg?fit=1280%2C720&quality=95&ssl=1",
-        "video_url": null,
-        "source_id": "elintransigente",
-        "source_name": "El Intransigente",
-        "source_priority": 3446332,
-        "source_url": "https://elintransigente.com",
-        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“91年的抢劫结束了”：凯伦·雷查特为央行官方改革辩护",
-        "description_zh": "国家代表支持政府寻求对金融组织章程进行的修改“91年的抢劫即将结束”的帖子：凯伦·雷查特（Karen Reichardt）为中央银行的官方改革辩护首先出现在《El Intransigente》上：来自阿根廷和阿根廷的最新消息"
-    },
-    {
-        "article_id": "0c7184d39cd017e1207bb3902181f1d7",
-        "link": "https://www.estadao.com.br/economia/lula-critica-tarifas-dos-eua-e-diz-que-ninguem-vai-nos-derrotar-com-mentiras/",
-        "title": "Lula critica tarifas dos EUA e diz que ‘ninguém vai nos derrotar com mentiras’",
-        "description": "Em artigo no Washington Post, presidente rebate argumentos de Trump, avalia reciprocidade e condena “interferência externa”",
+        "article_id": "cabc9321930da427947c351c658dbe7d",
+        "link": "https://whiplash.net/materias/news_669/381316-machinehead.html",
+        "title": "O melhor solo da história do thrash metal, segundo guitarrista do Machine Head",
+        "description": "\"Sinceramente, não consigo escolher meu solo favorito do Dime. É impossível. E por um bom motivo...\"",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "lavínia  kaucz"
+            "mateus ribeiro"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "business"
+            "entertainment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-26 15:41:08",
+        "pubDate": "2026-07-27 15:14:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 16:03:43",
-        "image_url": "https://www.estadao.com.br/resizer/v2/X54BUYWIPNCOPHLFIRG3UVM34U.jpg?quality=80&auth=6470d6adf0361c54dfb861d196e3f0450814981c51c982cfd5c5742b55d64f28&width=1200&height=1200&smart=true",
+        "fetched_at": "2026-07-27 15:39:40",
+        "image_url": "https://whiplash.net/imagens_promo_22/machinehead_por_travis_shinn_and_paul_harries_nuclear_blast_2.jpg",
+        "video_url": null,
+        "source_id": "whiplash",
+        "source_name": "Whiplash",
+        "source_priority": 97693,
+        "source_url": "https://whiplash.net",
+        "source_icon": "https://n.bytvi.com/whiplash.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "鞭打金属史上最好的独奏，Machine Head的第二吉他手",
+        "description_zh": "“老实说，我无法选择我最喜欢的 Dime 独奏。这是不可能的。而且有充分的理由......”"
+    },
+    {
+        "article_id": "38296c16d9601f287472ab8d4e8220ab",
+        "link": "https://www.ambito.com/ambito-nacional/anibal-fernandez-reaparecio-la-plata-pidio-cuidar-axel-kicillof-y-se-desmarco-del-cristinismo-n6303992",
+        "title": "Aníbal Fernández reapareció en La Plata, pidió \"cuidar a Axel Kicillof\" y se desmarcó del cristinismo",
+        "description": "El exjefe de Gabinete visitó la Casa de Gobierno bonaerense en La Plata, para reunirse con funcionarios provinciales y habló con la prensa sobre la interna del PJ, el rol de Sergio Massa y la continuidad de las PASO.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "cristina fernández de kirchner",
+            "aníbal fernández"
+        ],
+        "creator": [
+            "juliana ricaldoni"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:14:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:36:36",
+        "image_url": "https://media.ambito.com/p/407a6e3a3f49ae16723faa36797642f9/adjuntos/239/imagenes/043/545/0043545421/1200x675/smart/anibal-fernandez.jpeg",
+        "video_url": null,
+        "source_id": "ambito",
+        "source_name": "Ambito",
+        "source_priority": 37705,
+        "source_url": "https://www.ambito.com",
+        "source_icon": "https://n.bytvi.com/ambito.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "阿尼巴尔·费尔南德斯再次出现在拉普拉塔，要求“照顾阿克塞尔·基西洛夫”并与基督教保持距离",
+        "description_zh": "这位前参谋长访问了位于拉普拉塔的布宜诺斯艾利斯政府大楼，会见了省官员，并向新闻界介绍了人民联盟的内部事务、塞尔吉奥·马萨的作用以及爱国联盟的连续性。"
+    },
+    {
+        "article_id": "52c3c471b3fd501424f451fca8ca3182",
+        "link": "https://www.nsctotal.com.br/auto/saiu-da-oficina-5-luzes-no-painel-que-voce-nao-deve-ignorar",
+        "title": "Saiu da oficina? 5 luzes no painel que você não deve ignorar",
+        "description": "Você leva o carro à oficina para prevenir problemas, mas uma luz desconhecida aparece no painel logo depois da manutenção. A primeira reação pode ser",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "carros"
+        ],
+        "creator": [
+            "augusto leite"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:14:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 17:04:03",
+        "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2026/07/luzespainel.jpg",
+        "video_url": null,
+        "source_id": "nsctotal",
+        "source_name": "Nsc Total",
+        "source_priority": 14276,
+        "source_url": "https://www.nsctotal.com.br",
+        "source_icon": "https://n.bytvi.com/nsctotal.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "你离开车间了吗？ 5 个你不应该忽视的仪表盘灯",
+        "description_zh": "您将汽车开到维修店以防止出现问题，但维修后不久，仪表板上出现了未知的指示灯。第一反应可能是"
+    },
+    {
+        "article_id": "274adcbfee3686dd9bba258f993b4b36",
+        "link": "https://www.estadao.com.br/cultura/cinema/cinema-nacional-a-r-10-em-sp-veja-filmes-e-sessoes-nprec/",
+        "title": "Cinema nacional a R$ 10 em São Paulo; veja filmes e sessões para aproveitar a oferta",
+        "description": "Ingressos promocionais dão acesso a filmes indicados ao Prêmio Grande Otelo nos dias 27 e 28 de julho",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:13:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:34:23",
+        "image_url": "https://www.estadao.com.br/resizer/v2/FJC3LEUXYBFTRFOZO5YTYJQD3A.webp?quality=80&auth=243d9232993fc4ec4ce211c2f4b8efe10f3c15f4fa0a03aadbb2d4ca266d0760&width=1200&height=1200&smart=true",
         "video_url": null,
         "source_id": "estadao_br",
         "source_name": "Estadao Br",
@@ -254,58 +156,87 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "卢拉批评美国关税并表示“没有人会用谎言打败我们”",
-        "description_zh": "在《华盛顿邮报》的一篇文章中，总统反驳了特朗普的论点，评估了互惠并谴责“外部干涉”"
+        "title_zh": "圣保罗国家电影院 10 雷亚尔；观看电影和会议以利用优惠",
+        "description_zh": "促销门票可观看 7 月 27 日至 28 日获得 Grande Otelo 奖提名的电影"
     },
     {
-        "article_id": "10ba57916ae1581955ecaa29ced1e510",
-        "link": "https://www.iprofesional.com/politica/460805-villarruel-se-fue-de-vacaciones-y-no-compartio-el-acto-en-la-rural-con-javier-milei",
-        "title": "Villarruel se fue de vacaciones y no compartió el acto en La Rural con Javier Milei",
-        "description": "La vicepresidenta prefirió tomarse unos días en Neuquén mientras el mandatario encabezaba el acto central en el predio de Palermo",
+        "article_id": "3aad676328afa10c644994a5de659def",
+        "link": "https://g1.globo.com/mundo/noticia/2026/07/27/o-balneario-de-luxo-na-ucrania-em-que-turistas-em-praias-lotadas-convivem-com-o-perigo-constante-de-bombas-e-misseis.ghtml",
+        "title": "O balneário de luxo na Ucrânia em que turistas em praias lotadas convivem com o perigo constante de bombas e mísseis",
+        "description": "Ataque de drones em praia da Ucrânia assusta banhistas e causa fuga em massa Odessa é um dos principais balneários da Ucrânia, mas tem fortes laços com a Rússia czarista e a União Soviética BBC Eu não ia ao mar há vários anos. Por isso, quando tive três dias de folga, decidi viajar para Odessa, um dos balneários mais populares da Ucrânia. Queria desligar um pouco, mudar de ares. E consegui: nem os bombardeios constantes nem a enorme quantidade de pessoas ao meu redor impediram isso. O que me surpreendeu foram os preços e a atitude dos turistas diante da ameaça constante de estar em uma região próxima da guerra com a Rússia. A estrada que liga Kiev, capital da Ucrânia, à Odessa está agora em ótimas condições: a rodovia foi recuperada e o asfalto está em bom estado em quase todo o trajeto. Em compensação, a gasolina está caríssima. Mesmo com um consumo moderado, a viagem de ida e volta a partir de Kiev custou cerca de US$ 130 (aproximadamente R$ 722). Na praia, há avisos sobre a presença de minas explosivas BBC Odessa também está muito, muito cara. Em três dias, duas pessoas gastam ali cerca de US$ 1.000 (em torno de R$ 5.552), sem grandes luxos, mantendo um padrão de gastos de \"classe média\". A comida merece um capítulo à parte porque não apenas está cara — a conta média de um jantar simples para duas pessoas gira em torno de US$ 50 (R$ 278) — como também os restaurantes vivem lotados, o que torna necessário fazer reservas com vários dias de antecedência. Mas o que mais impressiona é o contraste dos dois lados que convivem juntos na cidade. De um, estão o luxo, os preços e as atividades de lazer típicas de um reduto de férias no verão. Do outro, a constantes e imprevisíveis ameaças à vida de bombas, mísseis e minas. Somente no domingo, 19 de julho, um ataque russo com mísseis nas proximidades do porto de Odessa, o maior da Ucrânia, matou dez pessoas. Na segunda-feira, 20 de julho, outro bombardeio na cidade deixou três mortos. No dia seguinte, o centro histórico foi atingido. Os bombardeios aqui são mais frequentes do que em Kiev: as sirenes tocam entre quatro e seis vezes por dia, inclusive durante a noite. A cidade sofreu danos graves, principalmente na região próxima ao porto. Todos os dias, pessoas morrem em ataques da Rússia. E, ainda assim, as praias ficam lotadas. Os canais de televisão locais informam tudo em tempo real: \"Um míssil está seguindo em direção à praia de Ibiza\", uma das mais populares de Odessa. Quem está na praia ao lado reage com indiferença. É possível ouvir comentários como: \"Ah, tudo bem, está indo para Ibiza, não para cá\", embora as duas praias estejam separadas por, no máximo, quatro quilômetros. Existem abrigos nas praias, mas é preciso caminhar cerca de dez minutos para chegar até eles. Por isso, a maioria das pessoas simplesmente permanece parada, observando os mísseis cruzarem o céu. Durante um dos bombardeios mais intensos, corremos para procurar abrigo. Acabamos em um bar próximo, sob um teto de palha. Que esconderijo: uma proteção puramente psicológica feita de folhas de palmeira. A famosa cena da escadaria no filme O Encouraçado Potemkin, de 1925, dirigido pelo cineasta soviético Sergei Eisenstein Ullstein Bild/Ullstein Bild via Getty Images A importância de Odessa O que acontece em Odessa em meio à invasão russa da Ucrânia não é um caso isolado, sobretudo quando se observam as ambições de Vladimir Putin, presidente da Rússia, e do governo de Moscou. Isso porque Odessa tem grande valor simbólico: ocupa um lugar importante na história e na cultura da Rússia. Localizada na costa noroeste do mar Negro, a cidade, com mais de 1 milhão de habitantes, é um centro cultural multiétnico e um importante polo turístico e de transportes. Às vezes, é chamada de \"a pérola do mar Negro\", talvez por sua arquitetura histórica, de estilo mais mediterrâneo do que russo, com forte influência francesa e italiana. Especialistas dizem que Odessa é muito diferente de Kiev e de outras cidades ucranianas. De fato, a cidade ainda preserva fortes raízes russas. Isso se deve, em parte, a dois acontecimentos de grande importância histórica ocorridos ali. O primeiro foi em 1905, quando um levante de trabalhadores em Odessa, apoiado pela tripulação do encouraçado russo Potemkin, terminou em um massacre provocado pela repressão das forças czaristas. Estima-se que 1 mil pessoas tenham morrido. Esse levante foi um dos vários episódios que culminaram na Revolução Russa de 1917 e ficou eternizado no filme O Encouraçado Potemkin, de 1925, dirigido pelo cineasta soviético Sergei Eisenstein. Outro episódio marcante ocorreu durante a Segunda Guerra Mundial (1939-1945). Em 1941, tropas romenas e alemãs atacaram a cidade. A defesa de Odessa durou 73 dias, e resultou na morte de entre 40 mil e 60 mil soviéticos. Posteriormente, Odessa recebeu da União Soviética o título de cidade \"heroica\". Em Odessa, o maior porto marítimo da Ucrânia, os ataques russos ocorrem dia e noite Getty Images Praias com minas explosivas Neste ano, muitas das praias de Odessa foram reabertas oficialmente. As minas marítimas, usadas como arma de guerra, já não causam tanto medo porque, ao longo da costa, há quebra-mares que impedem que elas cheguem à praia. Na praia que visitei com mais frequência, por exemplo, havia desde bebês até idosos. E a cena clássica continua a mesma: vendedores ambulantes oferecendo espigas de milho, rapanas (um tipo de caramujo marinho), e baklava, doce folhado recheado com nozes ou pistaches. Outro detalhe: quase todos os moradores da região falam russo. Também fomos a Sanzhiyka. O local ganhou glampings (termo formado de \"camping glamouroso\", com tendas de luxo), bares e escadarias que ligam a encosta ao mar. No entanto, como não há píeres e o mar é aberto, as minas marítimas podem chegar facilmente à costa. Por isso, não tive a menor vontade de entrar na água. Também visitamos o mercado Privoz. A variedade de produtos é impressionante, os preços são semelhantes aos de Kiev, mas as frutas são muito mais doces graças ao clima ensolarado. Atualmente, a cidade vive um forte movimento de valorização dos produtos locais, como o forshmak, prato tradicional à base de arenque, aperitivos preparados com tomates Mikado e outras \"especialidades de Odessa\". A cidade soube transformar essa identidade em uma marca forte. Alguns trechos da praia de Odessa são protegidos contra minas marítimas Getty Images À noite, o centro da cidade costuma ficar às escuras por causa dos cortes no fornecimento de energia provocados pela guerra. As ruas ecoam o barulho dos geradores, trazendo de volta as lembranças do inverno em Kiev. E, em meio à escuridão, ao som das sirenes e da defesa antiaérea, músicos de rua continuam se apresentando. Odessa continua sendo, como sempre, uma cidade fascinante e cheia de personalidade, apesar de tudo o que a cerca. Deixando a Rússia para trás Em Odessa, muitas pessoas apoiam a Lei de Descolonização, de 2023, que determinou às autoridades locais a retirada de nomes de ruas, monumentos e inscrições que remetessem ao passado imperial da Rússia. Entre os monumentos que deveriam ser removidos estava uma estátua da imperatriz russa Catarina, a Grande. Já as ruas que homenageavam figuras russas e soviéticas foram rebatizadas: a rua Pushkin passou a se chamar rua Italiana, e a rua Catarina agora é a rua Europeia. Na terça-feira, a Rússia atacou o centro histórico de Odessa Getty Images ... mas o turismo continuou Getty Images Também há um forte incentivo ao uso do ucraniano em uma cidade onde o russo continua muito presente. Ao ser perguntado sobre a resistência à Rússia entre os moradores de Odessa — orgulhosos de sua tradição como um porto multicultural e aberto ao mundo —, o governador da região de Odessa, Oleh Kiper, respondeu em tom desafiador. \"O inimigo está fazendo muito mais do que nós para transformar uma cidade de língua russa em uma cidade ucraniana\", disse Kiper à BBC. \"Está obrigando as pessoas a entender quem são os russos e se realmente precisamos deles\", acrescentou Kiper. Reportagem adicional de Laura Gozzi, da BBC News Mundo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:13:49",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:33:28",
+        "image_url": "https://s2-g1.glbimg.com/etHomE6r8zMzmKaxLC1Obcdf0t8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/Qsc5HMR4SzIW5DlQ2v9A/273b890a-1220-4068-b392-f347bcb5e2a9.png",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "乌克兰的豪华度假胜地，拥挤的海滩上游客不断，面临着炸弹和导弹的危险",
+        "description_zh": "乌克兰海滩遭无人机袭击，导致游泳者恐慌并导致大规模逃亡 敖德萨是乌克兰主要度假胜地之一，但它与沙皇俄罗斯和苏联关系密切 BBC 我已经好几年没去过海边了。于是趁着三天假期，我决定去一趟"
+    },
+    {
+        "article_id": "44255f9cd00fb079dd70358f2d96baf8",
+        "link": "https://www.infobae.com/mexico/2026/07/27/no-hay-ninguna-campana-sheinbaum-responde-a-milei-tras-acusacion-de-financiar-ataques-en-su-contra/",
+        "title": "“No hay ninguna campaña”: Sheinbaum responde a Milei tras acusación de financiar ataques en su contra",
+        "description": "La presidenta respondió al presidente tras la acusación a México de financiar una “campaña antiargentina”",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
+            "brasil",
+            "claudia sheinbaum",
+            "mexico-noticias",
             "argentina",
-            "economía",
-            "vinos",
-            "technology",
-            "autos",
-            "noticias",
-            "finanzas",
-            "victoria villarruel",
-            "life and style",
-            "negocios",
-            "management",
-            "marketing",
-            "legal",
-            "politics",
-            "tecnología",
-            "breaking",
-            "real estate",
-            "economy",
-            "buenos aires",
-            "diario"
+            "política mexicana",
+            "méxico",
+            "estados unidos",
+            "javier milei"
         ],
         "creator": [
-            "iprofesional"
+            "itzallana lópez castillo"
         ],
         "language": "spanish",
         "country": [
+            "colombia",
+            "mexico",
+            "united states of america",
             "argentina"
         ],
         "category": [
-            "politics"
+            "politics",
+            "crime",
+            "top"
         ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:41:00",
+        "datatype": "multimedia",
+        "pubDate": "2026-07-27 15:13:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 16:09:31",
-        "image_url": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/621601.jpg",
-        "video_url": null,
-        "source_id": "iprofesional",
-        "source_name": "Iprofesional",
-        "source_priority": 120704,
-        "source_url": "https://www.iprofesional.com",
-        "source_icon": "https://n.bytvi.com/iprofesional.png",
+        "fetched_at": "2026-07-27 15:31:56",
+        "image_url": "https://www.infobae.com/resizer/v2/UTKSSI734ZFXVCK3FUO3V5QXMQ.jpg?auth=78acd28842783c7844176bef08ab5fc35e121350c3029814df3783e1882ee72f&smart=true&width=1920&height=1080",
+        "video_url": "https://cdn.jwplayer.com/videos/gVZ5cZfc-7ZinLQGA.m4a",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -313,80 +244,126 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Villarruel 去度假了，没有与 Javier Milei 分享 La Rural 的活动",
-        "description_zh": "副总统更愿意在内乌肯待几天，而总统则在巴勒莫现场主持中心活动"
+        "title_zh": "“没有任何活动”：辛鲍姆在被指控资助对米雷的攻击后回应他",
+        "description_zh": "总统在指控墨西哥资助“反阿根廷运动”后对总统作出回应"
     },
     {
-        "article_id": "e99b4aa6cb9481f2086ad790580821fd",
-        "link": "https://la100.cienradios.com/virales/es-venezolano-defendio-a-argentina-de-las-acusaciones-racista-y-se-volvio-viral-el-argentino-nace-donde-quiere/",
-        "title": "Es venezolano, defendió a Argentina de las acusaciones racista y se volvió viral: “El argentino nace donde quiere”",
-        "description": "Un venezolano radicado en Argentina defendió al país de las acusaciones racistas y discriminatorias al contar su experiencia.",
+        "article_id": "692d259b9efed7697ce256bb04e98e40",
+        "link": "https://contilnetnoticias.com.br/universo-pop/exame-de-dna-definiu-destino-da-filha-de-elize-matsunaga-entenda/",
+        "title": "Teste de DNA e decisões judiciais traçaram rumo da filha de Elize Matsunaga",
+        "description": "Teste biológico foi solicitado pela família de Marcos Matsunaga após o crime em 2012; mãe e filha não se encontram desde a prisão da ex-enfermeira. O caso envolvendo a família...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "redação contilnet"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:13:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:41:22",
+        "image_url": "https://contilnetnoticias.com.br/wp-content/uploads/2026/07/elize-1200x675.webp",
+        "video_url": null,
+        "source_id": "contilnetnoticias",
+        "source_name": "Contilnet Notícias",
+        "source_priority": 155904,
+        "source_url": "https://contilnetnoticias.com.br",
+        "source_icon": "https://n.bytvi.com/contilnetnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "DNA 测试和法庭判决描绘了 Elize Matsunaga 女儿的历程",
+        "description_zh": "2012年案发后，Marcos Matsunaga的家人要求进行生物检测；自从前护士被捕后，母女俩就没有见过面。该案涉及一家人..."
+    },
+    {
+        "article_id": "ed31fc2b6d4a6cf5cb08cd944b0fe16d",
+        "link": "https://www.canal26.com/policiales/2023/10/10/lucio-dupuy-un-jury-suspendio-a-la-jueza-que-dejo-al-pequeno-al-cuidado-de-su-madre-y-su-pareja/",
+        "title": "Lucio Dupuy: un jury suspendió a la jueza que dejó al pequeño al cuidado de su madre y su pareja",
+        "description": "El pasado 26 de septiembre, el Tribunal de Impugnación Penal (TIP) de Santa Rosa confirmó las condenas a prisión perpetua para Espósito Valenti y Páez por el homicidio de Lucio y le agregó a la primera de ellas, madre de la víctima, el delito de abuso sexual.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "argentina"
+            "suspensión",
+            "lucio dupuy",
+            "jueza"
         ],
         "creator": [
-            "la 100"
+            "canal 26"
         ],
         "language": "spanish",
         "country": [
             "argentina"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:13:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:32:57",
+        "image_url": "https://www.canal26.com/resizer/v2/QXLIGYZVTNC2HKYRQEHYG6W4KU.jpg?auth=db60456fa324fc49f0e00ec85887674e3bdc3ef91ed8ac6a41cffbcdb3738708&smart=true&width=1200&height=900",
+        "video_url": null,
+        "source_id": "canal26",
+        "source_name": "Canal26",
+        "source_priority": 9385,
+        "source_url": "https://www.canal26.com",
+        "source_icon": "https://n.bytvi.com/Canal26.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "卢西奥·杜普伊（Lucio Dupuy）：陪审团暂停了将孩子交给母亲及其伴侣照顾的法官的职务",
+        "description_zh": "9月26日，圣罗莎刑事弹劾法院（TIP）确认了埃斯波西托·瓦伦蒂（Espósito Valenti）和帕埃斯（Páez）因谋杀卢西奥而被判处无期徒刑，并将性虐待罪添加到其中第一位受害者的母亲身上。"
+    },
+    {
+        "article_id": "676feb2955dc79b811ef04cda552b917",
+        "link": "https://www.mixvale.com.br/2026/07/27/web-reage-apos-orochi-curtir-post-de-ana-castela-em-meio-a-rumor-de-ze-felipe-e-lara-juca/",
+        "title": "Web reage após Orochi curtir post de Ana Castela em meio a rumor de Zé Felipe e Lara Jucá",
+        "description": "O rapper Orochi gerou burburinho ao curtir uma publicação de Ana Castela, ex-namorada de Zé Felipe. A movimentação digital ocorreu logo após Zé Felipe ser flagrado em um encontro romântico com Lara Jucá, que, por sua vez, é ex-parceira de Orochi. Esse entrelaçamento de relações chamou a atenção dos internautas nas plataformas sociais. O gesto [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "famosos",
+            "lara jucá",
+            "orochi",
+            "redes sociais",
+            "ana castela",
+            "zé felipe"
+        ],
+        "creator": [
+            "beatriz"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
         ],
         "category": [
             "entertainment"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-07-26 15:40:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 15:48:33",
-        "image_url": "https://la100.cienradios.com/resizer/v2/XJD26OHWBBF47DLUP3FIQVUDQU.png?auth=8b513afe4074ac3ffbdbaa22f14f19ae9a9c5001f3cfcd3eba9ce6c2b0f05c58&smart=true&width=1200&height=900&quality=85",
-        "video_url": "https://la100.cienradios.com/virales/es-venezolano-defendio-a-argentina-de-las-acusaciones-racista-y-se-volvio-viral-el-argentino-nace-donde-quiere/",
-        "source_id": "la100",
-        "source_name": "La Cien Radio",
-        "source_priority": 999999,
-        "source_url": "https://la100.cienradios.com",
-        "source_icon": "https://n.bytvi.com/la100.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他是委内瑞拉人，他捍卫阿根廷免受种族主义指控，这句话疯传：“阿根廷人出生在他想要的地方”",
-        "description_zh": "一名居住在阿根廷的委内瑞拉人通过讲述自己的经历，捍卫国家免受种族主义和歧视性指控。"
-    },
-    {
-        "article_id": "9f9a42f108e52fe1c804ebade0445293",
-        "link": "https://www.bahianoticias.com.br/municipios/noticia/51798-acidente-envolvendo-motocicleta-e-caminhonete-na-ba-026-deixa-dois-mortos",
-        "title": "Acidente envolvendo motocicleta e caminhonete na BA-026 deixa dois mortos",
-        "description": "Um grave acidente de trânsito entre uma motocicleta e uma caminhonete em um trecho da rodovia BA-026 que conecta os municípios de Caculé e Licínio de Almeida, deixou dois mortos na noite do último sábado (25). De acordo com informações do site Achei Sudoeste, parceiro do Bahia Notícias, as vítimas fatais estavam a bordo da motocicleta, uma Honda CG 150 Titan e faleceram ainda no local. Segundo a 94a Companhia Independente de Polícia Militar (CIPM), a guarnição foi acionada via Centro Integrado de Comunicações (Cicom) de Guanambi para atender à ocorrência. Ao chegarem no local, os policiais confirmaram a colisão frontal envolvendo uma motocicleta e uma caminhonete Chevrolet D20. As vítimas que ocupavam a motocicleta não resistiram aos ferimentos foram identificadas como Roberto de Jesus Matos (condutor) e Ricardo Brito Ferreira (passageiro). Ambos eram moradores do povoado de Tamburiuzinho, localizado na zona rural de Caculé. O condutor da caminhonete D20 recebeu socorro de uma equipe do Serviço de Atendimento Móvel de Urgência (Samu) e foi encaminhado ao Hospital Nossa Senhora Aparecida antes da chegada da Polícia Militar ao local. A área da colisão foi isolada e preservada pela PM para os procedimentos legais. O Departamento de Polícia Técnica (DPT) realizou o levantamento fotográfico e a perícia de campo, além de efetuar a remoção dos corpos, que foram levados ao Instituto Médico Legal (IML) de Guanambi. As causas que levaram à colisão frontal serão apuradas pelas autoridades.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "achei sudoeste",
-            "ba-026"
-        ],
-        "creator": [
-            "redação"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "crime"
-        ],
         "datatype": "news",
-        "pubDate": "2026-07-26 15:40:40",
+        "pubDate": "2026-07-27 15:13:33",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 15:41:43",
-        "image_url": "https://www.bahianoticias.com.br/fotos/municipios_noticias/51798/IMAGEM_NOTICIA_original.jpg",
+        "fetched_at": "2026-07-27 23:47:00",
+        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2026/07/ana-castela-instagram-anacastelacantora-600x340.jpg",
         "video_url": null,
-        "source_id": "bahianoticias",
-        "source_name": "Bahia Notícias",
-        "source_priority": 164044,
-        "source_url": "https://www.bahianoticias.com.br",
-        "source_icon": "https://n.bytvi.com/bahianoticias.png",
+        "source_id": "mixvale",
+        "source_name": "Mix Vale",
+        "source_priority": 95409,
+        "source_url": "https://www.mixvale.com.br",
+        "source_icon": "https://n.bytvi.com/mixvale.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -394,176 +371,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "BA-026 上涉及摩托车和卡车的事故造成两人死亡",
-        "description_zh": "上周六晚 (25)，在连接卡库莱市和利西尼奥德阿尔梅达市的 BA-026 高速公路的一段路段上，一辆摩托车和一辆皮卡车之间发生了一起严重交通事故，造成两人死亡。根据 Bahia Notícias 合作伙伴 Acho Sudoeste 网站的信息，"
+        "title_zh": "在关于 Zé Felipe 和 Lara Jucá 的谣言中，Orochi 点赞了 Ana Castela 的帖子后，网络做出了反应",
+        "description_zh": "说唱歌手 Orochi 点赞了 Zé Felipe 前女友 Ana Castela 的帖子，引起了热议。这场数字化运动发生在泽·费利佩 (Zé Felipe) 与拉拉·尤卡 (Lara Jucá) 浪漫约会之后不久，而拉拉·尤卡 (Lara Jucá) 正是 Orochi 的前伴侣。这种相互交织的关系称为"
     },
     {
-        "article_id": "3332a2ee991f021561e7df56058a3ade",
-        "link": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/novas-chuvas-podem-fazer-rio-dos-sinos-superar-cota-de-inundacao-em-150-metro-em-sao-leopoldo-ate-a-proxima-semana-1.1734257",
-        "title": "Novas chuvas podem fazer rio dos Sinos superar cota de inundação em 1,50 metro em São Leopoldo até a próxima semana",
-        "description": "Prefeitura trabalha com possibilidade de cota de até seis metros do rio, estável neste sábado, ser alcançada até dia 1o, o que alagaria parte do bairro São Geraldo",
+        "article_id": "943453c32679bef54db23af00dbe9bb0",
+        "link": "https://tn.com.ar/musica/noticias/2026/07/27/ronnie-wood-confirmo-su-show-en-la-argentina-fecha-y-cuando-salen-a-la-venta-las-entradas/",
+        "title": "Ronnie Wood confirmó su show en la Argentina: fecha y cuándo salen a la venta las entradas",
+        "description": "Luego de semanas de expectativa, el guitarrista de los Rolling Stones regresa al país con su trabajo solista.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "rio dos sinos",
-            "alagamento",
-            "inundação",
-            "chuvas",
-            "enchente"
+            "ronnie wood"
         ],
         "creator": [
-            "correio do povo"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:40:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 22:11:02",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "correiodopovo",
-        "source_name": "Correio Do Povo",
-        "source_priority": 139621,
-        "source_url": "https://www.correiodopovo.com.br",
-        "source_icon": "https://n.bytvi.com/correiodopovo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "下周新的降雨可能会使里约多斯西诺斯 (Rio dos Sinos) 的洪水位超过圣莱奥波尔多 (São Leopoldo) 1.50 米",
-        "description_zh": "市政厅正在研究河流水位可能达到六米的可能性，该水位将于本周六稳定，一号水位将达到，这将淹没圣杰拉尔多社区的部分地区"
-    },
-    {
-        "article_id": "74c8d8d087d85b683318812be6d8deff",
-        "link": "https://pulsoslp.com.mx/meta/liga-mx-horarios-y-canales-para-ver-necaxa-vs-rayados-de-la-j2/2070470",
-        "title": "Liga MX: Horarios y canales para ver Necaxa vs Rayados de la J2",
-        "description": "Sigue Necaxa vs Rayados en Liga MX con horario y canal oficiales para el duelo del 26 de julio.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "necaxa vs rayados horario y canal",
-            "liga mx jornada 2 necaxa monterrey",
-            "necaxa victoria apertura 2026",
-            "rayados triunfo santos laguna",
-            "partido necaxa rayados 26 julio 2026"
-        ],
-        "creator": [
-            "pulso slp"
+            "carlos iogna prat"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "argentina"
         ],
         "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:42:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 17:52:48",
-        "image_url": "https://blobcore.pulsoslp.com.mx/images/2025/07/19/captura-de-pantalla-2025-07-19-104422-487c0813-focus-0-0-600-315.webp",
-        "video_url": null,
-        "source_id": "pulsoslp_mx",
-        "source_name": "Pulso Diario San Luis",
-        "source_priority": 3206842,
-        "source_url": "https://www.pulsoslp.com.mx",
-        "source_icon": "https://n.bytvi.com/pulsoslp_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Liga MX：观看 Necaxa 对阵 J2 Rayados 的时间表和频道",
-        "description_zh": "关注 Necaxa 对阵 Rayados 的 Liga MX，了解 7 月 26 日对决的官方赛程表和频道。"
-    },
-    {
-        "article_id": "98c099e7225e4fab1e10723ab8b59dcb",
-        "link": "https://www.quadratin.com.mx/nacionales/huracan-se-intensifica-a-categoria-3-en-el-pacifico/",
-        "title": "Huracán se intensifica a categoría 3 en el Pacífico",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "huracán",
-            "jalisco"
-        ],
-        "creator": [
-            "redacción/quadratín jalisco"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:41:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 15:44:28",
-        "image_url": "https://www.quadratin.com.mx/www/wp-content/uploads/2026/07/Inundaciones-1160x700-1-1160x700.jpeg",
-        "video_url": null,
-        "source_id": "quadratin",
-        "source_name": "Quadratín",
-        "source_priority": 320781,
-        "source_url": "https://www.quadratin.com.mx",
-        "source_icon": "https://n.bytvi.com/quadratin.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "太平洋飓风强度达到三级",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "3992cb2342fc42c6f4e37e01050b59c8",
-        "link": "https://www.elgrafico.mx//al-dia/2026/07/26/por-que-la-estacion-barranca-del-muerto-del-metro-cdmx-tiene-dos-aves-como-simbolo/",
-        "title": "¿Por qué la estación Barranca del Muerto del Metro CDMX tiene dos aves como símbolo?",
-        "description": "Descubre por qué la estación del Metro CDMX muestra dos aves en su emblemático símbolo",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "significado simbolos del metro cdmx",
-            "barranca del muerto",
-            "metro cdmx",
-            "estaciones del metro cdmx",
-            "historia"
-        ],
-        "creator": [
-            "el gráfico"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle",
+            "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-26 15:41:45",
+        "pubDate": "2026-07-27 15:13:30",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 16:13:59",
-        "image_url": "https://www.elgrafico.mx/resizer/v2/4YVCTF7KUFGWTCKRZBZ7MR4QLM.jpg?auth=fd934554a376123049c0672955d7a03022f49b281449aa0a0f62ec105224917c&smart=true&width=1200&height=740",
+        "fetched_at": "2026-07-27 15:31:50",
+        "image_url": "https://tn.com.ar/resizer/v2/7QXANVQWXZDEXIKH2HQQQFAUR4.jpg?auth=b312ee9bbe5030506e13eca19aa2b9d043acb092f71d818b9bf5937e961e034d",
         "video_url": null,
-        "source_id": "elgrafico",
-        "source_name": "Elgrafico Mx",
-        "source_priority": 360449,
-        "source_url": "https://www.elgrafico.mx",
-        "source_icon": "https://n.bytvi.com/elgrafico.jpg",
+        "source_id": "tn",
+        "source_name": "Todo Noticias",
+        "source_priority": 6803,
+        "source_url": "https://tn.com.ar",
+        "source_icon": "https://n.bytvi.com/tn.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -571,78 +412,39 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "为什么 CDMX 地铁的 Barranca del Muerto 站以两只鸟作为标志？",
-        "description_zh": "了解为什么 CDMX 地铁站的标志性符号中显示有两只鸟"
+        "title_zh": "罗尼·伍德确认了他在阿根廷的演出：日期和门票发售时间",
+        "description_zh": "经过数周的期待后，这位滚石乐队吉他手带着他的独奏作品回到了这个国家。"
     },
     {
-        "article_id": "a30f460a2184e1351a6d1d7a4b98e5cb",
-        "link": "https://www.diarioeldia.cl/noticias/2026/07/26/145804-alcalde-manouchehri-pide-acelerar-la-recuperacion-de-caminos-y-conectividad-tras-la-emergencia",
-        "title": "Alcalde Manouchehri pide acelerar la recuperación de caminos y conectividad tras la emergencia",
-        "description": "El jefe comunal se reunió con el subsecretario de Obras Públicas y autoridades de Vialidad para coordinar acciones urgentes que permitan restablecer la infraestructura, los servicios básicos y la conexión de los sectores aislados de Coquimbo.",
+        "article_id": "7323a839cc8c5f9a1be2d7a2afc9593b",
+        "link": "https://tribunademexico.com/turbosina-dispara-perdidas-de-aerolineas-mexicanas-por-mas-de-3-mil-300-millones-de-pesos/",
+        "title": "Turbosina dispara pérdidas de aerolíneas mexicanas por más de 3 mil 300 millones de pesos",
+        "description": "Las tres empresas confían en mejorar sus resultados durante la segunda mitad del año mediante estrategias de eficiencia operativa, coberturas de combustible y una mayor demanda de pasajeros El cargo Turbosina dispara pérdidas de aerolíneas mexicanas por más de 3 mil 300 millones de pesos apareció primero en Tribuna de México .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "méxico"
+        ],
         "creator": [
-            "equipo el día"
+            "carlos puelma"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "mexico"
         ],
         "category": [
-            "politics",
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:41:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 15:47:58",
-        "image_url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/07/diarioeldia/images/02/69/80/2698091_85f7892ad9e31687d4bb2aa03ac15675b42221fcb8abc51212416aab3b29468f/md.webp",
-        "video_url": null,
-        "source_id": "diarioeldia",
-        "source_name": "Diario El D",
-        "source_priority": 942639,
-        "source_url": "https://diarioeldia.cl",
-        "source_icon": "https://n.bytvi.com/diarioeldia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "市长马努切里要求紧急情况后加快道路和连通性的恢复",
-        "description_zh": "社区负责人会见了公共工程和道路当局副部长，协调紧急行动，以恢复基础设施、基本服务以及科金博偏远地区的连接。"
-    },
-    {
-        "article_id": "584f61e88eeab721798a11aff4505996",
-        "link": "https://www.diarioeldia.cl/noticias/2026/07/26/145804-manouchehri-pide-acelerar-recuperacion-de-caminos-y-conectividad",
-        "title": "Manouchehri pide acelerar recuperación de caminos y conectividad",
-        "description": "El alcalde de Coquimbo se reunió con el subsecretario de Obras Públicas y autoridades de Vialidad para coordinar acciones urgentes destinadas a restablecer la conectividad, recuperar la infraestructura dañada y garantizar los servicios básicos en los sectores aislados de la comuna.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "equipo el día"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
             "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-26 15:41:42",
+        "pubDate": "2026-07-27 15:14:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 19:18:45",
-        "image_url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/07/diarioeldia/images/02/69/80/2698091_85f7892ad9e31687d4bb2aa03ac15675b42221fcb8abc51212416aab3b29468f/md.webp",
+        "fetched_at": "2026-07-27 15:18:38",
+        "image_url": "https://storage.googleapis.com/tribunamexico/2026/02/cp-gap-grupo-aeroportuario-pacifico.jpg.webp",
         "video_url": null,
-        "source_id": "diarioeldia",
-        "source_name": "Diario El D",
-        "source_priority": 942639,
-        "source_url": "https://diarioeldia.cl",
-        "source_icon": "https://n.bytvi.com/diarioeldia.png",
+        "source_id": "tribunademexico",
+        "source_name": "Tribuna De México",
+        "source_priority": 697716,
+        "source_url": "https://tribunademexico.com",
+        "source_icon": "https://n.bytvi.com/tribunademexico.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -650,115 +452,21 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "马努切里要求加快道路和连通性的恢复",
-        "description_zh": "科金博市长会见了公共工程和道路部门副部长，协调紧急行动，旨在恢复连通性、恢复受损的基础设施并保障该社区偏远地区的基本服务。"
+        "title_zh": "Turbosina导致墨西哥航空公司损失超过33亿比索",
+        "description_zh": "三大公司有信心通过运营效率战略、燃油覆盖范围和更大的乘客需求来改善下半年的业绩。 Turbosina 收费导致墨西哥航空公司损失超过 33 亿比索。"
     },
     {
-        "article_id": "653a2e2c9bff444c1dad1b20e4c954b0",
-        "link": "https://oem.com.mx/la-prensa/metropoli/pan-denuncia-falta-de-estrategia-efectiva-ante-aumento-de-feminicidios-en-cdmx-31303961",
-        "title": "PAN denuncia falta de estrategia efectiva ante aumento de feminicidios en CDMX",
-        "description": "El PAN en CDMX condena el aumento del 11.7% en feminicidios en la capital, denuncia la ausencia de una estrategia efectiva y exige atención inmediata y acciones concretas ante la violencia contra las mujeres",
+        "article_id": "dc0b5c4990c34707da46c28b0fdb045c",
+        "link": "https://www.elporvenir.mx/economico/reconocen-a-gasolineros-por-respetar-acuerdo-del-precio-del-diesel/1010130",
+        "title": "Reconocen a gasolineros por respetar acuerdo del precio del diésel",
+        "description": "Escalante destacó el acuerdo voluntario con los empresarios.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "feminicidios",
-            "violencia de género",
-            "pan cdmx"
-        ],
-        "creator": [
-            "patricia carrasco"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:41:40",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 21:16:42",
-        "image_url": "https://oem.com.mx/la-prensa/img/30827529/1782658462/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "la_prensa_mx",
-        "source_name": "La Prensa",
-        "source_priority": 512334,
-        "source_url": "https://www.la-prensa.com.mx",
-        "source_icon": "https://n.bytvi.com/la_prensa_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "国家行动党谴责在 CDMX 地区杀戮女性事件增加时缺乏有效策略",
-        "description_zh": "CDMX 的 PAN 谴责首都女性被杀事件增加 11.7%，谴责缺乏有效的战略，并要求立即关注并采取具体行动打击暴力侵害妇女行为"
-    },
-    {
-        "article_id": "0488d198d3d4580706f8f9a4ede75436",
-        "link": "https://www.poresto.com/campeche/2026/7/26/cfe-detecta-diablitos-y-conexiones-clandestinas-que-afectan-el-suministro-electrico-en-campeche.html",
-        "title": "CFE detecta \"diablitos\" y conexiones clandestinas que afectan el suministro eléctrico en Campeche",
-        "description": "Durante trabajos de mantenimiento, brigadas localizaron tomas ilegales, reemplazaron postes y transformadores dañados por las lluvias.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cfe",
-            "eléctrico",
-            "afectan",
-            "conexiones",
-            "detecta",
-            "campeche",
-            "suministro",
-            "diablitos",
-            "clandestinas",
-            "comisión federal de electricidad",
-            "península de yucatán"
-        ],
-        "creator": [
-            "redacción por esto"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:41:06",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 17:48:45",
-        "image_url": "https://www.poresto.com/media/2026/7/26/las-conexiones-clandestinas-danan-la-infraestructura-electrica-y-aumentan-el-riesgo-de-apagones.jpg",
-        "video_url": null,
-        "source_id": "poresto",
-        "source_name": "Por Esto!",
-        "source_priority": 1266292,
-        "source_url": "https://www.poresto.com",
-        "source_icon": "https://n.bytvi.com/poresto.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "CFE 发现影响坎佩切电力供应的“小恶魔”和秘密联系",
-        "description_zh": "在维护工作中，各小组找到了非法插座，更换了因雨水损坏的电线杆和变压器。"
-    },
-    {
-        "article_id": "f2c53cecf79ebfc1923c64f2fdac7545",
-        "link": "https://www.elmanana.com/escena/famosos/black-panther-ii-david-jonsson-interpretara-a-tchalla-ii/6165610",
-        "title": "Black Panther II: David Jonsson interpretará a T'Challa II",
-        "description": "Ryan Coogler confirma a David Jonsson como protagonista de Black Panther II.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ryan coogler comic&#45;con 2026",
-            "t&#39;challa ii marvel",
-            "david jonsson black panther ii",
-            "black panther ii estreno",
-            "david jonsson carrera"
+            "precio",
+            "diésel",
+            "profeco",
+            "gasolineros",
+            "iván escalante"
         ],
         "creator": [
             "el universal"
@@ -768,20 +476,19 @@
             "mexico"
         ],
         "category": [
-            "entertainment",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-26 15:41:00",
+        "pubDate": "2026-07-27 15:14:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 20:44:12",
-        "image_url": "https://blob.elmanana.com/images/2026/07/26/captura-de-pantalla-2026-07-26-a-las-34231-p-m-d660cd48.png",
+        "fetched_at": "2026-07-27 15:47:33",
+        "image_url": "https://blob.elporvenir.mx/images/2026/07/27/ivanescalante-1b14667d-focus-min0.42-0.26-960-690.jpg",
         "video_url": null,
-        "source_id": "elmanana",
-        "source_name": "Últimas Noticias - El Mañana De Reynosa",
-        "source_priority": 258494,
-        "source_url": "https://www.elmanana.com",
-        "source_icon": "https://n.bytvi.com/elmanana.jpg",
+        "source_id": "elporvenir_mx",
+        "source_name": "El Porvenir",
+        "source_priority": 589407,
+        "source_url": "https://elporvenir.mx",
+        "source_icon": "https://n.bytvi.com/elporvenir_mx.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -789,58 +496,17 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "《黑豹 II》：大卫·琼森演绎特查拉 II",
-        "description_zh": "瑞恩·库格勒确认大卫·琼森将担任《黑豹 II》的主角。"
+        "title_zh": "因尊重柴油价格协议而受到认可的加油站",
+        "description_zh": "埃斯卡兰特强调了与商人的自愿协议。"
     },
     {
-        "article_id": "72ee459559f621d34c42d2d27e85df21",
-        "link": "https://eldiariodechihuahua.mx/estado/2026/jul/26/continuan-lluvias-fuertes-en-la-sierra-preven-calor-de-40-grados-821387.html",
-        "title": "Continúan lluvias fuertes en la Sierra; prevén calor de 40 grados",
-        "description": "Protección Civil pronosticó lluvias moderadas a puntualmente fuertes, con acumulados de 25.1 a 50 milímetros, en Madera, Temósachi, Moris, Uruachi y Chínipas",
+        "article_id": "e33b01a39d5a68c024e66414b8966516",
+        "link": "https://www.mural.com.mx/evita-csp-condenar-dichos-de-ortega-sobre-comicios/ar3247442",
+        "title": "Evita CSP condenar dichos de Ortega sobre comicios",
+        "description": "CSP evitó condenar declaraciones de Daniel Ortega, quien aseguró que en Nicaragua no habrá elecciones para que Oposición no llegue al poder.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
-        "creator": [
-            "ismael carrillo | el diario"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-26 15:40:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 16:07:48",
-        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/07/26/visi3-b6mz5coiv-1ku5m7GDM.jpg",
-        "video_url": null,
-        "source_id": "eldiariodechihuahua",
-        "source_name": "Eldiariodechihuahua",
-        "source_priority": 77437,
-        "source_url": "https://www.eldiariodechihuahua.mx",
-        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "山脉地区持续下大雨；他们预测气温将达到 40 度",
-        "description_zh": "民防部门预计马德拉、特莫萨奇、莫里斯、乌鲁阿奇和奇尼帕斯将出现中到偶发大雨，累积雨量为 25.1 至 50 毫米"
-    },
-    {
-        "article_id": "4c12256f1c96236af409f65ab6fc0404",
-        "link": "https://actualidad.rt.com/actualidad/618998-les-importaron-bledo-promesas-intereses",
-        "title": "\"Les importaron un bledo todas sus promesas y nuestros intereses\": Putin sobre cómo Occidente engañó a Rusia",
-        "description": "Tras la caída de la URSS, las capitales occidentales prometieron a Moscú que la OTAN no se extendería hacia el este, pero fue expandiéndose progresivamente.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "rt en español"
-        ],
+        "creator": null,
         "language": "spanish",
         "country": [
             "mexico"
@@ -850,16 +516,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-26 15:40:32",
+        "pubDate": "2026-07-27 15:13:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-26 16:04:18",
-        "image_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a662dc8e9ff712f016d6b62.jpg",
+        "fetched_at": "2026-07-27 15:20:33",
+        "image_url": null,
         "video_url": null,
-        "source_id": "rt_mx",
-        "source_name": "Rt",
-        "source_priority": 19092,
-        "source_url": "https://actualidad.rt.com",
-        "source_icon": "https://n.bytvi.com/rt_mx.png",
+        "source_id": "mural",
+        "source_name": "Mural",
+        "source_priority": 966477,
+        "source_url": "https://www.mural.com.mx",
+        "source_icon": "https://n.bytvi.com/mural.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -867,7 +533,310 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "“他们根本不在乎他们的所有承诺和我们的利益”：普京谈西方如何欺骗俄罗斯",
-        "description_zh": "苏联解体后，西方国家向莫斯科承诺北约不会东扩，但北约却在逐步扩张。"
+        "title_zh": "CSP 避免谴责奥尔特加有关选举的言论",
+        "description_zh": "CSP 避免谴责丹尼尔·奥尔特加 (Daniel Ortega) 的言论，后者保证尼加拉瓜不会举行选举，以免反对派上台。"
+    },
+    {
+        "article_id": "e4bfbea35685074b5519f09fec89786e",
+        "link": "https://www.elnuevosiglo.com.co/politica/petro-cuestiona-angie-rodriguez-y-pide-su-retiro-del-fondo-adaptacion",
+        "title": "Petro cuestiona a Angie Rodríguez y pide su retiro del Fondo Adaptación",
+        "description": "Petro cuestiona a Angie Rodríguez y pide su retiro del Fondo Adaptación El jefe de Estado se pronuncio por medio de sus redes donde expresó que \"Angie es una gran manipuladora que ve la función pública en beneficio propio y que lamento haber conocido\".",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "angie",
+            "petro",
+            "fondo de adaptación",
+            "rodriguez"
+        ],
+        "creator": [
+            "xiomara bustos"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:13:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 16:23:22",
+        "image_url": "https://www.elnuevosiglo.com.co/sites/default/files/2026/07/27/imagen/petro%20angie%20rodriguez.png",
+        "video_url": null,
+        "source_id": "elnuevosiglo",
+        "source_name": "El Nuevo Siglo",
+        "source_priority": 3048165,
+        "source_url": "http://elnuevosiglo.com.co",
+        "source_icon": "https://n.bytvi.com/elnuevosiglo.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "佩特罗质问安吉·罗德里格斯并要求她退出适应基金",
+        "description_zh": "佩特罗询问安吉·罗德里格斯并要求她退出适应基金。这位国家元首通过他的网络公开表示，“安吉是一位伟大的操纵者，她将公职视为自己的利益，我很遗憾见到她。”"
+    },
+    {
+        "article_id": "11f702337d122e6d357c516fd2b31181",
+        "link": "https://www.elheraldo.co/judicial/2021/08/30/policia-desarticula-la-banda-delincuencial-los-piratas-845893/",
+        "title": "Policía desarticula la banda delincuencial ‘los Piratas’",
+        "description": "Otras dos personas también fueron detenidas por la Policía Nacional.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "orden-de-captura",
+            "policia-nacional",
+            "banda-delincuencial",
+            "hurto",
+            "capturas"
+        ],
+        "creator": [
+            "william colina páez"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:13:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:36:36",
+        "image_url": "https://www.elheraldo.co/resizer/v2/NWYYLIGBYRFDFOHGOT3GKNDS7Q.jpg?auth=a568c27f6b66d78aab0c8733032eda8eb0fe517fe8c86ffa1fa9934193ce0263&smart=true&width=1920&height=1080",
+        "video_url": null,
+        "source_id": "elheraldo",
+        "source_name": "Elheraldo",
+        "source_priority": 38752,
+        "source_url": "https://www.elheraldo.co",
+        "source_icon": "https://n.bytvi.com/elheraldo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "警方捣毁犯罪团伙“Los Piratas”",
+        "description_zh": "另外两人也被国家警察拘留。"
+    },
+    {
+        "article_id": "44255f9cd00fb079dd70358f2d96baf8",
+        "link": "https://www.infobae.com/mexico/2026/07/27/no-hay-ninguna-campana-sheinbaum-responde-a-milei-tras-acusacion-de-financiar-ataques-en-su-contra/",
+        "title": "“No hay ninguna campaña”: Sheinbaum responde a Milei tras acusación de financiar ataques en su contra",
+        "description": "La presidenta respondió al presidente tras la acusación a México de financiar una “campaña antiargentina”",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "brasil",
+            "claudia sheinbaum",
+            "mexico-noticias",
+            "argentina",
+            "política mexicana",
+            "méxico",
+            "estados unidos",
+            "javier milei"
+        ],
+        "creator": [
+            "itzallana lópez castillo"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "mexico",
+            "united states of america",
+            "argentina"
+        ],
+        "category": [
+            "politics",
+            "crime",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-07-27 15:13:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:31:56",
+        "image_url": "https://www.infobae.com/resizer/v2/UTKSSI734ZFXVCK3FUO3V5QXMQ.jpg?auth=78acd28842783c7844176bef08ab5fc35e121350c3029814df3783e1882ee72f&smart=true&width=1920&height=1080",
+        "video_url": "https://cdn.jwplayer.com/videos/gVZ5cZfc-7ZinLQGA.m4a",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“没有任何活动”：辛鲍姆在被指控资助对米雷的攻击后回应他",
+        "description_zh": "总统在指控墨西哥资助“反阿根廷运动”后对总统作出回应"
+    },
+    {
+        "article_id": "ac9385687444ab55667503f9cd58a2c0",
+        "link": "https://www.diariodelsur.com.co/golpe-a-la-delincuencia-capturan-en-pasto-a-banda-los-stehlen-que-operaba-en-potrerillo-y-comuna-4/",
+        "title": "GOLPE A LA DELINCUENCIA | Capturan en Pasto a banda «Los Stehlen» que operaba en Potrerillo y Comuna 4",
+        "description": "La Policía Nacional capturó en Pasto a los integrantes de una presunta banda delincuencial conocida como «Los Stehlen». Según el reporte oficial, los detenidos tienen antecedentes judiciales y delinquían en el sector de Potrerillo y la Comuna 4 de la capital nariñense. Durante el operativo las autoridades incautaron 3 celulares reportados como robados, además de [...] La entrada GOLPE A LA DELINCUENCIA | Capturan en Pasto a banda «Los Stehlen» que operaba en Potrerillo y Comuna 4 se publicó primero en Diario del Sur .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "manuel guillermo martinez"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:13:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:19:28",
+        "image_url": "https://www.diariodelsur.com.co/wp-content/uploads/2022/09/DiarioDelSur-Redes-1.png",
+        "video_url": null,
+        "source_id": "diariodelsur",
+        "source_name": "Diario Del Sur",
+        "source_priority": 832974,
+        "source_url": "http://diariodelsur.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelsur.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "打击犯罪|他们抓获了在帕斯托 Potrerillo 和 Comuna 4 活动的“Los Stehlen”团伙",
+        "description_zh": "国家警察在帕斯托抓获了一个名为“Los Stehlen”的涉嫌犯罪团伙的成员。据官方报告，被拘留者有司法记录，并在波特雷里洛区和纳里尼奥首都4号公社犯下罪行。在操作过程中"
+    },
+    {
+        "article_id": "7e32fb9aff6e93fa8800e012ddf59ea2",
+        "link": "https://www.cnnchile.com/pais/ossandon-restituir-exsubsecretario-hacienda-contramuestra-falso-positivo/",
+        "title": "Ossandón pide restituir a exsubsecretario de Hacienda si contramuestra descarta consumo de drogas",
+        "description": "La diputada de RN sostuvo que Juan Pablo Rodríguez debería regresar al mismo cargo en caso de confirmarse que el examen inicial arrojó un falso positivo. También cuestionó que el Gobierno aceptara su salida antes de conocer el segundo resultado.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ximena ossandón",
+            "renovación nacional",
+            "país",
+            "juan pablo rodríguez",
+            "subsecretaría de hacienda",
+            "gobierno",
+            "contramuestra"
+        ],
+        "creator": [
+            "michel nahas miranda"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:13:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:17:54",
+        "image_url": "https://media.cnnchile.com/2026/07/A_UNO_1745660-1024x683.jpg",
+        "video_url": null,
+        "source_id": "cnnchile",
+        "source_name": "Cnn Chile",
+        "source_priority": 575108,
+        "source_url": "https://www.cnnchile.com",
+        "source_icon": "https://n.bytvi.com/cnnchile.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "如果反样本排除吸毒的可能性，奥桑东要求恢复前财政部副部长的职务",
+        "description_zh": "注册护士副手坚持认为，如果确认初步测试结果为假阳性，胡安·巴勃罗·罗德里格斯应该回到原来的位置。他又质疑政府在得知第二个结果前是否接受他的离任。"
+    },
+    {
+        "article_id": "0471c695ad9f0ece817231634e5e395e",
+        "link": "https://www.elpaisvallenato.com/ministro-hacienda-de-brasil-llama-payaso-a-milei-en-medio-de-la-crisis-diplomatica/",
+        "title": "Ministro Hacienda de Brasil llama «payaso» a Milei en medio de la crisis diplomática",
+        "description": "El ministro de Hacienda de Brasil, Dario Durigan, dijo este lunes que la economía del país está mejor que la",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "admin"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:13:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:24:38",
+        "image_url": "https://www.elpaisvallenato.com/wp-content/uploads/2026/07/miley-1.jpg",
+        "video_url": null,
+        "source_id": "elpaisvallenato",
+        "source_name": "El País Vallenato",
+        "source_priority": 2989922,
+        "source_url": "https://www.elpaisvallenato.com",
+        "source_icon": "https://n.bytvi.com/elpaisvallenato.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "巴西财政部长称米莱是外交危机中的“小丑”",
+        "description_zh": "巴西财政部长达里奥·杜里根周一表示，该国经济好于其他国家"
+    },
+    {
+        "article_id": "ee622d0dabffddaf25864dc79199e120",
+        "link": "https://entrelineas.com.mx/se-confirma-caso-de-gusano-barranador-en-mascota-se-reunira-maru-campos-con-la-union-ganadera/",
+        "title": "Reportan caso de gusano barrenador en mascota, se reunirá Maru Campos con la Unión Ganadera",
+        "description": "La gobernadora María Eugenia Campos Galván manifestó que ya se confirmó un caso de gusano barrenador en una mascota en el municipio de Rosales. En este sentido, reiteró que continúa ocupada en mantener las medidas fitosanitarias en la entidad y que Chihuahua se mantiene por debajo de la media nacional en cuanto a casos activos. [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-07-27 15:13:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-07-27 15:19:08",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "entrelineas",
+        "source_name": "Entrelineas",
+        "source_priority": 655477,
+        "source_url": "https://entrelineas.com.mx",
+        "source_icon": "https://n.bytvi.com/entrelineas.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "宠物感染螺旋虫病例报道，马鲁·坎波斯将与畜牧联盟会面",
+        "description_zh": "州长玛丽亚·尤金尼亚·坎波斯·加尔万 (María Eugenia Campos Galván) 表示，罗萨莱斯市已确认一例宠物感染螺旋虫的病例。从这个意义上说，她重申，她继续忙于维持该实体的植物检疫措施，并且奇瓦瓦州仍然低于平均水平。"
     }
 ]
