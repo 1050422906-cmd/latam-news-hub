@@ -1,69 +1,25 @@
 [
     {
-        "article_id": "8e0f116a264a38ca317908258ab625b7",
-        "link": "https://www.correiobraziliense.com.br/brasil/2026/07/7471380-vendaval-no-rj-112-mil-imoveis-seguem-sem-luz-apos-rajadas-de-vento.html",
-        "title": "Vendaval no RJ: 112 mil imóveis seguem sem luz após rajadas de vento",
-        "description": "Vendavais de até 100 km/h provocaram três mortes, protestos e deixaram mais de 100 mil consumidores sem energia no estado",
+        "article_id": "04c5b1b00fe759ab31f61bad10f76149",
+        "link": "https://www.infobae.com/colombia/2026/08/01/gobierno-petro-declaro-insubsistente-a-angie-rodriguez-como-gerente-del-fondo-adaptacion-tras-sus-revelaciones-de-presuntos-hechos-de-corrupcion/",
+        "title": "Gobierno Petro declaró insubsistente a Angie Rodríguez como gerente del Fondo Adaptación, tras sus revelaciones de presuntos hechos de corrupción",
+        "description": "Con el documento firmado por el ministro de Hacienda se oficializa la salida de la funcionaria del Ejecutivo",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "falta de energia",
-            "finance",
-            "business",
-            "& economics",
-            "vendaval",
-            "enel",
-            "rio de janeiro",
-            "eduardo cavaliere"
+            "gobierno petro",
+            "denuncias corrupción",
+            "colombia-noticias",
+            "insubsistente",
+            "angie rodríguez"
         ],
         "creator": [
-            "correio braziliense"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:32:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 15:47:09",
-        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/07/31/-rbr2767-67300114.jpg",
-        "video_url": null,
-        "source_id": "correiobraziliense",
-        "source_name": "Correio Braziliense",
-        "source_priority": 267296,
-        "source_url": "https://www.correiobraziliense.com.br",
-        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "RJ 强风：阵风过后 11.2 万处房屋仍断电",
-        "description_zh": "时速高达 100 公里的风暴造成三人死亡、引发抗议，并导致该州超过 10 万名消费者断电"
-    },
-    {
-        "article_id": "f4be3305d3f360b35251accd87c08a6f",
-        "link": "https://www.infobae.com/espana/agencias/2026/07/31/el-gobierno-eleva-a-37500-los-inmigrantes-que-han-regresado-a-marruecos-desde-ceuta/",
-        "title": "El Gobierno eleva a 37.500 los inmigrantes que han regresado a Marruecos desde Ceuta",
-        "description": "El Gobierno eleva a 37.500 los inmigrantes que han regresado a Marruecos desde Ceuta",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "europapress"
-        ],
-        "creator": [
-            "newsroom infobae"
+            "luciano niño"
         ],
         "language": "spanish",
         "country": [
-            "united states of america",
             "mexico",
             "argentina",
+            "united states of america",
             "colombia"
         ],
         "category": [
@@ -71,10 +27,10 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-31 15:31:51",
+        "pubDate": "2026-08-01 15:31:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 16:00:49",
-        "image_url": "https://www.infobae.com/resizer/v2/U4BOAALF2VCFDELMIOYYAO5QB4.jpg?auth=8e41c288db0818378c34615f316773f37afac6cf94571fa5ddd20e8fe19adea7&smart=true&width=1920&height=1440",
+        "fetched_at": "2026-08-01 16:02:51",
+        "image_url": "https://www.infobae.com/resizer/v2/STCTGNHZQZAQVB745AHQVSGR6I.jpg?auth=1834cc32ec6df3e7ad6eae754a90d1a45b8834bccf8a1ead37d2f44666f32794&smart=true&width=1024&height=576",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -87,15 +43,15 @@
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "政府将从休达返回摩洛哥的移民人数增加至37,500人",
-        "description_zh": "政府将从休达返回摩洛哥的移民人数增加至37,500人"
+        "duplicate": false,
+        "title_zh": "在揭露涉嫌腐败行为后，佩特罗政府宣布安吉·罗德里格斯不再担任适应基金经理",
+        "description_zh": "随着财政部长签署文件，执行官员正式离职"
     },
     {
-        "article_id": "2386e57dba9824c59d931827c1352095",
-        "link": "https://www.infobae.com/america/agencias/2026/07/31/ratifican-anulacion-de-prision-a-politico-que-impulso-a-castillo-a-la-presidencia-de-peru/",
-        "title": "Ratifican anulación de prisión a político que impulsó a Castillo a la Presidencia de Perú",
-        "description": "Ratifican anulación de prisión a político que impulsó a Castillo a la Presidencia de Perú",
+        "article_id": "2f5dc1a8b487b97154f461a859e84fe7",
+        "link": "https://www.infobae.com/america/agencias/2026/08/01/afganistan-repatria-los-cuerpos-de-tres-migrantes-que-fueron-quemados-en-el-sur-de-italia/",
+        "title": "Afganistán repatria los cuerpos de tres migrantes que fueron quemados en el sur de Italia",
+        "description": "Afganistán repatria los cuerpos de tres migrantes que fueron quemados en el sur de Italia",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
@@ -103,19 +59,19 @@
         ],
         "language": "spanish",
         "country": [
-            "united states of america",
             "mexico",
             "argentina",
+            "united states of america",
             "colombia"
         ],
         "category": [
-            "politics",
+            "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-31 15:31:49",
+        "pubDate": "2026-08-01 15:31:53",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 16:00:49",
+        "fetched_at": "2026-08-01 16:02:51",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
         "video_url": null,
         "source_id": "infobae",
@@ -130,236 +86,35 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们批准废除对提拔卡斯蒂略担任秘鲁总统的政客的监禁",
-        "description_zh": "他们批准废除对提拔卡斯蒂略担任秘鲁总统的政客的监禁"
+        "title_zh": "阿富汗遣返在意大利南部被烧死的三名移民尸体",
+        "description_zh": "阿富汗遣返在意大利南部被烧死的三名移民尸体"
     },
     {
-        "article_id": "1db4a502f6cf8c056b91b48ae5ec9b3d",
-        "link": "https://www.elsol.com.ar/mendoza/juguetes-ilegales-en-la-mira-tras-la-prohibicion-del-squeezy-dumpling-que-recomiendan-en-mendoza/",
-        "title": "Juguetes ilegales en la mira tras la prohibición del Squeezy Dumpling: qué recomiendan en Mendoza",
-        "description": "La prohibición del juguete Squeezy Dumpling en Argentina generó preocupación entre comerciantes y consumidores luego de que el Gobierno nacional ordenara su retiro inmediato del mercado por representar un “grave riesgo químico” para la salud. En Mendoza, el presidente de la Cámara de Librerías y Jugueterías, Gustavo Fernández, sostuvo que todo indica que el producto [...] The post Juguetes ilegales en la mira tras la prohibición del Squeezy Dumpling: qué recomiendan en Mendoza appeared first on Diario El Sol Mendoza .",
+        "article_id": "3cf4b680f0d422404ec11495ad2c090c",
+        "link": "https://www.gazetasp.com.br/politica/tarcisio-de-freitas-confirma-candidatura-a-reeleicao-em-sp-e-republicanos-define-chapa-para-eleicoes-de-2026/",
+        "title": "Tarcísio de Freitas confirma candidatura à reeleição em SP e Republicanos define chapa para eleições de 2026",
+        "description": "O Republicanos oficializou neste sábado (1o/8) a candidatura do governador Tarcísio de Freitas à reeleição ao governo de São Paulo. A decisão foi tomada durante a convenção estadual do partido realizada na capital paulista. O evento reuniu lideranças da base aliada, entre elas o candidato à Presidência da República, Flávio Bolsonaro (PL), o prefeito de [...] O post Tarcísio de Freitas confirma candidatura à reeleição em SP e Republicanos define chapa para eleições de 2026 apareceu primeiro em Gazeta de São Paulo .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": null,
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "tourism",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:31:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 18:03:40",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "elsol",
-        "source_name": "El Sol Mendoza",
-        "source_priority": 502049,
-        "source_url": "https://www.elsol.com.ar",
-        "source_icon": "https://n.bytvi.com/elsol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "挤压饺子禁令后非法玩具成为焦点：他们在门多萨推荐什么",
-        "description_zh": "阿根廷对挤压饺子玩具的禁令引起了商家和消费者的担忧，此前阿根廷政府下令该玩具立即退出市场，理由是它对健康构成“严重化学风险”。门多萨书店商会主席"
-    },
-    {
-        "article_id": "f165fad575d197492d67be27b8e2ac84",
-        "link": "https://www.infobae.com/america/agencias/2026/07/31/canarias-reclama-al-estado-dialogo-y-negociacion-para-reforzar-la-prevencion-frente-a-incendios-y-la-gestion-forestal/",
-        "title": "Canarias reclama al Estado diálogo y negociación para reforzar la prevención frente a incendios y la gestión forestal",
-        "description": "Canarias reclama al Estado diálogo y negociación para reforzar la prevención frente a incendios y la gestión forestal",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "europapress"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:31:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 16:00:49",
-        "image_url": "https://www.infobae.com/resizer/v2/OQ6UNQJZXVG55NTQ2SD2IQU4FE.jpg?auth=328ed71d7d44b511159f42e07b28e23deecfd44a9f83277a0aca56301b4c34e5&smart=true&width=1920&height=1280",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "加那利群岛要求国家进行对话和谈判，以加强防火和森林管理",
-        "description_zh": "加那利群岛要求国家进行对话和谈判，以加强防火和森林管理"
-    },
-    {
-        "article_id": "daf45d089bfd454dd4fdec9996204d8b",
-        "link": "https://www.infobae.com/america/agencias/2026/07/31/ampliacion-de-cobertura-efe-audiovisual-internacional-31-jul-1500gmt/",
-        "title": "Ampliación de cobertura EFE Audiovisual Internacional 31 jul (15.00GMT)",
-        "description": "Ampliación de cobertura EFE Audiovisual Internacional 31 jul (15.00GMT)",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:31:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 16:00:49",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "扩大覆盖范围 EFE 国际视听展览会 7 月 31 日（格林威治标准时间 15 点）",
-        "description_zh": "扩大覆盖范围 EFE 国际视听展览会 7 月 31 日（格林威治标准时间 15 点）"
-    },
-    {
-        "article_id": "42207b47885a5cc881ce0d2cc552c8ad",
-        "link": "https://diariosanrafael.com.ar/la-corte-resolvera-en-pleno-el-freno-a-la-reforma-de-la-autonomia-municipal/",
-        "title": "La Corte resolverá en pleno el freno a la reforma de la autonomía municipal",
-        "description": "La Suprema Corte de Justicia determinó que la demanda contra la Ley de Autonomía Municipal deberá ser tramitada y decidida por el tribunal en pleno. Esta decisión implica que los siete ministros del máximo tribunal intervendrán directamente en la resolución de la medida cautelar y de la acción de inconstitucionalidad presentada por la Asociación Civil Progreso Mendoza. La demanda sostiene que [...] La entrada La Corte resolverá en pleno el freno a la reforma de la autonomía municipal se publicó primero en Diario San Rafael .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:31:29",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 18:24:18",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "diariosanrafael",
-        "source_name": "Diario San Rafael",
-        "source_priority": 2309696,
-        "source_url": "https://diariosanrafael.com.ar",
-        "source_icon": "https://n.bytvi.com/diariosanrafael.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "法院将全面解决市政自治改革刹车问题",
-        "description_zh": "最高人民法院裁定，针对市自治法的诉讼必须由合议庭审理并作出裁决。这一决定意味着最高法院的七位部长将直接干预预防措施和ACCIO的决议。"
-    },
-    {
-        "article_id": "a9a612217155689d97669731b30f51db",
-        "link": "https://segundoasegundo.com/casas-en-renta-en-queretaro-el-mercado-de-una-ciudad-que-no-para-de-crecer/",
-        "title": "Casas en renta en Querétaro: el mercado de una ciudad que no para de crecer",
-        "description": "El mercado de rentas en queretaro para casas creció de manera notable en los últimos años, impulsado por la expansión económica de la ciudad y por la llegada constante de trabajadores, empresarios y familias de todo el país que eligieron Querétaro como destino de vida por la combinación de oportunidades de empleo, calidad urbana y [...] La Nota Casas en renta en Querétaro: el mercado de una ciudad que no para de crecer aparece en Segundo a Segundo - Noticias de Chihuahua, México y el mundo .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "admin"
-        ],
-        "language": "spanish",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:31:27",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 15:56:20",
-        "image_url": "https://segundoasegundo.com/wp-content/uploads/2026/07/IMG_0774.png",
-        "video_url": null,
-        "source_id": "segundoasegundo",
-        "source_name": "Segundo A Segundo - Noticias De Chihuahua, México",
-        "source_priority": 6866312,
-        "source_url": "https://segundoasegundo.com",
-        "source_icon": "https://n.bytvi.com/segundoasegundo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "克雷塔罗出租房屋：不断增长的城市市场",
-        "description_zh": "近年来，由于城市的经济扩张以及来自全国各地的工人、商人和家庭的不断到来，他们选择克雷塔罗作为生活目的地，原因是克雷塔罗的房屋租赁市场显着增长。"
-    },
-    {
-        "article_id": "aba950f529ca6d197400cb3b5384ff48",
-        "link": "https://www.terra.com.br/esportes/disputa-pelo-podio-da-sivi-daycoval-segue-acirrada-na-super-40,352c5e517d3016584482e49890bf2076j7d1ssg7.html",
-        "title": "Disputa pelo pódio da SIVI Daycoval segue acirrada na Super 40",
-        "description": "O retorno das regatas da 53a Semana Internacional de Vela de Ilhabela Daycoval, nesta quinta- ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "esporte news mundo"
-        ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "sports"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-31 15:31:25",
+        "pubDate": "2026-08-01 15:31:53",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 16:05:19",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/07/31/1083658397-4685471213168tripulaagbpoemaaagbpo.jpg",
+        "fetched_at": "2026-08-01 21:25:14",
+        "image_url": null,
         "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
+        "source_id": "gazetasp_br",
+        "source_name": "Gazetasp Br",
+        "source_priority": 676902,
+        "source_url": "https://www.gazetasp.com.br",
+        "source_icon": "https://n.bytvi.com/gazetasp_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -367,22 +122,28 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "超级 40 赛中 SIVI Daycoval 领奖台之争依然激烈",
-        "description_zh": "第 53 届伊利亚贝拉·戴科瓦尔国际帆船周帆船赛将于本周四回归……"
+        "title_zh": "塔尔西西奥·德·弗雷塔斯确认了社会党连任候选人资格，共和党确定了 2026 年选举的候选人名单",
+        "description_zh": "共和党本周六（1/8）正式宣布州长塔尔西西奥·德·弗雷塔斯作为圣保罗政府连任候选人。这一决定是在该党在首都圣保罗举行的州代表大会上做出的。这次活动聚集了盟军基地的领导人，包括候选人"
     },
     {
-        "article_id": "c927dfd96dff7e14e8807e5577b73c2e",
-        "link": "https://elintransigente.com/2026/07/lo-extrano-sigo-enganchada-la-inesperada-confesion-de-flor-vigna-sobre-su-ex/",
-        "title": "«Lo extraño, sigo enganchada»: la inesperada confesión de Flor Vigna sobre su ex",
-        "description": "No puede soltar. The post «Lo extraño, sigo enganchada»: la inesperada confesión de Flor Vigna sobre su ex appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
+        "article_id": "3bf40d1edf58e5cb809366fb99837c84",
+        "link": "https://www.mejorinformado.com/deportes/quien-influencer-argentina-enamoro-joao-felix-fotos_1785598139",
+        "title": "Quién es la influencer argentina que enamoró a Joao Félix: sus fotos",
+        "description": "La versión de un supuesto romance entre el futbolista portugués y una reconocida creadora de contenido argentina revolucionó las redes sociales y los medios europeos.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "flor vigna",
-            "la casa de los famosos",
-            "luciano castro"
+            "romance",
+            "miami",
+            "josé manuel lópez",
+            "al nassr",
+            "tiktok",
+            "portugal",
+            "mundial 2026",
+            "deportes",
+            "joao félix"
         ],
         "creator": [
-            "marcosperucca"
+            "redacción mejor informado"
         ],
         "language": "spanish",
         "country": [
@@ -393,10 +154,217 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-31 15:31:23",
+        "pubDate": "2026-08-01 15:31:44",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 15:54:42",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/07/luciano-castro-y-flor-vigna-se-separaron-tras-mas-KRIBQWRLRVG2DDODMDUZDIUDDY-1.jpg?fit=1200%2C800&quality=95&ssl=1",
+        "fetched_at": "2026-08-01 15:46:03",
+        "image_url": "https://pxcdn.mejorinformado.com/mejorinformado/082026/1785598029609/e9865edf-1a60-4c79-bc95-8b4ccfdff119-jpeg..jpeg?cw=320&ch=180",
+        "video_url": null,
+        "source_id": "mejorinformado",
+        "source_name": "Mejorinformado",
+        "source_priority": 463646,
+        "source_url": "https://www.mejorinformado.com",
+        "source_icon": "https://n.bytvi.com/mejorinformado.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Joao Félix 爱上的阿根廷网红是谁：她的照片",
+        "description_zh": "这位葡萄牙足球运动员和一位著名的阿根廷内容创作者之间所谓的恋情的版本彻底改变了社交网络和欧洲媒体。"
+    },
+    {
+        "article_id": "25bce80d47c324ab02771d5c526cf575",
+        "link": "https://odocumento.com.br/familia-e-feita-refem-durante-confraternizacao-em-chacara-e-bandidos-trocam-tiros-com-a-pm/",
+        "title": "Família é feita refém durante confraternização em chácara e bandidos trocam tiros com a PM",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "policial"
+        ],
+        "creator": [
+            "redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:31:39",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 15:54:56",
+        "image_url": "https://odocumento.com.br/content/images/2026/08/7bcafe76876fd493f57be7e2260c9718.jpg",
+        "video_url": null,
+        "source_id": "odocumento",
+        "source_name": "O Documento",
+        "source_priority": 6912852,
+        "source_url": "https://odocumento.com.br",
+        "source_icon": "https://n.bytvi.com/odocumento.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "一家人在农场聚会时被劫为人质，强盗与警察交火",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "7ebbb6cd03bd02e8c856e23dbdbc9e58",
+        "link": "https://www.paranashop.com.br/post/rafael-greca-vice-sandro-alex",
+        "title": "Rafael Greca aceita ser vice de Sandro Alex",
+        "description": "Rafael Greca aceita integrar a chapa de Sandro Alex e provoca a principal reviravolta da semana na política paranaense",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "paranashop"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "blog",
+        "pubDate": "2026-08-01 15:31:38",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 15:48:27",
+        "image_url": "https://static.wixstatic.com/media/a9309d_4dbfbdf2a2c941d4b3c704f7c85f6f62~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+        "video_url": null,
+        "source_id": "paranashop",
+        "source_name": "Paran@shop",
+        "source_priority": 953692,
+        "source_url": "https://paranashop.com.br",
+        "source_icon": "https://n.bytvi.com/paranashop.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "拉斐尔·格雷卡 (Rafael Greca) 接受担任桑德罗·亚历克斯 (Sandro Alex) 的副手",
+        "description_zh": "拉斐尔·格雷卡 (Rafael Greca) 接受加入桑德罗·亚历克斯 (Sandro Alex) 的竞选，并引发巴拉那州政治本周的主要转折"
+    },
+    {
+        "article_id": "a64b4cd0da84d7aca2670fb83e60fef3",
+        "link": "https://www.infobae.com/america/agencias/2026/08/01/registran-un-sismo-de-magnitud-34-en-una-provincia-del-sur-de-ecuador/",
+        "title": "Registran un sismo de magnitud 3,4 en una provincia del sur de Ecuador",
+        "description": "Registran un sismo de magnitud 3,4 en una provincia del sur de Ecuador",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "newsroom infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "argentina",
+            "united states of america",
+            "colombia"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:31:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 16:02:51",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们记录厄瓜多尔南部省份发生3.4级地震",
+        "description_zh": "他们记录厄瓜多尔南部省份发生3.4级地震"
+    },
+    {
+        "article_id": "de979bb28d390ec8a5943d170e854eb8",
+        "link": "https://www.infobae.com/espana/agencias/2026/08/01/evenepoel-cumple-los-pronosticos-y-se-impone-a-carapaz-en-su-cuarta-clasica-san-sebastian/",
+        "title": "Evenepoel cumple los pronósticos y se impone a Carapaz en su cuarta Clásica San Sebastián",
+        "description": "Evenepoel cumple los pronósticos y se impone a Carapaz en su cuarta Clásica San Sebastián",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "newsroom infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "argentina",
+            "united states of america",
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:31:19",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 16:02:51",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "埃文普尔满足了预测并在他的第四次圣塞巴斯蒂安经典赛中击败了卡拉帕斯",
+        "description_zh": "埃文普尔满足了预测并在他的第四次圣塞巴斯蒂安经典赛中击败了卡拉帕斯"
+    },
+    {
+        "article_id": "b08f8b08ae754661375b9413f29eb888",
+        "link": "https://elintransigente.com/2026/08/receta-postre-sin-horno-dulce-leche-galletitas/",
+        "title": "Receta de postre sin horno: crema de dulce de leche y galletitas",
+        "description": "El paso a paso para que quede cremoso, firme y listo en 4 horas. The post Receta de postre sin horno: crema de dulce de leche y galletitas appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "postre de galletitas",
+            "dulce de leche",
+            "receta"
+        ],
+        "creator": [
+            "lucía gianninoto"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "food"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:31:15",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 15:53:10",
+        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/08/1785426352440-7f0t43.webp?fit=1536%2C1024&quality=95&ssl=1",
         "video_url": null,
         "source_id": "elintransigente",
         "source_name": "El Intransigente",
@@ -410,284 +378,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "“我想念他，我仍然着迷”：弗洛尔·维格纳对前任的意外坦白",
-        "description_zh": "不能放手。帖子“我想念他，我仍然着迷”：弗洛尔·维尼亚（Flor Vigna）对她的前任的意外坦白首先出现在《El Intransigente：来自阿根廷和世界的实时新闻》上。"
+        "title_zh": "无需烤箱的甜点配方：牛奶牛奶奶油和饼干",
+        "description_zh": "逐步使其在 4 小时内变得柔滑、紧实并准备就绪。后自硬甜点食谱：焦糖牛奶奶油和饼干首先出现在El Intransigente：来自阿根廷和世界的实时最新新闻。"
     },
     {
-        "article_id": "9b16c7c3714e89cb62d0270dfd0c61bf",
-        "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-07-31/peninsula-iberica-gira-agujas-reloj-1qrt_4265037/",
-        "title": "Un científico español estudia la corteza terrestre y se da cuenta de que la península ibérica gira en la dirección de las agujas del reloj",
-        "description": "El fenómeno se debe a la interacción de la placa euroasiática y la africana. Al parecer, ambas convergen a un ritmo de entre 4 y 6 milímetros al año",
+        "article_id": "85ef3e74479003f497817b75c2c47b88",
+        "link": "https://www.infobae.com/mexico/2026/08/01/detienen-a-iker-presunto-lider-de-una-red-de-huachicol-fiscal-en-el-estado-de-mexico/",
+        "title": "Detienen a “Iker”, presunto líder de una red de huachicol fiscal en el Estado de México",
+        "description": "El imputado habría administrado un entramado de múltiples empresas para distribuir y blanquear hidrocarburos ilícitos en tres entidades del centro del país",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "ciencia"
+            "mexico-noticias",
+            "huachicol",
+            "hidrocarburos",
+            "narco en méxico",
+            "estado de méxico"
         ],
         "creator": [
-            "r. badillo"
+            "ingrid scarlet rubi resendiz"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
-        ],
-        "category": [
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:32:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 16:02:58",
-        "image_url": "https://images.ecestaticos.com/OVEKJbLS4dRyz3hF_aRjvH77BvQ=/0x0:2246x1258/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fad6%2F9d9%2Fef6%2Fad69d9ef65f36674f36152fa78d2adea.jpg",
-        "video_url": null,
-        "source_id": "elconfidencial",
-        "source_name": "El Confidencial",
-        "source_priority": 1147,
-        "source_url": "https://www.elconfidencial.com",
-        "source_icon": "https://n.bytvi.com/elconfidencial.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "西班牙科学家研究地壳发现伊比利亚半岛顺时针旋转",
-        "description_zh": "这种现象是由于欧亚板块和非洲板块的相互作用造成的。显然，两者以每年 4 到 6 毫米的速度汇聚"
-    },
-    {
-        "article_id": "c27996e4ac011439904c637b3e895105",
-        "link": "https://www.milenio.com/estados/cae-en-mocorito-yukito-hijo-de-operador-clave-del-cartel-de-sinaloa",
-        "title": "Detienen a Rosario Fidel Angulo, alias 'Yukito', tras operativo de la Semar en Mocorito",
-        "description": "Un fuerte operativo aéreo y terrestre de la Semar terminó con la detención de Rosario Fidel Angulo, alias 'Yukito'.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cae yukito",
-            "detienen a  el yukito en mocorito",
-            "hijo de el yuko"
-        ],
-        "creator": [
-            "carlos raeb morales"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:31:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-01 01:25:16",
-        "image_url": "https://cdn.milenio.com/uploads/media/2026/07/31/acciones-desarrollaron-comunidad-zapote-cazares.jpg",
-        "video_url": null,
-        "source_id": "milenio",
-        "source_name": "Milenio",
-        "source_priority": 10804,
-        "source_url": "https://www.milenio.com",
-        "source_icon": "https://n.bytvi.com/milenio.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "罗萨里奥·菲德尔·安古洛 (Rosario Fidel Angulo)，别名“Yukito”，在莫科里托的 Semar 行动后被捕",
-        "description_zh": "塞马尔的强大空中和地面行动以逮捕罗萨里奥·菲德尔·安古洛（化名“Yukito”）而告终。"
-    },
-    {
-        "article_id": "5e97a825f895d32f298e23e936037248",
-        "link": "https://diario.mx/estados-unidos/2026/jul/31/anuncia-tesoro-de-eu-que-intervendria-en-el-mercado-del-yen-1130791.html",
-        "title": "Anuncia Tesoro de EU que intervendría en el mercado del yen",
-        "description": "Deben \"estar preparados para futuras medidas\", según dijo a Reuters una fuente conocedora del asunto",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "agencia reforma"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:31:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 19:27:55",
-        "image_url": "https://diario.mx/core/dmx/assets/images/2026/07/31/anun-dXU3ZT0aA.jpg",
-        "video_url": null,
-        "source_id": "diario",
-        "source_name": "El Diario",
-        "source_priority": 14955,
-        "source_url": "https://diario.mx",
-        "source_icon": "https://n.bytvi.com/diario.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "美国财政部宣布将干预日元市场",
-        "description_zh": "一位知情人士告诉路透社，他们必须“为未来的措施做好准备”。"
-    },
-    {
-        "article_id": "b00ce18703b18c4d12e519315ff65fcb",
-        "link": "https://www.mural.com.mx/niegan-refinerias-ilegales-admiten-centros-de-procesamiento/ar3250171",
-        "title": "Niegan refinerías ilegales; admiten centros de procesamiento",
-        "description": "Sheinbaum dijo que en el País no hay refinerías clandestinas, sino centros de procesamiento ilegal de combustible y que la GN los asegura.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:31:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 15:50:30",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "mural",
-        "source_name": "Mural",
-        "source_priority": 966477,
-        "source_url": "https://www.mural.com.mx",
-        "source_icon": "https://n.bytvi.com/mural.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "他们否认非法炼油厂；支持加工中心",
-        "description_zh": "希因鲍姆表示，该国没有秘密炼油厂，只有非法燃料加工中心，尼泊尔政府负责保护这些中心。"
-    },
-    {
-        "article_id": "34d94a2007216727e823f6fc1ddaf1bd",
-        "link": "https://www.elimparcial.com/mexico/2026/07/31/harfuch-revela-que-r1-presunto-responsable-del-asesinato-del-exalcalde-carlos-manzo-fue-detenido-tras-un-operativo-en-jalisco-uno-de-sus-escoltas-murio-durante-el-enfrentamiento/",
-        "title": "Harfuch revela que “R1”, presunto responsable del asesinato del exalcalde Carlos Manzo, fue detenido tras un operativo en Jalisco; uno de sus escoltas murió durante el enfrentamiento",
-        "description": "El secretario de Seguridad informó que el operativo en Atotonilco el Alto, Jalisco, derivó en un enfrentamiento con hombres armados; además de Ramón Ángel “N”, alias “R1”, fue detenido otro presunto integrante del grupo criminal y se aseguraron armas, vehículos y cartuchos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "carlos manzo",
-            "cjng",
-            "omar garcía harfuch"
-        ],
-        "creator": [
-            "redacción gh"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:31:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 16:05:30",
-        "image_url": "https://www.elimparcial.com/resizer/v2/EFJPLH5W6VAV3IEH63OMJF4MCY.jpg?auth=46248f682a0fbd3c32f985a653333cd1e855e32236f7060d3bc0cc654221dcd8&smart=true&width=1280&height=750",
-        "video_url": null,
-        "source_id": "elimparcial",
-        "source_name": "El Imparcial",
-        "source_priority": 25219,
-        "source_url": "https://www.elimparcial.com",
-        "source_icon": "https://n.bytvi.com/elimparcial.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "哈富奇透露，涉嫌谋杀前市长卡洛斯·曼佐的“R1”在哈利斯科州一次行动后被捕；他的一名护卫在冲突中死亡",
-        "description_zh": "安全部长报告说，哈利斯科州阿托托尼尔科埃尔阿尔托的行动导致与武装人员发生对抗；除了拉蒙·安赫尔“N”（别名“R1”）外，该犯罪团伙的另一名涉嫌成员也被逮捕，武器、车辆和弹药筒被缴获。"
-    },
-    {
-        "article_id": "e1782daabe5593edeea044b75e4122cd",
-        "link": "https://www.elheraldo.co/judicial/2026/07/31/asesinan-a-disparos-a-un-motociclista-en-el-barrio-san-felipe/",
-        "title": "Asesinan a disparos a un motociclista en el barrio San Felipe",
-        "description": "Pese a que la víctima fue trasladada de urgencia hasta la Clínica Adelita de Char, esta ingresó sin signos vitales.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "san-felipe",
-            "inseguridad",
-            "barranquilla",
-            "investigacion",
-            "homicidio",
-            "violencia"
-        ],
-        "creator": [
-            "redacción judiciales"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-07-31 15:31:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 15:36:52",
-        "image_url": "https://www.elheraldo.co/resizer/v2/M7JU5UUX5VHZTMK6KRCLTYSMBY.jpg?auth=eac125b0526a5d8a0415129d74b63c039204ee383718fd559abcb1a3eb0b26ef&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "elheraldo",
-        "source_name": "Elheraldo",
-        "source_priority": 38752,
-        "source_url": "https://www.elheraldo.co",
-        "source_icon": "https://n.bytvi.com/elheraldo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "一名摩托车手在圣费利佩社区被枪杀",
-        "description_zh": "尽管受害者被紧急送往阿德丽塔德查尔诊所，但入院时她已没有生命体征。"
-    },
-    {
-        "article_id": "f4be3305d3f360b35251accd87c08a6f",
-        "link": "https://www.infobae.com/espana/agencias/2026/07/31/el-gobierno-eleva-a-37500-los-inmigrantes-que-han-regresado-a-marruecos-desde-ceuta/",
-        "title": "El Gobierno eleva a 37.500 los inmigrantes que han regresado a Marruecos desde Ceuta",
-        "description": "El Gobierno eleva a 37.500 los inmigrantes que han regresado a Marruecos desde Ceuta",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "europapress"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
             "mexico",
             "argentina",
+            "united states of america",
             "colombia"
         ],
         "category": [
-            "politics",
+            "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-31 15:31:51",
+        "pubDate": "2026-08-01 15:31:13",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 16:00:49",
-        "image_url": "https://www.infobae.com/resizer/v2/U4BOAALF2VCFDELMIOYYAO5QB4.jpg?auth=8e41c288db0818378c34615f316773f37afac6cf94571fa5ddd20e8fe19adea7&smart=true&width=1920&height=1440",
+        "fetched_at": "2026-08-01 16:02:51",
+        "image_url": "https://www.infobae.com/resizer/v2/FIKENYIXRRG3DJFDOMOMIJXJCE.png?auth=be99f3b3f86e2abd2c461997ddd412cdef02a350901d22c23cd4ab13ece84554&smart=true&width=1408&height=768",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -700,25 +425,118 @@
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "政府将从休达返回摩洛哥的移民人数增加至37,500人",
-        "description_zh": "政府将从休达返回摩洛哥的移民人数增加至37,500人"
+        "duplicate": false,
+        "title_zh": "他们逮捕了“Iker”，据称是墨西哥州华奇科尔税务网络的领导人",
+        "description_zh": "被告将管理一个由多家公司组成的网络，在该国中部的三个实体中分销和清洗非法碳氢化合物。"
     },
     {
-        "article_id": "2386e57dba9824c59d931827c1352095",
-        "link": "https://www.infobae.com/america/agencias/2026/07/31/ratifican-anulacion-de-prision-a-politico-que-impulso-a-castillo-a-la-presidencia-de-peru/",
-        "title": "Ratifican anulación de prisión a político que impulsó a Castillo a la Presidencia de Perú",
-        "description": "Ratifican anulación de prisión a político que impulsó a Castillo a la Presidencia de Perú",
+        "article_id": "12002bd33e5c536cf5bcb5f14f286aa2",
+        "link": "https://oem.com.mx/elsoldesinaloa/local/fallece-hombre-desplazado-en-la-plazuela-obregon-de-culiacan-paso-la-noche-bajo-la-lluvia-31394743",
+        "title": "Fallece hombre desplazado en la Plazuela Obregón de Culiacán; pasó la noche bajo la lluvia",
+        "description": "Su caso había sido reportado al Ayuntamiento desde el viernes; según denunciaron, no recibió atención",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "accidente",
+            "ayuntamientos",
+            "fallecimientos"
+        ],
         "creator": [
-            "newsroom infobae"
+            "redacción / el sol de sinaloa"
         ],
         "language": "spanish",
         "country": [
-            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:32:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 20:45:24",
+        "image_url": "https://oem.com.mx/elsoldesinaloa/img/31394885/1785598236/BASE_LANDSCAPE/400/image.jpg",
+        "video_url": null,
+        "source_id": "elsoldesinaloa_mx",
+        "source_name": "Elsoldesinaloa Mx",
+        "source_priority": 439063,
+        "source_url": "https://www.elsoldesinaloa.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldesinaloa_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "一名流离失所者在库利亚坎的 Plazuela Obregón 死亡；在雨中度过了一夜",
+        "description_zh": "自周五以来，他的案件已报告给市议会；据他们报道，他没有受到关注"
+    },
+    {
+        "article_id": "e8f856b21540600694158d3904293f56",
+        "link": "https://www.elporvenir.mx/cultural/premio-almadia-ventosa-arrufat-a-silva-rojas/1011949",
+        "title": "Premio Almadía Ventosa-Arrufat a Silva Rojas",
+        "description": "El Jurado, que incluyó a las escritoras Selva Almada y Mónica Ojeda, destaca el magistral uso de los silencios.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "escritor",
+            "premio almadía ventosa-arrufat",
+            "premio",
+            "david silva rojas",
+            "novela"
+        ],
+        "creator": [
+            "el universal"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:32:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 15:47:31",
+        "image_url": "https://blob.elporvenir.mx/images/2026/08/01/premioalmadia-focus-min0.12-0.18-960-690.jpg",
+        "video_url": null,
+        "source_id": "elporvenir_mx",
+        "source_name": "El Porvenir",
+        "source_priority": 589407,
+        "source_url": "https://elporvenir.mx",
+        "source_icon": "https://n.bytvi.com/elporvenir_mx.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "席尔瓦·罗哈斯获得阿尔马迪亚·文托萨-阿鲁法特奖",
+        "description_zh": "评审团成员包括作家塞尔瓦·阿尔马达和莫妮卡·奥赫达，他们强调了对沉默的巧妙运用。"
+    },
+    {
+        "article_id": "04c5b1b00fe759ab31f61bad10f76149",
+        "link": "https://www.infobae.com/colombia/2026/08/01/gobierno-petro-declaro-insubsistente-a-angie-rodriguez-como-gerente-del-fondo-adaptacion-tras-sus-revelaciones-de-presuntos-hechos-de-corrupcion/",
+        "title": "Gobierno Petro declaró insubsistente a Angie Rodríguez como gerente del Fondo Adaptación, tras sus revelaciones de presuntos hechos de corrupción",
+        "description": "Con el documento firmado por el ministro de Hacienda se oficializa la salida de la funcionaria del Ejecutivo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "gobierno petro",
+            "denuncias corrupción",
+            "colombia-noticias",
+            "insubsistente",
+            "angie rodríguez"
+        ],
+        "creator": [
+            "luciano niño"
+        ],
+        "language": "spanish",
+        "country": [
             "mexico",
             "argentina",
+            "united states of america",
             "colombia"
         ],
         "category": [
@@ -726,9 +544,90 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-31 15:31:49",
+        "pubDate": "2026-08-01 15:31:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 16:00:49",
+        "fetched_at": "2026-08-01 16:02:51",
+        "image_url": "https://www.infobae.com/resizer/v2/STCTGNHZQZAQVB745AHQVSGR6I.jpg?auth=1834cc32ec6df3e7ad6eae754a90d1a45b8834bccf8a1ead37d2f44666f32794&smart=true&width=1024&height=576",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "在揭露涉嫌腐败行为后，佩特罗政府宣布安吉·罗德里格斯不再担任适应基金经理",
+        "description_zh": "随着财政部长签署文件，执行官员正式离职"
+    },
+    {
+        "article_id": "ce57ef33384a8c704bf2502544ab9b7f",
+        "link": "https://caracol.com.co/2026/08/01/desde-este-lunes-3-de-agosto-desvio-en-la-ruta-x103-de-transcaribe/",
+        "title": "Desde este lunes, 3 de agosto, desvío en la Ruta X103 de TransCaribe",
+        "description": "Debido a una intervención vial sobre la Avenida del Consulado, con una duración estimada de dos meses",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "wendy chimá pájaro"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:31:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 20:35:57",
+        "image_url": "https://caracol.com.co/resizer/v2/SJDMW5YSQRGVBE7JDH5DVUWLMA.jpeg?auth=4b284741a768d0c3c4e6913e6b51139757225c14c30a83698dc4e1d5a9de34cb&quality=70&width=1200&height=900&smart=true",
+        "video_url": null,
+        "source_id": "caracol",
+        "source_name": "Caracol Radio",
+        "source_priority": 30675,
+        "source_url": "https://caracol.com.co",
+        "source_icon": "https://n.bytvi.com/caracol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "从8月3日星期一开始，绕行TransCaribe X103路线",
+        "description_zh": "由于 Consulado Avenue 发生道路干预，预计持续两个月"
+    },
+    {
+        "article_id": "2f5dc1a8b487b97154f461a859e84fe7",
+        "link": "https://www.infobae.com/america/agencias/2026/08/01/afganistan-repatria-los-cuerpos-de-tres-migrantes-que-fueron-quemados-en-el-sur-de-italia/",
+        "title": "Afganistán repatria los cuerpos de tres migrantes que fueron quemados en el sur de Italia",
+        "description": "Afganistán repatria los cuerpos de tres migrantes que fueron quemados en el sur de Italia",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "newsroom infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "argentina",
+            "united states of america",
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:31:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 16:02:51",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
         "video_url": null,
         "source_id": "infobae",
@@ -743,25 +642,67 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们批准废除对提拔卡斯蒂略担任秘鲁总统的政客的监禁",
-        "description_zh": "他们批准废除对提拔卡斯蒂略担任秘鲁总统的政客的监禁"
+        "title_zh": "阿富汗遣返在意大利南部被烧死的三名移民尸体",
+        "description_zh": "阿富汗遣返在意大利南部被烧死的三名移民尸体"
     },
     {
-        "article_id": "0049089943b051cb559d2c9791d24353",
-        "link": "https://www.xataka.com.mx/aplicaciones/spotify-no-solo-quiere-ponerte-musica-cuando-haces-ejercicio-ahora-tambien-quiere-entrenarte-corres",
-        "title": "Spotify ya no solo quiere ponerte música cuando haces ejercicio: ahora también quiere entrenarte mientras corres",
-        "description": "Cada vez más personas salen a correr y, para muchas de ellas, la música forma parte del entrenamiento. Sin embargo, encontrar la playlist adecuada o elegir las canciones que mantengan el ritmo durante toda la sesión puede tomar más tiempo del que debería. Para simplificar la vida de los usuarios, Spotify presentó el Modo Running , una nueva función que no sólo reproduce música mientras haces ejercicio, sino que también adapta las canciones al tipo de entrenamiento , al ritmo de la carrera e incluso ofrece indicaciones de voz para acompañar la sesión. Spotify quiere hacer más que reproducir música mientras corres El Modo Running está disponible únicamente para usuarios Premium y convierte una playlist en una sesión de entrenamiento personalizada. En lugar de elegir manualmente qué escuchar antes de salir a correr, la aplicación adapta la música a la actividad física que realizará el usuario. De acuerdo con un comunicado , la función ofrece 25 configuraciones preestablecidas que pueden personalizarse según el objetivo de cada carrera. El usuario puede seleccionar si realizará un entrenamiento de intervalos , un recorrido a ritmo constante o una sesión en pirámide , además de definir la duración , el tempo musical (BPM) y el estilo de música que quiere escuchar. Con esa información, Spotify genera una selección de canciones sincronizada con el ritmo elegido y cambia de pista automáticamente conforme avanza el entrenamiento, para mantener una reproducción continua durante toda la sesión. Además, Modo Running ofrece indicaciones de audio opcionales en inglés con mensajes de motivación y guía durante el recorrido, una función similar a la que ofrecen aplicaciones para corredores como Nike Run Club , Runna o Strava , pero integrada directamente en Spotify. El fitness se ha convertido en una de las nuevas apuestas de Spotify La nueva función continúa la expansión de Spotify hacia el fitness y el bienestar. En abril, Spotify anunció la creación de Spotify Fitness , una sección dedicada al ejercicio que integra listas de reproducción , videos de entrenamiento y clases bajo demanda desarrolladas junto con Peloton. Según la compañía, cerca del 70% de sus usuarios Premium realizan actividad física cada mes, mientras que existen más de 150 millones de listas de reproducción relacionadas con fitness activas en la plataforma. Ese comportamiento llevó a Spotify a desarrollar nuevas experiencias enfocadas en acompañar distintos momentos del entrenamiento. La empresa también explicó que las solicitudes para crear playlists relacionadas con ejercicio se convirtieron en uno de los usos más frecuentes de sus listas generadas mediante inteligencia artificial , por lo que representa una evolución de esa tecnología aplicada al deporte. El modo Running de Spotify todavía no llega a México El despliegue inicial de Running Mode es limitado. La función está disponible únicamente para usuarios Premium en dispositivos iPhone de Estados Unidos, Canadá, Reino Unido, Irlanda, Australia, Nueva Zelanda y Suecia . Aunque México ya forma parte de los mercados donde Spotify ofrece su ecosistema Fitness y algunos contenidos derivados de la alianza con Peloton , la compañía no ha anunciado una fecha para el lanzamiento de Running Mode en el país. Más allá de la nueva función, el movimiento refleja una tendencia más amplia dentro de las plataformas digitales. Spotify ya no compite únicamente por el tiempo que las personas dedican a escuchar música, sino también por convertirse en una aplicación que acompañe actividades cotidianas como entrenar, meditar o hacer ejercicio . Mientras tanto, el running continúa consolidándose como uno de los deportes con mayor crecimiento en México . Cada vez más personas se suman a clubes de corredores y las carreras organizadas agotan inscripciones en cuestión de horas. Esta actividad ha evolucionado de un simple ejercicio a un estilo de vida impulsado por comunidades, redes sociales y tecnología. En ese contexto, Spotify busca que su plataforma deje de ser sólo el acompañamiento del entrenamiento y se convierta en una parte activa de la experiencia. También representa una oportunidad para capitalizar el creciente interés por el running , una actividad en tendencia que está ligada de forma natural al consumo de música , fortaleciendo el valor de su suscripción Premium y ampliando el tiempo que los usuarios pasan dentro de la aplicación. Imagen | Magnific/Spotify En Xataka México | Rubén Río, entrenador personal: \"después de los 40 años, aunque te veas con mucha fuerza para entrenar, debes moderar las cargas\" En Xataka México | Los expertos coinciden: \"Ni nadar ni caminar, a partir de los 50 años es absolutamente necesario hacer músculo\" - La noticia Spotify ya no solo quiere ponerte música cuando haces ejercicio: ahora también quiere entrenarte mientras corres fue publicada originalmente en Xataka México por Valeria Romero .",
+        "article_id": "52fd59d5fbbe1f9e6d6a021fac9d4eb1",
+        "link": "https://eldiariodechihuahua.mx/estado/2026/aug/01/galeria-en-alerta-ascension-por-tromba-que-dejo-destruccion-y-casas-sin-techo-823552.html",
+        "title": "Galería.- En alerta Ascensión por tromba que dejó destrucción y casas sin techo",
+        "description": "Corporaciones y grupos de rescate municipales trabajan en estos momentos en apoyar a familias damnificadas; no se reportan lesionados",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "aplicaciones",
-            "deporte",
-            "música en streaming",
-            "streaming",
-            "spotify",
-            "streaming de música"
+            "ivonne de la hoya",
+            "ascensión",
+            "alcaldesa",
+            "presidente municipal"
         ],
         "creator": [
-            "valeria romero"
+            "víctor hugo valdovinos"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "environment",
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:31:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 16:09:01",
+        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/08/01/whatsapp-image-2026-07-31-at-104919-pm-3-qsuhPd1rb.jpg",
+        "video_url": null,
+        "source_id": "eldiariodechihuahua",
+        "source_name": "Eldiariodechihuahua",
+        "source_priority": 77437,
+        "source_url": "https://www.eldiariodechihuahua.mx",
+        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "画廊.-由于水龙卷造成破坏和无屋顶的房屋，扬升处于戒备状态",
+        "description_zh": "公司和市政救援组织目前正在努力为受影响的家庭提供支持；没有受伤报告"
+    },
+    {
+        "article_id": "336798d6ae0196dc54c65710b2cb4a73",
+        "link": "https://www.xataka.com.mx/territorio-samsung-mexico/como-comprar-barato-samsung-galaxy-z-fold8-ultra-mexico-cupones-canje-msi",
+        "title": "Cómo comprar más barato el Samsung Galaxy Z Fold8 Ultra en México: cupones, canje y MSI",
+        "description": "Sin duda, uno de los celulares más esperados son los flagships . En el caso de los plegables de Samsung, el hermano mayor, y el más poderoso , es el Galaxy Z Fold8 Ultra . Este, por supuesto, es el más caro de la familia, con precio oficial de 50,999 pesos en tu tienda oficial . Como dijimos, este equipo es el más premium de la marca con pantalla externa Dynamic AMOLED 2X de 6.5 pulgadas, resolución 2,520 x 1,080 pixeles, 422 ppi, relación de aspecto 21:9 y frecuencia de actualización variable de 1 a 120 Hz. Por dentro tiene panel Dynamic AMOLED 2X de 8 pulgadas con resolución QXGA+, 2184 x 1968 pixeles y la misma frecuencia de actualización . Su procesador es el Snapdragon 8 Elite Gen 5 for Galaxy de 3 nanómetros, con versiones de 12 y 16 GB de RAM, más 512 GB y 1 TB de almacenamiento. A la vez, tiene One UI 9 basado en Android 17 como sistema operativo, para ofrecer prácticamente lo último en tecnología. Su batería es de 5,000 mAh con carga rápida de 45W; incluye conectividad 5G, certificación IP48 de resistencia al agua y polvo , Wi‐Fi 7, Bluetooth 6.0 y Gorilla Glass Victus 2. Su sistema de cámaras es triple: principal de 200 megapixeles, 50 megapixeles f/2.2 para el ultra gran angular de 123° y 10 megapixeles para el telefoto con estabilización óptica. Cómo hacer la preventa con cupones de los nuevos plegables de Samsung en 2026 Para obtener el mejor precio por el Samsung Galaxy Z Fold8 Ultra, solo debes ir al enlace del dispositivo , seleccionar la capacidad y color que desees y después ve a tu carrito. En nuestro caso, elegimos la versión verde sombra con 12 GB y 512 GB de almacenamiento . Al tener nuestra sesión iniciada, la tienda nos hará un descuento directo del 10%, con lo que el equipo baja a 50,999 pesos. Es importante mencionar que está disponible el cupón ZFAMLIVE, que otorga un 10% adicional, dejando el equipo en solo 41,309 pesos . Por último, la otra forma de conseguir un mejor precio es con Galaxy Canje . En mi caso, agregaré mi antiguo Samsung Galaxy S24 Ultra de 512 GB y la marca estima una bonificación de 8,470 pesos . Aunque es importante mencionar que no aplica de forma directa, pues primero se debe revisar y evaluar el estado del dispositivo; una vez aplicados todos los descuentos, el precio final es de 32,239 pesos . Dicho esto, la preventa ya está activa para los nuevos equipos de Samsung y durará hasta el próximo 20 de agosto con entregas desde el 10 de agosto. Además, tienes opción de pagos de hasta 24 mensualidades con planes como : Tarjetas 3 meses sin intereses PayPal, Afirme, American Express, Banbajio, Banca Mifel, Banco Azteca, Banco Famsa, Banjercito, Banorte, Banregio, BBVA, Banamex, Falabella, HSBC, Inbursa, Invex, Konfio, Liverpool, Santander y Scotiabank. 6 meses sin intereses PayPal, Afirme, American Express, Banbajio, Banca Mifel, Banco Azteca, Banco Famsa, Banjercito, Banorte, Banregio, BBVA, Banamex, Falabella, HSBC, Inbursa, Invex, Konfio, Liverpool, Santander y Scotiabank. 9 meses sin intereses PayPal, Afirme, American Express, Banbajio, Banca Mifel, Banco Azteca, Banco Famsa, Banjercito, Banorte, Banregio, BBVA, Banamex, Falabella, HSBC, Inbursa, Invex, Konfio, Liverpool, Santander y Scotiabank. 12 meses sin intereses PayPal, Afirme, American Express, Banbajio, Banca Mifel, Banco Azteca, Banco Famsa, Banjercito, Banorte, Banregio, BBVA, Banamex, Falabella, HSBC, Inbursa, Invex, Konfio, Liverpool, Santander y Scotiabank. 18 meses sin intereses PayPal con todos los bancos. 24 meses sin intereses PayPal con Banamex - La noticia Cómo comprar más barato el Samsung Galaxy Z Fold8 Ultra en México: cupones, canje y MSI fue publicada originalmente en Xataka México por Eric Ramirez .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "samsung",
+            "celulares galaxy",
+            "territorio samsung méxico"
+        ],
+        "creator": [
+            "eric ramirez"
         ],
         "language": "spanish",
         "country": [
@@ -771,10 +712,10 @@
             "technology"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-31 15:31:43",
+        "pubDate": "2026-08-01 15:31:43",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 15:38:29",
-        "image_url": "https://i.blogs.es/e671d3/spotify-lannza-modo-running-personaliza-playlist-xataka-mexico/1200_900.jpeg",
+        "fetched_at": "2026-08-01 15:38:35",
+        "image_url": "https://i.blogs.es/03026a/como-comprar-mas-barato-fold-ultra/1200_900.jpeg",
         "video_url": null,
         "source_id": "xataka",
         "source_name": "Xataka Mexico",
@@ -788,35 +729,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Spotify 不再只想在你锻炼时为你播放音乐：现在它还想在你跑步时训练你",
-        "description_zh": "越来越多的人开始跑步，对于他们中的许多人来说，音乐是训练的一部分。然而，找到正确的播放列表或选择在整个会话中保持节拍的歌曲可能会花费比应有的时间更多的时间。简化用户的生活"
+        "title_zh": "如何在墨西哥更便宜地购买三星 Galaxy Z Fold8 Ultra：优惠券、兑换和 MSI",
+        "description_zh": "毫无疑问，最受期待的手机之一是旗舰手机。就三星可折叠手机而言，最强大的兄弟是 Galaxy Z Fold8 Ultra。当然，这是该系列中最昂贵的一款，官方商店的官方售价为 50,999 比索。正如我们所说，它是"
     },
     {
-        "article_id": "a95bde3beccaab1a8a02ebd3594e3115",
-        "link": "https://www.record.com.mx/historia/g8-esta-en-contra-de-infantino-pero-en-la-fmf-aseguran-estar-abiertos-a-ideas-division-interna-en-fmf-por-privatizacion-del-mundial-2026073115313902221",
-        "title": "G8 está en contra de Infantino, pero en la FMF aseguran estar abiertos a ideas: ¿División interna en FMF por privatización del Mundial?",
-        "description": "G8 está en contra de Infantino, pero en la FMF aseguran estar abiertos a ideas: ¿División interna en FMF por privatización del Mundial?",
+        "article_id": "a64b4cd0da84d7aca2670fb83e60fef3",
+        "link": "https://www.infobae.com/america/agencias/2026/08/01/registran-un-sismo-de-magnitud-34-en-una-provincia-del-sur-de-ecuador/",
+        "title": "Registran un sismo de magnitud 3,4 en una provincia del sur de Ecuador",
+        "description": "Registran un sismo de magnitud 3,4 en una provincia del sur de Ecuador",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
-        "creator": null,
+        "creator": [
+            "newsroom infobae"
+        ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "mexico",
+            "argentina",
+            "united states of america",
+            "colombia"
         ],
         "category": [
-            "sports"
+            "environment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-07-31 15:31:39",
+        "pubDate": "2026-08-01 15:31:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-07-31 16:04:17",
-        "image_url": null,
+        "fetched_at": "2026-08-01 16:02:51",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
         "video_url": null,
-        "source_id": "record",
-        "source_name": "Record",
-        "source_priority": 21395,
-        "source_url": "https://www.record.com.mx",
-        "source_icon": "https://n.bytvi.com/record.png",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -824,7 +771,88 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "G8对阵因凡蒂诺，但在FMF中他们声称对想法持开放态度：FMF因世界杯私有化而内部分裂？",
-        "description_zh": "G8对阵因凡蒂诺，但在FMF中他们声称对想法持开放态度：FMF因世界杯私有化而内部分裂？"
+        "title_zh": "他们记录厄瓜多尔南部省份发生3.4级地震",
+        "description_zh": "他们记录厄瓜多尔南部省份发生3.4级地震"
+    },
+    {
+        "article_id": "8f3784f92b20f77dfbfd05a4b72f1ac8",
+        "link": "https://eldiariodechihuahua.mx/internacional/2026/aug/01/instalara-espana-valla-de-contencion-entre-ceuta-y-marruecos-823551.html",
+        "title": "Instalará España valla de contención entre Ceuta y Marruecos",
+        "description": "La cifra de muertos se elevó a 67, según el Gobierno español.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "afp"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:31:27",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 16:09:01",
+        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/08/01/insta-m61Pzq3XZ.jpg",
+        "video_url": null,
+        "source_id": "eldiariodechihuahua",
+        "source_name": "Eldiariodechihuahua",
+        "source_priority": 77437,
+        "source_url": "https://www.eldiariodechihuahua.mx",
+        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "西班牙将在休达和摩洛哥之间安装隔离栅栏",
+        "description_zh": "据西班牙政府称，死亡人数上升至 67 人。"
+    },
+    {
+        "article_id": "de979bb28d390ec8a5943d170e854eb8",
+        "link": "https://www.infobae.com/espana/agencias/2026/08/01/evenepoel-cumple-los-pronosticos-y-se-impone-a-carapaz-en-su-cuarta-clasica-san-sebastian/",
+        "title": "Evenepoel cumple los pronósticos y se impone a Carapaz en su cuarta Clásica San Sebastián",
+        "description": "Evenepoel cumple los pronósticos y se impone a Carapaz en su cuarta Clásica San Sebastián",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "newsroom infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "argentina",
+            "united states of america",
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-01 15:31:19",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-01 16:02:51",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "埃文普尔满足了预测并在他的第四次圣塞巴斯蒂安经典赛中击败了卡拉帕斯",
+        "description_zh": "埃文普尔满足了预测并在他的第四次圣塞巴斯蒂安经典赛中击败了卡拉帕斯"
     }
 ]
