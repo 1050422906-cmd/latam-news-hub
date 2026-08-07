@@ -1,19 +1,64 @@
 [
     {
-        "article_id": "1dfd06e2678ff3eadf010bc1da71f732",
-        "link": "https://www.em.com.br/bem-viver/2026/08/7474386-pesquisa-56-das-brasileiras-acima-de-40-tem-perda-involuntaria-de-urina.html",
-        "title": "Pesquisa: 56% das brasileiras acima de 40 têm perda involuntária de urina",
-        "description": "Levantamento mostra que vergonha, falta de informação e baixa procura por tratamento ainda são barreiras para o cuidado com a saúde urinária",
+        "article_id": "1280bc19181b124d2756965429f00228",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/quem-e-bruna-marquezine-imprensa-internacional-apresenta-namorada-de-shawn-mendes-ao-mundo.shtml",
+        "title": "Quem é Bruna Marquezine? Imprensa internacional apresenta namorada de Shawn Mendes ao mundo",
+        "description": "O namoro entre Bruna Marquezine e Shawn Mendes ultrapassou as fronteiras do Brasil e colocou a atriz no centro da cobertura da imprensa internacional. Leia mais (08/06/2026 - 11h55)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-06 14:55:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:03:14",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "布鲁纳·马尔奎津是谁？国际媒体向世界介绍肖恩·门德斯的女友",
+        "description_zh": "布鲁纳·马尔克斯因和肖恩·门德斯之间的关系超越了巴西国界，使这位女演员成为国际媒体报道的中心人物。了解更多（2026 年 6 月 8 日 - 上午 11:55）"
+    },
+    {
+        "article_id": "317a5b72384f8fa2fa0baa463db02327",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-lyra-acusa-campos-de-promover-rede-de-robos-e-aciona-justica-eleitoral.shtml",
+        "title": "Campanha de Lyra acusa Campos de promover rede de robôs e aciona Justiça Eleitoral",
+        "description": "A campanha da governadora de Pernambuco, Raquel Lyra (PSD), prepara uma ação na Justiça Eleitoral contra o adversário João Campos (PSB), pelo suposto uso de robôs e \"máquina de perfis falsos\" para atacar a gestão atual e exaltar os feitos do ex-prefeito do Recife. Leia mais (08/06/2026 - 11h55)",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "saúde",
-            "incontinência urinária",
-            "sbu",
-            "pesquisa",
-            "estudo"
+            "folha de s.paulo",
+            "politics",
+            "pernambuco-estado",
+            "joão campos",
+            "stf",
+            "datafolha",
+            "justiça eleitoral",
+            "stj",
+            "polícia federal",
+            "folha",
+            "pesquisa datafolha",
+            "tse",
+            "raquel lyra"
         ],
         "creator": [
-            "estado de minas"
+            "gabriela echenique"
         ],
         "language": "portuguese",
         "country": [
@@ -24,16 +69,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-05 15:16:00",
+        "pubDate": "2026-08-06 14:55:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 18:31:33",
-        "image_url": "https://midias.em.com.br/_midias/jpg/2026/08/05/xixi-67341318.jpg",
+        "fetched_at": "2026-08-06 15:03:14",
+        "image_url": "https://f.i.uol.com.br/fotografia/2026/06/12/17812874256a2c4a0190ef6_1781287425_3x2_md.jpg",
         "video_url": null,
-        "source_id": "estadodeminas",
-        "source_name": "Jornal Estado De Minas",
-        "source_priority": 6179,
-        "source_url": "https://www.em.com.br",
-        "source_icon": "https://n.bytvi.com/estadodeminas.png",
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -41,214 +86,411 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "研究：56% 40 岁以上的巴西女性有不自主失尿的情况",
-        "description_zh": "调查显示羞耻感、信息缺乏和治疗需求低仍然是泌尿保健的障碍"
+        "title_zh": "天琴座的竞选团队指责坎波斯推广机器人网络，并起诉选举法院",
+        "description_zh": "伯南布哥州州长拉克尔·莱拉（PSD）的竞选团队正准备在选举法院对她的对手若昂·坎波斯（PSB）提起诉讼，指控其使用机器人和“假档案机器”来攻击现任政府并颂扬累西腓前市长的成就。了解更多（2026 年 6 月 8 日 - 上午 11 点"
     },
     {
-        "article_id": "0fb4160afa4fe6953e9c86a9a1134803",
-        "link": "https://www.perfil.com/noticias/espectaculos/lali-vuelve-a-river-cuanto-salen-la-entradas-y-por-donde-puedo-obtenerlas.phtml",
-        "title": "Lali Espósito vuelve a River: Cuánto salen la entradas y por dónde puedo comprarlas",
-        "description": "La cantante argentina confirmó su tercera fecha del estadio Monumental y la venta de entradas este miércoles 5 de agosto. Leer más",
+        "article_id": "fdaa819a5cfd748aa5a53f3f942e090a",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/consulados-do-brasil-mudam-emissao-de-passaportes-no-exterior.shtml",
+        "title": "Consulados do Brasil mudam emissão de passaportes no exterior",
+        "description": "Consulados brasileiros no exterior estão mudando a forma como emitem passaportes: em vez de imprimir o documento no próprio posto, passaram a enviar o pedido ao Brasil, onde ele é confeccionado pela Casa da Moeda e depois despachado de volta. Leia mais (08/06/2026 - 11h55)",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "lali",
-            "concierto",
-            "river plate"
-        ],
-        "creator": [
-            "julieta santoro"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:16:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:38:33",
-        "image_url": "https://fotos.perfil.com/2026/08/03/trim/540/304/lali-esposito-2296687.jpg",
-        "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Lali Espósito 重返 River：门票多少钱？在哪里可以买到？",
-        "description_zh": "这位阿根廷歌手确认了她在纪念体育场的第三次约会，并于本周三（8 月 5 日）售票。 了解更多"
-    },
-    {
-        "article_id": "9b46d1f54f9dc7215e9d75302053590e",
-        "link": "https://www.acidadeon.com/campinas/piracicaba/gp-de-rolima-acontece-neste-sabado-veja-como-participar/",
-        "title": "GP de Rolimã acontece neste sábado; veja como participar",
-        "description": "GP Rolimã chega à 14a edição com cinco categorias e faz parte da programação de aniversário de 259 anos da cidade O post GP de Rolimã acontece neste sábado; veja como participar apareceu primeiro em ACidade ON Campinas .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "corrida",
-            "piracicaba",
-            "acidade on",
-            "lazer e cultura",
-            "rolimã",
-            "carrinhos",
-            "campinas e região"
-        ],
-        "creator": [
-            "natalia machado"
-        ],
+        "keywords": null,
+        "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "business"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-08-05 15:15:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 17:12:25",
-        "image_url": "https://www.acidadeon.com/campinas/wp-content/uploads/sites/5/2026/08/Design-sem-nome-1-6.jpg",
-        "video_url": null,
-        "source_id": "acidadeon",
-        "source_name": "Acidade On",
-        "source_priority": 166626,
-        "source_url": "https://www.acidadeon.com",
-        "source_icon": "https://n.bytvi.com/acidadeon.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Rolimã GP 本周六举行；查看如何参与",
-        "description_zh": "GP Rolimã 已举办第 14 届，设有五个类别，是该市 259 周年纪念活动的一部分 Rolimã GP 比赛将于本周六举行；了解如何参与首先出现在 ACidade ON Campinas。"
-    },
-    {
-        "article_id": "763fcf0eb28415e856f2f733f5b0956e",
-        "link": "https://www.mixvale.com.br/2026/08/05/nippon-paper-lamenta-mortes-em-yatsushiro-e-investiga-desabamento-de-chamines-apos-tremor/",
-        "title": "Nippon Paper lamenta mortes em Yatsushiro e investiga desabamento de chaminés após tremor",
-        "description": "Uma profunda tristeza marcou a coletiva de imprensa realizada pela Nippon Paper Industries em Yatsushiro, Japão, no dia 5 de agosto de 2026. O presidente Akira Sebe expressou seu pesar pelas nove vidas perdidas após o desabamento de uma chaminé da fábrica durante um terremoto ocorrido em 28 de julho de 2026. O gerente da [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "desabamento de chaminé",
-            "resgate",
-            "mundo",
-            "yatsushiro",
-            "terremoto de kumamoto",
-            "segurança industrial",
-            "nippon paper industries"
-        ],
-        "creator": [
-            "carolina costa"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "world"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:15:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 16:10:46",
-        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2026/08/Acidente-frabica-da-Nippon-Paper-600x340.jpg",
-        "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://n.bytvi.com/mixvale.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "日本制纸哀悼八代遇难者并对地震后烟囱倒塌进行调查",
-        "description_zh": "2026 年 8 月 5 日，日本制纸工业在日本八代举行新闻发布会，一片沉痛的气氛。总裁 Akira Sebe 对 1 月 28 日发生的地震中工厂烟囱倒塌造成的 9 人丧生表示遗憾。"
-    },
-    {
-        "article_id": "b621db4eb17db7eab24da5e35beb2f0f",
-        "link": "https://www.infobae.com/america/agencias/2026/08/05/spacex-se-hunde-hasta-un-12-tras-disparar-el-gasto-en-ia-y-el-inminente-desbloqueo-de-millones-de-acciones/",
-        "title": "SpaceX se hunde hasta un 12% tras disparar el gasto en IA y el inminente desbloqueo de millones de acciones",
-        "description": "SpaceX se hunde hasta un 12% tras disparar el gasto en IA y el inminente desbloqueo de millones de acciones",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "europapress"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "united states of america",
-            "argentina",
-            "mexico"
-        ],
-        "category": [
-            "technology",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-05 15:15:48",
+        "pubDate": "2026-08-06 14:55:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:30:53",
-        "image_url": "https://www.infobae.com/resizer/v2/6IFIAPWF7RCBPLZKN5PGGZ2KG4.jpg?auth=f63c1c731dee6b1babdfdce3ffa0e507c1ad072ab5fae30fba37d8ead8ca8018&smart=true&width=1920&height=1280",
+        "fetched_at": "2026-08-06 15:03:14",
+        "image_url": null,
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "人工智能支出飙升且数百万股即将解锁后，SpaceX 股价下跌 12%",
-        "description_zh": "人工智能支出飙升且数百万股即将解锁后，SpaceX 股价下跌 12%"
+        "duplicate": false,
+        "title_zh": "巴西领事馆改变在国外签发护照的规定",
+        "description_zh": "巴西驻外领事馆正在改变签发护照的方式：他们不再在邮寄时打印文件，而是将请求发送到巴西，由 Casa da Moeda 制作，然后运回。了解更多（2026 年 6 月 8 日 - 上午 11:55）"
     },
     {
-        "article_id": "438895d825f3932281accf3e29e7d332",
-        "link": "https://www.infobae.com/america/agencias/2026/08/05/las-observaciones-de-mayor-resolucion-del-sol-revelan-nuevos-hallazgos-sobre-su-superficie/",
-        "title": "Las observaciones de mayor resolución del Sol revelan nuevos hallazgos sobre su superficie",
-        "description": "Las observaciones de mayor resolución del Sol revelan nuevos hallazgos sobre su superficie",
+        "article_id": "c3bfb70fd8b7c656f11a816a36b1cb31",
+        "link": "https://tribunadepetropolis.com.br/noticias/antonio-banderas-diz-que-ataque-cardiaco-foi-a-melhor-coisa-que-ja-aconteceu-na-vida-dele/",
+        "title": "Antonio Banderas diz que ataque cardíaco foi a melhor coisa que já aconteceu na vida dele",
+        "description": "O ator Antonio Banderas voltou a falar sobre um dos momentos mais delicados de sua vida e surpreendeu ao afirmar que o ataque cardíaco sofrido em 2017 foi, paradoxalmente, “a melhor coisa” que já lhe aconteceu. Em declaração feita à revista People, o astro refletiu sobre as mudanças profundas que adotou após enfrentar a emergência [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "newsroom infobae"
+            "eduarda menina / estadão"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-06 14:55:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:49:19",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "video_url": null,
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "安东尼奥·班德拉斯说心脏病发作是他经历过的最好的事情",
+        "description_zh": "演员安东尼奥·班德拉斯 (Antonio Banderas) 再次谈到他一生中最微妙的时刻之一，并惊讶地表示，自相矛盾的是，他 2017 年遭受的心脏病发作是他经历过的“最好的事情”。在向《人物》杂志发表的一份声明中，这位明星反思了深刻的变化"
+    },
+    {
+        "article_id": "d52006283e6eda5dbb5838ef621af73c",
+        "link": "https://www.sonoticias.com.br/politica/tce-define-regras-para-repasses-de-municipios-a-consorcios-publicos-em-mato-grosso/",
+        "title": "Após consulta de Sinop, TCE define regras para repasses de municípios a consórcios públicos",
+        "description": "O Tribunal de Contas de Mato Grosso definiu que os recursos repassados por municípios a consórcios públicos por meio de contrato de rateio não se limitam ao custeio administrativo e podem cobrir qualquer despesa, desde que vinculada à atuação da entidade. O posicionamento é do conselheiro Alisson Alencar, em resposta à consulta da prefeitura de [...] O post Após consulta de Sinop, TCE define regras para repasses de municípios a consórcios públicos apareceu primeiro em Só Notícias .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "geral",
+            "* destaque editoria política",
+            "política"
+        ],
+        "creator": [
+            "kelvin ramirez"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "blog",
+        "pubDate": "2026-08-06 14:55:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 14:55:36",
+        "image_url": "https://www.sonoticias.com.br/wp-content/uploads/2026/05/Captura-de-Tela-2026-05-21-as-14.23.54.png",
+        "video_url": null,
+        "source_id": "sonoticias",
+        "source_name": "So Noticias",
+        "source_priority": 5011382,
+        "source_url": "https://www.sonoticias.com.br",
+        "source_icon": "https://n.bytvi.com/sonoticias.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "在咨询 Sinop 后，TCE 制定了从市政当局到公共财团的转移规则",
+        "description_zh": "马托格罗索州审计法院定义，市政当局通过分摊合同向公共财团转移的资源不仅限于行政费用，还可以支付任何费用，只要与实体的运营相关即可。该职位来自顾问 Al"
+    },
+    {
+        "article_id": "5399d87fac870feac7c3e9518fc97674",
+        "link": "https://www.minutouno.com/espectaculos/amalia-granata-apunto-contra-facundo-moyano-su-imputacion-sacaron-droga-del-n6307786",
+        "title": "Amalia Granata apuntó contra Facundo Moyano tras su imputación: \"Sacaron droga del...\"",
+        "description": "La diputada provincial se refirió a la causa en la que el exdiputado fue imputado por lesiones y privación ilegítima de la libertad contra la modelo Candela Arizaga.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "espectáculos"
+        ],
+        "creator": [
+            "minutouno"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "united states of america",
-            "argentina",
-            "mexico"
+            "argentina"
         ],
         "category": [
-            "science",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-06 14:55:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:40:05",
+        "image_url": "https://media.minutouno.com/p/52ae5e64ab8e089d668fcb70878d616c/adjuntos/150/imagenes/043/566/0043566044/granata-moyano.jpg",
+        "video_url": null,
+        "source_id": "minutouno",
+        "source_name": "Minutouno",
+        "source_priority": 33172,
+        "source_url": "https://www.minutouno.com",
+        "source_icon": "https://n.bytvi.com/minutouno.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "阿玛莉亚·格拉纳塔 (Amalia Granata) 在法昆多·莫亚诺 (Facundo Moyano) 受到指控后指出：“他们从……那里获取毒品。”",
+        "description_zh": "该省代表提到了前代表被指控对模特坎德拉·阿里扎加（Candela Arizaga）造成伤害和非法剥夺自由的案件。"
+    },
+    {
+        "article_id": "5132c3a35ef1cfeab80870c5614dbc9a",
+        "link": "https://www.losandes.com.ar/deportes/se-conocio-el-destino-final-la-bandera-malvinas-que-aparecio-argentina-inglaterra-y-desato-una-polemica-mundial-n6001318",
+        "title": "Se conoció el destino final de la bandera de Malvinas que apareció tras Argentina-Inglaterra y desató una polémica mundial",
+        "description": "Fabricada con una sábana y pintura de menos de diez dólares, la bandera ingresada de forma clandestina al estadio ahora es objeto de una investigación de la FIFA.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "deportes"
+        ],
+        "creator": [
+            "francisco moreno"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-06 14:55:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:12:29",
+        "image_url": "https://media.losandes.com.ar/p/ad866ccdf4f85da69fbc9ad4287cc466/adjuntos/368/imagenes/100/735/0100735905/1200x675/649x383:669x403/dla-2026-08-06t115201443.png",
+        "video_url": null,
+        "source_id": "losandes",
+        "source_name": "Los Andes",
+        "source_priority": 114641,
+        "source_url": "https://www.losandes.com.ar",
+        "source_icon": "https://n.bytvi.com/losandes.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "继阿根廷-英格兰之后出现并引发全球争议的马尔维纳斯国旗最终目的地已知晓",
+        "description_zh": "这面旗帜由一块板材和油漆制成，价格不到十美元，走私到体育场的旗帜现在成为国际足联调查的对象。"
+    },
+    {
+        "article_id": "cf79aff58917847dd81638d9dc08afb0",
+        "link": "https://www.gazetadopovo.com.br/republica/oposicao-trava-pec-da-seguranca-no-senado-para-frustrar-lula-nas-eleicoes/",
+        "title": "Oposição trava PEC da Segurança no Senado para frustrar Lula nas eleições",
+        "description": "Lula tenta aprovar PEC da Segurança antes das eleições para mostrar resultado na área mesmo com texto da oposição contrário ao original.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "pec da segurança"
+        ],
+        "creator": [
+            "cristiano carlos da silva"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-05 15:15:44",
+        "pubDate": "2026-08-06 14:55:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:30:53",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "fetched_at": "2026-08-06 15:13:22",
+        "image_url": "https://media.gazetadopovo.com.br/2026/05/29191949/55240688264_479e98fc3d_z-640x372.jpg",
+        "video_url": null,
+        "source_id": "gazetadopovo",
+        "source_name": "Gazeta Do Povo",
+        "source_priority": 124650,
+        "source_url": "https://www.gazetadopovo.com.br",
+        "source_icon": "https://n.bytvi.com/gazetadopovo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "反对派在参议院阻止安全 PEC，以在选举中挫败卢拉",
+        "description_zh": "卢拉试图在选举前批准安全政策执行委员会，以显示该地区的成果，即使反对派的文本与原始文本相反。"
+    },
+    {
+        "article_id": "51c56b2e28effa3e646094f5f7a6eaf6",
+        "link": "https://www.mdzol.com/sociedad/gano-405-millones-el-quini-6-pero-arca-se-quedara-una-fortuna-cuanto-cobrara-realmente-n1580775",
+        "title": "Ganó $405 millones en el Quini 6, pero ARCA se quedará con una fortuna: cuánto cobrará realmente.",
+        "description": "El afortunado ganador del Quini 6 se quedará con una suma considerablemente menor a los $405 millones anunciados, debido a la retención de impuestos que aplica ARCA.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "quini",
+            "impuesto",
+            "arca"
+        ],
+        "creator": [
+            "mdz sociedad"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-06 14:55:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:01:03",
+        "image_url": "https://media.mdzol.com/p/251852330944f1e290479ea2fcdd3315/adjuntos/373/imagenes/001/972/0001972859/1200x675/smart/arca-frente-edificio-3.jpg",
+        "video_url": null,
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://n.bytvi.com/mdzol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他在《Quini 6》中赢得了 4.05 亿美元，但 ARCA 将剩下一笔财富：他真正能赚多少钱。",
+        "description_zh": "由于 ARCA 实行预扣税，Quini 6 的幸运获奖者所获得的奖金将大大低于宣布的 4.05 亿美元。"
+    },
+    {
+        "article_id": "b158c3cbddc0f8b7e0ad5a810d53db1c",
+        "link": "https://www.laopinioncoruna.es/coruna/2026/08/06/fallece-caridad-formoso-madre-presidente-diputacion-coruna-133149888.html",
+        "title": "Fallece Caridad Formoso, madre del presidente de la Diputación de A Coruña",
+        "description": "Caridad Formoso López, madre del alcalde de As Pontes y presidente de la Diputación de A Coruña, Valentín González Formoso, ha fallecido este jueves a los 95 años, según recoge la esquela publicada.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "diputación",
+            "coruña",
+            "caridad",
+            "formoso",
+            "fallece",
+            "madre",
+            "presidente"
+        ],
+        "creator": [
+            "agencias"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-06 14:54:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:08:35",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/027ee949-79ea-49d4-a3ed-377e6e718ac9_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "video_url": null,
+        "source_id": "laopinioncoruna",
+        "source_name": "La Opinión A Coruña",
+        "source_priority": 50098,
+        "source_url": "https://www.laopinioncoruna.es",
+        "source_icon": "https://n.bytvi.com/laopinioncoruna.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "拉科鲁尼亚省议会主席的母亲卡里达·福尔莫索去世",
+        "description_zh": "根据发布的讣告，阿斯蓬特斯市市长兼拉科鲁尼亚省议会主席瓦伦丁·冈萨雷斯·福尔莫索的母亲卡里达·福尔莫索·洛佩斯于本周四去世，享年 95 岁。"
+    },
+    {
+        "article_id": "0862c8f109dae2fbee1466f7bd53fbe4",
+        "link": "https://www.informador.mx/mexico/lenia-batres-podria-ser-presidenta-de-la-suprema-corte-lo-que-debes-saber-sobre-la-contradiccion-constitucional-existente-20260806-0062.html",
+        "title": "Lenia Batres podría presidir la Suprema Corte, según reforma constitucional",
+        "description": "Ante la posibilidad de que la ministra pueda llegar a presidir la SCJN, la Presidenta Claudia Sheinbaum admitió que sabe sobre el rechazo que surge desde el empresariado mexicano",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "méxico"
+        ],
+        "creator": [
+            "fabiánflores"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-06 14:55:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:06:58",
+        "image_url": "https://www.informador.mx/__export/1786027476082/sites/elinformador/img/2026/08/06/lenia_batres-sheinbaum-suprema_corte_version1786027475427.jpg_1721402260.jpg",
+        "video_url": null,
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://n.bytvi.com/informador_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "根据宪法改革，莱尼亚·巴特雷斯可以主持最高法院",
+        "description_zh": "鉴于该部长有可能成为 SCJN 主席，总统克劳迪娅·谢因鲍姆 (Claudia Sheinbaum) 承认，她知道墨西哥商界的拒绝。"
+    },
+    {
+        "article_id": "0218a406a9842e5f3f13bddcdff60788",
+        "link": "https://www.infobae.com/el-salvador/2026/08/06/siniestros-viales-y-rescates-acuaticos-dominan-la-temporada-vacacional-en-el-salvador-segun-cuerpos-de-socorro/",
+        "title": "Siniestros viales y rescates acuáticos dominan la temporada vacacional en El Salvador, según cuerpos de socorro",
+        "description": "El operativo especial de Cruz Roja Salvadoreña, Cruz Verde y Protección Civil permanece activo en playas, carreteras y centros turísticos para atender emergencias y reducir riesgos durante la temporada alta",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "atenciones",
+            "cruz roja salvadoreña",
+            "fiestas agostinas",
+            "cruz verde salvadoreña",
+            "el salvador"
+        ],
+        "creator": [
+            "elizabeth minero"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-06 14:54:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:02:49",
+        "image_url": "https://www.infobae.com/resizer/v2/KZVYSLPPVNBVTHD3WT6OEYH4FU.png?auth=fa3101749fe5ffcac5f8bda75188a8908b6e3b776cabeb99252f0ef76924ff50&smart=true&width=552&height=414",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -261,114 +503,27 @@
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "对太阳的更高分辨率观测揭示了有关其表面的新发现",
-        "description_zh": "对太阳的更高分辨率观测揭示了有关其表面的新发现"
+        "duplicate": false,
+        "title_zh": "据救援机构称，萨尔瓦多假期期间交通事故和水上救援占主导地位",
+        "description_zh": "萨尔瓦多红十字会、绿十字会和民防部门的特别行动仍在海滩、道路和旅游中心积极开展，以应对旺季的紧急情况并降低风险"
     },
     {
-        "article_id": "2774d4dbac484138ec46cc7c75861e35",
-        "link": "https://www.canal26.com/espectaculos/2026/08/05/la-serie-de-k-drama-perfecta-para-maratonear-tiene-20-capitulos-y-uno-de-los-mejores-finales-inesperados-del-genero/",
-        "title": "La serie de k-drama perfecta para maratonear: tiene 20 capítulos y uno de los mejores finales inesperados del género",
-        "description": "Logró puntajes perfectos en sitios especializados y ya prepara su segunda temporada. Mirá el tráiler en la nota.",
+        "article_id": "14ada72d39311b198962301ab03b2f77",
+        "link": "https://www.elgrafico.mx//la-roja/2026/08/06/abuelito-le-da-llegue-a-policia-lo-saca-volando-y-lo-quiebra-en-calles-del-centro-de-la-cdmx/",
+        "title": "Abuelito le da llegue a policía, lo saca volando y lo quiebra en calles del Centro de la CDMX",
+        "description": "El agente circulaba en su motocicleta por calles del centro, junto a otros de sus compañeros, cuando fue impactado por el automovilista",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "disney",
-            "series coreanas",
-            "streaming",
-            "series"
+            "policia muerto",
+            "centro cdmx",
+            "choque",
+            "accidente automovilistico"
         ],
         "creator": [
-            "canal 26"
+            "el gráfico"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:15:41",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:32:55",
-        "image_url": "https://www.canal26.com/resizer/v2/QIEAC6DE4VHAXF2CG7OKRFYHVU.webp?auth=c447521706012835bfb4ebaf3c3b78a9da438ddd8d332ca6e3bdb402e42cbd76&smart=true&width=1200&height=900",
-        "video_url": null,
-        "source_id": "canal26",
-        "source_name": "Canal26",
-        "source_priority": 9385,
-        "source_url": "https://www.canal26.com",
-        "source_icon": "https://n.bytvi.com/Canal26.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "完美的马拉松韩剧系列：共有 20 个章节，是该类型中最出人意料的结局之一",
-        "description_zh": "它在专业网站上获得了满分，并且已经在准备第二季。观看注释中的预告片。"
-    },
-    {
-        "article_id": "c25ee9579ac9dc3263334e99410858f6",
-        "link": "https://veja.abril.com.br/politica/o-video-intimo-que-colocou-fogo-na-disputa-ao-governo-do-para/",
-        "title": "O vídeo íntimo que colocou fogo na disputa ao governo do Pará",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "gente",
-            "política",
-            "pará",
-            "podemos"
-        ],
-        "creator": [
-            "nara boechat"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:15:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:31:39",
-        "image_url": "https://veja.abril.com.br/wp-content/uploads/2026/08/daniel-e-alessandra.jpg?quality=70&strip=info",
-        "video_url": null,
-        "source_id": "veja_abril_br",
-        "source_name": "Veja",
-        "source_priority": 5562,
-        "source_url": "https://veja.abril.com.br",
-        "source_icon": "https://n.bytvi.com/veja_abril_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "引发帕拉州政府争议的亲密视频",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "b22ccddc34e94929568443b6da7b62bd",
-        "link": "https://www.infobae.com/america/agencias/2026/08/05/aterriza-un-vuelo-en-el-aeropuerto-de-deir-ezzor-en-el-este-de-siria-tras-una-decada-de-cierre-por-la-guerra/",
-        "title": "Aterriza un vuelo en el aeropuerto de Deir Ezzor, en el este de Siria, tras una década de cierre por la guerra",
-        "description": "Aterriza un vuelo en el aeropuerto de Deir Ezzor, en el este de Siria, tras una década de cierre por la guerra",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "europapress"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "united states of america",
-            "argentina",
             "mexico"
         ],
         "category": [
@@ -376,56 +531,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-05 15:15:30",
+        "pubDate": "2026-08-06 14:54:55",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:30:53",
-        "image_url": "https://www.infobae.com/resizer/v2/HRLRV3NZGRFZBCXVBOMUILCKBA.jpg?auth=e767fc652bdc17c8ef1fef9434717807d3008f008f45190672bd3336b8964f01&smart=true&width=1920&height=1280",
+        "fetched_at": "2026-08-06 15:16:40",
+        "image_url": "https://www.elgrafico.mx/resizer/v2/G5IWKH3GZZHOHGU7MFF2UWAIVM.jpg?auth=f5171841581eddd5ed25487c11c2d5af114989a2da0fcbe302c6776226213b21&smart=true&width=1200&height=740",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "一架航班降落在叙利亚东部的代尔祖尔机场，该机场因战争而关闭十年",
-        "description_zh": "一架航班降落在叙利亚东部的代尔祖尔机场，该机场因战争而关闭十年"
-    },
-    {
-        "article_id": "f2ba0cd167bdf9824e5e63c7fddd1bee",
-        "link": "https://www.elterritorio.com.ar/noticias/2026/08/05/904279-la-iglesia-argentina-celebro-la-visita-de-leon-xiv-en-noviembre-estamos-todos-convocados-a-vivir-este-encuentro",
-        "title": "La Iglesia argentina celebró la visita de León XIV en noviembre: “Estamos todos convocados a vivir este encuentro”",
-        "description": "Los arzobispos Marcelo Colombo y Jorge García Cuerva destacaron la confirmación de la gira del Papa en América del Sur, donde pasará tres días en el país. Cuál es el itinerario posible.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "el territorio"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "politics",
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:15:25",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:23:15",
-        "image_url": "https://elterritorio-s3.cdn.net.ar/s3i233/2026/08/elterritorio/images/02/71/24/2712482_20947ed26dcc63045d304006a329012dc56c079e8f3225bc41cfd974a55b1783/md.webp",
-        "video_url": null,
-        "source_id": "elterritorio",
-        "source_name": "El Territorio",
-        "source_priority": 1548937,
-        "source_url": "https://www.elterritorio.com.ar",
-        "source_icon": "https://n.bytvi.com/elterritorio.png",
+        "source_id": "elgrafico",
+        "source_name": "Elgrafico Mx",
+        "source_priority": 360449,
+        "source_url": "https://www.elgrafico.mx",
+        "source_icon": "https://n.bytvi.com/elgrafico.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -433,200 +548,77 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿根廷教会庆祝十一月利奥十四世的来访：“我们都被召唤来经历这次会议”",
-        "description_zh": "大主教马塞洛·科伦坡和豪尔赫·加西亚·库尔瓦强调了教宗南美洲之行的确认，他将在该国度过三天。可能的行程是怎样的。"
+        "title_zh": "爷爷把它交给了警察，把它带飞了，然后在 CDMX 中心的街道上摔坏了",
+        "description_zh": "当这名特工和其他同事一起骑着摩托车穿越市中心街道时，被驾车者撞倒。"
     },
     {
-        "article_id": "e72aaaf81785612345300d904a5c974b",
-        "link": "https://larazon.co/radican-proyecto-de-ley-para-derogar-la-paz-total-y-reactivar-ordenes-de-captura-contra-estructuras-armadas/",
-        "title": "Radican proyecto de ley para derogar la “paz total” y reactivar órdenes de captura contra estructuras armadas",
-        "description": "La iniciativa presentada en el Congreso propone eliminar apartes de la Ley 2272 de 2022 y suspender los procesos de acercamiento con organizaciones criminales.",
+        "article_id": "89d6410759c680ca443730dc30a82183",
+        "link": "https://www.chilevision.cl/programas/contigo-en-la-manana/autos-resbalan-por-nieve-en-camino-a-lonquimay-y-protagonizan-colision-triple-asi-se-ve-la-ruta/",
+        "title": "Autos resbalan por nieve en camino a Lonquimay y protagonizan colisión triple: Así se ve la ruta",
+        "description": "Dos camionetas y un auto protagonizaron un accidente en camino a Lonquimay. Los vehículos iban a una velocidad prudente cuando chocaron entre sí debido a la acumulación de nieve en la carretera, lo que provocó gran congestión en el lugar.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "córdoba"
+            "contigo en la mañana",
+            "lonquimay",
+            "accidente",
+            "congestión vehicular"
         ],
         "creator": [
-            "redacción digital"
+            "lisette perez"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-08-06 14:54:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:13:04",
+        "image_url": "https://media.chilevision.cl/2026/08/Diseno-sin-titulo-2-1-1024x576.png",
+        "video_url": "https://www.chilevision.cl/programas/contigo-en-la-manana/autos-resbalan-por-nieve-en-camino-a-lonquimay-y-protagonizan-colision-triple-asi-se-ve-la-ruta/",
+        "source_id": "chilevision_cl",
+        "source_name": "Chilevisión",
+        "source_priority": 119055,
+        "source_url": "https://www.chilevision.cl",
+        "source_icon": "https://n.bytvi.com/chilevision_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "汽车在前往隆基梅的途中在雪中滑行并造成三重碰撞：路线是这样的",
+        "description_zh": "两辆卡车和一辆汽车在前往隆基迈的途中发生事故。由于道路积雪，两辆车辆在安全速度行驶时发生碰撞，导致该地区严重拥堵。"
+    },
+    {
+        "article_id": "931913fd5a19ce118611f70d96781f91",
+        "link": "https://www.marca.com/tiramillas/economia/2026/08/06/juanma-lorente-abogado-laboralista-desvela-jefe-siempre-llevar-razon-veces-trabajador.html",
+        "title": "Juanma Lorente, abogado laboralista, desvela que tu jefe no siempre tiene por qué llevar la razón: \"A veces, la tiene que tener el trabajador\"",
+        "description": "El experto aclara qué derechos tienen los empleados cuando reciben determinadas órdenes de sus superiores",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "economia"
+        ],
+        "creator": [
+            "bartolomé saorin rios"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "domestic"
+            "science"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-05 15:15:56",
+        "pubDate": "2026-08-06 14:54:38",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:44:59",
-        "image_url": "https://larazon.co/wp-content/uploads/2025/12/paz-total-seguridad-defensa-Cesar-Nino-1024x683.jpeg",
-        "video_url": null,
-        "source_id": "larazon_co",
-        "source_name": "Larazon Co",
-        "source_priority": 190111,
-        "source_url": "https://larazon.co",
-        "source_icon": "https://n.bytvi.com/larazon_co.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "法案提出废除“全面和平”并重新启动针对武装结构的逮捕令",
-        "description_zh": "国会提出的倡议建议废除 2022 年第 2272 号法律的部分内容，并暂停与犯罪组织的接触过程。"
-    },
-    {
-        "article_id": "517823c05f39c5f9f5c49031511c78a6",
-        "link": "https://www.pulzo.com/nacion/accidente-fatal-en-la-via-ibague-melgar-muere-el-joven-juan-pablo-cruz-en-tolima-PP5266190A",
-        "title": "Joven estudiante y seguidor del Deportes Tolima fallece en accidente de tránsito en la vía Ibagué-Melgar",
-        "description": "Un joven estudiante y aficionado al Deportes Tolima falleció en un accidente en la vía Ibagué-Melgar; investigan causas del siniestro.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "melgar",
-            "deportes tolima",
-            "accidente de tránsito",
-            "el nuevo día ibagué",
-            "ibagué",
-            "nación"
-        ],
-        "creator": [
-            "redacción nación"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "domestic"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:15:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:39:33",
-        "image_url": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5266190A-h-o.webp",
-        "video_url": null,
-        "source_id": "pulzo",
-        "source_name": "Pulzo",
-        "source_priority": 81875,
-        "source_url": "https://www.pulzo.com",
-        "source_icon": "https://n.bytvi.com/pulzo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "托利马体育运动的年轻学生和追随者在伊瓦格-梅尔加公路上的一场交通事故中丧生",
-        "description_zh": "一名年轻学生兼托利马体育队球迷在伊巴格-梅尔加公路上的一场事故中丧生；他们调查事故原因。"
-    },
-    {
-        "article_id": "a95a01e39426c48aaaa0fd8ab012627e",
-        "link": "https://oem.com.mx/elsoldetlaxcala/local/eres-maestro-y-tienes-40-anos-de-servicio-participa-para-recibir-la-condecoracion-maestro-altamirano-2027-31445497",
-        "title": "¿Eres maestro y tienes 40 años de servicio? Participa para recibir la condecoración “Maestro Altamirano 2027”",
-        "description": "Quienes cumplan con los requisitos se harán acreedores a una medalla de oro y un estímulo económico de 111 mil pesos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "local"
-        ],
-        "creator": [
-            "jesús lima"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:15:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 20:45:15",
-        "image_url": "https://oem.com.mx/elsoldetlaxcala/img/31444745/1785942895/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldetlaxcala_mx",
-        "source_name": "Elsoldetlaxcala Mx",
-        "source_priority": 348815,
-        "source_url": "https://www.elsoldetlaxcala.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldetlaxcala_mx.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "您是一名拥有 40 年教龄的教师吗？参与获得“Maestro Altamirano 2027”装饰",
-        "description_zh": "符合要求者将获得金牌和11.1万比索的经济刺激"
-    },
-    {
-        "article_id": "33b2ecadbd03e0dc6d74cd4c57a13bd1",
-        "link": "https://entrelineas.com.mx/ugrch-lanza-convocatoria-de-reina-expogan-2026/",
-        "title": "UGRCH lanza convocatoria de Reina ExpoGan 2026",
-        "description": "La Unión Ganadera Regional de Chihuahua (UGRCH) ya incia con los preparativos de la mayor fiesta ganadera, lanzaron la convocatoria para Reina ExpoGan 2026. Invitan a las jovenes de Chihuahua a participar los días 27 y 28 de octubre en el marco de la edición 43, solo se dará oportunidad a una representante por Asociación [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "expogan 2026",
-            "local"
-        ],
-        "creator": [
-            "salma ortiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:15:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 16:13:24",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "entrelineas",
-        "source_name": "Entrelineas",
-        "source_priority": 655477,
-        "source_url": "https://entrelineas.com.mx",
-        "source_icon": "https://n.bytvi.com/entrelineas.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "UGRCH 发起 Reina ExpoGan 2026 征集活动",
-        "description_zh": "奇瓦瓦地区畜牧联盟 (UGRCH) 已经开始筹备最大的畜牧节，他们发起了 2026 年 Reina ExpoGan 的号召。他们邀请奇瓦瓦州的年轻女性参加 10 月 27 日至 28 日在第 43 届框架内举行的活动，仅一次"
-    },
-    {
-        "article_id": "4bc20012b070935c061966f137867eca",
-        "link": "https://www.marca.com/futbol/atletico/2026/08/05/simeone-lleva-26-corea-espera-kang-in-lee.html",
-        "title": "Simeone se lleva a 26 a Corea... donde espera Kang- in Lee",
-        "description": "Ruggeri, tal y como había adelantado MARCA, se cae de la expedición ante su inminente salida",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "atlético"
-        ],
-        "creator": [
-            "isaac suárez"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:15:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:32:23",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/08/05/6a735347bf653.jpeg",
+        "fetched_at": "2026-08-06 15:08:35",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/08/06/6a749a62b7624.jpeg",
         "video_url": null,
         "source_id": "marca",
         "source_name": "Marca Claro",
@@ -640,170 +632,82 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "西蒙尼带着26号前往韩国……李康仁在那里等待",
-        "description_zh": "正如《马卡报》所预料的那样，鲁杰里因即将出发而退出探险队"
+        "title_zh": "劳工律师胡安玛·洛伦特 (Juanma Lorente) 透露，你的老板不一定总是对的：“有时，工人必须是对的”",
+        "description_zh": "专家阐明员工收到上级某些命令时享有哪些权利"
     },
     {
-        "article_id": "f40eb40832bd2a2cf7525a3e10bac99b",
-        "link": "https://www.semana.com/deportes/articulo/asi-fue-el-primer-cruce-de-vozinha-con-arturo-vidal-en-colo-colo-arquero-revelo-como-fue/202649/",
-        "title": "Así fue el primer cruce de Vozinha con Arturo Vidal en Colo-Colo: arquero reveló cómo fue",
-        "description": "Quien acabó de llegar a Chile describió cómo fue su contacto inicial con uno de los referentes del camerino. La cordialidad parece haber imperado en esa presentación inicial.",
+        "article_id": "30ffe6094bc1e627b59692833f587467",
+        "link": "https://www.tvazteca.com/aztecanoticias/viagra-podria-frenar-el-avance-del-cancer-revela-nuevo-estudio/",
+        "title": "El viagra podría ayudar a frenar el cáncer según un nuevo estudio; este es el nuevo poder del fármaco",
+        "description": "Un estudio reciente reveló que el viagra no solo trata la disfunción eréctil, sino que podría bloquear el avance del cáncer en tu cuerpo; conoce cómo lo hace.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "chile",
-            "arturo vidal",
-            "cabo verde",
-            "colo colo"
+            "salud y educación"
         ],
         "creator": [
-            "sergio alejandro calderón calderón"
+            "adriana juárez miranda"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "education",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-06 14:54:36",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:05:37",
+        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/89/5c/bad01415482c85d8afad53a0d9e6/viagra.jpg",
+        "video_url": null,
+        "source_id": "tvazteca",
+        "source_name": "Azteca Deportes",
+        "source_priority": 17594,
+        "source_url": "https://www.tvazteca.com",
+        "source_icon": "https://n.bytvi.com/tvazteca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "一项新研究表明，伟哥可以帮助预防癌症；这就是药物的新力量",
+        "description_zh": "最近的一项研究表明，伟哥不仅可以治疗勃起功能障碍，还可以阻止体内癌症的进展；知道他是怎么做的。"
+    },
+    {
+        "article_id": "9e7f8456fc37eddd13fb536c12ace766",
+        "link": "https://www.eldiario.com.co/noticias/colombia/rescate-sin-final-feliz-murio-la-cria-de-hipopotamo-hallada-sola-y-desnutrida-en-antioquia/",
+        "title": "Rescate sin final feliz: murió la cría de hipopótamo hallada sola y desnutrida en Antioquia",
+        "description": "El animal tenía menos de 15 días de nacido y fue encontrado sin su madre, atrapado entre arbustos y con un cuadro severo de deshidratación y desnutrición. La necropsia también reveló lesiones pulmonares y hepáticas. La cría de hipopótamo que había sido rescatada en zona rural de Puerto Nare, Antioquia, murió pese a los esfuerzos [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "colombia",
+            "p2"
+        ],
+        "creator": [
+            "s.g - editor web"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:15:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:35:00",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/WD4T2I3SIJFWLLH52EJDOIWY6A.png?auth=5caaaa515b1bdab7284997eed31a8fae913bc4016d828c546b20147da8472595&smart=true&width=1280&height=720",
-        "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://n.bytvi.com/semana.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "这是沃齐尼亚在科洛科洛与阿图罗·维达尔的第一次会面：门将透露了情况",
-        "description_zh": "刚抵达智利的人描述了他与更衣室领导人之一的初次接触。在最初的介绍中，热情似乎占了上风。"
-    },
-    {
-        "article_id": "b621db4eb17db7eab24da5e35beb2f0f",
-        "link": "https://www.infobae.com/america/agencias/2026/08/05/spacex-se-hunde-hasta-un-12-tras-disparar-el-gasto-en-ia-y-el-inminente-desbloqueo-de-millones-de-acciones/",
-        "title": "SpaceX se hunde hasta un 12% tras disparar el gasto en IA y el inminente desbloqueo de millones de acciones",
-        "description": "SpaceX se hunde hasta un 12% tras disparar el gasto en IA y el inminente desbloqueo de millones de acciones",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "europapress"
-        ],
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "united states of america",
-            "argentina",
-            "mexico"
-        ],
-        "category": [
-            "technology",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-05 15:15:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:30:53",
-        "image_url": "https://www.infobae.com/resizer/v2/6IFIAPWF7RCBPLZKN5PGGZ2KG4.jpg?auth=f63c1c731dee6b1babdfdce3ffa0e507c1ad072ab5fae30fba37d8ead8ca8018&smart=true&width=1920&height=1280",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "人工智能支出飙升且数百万股即将解锁后，SpaceX 股价下跌 12%",
-        "description_zh": "人工智能支出飙升且数百万股即将解锁后，SpaceX 股价下跌 12%"
-    },
-    {
-        "article_id": "4efacbde3f6f636061e454685ef27cfd",
-        "link": "https://www.eldesmarque.com/futbol/mercado-de-fichajes/20260805/gil-marin-julian-alvarez-inflexible_18_019893533.html",
-        "title": "Gil Marín se ha tomado como un asunto personal el 'caso Julián Álvarez': \"La postura es inflexible\"",
-        "description": "El Atlético de Madrid insiste en cuál es su postura respecto al futuro de Julián Álvarez Osimhen, ofrecido al Atleti... y rechazado",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mercado de fichajes"
-        ],
-        "creator": [
-            "alberto cercós garcía"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-05 15:15:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:37:56",
-        "image_url": "https://album.mediaset.es/eimg/2026/08/05/gil-marin-se-ha-tomado-como-un-asunto-personal-el-caso-julian-alvarez_ba4b.jpg",
-        "video_url": "https://rawvod.mediaset.es/bitmovin/50e445ef-d38b-459d-987f-a1ade6942d0c/50e445ef-d38b-459d-987f-a1ade6942d0c.250000.mp4",
-        "source_id": "eldesmarque",
-        "source_name": "Eldesmarque",
-        "source_priority": 44851,
-        "source_url": "https://motor.eldesmarque.com",
-        "source_icon": "https://n.bytvi.com/eldesmarque.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "吉尔·马林将“朱利安·阿尔瓦雷斯案”视为个人问题：“这一立场不灵活”",
-        "description_zh": "马德里竞技坚持其关于朱利安·阿尔瓦雷斯·奥西姆亨未来的立场，向马竞提出了......但遭到拒绝"
-    },
-    {
-        "article_id": "cb74a2c6e33ad2f728896820c0ece7d7",
-        "link": "https://nortedigital.mx/precaucion-continuan-cerrado-carril-y-medio-de-avenida-de-la-raza/",
-        "title": "¡Precaución! Continúan cerrado carril y medio de avenida De la Raza",
-        "description": "El socavón provocado sobre la avenida De la Raza, justo en la intersección con avenida Del Charro, mantiene esta mañana cerrados un carril y medio de los tres que tiene la vialidad en un sentido de oriente a poniente. Durante un recorrido hecho esta mañana por ese punto, se observó que el carril de extrema [...] La entrada ¡Precaución! Continúan cerrado carril y medio de avenida De la Raza aparece primero en Norte de Ciudad Juárez .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "frontera",
-            "hundimiento",
-            "jmas",
-            "socavón"
-        ],
-        "creator": [
-            "mauricio rodriguez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
             "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-05 15:15:44",
+        "pubDate": "2026-08-06 14:54:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:18:38",
-        "image_url": "https://nortedigital.mx/wp-content/uploads/2026/08/jmas.jpeg",
+        "fetched_at": "2026-08-06 15:16:49",
+        "image_url": "https://www.eldiario.com.co/wp-content/uploads/2026/08/Santa-Rosa-de-Cabal-abrio-sus-puertas-al-talento-juvenil-colombiano-34.jpg",
         "video_url": null,
-        "source_id": "nortedigital_mx",
-        "source_name": "Norte De Ciudad Juárez",
-        "source_priority": 602856,
-        "source_url": "https://nortedigital.mx",
-        "source_icon": "https://n.bytvi.com/nortedigital_mx.png",
+        "source_id": "eldiario",
+        "source_name": "El Diario",
+        "source_priority": 307799,
+        "source_url": "https://www.eldiario.com.co",
+        "source_icon": "https://n.bytvi.com/eldiario.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -811,35 +715,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "警告！德拉拉扎大道的半巷仍然关闭",
-        "description_zh": "德拉拉扎大道（De la Raza Avenue）与德尔查罗大道（Del Charro Avenue）交叉口处发生的天坑导致今天早上从东向西方向的三车道中的其中一条半封闭。今天早上在该地点附近进行的一次旅行中，人们发现卡里"
+        "title_zh": "救援没有圆满结局：在安蒂奥基亚发现的孤独且营养不良的小河马死亡",
+        "description_zh": "这只动物出生不到15天，被发现时没有母亲，被困在灌木丛中，严重脱水和营养不良。尸检还显示肺部和肝脏病变。在纳尔港农村地区获救的小河马"
     },
     {
-        "article_id": "438895d825f3932281accf3e29e7d332",
-        "link": "https://www.infobae.com/america/agencias/2026/08/05/las-observaciones-de-mayor-resolucion-del-sol-revelan-nuevos-hallazgos-sobre-su-superficie/",
-        "title": "Las observaciones de mayor resolución del Sol revelan nuevos hallazgos sobre su superficie",
-        "description": "Las observaciones de mayor resolución del Sol revelan nuevos hallazgos sobre su superficie",
+        "article_id": "66d69de5c7b760bd290dc29e03954509",
+        "link": "https://www.infobae.com/espana/2026/08/06/nunca-te-maquilles-la-linea-de-agua-de-los-ojos-un-experto-explica-los-riesgos-para-tu-salud-ocular/",
+        "title": "Nunca te maquilles la línea de agua de los ojos: un experto explica los riesgos para tu salud ocular",
+        "description": "El oftalmólogo explica que maquillar esta zona puede afectar al funcionamiento de las glándulas de Meibomio y provocar síntomas de ojo seco",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "enfermedades y medicamentos",
+            "españa-salud",
+            "maquillaje",
+            "enfermedades y medicamentos españa",
+            "españa-noticias"
+        ],
         "creator": [
-            "newsroom infobae"
+            "irene herrero alonso"
         ],
         "language": "spanish",
         "country": [
+            "argentina",
             "colombia",
             "united states of america",
-            "argentina",
             "mexico"
         ],
         "category": [
-            "science",
-            "top"
+            "top",
+            "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-05 15:15:44",
+        "pubDate": "2026-08-06 14:54:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-05 15:30:53",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "fetched_at": "2026-08-06 15:02:49",
+        "image_url": "https://www.infobae.com/resizer/v2/TAK2M3ZEQFA4FJLWYMBWVX2TZ4.png?auth=3a2551dfa9b49ea410d0a50d1607708ad55148fcfc504678fa49193ac668f5ba&smart=true&width=2752&height=1536",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -852,8 +762,97 @@
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "对太阳的更高分辨率观测揭示了有关其表面的新发现",
-        "description_zh": "对太阳的更高分辨率观测揭示了有关其表面的新发现"
+        "duplicate": false,
+        "title_zh": "切勿在眼睛的水线上化妆：专家解释了对眼睛健康的风险",
+        "description_zh": "眼科医生解释说，在该区域化妆会影响睑板腺的功能并导致干眼症状。"
+    },
+    {
+        "article_id": "d3da99fd60ed5eabc141fdbf1f1d377b",
+        "link": "https://www.infobae.com/colombia/2026/08/06/mafe-carrascal-aseguro-que-quieren-derribar-el-monumento-a-la-resistencia-en-cali-y-arremetio-contra-abelardo-de-la-espriella-un-acto-autoritario/",
+        "title": "Mafe Carrascal aseguró que quieren derribar el Monumento a la Resistencia en Cali y arremetió contra Abelardo de la Espriella: “Un acto autoritario”",
+        "description": "La representante del Pacto Histórico denunció que su posible demolición representaría un intento de borrar la memoria colectiva de los movimientos sociales",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "alejandro eder",
+            "mafe carrascal",
+            "monumento de la resistencia",
+            "colombia-noticias",
+            "abelardo de la espriella"
+        ],
+        "creator": [
+            "yeison andrés lópez romero"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-08-06 14:54:31",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 15:02:49",
+        "image_url": "https://www.infobae.com/resizer/v2/QQT7JE22PJAEVIFAASLJEW7M2A.jpg?auth=e3dc1399a9386b1c8d6d97ee797994e1c6a6aadcaa418a9a541d582ebfc55c77&smart=true&width=1920&height=1080",
+        "video_url": "https://cdn.jwplayer.com/videos/zPl8vTXQ-7njfJk2Q.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Mafe Carrascal 保证他们要拆除卡利的抵抗纪念碑，并攻击阿韦拉多·德拉埃斯普里埃拉：“这是一种独裁行为”",
+        "description_zh": "历史公约的代表谴责说，拆除它的可能性将意味着抹去社会运动的集体记忆。"
+    },
+    {
+        "article_id": "a5b349789177177df30bbe57c48bfa1c",
+        "link": "https://www.chanarcillo.cl/desert-coffee-es-reconocida-entre-las-mejores-cafeterias-de-chile/",
+        "title": "Desert Coffee es reconocida entre las mejores cafeterías de Chile",
+        "description": "The Best Coffee Shops Chile 2026 publicó el listado de 75 cafeterías entre las que destaca el proyecto de Alejandro",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "región - actualidad"
+        ],
+        "creator": [
+            "matías quiroga salas"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "food"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-06 14:54:25",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-06 14:58:31",
+        "image_url": "https://www.chanarcillo.cl/wp-content/uploads/2026/08/Desert-Coffee.jpg",
+        "video_url": null,
+        "source_id": "chanarcillo_cl",
+        "source_name": "Chanarcillo",
+        "source_priority": 99999999,
+        "source_url": "https://www.chanarcillo.cl",
+        "source_icon": "https://n.bytvi.com/chanarcillo_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Desert Coffee 被公认为智利最好的咖啡店之一",
+        "description_zh": "2026 年智利最佳咖啡馆公布了 75 家咖啡馆名单，其中 Alejandro 的项目脱颖而出"
     }
 ]
