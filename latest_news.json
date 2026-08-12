@@ -1,12 +1,12 @@
 [
     {
-        "article_id": "ce06c94c3826d31dd02ee2ead0a3df06",
-        "link": "https://www.dgabc.com.br/Noticia/4340304/numero-de-instituicoes-participantes-do-pix-cresceu-5-6-em-2025-revela-bc",
-        "title": "Número de instituições participantes do Pix cresceu 5,6% em 2025, revela BC",
-        "description": "Número de instituições participantes do Pix cresceu 5,6% em 2025, revela BC",
+        "article_id": "0bdbf7cb2ae0c3f0e6f5225a5576d68c",
+        "link": "https://www.dgabc.com.br/Noticia/4340519/parque-da-turma-da-monica-dara-desconto-para-quem-tomar-vacina-de-sarampo",
+        "title": "Parque da Turma da Mônica dará desconto para quem tomar vacina de sarampo",
+        "description": "Promoção será válida de quarta a sexta-feira, até o dia 21 de agosto, para quem apresentar a carteirinha de vacinação na compra na bilheteria",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "economia"
+            "cultura & lazer"
         ],
         "creator": null,
         "language": "portuguese",
@@ -15,13 +15,13 @@
         ],
         "category": [
             "top",
-            "business"
+            "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-10 14:08:00",
+        "pubDate": "2026-08-11 14:26:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 15:23:28",
-        "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
+        "fetched_at": "2026-08-11 15:28:18",
+        "image_url": "https://www.dgabc.com.br/Imagens/Home/Index/2026811112713.jpg?altura=100",
         "video_url": null,
         "source_id": "dgabc",
         "source_name": "Diário Do Grande Abc",
@@ -34,203 +34,86 @@
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "BC 透露，到 2025 年，参与 Pix 的机构数量将增长 5.6%",
-        "description_zh": "BC 透露，到 2025 年，参与 Pix 的机构数量将增长 5.6%"
+        "duplicate": false,
+        "title_zh": "Parque da Turma da Mônica 将为接种麻疹疫苗的人提供折扣",
+        "description_zh": "促销有效期为周三至周五，直至 8 月 21 日，凡在售票处出示疫苗接种卡的人士"
     },
     {
-        "article_id": "5a625d6c7647a46748959c80470bba12",
-        "link": "https://tribunadepetropolis.com.br/noticias/numero-de-instituicoes-participantes-do-pix-cresceu-56-em-2025-revela-bc/",
-        "title": "Número de instituições participantes do Pix cresceu 5,6% em 2025, revela BC",
-        "description": "O Pix encerrou 2025 com 926 instituições participantes. Um aumento de 5,6% em relação ao ano anterior. Os dados constam na segunda edição do Relatório de Gestão do Pix, publicado nesta segunda-feira, 10, pelo Banco Central. De acordo com o documento, no ano passado o segmento de instituições de pagamento (IPs) apresentou a maior participação [...]",
+        "article_id": "95098d3a5b283d9f2fc3ba7cc2e03613",
+        "link": "https://www.lagaceta.com.ar/nota/1149162/espectaculos/l-mato-policia-motorizado-vuelve-tucuman-cuanto-cuesta-entrada-donde-comprarla.html",
+        "title": "Él Mató a un Policía Motorizado vuelve a Tucumán: cuánto cuesta la entrada y dónde comprarla",
+        "description": "La banda liderada por Santiago Motorizado se presentará en el Palacio de los Deportes. La entrada general ya está a la venta.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "tucumán",
+            "san miguel de tucumán",
+            "jóvenes",
+            "espectáculos",
+            "guía para salir",
+            "argentina",
+            "palacio de los deportes"
+        ],
+        "creator": [
+            "victoria  reinoso"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:26:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 17:55:51",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/08/10/el-mat-a-un-polica-motorizado-grupo-platense-prepara-nueva-fecha-provincia-despues-ano-marcado-sus-presentaciones-internacionales-celebracion-de-1149162-124616.png",
+        "video_url": null,
+        "source_id": "lagaceta_ar",
+        "source_name": "Lagaceta",
+        "source_priority": 975335,
+        "source_url": "https://www.lagaceta.com.ar",
+        "source_icon": "https://n.bytvi.com/LaGaceta_Ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他杀死了一名机动警察返回图库曼：票价是多少以及在哪里购买",
+        "description_zh": "由 Santiago Motorizado 领导的乐队将在 Palacio de los Deportes 演出。普通门票现已发售。"
+    },
+    {
+        "article_id": "dbb3eb35f25cd89e7447edf7f1875115",
+        "link": "https://www.capitalnews.com.br/politica-e-poder/judiciario/mpms-determina-que-camara-de-campo-grande-convoque-nova-eleicao-da-mesa-diretora/445168",
+        "title": "MPMS determina que Câmara de Campo Grande convoque nova eleição da Mesa Diretora",
+        "description": "O MPMS (Ministério Público do Estado de Mato Grosso do Sul) notificou a Câmara Municipal de Campo Grande para que seja marcada, em até 30 dias, uma nova data para a eleição da Mesa Diretora da Casa de Leis.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "marianna gualter / estadão"
+            "joão gabriel vilalba"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:47:23",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "BC 透露，到 2025 年，参与 Pix 的机构数量将增长 5.6%",
-        "description_zh": "截至 2025 年，Pix 共有 926 家参与机构。比上年增长5.6%。该数据出现在央行于本周一（即 10 日）发布的第二版 Pix 管理报告中。根据该文件，去年机构部门"
-    },
-    {
-        "article_id": "7d5abc041d110eb72b438939b2886db8",
-        "link": "https://motor1.uol.com.br/news/804373/visual-smart-2-vaza-internet/",
-        "title": "Sucessor do Smart ForTwo vaza e é menor que Kwid e Mobi",
-        "description": "Novo Smart #2 terá apenas 2,75 metros de comprimento, dois lugares, motor elétrico de 82 cv e autonomia estimada em quase 300 km",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "design"
-        ],
-        "creator": [
-            "brian potter"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil",
-            "portugal"
-        ],
-        "category": [
-            "top",
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:34:13",
-        "image_url": "https://cdn.motor1.com/images/mgl/6Z8M07/s3/smart-2-miit-filing-images.jpg",
-        "video_url": null,
-        "source_id": "motor1",
-        "source_name": "Motor1",
-        "source_priority": 12884,
-        "source_url": "https://www.motor1.com",
-        "source_icon": "https://n.bytvi.com/motor1.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Smart ForTwo 后继产品泄露，尺寸小于 Kwid 和 Mobi",
-        "description_zh": "新款 Smart #2 长仅 2.75 米，配备两个座椅、82 马力电动机，预计续航里程近 300 公里"
-    },
-    {
-        "article_id": "9be6d71227ff619a3784faf3169c9e6c",
-        "link": "https://www.rosario3.com/ecos365/noticias/Mas-grandes-y-mas-carga-el-Gobierno-mete-mano-en-el-transporte-y-promete-bajar-costos-20260810-0006.html",
-        "title": "Más grandes y más carga: el Gobierno mete mano en el transporte y promete bajar costos",
-        "description": "Tras 30 años, el Ejecutivo actualizó las normas sobre pesos y dimensiones del transporte pesado. Los detalles",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "redacción ecos365"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:39:37",
-        "image_url": "https://www.rosario3.com/__export/1786372509657/sites/rosario3/img/2026/08/10/captura_de_pantalla_2026-08-10_112125_crop1786372508987.png_554688468.png",
-        "video_url": null,
-        "source_id": "rosario3",
-        "source_name": "Rosario 3",
-        "source_priority": 56266,
-        "source_url": "https://www.rosario3.com",
-        "source_icon": "https://n.bytvi.com/rosario3.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "更大、更重：政府介入运输并承诺降低成本",
-        "description_zh": "30年后，行政部门更新了重型运输重量和尺寸的规定。详细内容"
-    },
-    {
-        "article_id": "71482d25bf3c419a35097d8c64db6c7f",
-        "link": "https://www.ambito.com/economia/bonos-del-tesoro-presion-wall-street-preocupado-los-movimientos-scott-bessent-n6308993",
-        "title": "Bonos del Tesoro bajo presión: Wall Street preocupado por los movimientos de Scott Bessent",
-        "description": "Entre los operadores e inversionistas empieza a surgir un consenso sobre los motivos detrás de las últimas decisiones del secretario del Tesoro: aliviar la presión sobre la deuda soberana estadounidense.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estados unidos",
-            "wall street",
-            "scott bessent"
-        ],
-        "creator": [
-            "ámbito.com"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:37:21",
-        "image_url": "https://media.ambito.com/p/4b4fcf974b80b71ceff20d43b1232bfc/adjuntos/239/imagenes/042/341/0042341170/1200x675/smart/scott-bessent-tesoro-estados-unidosjpg.jpg",
-        "video_url": null,
-        "source_id": "ambito",
-        "source_name": "Ambito",
-        "source_priority": 37705,
-        "source_url": "https://www.ambito.com",
-        "source_icon": "https://n.bytvi.com/ambito.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "美国国债面临压力：华尔街担心斯科特·贝森特的举动",
-        "description_zh": "交易员和投资者开始就财政部长最新决定背后的动机达成共识：减轻美国主权债务的压力。"
-    },
-    {
-        "article_id": "f4b960e2c0de15c81b20283dce53a009",
-        "link": "https://flipr.com.ar/nacionales/economia/mercado/la-inteligencia-artificial-se-quedo-sin-enchufe-nvidia-empieza-a-invertir-en-la-red-electrica/",
-        "title": "La inteligencia artificial se quedó sin enchufe: Nvidia empieza a invertir en la red eléctrica",
-        "description": "La compañía negocia invertir hasta US$ 3.000 millones en Lancium, desarrolladora de infraestructura eléctrica para centros de datos en Texas....",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "inteligencia artificial",
-            "economía"
-        ],
-        "creator": [
-            "mercado.com.ar"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-10 14:07:56",
+        "pubDate": "2026-08-11 14:26:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:17:48",
-        "image_url": "https://mercadoladevcentral.blob.core.windows.net/media-dev-central/IMG_3697-scaled-1200x630.jpg",
+        "fetched_at": "2026-08-11 18:04:36",
+        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2026/04/14/1200x900/1a8b33ff71bfc4269d06193fcc94bfea-capitalnews-com-br.jpg",
         "video_url": null,
-        "source_id": "flipr_ar",
-        "source_name": "Flipr.news",
-        "source_priority": 459507,
-        "source_url": "https://flipr.com.ar",
-        "source_icon": "https://n.bytvi.com/flipr_ar.png",
+        "source_id": "capitalnews",
+        "source_name": "Capital News",
+        "source_priority": 505998,
+        "source_url": "https://www.capitalnews.com.br",
+        "source_icon": "https://n.bytvi.com/capitalnews.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -238,62 +121,65 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "人工智能没了插头：英伟达开始投资电网",
-        "description_zh": "该公司正在谈判向德克萨斯州数据中心电气基础设施开发商 Lancium 投资至多 30 亿美元。"
+        "title_zh": "MPMS 决定大坎普商会要求重新选举董事会",
+        "description_zh": "MPMS（南马托格罗索州公共部）通知大坎普市议会在 30 天内确定众议院董事会选举的新日期。"
     },
     {
-        "article_id": "eac0e9dc92c79760fa7d14978617fb88",
-        "link": "https://www.espn.com.br/futebol/real-madrid/artigo/_/id/17101057/endrick-camisa-9-real-madrid-divulga-numeracao-oficial-temporada-veja-relacao-completa",
-        "title": "Com Endrick camisa 9, Real Madrid divulga numeração oficial para a temporada; veja relação completa",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:07:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:07:56",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "espnbz",
-        "source_name": "Espn",
-        "source_priority": 38193,
-        "source_url": "https://www.espn.com.br",
-        "source_icon": "https://n.bytvi.com/espnbz.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "皇马发布了本赛季官方号码，恩德里克身披9号球衣；查看完整列表",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "04db8f5e5756faf25fc4e7acb232d267",
-        "link": "https://www.correiodobrasil.com.br/a/queda-energia-interrompe-operacao-cedae-caxias",
-        "title": "Queda de energia interrompe operação da Cedae em Caxias",
-        "description": "Segundo a Companhia Estadual de Águas e Esgotos do Rio (Cedae), a paralisação começou à 1h e foi provocada por um problema na rede da concessionária Enel.",
+        "article_id": "ca34231631de8563d1d47b5b588b20b0",
+        "link": "https://www.minutouno.com/espectaculos/soda-stereo-ecos-celebra-el-cumpleanos-gustavo-cerati-y-estrena-entre-canibales-como-conseguir-entradas-n6309455",
+        "title": "Soda Stereo ECOS celebra el cumpleaños de Gustavo Cerati y estrena \"Entre Caníbales\": cómo conseguir entradas",
+        "description": "El espectacular show inmersivo de Soda Stereo Ecos preparó una emotiva sorpresa para celebrar el cumpleaños de Gustavo Cerati en el Arena de Buenos Aires.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "operação",
-            "cedae",
-            "caxias",
-            "últimas notícias",
-            "destaque do dia",
-            "energia",
-            "rio de janeiro"
+            "espectáculos"
         ],
         "creator": [
-            "cdb"
+            "minutouno"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:26:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 14:39:36",
+        "image_url": "https://media.minutouno.com/p/cc5861abd86049db52a1073a0dba75f4/adjuntos/150/imagenes/043/574/0043574725/1200x675/smart/soda-stereo-ecos-celebra-el-cumpleanos-gustavo-cerati-y-estrena-entre-canibales-como-conseguir-entradas.jpg",
+        "video_url": null,
+        "source_id": "minutouno",
+        "source_name": "Minutouno",
+        "source_priority": 33172,
+        "source_url": "https://www.minutouno.com",
+        "source_icon": "https://n.bytvi.com/minutouno.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Soda Stereo ECOS 庆祝 Gustavo Cerati 生日并首映《Entre Caníbales》：如何获取门票",
+        "description_zh": "Soda Stereo Ecos 的精彩沉浸式表演为在布宜诺斯艾利斯竞技场庆祝 Gustavo Cerati 的生日准备了一场情感惊喜。"
+    },
+    {
+        "article_id": "2dea367659cc2b994a894719e729b556",
+        "link": "https://www.em.com.br/gerais/2026/08/7477838-video-queda-de-arvore-bloqueia-cruzamento-na-savassi-e-atinge-veiculos.html",
+        "title": "Vídeo: queda de árvore bloqueia cruzamento na Savassi e atinge veículos",
+        "description": "Incidente na esquina da Rua Sergipe com a Avenida Cristóvão Colombo atingiu um caminhão, uma moto e a rede elétrica",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "savassi",
+            "árvore",
+            "queda",
+            "bloqueia",
+            "bombeiros",
+            "bh"
+        ],
+        "creator": [
+            "cauê siwek*"
         ],
         "language": "portuguese",
         "country": [
@@ -304,16 +190,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-10 14:07:55",
+        "pubDate": "2026-08-11 14:26:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 17:17:42",
-        "image_url": "https://correiodobrasil.com.br/img/1815348_big-cedae.jpg",
+        "fetched_at": "2026-08-11 17:36:48",
+        "image_url": "https://midias.em.com.br/_midias/jpg/2026/08/11/1600x900/1_whatsapp-image-2026-08-11-at-13-18-27-67388282.jpeg",
         "video_url": null,
-        "source_id": "correiodobrasil_br",
-        "source_name": "Correio Do Brasil",
-        "source_priority": 672908,
-        "source_url": "https://www.correiodobrasil.com.br",
-        "source_icon": "https://n.bytvi.com/correiodobrasil_br.png",
+        "source_id": "estadodeminas",
+        "source_name": "Jornal Estado De Minas",
+        "source_priority": 6179,
+        "source_url": "https://www.em.com.br",
+        "source_icon": "https://n.bytvi.com/estadodeminas.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -321,213 +207,219 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "卡希亚斯的 Cedae 停电中断",
-        "description_zh": "据里约州供水和污水处理公司（Cedae）称，罢工于凌晨 1 点开始，由 Enel 特许经营网络出现问题引起。"
+        "title_zh": "视频：萨瓦西的倒下的树堵塞了十字路口并击中了车辆",
+        "description_zh": "发生在 Rua Sergipe 和 Avenida Cristóvão Colombo 拐角处的事故影响了一辆卡车、一辆摩托车和电网"
     },
     {
-        "article_id": "6764c8fe769e82b7848023863ba87976",
-        "link": "https://veja.abril.com.br/economia/ibovespa-opera-perto-da-estabilidade-com-mercado-a-espera-da-inflacao-nos-eua/",
-        "title": "Ibovespa opera em queda com mercado à espera da inflação nos EUA",
-        "description": "Mercado aguarda dados de inflação dos EUA e monitora tensões no Oriente Médio antes de definir os próximos movimentos",
+        "article_id": "23bd29291b6262ffb5ce0a8a8876a2a8",
+        "link": "https://istoe.com.br/donald-trump-defende-infantino-fifa",
+        "title": "“Donald Trump defende Infantino: “Fifa cometerá erro terrível””",
+        "description": "Donald Trump defende Gianni Infantino, presidente da Fifa, alertando que substituí-lo seria um \"erro terrível\". A declaração surge em meio a pressões pelo plano fracassado de venda da Copa do Mundo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "economia",
-            "ibovespa",
-            "bolsa de valores",
-            "ações (finanças)"
+            "gianni infantino",
+            "estados unidos",
+            "esportes",
+            "futebol",
+            "donald trump",
+            "fifa",
+            "esporte",
+            "copa do mundo",
+            "uefa",
+            "política"
         ],
         "creator": [
-            "carolina ferraz"
+            "istoé news"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:07:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:32:42",
-        "image_url": "https://veja.abril.com.br/wp-content/uploads/2024/07/GettyImages-1140298850-e1752871313238.jpg?quality=70&strip=info",
-        "video_url": null,
-        "source_id": "veja_abril_br",
-        "source_name": "Veja",
-        "source_priority": 5562,
-        "source_url": "https://veja.abril.com.br",
-        "source_icon": "https://n.bytvi.com/veja_abril_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Ibovespa 经营下滑，市场等待美国通胀",
-        "description_zh": "市场等待美国通胀数据并监测中东紧张局势，然后再确定下一步行动"
-    },
-    {
-        "article_id": "aae36aa7904b3bbb1156021f7cef2c6b",
-        "link": "https://www.acidadeon.com/tudoep/epgames/noticias/demons-of-asteborg-sucesso-indie-16-bits-esta-em-pre-venda/",
-        "title": "Demons of Asteborg, sucesso indie 16-bits, está em pré-venda",
-        "description": "O post Demons of Asteborg, sucesso indie 16-bits, está em pré-venda apareceu primeiro em Tudo EP . Com mídias físicas para sistemas retrô, versões especiais, itens para colecionadores e mais, Demons of Asteborg chega ao país pela publisher VERSÃO O post Demons of Asteborg, sucesso indie 16-bits, está em pré-venda apareceu primeiro em Tudo EP .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "pré-venda",
-            "notícias",
-            "game",
-            "16-bit",
-            "jogo",
-            "demons of asteborg"
-        ],
-        "creator": [
-            "ricardo filinto"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-10 14:07:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:44:06",
-        "image_url": "https://www.acidadeon.com/tudoep/wp-content/uploads/sites/10/2026/08/unnamed-2026-08-10T110420.538.jpg",
-        "video_url": "https://www.youtube.com/watch?v=tSAK_NreJM4",
-        "source_id": "acidadeon",
-        "source_name": "Acidade On",
-        "source_priority": 166626,
-        "source_url": "https://www.acidadeon.com",
-        "source_icon": "https://n.bytvi.com/acidadeon.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "16 位独立热门游戏《阿斯特堡的恶魔》现已接受预订",
-        "description_zh": "《阿斯特堡的恶魔》是一款 16 位独立热门游戏，现已开始预订，首先在 Tudo EP 上发布。凭借复古系统的物理媒体、特殊版本、收藏品等，《阿斯特堡的恶魔》由出版商 VERSION 登陆该国。阿斯特堡的恶魔，独立成功 16-b"
-    },
-    {
-        "article_id": "6540d489c9400edf82e74b5f9b9f8530",
-        "link": "https://diario.mx/internacional/2026/aug/10/se-registra-sismo-de-74-en-colombia-1132435.html",
-        "title": "Se registra sismo de 7.4 en Colombia",
-        "description": "Un fuerte terremoto sacudió este lunes a Colombia y se sintió con fuerza en grandes ciudades como Bogotá y Cali",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "internacional"
-        ],
-        "creator": [
-            "agencia reforma"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:07:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:34:45",
-        "image_url": "https://diario.mx/core/dmx/assets/images/2026/08/10/colombia-vSNio9mHa.jpg",
-        "video_url": null,
-        "source_id": "diario",
-        "source_name": "El Diario",
-        "source_priority": 14955,
-        "source_url": "https://diario.mx",
-        "source_icon": "https://n.bytvi.com/diario.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "哥伦比亚发生7.4级地震",
-        "description_zh": "哥伦比亚本周一发生强烈地震，波哥大和卡利等大城市震感强烈"
-    },
-    {
-        "article_id": "356ab01f48e020bef3a80782187af0a0",
-        "link": "https://www.pulzo.com/nacion/video-aeropuerto-pereira-derrumbo-fuerte-temblor-asi-hoy-PP5269944",
-        "title": "[Video] Aeropuerto de Pereira se derrumbó en fuerte temblor: situación del Eje Cafetero es preocupante",
-        "description": "[Video] Aeropuerto de Pereira se derrumbó en fuerte temblor: así está hoy | Las imágenes asombran.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "risaralda",
-            "terremoto",
-            "temblor",
-            "sismo"
-        ],
-        "creator": [
-            "redacción nación"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "domestic"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:07:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:09:52",
-        "image_url": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5269944-h-o.webp",
-        "video_url": null,
-        "source_id": "pulzo",
-        "source_name": "Pulzo",
-        "source_priority": 81875,
-        "source_url": "https://www.pulzo.com",
-        "source_icon": "https://n.bytvi.com/pulzo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "【视频】佩雷拉机场强震倒塌：咖啡区局势堪忧",
-        "description_zh": "【视频】佩雷拉机场在强烈地震中倒塌：今天就是这样|这些图像令人惊叹。"
-    },
-    {
-        "article_id": "20f00a1c438d6e65dac44ac0d3bc9853",
-        "link": "https://www.infobae.com/estados-unidos/2026/08/10/el-triatlon-de-nueva-york-regresara-luego-de-estar-cancelado-hace-anos-que-hay-que-saber/",
-        "title": "El triatlón de Nueva York regresará luego de estar cancelado hace años: qué hay que saber",
-        "description": "La ciudad volverá a recibir una competencia de natación, ciclismo y pedestrismo luego de varias interrupciones, con formato sprint y olímpico, nuevo operador y controles sobre el agua del río Hudson",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estados unidos noticias",
-            "triatlón",
-            "manhattan",
-            "nueva york"
-        ],
-        "creator": [
-            "osvaldo ortiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "colombia",
-            "united states of america"
         ],
         "category": [
             "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-10 14:07:43",
+        "pubDate": "2026-08-11 14:26:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:32:04",
-        "image_url": "https://www.infobae.com/resizer/v2/ARAVA44J4RD5BGN7CB6GDOFLZE.png?auth=45b2cca90ab8439a6d41ab522a21e785c6a6b32528a11ae137db7036a783b9c8&smart=true&width=1372&height=807",
+        "fetched_at": "2026-08-11 15:17:59",
+        "image_url": "https://istoe.com.br/wp-content/uploads/2026/08/Encontro-presidencial-com-bola-da-FIFA-1200x630.jpg",
+        "video_url": null,
+        "source_id": "istoe",
+        "source_name": "Istoé Independente",
+        "source_priority": 239209,
+        "source_url": "https://istoe.com.br",
+        "source_icon": "https://n.bytvi.com/istoe.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“唐纳德·特朗普为因凡蒂诺辩护：“国际足联将犯一个可怕的错误”",
+        "description_zh": "唐纳德·特朗普为国际足联主席詹尼·因凡蒂诺辩护，警告说取代他将是一个“可怕的错误”。这一声明是在因出售世界杯失败的计划而面临压力之际发表的。"
+    },
+    {
+        "article_id": "d0a0f7718db83b41c9ce1cb2e3a27820",
+        "link": "https://www.losandes.com.ar/tecno/adios-la-trampa-claude-suma-marcas-agua-invisibles-y-ya-no-sera-tan-facil-copiar-y-pegar-n6001849",
+        "title": "Adiós a la \"trampa\": Claude suma marcas de agua invisibles y ya no será tan fácil copiar y pegar",
+        "description": "La medida busca cumplir con las nuevas normas de transparencia de la Unión Europea, pero igualmente se aplicará en todo el mundo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "tecno"
+        ],
+        "creator": [
+            "redacción tecno"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:26:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 14:43:55",
+        "image_url": "https://media.losandes.com.ar/p/e84682a7f2ba050f41ab30d6a0c4b8dd/adjuntos/368/imagenes/100/737/0100737106/1200x675/smart/claude.jpg",
+        "video_url": null,
+        "source_id": "losandes",
+        "source_name": "Los Andes",
+        "source_priority": 114641,
+        "source_url": "https://www.losandes.com.ar",
+        "source_icon": "https://n.bytvi.com/losandes.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "告别“陷阱”：克劳德添加隐形水印，复制粘贴不再那么容易",
+        "description_zh": "该措施旨在遵守欧盟新的透明度标准，但也将适用于全世界。"
+    },
+    {
+        "article_id": "d86ea6d8b08c5d41e976fef7e8c04d1a",
+        "link": "https://www.tudocelular.com/mercado/noticias/n260460/spacexai-cursor-lancam-grok-bot-colegas-trabalho.html",
+        "title": "Novo Grok Bot: SpaceXAI e Cursor criam app com 'colegas de IA' para trabalho real",
+        "description": "SpaceXAI e Cursor anunciam aplicativo em beta do Grok Bot, prometendo agentes autônomos para delegar tarefas do dia a dia no trabalho. Confira!",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "economia e mercado"
+        ],
+        "creator": [
+            "tudocelular.com"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:26:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 19:37:43",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "tudocelular",
+        "source_name": "Tudocelular.com",
+        "source_priority": 14359,
+        "source_url": "https://www.tudocelular.com",
+        "source_icon": "https://n.bytvi.com/tudocelular.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "新 Grok Bot：SpaceXAI 和 Cursor 与“AI 同事”一起创建用于实际工作的应用程序",
+        "description_zh": "SpaceXAI 和 Cursor 宣布推出 Grok Bot 测试版应用程序，承诺由自主代理委派日常工作任务。一探究竟！"
+    },
+    {
+        "article_id": "ed47d41c53c31508c840c60f503e20a4",
+        "link": "https://www.mixvale.com.br/2026/08/11/alerta-em-cidade-do-texas-apos-gata-vermelha-gerar-misterio/",
+        "title": "Alerta em cidade do Texas após “gata vermelha” gerar mistério",
+        "description": "Uma gata com a pelagem tingida de vermelho tem sido vista vagando por League City, no Texas, Estados Unidos, e motivou um alerta das autoridades locais. O League City Animal Care pediu aos moradores, na terça-feira, 11 de agosto de 2026, que não se aproximem do animal, nem ofereçam comida, para não atrapalhar os esforços [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "texas",
+            "resgate animal",
+            "gata vermelha",
+            "league city",
+            "mundo",
+            "maus-tratos"
+        ],
+        "creator": [
+            "janderson luiz"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:25:57",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 20:08:08",
+        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2026/08/gata-vermelha-League-City-Animal-Care-600x340.jpg",
+        "video_url": null,
+        "source_id": "mixvale",
+        "source_name": "Mix Vale",
+        "source_priority": 95409,
+        "source_url": "https://www.mixvale.com.br",
+        "source_icon": "https://n.bytvi.com/mixvale.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“红猫”神秘出现后，得克萨斯州城市发出警报",
+        "description_zh": "有人看到一只毛皮染成红色的猫在美国德克萨斯州利格城附近游荡，并引起了当地政府的警报。利格城动物护理中心于 2026 年 8 月 11 日星期二要求居民不要接近这只动物或向它提供食物。"
+    },
+    {
+        "article_id": "b1a42030f48c7ed03b3f74540ffe4425",
+        "link": "https://www.infobae.com/mexico/deportes/2026/08/11/fracaso-de-la-liga-mx-en-la-leagues-cup-2026-10-equipos-mexicanos-quedan-eliminados-antes-de-la-jornada-3/",
+        "title": "Fracaso de la Liga MX en la Leagues Cup 2026: 10 equipos mexicanos quedan eliminados antes de la Jornada 3",
+        "description": "El futbol de la MLS demostró que no está tan atrasado como se suele pensar en el futbol azteca",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "liga mx",
+            "chvias",
+            "leagues cup 2026",
+            "pumas",
+            "mexico-noticias",
+            "mexico-deportes"
+        ],
+        "creator": [
+            "mariana campos"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "united states of america",
+            "colombia",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:25:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 14:34:03",
+        "image_url": "https://www.infobae.com/resizer/v2/WOCH5L3ZGBH7TCK44SF2YPC34U.JPG?auth=460802cedda658d4c65ae64ac11964b0d4afd34c695442db301254e385768516&smart=true&width=4405&height=2937",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -541,22 +433,20 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "纽约铁人三项赛在几年前被取消后将回归：你需要知道什么",
-        "description_zh": "在几次中断后，该市将再次举办游泳、自行车和跑步比赛，包括短跑和奥林匹克赛制、新的运营商以及对哈德逊河水域的控制"
+        "title_zh": "2026 年墨西哥联赛杯失败：10 支墨西哥球队在第 3 比赛日之前被淘汰",
+        "description_zh": "美国职业大联盟足球表明，它并不像阿兹特克足球通常认为的那么落后。"
     },
     {
-        "article_id": "aa71cc3e020af1d96a88d6375ffd1f71",
-        "link": "https://www.poresto.com/internacional/2026/8/10/sismo-de-magnitud-74-sacude-colombia-reportan-danos-en-cali-manizales-y-pereira.html",
-        "title": "Sismo de magnitud 7.4 sacude Colombia; reportan daños en Cali, Manizales y Pereira",
-        "description": "Un sismo de magnitud 7.4 con epicentro en San José del Palmar, Chocó, sacudió Colombia este lunes. Autoridades reportan daños materiales y revisan posibles afectaciones.",
+        "article_id": "7fea88c733cf71246507575764f89350",
+        "link": "https://www.informador.mx/economia/dolar-hoy-martes-11-de-agosto-de-2026-asi-cotiza-el-billete-verde-frente-al-peso-mexicano-20260811-0040.html",
+        "title": "Dólar hoy en México; así cotiza el billete verde este martes 11 de agosto",
+        "description": "El valor del dólar se da luego de que los mercados mantienen la atención sobre la guerra entre Estados Unidos e Irán y la posibilidad de que ambos países alcancen un acuerdo que permita poner fin al conflicto",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "catástrofes naturales",
-            "sismos",
-            "internacional"
+            "economía"
         ],
         "creator": [
-            "israel olguín"
+            "el informador"
         ],
         "language": "spanish",
         "country": [
@@ -564,13 +454,208 @@
         ],
         "category": [
             "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:26:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 14:38:20",
+        "image_url": "https://www.informador.mx/__export/1786458282820/sites/elinformador/img/2026/08/11/dxlar_hoy_martes_11_de_agosto_de_2026_asx_cotiza_el_billete_verde_frente_al_peso_mexicano_version1786458281843.png_162987073.png",
+        "video_url": null,
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://n.bytvi.com/informador_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "今日墨西哥美元；这就是 8 月 11 日星期二美元的交易情况",
+        "description_zh": "在市场继续关注美国和伊朗之间的战争以及两国达成协议结束冲突的可能性之后，美元就会升值。"
+    },
+    {
+        "article_id": "624c531d47e92fc352f285ebf0339107",
+        "link": "https://24-horas.mx/estados/detienen-a-12-extorsionadores-de-aguacateros-y-ganaderos-en-michoacan/",
+        "title": "Detienen a 12 extorsionadores de aguacateros y ganaderos en Michoacán",
+        "description": "Omar García Harfuch informó la detención de 12 personas en Michoacán, por presunta extorsión a aguacateros, ganaderos y comerciantes.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "omar garcía harfuch",
+            "sector cárnico",
+            "uruapan",
+            "estados",
+            "extorsión en michoacán",
+            "detenciones",
+            "ganaderos",
+            "seguridad en michoacán",
+            "aguacateros",
+            "cateos"
+        ],
+        "creator": [
+            "karina aguilar"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:26:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 14:51:29",
+        "image_url": "https://bunny-wp-pullzone-szblh4ncqp.b-cdn.net/wp-content/uploads/mexico//2026/08/detienen-a-12-extorsionadores-de-aguacateros-y-ganaderos-en-michoacan.webp",
+        "video_url": null,
+        "source_id": "24horas",
+        "source_name": "24 Horas",
+        "source_priority": 469594,
+        "source_url": "https://www.24-horas.mx",
+        "source_icon": "https://n.bytvi.com/24horas.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他们逮捕了米却肯州牛油果种植者和牧场主的 12 名勒索者",
+        "description_zh": "奥马尔·加西亚·哈富奇 (Omar García Harfuch) 报道称，米却肯州有 12 人因涉嫌敲诈鳄梨种植者、牧场主和商人而被捕。"
+    },
+    {
+        "article_id": "b1a42030f48c7ed03b3f74540ffe4425",
+        "link": "https://www.infobae.com/mexico/deportes/2026/08/11/fracaso-de-la-liga-mx-en-la-leagues-cup-2026-10-equipos-mexicanos-quedan-eliminados-antes-de-la-jornada-3/",
+        "title": "Fracaso de la Liga MX en la Leagues Cup 2026: 10 equipos mexicanos quedan eliminados antes de la Jornada 3",
+        "description": "El futbol de la MLS demostró que no está tan atrasado como se suele pensar en el futbol azteca",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "liga mx",
+            "chvias",
+            "leagues cup 2026",
+            "pumas",
+            "mexico-noticias",
+            "mexico-deportes"
+        ],
+        "creator": [
+            "mariana campos"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "united states of america",
+            "colombia",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:25:56",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 14:34:03",
+        "image_url": "https://www.infobae.com/resizer/v2/WOCH5L3ZGBH7TCK44SF2YPC34U.JPG?auth=460802cedda658d4c65ae64ac11964b0d4afd34c695442db301254e385768516&smart=true&width=4405&height=2937",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "2026 年墨西哥联赛杯失败：10 支墨西哥球队在第 3 比赛日之前被淘汰",
+        "description_zh": "美国职业大联盟足球表明，它并不像阿兹特克足球通常认为的那么落后。"
+    },
+    {
+        "article_id": "053a4e4f81bfda66ba2083ec93b3660f",
+        "link": "https://www.vanguardia.com/colombia/2026/08/11/expertos-explican-por-que-el-terremoto-de-magnitud-74-fue-tan-devastador-en-colombia/",
+        "title": "Expertos explican por qué el terremoto de magnitud 7,4 fue tan devastador en Colombia",
+        "description": "El terremoto de magnitud 7,4 sorprendió por la magnitud de los daños pese a haberse originado a 103 kilómetros de profundidad. Expertos explican qué factores hicieron que el movimiento se sintiera con tanta intensidad en Colombia.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "terremoto",
+            "quindío",
+            "sismo",
+            "sismo en colombia",
+            "chocó",
+            "terremoto en colombia",
+            "pereira",
+            "ecuador",
+            "japón",
+            "venezuela",
+            "valle del cauca",
+            "armenia",
+            "chocó - colombia"
+        ],
+        "creator": [
+            "jaime moreno"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
             "environment"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-10 14:07:40",
+        "pubDate": "2026-08-11 14:25:50",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:23:19",
-        "image_url": "https://www.poresto.com/media/2026/8/10/las-primeras-evaluaciones-senalan-afectaciones-materiales-en-distintas-ciudades.jpg",
+        "fetched_at": "2026-08-11 14:38:09",
+        "image_url": "https://www.vanguardia.com/resizer/v2/6ALHT7UMTJALJFT3QYHEV3DC7E.jpg?auth=82a8a6eaf820c137c92a137ccce404bd3321d8be1598b429f4423c54aa6becb3&smart=true&width=7008&height=4672",
+        "video_url": null,
+        "source_id": "vanguardia",
+        "source_name": "Vanguardia",
+        "source_priority": 24302,
+        "source_url": "https://vanguardia.com.mx",
+        "source_icon": "https://n.bytvi.com/vanguardia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "专家解释哥伦比亚7.4级地震为何造成如此严重的破坏",
+        "description_zh": "尽管震源深度为 103 公里，但此次 7.4 级地震的破坏程度还是令人惊讶。专家们解释了是什么因素让哥伦比亚的这场运动如此强烈。"
+    },
+    {
+        "article_id": "ef4bb279fbd4304c5d0a558255a36636",
+        "link": "https://www.poresto.com/quintana-roo/riviera-maya/2026/8/11/casi-4-de-cada-10-habitantes-de-cozumel-viven-en-pobreza-equivale-al-396-por-ciento-de-la-poblacion.html",
+        "title": "Casi 4 de cada 10 habitantes de Cozumel viven en pobreza; equivale al al 39.6% de la población",
+        "description": "Informe de la Secretaría del Bienestar revela que 33 mil 411 personas carecen de seguridad social.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "riviera maya",
+            "noticias de cozumel",
+            "península de yucatán",
+            "quintana roo"
+        ],
+        "creator": [
+            "antonio blanco"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:25:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 14:56:18",
+        "image_url": "https://www.poresto.com/media/2026/8/11/casi-4-de-cada-10-habitantes-de-cozumel-viven-en-pobreza-equivale-al-al-396-de-la-poblacion.jpg",
         "video_url": null,
         "source_id": "poresto",
         "source_name": "Por Esto!",
@@ -584,40 +669,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "哥伦比亚发生7.4级地震；卡利、马尼萨莱斯和佩雷拉报告受损",
-        "description_zh": "周一，哥伦比亚发生了一场 7.4 级地震，震中位于乔科省圣何塞德尔帕尔马。当局报告物质损失并审查可能的影响。"
+        "title_zh": "科苏梅尔近十分之四的居民生活在贫困之中；相当于总人口的39.6%",
+        "description_zh": "福利部的报告显示，有33,411人缺乏社会保障。"
     },
     {
-        "article_id": "6866d2355eb5d05ecbf845f7b0e3260d",
-        "link": "https://www.infobae.com/america/america-latina/2026/08/10/alcalde-de-la-paz-denuncia-deficit-deuda-millonaria-y-12-presuntas-redes-de-corrupcion-en-la-gestion-anterior/",
-        "title": "Alcalde de La Paz denuncia déficit, deuda millonaria y 12 presuntas redes de corrupción en la gestión anterior",
-        "description": "César Dockweiler afirmó que heredó una administración marcada por presuntos hechos de corrupción, entre ellos empleados fantasma, contratos irregulares y mecanismos de extorsión",
+        "article_id": "9be54d49654a7d50c6305e25178a6a7c",
+        "link": "https://www.infobae.com/america/mundo/2026/08/11/la-unesco-incorporo-25-nuevos-sitios-al-patrimonio-de-la-humanidad-cuales-son-y-donde-estan/",
+        "title": "La UNESCO incorporó 25 nuevos sitios al Patrimonio de la Humanidad: cuáles son y dónde están",
+        "description": "El organismo sumó 19 espacios culturales, cinco naturales y uno mixto tras su reunión más reciente, con nuevas inscripciones en Japón, Finlandia, Grecia, Sudán del Sur y Estados Unidos",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "bolivia",
-            "cesar dockweiler",
-            "alcaldía de la paz",
-            "iván arias"
+            "patrimonio cultural",
+            "georgia",
+            "patrimonio de la humanidad",
+            "unesco",
+            "newsroom bue"
         ],
         "creator": [
-            "maría silvia trigo"
+            "ismael yasnikowski"
         ],
         "language": "spanish",
         "country": [
             "argentina",
-            "mexico",
+            "united states of america",
             "colombia",
-            "united states of america"
+            "mexico"
         ],
         "category": [
-            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-10 14:07:38",
+        "pubDate": "2026-08-11 14:25:45",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:32:04",
-        "image_url": "https://www.infobae.com/resizer/v2/QL3EDWBZ5FHMJFKFKB6MACOFKM.jpg?auth=02759abc5dae47e7e2806bf417af1542714fb0c25457b507e6efa1f1dff8897c&smart=true&width=4256&height=2841",
+        "fetched_at": "2026-08-11 14:34:03",
+        "image_url": "https://www.infobae.com/resizer/v2/HSRFLOOOARC6JMWPFLDBRNCK3A.png?auth=fadbed551bcc493d9d7f3b1912632cbd0a74b7cbdaa087793f12f8d619c0eea4&smart=true&width=2752&height=1536",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -631,95 +716,14 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "拉巴斯市长谴责上届政府的赤字、百万富翁债务和 12 个涉嫌腐败网络",
-        "description_zh": "塞萨尔·多克韦勒 (César Dockweiler) 确认，他继承的政府存在涉嫌腐败行为，包括幽灵雇员、不合规合同和敲诈勒索机制"
+        "title_zh": "联合国教科文组织将 25 个新地点列入世界遗产：它们是什么以及它们在哪里？",
+        "description_zh": "该组织在最近一次会议后增加了 19 个文化空间，其中 5 个是自然文化空间，1 个是混合文化空间，并在日本、芬兰、希腊、南苏丹和美国进行了新注册"
     },
     {
-        "article_id": "81a1435ac64396d5861d96318fc2fda2",
-        "link": "https://www.elplaneta.mx/?p=387603",
-        "title": "Las hojas de roble albergan mundos microbianos distintos en sus superficies opuestas",
-        "description": "Beijing, China, Asia.- Una sola hoja puede parecer una simple mancha verde, pero para la...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "principales",
-            "ciencia"
-        ],
-        "creator": [
-            "david zárate cruz"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "science"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:07:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:28:35",
-        "image_url": "https://www.elplaneta.mx/wp-content/themes/elplaneta/FOTOS/10C46795467867.jpg",
-        "video_url": null,
-        "source_id": "elplaneta",
-        "source_name": "Noticias Desde",
-        "source_priority": 12948006,
-        "source_url": "https://www.elplaneta.mx",
-        "source_icon": "https://n.bytvi.com/elplaneta.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "橡树叶的相对表面上有独特的微生物世界",
-        "description_zh": "北京，中国，亚洲。-一片叶子可能看起来像一个简单的绿点，但..."
-    },
-    {
-        "article_id": "515423a8f287d99d4e1230f2ce09613a",
-        "link": "https://www.marca.com/futbol/atletico/2026/08/10/molina-viaja-roma-cerrar-salida.html",
-        "title": "Molina viaja a Roma para cerrar su salida",
-        "description": "El argentino, con permiso del Atlético, ultima su regreso a la Serie A",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "atlético"
-        ],
-        "creator": [
-            "carlos fernández"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:07:24",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:32:43",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/08/10/6a79d974ae87e.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "莫利纳前往罗马关闭出口",
-        "description_zh": "阿根廷人在马竞的许可下最终重返意甲"
-    },
-    {
-        "article_id": "bec346e31be78b8263aa8d4d2b531d51",
-        "link": "https://actualidad.rt.com/actualidad/621511-putin-palabra-solicitud-escolar-piloto",
-        "title": "Putin responde con una palabra a solicitud de escolar que sueña con ser piloto",
-        "description": "Un estudiante de octavo grado pidió ayuda al presidente ruso para ingresar a la Escuela Militar Suvorov de Irkutsk.",
+        "article_id": "e789c46dd70f0c868c4ccb5b3aad0e68",
+        "link": "https://actualidad.rt.com/actualidad/621720-cortar-nino-ruso-cuenta-heridas-ataque-kiev",
+        "title": "\"Me cortaron más que a todos\": desgarrador relato de un niño que sobrevivió al terrorismo de Kiev",
+        "description": "Cuando la familia iba en la ambulancia, temía un nuevo golpe que pudiera alcanzar a los médicos.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
@@ -730,14 +734,14 @@
             "mexico"
         ],
         "category": [
-            "top",
-            "education"
+            "crime",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-10 14:07:19",
+        "pubDate": "2026-08-11 14:25:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:35:15",
-        "image_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a79da5be9ff7102ba0e604f.jpg",
+        "fetched_at": "2026-08-11 14:37:31",
+        "image_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7b1876e9ff7155de08c0be.jpg",
         "video_url": null,
         "source_id": "rt_mx",
         "source_name": "Rt",
@@ -751,83 +755,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "普京对一名梦想成为飞行员的小学生的要求一言以蔽之",
-        "description_zh": "一名八年级学生请求俄罗斯总统帮助进入伊尔库茨克苏沃洛夫军校。"
+        "title_zh": "“他们比任何人都更伤害我”：一个男孩在基辅恐怖主义中幸存下来的令人心碎的故事",
+        "description_zh": "当家人在救护车上时，他们担心医生会受到新的打击。"
     },
     {
-        "article_id": "f4c497552f58dde32648ced189192af0",
-        "link": "https://www.diarioestrategia.cl/texto-diario/mostrar/5980488/partido-gobierno-hungaro-elige-expresidente-supremo-andras-baka-como-nuevo-presidente-pais",
-        "title": "​El partido del Gobierno húngaro elige al expresidente del Supremo András Baka como nuevo presidente del país",
-        "description": "Baka será ratificado el martes por el Parlamento tras una votación puramente ceremonial",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "estrategia on line"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-10 14:07:19",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:14:58",
-        "image_url": "https://www.diarioestrategia.cl/images/showid/8094858",
-        "video_url": null,
-        "source_id": "diarioestrategia_cl",
-        "source_name": "Diario Estrategia",
-        "source_priority": 263817,
-        "source_url": "https://www.diarioestrategia.cl",
-        "source_icon": "https://n.bytvi.com/diarioestrategia_cl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "匈牙利政府党选举前最高法院院长安德拉斯·巴卡为国家新任主席",
-        "description_zh": "经过纯粹的仪式性投票后，巴卡将于周二获得议会批准"
-    },
-    {
-        "article_id": "6a03b492a8d4b7788504e5b69ec54624",
-        "link": "https://ladiscusion.cl/shoa-descarta-tsunami-para-costa-chilena-por-sismo-terremoto-7-4-en-colombia/",
-        "title": "SHOA descarta tsunami para costa chilena por terremoto 7.4 en Colombia",
-        "description": "Un fuerte terremoto de magnitud 7,4 se registró durante la mañana de este lunes en Colombia, generando preocupación por sus posibles efectos en otros países de la región. El movimiento se registró a las 8.34 horas unos cinco kilómetros al este de San José del Palmar, en el departamento de Chocó. Tras el evento, el [...]",
+        "article_id": "44a2afaa046671bf65aff9b7b143bfb8",
+        "link": "https://oem.com.mx/elsoldesanluis/local/gran-logia-el-potosi-conmemora-135-anos-y-estrecha-lazos-con-logias-de-mexico-31522650",
+        "title": "Gran Logia “El Potosí” conmemora 135 años y estrecha lazos con logias de México",
+        "description": "Representantes de grandes logias de distintos estados participaron en actividades culturales, encuentros institucionales y la firma de acuerdos de paz, amistad y reconocimiento masónico",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "tsunami",
-            "colombia",
-            "país",
-            "terremoto",
-            "shoa"
+            "local"
         ],
         "creator": [
-            "ladiscusion"
+            "patricia calvillo"
         ],
         "language": "spanish",
         "country": [
-            "chile"
+            "mexico"
         ],
         "category": [
             "top",
-            "environment"
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-10 14:07:11",
+        "pubDate": "2026-08-11 14:25:31",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-10 14:16:11",
-        "image_url": "https://ladiscusion.cl/wp-content/uploads/2025/07/tsunami-1.jpg",
+        "fetched_at": "2026-08-11 20:54:10",
+        "image_url": "https://oem.com.mx/elsoldesanluis/img/31524310/1786458189/BASE_LANDSCAPE/400/image.jpg",
         "video_url": null,
-        "source_id": "ladiscusion_cl",
-        "source_name": "Ladiscusion Cl",
-        "source_priority": 338295,
-        "source_url": "https://www.ladiscusion.cl",
-        "source_icon": "https://n.bytvi.com/ladiscusion_cl.png",
+        "source_id": "elsoldesanluis_mx",
+        "source_name": "Elsoldesanluis Mx",
+        "source_priority": 972129,
+        "source_url": "https://www.elsoldesanluis.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldesanluis_mx_.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -835,7 +796,91 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "SHOA排除哥伦比亚7.4级地震导致智利海岸发生海啸的可能性",
-        "description_zh": "周一上午，哥伦比亚发生了 7.4 级强烈地震，引发人们对其可能对该地区其他国家造成影响的担忧。此次活动记录于上午 8 点 34 分，位于圣何塞德尔帕尔马以东约 5 公里处，位于 Ch 省。"
+        "title_zh": "Grand Lodge “El Potosí” 纪念 135 周年并加强与墨西哥旅馆的联系",
+        "description_zh": "各州大会所代表参加文化活动、机构会议并签署和平、友谊和共济会认可协议"
+    },
+    {
+        "article_id": "9bd1d862be3eaf00d45f7a65f494cff8",
+        "link": "https://www.semana.com/politica/articulo/gobierno-nacional-firmo-decreto-que-pone-en-encargo-al-ministro-del-interior-rodrigo-lara-como-director-de-la-unp/202628/",
+        "title": "Gobierno nacional firmó decreto que deja encargado al ministro del Interior, Rodrigo Lara, como director de la UNP",
+        "description": "El funcionario seguirá al frente de la cartera política.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "gobierno",
+            "unidad nacional de protección"
+        ],
+        "creator": [
+            "nicolás méndez galvis"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:25:28",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 14:37:43",
+        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/PW6FVLKPLVHI7BBZHQ6GN3LALU.jpeg?auth=02ecf1cc0d4b5d76e9d25d4fdf0e6d792367ffac22c36b7ffe05b4af2cc147b8&smart=true&width=5088&height=3392",
+        "video_url": null,
+        "source_id": "semana",
+        "source_name": "Semana",
+        "source_priority": 15867,
+        "source_url": "https://www.semana.com",
+        "source_icon": "https://n.bytvi.com/semana.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "国家政府签署了一项法令，由内政部长罗德里戈·拉拉 (Rodrigo Lara) 担任统一国民党 (UNP) 主任",
+        "description_zh": "该官员将继续领导政治事务。"
+    },
+    {
+        "article_id": "a8703399ff334073cfc5bee5b2f67692",
+        "link": "https://www.proceso.com.mx/internacional/2026/8/11/trump-reduce-de-18-a-11-las-vacunas-infantiles-recomendadas-para-todos-los-ninos-en-eu-377835.html",
+        "title": "Trump reduce de 18 a 11 las vacunas infantiles recomendadas para todos los niños en EU",
+        "description": "Para la Administración Trump, la reducción ahora recomendada supone reafirmar el compromiso \"con la ciencia de máxima calidad, garantizando que los estadounidenses reciban el mejor asesoramiento médico posible y brindando a pacientes y médicos la máxima flexibilidad\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "vacunas",
+            "trump",
+            "estados unidos"
+        ],
+        "creator": [
+            "europa press"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-11 14:25:23",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-11 14:40:20",
+        "image_url": "https://assets.proceso.com.mx/img/1786458115844-tpicp7.jpg",
+        "video_url": null,
+        "source_id": "proceso",
+        "source_name": "Proceso",
+        "source_priority": 47805,
+        "source_url": "https://www.proceso.com.mx",
+        "source_icon": "https://n.bytvi.com/proceso.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "特朗普将美国所有儿童的推荐儿童疫苗接种量从 18 岁减少到 11 岁",
+        "description_zh": "对于特朗普政府来说，现在建议的削减意味着重申“对最高质量的科学的承诺，确保美国人获得尽可能最好的医疗建议，并为患者和医生提供最大的灵活性”。"
     }
 ]
