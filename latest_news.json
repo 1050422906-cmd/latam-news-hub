@@ -1,80 +1,41 @@
 [
     {
-        "article_id": "0bdbf7cb2ae0c3f0e6f5225a5576d68c",
-        "link": "https://www.dgabc.com.br/Noticia/4340519/parque-da-turma-da-monica-dara-desconto-para-quem-tomar-vacina-de-sarampo",
-        "title": "Parque da Turma da Mônica dará desconto para quem tomar vacina de sarampo",
-        "description": "Promoção será válida de quarta a sexta-feira, até o dia 21 de agosto, para quem apresentar a carteirinha de vacinação na compra na bilheteria",
+        "article_id": "3cb3a45b25dacf9116006f16c609e6b6",
+        "link": "https://www.malargueadiario.com/nomade-by-malargue-la-apuesta-de-tres-amigos-que-une-buena-cocina-cultura-y-trabajo-local/",
+        "title": "NOMADE by Malargüe: la apuesta de tres amigos que une buena cocina, cultura y trabajo local",
+        "description": "Ubicado en Av. San Martín (N) 886, el nuevo espacio gastronómico recupera un lugar emblemático de la ciudad. Con el chivito libre como gran estrella, cocina de corrido y un escenario para espectáculos, Marcelo Moyano, Daniel Guerrero y Marcelo Aballay concretaron un proyecto pensado para el vecino y el turista. La entrada NOMADE by Malargüe: la apuesta de tres amigos que une buena cocina, cultura y trabajo local se publicó primero en Malargüe a Diario .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cultura & lazer"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "health"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:26:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 15:28:18",
-        "image_url": "https://www.dgabc.com.br/Imagens/Home/Index/2026811112713.jpg?altura=100",
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://n.bytvi.com/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Parque da Turma da Mônica 将为接种麻疹疫苗的人提供折扣",
-        "description_zh": "促销有效期为周三至周五，直至 8 月 21 日，凡在售票处出示疫苗接种卡的人士"
-    },
-    {
-        "article_id": "95098d3a5b283d9f2fc3ba7cc2e03613",
-        "link": "https://www.lagaceta.com.ar/nota/1149162/espectaculos/l-mato-policia-motorizado-vuelve-tucuman-cuanto-cuesta-entrada-donde-comprarla.html",
-        "title": "Él Mató a un Policía Motorizado vuelve a Tucumán: cuánto cuesta la entrada y dónde comprarla",
-        "description": "La banda liderada por Santiago Motorizado se presentará en el Palacio de los Deportes. La entrada general ya está a la venta.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tucumán",
-            "san miguel de tucumán",
-            "jóvenes",
-            "espectáculos",
-            "guía para salir",
-            "argentina",
-            "palacio de los deportes"
+            "gastronomía",
+            "sociedad",
+            "marcelo moyano",
+            "daniel guerrero",
+            "marcelo aballay",
+            "turismo",
+            "malargüe"
         ],
         "creator": [
-            "victoria  reinoso"
+            "gustavo yañez"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top",
-            "entertainment"
+            "food",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-11 14:26:00",
+        "pubDate": "2026-08-12 14:26:59",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 17:55:51",
-        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/08/10/el-mat-a-un-polica-motorizado-grupo-platense-prepara-nueva-fecha-provincia-despues-ano-marcado-sus-presentaciones-internacionales-celebracion-de-1149162-124616.png",
+        "fetched_at": "2026-08-12 14:29:42",
+        "image_url": "https://www.malargueadiario.com/wp-content/uploads/2026/08/nomade-by-1.jpg",
         "video_url": null,
-        "source_id": "lagaceta_ar",
-        "source_name": "Lagaceta",
-        "source_priority": 975335,
-        "source_url": "https://www.lagaceta.com.ar",
-        "source_icon": "https://n.bytvi.com/LaGaceta_Ar.png",
+        "source_id": "malargueadiario",
+        "source_name": "Malargüe A Diario",
+        "source_priority": 3316844,
+        "source_url": "https://www.malargueadiario.com",
+        "source_icon": "https://n.bytvi.com/malargueadiario.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -82,18 +43,27 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他杀死了一名机动警察返回图库曼：票价是多少以及在哪里购买",
-        "description_zh": "由 Santiago Motorizado 领导的乐队将在 Palacio de los Deportes 演出。普通门票现已发售。"
+        "title_zh": "Malargüe 的 NOMADE：三个朋友的赌注，将美食、文化和当地工作融为一体",
+        "description_zh": "位于Av。新的美食空间位于圣马丁 (N) 886，恢复了城市的标志性地位。马塞洛·莫亚诺 (Marcelo Moyano)、丹尼尔·格雷罗 (Daniel Guerrero) 和马塞洛·阿巴莱 (Marcelo Aballay) 为邻居设计了一个项目，以免费的 chivito 为主角、走廊厨房和表演舞台。"
     },
     {
-        "article_id": "dbb3eb35f25cd89e7447edf7f1875115",
-        "link": "https://www.capitalnews.com.br/politica-e-poder/judiciario/mpms-determina-que-camara-de-campo-grande-convoque-nova-eleicao-da-mesa-diretora/445168",
-        "title": "MPMS determina que Câmara de Campo Grande convoque nova eleição da Mesa Diretora",
-        "description": "O MPMS (Ministério Público do Estado de Mato Grosso do Sul) notificou a Câmara Municipal de Campo Grande para que seja marcada, em até 30 dias, uma nova data para a eleição da Mesa Diretora da Casa de Leis.",
+        "article_id": "cf709bf4a3bbe9e37e9c5819dd0b55b0",
+        "link": "https://www.mixvale.com.br/2026/08/12/bloqueio-de-bens-de-motoristas-embriagados-busca-garantir-indenizacao-a-vitimas/",
+        "title": "Bloqueio de bens de motoristas embriagados busca garantir indenização a vítimas",
+        "description": "Uma nova proposta legislativa em discussão na Câmara dos Deputados, apresentada prevê a autorização para o congelamento imediato do patrimônio de condutores alcoolizados ou sob influência de entorpecentes que provocarem acidentes com feridos ou mortos. A iniciativa tem como finalidade assegurar que as vítimas recebam verbas para cobrir tratamentos de saúde, reparações por danos e [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "acidente de trânsito",
+            "brasil",
+            "destaques",
+            "projeto de lei",
+            "câmara dos deputados",
+            "bloqueio de bens",
+            "indenização vítimas",
+            "motorista embriagado"
+        ],
         "creator": [
-            "joão gabriel vilalba"
+            "bruna"
         ],
         "language": "portuguese",
         "country": [
@@ -104,273 +74,10 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-11 14:26:00",
+        "pubDate": "2026-08-12 14:26:52",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 18:04:36",
-        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2026/04/14/1200x900/1a8b33ff71bfc4269d06193fcc94bfea-capitalnews-com-br.jpg",
-        "video_url": null,
-        "source_id": "capitalnews",
-        "source_name": "Capital News",
-        "source_priority": 505998,
-        "source_url": "https://www.capitalnews.com.br",
-        "source_icon": "https://n.bytvi.com/capitalnews.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "MPMS 决定大坎普商会要求重新选举董事会",
-        "description_zh": "MPMS（南马托格罗索州公共部）通知大坎普市议会在 30 天内确定众议院董事会选举的新日期。"
-    },
-    {
-        "article_id": "ca34231631de8563d1d47b5b588b20b0",
-        "link": "https://www.minutouno.com/espectaculos/soda-stereo-ecos-celebra-el-cumpleanos-gustavo-cerati-y-estrena-entre-canibales-como-conseguir-entradas-n6309455",
-        "title": "Soda Stereo ECOS celebra el cumpleaños de Gustavo Cerati y estrena \"Entre Caníbales\": cómo conseguir entradas",
-        "description": "El espectacular show inmersivo de Soda Stereo Ecos preparó una emotiva sorpresa para celebrar el cumpleaños de Gustavo Cerati en el Arena de Buenos Aires.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "espectáculos"
-        ],
-        "creator": [
-            "minutouno"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:26:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:39:36",
-        "image_url": "https://media.minutouno.com/p/cc5861abd86049db52a1073a0dba75f4/adjuntos/150/imagenes/043/574/0043574725/1200x675/smart/soda-stereo-ecos-celebra-el-cumpleanos-gustavo-cerati-y-estrena-entre-canibales-como-conseguir-entradas.jpg",
-        "video_url": null,
-        "source_id": "minutouno",
-        "source_name": "Minutouno",
-        "source_priority": 33172,
-        "source_url": "https://www.minutouno.com",
-        "source_icon": "https://n.bytvi.com/minutouno.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Soda Stereo ECOS 庆祝 Gustavo Cerati 生日并首映《Entre Caníbales》：如何获取门票",
-        "description_zh": "Soda Stereo Ecos 的精彩沉浸式表演为在布宜诺斯艾利斯竞技场庆祝 Gustavo Cerati 的生日准备了一场情感惊喜。"
-    },
-    {
-        "article_id": "2dea367659cc2b994a894719e729b556",
-        "link": "https://www.em.com.br/gerais/2026/08/7477838-video-queda-de-arvore-bloqueia-cruzamento-na-savassi-e-atinge-veiculos.html",
-        "title": "Vídeo: queda de árvore bloqueia cruzamento na Savassi e atinge veículos",
-        "description": "Incidente na esquina da Rua Sergipe com a Avenida Cristóvão Colombo atingiu um caminhão, uma moto e a rede elétrica",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "savassi",
-            "árvore",
-            "queda",
-            "bloqueia",
-            "bombeiros",
-            "bh"
-        ],
-        "creator": [
-            "cauê siwek*"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:26:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 17:36:48",
-        "image_url": "https://midias.em.com.br/_midias/jpg/2026/08/11/1600x900/1_whatsapp-image-2026-08-11-at-13-18-27-67388282.jpeg",
-        "video_url": null,
-        "source_id": "estadodeminas",
-        "source_name": "Jornal Estado De Minas",
-        "source_priority": 6179,
-        "source_url": "https://www.em.com.br",
-        "source_icon": "https://n.bytvi.com/estadodeminas.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "视频：萨瓦西的倒下的树堵塞了十字路口并击中了车辆",
-        "description_zh": "发生在 Rua Sergipe 和 Avenida Cristóvão Colombo 拐角处的事故影响了一辆卡车、一辆摩托车和电网"
-    },
-    {
-        "article_id": "23bd29291b6262ffb5ce0a8a8876a2a8",
-        "link": "https://istoe.com.br/donald-trump-defende-infantino-fifa",
-        "title": "“Donald Trump defende Infantino: “Fifa cometerá erro terrível””",
-        "description": "Donald Trump defende Gianni Infantino, presidente da Fifa, alertando que substituí-lo seria um \"erro terrível\". A declaração surge em meio a pressões pelo plano fracassado de venda da Copa do Mundo.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "gianni infantino",
-            "estados unidos",
-            "esportes",
-            "futebol",
-            "donald trump",
-            "fifa",
-            "esporte",
-            "copa do mundo",
-            "uefa",
-            "política"
-        ],
-        "creator": [
-            "istoé news"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:26:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 15:17:59",
-        "image_url": "https://istoe.com.br/wp-content/uploads/2026/08/Encontro-presidencial-com-bola-da-FIFA-1200x630.jpg",
-        "video_url": null,
-        "source_id": "istoe",
-        "source_name": "Istoé Independente",
-        "source_priority": 239209,
-        "source_url": "https://istoe.com.br",
-        "source_icon": "https://n.bytvi.com/istoe.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“唐纳德·特朗普为因凡蒂诺辩护：“国际足联将犯一个可怕的错误”",
-        "description_zh": "唐纳德·特朗普为国际足联主席詹尼·因凡蒂诺辩护，警告说取代他将是一个“可怕的错误”。这一声明是在因出售世界杯失败的计划而面临压力之际发表的。"
-    },
-    {
-        "article_id": "d0a0f7718db83b41c9ce1cb2e3a27820",
-        "link": "https://www.losandes.com.ar/tecno/adios-la-trampa-claude-suma-marcas-agua-invisibles-y-ya-no-sera-tan-facil-copiar-y-pegar-n6001849",
-        "title": "Adiós a la \"trampa\": Claude suma marcas de agua invisibles y ya no será tan fácil copiar y pegar",
-        "description": "La medida busca cumplir con las nuevas normas de transparencia de la Unión Europea, pero igualmente se aplicará en todo el mundo.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tecno"
-        ],
-        "creator": [
-            "redacción tecno"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:26:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:43:55",
-        "image_url": "https://media.losandes.com.ar/p/e84682a7f2ba050f41ab30d6a0c4b8dd/adjuntos/368/imagenes/100/737/0100737106/1200x675/smart/claude.jpg",
-        "video_url": null,
-        "source_id": "losandes",
-        "source_name": "Los Andes",
-        "source_priority": 114641,
-        "source_url": "https://www.losandes.com.ar",
-        "source_icon": "https://n.bytvi.com/losandes.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "告别“陷阱”：克劳德添加隐形水印，复制粘贴不再那么容易",
-        "description_zh": "该措施旨在遵守欧盟新的透明度标准，但也将适用于全世界。"
-    },
-    {
-        "article_id": "d86ea6d8b08c5d41e976fef7e8c04d1a",
-        "link": "https://www.tudocelular.com/mercado/noticias/n260460/spacexai-cursor-lancam-grok-bot-colegas-trabalho.html",
-        "title": "Novo Grok Bot: SpaceXAI e Cursor criam app com 'colegas de IA' para trabalho real",
-        "description": "SpaceXAI e Cursor anunciam aplicativo em beta do Grok Bot, prometendo agentes autônomos para delegar tarefas do dia a dia no trabalho. Confira!",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "economia e mercado"
-        ],
-        "creator": [
-            "tudocelular.com"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:26:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 19:37:43",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "tudocelular",
-        "source_name": "Tudocelular.com",
-        "source_priority": 14359,
-        "source_url": "https://www.tudocelular.com",
-        "source_icon": "https://n.bytvi.com/tudocelular.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "新 Grok Bot：SpaceXAI 和 Cursor 与“AI 同事”一起创建用于实际工作的应用程序",
-        "description_zh": "SpaceXAI 和 Cursor 宣布推出 Grok Bot 测试版应用程序，承诺由自主代理委派日常工作任务。一探究竟！"
-    },
-    {
-        "article_id": "ed47d41c53c31508c840c60f503e20a4",
-        "link": "https://www.mixvale.com.br/2026/08/11/alerta-em-cidade-do-texas-apos-gata-vermelha-gerar-misterio/",
-        "title": "Alerta em cidade do Texas após “gata vermelha” gerar mistério",
-        "description": "Uma gata com a pelagem tingida de vermelho tem sido vista vagando por League City, no Texas, Estados Unidos, e motivou um alerta das autoridades locais. O League City Animal Care pediu aos moradores, na terça-feira, 11 de agosto de 2026, que não se aproximem do animal, nem ofereçam comida, para não atrapalhar os esforços [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "texas",
-            "resgate animal",
-            "gata vermelha",
-            "league city",
-            "mundo",
-            "maus-tratos"
-        ],
-        "creator": [
-            "janderson luiz"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "world"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:25:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 20:08:08",
-        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2026/08/gata-vermelha-League-City-Animal-Care-600x340.jpg",
+        "fetched_at": "2026-08-12 14:43:41",
+        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2026/08/Motorista-embriagado-bebida-alcoolica-600x340.jpg",
         "video_url": null,
         "source_id": "mixvale",
         "source_name": "Mix Vale",
@@ -384,42 +91,84 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "“红猫”神秘出现后，得克萨斯州城市发出警报",
-        "description_zh": "有人看到一只毛皮染成红色的猫在美国德克萨斯州利格城附近游荡，并引起了当地政府的警报。利格城动物护理中心于 2026 年 8 月 11 日星期二要求居民不要接近这只动物或向它提供食物。"
+        "title_zh": "冻结醉酒司机的资产旨在保证受害者得到赔偿",
+        "description_zh": "众议院正在讨论的一项新立法提案规定，授权立即冻结因醉酒或吸毒而导致事故造成伤亡的司机的资产。该倡议旨在确保"
     },
     {
-        "article_id": "b1a42030f48c7ed03b3f74540ffe4425",
-        "link": "https://www.infobae.com/mexico/deportes/2026/08/11/fracaso-de-la-liga-mx-en-la-leagues-cup-2026-10-equipos-mexicanos-quedan-eliminados-antes-de-la-jornada-3/",
-        "title": "Fracaso de la Liga MX en la Leagues Cup 2026: 10 equipos mexicanos quedan eliminados antes de la Jornada 3",
-        "description": "El futbol de la MLS demostró que no está tan atrasado como se suele pensar en el futbol azteca",
+        "article_id": "c1cfc53d4935f1b6bad6bd85e9fa8488",
+        "link": "https://www.ole.com.ar/futbol-internacional/inglaterra/elogiable-iniciativa-manchester-city-hinchas_0_gEa97BkSfP.html",
+        "title": "La iniciativa del Manchester City con sus hinchas ante los precios de las entradas para los partidos",
+        "description": "El club inglés tendrá un gesto con los fanáticos que viven en los barrios cercanos al Etihad Stadium.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "liga mx",
-            "chvias",
-            "leagues cup 2026",
-            "pumas",
-            "mexico-noticias",
-            "mexico-deportes"
+            "manchester city",
+            "premier league"
         ],
         "creator": [
-            "mariana campos"
+            "www.ole.com.ar"
         ],
         "language": "spanish",
         "country": [
-            "argentina",
-            "united states of america",
-            "colombia",
-            "mexico"
+            "argentina"
         ],
         "category": [
-            "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-11 14:25:56",
+        "pubDate": "2026-08-12 14:26:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:34:03",
-        "image_url": "https://www.infobae.com/resizer/v2/WOCH5L3ZGBH7TCK44SF2YPC34U.JPG?auth=460802cedda658d4c65ae64ac11964b0d4afd34c695442db301254e385768516&smart=true&width=4405&height=2937",
+        "fetched_at": "2026-08-12 15:06:38",
+        "image_url": "https://www.ole.com.ar/images/2024/12/09/jNK78rRjp_1200x630__1.jpg",
+        "video_url": null,
+        "source_id": "ole_ar",
+        "source_name": "Ole Ar",
+        "source_priority": 13161,
+        "source_url": "https://www.ole.com.ar",
+        "source_icon": "https://n.bytvi.com/ole_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "曼城向球迷发起的关于比赛票价的倡议",
+        "description_zh": "英格兰俱乐部将向居住在阿提哈德体育场附近的球迷做出一个手势。"
+    },
+    {
+        "article_id": "daddf370da5f27900a3d95d24f366dff",
+        "link": "https://www.infobae.com/mexico/deportes/2026/08/12/conade-impulsa-el-boxeo-con-la-clase-nacional-punos-de-transformacion/",
+        "title": "CONADE impulsa el boxeo con la Clase Nacional “Puños de Transformación”",
+        "description": "La iniciativa busca acercar la actividad física a distintos sectores de la población y fortalecer la convivencia a través del deporte",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mexico-deportes",
+            "rommel pacheco",
+            "atletas mexicanos",
+            "boxeo",
+            "box",
+            "conade",
+            "mexico-noticias"
+        ],
+        "creator": [
+            "alexander ortiz"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "mexico",
+            "argentina",
+            "colombia"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:26:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 14:34:17",
+        "image_url": "https://www.infobae.com/resizer/v2/F374X3TZOZG5BJGPFCNSFKRMOQ.jpeg?auth=3b78f203eab352df2f60d19692b249d1aa98855a9d6ff40c332e2dc223c3ff75&smart=true&width=1559&height=1039",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -433,133 +182,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "2026 年墨西哥联赛杯失败：10 支墨西哥球队在第 3 比赛日之前被淘汰",
-        "description_zh": "美国职业大联盟足球表明，它并不像阿兹特克足球通常认为的那么落后。"
+        "title_zh": "CONADE通过国家级“转型之拳”推广拳击运动",
+        "description_zh": "该倡议旨在让体育活动更贴近不同人群，并通过体育加强共存。"
     },
     {
-        "article_id": "7fea88c733cf71246507575764f89350",
-        "link": "https://www.informador.mx/economia/dolar-hoy-martes-11-de-agosto-de-2026-asi-cotiza-el-billete-verde-frente-al-peso-mexicano-20260811-0040.html",
-        "title": "Dólar hoy en México; así cotiza el billete verde este martes 11 de agosto",
-        "description": "El valor del dólar se da luego de que los mercados mantienen la atención sobre la guerra entre Estados Unidos e Irán y la posibilidad de que ambos países alcancen un acuerdo que permita poner fin al conflicto",
+        "article_id": "b3175c7a444df2c736bcacc09cee0640",
+        "link": "https://www.infobae.com/estados-unidos/2026/08/12/un-caiman-de-casi-3-metros-ataco-a-una-mujer-mientras-nadaba-en-un-rio-de-florida-y-le-provoco-la-amputacion-de-un-brazo/",
+        "title": "Un caimán de casi 3 metros atacó a una mujer mientras nadaba en un río de Florida y le provocó la amputación de un brazo",
+        "description": "El hecho ocurrió el 8 de agosto en el condado de Marion, cerca de Ray Wayside Park, una zona frecuentada por personas que practican actividades acuáticas",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "economía"
+            "fauna silvestre",
+            "cocodrilos",
+            "estados unidos noticias",
+            "florida",
+            "animales"
         ],
         "creator": [
-            "el informador"
+            "maricielo grados córdova"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:26:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:38:20",
-        "image_url": "https://www.informador.mx/__export/1786458282820/sites/elinformador/img/2026/08/11/dxlar_hoy_martes_11_de_agosto_de_2026_asx_cotiza_el_billete_verde_frente_al_peso_mexicano_version1786458281843.png_162987073.png",
-        "video_url": null,
-        "source_id": "informador_mx",
-        "source_name": "Informador Mx",
-        "source_priority": 27025,
-        "source_url": "https://www.informador.mx",
-        "source_icon": "https://n.bytvi.com/informador_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "今日墨西哥美元；这就是 8 月 11 日星期二美元的交易情况",
-        "description_zh": "在市场继续关注美国和伊朗之间的战争以及两国达成协议结束冲突的可能性之后，美元就会升值。"
-    },
-    {
-        "article_id": "624c531d47e92fc352f285ebf0339107",
-        "link": "https://24-horas.mx/estados/detienen-a-12-extorsionadores-de-aguacateros-y-ganaderos-en-michoacan/",
-        "title": "Detienen a 12 extorsionadores de aguacateros y ganaderos en Michoacán",
-        "description": "Omar García Harfuch informó la detención de 12 personas en Michoacán, por presunta extorsión a aguacateros, ganaderos y comerciantes.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "omar garcía harfuch",
-            "sector cárnico",
-            "uruapan",
-            "estados",
-            "extorsión en michoacán",
-            "detenciones",
-            "ganaderos",
-            "seguridad en michoacán",
-            "aguacateros",
-            "cateos"
-        ],
-        "creator": [
-            "karina aguilar"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
+            "united states of america",
+            "mexico",
+            "argentina",
+            "colombia"
         ],
         "category": [
             "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-11 14:26:00",
+        "pubDate": "2026-08-12 14:26:46",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:51:29",
-        "image_url": "https://bunny-wp-pullzone-szblh4ncqp.b-cdn.net/wp-content/uploads/mexico//2026/08/detienen-a-12-extorsionadores-de-aguacateros-y-ganaderos-en-michoacan.webp",
-        "video_url": null,
-        "source_id": "24horas",
-        "source_name": "24 Horas",
-        "source_priority": 469594,
-        "source_url": "https://www.24-horas.mx",
-        "source_icon": "https://n.bytvi.com/24horas.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们逮捕了米却肯州牛油果种植者和牧场主的 12 名勒索者",
-        "description_zh": "奥马尔·加西亚·哈富奇 (Omar García Harfuch) 报道称，米却肯州有 12 人因涉嫌敲诈鳄梨种植者、牧场主和商人而被捕。"
-    },
-    {
-        "article_id": "b1a42030f48c7ed03b3f74540ffe4425",
-        "link": "https://www.infobae.com/mexico/deportes/2026/08/11/fracaso-de-la-liga-mx-en-la-leagues-cup-2026-10-equipos-mexicanos-quedan-eliminados-antes-de-la-jornada-3/",
-        "title": "Fracaso de la Liga MX en la Leagues Cup 2026: 10 equipos mexicanos quedan eliminados antes de la Jornada 3",
-        "description": "El futbol de la MLS demostró que no está tan atrasado como se suele pensar en el futbol azteca",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "liga mx",
-            "chvias",
-            "leagues cup 2026",
-            "pumas",
-            "mexico-noticias",
-            "mexico-deportes"
-        ],
-        "creator": [
-            "mariana campos"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "united states of america",
-            "colombia",
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:25:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:34:03",
-        "image_url": "https://www.infobae.com/resizer/v2/WOCH5L3ZGBH7TCK44SF2YPC34U.JPG?auth=460802cedda658d4c65ae64ac11964b0d4afd34c695442db301254e385768516&smart=true&width=4405&height=2937",
+        "fetched_at": "2026-08-12 14:34:17",
+        "image_url": "https://www.infobae.com/resizer/v2/LNCOTST7ZNGXLOOQ2PJBNEIVYA.png?auth=99f9297fa838bb06649a4cfea6e3e56be8cf4d330d3d87e23a3cf73c73206569&smart=true&width=1408&height=768",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
@@ -573,32 +230,604 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "2026 年墨西哥联赛杯失败：10 支墨西哥球队在第 3 比赛日之前被淘汰",
-        "description_zh": "美国职业大联盟足球表明，它并不像阿兹特克足球通常认为的那么落后。"
+        "title_zh": "一名女子在佛罗里达河中游泳时，一条近 3 米长的鳄鱼袭击了她，导致她手臂被截肢",
+        "description_zh": "这起事件于 8 月 8 日发生在马里恩县，靠近雷路赛德公园，这是人们经常进行水上活动的地区。"
     },
     {
-        "article_id": "053a4e4f81bfda66ba2083ec93b3660f",
-        "link": "https://www.vanguardia.com/colombia/2026/08/11/expertos-explican-por-que-el-terremoto-de-magnitud-74-fue-tan-devastador-en-colombia/",
-        "title": "Expertos explican por qué el terremoto de magnitud 7,4 fue tan devastador en Colombia",
-        "description": "El terremoto de magnitud 7,4 sorprendió por la magnitud de los daños pese a haberse originado a 103 kilómetros de profundidad. Expertos explican qué factores hicieron que el movimiento se sintiera con tanta intensidad en Colombia.",
+        "article_id": "29dc4dce58c92a930ba75ee590a05fe0",
+        "link": "https://tribunaonline.com.br/concursos/transpetro-abre-concurso-publico-com-281-vagas-e-salario-inicial-de-ate-r-15-mil-328239",
+        "title": "Transpetro abre concurso público com 281 vagas e salário inicial de até R$ 15 mil",
+        "description": "A Transpetro, empresa de transporte da Petrobras, anunciou concurso público com 281 vagas efetivas e 3.890 para criação de cadastro de reserva. São quatro editais, sendo dois direcionados a vagas em terra e dois a vagas em mar, todas regidas pela CLT (Consolidação das Leis do Trabalho).Interessados podem se inscrever entre esta quarta-feira (12) e 14 de setembro pelo site da Cesgranrio, banca organizadora do certame. Na primeira semana de inscrições, até 19 de agosto, doadores de medula óssea e pessoas de baixa renda cadastradas no Cadastro Único do governo federal podem pedir isenção da taxa, que é de R$ 81,50 para vagas de nível técnico e suboficiais e R$ 117 para vagas de nível superior e oficiais.Haverá reserva de 25% das vagas para negros 3% para indígenas e 2% para quilombolas. Nos cargos que tenham mais de cinco vagas, serão reservadas 10% das oportunidades a pessoas com deficiência.As provas, previstas para 29 de novembro, terão 70 questões objetivas para os cargos de nível superior ou oficial e 50 para os de nível médio ou suboficial. Candidatos a vagas com ênfase em advocacia farão duas questões discursivas.Para as vagas de mar, será aplicado, em 30 e 31 de janeiro de 2027, teste de aptidão física. Serão duas etapas. Em uma delas, homens deverão percorrer no mínimo 1.800 metros, e mulheres, 1.500 em 12 minutos. Na outra, todos deverão nadar em estilo livre por 25 metros sem limite de tempo.Conurso Público TranspetroVagas: 281 vagas efetivas e 3.890 vagas destinadas à formação de cadastro de reserva. Contratação sob o regime da CLT.Inscrições: 12 de agosto e 14 de setembro. Até 19 de agosto, doadores de medula óssea e pessoas de baixa renda inscritas no Cadastro Único do governo federal poderão solicitar isenção.Taxa: R$ 81,50 para cargos técnicos e suboficiais e R$ 117 para cargos superiores e oficiais.Reserva de vagas: 25% das vagas para pessoas negras, 3% para indígenas e 2% para quilombolas. Em cargos com mais de cinco postos de trabalho, 10% das vagas serão destinadas a pessoas com deficiência.Provas: 70 questões objetivas para cargos de nível superior ou oficial e 50 questões para os de nível médio ou suboficial. Quem concorrer a vagas com ênfase em advocacia também responderá a duas questões discursivas.Datas das provasProvas objetivas e discursivas - 29 de novembro de 2026Teste de aptidão física para ps cargos de mar - 30 e 31 de janeiro de 2027",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "concursos"
+        ],
+        "creator": [
+            "da agência folhapress",
+            "guilherme w. almeida"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:26:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 14:54:50",
+        "image_url": "https://cdn2.tribunaonline.com.br/img/Artigo-Destaque/320000/Transpetro-abre-concurso-publico-com-281-vagas-e-s0032823900202608121126.jpg?xid=1502505",
+        "video_url": null,
+        "source_id": "tribunaonline_br",
+        "source_name": "Tribuna Online",
+        "source_priority": 1025555,
+        "source_url": "https://tribunaonline.com.br",
+        "source_icon": "https://n.bytvi.com/tribunaonline_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "Transpetro 公开竞聘 281 个职位空缺，起薪高达 15,000 雷亚尔",
+        "description_zh": "巴西国家石油公司 (Petrobras) 旗下运输公司 Transpetro 宣布进行公开竞争，共有 281 个有效职位空缺和 3,890 个职位空缺，以创建储备名册。有四份通知，其中两份针对陆地职位空缺，两份针对海上职位空缺，所有通知均受 CLT（劳动法合并）管辖。"
+    },
+    {
+        "article_id": "afd850c40b6ce863f3d33d59929e1fc1",
+        "link": "https://www.mejorinformado.com/deportes/2026-8-12-11-26-31-lionel-messi-duda-sobre-su-futuro-futbolistico-tras-la-muerte-de-su-padre",
+        "title": "Messi se quebró tras la muerte de su padre y dejó una frase que preocupa a todos: “No sé cómo seguir”",
+        "description": "A días de perder la final del Mundial y de su padre Jorge, el astro argentino expresó en redes su profunda tristeza y la incertidumbre sobre continuar su carrera profesional.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "lionel messi",
+            "deportes",
+            "argentina",
+            "carrera deportiva",
+            "decisión profesional",
+            "jorge messi"
+        ],
+        "creator": [
+            "pablo casabona"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "crime",
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:26:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 15:50:55",
+        "image_url": "https://pxcdn.mejorinformado.com/mejorinformado/082026/1786544792391.webp?cw=320&ch=180",
+        "video_url": null,
+        "source_id": "mejorinformado",
+        "source_name": "Mejorinformado",
+        "source_priority": 463646,
+        "source_url": "https://www.mejorinformado.com",
+        "source_icon": "https://n.bytvi.com/mejorinformado.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "父亲去世后，梅西崩溃了，留下了一句令所有人担忧的话语：“我不知道如何继续”",
+        "description_zh": "在输掉世界杯决赛并失去父亲豪尔赫几天后，这位阿根廷球星在社交媒体上表达了他对继续职业生涯的深深悲伤和不确定性。"
+    },
+    {
+        "article_id": "f41c7b0efb81564cd81ff1fe014a5e3b",
+        "link": "https://www.infobae.com/teleshow/2026/08/12/los-contundentes-videos-de-luck-ra-en-medio-de-su-separacion-de-la-joaqui-ya-no-sufro-mas-por-amor/",
+        "title": "Los contundentes videos de Luck Ra en medio de su separación de La Joaqui: “Ya no sufro más por amor”",
+        "description": "A casi dos semanas de conocerse la ruptura, el artista cordobés compartió unas publicaciones que llamaron atención a sus seguidores, quienes los vincularon con la referente de RKT",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "separación",
+            "últimas noticias",
+            "indirecta",
+            "la joaqui",
+            "luck ra"
+        ],
+        "creator": [
+            "martina cortés"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "mexico",
+            "argentina",
+            "colombia"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-08-12 14:26:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 14:34:17",
+        "image_url": "https://www.infobae.com/resizer/v2/UYLNN7UWWFEPRH2C7CVCA6JN2Q.jpg?auth=e92c57a928a64414d6a2c944f65c375257cfff7728c040c659f3ae96c944a2ed&smart=true&width=1920&height=1080",
+        "video_url": "https://cdn.jwplayer.com/videos/1xEi30OF-HeIT2Id1.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Luck Ra 在与 La Joaqui 分离期间的有力视频：“我不再为爱受苦”",
+        "description_zh": "在得知分手消息近两周后，这位来自科尔多瓦的艺术家分享了一些出版物，引起了他的追随者的注意，他们将这些出版物与 RKT 参考资料联系起来"
+    },
+    {
+        "article_id": "a1a8d66f525c80cf18b8da984458519b",
+        "link": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/08/12/oon-seguradora-aprofunda-estrategia-b2b-com-participacao-na-pv-experience-1.ghtml",
+        "title": "OON Seguradora aprofunda estratégia B2B com participação na PV Experience",
+        "description": "A OON Seguradora confirma participação na PV Experience 2026, considerado um dos principais eventos de capacitação do setor de proteção patrimonial mutualista do Brasil. O encontro acontece nos dias 09 e 10 de setembro em Maceió, Alagoas, e reúne gestores de associações, executivos do setor segurador e formadores de opinião de mercados como Minas Gerais, Goiás, Distrito Federal e Nordeste. A presença no evento integra a estratégia de expansão da companhia no mercado B2B, aprofundada ao longo do segundo semestre com a formalização de diálogo institucional junto a entidades representativas do segmento. O movimento sucede a aproximação com a FECASP (Federação das Associações de Proteção Veicular e Patrimonial), realizada em julho, e marca o segundo passo público da guinada institucional da OON em direção às associações mutualistas. A atuação da OON no segmento passa pelo modelo MGA (Managing General Agent). Nessa estrutura, uma seguradora delega a uma empresa especializada funções técnicas, emissão de apólices e gestão de sinistros, mantendo a responsabilidade final sobre as operações. No Brasil, a Resolução CNSP no 431/2021 regulamenta a figura do Representante de Seguros e permite essa delegação contratual. O modelo permite que associações de proteção patrimonial mutualista acessem uma estrutura seguradora consolidada sem precisar constituir reservas técnicas próprias. Isso reduz a complexidade operacional e acelera a adequação a marcos regulatórios mais rígidos. Levantamentos da consultoria americana Conning Insurance Research indicam que, nos Estados Unidos, maior mercado de MGAs do mundo, o volume de prêmios originados por esse tipo de estrutura já ultrapassa a faixa de US$ 80 bilhões a US$ 90 bilhões, com crescimento anual de dois dígitos, superando o ritmo do mercado de seguros tradicional. Estudos da consultoria McKinsey & Company também apontam retomada do interesse de investidores internacionais pelas MGAs, atraídos pela margem operacional mais alta gerada pela combinação entre tecnologia e especialização técnica em subscrição. Reinaldo Aguimar, diretor operacional da OON Seguradora, representará a companhia no evento. \"A participação na PV Experience reforça nosso compromisso em oferecer soluções estruturantes para o ecossistema mutualista, conectando associações a uma infraestrutura regulatória consolidada\", afirma o executivo. A PV Experience é organizada por Alexandre Almeida e Gustavo Gomes e reúne, em formato de capacitação intensiva, gestores de associações de proteção veicular e patrimonial de diferentes regiões do país. Para a OON, o evento é oportunidade de apresentar o modelo MGA como alternativa de parceria para operadores em busca de formalização e capacidade técnica, num momento em que publicações da ENS (Escola de Negócios e Seguros) destacam o papel das MGAs como catalisadoras de inovação no setor, ao transformar custos fixos de seguradoras tradicionais em custos variáveis e ao atrair capacidade de resseguradoras estrangeiras para riscos especiais. Sobre a OON Seguradora A OON Seguradora atua no modelo MGA (Managing General Agent), oferecendo a associações de proteção patrimonial mutualista infraestrutura tecnológica e regulatória para subscrição, precificação, emissão de apólices e gestão de sinistros, dentro do marco definido pela Resolução CNSP no 431/2021.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "valor"
+        ],
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:26:31",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 14:35:33",
+        "image_url": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+        "video_url": null,
+        "source_id": "valor_globo",
+        "source_name": "Valor Globo",
+        "source_priority": 2786,
+        "source_url": "https://valor.globo.com",
+        "source_icon": "https://n.bytvi.com/valor_globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "OON Seguradora 深化 B2B 战略，参与 PV Experience",
+        "description_zh": "OON Seguradora 确认参加 PV Experience 2026，该活动被认为是巴西共同资产保护领域的主要培训活动之一。该会议于 9 月 9 日至 10 日在阿拉戈斯州马塞约举行，协会经理和行业高管齐聚一堂"
+    },
+    {
+        "article_id": "c4eff977cc29a9eb849aa080c0ef4a9e",
+        "link": "https://www.lance.com.br/futebol-internacional/ex-botafogo-pode-deixar-a-gigante-europeu-apos-uma-temporada.html",
+        "title": "Luis-Henrique-em-acao-pela-Inter-de-Milao-da-Italia-aspect-ratio-512-320",
+        "description": "Luis Henrique pode deixar a Inter de Milão apenas um ano após sua chegada ao futebol italiano, segundo o jornal \"Gazzetta dello Sport\"; veja",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "futebol internacional",
+            "update_me",
+            "inter de milão"
+        ],
+        "creator": [
+            "nathalia gomes"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:26:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 14:37:23",
+        "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,format=webp/uploads/2026/08/Luis-Henrique-em-acao-pela-Inter-de-Milao-da-Italia-aspect-ratio-512-320.jpg",
+        "video_url": null,
+        "source_id": "lance",
+        "source_name": "Lance!",
+        "source_priority": 12891,
+        "source_url": "https://www.lance.com.br",
+        "source_icon": "https://n.bytvi.com/lance.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "路易斯-恩里克在意大利米劳国际比赛中纵横比-512-320",
+        "description_zh": "据《米兰体育报》报道，路易斯·恩里克可能在抵达意大利足坛仅一年后就离开国际米兰；看"
+    },
+    {
+        "article_id": "9215607886442c0c1e2bd7b66dd28442",
+        "link": "https://pulsoslp.com.mx/mundo/vuelo-de-asistencia-humanitaria-mexico-recibe-embajada-colombiana/2075535",
+        "title": "Vuelo de asistencia humanitaria México recibe embajada colombiana",
+        "description": "Vuelo de asistencia humanitaria enviado por México recibe agradecimiento de embajada colombiana.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "colombia declara emergencia tras sismo 7.4",
+            "claudia sheinbaum liderazgo ayuda colombia",
+            "donaciones cruz roja colombiana méxico",
+            "vuelo asistencia humanitaria méxico colombia sismo"
+        ],
+        "creator": [
+            "pulso slp"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:27:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 15:59:37",
+        "image_url": "https://blobcore.pulsoslp.com.mx/images/2026/08/11/colombia-busca-desaparecidos-tras-terremoto-que-dejo-mas-de-180-muertos-ef93ee9e-focus-0-0-600-315.webp",
+        "video_url": null,
+        "source_id": "pulsoslp_mx",
+        "source_name": "Pulso Diario San Luis",
+        "source_priority": 3206842,
+        "source_url": "https://www.pulsoslp.com.mx",
+        "source_icon": "https://n.bytvi.com/pulsoslp_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "墨西哥人道主义援助航班接待哥伦比亚大使馆",
+        "description_zh": "墨西哥派出的人道主义援助航班得到哥伦比亚大使馆的感谢。"
+    },
+    {
+        "article_id": "f5feacec19ddb8e0e26c8bc5cd3ce9a0",
+        "link": "https://www.elmanana.com/escena/famosos/boda-de-georgina-rodriguez-y-cristiano-ronaldo/6172688",
+        "title": "Boda de Georgina Rodríguez y Cristiano Ronaldo",
+        "description": "Ronaldo y Georgina recorrieron un camino que comenzó en 2016, y que no siempre estuvo rodeado del glamour y la felicidad que juntos han construido.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:27:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 17:18:22",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "elmanana",
+        "source_name": "Últimas Noticias - El Mañana De Reynosa",
+        "source_priority": 258494,
+        "source_url": "https://www.elmanana.com",
+        "source_icon": "https://n.bytvi.com/elmanana.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "乔治娜·罗德里格斯和克里斯蒂亚诺·罗纳尔多的婚礼",
+        "description_zh": "C 罗和乔治娜自 2016 年开始走上一条道路，但这条道路并不总是充满他们共同创造的魅力和幸福。"
+    },
+    {
+        "article_id": "eda89e2410e0cabf38e633de46320d37",
+        "link": "https://www.chanarcillo.cl/seremi-de-mineria-llama-a-pequenos-mineros-a-suspender-faenas-y-descender-a-lugares-seguros-ante-nuevo-sistema-frontal/",
+        "title": "Seremi de Minería llama a pequeños mineros a suspender faenas y descender a lugares seguros ante nuevo sistema frontal",
+        "description": "Desde la cartera se busca extremar las medidas preventivas y de seguridad, reiterando que “la protección de la vida y",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "región - actualidad"
+        ],
+        "creator": [
+            "matías quiroga salas"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:26:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 15:02:57",
+        "image_url": "https://www.chanarcillo.cl/wp-content/uploads/2026/08/Seremi-de-Mineria-Atacama.jpeg",
+        "video_url": null,
+        "source_id": "chanarcillo_cl",
+        "source_name": "Chanarcillo",
+        "source_priority": 99999999,
+        "source_url": "https://www.chanarcillo.cl",
+        "source_icon": "https://n.bytvi.com/chanarcillo_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "塞雷米·德米内里亚 (Seremi de Minería) 呼吁小型矿工面对新的锋面系统暂停工作并下撤至安全地点",
+        "description_zh": "该部寻求采取极端的预防和安全措施，重申“保护生命和安全”"
+    },
+    {
+        "article_id": "daddf370da5f27900a3d95d24f366dff",
+        "link": "https://www.infobae.com/mexico/deportes/2026/08/12/conade-impulsa-el-boxeo-con-la-clase-nacional-punos-de-transformacion/",
+        "title": "CONADE impulsa el boxeo con la Clase Nacional “Puños de Transformación”",
+        "description": "La iniciativa busca acercar la actividad física a distintos sectores de la población y fortalecer la convivencia a través del deporte",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mexico-deportes",
+            "rommel pacheco",
+            "atletas mexicanos",
+            "boxeo",
+            "box",
+            "conade",
+            "mexico-noticias"
+        ],
+        "creator": [
+            "alexander ortiz"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "mexico",
+            "argentina",
+            "colombia"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:26:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 14:34:17",
+        "image_url": "https://www.infobae.com/resizer/v2/F374X3TZOZG5BJGPFCNSFKRMOQ.jpeg?auth=3b78f203eab352df2f60d19692b249d1aa98855a9d6ff40c332e2dc223c3ff75&smart=true&width=1559&height=1039",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "CONADE通过国家级“转型之拳”推广拳击运动",
+        "description_zh": "该倡议旨在让体育活动更贴近不同人群，并通过体育加强共存。"
+    },
+    {
+        "article_id": "b3175c7a444df2c736bcacc09cee0640",
+        "link": "https://www.infobae.com/estados-unidos/2026/08/12/un-caiman-de-casi-3-metros-ataco-a-una-mujer-mientras-nadaba-en-un-rio-de-florida-y-le-provoco-la-amputacion-de-un-brazo/",
+        "title": "Un caimán de casi 3 metros atacó a una mujer mientras nadaba en un río de Florida y le provocó la amputación de un brazo",
+        "description": "El hecho ocurrió el 8 de agosto en el condado de Marion, cerca de Ray Wayside Park, una zona frecuentada por personas que practican actividades acuáticas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "fauna silvestre",
+            "cocodrilos",
+            "estados unidos noticias",
+            "florida",
+            "animales"
+        ],
+        "creator": [
+            "maricielo grados córdova"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "mexico",
+            "argentina",
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:26:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 14:34:17",
+        "image_url": "https://www.infobae.com/resizer/v2/LNCOTST7ZNGXLOOQ2PJBNEIVYA.png?auth=99f9297fa838bb06649a4cfea6e3e56be8cf4d330d3d87e23a3cf73c73206569&smart=true&width=1408&height=768",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "一名女子在佛罗里达河中游泳时，一条近 3 米长的鳄鱼袭击了她，导致她手臂被截肢",
+        "description_zh": "这起事件于 8 月 8 日发生在马里恩县，靠近雷路赛德公园，这是人们经常进行水上活动的地区。"
+    },
+    {
+        "article_id": "6bf5b0421a995012a47850cc51bcea57",
+        "link": "https://www.excelsior.com.mx/deportes/checo-perez-tiene-nuevo-jefe-cadillac-f1-anuncia-marcin-budkowski-como-team-principal",
+        "title": "Checo Pérez tiene nuevo jefe, Cadillac F1 anuncia a Marcin Budkowski como team principal",
+        "description": "De cara al GP de Países Bajos, Cadillac F1 reestructura su cúpula directiva con la incorporación de Budkowski.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "tiene",
+            "pérez",
+            "checo",
+            "nuevo",
+            "jefe"
+        ],
+        "creator": [
+            "jesús velasco"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:26:38",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 15:37:23",
+        "image_url": "https://imagenes.excelsior.com.mx/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c80828488f.r_d.436-395-0.jpeg",
+        "video_url": null,
+        "source_id": "excelsior",
+        "source_name": "Excelsior",
+        "source_priority": 13116,
+        "source_url": "https://www.excelsior.com.mx",
+        "source_icon": "https://n.bytvi.com/excelsior.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Checo Pérez有了新老板，凯迪拉克F1宣布Marcin Budkowski担任主力车队",
+        "description_zh": "展望荷兰大奖赛，凯迪拉克 F1 重组了管理领导层，吸纳了布德科夫斯基。"
+    },
+    {
+        "article_id": "f41c7b0efb81564cd81ff1fe014a5e3b",
+        "link": "https://www.infobae.com/teleshow/2026/08/12/los-contundentes-videos-de-luck-ra-en-medio-de-su-separacion-de-la-joaqui-ya-no-sufro-mas-por-amor/",
+        "title": "Los contundentes videos de Luck Ra en medio de su separación de La Joaqui: “Ya no sufro más por amor”",
+        "description": "A casi dos semanas de conocerse la ruptura, el artista cordobés compartió unas publicaciones que llamaron atención a sus seguidores, quienes los vincularon con la referente de RKT",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "separación",
+            "últimas noticias",
+            "indirecta",
+            "la joaqui",
+            "luck ra"
+        ],
+        "creator": [
+            "martina cortés"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "mexico",
+            "argentina",
+            "colombia"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-08-12 14:26:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 14:34:17",
+        "image_url": "https://www.infobae.com/resizer/v2/UYLNN7UWWFEPRH2C7CVCA6JN2Q.jpg?auth=e92c57a928a64414d6a2c944f65c375257cfff7728c040c659f3ae96c944a2ed&smart=true&width=1920&height=1080",
+        "video_url": "https://cdn.jwplayer.com/videos/1xEi30OF-HeIT2Id1.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Luck Ra 在与 La Joaqui 分离期间的有力视频：“我不再为爱受苦”",
+        "description_zh": "在得知分手消息近两周后，这位来自科尔多瓦的艺术家分享了一些出版物，引起了他的追随者的注意，他们将这些出版物与 RKT 参考资料联系起来"
+    },
+    {
+        "article_id": "bb325df8d8a964c4bd15bb10650a218f",
+        "link": "https://www.epicentrochile.com/2026/08/12/vaguada-en-altura-en-el-norte-revisa-las-cinco-regiones-bajo-aviso-de-tormentas-electricas/",
+        "title": "Vaguada en altura en el norte: Revisa las cinco regiones bajo aviso de tormentas eléctricas",
+        "description": "La Dirección Meteorológica de Chile actualizó su aviso meteorológico por probables tormentas eléctricas y precipitaciones intensas en corto periodo para las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama y Coquimbo debido a una vaguada en altura. La entrada Vaguada en altura en el norte: Revisa las cinco regiones bajo aviso de tormentas eléctricas aparece primero en Epicentro Chile .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "tormentas eléctricas",
+            "dirección meteorológica de chile",
+            "coquimbo",
+            "nacional",
+            "atacama",
+            "arica y parinacota",
+            "vaguada en altura",
+            "antofagasta",
+            "tarapacá",
+            "dmc"
+        ],
+        "creator": [
+            "sebastián araya"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-12 14:26:31",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-12 14:55:37",
+        "image_url": "https://www.epicentrochile.com/wp-content/uploads/2026/08/JZSWOJ46XVE47N5NLDNMUJS5V4.webp",
+        "video_url": null,
+        "source_id": "epicentrochile",
+        "source_name": "Epicentro Chile",
+        "source_priority": 1163442,
+        "source_url": "https://www.epicentrochile.com",
+        "source_icon": "https://n.bytvi.com/epicentrochile.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "北部高空槽：检查5个雷暴预警地区",
+        "description_zh": "由于高空低压槽，智利气象局更新了阿里卡和帕里纳科塔、塔拉帕卡、安托法加斯塔、阿塔卡马和科金博地区可能在短时间内出现雷暴和强降雨的气象警报。瓦瓜达入口的高度"
+    },
+    {
+        "article_id": "68d6996f667346bfd1a7292cd34a926f",
+        "link": "https://www.semana.com/nacion/articulo/impactantes-imagenes-aereas-muestran-la-desolacion-en-buenaventura-tras-el-terremoto-clamor-por-ayuda-urgente/202631/",
+        "title": "Impactantes imágenes aéreas muestran la desolación en Buenaventura tras el terremoto. Clamor por ayuda urgente",
+        "description": "SEMANA habló con la abogada Libia Mosquera, quien pide la solidaridad de Colombia. “El hospital colapsó y necesitamos alimentos”.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
             "terremoto",
-            "quindío",
-            "sismo",
-            "sismo en colombia",
-            "chocó",
-            "terremoto en colombia",
-            "pereira",
-            "ecuador",
-            "japón",
-            "venezuela",
-            "valle del cauca",
-            "armenia",
-            "chocó - colombia"
+            "buenaventura",
+            "ayuda"
         ],
         "creator": [
-            "jaime moreno"
+            "cristina castro"
         ],
         "language": "spanish",
         "country": [
@@ -609,221 +838,10 @@
             "environment"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-11 14:25:50",
+        "pubDate": "2026-08-12 14:26:31",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:38:09",
-        "image_url": "https://www.vanguardia.com/resizer/v2/6ALHT7UMTJALJFT3QYHEV3DC7E.jpg?auth=82a8a6eaf820c137c92a137ccce404bd3321d8be1598b429f4423c54aa6becb3&smart=true&width=7008&height=4672",
-        "video_url": null,
-        "source_id": "vanguardia",
-        "source_name": "Vanguardia",
-        "source_priority": 24302,
-        "source_url": "https://vanguardia.com.mx",
-        "source_icon": "https://n.bytvi.com/vanguardia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "专家解释哥伦比亚7.4级地震为何造成如此严重的破坏",
-        "description_zh": "尽管震源深度为 103 公里，但此次 7.4 级地震的破坏程度还是令人惊讶。专家们解释了是什么因素让哥伦比亚的这场运动如此强烈。"
-    },
-    {
-        "article_id": "ef4bb279fbd4304c5d0a558255a36636",
-        "link": "https://www.poresto.com/quintana-roo/riviera-maya/2026/8/11/casi-4-de-cada-10-habitantes-de-cozumel-viven-en-pobreza-equivale-al-396-por-ciento-de-la-poblacion.html",
-        "title": "Casi 4 de cada 10 habitantes de Cozumel viven en pobreza; equivale al al 39.6% de la población",
-        "description": "Informe de la Secretaría del Bienestar revela que 33 mil 411 personas carecen de seguridad social.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "riviera maya",
-            "noticias de cozumel",
-            "península de yucatán",
-            "quintana roo"
-        ],
-        "creator": [
-            "antonio blanco"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:25:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:56:18",
-        "image_url": "https://www.poresto.com/media/2026/8/11/casi-4-de-cada-10-habitantes-de-cozumel-viven-en-pobreza-equivale-al-al-396-de-la-poblacion.jpg",
-        "video_url": null,
-        "source_id": "poresto",
-        "source_name": "Por Esto!",
-        "source_priority": 1266292,
-        "source_url": "https://www.poresto.com",
-        "source_icon": "https://n.bytvi.com/poresto.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "科苏梅尔近十分之四的居民生活在贫困之中；相当于总人口的39.6%",
-        "description_zh": "福利部的报告显示，有33,411人缺乏社会保障。"
-    },
-    {
-        "article_id": "9be54d49654a7d50c6305e25178a6a7c",
-        "link": "https://www.infobae.com/america/mundo/2026/08/11/la-unesco-incorporo-25-nuevos-sitios-al-patrimonio-de-la-humanidad-cuales-son-y-donde-estan/",
-        "title": "La UNESCO incorporó 25 nuevos sitios al Patrimonio de la Humanidad: cuáles son y dónde están",
-        "description": "El organismo sumó 19 espacios culturales, cinco naturales y uno mixto tras su reunión más reciente, con nuevas inscripciones en Japón, Finlandia, Grecia, Sudán del Sur y Estados Unidos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "patrimonio cultural",
-            "georgia",
-            "patrimonio de la humanidad",
-            "unesco",
-            "newsroom bue"
-        ],
-        "creator": [
-            "ismael yasnikowski"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "united states of america",
-            "colombia",
-            "mexico"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:25:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:34:03",
-        "image_url": "https://www.infobae.com/resizer/v2/HSRFLOOOARC6JMWPFLDBRNCK3A.png?auth=fadbed551bcc493d9d7f3b1912632cbd0a74b7cbdaa087793f12f8d619c0eea4&smart=true&width=2752&height=1536",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "联合国教科文组织将 25 个新地点列入世界遗产：它们是什么以及它们在哪里？",
-        "description_zh": "该组织在最近一次会议后增加了 19 个文化空间，其中 5 个是自然文化空间，1 个是混合文化空间，并在日本、芬兰、希腊、南苏丹和美国进行了新注册"
-    },
-    {
-        "article_id": "e789c46dd70f0c868c4ccb5b3aad0e68",
-        "link": "https://actualidad.rt.com/actualidad/621720-cortar-nino-ruso-cuenta-heridas-ataque-kiev",
-        "title": "\"Me cortaron más que a todos\": desgarrador relato de un niño que sobrevivió al terrorismo de Kiev",
-        "description": "Cuando la familia iba en la ambulancia, temía un nuevo golpe que pudiera alcanzar a los médicos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "rt en español"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:25:40",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:37:31",
-        "image_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7b1876e9ff7155de08c0be.jpg",
-        "video_url": null,
-        "source_id": "rt_mx",
-        "source_name": "Rt",
-        "source_priority": 19092,
-        "source_url": "https://actualidad.rt.com",
-        "source_icon": "https://n.bytvi.com/rt_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“他们比任何人都更伤害我”：一个男孩在基辅恐怖主义中幸存下来的令人心碎的故事",
-        "description_zh": "当家人在救护车上时，他们担心医生会受到新的打击。"
-    },
-    {
-        "article_id": "44a2afaa046671bf65aff9b7b143bfb8",
-        "link": "https://oem.com.mx/elsoldesanluis/local/gran-logia-el-potosi-conmemora-135-anos-y-estrecha-lazos-con-logias-de-mexico-31522650",
-        "title": "Gran Logia “El Potosí” conmemora 135 años y estrecha lazos con logias de México",
-        "description": "Representantes de grandes logias de distintos estados participaron en actividades culturales, encuentros institucionales y la firma de acuerdos de paz, amistad y reconocimiento masónico",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "local"
-        ],
-        "creator": [
-            "patricia calvillo"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:25:31",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 20:54:10",
-        "image_url": "https://oem.com.mx/elsoldesanluis/img/31524310/1786458189/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldesanluis_mx",
-        "source_name": "Elsoldesanluis Mx",
-        "source_priority": 972129,
-        "source_url": "https://www.elsoldesanluis.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldesanluis_mx_.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Grand Lodge “El Potosí” 纪念 135 周年并加强与墨西哥旅馆的联系",
-        "description_zh": "各州大会所代表参加文化活动、机构会议并签署和平、友谊和共济会认可协议"
-    },
-    {
-        "article_id": "9bd1d862be3eaf00d45f7a65f494cff8",
-        "link": "https://www.semana.com/politica/articulo/gobierno-nacional-firmo-decreto-que-pone-en-encargo-al-ministro-del-interior-rodrigo-lara-como-director-de-la-unp/202628/",
-        "title": "Gobierno nacional firmó decreto que deja encargado al ministro del Interior, Rodrigo Lara, como director de la UNP",
-        "description": "El funcionario seguirá al frente de la cartera política.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "gobierno",
-            "unidad nacional de protección"
-        ],
-        "creator": [
-            "nicolás méndez galvis"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-11 14:25:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:37:43",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/PW6FVLKPLVHI7BBZHQ6GN3LALU.jpeg?auth=02ecf1cc0d4b5d76e9d25d4fdf0e6d792367ffac22c36b7ffe05b4af2cc147b8&smart=true&width=5088&height=3392",
+        "fetched_at": "2026-08-12 14:38:07",
+        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/EJZNVMNE4RCC7DBTDYDKW2MVTA.jpg?auth=ba9500e3e0abe2f3b7edd346251ea3bc621ae60d3531ef24192082cfa1c3dcdd&smart=true&width=1280&height=720",
         "video_url": null,
         "source_id": "semana",
         "source_name": "Semana",
@@ -837,42 +855,44 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "国家政府签署了一项法令，由内政部长罗德里戈·拉拉 (Rodrigo Lara) 担任统一国民党 (UNP) 主任",
-        "description_zh": "该官员将继续领导政治事务。"
+        "title_zh": "令人震惊的航拍图像显示了地震后布埃纳文图拉的荒凉景象。大声呼喊寻求紧急帮助",
+        "description_zh": "SEMANA 与律师 Libia Mosquera 进行了交谈，后者请求哥伦比亚的声援。 “医院倒塌了，我们需要食物。”"
     },
     {
-        "article_id": "a8703399ff334073cfc5bee5b2f67692",
-        "link": "https://www.proceso.com.mx/internacional/2026/8/11/trump-reduce-de-18-a-11-las-vacunas-infantiles-recomendadas-para-todos-los-ninos-en-eu-377835.html",
-        "title": "Trump reduce de 18 a 11 las vacunas infantiles recomendadas para todos los niños en EU",
-        "description": "Para la Administración Trump, la reducción ahora recomendada supone reafirmar el compromiso \"con la ciencia de máxima calidad, garantizando que los estadounidenses reciban el mejor asesoramiento médico posible y brindando a pacientes y médicos la máxima flexibilidad\"",
+        "article_id": "850b31db286cc0ad2cebd2a3c5aa7b6c",
+        "link": "https://90minutos.co/cali/voluntarios-piden-maquinaria-agilizar-rescates-capri-12-08-2026/",
+        "title": "Voluntarios piden maquinaria para agilizar rescates en Capri; habría personas con vida",
+        "description": "Los voluntarios señalaron que requieren equipos y operarios para avanzar con las labores de búsqueda en uno de los puntos más afectados de la ciudad. Voluntarios piden maquinaria para agilizar rescates en Capri; habría personas con vida aparece en Noticiero 90 Minutos .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "vacunas",
-            "trump",
-            "estados unidos"
+            "terremoto en cali",
+            "barrio capri",
+            "cali",
+            "noticias de cali",
+            "alcaldía de cali"
         ],
         "creator": [
-            "europa press"
+            "ana maría marles muñoz"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "colombia"
         ],
         "category": [
-            "top",
-            "health"
+            "crime",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-11 14:25:23",
+        "pubDate": "2026-08-12 14:26:19",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-11 14:40:20",
-        "image_url": "https://assets.proceso.com.mx/img/1786458115844-tpicp7.jpg",
+        "fetched_at": "2026-08-12 14:57:08",
+        "image_url": "https://90minutos.co/90minutos.co/wp-content/uploads/2026/08/Padre-del-periodista-Jose-Fernando-Patino-sin-vida-terremoto-cali-.jpg",
         "video_url": null,
-        "source_id": "proceso",
-        "source_name": "Proceso",
-        "source_priority": 47805,
-        "source_url": "https://www.proceso.com.mx",
-        "source_icon": "https://n.bytvi.com/proceso.jpg",
+        "source_id": "90minutos_co",
+        "source_name": "90 Minutos",
+        "source_priority": 1674507,
+        "source_url": "https://90minutos.co",
+        "source_icon": "https://n.bytvi.com/90minutos_co.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -880,7 +900,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "特朗普将美国所有儿童的推荐儿童疫苗接种量从 18 岁减少到 11 岁",
-        "description_zh": "对于特朗普政府来说，现在建议的削减意味着重申“对最高质量的科学的承诺，确保美国人获得尽可能最好的医疗建议，并为患者和医生提供最大的灵活性”。"
+        "title_zh": "志愿者请求提供机械以加快卡普里岛的救援速度；会有人活着",
+        "description_zh": "志愿者表示，他们需要设备和人员来推进该市受影响最严重的地点之一的搜索工作。志愿者请求提供机械以加快卡普里岛的救援速度； Noticiero 90 Minutos 上出现了有人活着的消息。"
     }
 ]
