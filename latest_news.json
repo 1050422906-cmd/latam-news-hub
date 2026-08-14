@@ -1,41 +1,83 @@
 [
     {
-        "article_id": "3cb3a45b25dacf9116006f16c609e6b6",
-        "link": "https://www.malargueadiario.com/nomade-by-malargue-la-apuesta-de-tres-amigos-que-une-buena-cocina-cultura-y-trabajo-local/",
-        "title": "NOMADE by Malargüe: la apuesta de tres amigos que une buena cocina, cultura y trabajo local",
-        "description": "Ubicado en Av. San Martín (N) 886, el nuevo espacio gastronómico recupera un lugar emblemático de la ciudad. Con el chivito libre como gran estrella, cocina de corrido y un escenario para espectáculos, Marcelo Moyano, Daniel Guerrero y Marcelo Aballay concretaron un proyecto pensado para el vecino y el turista. La entrada NOMADE by Malargüe: la apuesta de tres amigos que une buena cocina, cultura y trabajo local se publicó primero en Malargüe a Diario .",
+        "article_id": "291649bc3cbfeefe743459db57ca884f",
+        "link": "https://www.dgabc.com.br/Noticia/4340948/quatro-das-8-atividades-do-varejo-sobem-em-junho-ante-maio-revela-ibge",
+        "title": "Quatro das 8 atividades do varejo sobem em junho ante maio, revela IBGE",
+        "description": "Quatro das 8 atividades do varejo sobem em junho ante maio, revela IBGE",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "gastronomía",
-            "sociedad",
-            "marcelo moyano",
-            "daniel guerrero",
-            "marcelo aballay",
-            "turismo",
-            "malargüe"
+            "economia"
         ],
-        "creator": [
-            "gustavo yañez"
-        ],
-        "language": "spanish",
+        "creator": null,
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
-            "food",
+            "business",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-12 14:26:59",
+        "pubDate": "2026-08-13 14:25:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:29:42",
-        "image_url": "https://www.malargueadiario.com/wp-content/uploads/2026/08/nomade-by-1.jpg",
+        "fetched_at": "2026-08-13 15:26:54",
+        "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
         "video_url": null,
-        "source_id": "malargueadiario",
-        "source_name": "Malargüe A Diario",
-        "source_priority": 3316844,
-        "source_url": "https://www.malargueadiario.com",
-        "source_icon": "https://n.bytvi.com/malargueadiario.png",
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://n.bytvi.com/dgabc.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "IBGE 透露，6 月份 8 项零售活动中有 4 项比 5 月份有所增加",
+        "description_zh": "IBGE 透露，6 月份 8 项零售活动中有 4 项比 5 月份有所增加"
+    },
+    {
+        "article_id": "53fb0c0e46c625f1a15aaafbb5513ca2",
+        "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-por-tempo-limitado-com-ate-90-de-desconto/",
+        "title": "Jogos de PC em oferta por tempo limitado com até 90% de desconto",
+        "description": "Os interessados podem aproveitar as ofertas da GOG por tempo limitado, até que novos jogos entrem em promoção",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "gog",
+            "pc games",
+            "ofertas",
+            "games",
+            "jogos baratos",
+            "promoção",
+            "notícias",
+            "jogos em oferta",
+            "jogos em promoção",
+            "desconto",
+            "ofertas da semana"
+        ],
+        "creator": [
+            "juliano aires"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-13 14:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-13 14:27:25",
+        "image_url": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/Starship-Troopers_-Ultimate-Bug-War-640x400.webp",
+        "video_url": null,
+        "source_id": "adrenaline",
+        "source_name": "Adrenaline",
+        "source_priority": 1959912,
+        "source_url": "https://adrenaline.com.br",
+        "source_icon": "https://n.bytvi.com/adrenaline.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -43,27 +85,63 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Malargüe 的 NOMADE：三个朋友的赌注，将美食、文化和当地工作融为一体",
-        "description_zh": "位于Av。新的美食空间位于圣马丁 (N) 886，恢复了城市的标志性地位。马塞洛·莫亚诺 (Marcelo Moyano)、丹尼尔·格雷罗 (Daniel Guerrero) 和马塞洛·阿巴莱 (Marcelo Aballay) 为邻居设计了一个项目，以免费的 chivito 为主角、走廊厨房和表演舞台。"
+        "title_zh": "PC 游戏限时优惠，最高 90% 折扣",
+        "description_zh": "有兴趣的人士可以在有限的时间内享受 GOG 优惠，直到新游戏发售为止"
     },
     {
-        "article_id": "cf709bf4a3bbe9e37e9c5819dd0b55b0",
-        "link": "https://www.mixvale.com.br/2026/08/12/bloqueio-de-bens-de-motoristas-embriagados-busca-garantir-indenizacao-a-vitimas/",
-        "title": "Bloqueio de bens de motoristas embriagados busca garantir indenização a vítimas",
-        "description": "Uma nova proposta legislativa em discussão na Câmara dos Deputados, apresentada prevê a autorização para o congelamento imediato do patrimônio de condutores alcoolizados ou sob influência de entorpecentes que provocarem acidentes com feridos ou mortos. A iniciativa tem como finalidade assegurar que as vítimas recebam verbas para cobrir tratamentos de saúde, reparações por danos e [...]",
+        "article_id": "5c09335555777cc20160e17cba2ef875",
+        "link": "https://www.bahianoticias.com.br/municipios/noticia/52069-video-homem-e-procurado-apos-roubo-de-celular-em-camacari",
+        "title": "VÍDEO: Homem é procurado após roubo de celular em Camaçari",
+        "description": "Uma adolescente, de 12 anos, teve o celular roubado na manhã desta quinta-feira (13), na localidade de Vila de Abrantes, em Camaçari, na Região Metropolitana de Salvador (RMS). Um vídeo enviado ao Bahia Notícias mostrou o homem, ainda não identificado, fugindo por um passeio da via.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "acidente de trânsito",
-            "brasil",
-            "destaques",
-            "projeto de lei",
-            "câmara dos deputados",
-            "bloqueio de bens",
-            "indenização vítimas",
-            "motorista embriagado"
+            "principal",
+            "interior"
         ],
         "creator": [
-            "bruna"
+            "redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-13 14:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-13 14:46:14",
+        "image_url": "https://www.bahianoticias.com.br/fotos/municipios_noticias/52069/IMAGEM_NOTICIA_9.jpg?checksum=1786631014",
+        "video_url": null,
+        "source_id": "bahianoticias",
+        "source_name": "Bahia Notícias",
+        "source_priority": 164044,
+        "source_url": "https://www.bahianoticias.com.br",
+        "source_icon": "https://n.bytvi.com/bahianoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "视频：卡马萨里手机失窃后通缉一名男子",
+        "description_zh": "本周四（13日）上午，萨尔瓦多大都市区（RMS）卡马萨里的维拉德阿布兰特斯镇一名 12 岁少女的手机被盗。发送给巴伊亚新闻报的一段视频显示，这名男子身份不明，沿着马路的人行道逃跑。"
+    },
+    {
+        "article_id": "ed82db4782baac6e329364f81f9c9402",
+        "link": "https://www.bahianoticias.com.br/noticia/319961-bruno-reis-alfineta-governo-jeronimo-e-critica-propagandas-da-ponte-apenas-30-das-promessas-cumpridas",
+        "title": "Bruno Reis alfineta governo Jerônimo e critica propagandas da Ponte: “Apenas 30% das promessas cumpridas”",
+        "description": "Presente nesta quinta-feira (13) no evento de celebração aos 215 anos da Associação Comercial da Bahia (ACB), Bruno destacou que o atual gestor estadual cumpriu apenas 30% das promessas da última campanha.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "salvador",
+            "principal"
+        ],
+        "creator": [
+            "victor hernandes / eduarda pinto"
         ],
         "language": "portuguese",
         "country": [
@@ -74,16 +152,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-12 14:26:52",
+        "pubDate": "2026-08-13 14:25:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:43:41",
-        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2026/08/Motorista-embriagado-bebida-alcoolica-600x340.jpg",
+        "fetched_at": "2026-08-13 14:46:14",
+        "image_url": "https://www.bahianoticias.com.br/fotos/principal_noticias/319961/IMAGEM_NOTICIA_9.jpg?checksum=1786629722",
         "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://n.bytvi.com/mixvale.png",
+        "source_id": "bahianoticias",
+        "source_name": "Bahia Notícias",
+        "source_priority": 164044,
+        "source_url": "https://www.bahianoticias.com.br",
+        "source_icon": "https://n.bytvi.com/bahianoticias.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -91,21 +169,111 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "冻结醉酒司机的资产旨在保证受害者得到赔偿",
-        "description_zh": "众议院正在讨论的一项新立法提案规定，授权立即冻结因醉酒或吸毒而导致事故造成伤亡的司机的资产。该倡议旨在确保"
+        "title_zh": "布鲁诺·雷斯批评热罗尼莫政府并批评庞特的广告：“只兑现了30%的承诺”",
+        "description_zh": "布鲁诺于本周四（13 日）出席庆祝巴伊亚商业协会 (ACB) 215 周年纪念活动时强调，现任州经理仅履行了上次竞选承诺的 30%。"
     },
     {
-        "article_id": "c1cfc53d4935f1b6bad6bd85e9fa8488",
-        "link": "https://www.ole.com.ar/futbol-internacional/inglaterra/elogiable-iniciativa-manchester-city-hinchas_0_gEa97BkSfP.html",
-        "title": "La iniciativa del Manchester City con sus hinchas ante los precios de las entradas para los partidos",
-        "description": "El club inglés tendrá un gesto con los fanáticos que viven en los barrios cercanos al Etihad Stadium.",
+        "article_id": "5f049b96c647f0717d0cc88fd5d35d3f",
+        "link": "https://www.bahianoticias.com.br/noticia/319962-governo-nao-consegue-instalar-comissao-e-taxa-das-blusinhas-esta-mais-perto-de-ser-cobrada-novamente-em-setembro",
+        "title": "Governo não consegue instalar comissão e \"taxa das blusinhas\" está mais perto de ser cobrada novamente em setembro",
+        "description": "Depois do acordo firmado entre o presidente Luiz Inácio Lula da Silva e o presidente do Senado, Davi Alcolumbre (União-AP) para “destravar a pauta” no Congresso Nacional de temas considerados prioritários pelo governo federal, foram instaladas nesta quarta-feira (12) cinco comissões mistas de análise de medidas provisórias que vão ter o seu prazo de validade finalizado nos próximos meses.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "manchester city",
-            "premier league"
+            "principal",
+            "política"
         ],
         "creator": [
-            "www.ole.com.ar"
+            "edu mota",
+            "de brasília"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-13 14:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-13 14:46:14",
+        "image_url": "https://www.bahianoticias.com.br/fotos/principal_noticias/319962/IMAGEM_NOTICIA_9.jpg?checksum=1786631092",
+        "video_url": null,
+        "source_id": "bahianoticias",
+        "source_name": "Bahia Notícias",
+        "source_priority": 164044,
+        "source_url": "https://www.bahianoticias.com.br",
+        "source_icon": "https://n.bytvi.com/bahianoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "政府无法设立佣金，“衬衫税”即将在 9 月再次征收",
+        "description_zh": "在路易斯·伊纳西奥·卢拉·达席尔瓦总统与参议院议长达维·阿尔科伦布雷 (União-AP) 签署协议后，将在全国代表大会上“畅通议程”，讨论联邦政府优先考虑的议题，五个联合委员会"
+    },
+    {
+        "article_id": "489c6856b661a54eceb2e4943347ab10",
+        "link": "https://www.elliberal.com.ar/nota/88379/2026/08/femicidio-en-villa-devoto--un-hombre-mato-a-su-esposa-de-una-punalada-frente-a-su-hija-de-8-anos-y-fue-detenido",
+        "title": "Femicidio en Villa Devoto: un hombre mató a su esposa de una puñalada frente a su hija de 8 años y fue detenido",
+        "description": "El hecho ocurrió a primera hora de este jueves. La víctima, de 40 años, murió en el lugar por una Herida en el cuello. El agresor intentó huir y fue atrapado a dos cuadras con un corte en el cuello.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "news",
+            "noticias",
+            "santiago del estero",
+            "ultimo momento",
+            "argentina",
+            "el liberal",
+            "diario",
+            "periodico"
+        ],
+        "creator": [
+            "f autor"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-13 14:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-13 14:57:35",
+        "image_url": "https://www.elliberal.com.ar/img/publicaciones/2026/08/13/alta/2209556.webp",
+        "video_url": null,
+        "source_id": "elliberal",
+        "source_name": "El Liberal",
+        "source_priority": 1699418,
+        "source_url": "https://www.elliberal.com.ar",
+        "source_icon": null,
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Villa Devoto杀女事件：一名男子当着8岁女儿的面刺死了妻子并被捕",
+        "description_zh": "该事件发生在本周四早些时候。受害人40岁，因颈部受伤当场死亡。袭击者试图逃跑，在两个街区外被抓住，脖子上有伤口。"
+    },
+    {
+        "article_id": "481340f1cb03f0cfc727da83c60f9354",
+        "link": "https://www.minutouno.com/deportes/tevez-se-solidarizo-messi-y-recordo-como-lo-golpeo-la-muerte-su-papa-no-pude-salir-n6310396",
+        "title": "Tevez se solidarizó con Messi y recordó cómo lo golpeó la muerte de su papá: \"No pude salir\"",
+        "description": "El Apache habló sobre el difícil momento que atraviesa la Pulga tras la muerte de Jorge y reveló que la pérdida de su padre adoptivo fue determinante para alejarse del fútbol.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "deportes"
+        ],
+        "creator": [
+            "minutouno"
         ],
         "language": "spanish",
         "country": [
@@ -115,16 +283,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-12 14:26:48",
+        "pubDate": "2026-08-13 14:25:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 15:06:38",
-        "image_url": "https://www.ole.com.ar/images/2024/12/09/jNK78rRjp_1200x630__1.jpg",
+        "fetched_at": "2026-08-13 14:39:45",
+        "image_url": "https://media.minutouno.com/p/e7dfc551ca96a97f27a4f58d5aa43f7c/adjuntos/150/imagenes/043/580/0043580305/1200x675/smart/messi-tevez-1.jpg",
         "video_url": null,
-        "source_id": "ole_ar",
-        "source_name": "Ole Ar",
-        "source_priority": 13161,
-        "source_url": "https://www.ole.com.ar",
-        "source_icon": "https://n.bytvi.com/ole_ar.png",
+        "source_id": "minutouno",
+        "source_name": "Minutouno",
+        "source_priority": 33172,
+        "source_url": "https://www.minutouno.com",
+        "source_icon": "https://n.bytvi.com/minutouno.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -132,139 +300,78 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "曼城向球迷发起的关于比赛票价的倡议",
-        "description_zh": "英格兰俱乐部将向居住在阿提哈德体育场附近的球迷做出一个手势。"
+        "title_zh": "特维斯表达了对梅西的声援，并回忆了父亲去世对他的打击：“我无法离开”",
+        "description_zh": "埃尔阿帕奇谈到了豪尔赫去世后拉普尔加所经历的困难时刻，并透露失去养父是他远离足球的决定性因素。"
     },
     {
-        "article_id": "daddf370da5f27900a3d95d24f366dff",
-        "link": "https://www.infobae.com/mexico/deportes/2026/08/12/conade-impulsa-el-boxeo-con-la-clase-nacional-punos-de-transformacion/",
-        "title": "CONADE impulsa el boxeo con la Clase Nacional “Puños de Transformación”",
-        "description": "La iniciativa busca acercar la actividad física a distintos sectores de la población y fortalecer la convivencia a través del deporte",
+        "article_id": "2be6bbd41deca5292e131a69d72d2940",
+        "link": "https://tribunadepetropolis.com.br/noticias/quatro-das-8-atividades-do-varejo-sobem-em-junho-ante-maio-revela-ibge/",
+        "title": "Quatro das 8 atividades do varejo sobem em junho ante maio, revela IBGE",
+        "description": "Quatro das oito atividades que integram o comércio varejista registraram ganhos nas vendas em junho ante maio, segundo os dados da Pesquisa Mensal de Comércio, divulgados pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Os Combustíveis e lubrificantes recuaram 1,7%, enquanto os Hiper, supermercados, produtos alimentícios, bebidas e fumo subiram 1,1%. Houve recuo de 2,6% [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mexico-deportes",
-            "rommel pacheco",
-            "atletas mexicanos",
-            "boxeo",
-            "box",
-            "conade",
-            "mexico-noticias"
-        ],
+        "keywords": null,
         "creator": [
-            "alexander ortiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-12 14:26:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:34:17",
-        "image_url": "https://www.infobae.com/resizer/v2/F374X3TZOZG5BJGPFCNSFKRMOQ.jpeg?auth=3b78f203eab352df2f60d19692b249d1aa98855a9d6ff40c332e2dc223c3ff75&smart=true&width=1559&height=1039",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "CONADE通过国家级“转型之拳”推广拳击运动",
-        "description_zh": "该倡议旨在让体育活动更贴近不同人群，并通过体育加强共存。"
-    },
-    {
-        "article_id": "b3175c7a444df2c736bcacc09cee0640",
-        "link": "https://www.infobae.com/estados-unidos/2026/08/12/un-caiman-de-casi-3-metros-ataco-a-una-mujer-mientras-nadaba-en-un-rio-de-florida-y-le-provoco-la-amputacion-de-un-brazo/",
-        "title": "Un caimán de casi 3 metros atacó a una mujer mientras nadaba en un río de Florida y le provocó la amputación de un brazo",
-        "description": "El hecho ocurrió el 8 de agosto en el condado de Marion, cerca de Ray Wayside Park, una zona frecuentada por personas que practican actividades acuáticas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "fauna silvestre",
-            "cocodrilos",
-            "estados unidos noticias",
-            "florida",
-            "animales"
-        ],
-        "creator": [
-            "maricielo grados córdova"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-12 14:26:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:34:17",
-        "image_url": "https://www.infobae.com/resizer/v2/LNCOTST7ZNGXLOOQ2PJBNEIVYA.png?auth=99f9297fa838bb06649a4cfea6e3e56be8cf4d330d3d87e23a3cf73c73206569&smart=true&width=1408&height=768",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "一名女子在佛罗里达河中游泳时，一条近 3 米长的鳄鱼袭击了她，导致她手臂被截肢",
-        "description_zh": "这起事件于 8 月 8 日发生在马里恩县，靠近雷路赛德公园，这是人们经常进行水上活动的地区。"
-    },
-    {
-        "article_id": "29dc4dce58c92a930ba75ee590a05fe0",
-        "link": "https://tribunaonline.com.br/concursos/transpetro-abre-concurso-publico-com-281-vagas-e-salario-inicial-de-ate-r-15-mil-328239",
-        "title": "Transpetro abre concurso público com 281 vagas e salário inicial de até R$ 15 mil",
-        "description": "A Transpetro, empresa de transporte da Petrobras, anunciou concurso público com 281 vagas efetivas e 3.890 para criação de cadastro de reserva. São quatro editais, sendo dois direcionados a vagas em terra e dois a vagas em mar, todas regidas pela CLT (Consolidação das Leis do Trabalho).Interessados podem se inscrever entre esta quarta-feira (12) e 14 de setembro pelo site da Cesgranrio, banca organizadora do certame. Na primeira semana de inscrições, até 19 de agosto, doadores de medula óssea e pessoas de baixa renda cadastradas no Cadastro Único do governo federal podem pedir isenção da taxa, que é de R$ 81,50 para vagas de nível técnico e suboficiais e R$ 117 para vagas de nível superior e oficiais.Haverá reserva de 25% das vagas para negros 3% para indígenas e 2% para quilombolas. Nos cargos que tenham mais de cinco vagas, serão reservadas 10% das oportunidades a pessoas com deficiência.As provas, previstas para 29 de novembro, terão 70 questões objetivas para os cargos de nível superior ou oficial e 50 para os de nível médio ou suboficial. Candidatos a vagas com ênfase em advocacia farão duas questões discursivas.Para as vagas de mar, será aplicado, em 30 e 31 de janeiro de 2027, teste de aptidão física. Serão duas etapas. Em uma delas, homens deverão percorrer no mínimo 1.800 metros, e mulheres, 1.500 em 12 minutos. Na outra, todos deverão nadar em estilo livre por 25 metros sem limite de tempo.Conurso Público TranspetroVagas: 281 vagas efetivas e 3.890 vagas destinadas à formação de cadastro de reserva. Contratação sob o regime da CLT.Inscrições: 12 de agosto e 14 de setembro. Até 19 de agosto, doadores de medula óssea e pessoas de baixa renda inscritas no Cadastro Único do governo federal poderão solicitar isenção.Taxa: R$ 81,50 para cargos técnicos e suboficiais e R$ 117 para cargos superiores e oficiais.Reserva de vagas: 25% das vagas para pessoas negras, 3% para indígenas e 2% para quilombolas. Em cargos com mais de cinco postos de trabalho, 10% das vagas serão destinadas a pessoas com deficiência.Provas: 70 questões objetivas para cargos de nível superior ou oficial e 50 questões para os de nível médio ou suboficial. Quem concorrer a vagas com ênfase em advocacia também responderá a duas questões discursivas.Datas das provasProvas objetivas e discursivas - 29 de novembro de 2026Teste de aptidão física para ps cargos de mar - 30 e 31 de janeiro de 2027",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "concursos"
-        ],
-        "creator": [
-            "da agência folhapress",
-            "guilherme w. almeida"
+            "equipe ae / estadão"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "business",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-13 14:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-13 15:20:01",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "video_url": null,
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "IBGE 透露，6 月份 8 项零售活动中有 4 项比 5 月份有所增加",
+        "description_zh": "巴西地理与统计研究所 (IBGE) 发布的月度商业调查数据显示，构成零售贸易的八项活动中有四项 6 月份销售额较 5 月份有所增长。燃料和润滑油下跌 1.7%，而 Hyper"
+    },
+    {
+        "article_id": "0daddd871ff6b4dbe6020ce0d6847889",
+        "link": "https://atarde.com.br/mundo/influenciador-mormon-morre-dias-depois-de-gravar-video-sobre-pos-morte-1398481",
+        "title": "Influenciador mórmon morre dias depois de gravar vídeo sobre pós-morte",
+        "description": "O influenciador mórmon Chandler David Hendry, de 27 anos, morreu após um acidente de trânsito em Lehi, Utah, nos Estados Unidos, na última sexta-feira, 7. A morte chamou a atenção dos seguidores porque, pouco antes da tragédia, ele havia publicado um vídeo com uma reflexão sobre a vida após a morte.Segundo as informações divulgadas, Chandler avançou um sinal vermelho e colidiu com outros dois veículos. O influenciador foi socorrido e levado a um hospital em estado gravíssimo, mas não resistiu aos ferimentos.Membro da Igreja de Jesus Cristo dos Santos dos Últimos Dias, Chandler era recém-casado e morreu poucas semanas antes de completar dois anos de união com Analynn.Em declaração ao jornal Deseret News, a esposa lamentou a morte e destacou a relação do casal. Leia Também: NOVIDADE NA AVIAÇÃO Avião sem janelas: conheça projeto ousado que promete revolucionar a aviação MUNDO Eclipse solar total vai transformar o dia em noite para milhões nesta quarta TRAGÉDIA NA ÁFRICA 14 garimpeiros morrem em mina ilegal na África do Sul; outros seguem presos “Ele era a melhor pessoa que eu conhecia. Eu sentia o amor de Deus por mim através dele todos os dias”, disse Analynn.A publicação feita por Chandler sobre a vida após a morte ganhou repercussão entre os seguidores após o acidente, que ocorreu pouco tempo depois do vídeo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mundo"
+        ],
+        "creator": [
+            "victoria isabel"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-12 14:26:45",
+        "pubDate": "2026-08-13 14:24:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:54:50",
-        "image_url": "https://cdn2.tribunaonline.com.br/img/Artigo-Destaque/320000/Transpetro-abre-concurso-publico-com-281-vagas-e-s0032823900202608121126.jpg?xid=1502505",
+        "fetched_at": "2026-08-13 14:41:15",
+        "image_url": "https://cdn.atarde.com.br/img/Artigo-Destaque/1390000/influenciador-mormon-morre-dias-depois-de-gravar-v0139848100202608131125.png?xid=7171873",
         "video_url": null,
-        "source_id": "tribunaonline_br",
-        "source_name": "Tribuna Online",
-        "source_priority": 1025555,
-        "source_url": "https://tribunaonline.com.br",
-        "source_icon": "https://n.bytvi.com/tribunaonline_br.png",
+        "source_id": "atarde",
+        "source_name": "A Tarde",
+        "source_priority": 57528,
+        "source_url": "https://www.atarde.com.br",
+        "source_icon": "https://n.bytvi.com/atarde.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -272,112 +379,17 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "Transpetro 公开竞聘 281 个职位空缺，起薪高达 15,000 雷亚尔",
-        "description_zh": "巴西国家石油公司 (Petrobras) 旗下运输公司 Transpetro 宣布进行公开竞争，共有 281 个有效职位空缺和 3,890 个职位空缺，以创建储备名册。有四份通知，其中两份针对陆地职位空缺，两份针对海上职位空缺，所有通知均受 CLT（劳动法合并）管辖。"
+        "title_zh": "摩门教影响者在录制尸检视频几天后去世",
+        "description_zh": "摩门教影响者钱德勒·大卫·亨德利，27岁，上周五7日在美国犹他州李海市发生交通事故后去世。他的死亡引起了他的追随者的注意，因为在悲剧发生前不久，他发布了一段反思死后生活的视频"
     },
     {
-        "article_id": "afd850c40b6ce863f3d33d59929e1fc1",
-        "link": "https://www.mejorinformado.com/deportes/2026-8-12-11-26-31-lionel-messi-duda-sobre-su-futuro-futbolistico-tras-la-muerte-de-su-padre",
-        "title": "Messi se quebró tras la muerte de su padre y dejó una frase que preocupa a todos: “No sé cómo seguir”",
-        "description": "A días de perder la final del Mundial y de su padre Jorge, el astro argentino expresó en redes su profunda tristeza y la incertidumbre sobre continuar su carrera profesional.",
+        "article_id": "5871723c61e8676bab17c4caac9ab711",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/13/frank-aguiar-fernando-and-fabiano-e-atitude-67-fazem-shows-para-celebrar-os-495-anos-de-cananeia-sp.ghtml",
+        "title": "Frank Aguiar, Fernando & Fabiano e Atitude 67 fazem shows para celebrar os 495 anos de Cananéia, SP",
+        "description": "Frank Aguiar e Atitude 67 fazem parte da programação de shows gratuitos em Cananéia, SP Site Frank Aguiar / Divulgação Shows gratuitos de Frank Aguiar, Fernando & Fabiano, Atitude 67 e outros artistas fazem parte das comemorações dos 495 anos de Cananeia, no litoral de São Paulo. O aniversário da cidade foi celebrado no dia 12 de agosto, mas as festividades seguem até domingo (16), junto da celebração à padroeira da cidade e oficinas culturais. O primeiro dia de festividades foi marcado pelo início das orações, que integram a 117a Festa de Nossa Senhora dos Navegantes, padroeira do município, considerado o primeiro povoado do Brasil. À noite, o cantor Mumuzinho realizou um show no Palco Avenida Beira Mar. ✅ Clique aqui para seguir o novo canal do g1 Santos no WhatsApp. Nesta quinta-feira (13), a partir das 17h, acontecem oficinais culturais infantis, na Praça da Tiduca. Às 19h, a Paróquia São João Batista recebe o segundo dia de orações para Nossa Senhora dos Navegantes. O encerramento do segundo dia será feito pelo cantor Frank Aguiar, que se apresenta no Palco Beira Mar, às 23h. Agora no g1 Já na sexta-feira (14), a partir das 19h, acontece o último dia de preparação para a festa da padroeira da cidade. No mesmo horário, será decidido o Desafio das Areias, no Campo do Glória. Às 23h, DJ Juninho Portugal e Banda sobem no palco Beira Mar. No sábado (15), é celebrado oficialmente o Dia de Nossa Senhora dos Navegantes. A 117a edição da festa da santa começa com uma missa solene, às 10h, na Paróquia São João Batista. Às 16h, acontece uma procissão, considerada o cortejo marítimo mais antigo de São Paulo, no Píer Municipal. Após a procissão marítima, o palco Beira Mar recebe uma apresentação pirotécnica musical, ainda em homenagem à padroeira, com início marcado para 20h. Na sequência, o público poderá assistir aos shows da dupla sertaneja Fernando & Fabiano e do grupo Atitude 67, partir de 21h30. A comemoração dos 495 anos de Cananéia se encerra oficialmente no domingo (16), com o show da banda Audio Phone, a partir das 20h. Cananéia, cidade considerada o primeiro povoado do Brasil, completou 495 anos. Prefeitura de Cananéia",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "lionel messi",
-            "deportes",
-            "argentina",
-            "carrera deportiva",
-            "decisión profesional",
-            "jorge messi"
-        ],
-        "creator": [
-            "pablo casabona"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "crime",
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-12 14:26:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 15:50:55",
-        "image_url": "https://pxcdn.mejorinformado.com/mejorinformado/082026/1786544792391.webp?cw=320&ch=180",
-        "video_url": null,
-        "source_id": "mejorinformado",
-        "source_name": "Mejorinformado",
-        "source_priority": 463646,
-        "source_url": "https://www.mejorinformado.com",
-        "source_icon": "https://n.bytvi.com/mejorinformado.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "父亲去世后，梅西崩溃了，留下了一句令所有人担忧的话语：“我不知道如何继续”",
-        "description_zh": "在输掉世界杯决赛并失去父亲豪尔赫几天后，这位阿根廷球星在社交媒体上表达了他对继续职业生涯的深深悲伤和不确定性。"
-    },
-    {
-        "article_id": "f41c7b0efb81564cd81ff1fe014a5e3b",
-        "link": "https://www.infobae.com/teleshow/2026/08/12/los-contundentes-videos-de-luck-ra-en-medio-de-su-separacion-de-la-joaqui-ya-no-sufro-mas-por-amor/",
-        "title": "Los contundentes videos de Luck Ra en medio de su separación de La Joaqui: “Ya no sufro más por amor”",
-        "description": "A casi dos semanas de conocerse la ruptura, el artista cordobés compartió unas publicaciones que llamaron atención a sus seguidores, quienes los vincularon con la referente de RKT",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "separación",
-            "últimas noticias",
-            "indirecta",
-            "la joaqui",
-            "luck ra"
-        ],
-        "creator": [
-            "martina cortés"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-12 14:26:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:34:17",
-        "image_url": "https://www.infobae.com/resizer/v2/UYLNN7UWWFEPRH2C7CVCA6JN2Q.jpg?auth=e92c57a928a64414d6a2c944f65c375257cfff7728c040c659f3ae96c944a2ed&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/1xEi30OF-HeIT2Id1.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Luck Ra 在与 La Joaqui 分离期间的有力视频：“我不再为爱受苦”",
-        "description_zh": "在得知分手消息近两周后，这位来自科尔多瓦的艺术家分享了一些出版物，引起了他的追随者的注意，他们将这些出版物与 RKT 参考资料联系起来"
-    },
-    {
-        "article_id": "a1a8d66f525c80cf18b8da984458519b",
-        "link": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/08/12/oon-seguradora-aprofunda-estrategia-b2b-com-participacao-na-pv-experience-1.ghtml",
-        "title": "OON Seguradora aprofunda estratégia B2B com participação na PV Experience",
-        "description": "A OON Seguradora confirma participação na PV Experience 2026, considerado um dos principais eventos de capacitação do setor de proteção patrimonial mutualista do Brasil. O encontro acontece nos dias 09 e 10 de setembro em Maceió, Alagoas, e reúne gestores de associações, executivos do setor segurador e formadores de opinião de mercados como Minas Gerais, Goiás, Distrito Federal e Nordeste. A presença no evento integra a estratégia de expansão da companhia no mercado B2B, aprofundada ao longo do segundo semestre com a formalização de diálogo institucional junto a entidades representativas do segmento. O movimento sucede a aproximação com a FECASP (Federação das Associações de Proteção Veicular e Patrimonial), realizada em julho, e marca o segundo passo público da guinada institucional da OON em direção às associações mutualistas. A atuação da OON no segmento passa pelo modelo MGA (Managing General Agent). Nessa estrutura, uma seguradora delega a uma empresa especializada funções técnicas, emissão de apólices e gestão de sinistros, mantendo a responsabilidade final sobre as operações. No Brasil, a Resolução CNSP no 431/2021 regulamenta a figura do Representante de Seguros e permite essa delegação contratual. O modelo permite que associações de proteção patrimonial mutualista acessem uma estrutura seguradora consolidada sem precisar constituir reservas técnicas próprias. Isso reduz a complexidade operacional e acelera a adequação a marcos regulatórios mais rígidos. Levantamentos da consultoria americana Conning Insurance Research indicam que, nos Estados Unidos, maior mercado de MGAs do mundo, o volume de prêmios originados por esse tipo de estrutura já ultrapassa a faixa de US$ 80 bilhões a US$ 90 bilhões, com crescimento anual de dois dígitos, superando o ritmo do mercado de seguros tradicional. Estudos da consultoria McKinsey & Company também apontam retomada do interesse de investidores internacionais pelas MGAs, atraídos pela margem operacional mais alta gerada pela combinação entre tecnologia e especialização técnica em subscrição. Reinaldo Aguimar, diretor operacional da OON Seguradora, representará a companhia no evento. \"A participação na PV Experience reforça nosso compromisso em oferecer soluções estruturantes para o ecossistema mutualista, conectando associações a uma infraestrutura regulatória consolidada\", afirma o executivo. A PV Experience é organizada por Alexandre Almeida e Gustavo Gomes e reúne, em formato de capacitação intensiva, gestores de associações de proteção veicular e patrimonial de diferentes regiões do país. Para a OON, o evento é oportunidade de apresentar o modelo MGA como alternativa de parceria para operadores em busca de formalização e capacidade técnica, num momento em que publicações da ENS (Escola de Negócios e Seguros) destacam o papel das MGAs como catalisadoras de inovação no setor, ao transformar custos fixos de seguradoras tradicionais em custos variáveis e ao atrair capacidade de resseguradoras estrangeiras para riscos especiais. Sobre a OON Seguradora A OON Seguradora atua no modelo MGA (Managing General Agent), oferecendo a associações de proteção patrimonial mutualista infraestrutura tecnológica e regulatória para subscrição, precificação, emissão de apólices e gestão de sinistros, dentro do marco definido pela Resolução CNSP no 431/2021.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "valor"
+            "g1"
         ],
         "creator": null,
         "language": "portuguese",
@@ -385,20 +397,20 @@
             "brazil"
         ],
         "category": [
-            "business",
+            "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-12 14:26:31",
+        "pubDate": "2026-08-13 14:24:49",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:35:33",
-        "image_url": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+        "fetched_at": "2026-08-13 14:35:15",
+        "image_url": "https://s2-g1.glbimg.com/ES3D7VppEYoF0uVzul7rpqdxgYE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/I/A70vDvTk2ZmdqqhNqgxQ/fotos-materias-2026-08-13t100217.145.jpg",
         "video_url": null,
-        "source_id": "valor_globo",
-        "source_name": "Valor Globo",
-        "source_priority": 2786,
-        "source_url": "https://valor.globo.com",
-        "source_icon": "https://n.bytvi.com/valor_globo.png",
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://n.bytvi.com/g1globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -406,66 +418,20 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "OON Seguradora 深化 B2B 战略，参与 PV Experience",
-        "description_zh": "OON Seguradora 确认参加 PV Experience 2026，该活动被认为是巴西共同资产保护领域的主要培训活动之一。该会议于 9 月 9 日至 10 日在阿拉戈斯州马塞约举行，协会经理和行业高管齐聚一堂"
+        "title_zh": "Frank Aguiar、Fernando & Fabiano 和 Atitude 67 表演节目庆祝圣保罗卡纳内亚成立 495 周年",
+        "description_zh": "Frank Aguiar 和 Atitude 67 是卡纳内亚免费表演计划的一部分，SP 网站 Frank Aguiar / Disclosure Frank Aguiar、Fernando 和 Fabiano、Atitude 67 以及其他艺术家的免费表演是圣保罗海岸卡纳内亚 495 周年庆祝活动的一部分。生日"
     },
     {
-        "article_id": "c4eff977cc29a9eb849aa080c0ef4a9e",
-        "link": "https://www.lance.com.br/futebol-internacional/ex-botafogo-pode-deixar-a-gigante-europeu-apos-uma-temporada.html",
-        "title": "Luis-Henrique-em-acao-pela-Inter-de-Milao-da-Italia-aspect-ratio-512-320",
-        "description": "Luis Henrique pode deixar a Inter de Milão apenas um ano após sua chegada ao futebol italiano, segundo o jornal \"Gazzetta dello Sport\"; veja",
+        "article_id": "ed71b63c2cbb49562bf24acabcf9de15",
+        "link": "https://www.informador.mx/mexico/monitorean-dos-zonas-de-baja-presion-que-darian-origen-al-ciclon-dolly-en-el-atlantico-20260813-0045.html",
+        "title": "Monitorean zonas de baja presión que darían origen al ciclón \"Dolly\"",
+        "description": "El Servicio Meteorológico Nacional vigila la evolución de dos perturbaciones en el Océano Atlántico; la más cercana a México presenta un 80% de probabilidad de convertirse en tormenta tropical",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "futebol internacional",
-            "update_me",
-            "inter de milão"
+            "méxico"
         ],
         "creator": [
-            "nathalia gomes"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-12 14:26:30",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:37:23",
-        "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,format=webp/uploads/2026/08/Luis-Henrique-em-acao-pela-Inter-de-Milao-da-Italia-aspect-ratio-512-320.jpg",
-        "video_url": null,
-        "source_id": "lance",
-        "source_name": "Lance!",
-        "source_priority": 12891,
-        "source_url": "https://www.lance.com.br",
-        "source_icon": "https://n.bytvi.com/lance.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "路易斯-恩里克在意大利米劳国际比赛中纵横比-512-320",
-        "description_zh": "据《米兰体育报》报道，路易斯·恩里克可能在抵达意大利足坛仅一年后就离开国际米兰；看"
-    },
-    {
-        "article_id": "9215607886442c0c1e2bd7b66dd28442",
-        "link": "https://pulsoslp.com.mx/mundo/vuelo-de-asistencia-humanitaria-mexico-recibe-embajada-colombiana/2075535",
-        "title": "Vuelo de asistencia humanitaria México recibe embajada colombiana",
-        "description": "Vuelo de asistencia humanitaria enviado por México recibe agradecimiento de embajada colombiana.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "colombia declara emergencia tras sismo 7.4",
-            "claudia sheinbaum liderazgo ayuda colombia",
-            "donaciones cruz roja colombiana méxico",
-            "vuelo asistencia humanitaria méxico colombia sismo"
-        ],
-        "creator": [
-            "pulso slp"
+            "óscar ernestoálvarez gutiérrez"
         ],
         "language": "spanish",
         "country": [
@@ -476,16 +442,16 @@
             "environment"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-12 14:27:00",
+        "pubDate": "2026-08-13 14:25:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 15:59:37",
-        "image_url": "https://blobcore.pulsoslp.com.mx/images/2026/08/11/colombia-busca-desaparecidos-tras-terremoto-que-dejo-mas-de-180-muertos-ef93ee9e-focus-0-0-600-315.webp",
+        "fetched_at": "2026-08-13 14:38:45",
+        "image_url": "https://www.informador.mx/__export/1786631559552/sites/elinformador/img/2026/08/13/dolly_version1786631526984.png_1452927591.png",
         "video_url": null,
-        "source_id": "pulsoslp_mx",
-        "source_name": "Pulso Diario San Luis",
-        "source_priority": 3206842,
-        "source_url": "https://www.pulsoslp.com.mx",
-        "source_icon": "https://n.bytvi.com/pulsoslp_mx.png",
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://n.bytvi.com/informador_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -493,36 +459,204 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "墨西哥人道主义援助航班接待哥伦比亚大使馆",
-        "description_zh": "墨西哥派出的人道主义援助航班得到哥伦比亚大使馆的感谢。"
+        "title_zh": "他们监测会引发气旋“多莉”的低压区域",
+        "description_zh": "国家气象局监测大西洋两次扰动的演变；距离墨西哥最近的风暴有 80% 的可能性成为热带风暴"
     },
     {
-        "article_id": "f5feacec19ddb8e0e26c8bc5cd3ce9a0",
-        "link": "https://www.elmanana.com/escena/famosos/boda-de-georgina-rodriguez-y-cristiano-ronaldo/6172688",
-        "title": "Boda de Georgina Rodríguez y Cristiano Ronaldo",
-        "description": "Ronaldo y Georgina recorrieron un camino que comenzó en 2016, y que no siempre estuvo rodeado del glamour y la felicidad que juntos han construido.",
+        "article_id": "f00987a77e5078e0c672c72c39d24271",
+        "link": "https://www.vanguardia.com/judicial/2026/08/13/ataque-a-bala-en-establecimiento-de-comidas-rapidas-dejo-tres-heridos-en-santander/",
+        "title": "Ataque a bala en establecimiento de comidas rápidas dejó tres heridos en Santander",
+        "description": "El sujeto armado ingresó al lugar y, sin mediar palabra, habría sacado un arma de fuego para disparar contra las personas que se encontraban trabajando allí.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "heridos",
+            "santander",
+            "disparos"
+        ],
+        "creator": [
+            "redacción judicial"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-13 14:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-13 14:38:25",
+        "image_url": "https://www.vanguardia.com/resizer/v2/RRHRD4BHL5F2RDLE24WW5OIZBA.png?auth=e2290fb4d50813eeb4caae959d1cd56505fa9fc77812d72004e9ff12ecf79c08&smart=true&width=964&height=672",
+        "video_url": null,
+        "source_id": "vanguardia",
+        "source_name": "Vanguardia",
+        "source_priority": 24302,
+        "source_url": "https://vanguardia.com.mx",
+        "source_icon": "https://n.bytvi.com/vanguardia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "桑坦德快餐店枪击事件造成三人受伤",
+        "description_zh": "这名武装人员进入该地点，据称二话不说，就掏出枪支向在那里工作的人开枪。"
+    },
+    {
+        "article_id": "121e7ff4ab4c8dc6bdc1571d9f634f0e",
+        "link": "https://www.portafolio.co/negocios/empresas/odinsa-cierra-el-primer-semestre-un-alza-del-36-en-sus-utilidades-netas-serian-cerca-de-118-491-millones-500300",
+        "title": "Odinsa cierra el primer semestre un alza del 36% en sus utilidades netas, serían cerca de $118.491 millones",
+        "description": "Los ingresos de la concesionaria crecieron 18% y el ebitda un 32% frente al mismo semestre de 2025.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "empresas"
+        ],
+        "creator": [
+            "maría camila monsalve martínez"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-13 14:25:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-13 14:40:15",
+        "image_url": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/08/13/6a7dd0fe60bc4.png",
+        "video_url": null,
+        "source_id": "portafolio",
+        "source_name": "Noticias Economicas De Colombia Y El Mundo | Porta",
+        "source_priority": 37310,
+        "source_url": "https://www.portafolio.co",
+        "source_icon": "https://n.bytvi.com/portafolio.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Odinsa 第一季度末净利润增长 36%，接近 1,184.91 亿美元",
+        "description_zh": "与 2025 年同期相比，该特许经营公司的收入增长了 18%，税息折旧及摊销前利润 (EBITDA) 增长了 32%。"
+    },
+    {
+        "article_id": "e05933989ec723c6a032c5770e0b3acb",
+        "link": "https://www.tvazteca.com/aztecanoticias/como-cuidar-gatos-en-grecia-y-conseguir-hospedaje/",
+        "title": "¿Amas a los gatos? Refugio en isla paradisiaca de Grecia te aloja gratis a cambio de mimar y cuidar a sus mascotas",
+        "description": "Si tu sueño es cuidar gatos en Grecia, ¡esta isla te aloja gratis! Conoce requisitos y fechas para postularte a este refugio en el archipiélago de las Cícladas.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mundo"
+        ],
+        "creator": [
+            "adriana juárez miranda"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-13 14:24:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-13 15:07:05",
+        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/cb/43/210b039741bf8a6db6776ca6cb12/cuidar-gatos-en-grecia.jpg",
+        "video_url": null,
+        "source_id": "tvazteca",
+        "source_name": "Azteca Deportes",
+        "source_priority": 17594,
+        "source_url": "https://www.tvazteca.com",
+        "source_icon": "https://n.bytvi.com/tvazteca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "你喜欢猫吗？希腊天堂岛上的庇护所免费为您提供住宿，以换取您对宠物的宠爱和照顾",
+        "description_zh": "如果您的梦想是在希腊照顾猫，这个岛将免费接待您！了解申请基克拉泽斯群岛避难所的要求和日期。"
+    },
+    {
+        "article_id": "3475d5c49d9077afcd74a9412c62533f",
+        "link": "https://www.mural.com.mx/frena-colombia-a-rescatistas-mexicanos-pide-certificacion/ar3257266",
+        "title": "Frena Colombia a rescatistas mexicanos; pide certificación",
+        "description": "CSP dijo que Colombia no autorizó el viaje de los 255 rescatistas de la Defensa, pues pidió certificación pese a experiencia de la brigada.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
-        "creator": null,
+        "creator": [
+            "natalia vitela y claudia guerrero"
+        ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "entertainment",
+            "crime",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-12 14:27:00",
+        "pubDate": "2026-08-13 14:24:38",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 17:18:22",
+        "fetched_at": "2026-08-13 14:54:15",
         "image_url": null,
         "video_url": null,
-        "source_id": "elmanana",
-        "source_name": "Últimas Noticias - El Mañana De Reynosa",
-        "source_priority": 258494,
-        "source_url": "https://www.elmanana.com",
-        "source_icon": "https://n.bytvi.com/elmanana.jpg",
+        "source_id": "mural",
+        "source_name": "Mural",
+        "source_priority": 966477,
+        "source_url": "https://www.mural.com.mx",
+        "source_icon": "https://n.bytvi.com/mural.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "哥伦比亚阻止墨西哥救援人员；要求认证",
+        "description_zh": "CSP 表示，哥伦比亚并未批准 255 名国防救援人员的旅行，因为尽管该旅经验丰富，但哥伦比亚仍要求获得认证。"
+    },
+    {
+        "article_id": "d3f4b4b88caae0ae86fe6ad7db51179a",
+        "link": "https://www.elpais.com.co/cali/en-vivo-dia-4-del-sismo-en-cali-y-el-valle-asi-avanzan-los-rescates-la-remocion-de-escombros-y-las-ayudas-1331.html",
+        "title": "EN VIVO | Día 4 del sismo en Cali y el Valle: así avanzan los rescates, la remoción de escombros y las ayudas",
+        "description": "El País continúa su cubrimiento desde Cali, el norte del Valle y Buenaventura. Seguimos minuto a minuto las labores de rescate, la remoción de escombros, la atención en las zonas afectadas y las historias de solidaridad que deja la emergencia.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "terremoto en colombia",
+            "terremoto",
+            "cali"
+        ],
+        "creator": [
+            "daniela monroy"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-13 14:24:31",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-13 14:40:22",
+        "image_url": "https://semana-el-pais-prod.web.arc-cdn.net/resizer/v2/3HNWJC5MPJEXPP7VMBQCBZO4XY.jpg?auth=fa71289079375fbcbd33e46bb6bb0716184042810414bcc883f8003d0af87b32&smart=true&width=4202&height=2803",
+        "video_url": null,
+        "source_id": "elpaiscl",
+        "source_name": "El Pais",
+        "source_priority": 39172,
+        "source_url": "https://www.elpais.com.co",
+        "source_icon": "https://n.bytvi.com/elpaiscl.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -530,281 +664,45 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "乔治娜·罗德里格斯和克里斯蒂亚诺·罗纳尔多的婚礼",
-        "description_zh": "C 罗和乔治娜自 2016 年开始走上一条道路，但这条道路并不总是充满他们共同创造的魅力和幸福。"
+        "title_zh": "直播|卡利和山谷地震第四天：救援、清除废墟和援助工作的进展情况",
+        "description_zh": "《国家报》继续从卡利、山谷北部和布埃纳文图拉进行报道。我们每时每刻都在关注救援工作、清除废墟、对受影响地区的护理以及紧急情况留下的团结故事。"
     },
     {
-        "article_id": "eda89e2410e0cabf38e633de46320d37",
-        "link": "https://www.chanarcillo.cl/seremi-de-mineria-llama-a-pequenos-mineros-a-suspender-faenas-y-descender-a-lugares-seguros-ante-nuevo-sistema-frontal/",
-        "title": "Seremi de Minería llama a pequeños mineros a suspender faenas y descender a lugares seguros ante nuevo sistema frontal",
-        "description": "Desde la cartera se busca extremar las medidas preventivas y de seguridad, reiterando que “la protección de la vida y",
+        "article_id": "f8e1822645df8cfdda23ab9b2396efd8",
+        "link": "https://www.theclinic.cl/2026/08/13/canal-13-mueve-las-piezas-en-hay-que-decirlo-laura-prieto-llega-al-panel-tras-la-salida-de-gissella-gallardo/",
+        "title": "Canal 13 mueve las piezas en “Hay que decirlo”: Laura Prieto llega al panel tras la salida de Gissella Gallardo",
+        "description": "Tras la salida de Gissella Gallardo, Canal 13 confirmó a Laura Prieto como nueva integrante de “Hay que decirlo”. La comunicadora se suma al panel liderado por Pamela Díaz e Ignacio Gutiérrez luego de su paso por “Vecinos al límite”. The post Canal 13 mueve las piezas en “Hay que decirlo”: Laura Prieto llega al panel tras la salida de Gissella Gallardo appeared first on The Clinic .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "región - actualidad"
+            "tiempo libre",
+            "laura prieto",
+            "canal 13",
+            "pamela díaz",
+            "gissella gallardo",
+            "hay que decirlo"
         ],
         "creator": [
-            "matías quiroga salas"
+            "felipe betancour"
         ],
         "language": "spanish",
         "country": [
             "chile"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-12 14:26:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 15:02:57",
-        "image_url": "https://www.chanarcillo.cl/wp-content/uploads/2026/08/Seremi-de-Mineria-Atacama.jpeg",
-        "video_url": null,
-        "source_id": "chanarcillo_cl",
-        "source_name": "Chanarcillo",
-        "source_priority": 99999999,
-        "source_url": "https://www.chanarcillo.cl",
-        "source_icon": "https://n.bytvi.com/chanarcillo_cl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "塞雷米·德米内里亚 (Seremi de Minería) 呼吁小型矿工面对新的锋面系统暂停工作并下撤至安全地点",
-        "description_zh": "该部寻求采取极端的预防和安全措施，重申“保护生命和安全”"
-    },
-    {
-        "article_id": "daddf370da5f27900a3d95d24f366dff",
-        "link": "https://www.infobae.com/mexico/deportes/2026/08/12/conade-impulsa-el-boxeo-con-la-clase-nacional-punos-de-transformacion/",
-        "title": "CONADE impulsa el boxeo con la Clase Nacional “Puños de Transformación”",
-        "description": "La iniciativa busca acercar la actividad física a distintos sectores de la población y fortalecer la convivencia a través del deporte",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mexico-deportes",
-            "rommel pacheco",
-            "atletas mexicanos",
-            "boxeo",
-            "box",
-            "conade",
-            "mexico-noticias"
-        ],
-        "creator": [
-            "alexander ortiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-12 14:26:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:34:17",
-        "image_url": "https://www.infobae.com/resizer/v2/F374X3TZOZG5BJGPFCNSFKRMOQ.jpeg?auth=3b78f203eab352df2f60d19692b249d1aa98855a9d6ff40c332e2dc223c3ff75&smart=true&width=1559&height=1039",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "CONADE通过国家级“转型之拳”推广拳击运动",
-        "description_zh": "该倡议旨在让体育活动更贴近不同人群，并通过体育加强共存。"
-    },
-    {
-        "article_id": "b3175c7a444df2c736bcacc09cee0640",
-        "link": "https://www.infobae.com/estados-unidos/2026/08/12/un-caiman-de-casi-3-metros-ataco-a-una-mujer-mientras-nadaba-en-un-rio-de-florida-y-le-provoco-la-amputacion-de-un-brazo/",
-        "title": "Un caimán de casi 3 metros atacó a una mujer mientras nadaba en un río de Florida y le provocó la amputación de un brazo",
-        "description": "El hecho ocurrió el 8 de agosto en el condado de Marion, cerca de Ray Wayside Park, una zona frecuentada por personas que practican actividades acuáticas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "fauna silvestre",
-            "cocodrilos",
-            "estados unidos noticias",
-            "florida",
-            "animales"
-        ],
-        "creator": [
-            "maricielo grados córdova"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-12 14:26:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:34:17",
-        "image_url": "https://www.infobae.com/resizer/v2/LNCOTST7ZNGXLOOQ2PJBNEIVYA.png?auth=99f9297fa838bb06649a4cfea6e3e56be8cf4d330d3d87e23a3cf73c73206569&smart=true&width=1408&height=768",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "一名女子在佛罗里达河中游泳时，一条近 3 米长的鳄鱼袭击了她，导致她手臂被截肢",
-        "description_zh": "这起事件于 8 月 8 日发生在马里恩县，靠近雷路赛德公园，这是人们经常进行水上活动的地区。"
-    },
-    {
-        "article_id": "6bf5b0421a995012a47850cc51bcea57",
-        "link": "https://www.excelsior.com.mx/deportes/checo-perez-tiene-nuevo-jefe-cadillac-f1-anuncia-marcin-budkowski-como-team-principal",
-        "title": "Checo Pérez tiene nuevo jefe, Cadillac F1 anuncia a Marcin Budkowski como team principal",
-        "description": "De cara al GP de Países Bajos, Cadillac F1 reestructura su cúpula directiva con la incorporación de Budkowski.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tiene",
-            "pérez",
-            "checo",
-            "nuevo",
-            "jefe"
-        ],
-        "creator": [
-            "jesús velasco"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-12 14:26:38",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 15:37:23",
-        "image_url": "https://imagenes.excelsior.com.mx/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c80828488f.r_d.436-395-0.jpeg",
-        "video_url": null,
-        "source_id": "excelsior",
-        "source_name": "Excelsior",
-        "source_priority": 13116,
-        "source_url": "https://www.excelsior.com.mx",
-        "source_icon": "https://n.bytvi.com/excelsior.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Checo Pérez有了新老板，凯迪拉克F1宣布Marcin Budkowski担任主力车队",
-        "description_zh": "展望荷兰大奖赛，凯迪拉克 F1 重组了管理领导层，吸纳了布德科夫斯基。"
-    },
-    {
-        "article_id": "f41c7b0efb81564cd81ff1fe014a5e3b",
-        "link": "https://www.infobae.com/teleshow/2026/08/12/los-contundentes-videos-de-luck-ra-en-medio-de-su-separacion-de-la-joaqui-ya-no-sufro-mas-por-amor/",
-        "title": "Los contundentes videos de Luck Ra en medio de su separación de La Joaqui: “Ya no sufro más por amor”",
-        "description": "A casi dos semanas de conocerse la ruptura, el artista cordobés compartió unas publicaciones que llamaron atención a sus seguidores, quienes los vincularon con la referente de RKT",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "separación",
-            "últimas noticias",
-            "indirecta",
-            "la joaqui",
-            "luck ra"
-        ],
-        "creator": [
-            "martina cortés"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
         ],
         "category": [
             "entertainment",
             "top"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-12 14:26:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:34:17",
-        "image_url": "https://www.infobae.com/resizer/v2/UYLNN7UWWFEPRH2C7CVCA6JN2Q.jpg?auth=e92c57a928a64414d6a2c944f65c375257cfff7728c040c659f3ae96c944a2ed&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/1xEi30OF-HeIT2Id1.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Luck Ra 在与 La Joaqui 分离期间的有力视频：“我不再为爱受苦”",
-        "description_zh": "在得知分手消息近两周后，这位来自科尔多瓦的艺术家分享了一些出版物，引起了他的追随者的注意，他们将这些出版物与 RKT 参考资料联系起来"
-    },
-    {
-        "article_id": "bb325df8d8a964c4bd15bb10650a218f",
-        "link": "https://www.epicentrochile.com/2026/08/12/vaguada-en-altura-en-el-norte-revisa-las-cinco-regiones-bajo-aviso-de-tormentas-electricas/",
-        "title": "Vaguada en altura en el norte: Revisa las cinco regiones bajo aviso de tormentas eléctricas",
-        "description": "La Dirección Meteorológica de Chile actualizó su aviso meteorológico por probables tormentas eléctricas y precipitaciones intensas en corto periodo para las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama y Coquimbo debido a una vaguada en altura. La entrada Vaguada en altura en el norte: Revisa las cinco regiones bajo aviso de tormentas eléctricas aparece primero en Epicentro Chile .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tormentas eléctricas",
-            "dirección meteorológica de chile",
-            "coquimbo",
-            "nacional",
-            "atacama",
-            "arica y parinacota",
-            "vaguada en altura",
-            "antofagasta",
-            "tarapacá",
-            "dmc"
-        ],
-        "creator": [
-            "sebastián araya"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
         "datatype": "news",
-        "pubDate": "2026-08-12 14:26:31",
+        "pubDate": "2026-08-13 14:24:29",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:55:37",
-        "image_url": "https://www.epicentrochile.com/wp-content/uploads/2026/08/JZSWOJ46XVE47N5NLDNMUJS5V4.webp",
+        "fetched_at": "2026-08-13 14:44:52",
+        "image_url": "https://static.theclinic.cl/media/2026/08/13-141411_hsag_Diseno-sin-titulo-2026-08-13T101404.054.jpg",
         "video_url": null,
-        "source_id": "epicentrochile",
-        "source_name": "Epicentro Chile",
-        "source_priority": 1163442,
-        "source_url": "https://www.epicentrochile.com",
-        "source_icon": "https://n.bytvi.com/epicentrochile.jpg",
+        "source_id": "theclinic",
+        "source_name": "The Clinic",
+        "source_priority": 129373,
+        "source_url": "https://www.theclinic.cl",
+        "source_icon": "https://n.bytvi.com/theclinic.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -812,42 +710,48 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "北部高空槽：检查5个雷暴预警地区",
-        "description_zh": "由于高空低压槽，智利气象局更新了阿里卡和帕里纳科塔、塔拉帕卡、安托法加斯塔、阿塔卡马和科金博地区可能在短时间内出现雷暴和强降雨的气象警报。瓦瓜达入口的高度"
+        "title_zh": "Channel 13 在“必须说”中移动片段：劳拉·普列托 (Laura Prieto) 在吉塞拉·加拉多 (Gissella Gallardo) 离开后到达小组",
+        "description_zh": "吉塞拉·加拉多（Gissella Gallardo）离开后，第 13 频道确认劳拉·普列托（Laura Prieto）为“必须说”的新成员。在完成《Vecinos al limit》节目后，这位传播者加入了由帕梅拉·迪亚兹 (Pamela Díaz) 和伊格纳西奥·古铁雷斯 (Ignacio Gutiérrez) 领导的小组。 《Canal 13》后的作品移动了“必须说”中的片段：劳拉"
     },
     {
-        "article_id": "68d6996f667346bfd1a7292cd34a926f",
-        "link": "https://www.semana.com/nacion/articulo/impactantes-imagenes-aereas-muestran-la-desolacion-en-buenaventura-tras-el-terremoto-clamor-por-ayuda-urgente/202631/",
-        "title": "Impactantes imágenes aéreas muestran la desolación en Buenaventura tras el terremoto. Clamor por ayuda urgente",
-        "description": "SEMANA habló con la abogada Libia Mosquera, quien pide la solidaridad de Colombia. “El hospital colapsó y necesitamos alimentos”.",
+        "article_id": "4aa6d98f68360e741a3ee339ff96dee3",
+        "link": "https://www.elcolombiano.com/negocios/terremoto-colombia-alivios-bancarios-tributarios-MD39904697",
+        "title": "¿Fue afectado por el terremoto? Conozca los alivios tributarios y bancarios y cómo acceder a ellos",
+        "description": "El terremoto de magnitud 7,4 registrado el 10 de agosto de 2026 no solo dejó daños en viviendas, edificios y vías. Para miles de hogares y negocios también significó perder temporalmente ingresos, cerrar establecimientos, abandonar sus casas y enfrentar dificultades para pagar créditos, impuestos y facturas . Frente a ese escenario, el Gobierno declaró una situación de desastre de carácter nacional y puso en marcha diferentes instrumentos para financiar la emergencia y la reconstrucción. Puede leer: Presidente De la Espriella confirma emergencia económica y anuncia “Fondo Milagro” para reconstrucción tras terremoto Entre ellos están recursos del Fondo Nacional de Gestión del Riesgo de Desastres , subsidios de arriendo , medidas tributarias y la solicitud de un crédito por US$450 millones al Banco Mundial . Además, fue creada la subcuenta Sismo 2026 , que permitirá manejar de manera separada los recursos destinados a enfrentar la emergencia. Para las familias, trabajadores y empresarios afectados, sin embargo, la pregunta práctica es mucho más sencilla: ¿Qué alivios hay y cómo se pueden pedir? Uno de los anuncios que puede tener mayor alcance viene del sector financiero . Asobancaria informó que las entidades preparan un tratamiento especial para personas y empresas damnificadas , con un universo potencial de 2,8 millones de usuarios en las zonas impactadas. Esto no significa que automáticamente 2,8 millones de personas dejarán de pagar sus créditos. Tampoco quiere decir que todas recibirán exactamente el mismo beneficio. El punto clave es que cada banco evaluará los casos de manera individual y definirá los alivios de acuerdo con sus políticas internas y el nivel de afectación del cliente. Le recomendamos leer: Chocó nos necesita: no hay nevera para almacenar sangre en el hospital que atiende a heridos del terremoto En palabras sencillas: si usted perdió su vivienda, su negocio dejó de operar, sus ingresos disminuyeron o el terremoto le impide atender normalmente sus obligaciones financieras, debe ponerse en contacto con su entidad y explicar su situación . Una de las posibilidades anunciadas son periodos de gracia de hasta 12 meses para los casos de mayor afectación. Un periodo de gracia es, en términos sencillos, un tiempo durante el cual las condiciones normales de pago de una obligación pueden modificarse. Pero hay una precisión importante: el anuncio de hasta 12 meses no significa que todos los damnificados recibirán automáticamente un año sin pagar ni que la deuda desaparezca. Cada entidad determinará qué tratamiento aplica. El paquete anunciado por la banca puede incluir, además de esos periodos de gracia, una redefinición de los plazos y condiciones de las obligaciones y tratamientos especiales en materia de intereses. Conozca: Donaciones de empresas y la Andi ya suman $8.817 millones para damnificados del terremoto Por eso, antes de aceptar cualquier modificación, el cliente debería preguntar expresamente cuánto tiempo durará el alivio, qué ocurrirá con las cuotas aplazadas, cómo quedará el plazo total del crédito y qué tratamiento tendrán los intereses . Este es otro de los puntos importantes del anuncio. El plan presentado por la banca contempla la protección del historial crediticio de los damnificados , además de la suspensión temporal de las gestiones de cobro jurídico y prejurídico para los deudores afectados. En términos sencillos, la intención es que una persona afectada por el desastre tenga un tratamiento especial frente a las dificultades que pueda enfrentar para cumplir sus obligaciones. Sin embargo, el alcance concreto dependerá de la entidad financiera y del alivio que finalmente sea aprobado en cada caso. Por eso, la recomendación fundamental es no asumir que el beneficio se aplica automáticamente . El afectado debe contactar a su banco, explicar su situación y preguntar qué tratamiento particular puede recibir. Vea aquí: ¡Ya no hay desaparecidos! Chocó cierra fase de búsqueda tras encontrar con vida a las últimas personas que faltaban El camino inicial es sencillo: comunicarse directamente con el banco por cualquiera de sus canales disponibles. Asobancaria señaló que los clientes de las zonas afectadas tendrán atención prioritaria, trámites simplificados y evaluación individual . Los alivios específicos y los mecanismos para solicitarlos serán definidos e informados por cada entidad. Eso significa que no existe un único formulario nacional para solicitar todos los beneficios bancarios. Si una persona tiene obligaciones con dos bancos diferentes, por ejemplo, deberá consultar con cada entidad cuáles son sus opciones. La banca también informó que sus canales digitales funcionan a 100% , una alternativa especialmente importante en las zonas donde las oficinas físicas resultaron afectadas. Según el balance divulgado por Asobancaria, las entidades estaban trabajando en el restablecimiento de 533 oficinas afectadas , equivalentes a 4% de las oficinas bancarias del país y a 34% de las ubicadas en Caldas, Chocó, Quindío, Risaralda y Valle del Cauca. A los anuncios generales del sector bancario se suman medidas específicas del Fondo Nacional del Ahorro para sus usuarios afectados por el terremoto. La entidad informó que las personas que tengan créditos vigentes con el Fondo y cuya vivienda haya resultado afectada podrán solicitar alternativas para aliviar temporalmente la carga financiera. Le interesa: Café colombiano retoma exportaciones por Buenaventura tras terremoto Uno de los mecanismos disponibles es un periodo de gracia , cuya aplicación dependerá de las condiciones particulares de cada caso. Esto quiere decir que no existe un mismo periodo automático para todos los usuarios: la situación del afectado deberá ser evaluada para determinar las condiciones que pueden aplicarse. El FNA también anunció la posibilidad de realizar modificaciones en las condiciones del crédito para los usuarios que cumplan los requisitos. Esta alternativa busca dar un margen financiero a las familias que, además de enfrentar daños en sus viviendas, deben continuar atendiendo sus obligaciones hipotecarias. Otro punto clave para los usuarios del Fondo está relacionado con los seguros. El FNA informó que dará acceso preferencial al seguro de incendio y terremoto con cobertura de 100% , de acuerdo con las condiciones de la póliza. Las viviendas vinculadas a crédito hipotecario del FNA, leasing habitacional o arriendo social cuentan con cobertura frente a este tipo de eventos. La protección no se limita únicamente al daño directamente provocado por el movimiento de la tierra. También contempla afectaciones derivadas de la caída de escombros, muros, rocas o daños de infraestructura ocasionados por el sismo . Por esta razón, las personas que tengan una vivienda afectada pueden iniciar el proceso de reclamación para que el caso sea estudiado y se determine la cobertura que corresponde según las condiciones aplicables. Además: ¡Ojo con las estafas! Medellín crea plataforma digital para combatir fraudes y desinformación tras el terremoto El primer paso es diligenciar el formulario de reclamación de seguros , que puede solicitarse directamente al Fondo Nacional del Ahorro. Después, el usuario deberá reunir la documentación necesaria para demostrar tanto su identidad como los daños registrados en el inmueble. Entre los documentos solicitados se encuentran el documento de identidad, una cotización de las reparaciones, fotografías que evidencien los daños ocasionados por el terremoto y un reporte de la autoridad competente . Una vez tenga la documentación, deberá presentar la reclamación ante el Fondo Nacional del Ahorro. La solicitud puede enviarse al correo reclamacionseguros@fna.gov.co o entregarse presencialmente en cualquiera de los puntos de atención del FNA. En términos sencillos, un usuario del Fondo cuya vivienda haya sufrido daños tiene dos frentes que debería revisar : primero, consultar si puede obtener un periodo de gracia o una modificación de las condiciones de su crédito; y segundo, verificar si los daños pueden ser cubiertos por el seguro de incendio y terremoto . La recomendación es iniciar el trámite cuanto antes y conservar fotografías, reportes, cotizaciones y demás pruebas de los daños , pues estos documentos serán necesarios para que la reclamación sea evaluada. El segundo gran frente está en los impuestos . El Gobierno planteó modificar temporalmente el calendario para la declaración y pago del impuesto sobre la renta de las personas naturales y sucesiones ilíquidas correspondientes al año gravable 2025 cuyos vencimientos estaban programados para agosto. Aquí hay una regla fundamental para entender quién puede acceder: lo determinante es el domicilio fiscal registrado en el RUT al 10 de agosto de 2026 . Por tanto, el beneficio tributario no depende necesariamente de demostrar que la casa del contribuyente se cayó o que su negocio sufrió daños materiales. El criterio planteado es territorial . Más noticias: Ara y D1 se suman con toneladas de alimentos para los damnificados por el terremoto en Colombia La medida cobija a quienes tengan domicilio fiscal en municipios pertenecientes a las direcciones seccionales de la Dian de Cali, Palmira, Tuluá y Buenaventura, en Valle del Cauca; Pereira, en Risaralda; Armenia, en Quindío; Manizales, en Caldas; Quibdó, en Chocó; y Popayán, en Cauca. No. Este es posiblemente el punto que más confusión puede generar. El alivio no elimina la declaración de renta ni perdona automáticamente el impuesto. Lo que hace es otorgar más tiempo para cumplir la obligación . Lisandro Junco , exdirector de la Dian , explicó que la medida apunta precisamente a ampliar los plazos para que las personas puedan cumplir sin enfrentar sanciones por las dificultades ocasionadas por la emergencia. Por eso, una persona que normalmente debía declarar y pagar seguirá teniendo esa obligación si cumple las condiciones legales para hacerlo. Lo que cambia, para quienes estén cubiertos por la medida, es la fecha límite . El calendario especial comienza el 27 de octubre de 2026 y se extiende hasta el 13 de noviembre , dependiendo de los dos últimos dígitos del NIT registrado en el RUT, sin contar el dígito de verificación. Los NIT terminados en 01 y 02 tendrán plazo hasta el 27 de octubre; 03 y 04, hasta el 28; 05 y 06, hasta el 29; y 07 y 08, hasta el 30 de octubre. En noviembre continuaría el calendario: 09 y 10, hasta el 3 de noviembre; 11 y 12, hasta el 4; 13 y 14, hasta el 5; 15 y 16, hasta el 6; 17 y 18, hasta el 9; 19 y 20, hasta el 10; 21 y 22, hasta el 11; 23 y 24, hasta el 12; y 25 y 26, hasta el 13 de noviembre. La información disponible señala que se trata de una medida transitoria planteada por el Gobierno mediante proyecto de decreto , por lo que los contribuyentes deben verificar la expedición y versión definitiva de la norma antes de actuar únicamente con base en estas fechas. Información publicada este 13 de agosto también reporta que las modificaciones fueron planteadas por el Ministerio de Hacienda y la Dian como respuesta a la emergencia. Cambiar el RUT después del terremoto no da automáticamente acceso al calendario especial . La propuesta establece como fecha de referencia el 10 de agosto de 2026 . Las modificaciones posteriores no generarían por sí mismas el beneficio. Existe, sin embargo, una excepción: si el contribuyente logra demostrar mediante los medios de prueba legalmente admitidos que su domicilio ya se encontraba antes del terremoto en uno de los municipios beneficiados, podría acreditar esa circunstancia. También están contempladas las personas naturales que se inscriban por primera vez en el RUT y tengan su domicilio en los municipios incluidos. En esos casos, el domicilio fiscal informado en el registro será el que determine la aplicación del tratamiento. Sí. Los agentes de retención y autorretenedores con domicilio fiscal en las zonas cobijadas al 10 de agosto podrán presentar y pagar la declaración correspondiente a julio de 2026 utilizando los plazos previstos para la declaración de agosto. Las fechas irán del 9 al 22 de septiembre , según el último dígito del NIT. Para NIT terminado en 1, el plazo será el 9 de septiembre; 2, el 10; 3, el 11; 4, el 14; 5, el 15; 6, el 16; 7, el 17; 8, el 18; 9, el 21; y 0, el 22 de septiembre. La ventaja es importante: esas declaraciones y pagos podrán efectuarse dentro de las nuevas fechas sin intereses moratorios ni sanciones . Los demás vencimientos de esta obligación se mantienen sin cambios. Vea aquí: Empresas que donen por el terremoto tendrán un alivio de hasta 37% en impuesto de renta La información publicada sobre el proyecto también señala que estas medidas no aplicarían para grandes contribuyentes , otra condición que debe verificarse en el texto definitivo de la norma. El tercer bolsillo que buscan aliviar las medidas es el de los servicios públicos . En Quindío, el Gobierno anunció que los damnificados no tendrán que pagar servicios públicos durante tres meses . Esta medida debe distinguirse de los anuncios generales sobre impuestos y banca: la información disponible la presenta específicamente para los damnificados en Quindío y no establece en el material suministrado un mecanismo nacional único para solicitarla. Por eso, los usuarios deberán estar atentos a la reglamentación y a las instrucciones de las empresas prestadoras y autoridades competentes sobre identificación de beneficiarios, facturación y aplicación efectiva del alivio. También se han adoptado medidas para mantener los servicios esenciales funcionando. En municipios como Génova se dispuso la entrega de plantas eléctricas ante las fallas de energía que dificultaban las labores de rescate. En Pereira, el Gobierno anunció combustible y plantas eléctricas para mantener funcionando la red hospitalaria , además del envío de carrotanques para atender problemas de abastecimiento de agua. Sí hay un anuncio adicional que puede representar un alivio importante para los hogares. En Quindío, Chocó y Cali , el Gobierno anunció subsidios de arriendo para personas cuyas viviendas presentan daños estructurales que les impiden permanecer en ellas. La ayuda se mantendría mientras se encuentra una solución definitiva de vivienda o de reubicación. Pero aquí existe una advertencia fundamental: todavía no se habían definido los mecanismos específicos para solicitar esos subsidios, según la información recopilada. Lo que sí se conoce es el punto de partida para ser potencial beneficiario: aparecer en los censos oficiales realizados por alcaldías, gobernaciones, la Unidad Nacional para la Gestión del Riesgo de Desastres y el Ministerio de Vivienda , según corresponda. Esos censos servirán para evaluar técnicamente las viviendas, determinar la gravedad de los daños e identificar a las familias que deben abandonar sus hogares. En consecuencia, una familia afectada debe procurar que su vivienda y su núcleo familiar queden debidamente registrados en los levantamientos oficiales . Sí. Y este es un alivio diferente, porque no está dirigido exclusivamente a quien sufrió el terremoto, sino también a quienes aporten recursos para atender la emergencia. Las empresas y demás declarantes que realicen determinadas donaciones pueden acceder a descuentos en el impuesto de renta de 25% o hasta 37% del valor admitido del aporte , dependiendo de qué se dona y a quién se entrega. El beneficio especial de 37% puede aplicar a donaciones de alimentos aptos para consumo humano y artículos de higiene y aseo entregados a bancos de alimentos que cumplan las condiciones legales, entre ellos aquellos constituidos como entidades sin ánimo de lucro del Régimen Tributario Especial, bancos de alimentos de iglesias o confesiones religiosas reconocidas y asociaciones de bancos de alimentos. Le interesa: ¿Tiene un familiar desaparecido tras el terremoto? Ejército habilitó líneas en Antioquia Para donaciones de dinero u otros bienes, como camillas o equipos de rescate, el artículo 257 del Estatuto Tributario contempla un descuento de 25% del valor donado , siempre que se cumplan los requisitos. No basta, por tanto, con entregar dinero a cualquier colecta y luego intentar descontarlo de la declaración. El receptor debe cumplir las condiciones tributarias exigidas y el donante debe conservar los soportes . La documentación es fundamental. El donante debe verificar la condición tributaria de la organización que recibe el aporte y solicitar un certificado que identifique, entre otros elementos, la fecha de la operación, el tipo de entidad receptora, la clase y valor del bien, la forma en que se realizó la donación y su destinación. Cuando corresponda, también deberán conservarse registros contables, comprobantes bancarios, soportes del valor comercial, documentos de transporte y factura electrónica . En otras palabras: donar sí puede reducir el impuesto, pero entregar dinero o productos sin los soportes adecuados puede hacer que se pierda el beneficio fiscal. Para no perderse entre todos los anuncios, la ruta puede resumirse así. Si tiene un crédito: contacte directamente a su banco , explique la afectación y pregunte por periodos de gracia, modificación del plazo, tratamiento de intereses, protección del historial crediticio y suspensión de cobros. No dé por hecho que los 12 meses aplican automáticamente a su caso. Si debe declarar renta: revise el domicilio fiscal que aparecía en su RUT al 10 de agosto de 2026 , identifique si pertenece a una de las jurisdicciones incluidas y consulte los dos últimos dígitos de su NIT. Recuerde que el alivio consiste principalmente en más plazo, no en eliminar el impuesto . Si es agente de retención o autorretenedor: verifique si cumple el requisito territorial y revise el nuevo vencimiento de septiembre correspondiente al último dígito de su NIT. Si es damnificado en Quindío: esté atento a la aplicación del anuncio de tres meses sin pago de servicios públicos y a las instrucciones que definan las autoridades y prestadores. Si su vivienda quedó inhabitable en Quindío, Chocó o Cali: verifique que usted y su inmueble aparezcan en los censos oficiales , pues estos serán fundamentales para identificar a los potenciales beneficiarios de los subsidios de arriendo. Si quiere donar y aprovechar el beneficio tributario: primero compruebe que el receptor cumple los requisitos , haga la entrega por los mecanismos permitidos y conserve certificados, comprobantes y demás documentos. Para consultar contenido premium o profundizar sobre sus temas de interés de Medellín, Antioquia, Colombia y el Mundo, regístrese aquí .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "terremoto",
-            "buenaventura",
-            "ayuda"
+            "terremotos",
+            "qdz",
+            "bancos",
+            "colombia",
+            "temblor de tierra",
+            "gremios",
+            "asobancaria",
+            "terremoto en colombia",
+            "diario la república",
+            "emergencia económica"
         ],
         "creator": [
-            "cristina castro"
+            "diario la república"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "top",
-            "environment"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-12 14:26:31",
+        "pubDate": "2026-08-13 14:24:28",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:38:07",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/EJZNVMNE4RCC7DBTDYDKW2MVTA.jpg?auth=ba9500e3e0abe2f3b7edd346251ea3bc621ae60d3531ef24192082cfa1c3dcdd&smart=true&width=1280&height=720",
+        "fetched_at": "2026-08-13 15:13:26",
+        "image_url": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/RHLQ/img-1499-jpg_51359376_20260813092437.jpg",
         "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://n.bytvi.com/semana.png",
+        "source_id": "elcolombiano",
+        "source_name": "Elcolombiano",
+        "source_priority": 109876,
+        "source_url": "https://www.elcolombiano.com",
+        "source_icon": "https://n.bytvi.com/elcolombiano.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -855,44 +759,85 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "令人震惊的航拍图像显示了地震后布埃纳文图拉的荒凉景象。大声呼喊寻求紧急帮助",
-        "description_zh": "SEMANA 与律师 Libia Mosquera 进行了交谈，后者请求哥伦比亚的声援。 “医院倒塌了，我们需要食物。”"
+        "title_zh": "您受到地震影响了吗？了解税收和银行减免以及如何获得这些减免",
+        "description_zh": "2026 年 8 月 10 日发生的 7.4 级地震不仅对房屋、建筑物和道路造成了损坏。对于成千上万的家庭和企业来说，这还意味着暂时失去收入、关闭机构、放弃家园以及面临偿还贷款和税款的困难。"
     },
     {
-        "article_id": "850b31db286cc0ad2cebd2a3c5aa7b6c",
-        "link": "https://90minutos.co/cali/voluntarios-piden-maquinaria-agilizar-rescates-capri-12-08-2026/",
-        "title": "Voluntarios piden maquinaria para agilizar rescates en Capri; habría personas con vida",
-        "description": "Los voluntarios señalaron que requieren equipos y operarios para avanzar con las labores de búsqueda en uno de los puntos más afectados de la ciudad. Voluntarios piden maquinaria para agilizar rescates en Capri; habría personas con vida aparece en Noticiero 90 Minutos .",
+        "article_id": "9fdb7a7cbd11786fd2d22ab6926cc7f6",
+        "link": "https://www.elpais.com.co/mundo/benjamin-netanyahu-primer-ministro-de-israel-ordena-envio-inmediato-de-mision-de-ayuda-a-colombia-tras-fuerte-terremoto-1323.html",
+        "title": "Benjamin Netanyahu, primer ministro de Israel, ordena envío inmediato de misión de ayuda a Colombia tras fuerte terremoto",
+        "description": "Equipos de búsqueda y rescate israelíes listos para llegar a zonas afectadas en Colombia.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "terremoto en cali",
-            "barrio capri",
-            "cali",
-            "noticias de cali",
-            "alcaldía de cali"
+            "benjamín netanyahu",
+            "israel",
+            "terremoto"
         ],
         "creator": [
-            "ana maría marles muñoz"
+            "andrés felipe peña torres"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "crime",
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-13 14:24:23",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-13 14:40:19",
+        "image_url": "https://semana-el-pais-prod.web.arc-cdn.net/resizer/v2/7NOD5KVPZ5H7LHJ4BC3ECXR5ZE.jpeg?auth=168133f9ead594607d693cbeace52556d747eabe3e29d2599273baa2e7a2a9c0&smart=true&width=836&height=467",
+        "video_url": null,
+        "source_id": "elpaiscl",
+        "source_name": "El Pais",
+        "source_priority": 39172,
+        "source_url": "https://www.elpais.com.co",
+        "source_icon": "https://n.bytvi.com/elpaiscl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "强烈地震后，以色列总理本杰明·内塔尼亚胡下令立即向哥伦比亚派遣援助团",
+        "description_zh": "以色列搜救队准备前往哥伦比亚受影响地区。"
+    },
+    {
+        "article_id": "fdc8a2afc481a93c912a67f3c56b034e",
+        "link": "https://www.publimetro.co/noticias/2026/08/13/gobierno-de-la-espriella-estaria-preparando-decreto-para-el-retiro-forzoso-de-quienes-estan-pensionados-y-siguen-trabajando/",
+        "title": "Gobierno de la Espriella estaría preparando decreto para el retiro forzoso de quienes están pensionados y siguen trabajando",
+        "description": "El Gobierno de Abelardo de la Espriella prepararía un decreto que modificaría las condiciones laborales de pensionados que continúan trabajando.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "retiro",
+            "josé manuel restrepo abondano",
+            "abelardo de la espriella",
+            "pensionados"
+        ],
+        "creator": [
+            "ariadne agamez lombana"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-12 14:26:19",
+        "pubDate": "2026-08-13 14:24:18",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-12 14:57:08",
-        "image_url": "https://90minutos.co/90minutos.co/wp-content/uploads/2026/08/Padre-del-periodista-Jose-Fernando-Patino-sin-vida-terremoto-cali-.jpg",
+        "fetched_at": "2026-08-13 14:49:23",
+        "image_url": "https://www.publimetro.co/resizer/v2/I5Z7M3POCNETPBT24GBUTNRSDY.jpg?auth=794ce505464b9877fdaa43568d19993b22816b6b251cc9ba64a9f9181c457f4c&smart=true&width=7685&height=5126",
         "video_url": null,
-        "source_id": "90minutos_co",
-        "source_name": "90 Minutos",
-        "source_priority": 1674507,
-        "source_url": "https://90minutos.co",
-        "source_icon": "https://n.bytvi.com/90minutos_co.png",
+        "source_id": "publimetro_co",
+        "source_name": "Publimetro Colombia",
+        "source_priority": 371455,
+        "source_url": "https://www.publimetro.co",
+        "source_icon": "https://n.bytvi.com/publimetro_co.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -900,7 +845,7 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "志愿者请求提供机械以加快卡普里岛的救援速度；会有人活着",
-        "description_zh": "志愿者表示，他们需要设备和人员来推进该市受影响最严重的地点之一的搜索工作。志愿者请求提供机械以加快卡普里岛的救援速度； Noticiero 90 Minutos 上出现了有人活着的消息。"
+        "title_zh": "埃斯普里埃拉政府将准备一项法令，强制那些领取养老金并继续工作的人退休",
+        "description_zh": "阿韦拉多·德拉埃斯普里埃拉政府将制定一项法令，修改继续工作的养老金领取者的工作条件。"
     }
 ]
