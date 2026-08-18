@@ -1,38 +1,32 @@
 [
     {
-        "article_id": "33588a6d0fe2a70c7c7d2157d9b3513e",
-        "link": "https://www.lagaceta.com.ar/nota/1149966/deportes/empezaron-pedalear-salud-trasmontana-se-convirtio-ritual.html",
-        "title": "Empezaron a pedalear por salud y el Trasmontaña se convirtió en su ritual",
-        "description": "Ariel “Flecha” González y Claudio comenzaron a entrenarse juntos hace siete años buscando una vida más saludable. La amistad y el mountain bike hicieron el resto: corrieron su cuarto Trasmontaña juntos y aseguran que es la carrera que eligen cada año.",
+        "article_id": "a8a0251959813339b576f8371457f659",
+        "link": "https://tribunadepetropolis.com.br/noticias/durigan-juros-precisam-ser-enderecados-um-dos-caminhos-e-pelo-lado-fiscal/",
+        "title": "Durigan: juros precisam ser endereçados; um dos caminhos é pelo lado fiscal –",
+        "description": "O ministro da Fazenda, Dario Durigan, afirmou que, para discutir crédito no Brasil, é preciso haver “juros civilizados” e que um dos caminhos para isso é enfrentar a questão fiscal. “Acho que há alguns caminhos, em especial do lado fiscal. É dar essa tranquilidade, na linha do que já enviamos para o Congresso. Se a [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "trasmontaña",
-            "más deportes",
-            "deportes",
-            "tucumán"
-        ],
+        "keywords": null,
         "creator": [
-            "benjamín papaterra"
+            "caroline aragaki"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
-            "health",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-16 13:41:00",
+        "pubDate": "2026-08-17 13:37:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 16:48:28",
-        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/08/16/claudio-flecha-1149966-134057.jpeg",
+        "fetched_at": "2026-08-17 14:17:01",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
-        "source_id": "lagaceta_ar",
-        "source_name": "Lagaceta",
-        "source_priority": 975335,
-        "source_url": "https://www.lagaceta.com.ar",
-        "source_icon": "https://n.bytvi.com/LaGaceta_Ar.png",
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -40,18 +34,390 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们开始为了健康而骑自行车，特拉斯蒙塔尼亚成为他们的仪式",
-        "description_zh": "Ariel “Flecha” González 和 Claudio 七年前开始一起训练，寻求更健康的生活。友谊和山地自行车完成了剩下的工作：他们一起参加了第四次特拉斯蒙塔尼亚比赛，并保证这是他们每年选择的比赛。"
+        "title_zh": "Durigan：需要解决利益问题；其中一种方法是通过财政方面——",
+        "description_zh": "财政部长达里奥·杜里根表示，在巴西讨论信贷需要有“文明利益”，而实现这一点的方法之一就是面对财政问题。 “我认为有一些途径，特别是在财政方面。这是为了提供这种安心，与我们已经发送的内容一致"
     },
     {
-        "article_id": "b21c2d13bbd6a3f1a0fc30231ed988af",
-        "link": "https://www.capitalnews.com.br/politica-e-poder/politica/reinaldo-azambuja-defende-mais-recursos-para-reduzir-deficit-habitacional-no-brasil/445372",
-        "title": "Reinaldo Azambuja defende mais recursos para reduzir déficit habitacional no Brasil",
-        "description": "Ex-governador de Mato Grosso do Sul e atualmente candidato ao Senado, Reinaldo Azambuja demonstrou preocupação com o déficit habitacional no país durante entrevista ao programa Boca do Povo, da Rádio Difusora Pantanal, em Campo Grande.",
+        "article_id": "28d96dc3ef798df63b0f8b6845b61334",
+        "link": "https://www.dgabc.com.br/Noticia/4341577/durigan-juros-precisam-ser-enderecados-um-dos-caminhos-e-pelo-lado-fiscal-",
+        "title": "Durigan: juros precisam ser endereçados; um dos caminhos é pelo lado fiscal -",
+        "description": "Durigan: juros precisam ser endereçados; um dos caminhos é pelo lado fiscal -",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "economia"
+        ],
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:37:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 14:23:02",
+        "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
+        "video_url": null,
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://n.bytvi.com/dgabc.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "Durigan：需要解决利益问题；其中一种方法是通过财政方面——",
+        "description_zh": "Durigan：需要解决利益问题；其中一种方法是通过财政方面——"
+    },
+    {
+        "article_id": "5d98219b2c5bd1b5ff711978a1d65fae",
+        "link": "https://www.campograndenews.com.br/cidades/interior/sobreviventes-de-acidente-com-4-mortos-na-br-163-sao-transferidos-a-capital",
+        "title": "Sobreviventes de acidente com 4 mortos na BR-163 são transferidos à Capital",
+        "description": "Cinco vítimas sobreviventes do grave acidente ocorrido no km 569 da BR-163, em Bandeirantes, foram transferidas para hospitais de Campo Grande após receberem os primeiros atendimentos em unidades de saúde do interior. Entre os feridos estão um casal de idosos que ocupava um Volkswagen Gol branco, duas mulheres socorridas em estado mais delicado e o motorista de uma das carretas envolvidas na colisão. Conforme apurado pelo Campo Grande News , o casal que estava no Gol branco foi retirado do veículo antes que o carro pegasse fogo. Os dois foram levados inicialmente para a unidade de saúde de Bandeirantes e, posteriormente, transferidos para um hospital, em Campo Grande. Eles apresentavam escoriações, mas, devido à violência do impacto e à cinemática do acidente, precisaram passar por uma avaliação mais detalhada. A mulher, identificada como Vera Regina, apresentava suspeita de lesão no tórax. O marido, que dirigia o veículo, também foi encaminhado para avaliação especializada. O caminhoneiro Márcio Dutra, que dirigia a carreta carregada com couro e se envolveu na colisão com o caminhão-tanque, sofreu uma fratura exposta na perna, na região próxima ao joelho. Após ser socorrido, ele foi transferido para a Santa Casa de Campo Grande. Maísa Silva Cabral, de aproximadamente 26 anos, recebeu atendimento inicialmente em São Gabriel do Oeste e depois foi encaminhada para a Santa Casa da Capital. Em estado grave, ela teve o couro cabeludo arrancado, sofreu pneumotórax e precisou ser intubada. Outra sobrevivente, identificada como Sônia Inácio do Nascimento, sofreu trauma no abdômen. Ela também foi levada inicialmente ao hospital de São Gabriel do Oeste e, posteriormente, transferida para a Santa Casa de Campo Grande. A última das seis vítimas sobreviventes, transferida para o hospital de São Gabriel do Oeste, ainda não teve o estado de saúde nem o local de atendimento confirmados. A reportagem busca mais informações sobre a situação. Dinâmica - O acidente começou com uma tentativa de ultrapassagem em um trecho onde a manobra não é permitida. Conforme o perito de carga Wagner Bagher, de 42 anos, um Chevrolet Onix seguia no sentido norte quando, ao tentar ultrapassar, atingiu uma carreta que transportava couro. Após a batida, o motorista da carreta perdeu o controle da direção e o veículo acabou colidindo frontalmente com uma carreta-tanque carregada com diesel. O impacto provocou uma explosão. Outros dois carros que estavam muito próximos também foram atingidos. Ao todo, cinco veículos se envolveram no acidente, sendo três carros e duas carretas. A carreta-tanque e os automóveis saíam de Campo Grande em direção a São Gabriel do Oeste, enquanto a carreta carregada com couro fazia o trajeto contrário. Na manhã desta segunda-feira, os veículos ainda permaneciam no acostamento e na vegetação às margens da rodovia. A carreta-tanque, o veículo que transportava couro e os três carros foram retirados da pista e reposicionados no trecho. Uma das carretas ainda apresentava focos de incêndio. A força das chamas também atingiu a vegetação dos dois lados da BR-163. Destroços dos veículos permaneceram espalhados pela área onde ocorreu a colisão. Entenda - O acidente aconteceu no fim da tarde de domingo. A Motiva Pantanal recebeu o chamado às 15h24 para atender à ocorrência no km 569. Depois da sequência de impactos, o incêndio tomou conta dos veículos e formou uma espessa coluna de fumaça preta, visível a longa distância. Quatro pessoas morreram e seis ficaram feridas. Três vítimas em estado grave foram encaminhadas inicialmente ao Hospital Municipal José Valdir Antunes de Oliveira, em São Gabriel do Oeste. Uma pessoa com ferimentos moderados e outras duas com lesões leves receberam atendimento em Bandeirantes. Os corpos das quatro vítimas, que ainda não haviam sido identificadas, foram encaminhados ao Imol (Instituto de Medicina e Odontologia Legal) de Campo Grande por uma equipe funerária. As vítimas estavam carbonizadas. Equipes do Corpo de Bombeiros atuaram no atendimento, com apoio do Samu (Serviço de Atendimento Móvel de Urgência) de São Gabriel do Oeste. A concessionária mobilizou três viaturas de resgate, dois guinchos leves, um guincho pesado e um veículo de inspeção de tráfego. A perícia chegou ao local às 20h08 de domingo. A BR-163 permaneceu interditada nos dois sentidos até as 23h40. Durante o atendimento, o congestionamento chegou a 10 quilômetros tanto no sentido norte quanto no sentido sul. O tráfego foi totalmente normalizado à 1h05 desta segunda-feira (17), conforme informou a Motiva Pantanal.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "feridos",
+            "grave acidente ocorrido",
+            "hospitais",
+            "interior",
+            "br-163",
+            "transferidas",
+            "primeiros atendimentos",
+            "campo",
+            "vítimas sobreviventes",
+            "receberem",
+            "bandeirantes",
+            "km 569",
+            "unidades",
+            "saúde",
+            "casal"
+        ],
         "creator": [
-            "joão gabriel vilalba"
+            "por bruna marques"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:37:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 14:11:53",
+        "image_url": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/08/17/6a830c3c8f38f.jpeg",
+        "video_url": null,
+        "source_id": "campograndenews",
+        "source_name": "Campo Grande News",
+        "source_priority": 139036,
+        "source_url": "https://www.campograndenews.com.br",
+        "source_icon": "https://n.bytvi.com/campograndenews.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "BR-163 事故造成 4 人死亡，幸存者被转移到首都",
+        "description_zh": "班代兰特斯 BR-163 公路 569 公里处发生的严重事故中，五名幸存受害者在内陆医疗机构接受首次护理后，被转移到大坎普的医院。伤者中有一对老年夫妇，他们乘坐一辆白色大众 Gol"
+    },
+    {
+        "article_id": "a6409b0430b37784de2eb609feced293",
+        "link": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/08/7478728-poder-importa-heroi-feito-em-brasilia-e-pertinente-em-tempos-eleitorais.html",
+        "title": "Poder importa: herói feito em Brasília é pertinente, em tempos eleitorais",
+        "description": "A construção de caráter é um dos eixos do filme de estreia do ceilandense Fáuston da Silva",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "heróis",
+            "ceilândia",
+            "crítica",
+            "filme",
+            "ação",
+            "brasília",
+            "finance",
+            "business",
+            "& economics"
+        ],
+        "creator": [
+            "ricardo daehn"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:37:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 13:44:53",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/08/07/manual-do-heroi-meio-amargo-2-67361310.jpg",
+        "video_url": null,
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "权力很重要：巴西利亚制造的英雄在选举时期具有重要意义",
+        "description_zh": "角色塑造是 Ceillander Fáuston da Silva 处女作的核心之一"
+    },
+    {
+        "article_id": "9bf22deffd6a42411117fd62bec728c7",
+        "link": "https://www.infobae.com/deportes/2026/08/17/la-iconica-camiseta-de-michael-jordan-que-sera-subastada-en-mas-de-usd-10-millones-y-podria-superar-un-historico-record/",
+        "title": "La icónica camiseta de Michael Jordan que será subastada en más de USD 10 millones y podría superar un histórico récord",
+        "description": "En algunas semanas, los fanáticos de Su Majestad tendrán en el mercado una casaca que usó el 23 en las finales de la NBA en 1998",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nba",
+            "chicago bulls",
+            "michael jordan",
+            "utah jazz",
+            "deportes-internacional"
+        ],
+        "creator": [
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "united states of america",
+            "argentina",
+            "mexico"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:36:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 14:01:44",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "迈克尔·乔丹标志性球衣拍卖价格将超过 1000 万美元 有望打破历史纪录",
+        "description_zh": "几周后，国王陛下的球迷将在市场上买到 1998 年 NBA 总决赛中穿的 23 号球衣。"
+    },
+    {
+        "article_id": "d7f58ee113c8d475944ae0b52241806a",
+        "link": "https://agenciasanluis.com/2026/08/17/1197118-merlo-vuelve-a-ser-sede-de-move-dance-con-talleres-a-cargo-de-melody-luz-y-nico-blanzari/",
+        "title": "Merlo vuelve a ser sede de ‘Move Dance’, con talleres a cargo de Melody Luz y Nico Blanzari",
+        "description": "El Centro de Convenciones recibirá el sábado 29 de agosto una nueva instancia del certamen nacional de danzas, con competencia y capacitaciones gratuitas para bailarines de todas las edades. Las inscripciones ya están abiertas.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "turismo y cultura",
+            "centro de convenciones de merlo",
+            "talleres",
+            "certamen",
+            "danza"
+        ],
+        "creator": [
+            "gabriela farias"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:36:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 13:43:22",
+        "image_url": "https://agenciasanluis.com/wp-content/uploads/2026/08/workshop-e1786629915501-750x420.jpeg",
+        "video_url": null,
+        "source_id": "agenciasanluis",
+        "source_name": "Agenciasanluis",
+        "source_priority": 174112,
+        "source_url": "https://agenciasanluis.com",
+        "source_icon": "https://n.bytvi.com/agenciasanluis.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "梅洛再次举办“移动舞蹈”，由 Melody Luz 和 Nico Blanzari 主持研讨会",
+        "description_zh": "8月29日星期六，会议中心将举办新一届全国舞蹈比赛，为各个年龄段的舞者提供比赛和免费训练。注册现已开放。"
+    },
+    {
+        "article_id": "738b678a47a40fe4f2d747247ccd7cf4",
+        "link": "https://br.ign.com/the-apothecary-diaries/155365/3a-temporada-de-diarios-de-uma-apotecaria-ganha-trailer-e-musica-de-abertura",
+        "title": "3a temporada de Diários de uma Apotecária ganha trailer e música de abertura",
+        "description": "Anime retorna em 2 de outubro A Toho Animation Studio divulgou o novo trailer da 3a temporada de Diários de uma Apotecária , revelando mais sobre o que aguarda para Jinshi e Maomao neste novo capítulo e a música de abertura do anime. Baseada nas light novels de Natsu ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "diários de uma apotecária",
+            "anime",
+            "notícias"
+        ],
+        "creator": [
+            "bárbara castro"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:36:52",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 14:00:57",
+        "image_url": "https://sm.ign.com/ign_br/screenshot/default/a1-1_t831.jpg",
+        "video_url": null,
+        "source_id": "ign_br",
+        "source_name": "Ign Brasile",
+        "source_priority": 121,
+        "source_url": "https://br.ign.com",
+        "source_icon": "https://n.bytvi.com/ign_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "《药剂师日记》第三季发布预告片和片头曲",
+        "description_zh": "动画于 10 月 2 日回归 东宝动画工作室发布了《药剂师日记》第三季的新预告片，进一步揭示了金石和毛毛在新篇章和动画开场曲中等待的内容。改编自纳兹的轻小说……"
+    },
+    {
+        "article_id": "2c6e704ea0a508577b2ae05f14faad28",
+        "link": "https://www.infomoney.com.br/politica/oab-sp-propoe-mandato-de-12-anos-para-ministros-do-stf-e-idade-minima-para-o-cargo/",
+        "title": "OAB-SP propõe mandato de 12 anos para ministros do STF e idade mínima para o cargo",
+        "description": "Em documento, a Ordem paulista propõe medidas para combater a \"percepção pública de déficit de integridade e transparência\" na Suprema Corte The post OAB-SP propõe mandato de 12 anos para ministros do STF e idade mínima para o cargo appeared first on InfoMoney .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "oab",
+            "supremo tribunal federal",
+            "stf",
+            "oab-sp",
+            "política"
+        ],
+        "creator": [
+            "estadão conteúdo"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:36:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 13:38:34",
+        "image_url": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-12T143253Z_1_LYNXNPEL8B0NG_RTROPTP_4_POLITICA-JULGAMENTO-BOLSONARO-ATA.jpg?fit=1631%2C1087&quality=70&strip=all",
+        "video_url": null,
+        "source_id": "infomoney",
+        "source_name": "Infomoney",
+        "source_priority": 68762,
+        "source_url": "https://www.infomoney.com.br",
+        "source_icon": "https://n.bytvi.com/infomoney.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "OAB-SP 提议 STF 部长的任期为 12 年以及该职位的最低年龄",
+        "description_zh": "圣保罗命令在一份文件中提出了一些措施，以消除最高法院“公众对诚信和透明度缺陷的看法”。 OAB-SP 后提议 STF 部长的任期为 12 年，而该职位的最低年龄首先出现在 InfoMoney 上。"
+    },
+    {
+        "article_id": "ab3f2d8e25d48ccaf87e5286e7f1c66d",
+        "link": "https://www.mejorinformado.com/espectaculos/maxi-lopez-rompio-silencio-confeso-si-le-envio-fotos-intimas-modelo-uruguaya_1786973775",
+        "title": "Maxi López rompió el silencio y confesó si le envió fotos íntimas a la modelo uruguaya",
+        "description": "La verdad de Maxi López sobre las fotos íntimas que habría intercambiado con Anto Lima",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "modelo",
+            "espectaculos",
+            "romance secreto",
+            "lam américa tv",
+            "uruguayo",
+            "fotos íntimas",
+            "maxi lópez"
+        ],
+        "creator": [
+            "redacción mejor informado"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:36:15",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 14:17:08",
+        "image_url": "https://pxcdn.mejorinformado.com/mejorinformado/082026/1786973702359.jpg?cw=320&ch=180",
+        "video_url": null,
+        "source_id": "mejorinformado",
+        "source_name": "Mejorinformado",
+        "source_priority": 463646,
+        "source_url": "https://www.mejorinformado.com",
+        "source_icon": "https://n.bytvi.com/mejorinformado.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "马克西·洛佩斯打破沉默，承认曾向乌拉圭模特发送亲密照片",
+        "description_zh": "马克西·洛佩斯与安托·利马交换亲密照片的真相"
+    },
+    {
+        "article_id": "36f69489c6a201cbd104648e80e81856",
+        "link": "https://www.bahianoticias.com.br/noticia/320078-campanha-esvazia-brasilia-em-semana-com-lula-no-amapa-e-tse-decidindo-sobre-uso-de-deepfakes-por-candidatos",
+        "title": "Campanha esvazia Brasília em semana com Lula no Amapá e TSE decidindo sobre uso de deepfakes por candidatos",
+        "description": "Com o início oficial da campanha eleitoral de 2026 neste domingo (16), e a permissão da Justiça Eleitoral para que os candidatos possam fazer propaganda nas ruas, na internet e redes sociais, Brasília terá uma semana esvaziada no Palácio do Planalto e no Congresso Nacional. Apenas o Poder Judiciário terá dias movimentados, com decisões importantes tanto em relação às eleições como em julgamentos que envolvem o governo do Rio de Janeiro, Marco Civil da Internet e emendas parlamentares.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "principal",
+            "política"
+        ],
+        "creator": [
+            "de brasília",
+            "edu mota"
         ],
         "language": "portuguese",
         "country": [
@@ -62,16 +428,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-16 13:41:00",
+        "pubDate": "2026-08-17 13:36:11",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 21:28:35",
-        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2026/08/13/1200x900/a86631ecb1a9f218d4fbd0211ccb9527-capitalnews-com-br.jpg",
+        "fetched_at": "2026-08-17 13:42:15",
+        "image_url": "https://www.bahianoticias.com.br/fotos/principal_noticias/320078/IMAGEM_NOTICIA_9.jpg?checksum=1786973869",
         "video_url": null,
-        "source_id": "capitalnews",
-        "source_name": "Capital News",
-        "source_priority": 505998,
-        "source_url": "https://www.capitalnews.com.br",
-        "source_icon": "https://n.bytvi.com/capitalnews.png",
+        "source_id": "bahianoticias",
+        "source_name": "Bahia Notícias",
+        "source_priority": 164044,
+        "source_url": "https://www.bahianoticias.com.br",
+        "source_icon": "https://n.bytvi.com/bahianoticias.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -79,220 +445,42 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "雷纳尔多·阿赞布贾 (Reinaldo Azambuja) 捍卫更多资源来减少巴西的住房赤字",
-        "description_zh": "南马托格罗索州前州长、现任参议院候选人雷纳尔多·阿赞布亚 (Reinaldo Azambuja) 在接受大坎普电台 Difusora Pantanal 广播电台 Boca do Povo 节目采访时表达了对该国住房短缺问题的担忧。"
+        "title_zh": "竞选活动一周后巴西利亚空无一人，卢拉在阿马帕，TSE 决定候选人使用深度伪造品",
+        "description_zh": "随着 2026 年竞选活动于本周日（16 日）正式开始，以及选举法院允许候选人在街头、互联网和社交网络上做广告，巴西利亚将在普拉纳尔托宫和国民议会度过一个空荡荡的一周。朱迪·鲍尔"
     },
     {
-        "article_id": "2b960f0d6429512527d039213c249961",
-        "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/caca-da-otan-abate-suposto-drone-russo-no-espaco-aereo-da-romenia.shtml",
-        "title": "Caça da Otan abate suposto drone russo no espaço aéreo da Romênia",
-        "description": "Um caça F-18 em missão de policiamento aéreo da Otan abateu um drone que invadiu ilegalmente o espaço aéreo da Romênia , informou neste domingo (16) o Ministério da Defesa romeno. Essa foi a quarta aeronave não tripulada derrubada sobre o país neste ano. Leia mais (08/16/2026 - 10h41)",
+        "article_id": "9bf22deffd6a42411117fd62bec728c7",
+        "link": "https://www.infobae.com/deportes/2026/08/17/la-iconica-camiseta-de-michael-jordan-que-sera-subastada-en-mas-de-usd-10-millones-y-podria-superar-un-historico-record/",
+        "title": "La icónica camiseta de Michael Jordan que será subastada en más de USD 10 millones y podría superar un histórico récord",
+        "description": "En algunas semanas, los fanáticos de Su Majestad tendrán en el mercado una casaca que usó el 23 en las finales de la NBA en 1998",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "vladimir putin",
-            "leste europeu",
-            "kiev",
-            "volodimir zelenski",
-            "otan",
-            "guerra da ucrania",
-            "rússia",
-            "união europeia",
-            "letônia",
-            "moscou",
-            "riga",
-            "folha",
-            "europa",
-            "folha de s.paulo",
-            "social issues",
-            "history & philosophy",
-            "romênia",
-            "ucrânia"
+            "nba",
+            "chicago bulls",
+            "michael jordan",
+            "utah jazz",
+            "deportes-internacional"
         ],
         "creator": [
-            "folha.uol.com.br"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "world"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:41:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:02:50",
-        "image_url": "https://f.i.uol.com.br/fotografia/2026/08/16/17868852516a81b4834af46_1786885251_3x2_md.jpg",
-        "video_url": null,
-        "source_id": "folha",
-        "source_name": "Folha",
-        "source_priority": 3498,
-        "source_url": "https://www.folha.uol.com.br",
-        "source_icon": "https://n.bytvi.com/folha.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "北约战斗机在罗马尼亚领空击落疑似俄罗斯无人机",
-        "description_zh": "罗马尼亚国防部周日（16日）报道称，一架执行北约空中警务任务的F-18战斗机击落了一架非法侵入罗马尼亚领空的无人机。这是今年该国上空被击落的第四架无人机。了解更多（2026 年 8 月 16 日 - 上午 10:41）"
-    },
-    {
-        "article_id": "398381b700b41103f58accf9e8a442b2",
-        "link": "https://basquetplus.com/fiba-europeo-u16-letonia-benjamin-berrouet",
-        "title": "Benjamin Berrouet, la estrella 2010 que puso a Letonia en la cima de Europa",
-        "description": "Europa Benjamin Berrouet, la figura del 2010 en Europa Letonia conquistó por primera vez el Europeo U16 tras completar un torneo perfecto, con el alero nacido en Texas como MVP y figura de una generación histórica. Letonia hizo historia al conquistar por primera vez el Eurobasket U16. El seleccionado derrotó 75-69 a Francia en la final y completó una campaña perfecta con siete victorias en siete partidos. Después de llegar al descanso abajo 33-32, el campeón tomó el control con un tercer cuarto de 24-11 y sostuvo la diferencia hasta el cierre para quedarse con la medalla de oro. Berrouet fue la principal figura del campeón y terminó la final con 22 puntos y 13 rebotes. El jugador nacido en 2010 registró siete dobles-dobles en siete encuentros y fue elegido MVP con promedios de 23,6 puntos, 15,0 rebotes y 3,6 tapas, además de una valoración media de 36,2. Markuss Jahovics también integró el All-Star Five, mientras Letonia completó un torneo sin derrotas y consiguió el primer título de su historia en la categoría. Nacido en McKinney, Texas, Berrouet desarrolla su carrera en Dynamic Prep y forma parte de la generación proyectada para el draft 2028. Es estadounidense-letón por ascendencia materna: su madre, Lasma Jekabsone-Berue, fue jugadora de básquet, mientras que su padre, Richard Berrouet, es estadounidense. El joven eligió representar a Letonia y ya había disputado con esa selección el Europeo U16 de 2025. Su proyección también trascendió el básquet europeo. Berrouet participó del minicamp de USA Basketball en octubre de 2025 y volvió a ser convocado para el realizado en abril de 2026 en Indianápolis. Además, cuenta con múltiples ofertas de universidades de la NCAA, mientras su rendimiento en el circuito AAU y su desarrollo en high school continúan aumentando el interés sobre uno de los nombres destacados de la generación 2028. Etiquetado como: FIBA Europeo U16 Letonia Benjamin Berrouet",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "pelota",
-            "dunk",
-            "baloncesto",
-            "triple",
-            "aro",
-            "basquet",
-            "liga nacional",
-            "rebote",
-            "clavada",
-            "doble",
-            "lnbp",
-            "acb",
-            "la liga",
-            "donkeo",
-            "basketball",
-            "volcada",
-            "asistencia",
-            "lnb",
-            "basquetbol",
-            "deporte"
-        ],
-        "creator": [
-            "pruebapablo"
+            "infobae"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
+            "colombia",
+            "united states of america",
+            "argentina",
+            "mexico"
         ],
         "category": [
-            "sports"
+            "entertainment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-16 13:40:53",
+        "pubDate": "2026-08-17 13:36:58",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:14:49",
+        "fetched_at": "2026-08-17 14:01:44",
         "image_url": null,
         "video_url": null,
-        "source_id": "basquetplus",
-        "source_name": "Basquet Plus",
-        "source_priority": 324404,
-        "source_url": "http://basquetplus.com",
-        "source_icon": "https://n.bytvi.com/basquetplus.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "本杰明·贝尔鲁埃 (Benjamin Berrouet)，2010 年带领拉脱维亚跻身欧洲之巅的球星",
-        "description_zh": "欧洲 2010年欧洲风云人物本杰明·贝鲁埃(Benjamin Berrouet)，拉脱维亚在完成一场完美的比赛后首次赢得了U16欧洲锦标赛冠军，这位出生于德克萨斯州的前锋成为了MVP和历史性一代人物。拉脱维亚首次赢得U16欧锦赛冠军，创造了历史。评选"
-    },
-    {
-        "article_id": "b70af517aa90c3e429804a58e5e65508",
-        "link": "https://cinepop.com.br/assustador-sobrenatural-agora-entre-nos-ganha-novo-comercial-arrepiante-763129/",
-        "title": "ASSUSTADOR! ‘Sobrenatural: Agora Entre Nós’ ganha novo comercial ARREPIANTE",
-        "description": "A Sony Pictures divulgou um novo comercial do terror ‘Sobrenatural: Agora Entre Nós‘. O longa será lançado nos cinemas nacionais no dia 20 de agosto. Confira, junto ao trailer mais recente: ‘Sobrenatural: Agora Entre Nós’ mostrará um trio de criminosos que se infiltra em um bairro tranquilo e força uma nova família a entrar no plano [...] A matéria foi vista no ASSUSTADOR! ‘Sobrenatural: Agora Entre Nós’ ganha novo comercial ARREPIANTE",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mandy moore",
-            "leigh whannell",
-            "amelia eve",
-            "brandon perea",
-            "patrick wilson",
-            "maisie richardson-sellers",
-            "hiam abbass",
-            "sobrenatural",
-            "kumail nanjiani",
-            "notícias",
-            "lin shaye",
-            "sobrenatural: o mundo sangrento",
-            "sobrenatural: a última chave",
-            "jason blum",
-            "blumhouse",
-            "insidious: the bleeding world",
-            "laura gordon",
-            "sobrenatural 5",
-            "island austin",
-            "sobrenatural: a porta vermelha"
-        ],
-        "creator": [
-            "thiago nolla"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 13:46:09",
-        "image_url": "https://cinepop.com.br/wp-content/uploads/2026/04/sobrenatural-6-agora-entre-nos.jpg",
-        "video_url": null,
-        "source_id": "cinepop",
-        "source_name": "Cinepop",
-        "source_priority": 647090,
-        "source_url": "https://cinepop.com.br",
-        "source_icon": "https://n.bytvi.com/cinepop.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "可怕的！ 《超自然：现在在我们中间》有了一个令人毛骨悚然的新广告",
-        "description_zh": "索尼影业发布了恐怖片《潜伏：我们之中》的新广告。该片将于8月20日登陆全国院线。看看最新的预告片：《邪恶力量：现在在我们中间》将展示三名犯罪分子渗透到一个安静的社区，并试图杀死他们。"
-    },
-    {
-        "article_id": "971e45862f3c0a468b36f109ef4ac0ce",
-        "link": "https://www.infobae.com/salud/ciencia/2026/08/16/un-estudio-asocia-el-aceite-de-oliva-con-menor-mortalidad-prematura/",
-        "title": "Un estudio asocia el aceite de oliva con menor mortalidad prematura",
-        "description": "Dos investigaciones citadas en una nota de la especialista Aurora Casanova analizaron su vínculo con la longevidad y marcaron diferencias frente a la versión refinada",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "aceite de oliva",
-            "nutrición",
-            "magazines",
-            "newsroom bue",
-            "dieta mediterránea",
-            "longevidad",
-            "bienestar"
-        ],
-        "creator": [
-            "santiago abraldes"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "argentina",
-            "mexico",
-            "colombia"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:29",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:02:27",
-        "image_url": "https://www.infobae.com/resizer/v2/CGHRXZ7FTNCNPDQHAVPGOEVT3E.png?auth=3e57321906d1058d9087d512a1654ce0dcb82ddaabb24fb31b416a32d1b06f47&smart=true&width=2185&height=1229",
-        "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
         "source_priority": 1056,
@@ -305,167 +493,41 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "研究表明橄榄油可降低过早死亡率",
-        "description_zh": "专家奥罗拉·卡萨诺瓦 (Aurora Casanova) 在一份报告中引用了两项研究，分析了其与长寿的联系，并与精致版本相比存在显着差异"
+        "title_zh": "迈克尔·乔丹标志性球衣拍卖价格将超过 1000 万美元 有望打破历史纪录",
+        "description_zh": "几周后，国王陛下的球迷将在市场上买到 1998 年 NBA 总决赛中穿的 23 号球衣。"
     },
     {
-        "article_id": "e00ddef88bba9c2be9fe88ee7fd7ac87",
-        "link": "https://www.lavozdesanjusto.com.ar/la-historia-religiosa-de-arroyito-ahora-en-un-paseo-con-el-nombre-del-papa-francisco",
-        "title": "La historia religiosa de Arroyito, ahora en un paseo con el nombre del Papa Francisco",
-        "description": "Arroyito inauguró el Paseo temático “Papa Francisco - Arroyito con huellas de santidad”, un espacio con siete muros de acero que recuperan el paso de figuras religiosas por la ciudad. El padre Sergio Fernández Nieri explicó cómo surgió el proyecto y qué representa para la comunidad. El intendente Gustavo Benedetti remarcó que la obra, de casi $ 40 millones, se integra a un plan turístico más amplio para toda la ciudad.",
+        "article_id": "d6844ba0b831ed78c39a9fd4354788f9",
+        "link": "https://elinformante.mx/?p=110908",
+        "title": "Mara Lezama supervisa modernización de carretera Cancún–Isla Blanca",
+        "description": "La obra ampliará la vialidad a cuatro carriles e incorporará ciclovía, banquetas, alumbrado y nueva infraestructura hidráulica. La gobernadora de Quintana Roo, Mara Lezama Espinosa, supervisó los avances de la primera etapa de modernización de la carretera Cancún–Isla Blanca, proyecto estratégico para fortalecer la movilidad en el norte del estado y que actualmente registra cerca [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "la-region"
+            "nacional"
         ],
         "creator": [
-            "la voz de san justo"
+            "redacción impresa"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
+            "mexico"
         ],
         "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:17:03",
-        "image_url": "https://lvdsjcdn.eleco.com.ar/media/2026/08/paseo_papa_francisco_arroyito.webp",
-        "video_url": null,
-        "source_id": "lavozdesanjusto_ar",
-        "source_name": "La Voz De San Justo | La Voz De San Justo Te Brind",
-        "source_priority": 576125,
-        "source_url": "https://www.lavozdesanjusto.com.ar",
-        "source_icon": "https://n.bytvi.com/lavozdesanjusto_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿罗伊托的宗教历史，现在以教皇弗朗西斯命名的步行道",
-        "description_zh": "阿罗伊托为“弗朗西斯科教皇 - 阿罗伊托的神圣痕迹”主题步行道揭幕，这是一个拥有七面钢墙的空间，再现了宗教人物穿过城市的通道。塞尔吉奥·费尔南德斯·涅里 (Sergio Fernández Nieri) 神父解释了该项目是如何产生的以及它对社区的意义。市长"
-    },
-    {
-        "article_id": "1171037c6d14e2494c09312cc189a727",
-        "link": "https://www.terra.com.br/esportes/automobilismo/nascar-cup-joey-logano-segura-chase-briscoe-e-encerra-jejum-de-nove-anos-em-richmond,68d5bbf5387f0124bf0f8d7d630e7ba79d0uy5qp.html",
-        "title": "NASCAR Cup: Joey Logano segura Chase Briscoe e encerra jejum de nove anos em Richmond",
-        "description": "A Cook Out 400, realizada neste sábado (15), no Richmond Raceway, terminou com vitória de Joey ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "parabólica"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:12",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:05:20",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/08/16/nascar-rhr4tau9zr5f.jpg",
-        "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "纳斯卡杯：乔伊·洛加诺（Joey Logano）击败蔡斯·布里斯科（Chase Briscoe），结束里士满九年干旱",
-        "description_zh": "本周六（15 日）在里士满赛道举行的 Cook Out 400 比赛以 Joey 的胜利而告终……"
-    },
-    {
-        "article_id": "25a6ec56f5f3e57503abd2d1328b7db0",
-        "link": "https://www.ole.com.ar/futbol-internacional/inglaterra/arsenal-manchester-city-community-shield-abren-temporada-inglesa_0_AopG7a2CRE.html",
-        "title": "Arsenal y Manchester City chocan por la Community Shield y abren la temporada inglesa",
-        "description": "El campeón de la Premier League se enfrenta al de la FA Cup en el duelo que inaugura la acción oficial en el fútbol británico. Seguilo en Olé.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "arsenal fc",
-            "manchester city"
-        ],
-        "creator": [
-            "www.ole.com.ar"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:11",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:04:10",
-        "image_url": "https://www.ole.com.ar/images/2026/08/16/fcj26btTw_1200x630__1.jpg",
-        "video_url": null,
-        "source_id": "ole_ar",
-        "source_name": "Ole Ar",
-        "source_priority": 13161,
-        "source_url": "https://www.ole.com.ar",
-        "source_icon": "https://n.bytvi.com/ole_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿森纳和曼城争夺社区盾杯并开启英格兰赛季",
-        "description_zh": "英超冠军将在英国足球正式比赛中对阵足总杯冠军。在 Olé 上关注他。"
-    },
-    {
-        "article_id": "b77d9073f99c23a8fb0bc12f2f3e6b48",
-        "link": "https://www.mixvale.com.br/2026/08/16/escalacao-confirmada-arsenal-x-manchester-city-e-onde-assistir-ao-vivo-neste-domingo/",
-        "title": "Escalação Confirmada Arsenal x Manchester City e onde assistir ao vivo neste domingo",
-        "description": "Arsenal e Manchester City definem equipes para a final da Community Shield Arsenal e Manchester City se preparam para a disputa da Community Shield, a Supercopa da Inglaterra, com suas escalações já definidas para o confronto que acontece no dia 16 de agosto de 2026. A partida, que marca a abertura oficial da temporada do [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "premier league",
-            "futebol",
-            "arsenal",
-            "manchester city",
-            "transmissão",
-            "futebol internacional",
-            "esportes",
-            "community shield"
-        ],
-        "creator": [
-            "luís henrique costa"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports",
+            "business",
+            "environment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-16 13:40:09",
+        "pubDate": "2026-08-17 13:36:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:09:24",
-        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2026/05/Haaland-600x340.jpg",
+        "fetched_at": "2026-08-17 13:54:13",
+        "image_url": "https://elinformante.mx/wp-content/uploads/2026/08/4mara-5.jpeg",
         "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://n.bytvi.com/mixvale.png",
+        "source_id": "elinformante_mx",
+        "source_name": "Elinformante Mx",
+        "source_priority": 3437510,
+        "source_url": "https://elinformante.mx",
+        "source_icon": "https://n.bytvi.com/elinformante_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -473,320 +535,14 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿森纳 x 曼城的确认阵容以及本周日现场直播的观看地点",
-        "description_zh": "阿森纳和曼城确定了参加社区盾决赛的球队 阿森纳和曼城正在准备参加社区盾杯（即英格兰超级杯），他们的阵容已经确定，将参加 2026 年 8 月 16 日举行的比赛。这场比赛标志着揭幕战"
+        "title_zh": "Mara Lezama 监督坎昆-布兰卡岛高速公路的现代化建设",
+        "description_zh": "该工程将把道路扩大到四车道，并纳入自行车道、人行道、照明和新的液压基础设施。金塔纳罗奥州州长马拉·莱萨马·埃斯皮诺萨 (Mara Lezama Espinosa) 监督战略项目坎昆-布兰卡岛高速公路现代化第一阶段的进展"
     },
     {
-        "article_id": "0e0cf8b0dc1487a82f097c3a911f124a",
-        "link": "https://www.elmanana.com/escena/famosos/preferencias-amorosas-de-madonna-en-1983/6174175",
-        "title": "Preferencias amorosas de Madonna en 1983",
-        "description": "En 1983, a sólo un año de su debut como cantante, Madonna era descrita como una \"estrella emergente de la música disco\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cultura disco 1983",
-            "preferencias amorosas de madonna",
-            "reina del pop",
-            "madonna entrevista 1983",
-            "estilo musical de madonna"
-        ],
-        "creator": [
-            "el universal"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:41:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 18:44:49",
-        "image_url": "https://blob.elmanana.com/images/2026/08/16/crop-w705-h588-captura-de-pantalla-2026-08-16-a-las-132851-f0aa86b8.png",
-        "video_url": null,
-        "source_id": "elmanana",
-        "source_name": "Últimas Noticias - El Mañana De Reynosa",
-        "source_priority": 258494,
-        "source_url": "https://www.elmanana.com",
-        "source_icon": "https://n.bytvi.com/elmanana.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "1983年麦当娜的爱情偏好",
-        "description_zh": "1983 年，也就是她首次演唱一年后，麦当娜被描述为“一颗冉冉升起的迪斯科新星”。"
-    },
-    {
-        "article_id": "1acf31136f423b71080728a8dd4e634c",
-        "link": "https://www.levelup.com/noticias/no-es-bueno-para-la-salud-mental-de-nadie-miembro-de-insmniac-habla-de-la-negatividad-en-torno-a-marvels-wolverine/",
-        "title": "“No es bueno para la salud mental de nadie”, miembro de Insmniac habla de la negatividad en torno a Marvel’s Wolverine",
-        "description": "Insomniac Games presentó una demostración de 'Marvel’s Wolverine', pero en lugar de recibir elogios, enfrentó críticas y burlas en redes sociales, comparándolo con juegos más antiguos y señalando su linealidad. James Stevenson, director de comunicación y mercadeo de Insomniac, atribuyó la negatividad al algoritmo de Twitter (X), sugiriendo que podría ser mejor publicar sin responder debido al impacto en la salud mental de los desarrolladores.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "insomniac games",
-            "marvel",
-            "wolverine",
-            "playstation",
-            "sony",
-            "playstation 5"
-        ],
-        "creator": [
-            "mardokeo galván"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 13:42:02",
-        "image_url": "https://www.levelup.com/resizer/v2/KIIJKJIGKZB6XFGE7633QNFOLE.jpg?auth=ef6eeb0342f49184fe3357d0f4b655cf137d8fa380210a98d6ac9980c444c9a5&smart=true&width=1200&height=900",
-        "video_url": null,
-        "source_id": "levelup",
-        "source_name": "Levelup",
-        "source_priority": 191312,
-        "source_url": "https://www.levelup.com",
-        "source_icon": "https://n.bytvi.com/levelup.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Insmniac 成员谈到漫威金刚狼的负面情绪时表示：“这对任何人的心理健康都没有好处”",
-        "description_zh": "Insomniac Games 展示了《漫威金刚狼》的演示版，但它不但没有获得好评，反而在社交媒体上面临批评和嘲笑，将其与旧游戏进行比较并指出其线性。 Insomniac 的传播和营销总监 James Stevenson 将这一现象归因于"
-    },
-    {
-        "article_id": "74e8074a0c883121398e2282411a50ee",
-        "link": "https://eldiariodechihuahua.mx/local/2026/aug/16/adulto-mayor-cae-de-camion-urbano-y-queda-inconsciente-en-praderas-del-sur-828094.html",
-        "title": "Adulto mayor cae de camión urbano y queda inconsciente en Praderas del Sur",
-        "description": "De acuerdo con reportes ciudadanos, el hombre se encontraba en estado de ebriedad al momento del incidente",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "local"
-        ],
-        "creator": [
-            "de la redacción | el diario"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:09:12",
-        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/08/16/ambulancia-bsJ0SUYwi.jpg",
-        "video_url": null,
-        "source_id": "eldiariodechihuahua",
-        "source_name": "Eldiariodechihuahua",
-        "source_priority": 77437,
-        "source_url": "https://www.eldiariodechihuahua.mx",
-        "source_icon": "https://n.bytvi.com/eldiariodechihuahua.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Praderas del Sur 一名老年人从城市卡车上摔下，至今仍不省人事",
-        "description_zh": "据市民反映，事发时该男子处于醉酒状态。"
-    },
-    {
-        "article_id": "971e45862f3c0a468b36f109ef4ac0ce",
-        "link": "https://www.infobae.com/salud/ciencia/2026/08/16/un-estudio-asocia-el-aceite-de-oliva-con-menor-mortalidad-prematura/",
-        "title": "Un estudio asocia el aceite de oliva con menor mortalidad prematura",
-        "description": "Dos investigaciones citadas en una nota de la especialista Aurora Casanova analizaron su vínculo con la longevidad y marcaron diferencias frente a la versión refinada",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "aceite de oliva",
-            "nutrición",
-            "magazines",
-            "newsroom bue",
-            "dieta mediterránea",
-            "longevidad",
-            "bienestar"
-        ],
-        "creator": [
-            "santiago abraldes"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "argentina",
-            "mexico",
-            "colombia"
-        ],
-        "category": [
-            "health",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:29",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:02:27",
-        "image_url": "https://www.infobae.com/resizer/v2/CGHRXZ7FTNCNPDQHAVPGOEVT3E.png?auth=3e57321906d1058d9087d512a1654ce0dcb82ddaabb24fb31b416a32d1b06f47&smart=true&width=2185&height=1229",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "研究表明橄榄油可降低过早死亡率",
-        "description_zh": "专家奥罗拉·卡萨诺瓦 (Aurora Casanova) 在一份报告中引用了两项研究，分析了其与长寿的联系，并与精致版本相比存在显着差异"
-    },
-    {
-        "article_id": "f02a9b6e4874e1473ed0e37e0efc664c",
-        "link": "https://oem.com.mx/diariodelsur/policiaca/mujer-muere-tras-ser-atropellada-en-el-kilometro-10-de-la-tuxtla-chico-tapachula-31607482",
-        "title": "Mujer muere tras ser atropellada en el kilómetro 10 de la Tuxtla Chico–Tapachula",
-        "description": "Una mujer de 64 años murió tras ser atropellada cuando intentaba cruzar la carretera Tuxtla Chico–Tapachula; el conductor huyó del lugar",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "policiaca"
-        ],
-        "creator": [
-            "miguel rojas"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:27",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 19:05:13",
-        "image_url": "https://oem.com.mx/diariodelsur/img/31607523/1786887616/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "diariodelsur_mx",
-        "source_name": "Diario Del Sur",
-        "source_priority": 15383,
-        "source_url": "https://www.diariodelsur.com.mx",
-        "source_icon": "https://n.bytvi.com/diariodelsur_mx.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "一名妇女在图斯特拉奇科-塔帕丘拉 10 公里处被碾压身亡",
-        "description_zh": "一名 64 岁妇女在试图穿越图斯特拉奇科-塔帕丘拉高速公路时被碾压身亡；司机逃离现场"
-    },
-    {
-        "article_id": "d3c7b65c3c1372018b94e6ceaf63fa34",
-        "link": "https://www.pulzo.com/nacion/terremoto-en-pereira-danos-en-colegios-afectan-a-58-000-estudiantes-y-educacion-virtual-es-alternativa-PP5276375A",
-        "title": "Terremoto en Pereira afecta 165 colegios y deja a miles de estudiantes sin clases presenciales mientras se proponen alternativas virtuales",
-        "description": "Terremoto en Pereira afecta 165 colegios; solo 15 pueden reabrir pronto. Educación virtual y reconexión, retos para 58.000 estudiantes.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "pereira",
-            "ministerio del interior",
-            "rodrigo lara",
-            "diario del pereira",
-            "estudiantes",
-            "nación"
-        ],
-        "creator": [
-            "redacción nación"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "domestic"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:27",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:09:20",
-        "image_url": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5276375A-h-o.webp",
-        "video_url": null,
-        "source_id": "pulzo",
-        "source_name": "Pulzo",
-        "source_priority": 81875,
-        "source_url": "https://www.pulzo.com",
-        "source_icon": "https://n.bytvi.com/pulzo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "佩雷拉地震影响了 165 所学校，导致数千名学生无法参加面对面课程，同时提出了虚拟替代方案",
-        "description_zh": "佩雷拉地震影响 165 所学校；只有 15 可能会很快重新开放。虚拟教育和重新联系，58,000 名学生面临的挑战。"
-    },
-    {
-        "article_id": "26d7aca6e05e4d61c2a3116f9bde4540",
-        "link": "https://www.launion.com.mx/morelos/sociedad/noticias/298237-celulares-en-las-escuelas-prohibir-la-tecnologia-o-ensenar-a-utilizarla.html",
-        "title": "Celulares en las escuelas: ¿prohibir la tecnología o enseñar a utilizarla?",
-        "description": "México se encuentra frente a otro debate que involucra a la educación y la tecnología, para no variar. En las últimas semanas ha estado en la arena publica lo acontecido en la UNAM por su examen de admisión virtual, en donde se puso de manifiesto el actuar desleal de muchos aspirantes al usar IA para contestar dicha prueba. No obstante, es importante recalcar que la educación en México tarde o temprano tiene que tornarse más a la digitalidad, que ya la hay, pero aún hay muchas interrogantes al respecto. Y en esa tesitura, el gobierno federal prepara una propuesta para regular el uso de celulares y otros dispositivos tecnológicos en las escuelas, mientras la Secretaría de Educación Pública desarrolla foros y consultas con docentes, familias y especialistas para definir las medidas que podrían aplicarse durante el ciclo escolar 2026-2027. El asunto tiene una razón de ser. De acuerdo con datos difundidos por la propia SEP, más de 70 por ciento de la población mexicana de seis años o más utiliza internet y entre los adolescentes la proporción supera 90 por ciento. México, además, registra un promedio de 7 horas con 32 minutos diarios de uso de internet entre las personas mayores de 16 años, casi una hora por encima del promedio mundial de 6 horas con 38 minutos. Vivimos en un mundo feliz construido sobre la tecnología digital. Desde hace mucho, el teléfono celular dejó de ser un aparato para solamente hacer llamadas. Para millones de niños y adolescentes es cámara, televisión, videojuego, biblioteca, medio de comunicación, espacio de convivencia, niñera, puerta de entrada a las redes sociales y hasta educadora. También puede convertirse en distractor, mecanismo de acoso, fuente de información falsa y acceso permanente a contenidos que no necesariamente corresponden a la edad del usuario. Entonces, la dimensión del problema explica que el gobierno haya decidido intervenir. Una encuesta citada recientemente señala que más de 83 por ciento de los padres manifiesta preocupación por el uso excesivo de dispositivos y alrededor de 70 por ciento respalda algún tipo de regulación en las escuelas. También se ha señalado que niñas, niños y adolescentes pueden pasar hasta siete horas diarias frente a pantallas. En verdad, es un tema serio pero una política educativa no puede quedarse en retirar el teléfono del salón. México tiene frente a sí una generación que nació rodeada de tecnología. Pretender que la solución consiste únicamente en guardar los celulares durante la jornada escolar puede disminuir determinadas distracciones, pero no resuelve la relación que los estudiantes tienen con el mundo digital durante las restantes horas del día. Y la educación no se limita exclusivamente al aula, va más allá. Ya que el teléfono regresará a sus manos cuando termine la clase y las redes sociales continuarán ahí. Y ahora, con la inteligencia artificial se seguirá generando una dependencia excesiva a los celulares. De tal manera que la escuela tendrá que decidir si prepara al estudiante para enfrentarse a ese entorno o simplemente intenta mantenerlo alejado de él. Y esto involucra a la política educativa. Una educación digital no consiste en entregar una tableta, instalar internet en una escuela o permitir que los alumnos utilicen el teléfono para buscar información. Tampoco consiste en llenar las aulas de dispositivos porque la tecnología representa modernidad. La tecnología adquiere sentido educativo cuando contribuye al aprendizaje, al pensamiento crítico, a la creación de conocimiento y a la resolución de problemas. La propia SEP ha planteado la necesidad de desarrollar una cultura digital basada en el uso consciente, crítico y responsable de la tecnología. Esa orientación resulta mucho más importante que decidir simplemente si un alumno puede llevar o no un teléfono en la mochila. Esto último representa una posición bastante limitada, en virtud de que el problema tampoco termina con el celular. Detrás de la pantalla están las redes sociales, los videojuegos, las plataformas de contenido, la inteligencia artificial y un modelo de negocio diseñado para mantener al usuario conectado. La escuela está tratando con estudiantes que no solamente consumen tecnología: viven dentro de ella. La UNESCO ha advertido sobre los efectos de los teléfonos como distractores en el aula y distintos países han adoptado restricciones para su utilización en las escuelas. En México, la Ciudad de México ya aprobó modificaciones para regular el uso de estos dispositivos en planteles de educación básica. Entonces, regular puede ser necesario; prohibir puede ser necesario en determinados momentos y circunstancias. Pero ninguna de las dos medidas sustituye la formación. Un estudiante debe aprender a distinguir una noticia falsa de una verdadera, reconocer una manipulación digital, proteger sus datos personales, identificar los riesgos del ciberacoso, comprender cómo funcionan los algoritmos y utilizar una herramienta de inteligencia artificial sin convertirla en sustituto de su propio pensamiento. Y eso también es alfabetización. Y aquí aparece una contradicción que México debería revisar. Durante años se habló de incorporar las tecnologías de la información y la comunicación a la educación. Se promovió la conectividad, se distribuyeron dispositivos y se presentó la digitalización como una de las grandes transformaciones que necesitaba el sistema educativo. Ahora, ante los problemas derivados del uso excesivo de los dispositivos, la respuesta comienza a dirigirse hacia la restricción, como siempre: el prohibir. No obstante, quizá el problema nunca fue la tecnología, sino el problema fue pensar que introducir tecnología en las escuelas era suficiente para producir educación digital. La formación de los docentes será determinante. No se puede pedir a un maestro que regule el uso de inteligencia artificial, redes sociales o teléfonos celulares si él mismo no ha recibido una formación adecuada para comprender esas herramientas. La política educativa debe acompañar cualquier regulación con capacitación docente, materiales pedagógicos y criterios claros para que cada escuela pueda aplicar las medidas de acuerdo con sus condiciones. Ahora bien, también debe considerarse la desigualdad. No todos los estudiantes tienen computadora, internet de calidad o las mismas posibilidades de acceso tecnológico. Para algunos, el teléfono celular representa el único dispositivo mediante el cual pueden conectarse a internet. Una política que restrinja su uso sin garantizar alternativas puede profundizar la brecha digital que pretende combatir. La escuela mexicana tiene entonces una tarea bastante más complicada que prohibir un aparato. Tiene que enseñar a vivir en una sociedad donde la tecnología estará presente prácticamente en todas las actividades. Tendrá que formar estudiantes capaces de utilizarla sin convertirse en dependientes de ella, aprovecharla sin perder capacidad crítica y relacionarse con el mundo digital sin dejar que éste sustituya la convivencia humana, la lectura, el deporte, el juego y la experiencia directa. El celular puede ser un distractor dentro del aula. También puede convertirse en una herramienta educativa. Todo depende de cómo se utilice, para qué se utilice y quién enseñe a utilizarlo. México necesita una política de educación digital que vaya mucho más allá del teléfono celular. Si solamente conseguimos que los alumnos guarden sus dispositivos durante algunas horas, ¿habremos resuelto una parte del problema? Si conseguimos que aprendan a utilizarlos de manera crítica, responsable y productiva, estaremos hablando de educación. La diferencia entre ambas cosas puede parecer pequeña, pero en realidad define el tipo de ciudadano que estamos formando para la sociedad que viene, y eso es una función del Estado a través de su sistema educativo. Facebook: Juan Carlos Jaimes Ig: @carlosjaimes15",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "sociedad"
-        ],
-        "creator": [
-            "juan carlos jaimes"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "education"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:17",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:18:55",
-        "image_url": "https://www.launion.com.mx/media/k2/items/cache/929cfe4fc991bcfa6ecf341a1b629c47_L.jpg",
-        "video_url": null,
-        "source_id": "launionmk",
-        "source_name": "Launion Maxico",
-        "source_priority": 928030,
-        "source_url": "https://www.launion.com.mx",
-        "source_icon": "https://n.bytvi.com/launionmk.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "学校中的手机：禁止该技术还是教授如何使用它？",
-        "description_zh": "墨西哥面临着另一场涉及教育和技术的辩论，而不是改变。最近几周，墨西哥国立自治大学因虚拟入学考试而发生的事情被公开，许多申请者在使用I时的不公平行为被揭露。"
-    },
-    {
-        "article_id": "baa7ae98e1a775eb5e89ea5e10cb0f1a",
-        "link": "https://actualidad.rt.com/viral/622604-bote-basura-reciclar-viaje-motociclista",
-        "title": "Aparece un bote de basura en plena carretera y le pasa esto a un motociclista (VIDEO)",
-        "description": "En Eskisehir (Turquía), el conductor de una motocicleta que intentaba adelantar a un vehículo que circulaba delante de él terminó colisionando contra un contenedor de basura que apareció en el camino. El incidente quedó registrado por la cámara adjunta al casco del motociclista.",
+        "article_id": "34c3601f09fff9437e78ad0d85a9b426",
+        "link": "https://actualidad.rt.com/actualidad/622754-pais-europeo-registrar-4000-muertes-calor",
+        "title": "País europeo registra más de 4.000 muertes por calor en el verano",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
@@ -797,14 +553,14 @@
             "mexico"
         ],
         "category": [
-            "top",
-            "crime"
+            "environment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-16 13:40:12",
+        "pubDate": "2026-08-17 13:36:30",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 14:05:12",
-        "image_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a81b30de9ff7163434c6942.png",
+        "fetched_at": "2026-08-17 14:04:17",
+        "image_url": "https://actualidad.rt.com/static/img/og-logo-rt-black.jpg",
         "video_url": null,
         "source_id": "rt_mx",
         "source_name": "Rt",
@@ -818,60 +574,20 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "垃圾桶出现在路中间，而这种情况发生在一名摩托车手身上（视频）",
-        "description_zh": "在埃斯基谢希尔（土耳其），一辆摩托车的司机试图超越前面的一辆汽车，结果与路上出现的一个垃圾箱相撞。这一事件被摩托车手头盔上的摄像头记录下来。"
+        "title_zh": "欧洲国家夏季已有4000多人死于高温",
+        "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "ed61110c207436bb5e1403ea4fb5603a",
-        "link": "https://www.futbolred.com/colombianos-en-el-exterior/jhon-lucumi-ya-esta-en-turin-y-a-un-paso-de-firmar-con-juventus-examenes-medicos-y-cifras-271531",
-        "title": "Jhon Lucumí está a un paso de firmar con Juventus: ¿qué falta?",
-        "description": "El defensor colombiano presenta exámenes médicos este domingo y luego estampará su firma.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "colombianos en el exterior"
-        ],
-        "creator": [
-            "casa editorial el tiempo; juan pablo arévalo"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-16 13:40:12",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 16:05:05",
-        "image_url": "https://www.futbolred.com/files/article_graphic/uploads/2025/05/14/6825143a33103.png",
-        "video_url": null,
-        "source_id": "futbolred",
-        "source_name": "Futbolred",
-        "source_priority": 17422,
-        "source_url": "https://www.futbolred.com",
-        "source_icon": "https://n.bytvi.com/futbolred.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "乔恩·卢库米距离与尤文图斯签约仅一步之遥：还缺少什么？",
-        "description_zh": "哥伦比亚后卫将于本周日进行体检，然后签名。"
-    },
-    {
-        "article_id": "fa32dc11b10be3421aff25d6a8b76f86",
-        "link": "https://oem.com.mx/elsoldesanluis/local/sspc-municipal-suma-11-detenciones-por-narcomenudeo-en-la-central-de-abastos-31605932",
-        "title": "SSPC municipal suma 11 detenciones por narcomenudeo en la Central de Abastos",
-        "description": "La Secretaría de Seguridad de la capital mantiene un operativo de inteligencia en la Central de Abastos para contener el narcomenudeo y ubicar a un líder.",
+        "article_id": "60f2c7b407f4befbe82d0a5e67805ff2",
+        "link": "https://oem.com.mx/elsoldesinaloa/local/fuerzas-federales-capturan-a-nueve-presuntos-delincuentes-durante-operativo-de-fin-de-semana-en-sinaloa-31620895",
+        "title": "Fuerzas federales capturan a nueve presuntos delincuentes durante operativo de fin de semana en Sinaloa",
+        "description": "Uno de los detenidos es de nacionalidad extranjera",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
             "local"
         ],
         "creator": [
-            "alejandra ruiz"
+            "redacción / el sol de sinaloa"
         ],
         "language": "spanish",
         "country": [
@@ -882,16 +598,16 @@
             "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-16 13:40:11",
+        "pubDate": "2026-08-17 13:36:21",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-16 18:49:51",
-        "image_url": "https://oem.com.mx/elsoldesanluis/img/30441682/1780960906/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-08-17 19:15:01",
+        "image_url": "https://oem.com.mx/elsoldesinaloa/img/30834693/1782687172/BASE_LANDSCAPE/400/image.jpg",
         "video_url": null,
-        "source_id": "elsoldesanluis_mx",
-        "source_name": "Elsoldesanluis Mx",
-        "source_priority": 972129,
-        "source_url": "https://www.elsoldesanluis.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldesanluis_mx_.jpg",
+        "source_id": "elsoldesinaloa_mx",
+        "source_name": "Elsoldesinaloa Mx",
+        "source_priority": 439063,
+        "source_url": "https://www.elsoldesinaloa.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldesinaloa_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -899,7 +615,251 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "市 SSPC 在 Central de Abastos 逮捕了 11 名毒品交易嫌疑人",
-        "description_zh": "首都安全秘书处在阿巴斯托斯中心维持情报行动，以遏制毒品交易并寻找领导人。"
+        "title_zh": "联邦部队在锡那罗亚州的周末行动中抓获了九名犯罪嫌疑人",
+        "description_zh": "其中一名被拘留者是外国人"
+    },
+    {
+        "article_id": "7ef1f39e9c20c8841620be9ad3e58974",
+        "link": "https://aldialogo.mx/opinion/2026/08/17/que-politica-estamos-premiando-paloma-espinoza",
+        "title": "¿Qué política estamos premiando?: Paloma Espinoza",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "paloma espinoza cházaro"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "opinion",
+        "pubDate": "2026-08-17 13:36:20",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 14:48:16",
+        "image_url": "https://aldialogo.sfo2.digitaloceanspaces.com/uploads/2025/07/Paloma-Espinoza-Chazaro-2025.png",
+        "video_url": null,
+        "source_id": "aldialogo",
+        "source_name": "Aldialogo Mx",
+        "source_priority": 673454,
+        "source_url": "https://aldialogo.mx",
+        "source_icon": "https://n.bytvi.com/aldialogo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "我们奖励什么政策？：帕洛玛·埃斯皮诺萨",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "32e62620392fd19a0b53ffed186a58f7",
+        "link": "https://abcnoticias.mx/tendencia/2026/8/17/estaba-en-peligro-video-de-hayden-panettiere-desata-teorias-tras-su-muerte-290435.html",
+        "title": "¿Estaba en peligro? Video de Hayden Panettiere desata teorías tras su muerte",
+        "description": "El material que detonó la controversia corresponde a una conversación concedida en mayo de 2026 para el podcast On Purpose with Jay Shetty.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "hayden panettiere"
+        ],
+        "creator": [
+            "abc noticias"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:36:01",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 19:44:33",
+        "image_url": "https://abcnoticias.mx/u/fotografias/m/2026/8/17/f1280x720-358340_490015_5050.png",
+        "video_url": null,
+        "source_id": "abcnoticias",
+        "source_name": "Abc Noticias",
+        "source_priority": 300132,
+        "source_url": "https://abcnoticias.mx",
+        "source_icon": "https://n.bytvi.com/abcnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "他有危险吗？海顿·潘妮蒂尔死后的视频引发了各种猜测",
+        "description_zh": "引发争议的材料对应于 2026 年 5 月在播客 On Purpose with Jay Shetty 中的一段对话。"
+    },
+    {
+        "article_id": "90962c97431dfe3e075624867b6eab08",
+        "link": "https://suracapulco.mx/la-detencion-de-aguirre-puede-ser-un-distractor-dice-abel-barrera-y-llama-a-investigar-al-ejercito/",
+        "title": "La detención de Aguirre puede ser un distractor, dice Abel Barrera y llama a investigar al Ejército",
+        "description": "Los padres de los 43 estudiantes de Ayotzinapa tienen “el temor de que nuevamente prevalezcan argumentos que no sean jurídicos, técnicos, científicos, en la responsabilidad que puedan tener actores del Estado en la desaparición”, advierte el director de Tlachinollan El cargo La detención de Aguirre puede ser un distractor, dice Abel Barrera y llama a investigar al Ejército apareció primero en El Sur Acapulco suracapulco I Noticias Acapulco Guerrero .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "guerrero",
+            "al instante"
+        ],
+        "creator": [
+            "rosendo"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:36:01",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 13:48:58",
+        "image_url": "https://suracapulco.mx/wp-content/uploads/2026/08/cc-Abel-Barrera-Tlachinollan--scaled.jpg",
+        "video_url": null,
+        "source_id": "suracapulco_mx",
+        "source_name": "Suracapulco",
+        "source_priority": 818431,
+        "source_url": "https://suracapulco.mx",
+        "source_icon": "https://n.bytvi.com/suracapulco_mx.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "阿贝尔·巴雷拉表示，阿吉雷被捕可能会分散注意力，并呼吁陆军进行调查",
+        "description_zh": "特拉奇诺兰 (Tlachinollan) 主任警告说，43 名阿约齐纳帕 (Ayotzinapa) 学生的家长“担心，不合法、技术或科学的论点将再次盛行，国家行为者可能对失踪事件负有责任”。"
+    },
+    {
+        "article_id": "26091ff909b12a55b209b5eb402f1514",
+        "link": "https://www.diarioestrategia.cl/texto-diario/mostrar/5986273/conocimiento-pedagogico-tarea-pendiente",
+        "title": "​Conocimiento pedagógico, una tarea pendiente",
+        "description": "Fortalecer el conocimiento pedagógico docente sigue siendo una tarea pendiente en Chile. Según la Encuesta de Conocimientos Docentes (TKS), TALIS 2024, el país se ubica por debajo del promedio de la OCDE, con solo un 17,3% de los profesores en un nivel avanzado, y una brecha de 10,9 puntos entre establecimientos privados y públicos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "estrategia on line"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "education"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:35:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 13:43:23",
+        "image_url": "https://www.diarioestrategia.cl/images/showid/8097422",
+        "video_url": null,
+        "source_id": "diarioestrategia_cl",
+        "source_name": "Diario Estrategia",
+        "source_priority": 263817,
+        "source_url": "https://www.diarioestrategia.cl",
+        "source_icon": "https://n.bytvi.com/diarioestrategia_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "教学知识，一项悬而未决的任务",
+        "description_zh": "加强教师的教学知识仍然是智利的一项悬而未决的任务。根据 TALIS 2024 年教师知识调查（TKS），该国低于 OECD 平均水平，只有 17.3% 的教师处于高级水平，与其他国家相比差距 10.9 个百分点。"
+    },
+    {
+        "article_id": "69063f6ffe04d8d9fcafba3415aa283e",
+        "link": "https://www.larepublica.co/globoeconomia/hombre-de-confianza-de-trump-en-venezuela-promueve-acuerdos-petroleros-de-ee-uu-primero-4460345",
+        "title": "Hombre de confianza de Trump en Venezuela promueve acuerdos petroleros de \"EE.UU. primero\"",
+        "description": "Hasta hace poco, Betancourt evitaba pisar territorio estadounidense por temor a la investigación estadounidense, según fuentes familiarizadas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "globoeconomía"
+        ],
+        "creator": [
+            "bloomberg"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:35:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 14:06:46",
+        "image_url": "https://img.lalr.co/cms/2026/08/17083500/North-American-Blue-Energy-Partners-Nabep.jpg?size=xl&ratio=r40_21",
+        "video_url": null,
+        "source_id": "larepublicacl",
+        "source_name": "Larepublica",
+        "source_priority": 43349,
+        "source_url": "https://www.larepublica.co",
+        "source_icon": "https://n.bytvi.com/larepublicacl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "特朗普在委内瑞拉的亲信推动“美国优先”石油交易",
+        "description_zh": "据知情人士透露，直到最近，贝当古还因为担心美国的调查而避免踏上美国领土。"
+    },
+    {
+        "article_id": "422b84792d2993ff11c1b2e41b495d73",
+        "link": "https://www.latercera.com/el-deportivo/noticia/massu-define-al-reemplazante-chile-prepara-su-nomina-sin-jarry-mientras-espana-confirma-su-equipo-para-la-copa-davis/",
+        "title": "Massú define al reemplazante: Chile prepara su nómina sin Jarry mientras España confirma su equipo para la Copa Davis",
+        "description": "El extenista dará a conocer este lunes a los jugadores que enfrentarán al combinado ibérico. El equipo europeo, en tanto, confirmó su convocatoria para buscar en Santiago un lugar en la fase del certamen.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "el deportivo"
+        ],
+        "creator": [
+            "lucas mujica",
+            "matías parker"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-17 13:35:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-17 14:06:43",
+        "image_url": "https://www.latercera.com/resizer/v2/AU3FS7RFLFFVRHPDSN3KBLZ3VA.jpg?auth=ab12f2dee608e168c15c56484aed27cc39ad26a4ae3ba97670be7cf64f719854&smart=true&width=3030&height=2020",
+        "video_url": null,
+        "source_id": "latercera",
+        "source_name": "Latercera",
+        "source_priority": 32330,
+        "source_url": "https://www.latercera.com",
+        "source_icon": "https://n.bytvi.com/latercera.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "马苏确定了替代者：智利在没有贾里的情况下准备名单，而西班牙则确定了戴维斯杯的阵容",
+        "description_zh": "这位前网球运动员将于本周一宣布对阵伊比利亚队的球员名单。与此同时，欧洲队确认了其寻求在圣地亚哥参加比赛阶段的席位的呼吁。"
     }
 ]
