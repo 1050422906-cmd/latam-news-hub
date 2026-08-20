@@ -1,39 +1,35 @@
 [
     {
-        "article_id": "8233885eb52ee7b89e61d890e7b5d26c",
-        "link": "https://www.mdzol.com/tendencias/moria-netflix-quien-fue-batato-barea-el-artista-que-aparece-la-serie-n1588048",
-        "title": "Moria en Netflix: quién fue Batato Barea, el artista que aparece en la serie",
-        "description": "Batato Barea fue una figura clave del under porteño de los 80. Ahora, su historia vuelve a escena con un homenaje en la serie Moria de Netflix.",
+        "article_id": "888c3fa33f81587f7d3e5336264fbcd1",
+        "link": "https://www.losandes.com.ar/politica/detuvieron-una-funcionaria-bonaerense-la-acusan-lavar-27000-millones-datos-biometricos-expresos-n6002844",
+        "title": "Detuvieron a una funcionaria bonaerense: la acusan de lavar $27.000 millones con datos biométricos de expresos",
+        "description": "Una fiscal de La Plata investiga una organización que habría utilizado a expresos y personas en situación de vulnerabilidad como \"mulas financieras\" para abrir cuentas en billeteras virtuales. La causa detectó movimientos por más de $27.000 millones.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "moria",
-            "netflix",
-            "barea",
-            "moria casán",
-            "batato"
+            "política"
         ],
         "creator": [
-            "cynthia garrido"
+            "redacción política"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "entertainment",
+            "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-18 13:39:00",
+        "pubDate": "2026-08-19 13:37:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 14:01:01",
-        "image_url": "https://media.mdzol.com/p/6aef98275656a5c320a9421b4b6e3618/adjuntos/373/imagenes/001/980/0001980978/1200x675/smart/netflix.png",
+        "fetched_at": "2026-08-19 13:40:21",
+        "image_url": "https://media.losandes.com.ar/p/76420304fcd24dda0db120a5bbb69bea/adjuntos/368/imagenes/100/739/0100739371/1200x675/smart/detuvieron-una-funcionaria-bonaerense-acusada-usar-datos-biometricos-personas-vulnerables-lavar-dinero.jpg",
         "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://n.bytvi.com/mdzol.png",
+        "source_id": "losandes",
+        "source_name": "Los Andes",
+        "source_priority": 114641,
+        "source_url": "https://www.losandes.com.ar",
+        "source_icon": "https://n.bytvi.com/losandes.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -41,45 +37,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Netflix 上的莫里亚：谁是该剧中出现的艺术家巴托·巴雷亚 (Batato Barea)",
-        "description_zh": "巴托·巴里亚 (Batato Barea) 是 80 年代布宜诺斯艾利斯地下运动的关键人物。现在，他的故事在 Netflix 剧集《莫里亚》中回归，向人们致敬。"
+        "title_zh": "他们逮捕了布宜诺斯艾利斯一名官员：指控她利用快递工人的生物识别数据洗钱 270 亿美元",
+        "description_zh": "拉普拉塔的一名检察官正在调查一个组织，该组织利用囚犯和弱势群体作为“金融骡子”在虚拟钱包中开设账户。该案发现了超过 270 亿美元的资金变动。"
     },
     {
-        "article_id": "0adf9a630c96f4cf3663c6be5a185c6a",
-        "link": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/08/7482134-ex-de-hayden-panettiere-faz-promessa-a-filha-apos-morte-de-atriz.html",
-        "title": "Ex de Hayden Panettiere faz promessa à filha após morte de atriz",
-        "description": "Wladimir Klitschko lamenta morte da atriz e faz promessa à filha de 11 anos",
+        "article_id": "5c34dabb647d7f4533113bc028a28402",
+        "link": "https://www.capitalnews.com.br/politica-e-poder/executivo/governo-de-mato-grosso-do-sul-remaneja-r-31-milhoes-para-detran-agepen-e-outras-unidades/445600",
+        "title": "Governo de Mato Grosso do Sul remaneja R$ 3,1 milhões para Detran, Agepen e outras unidades",
+        "description": "O Governo de Mato Grosso do Sul abriu crédito suplementar de R$ 3.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "condolências",
-            "atriz",
-            "finance",
+        "keywords": null,
+        "creator": [
+            "joão gabriel vilalba"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
             "business",
-            "luto",
-            "& economics"
-        ],
-        "creator": [
-            "observatório dos famosos"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-18 13:39:00",
+        "pubDate": "2026-08-19 13:37:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 14:15:31",
-        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/08/18/675x450/1_famosos-70-jpg-67447533.jpg",
+        "fetched_at": "2026-08-19 17:15:55",
+        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2025/11/25/1200x900/1be34f245018337a7758afd8237d19cf-capitalnews-com-br.jpg",
         "video_url": null,
-        "source_id": "correiobraziliense",
-        "source_name": "Correio Braziliense",
-        "source_priority": 267296,
-        "source_url": "https://www.correiobraziliense.com.br",
-        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
+        "source_id": "capitalnews",
+        "source_name": "Capital News",
+        "source_priority": 505998,
+        "source_url": "https://www.capitalnews.com.br",
+        "source_icon": "https://n.bytvi.com/capitalnews.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -87,38 +76,78 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "海顿·潘妮蒂尔的前夫在女演员去世后向女儿做出承诺",
-        "description_zh": "弗拉基米尔·克里琴科 (Wladimir Klitschko) 哀悼这位女演员的去世，并向他 11 岁的女儿做出承诺"
+        "title_zh": "南马托格罗索州政府向 Detran、Agepen 和其他单位重新分配 310 万雷亚尔",
+        "description_zh": "南马托格罗索州政府开设了 3 雷亚尔的额外信贷。"
     },
     {
-        "article_id": "b9daccece55cbf7a2ae5b60f985c3abb",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/relatorio-traz-solucoes-para-reduzir-emissoes-de-metano-no-pais",
-        "title": "Relatório traz soluções para reduzir emissões de metano",
-        "description": "A rede de organizações ambientais e de pesquisa Observatório do Clima lançou nesta terça-feira (18) relatório que reúne 37 soluções para que o Brasil possa reduzir as emissões de metano (CH4). O gás é considerado um dos mais potentes poluidores causadores das mudanças climáticas. Apesar de durar apenas de 10 a 20 anos na atmosfera, o metano tem um potencial de aquecimento do planeta 28 vezes maior que o gás carbônico (CO2). O Brasil é quinto país que mais emite esse poluidor, ficando atrás apenas da China, Estados Unidos, Índia e Rússia. Notícias relacionadas: Grande parte do país tem temperaturas elevadas nesta terça-feira. Brasileira defende mais influência dos jovens nas decisões da COP17. COP17 começa na Mongólia com foco em seca, terra e financiamento. Segundo dados do Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa (SEEG) do Observatório do Clima, o Brasil lançou na atmosfera, em 2024, 21 milhões de toneladas de metano. Para o coordenador do sistema, David Tsai, reduzir as emissões de metano é uma ação crítica para frear o aquecimento global e trazer o planeta à normalidade climática. “Temos à disposição um amplo conjunto de soluções para fazer isso, mas o Brasil precisa transformar esse conhecimento em ação coordenada e com escala”, diz. As soluções trazidas no relatório são direcionadas a quatro setores de atividades: agropecuária, resíduos, mudança de uso da terra e florestas e energia. Para cada área são sugeridas ações de planejamento, financiamento, governança, operação e monitoramento. Agropecuária No setor da agropecuária, por exemplo, são 15 propostas que exigem envolvimento dos diversos setores incluindo os setores produtivos, governos, instituições financeiras e academia. Entre as ações estão desde mudanças no manejo de animais e dos resíduos, passando pelo planejamento territorial, até intensificação de assistência técnica e acesso ao crédito. O setor da agropecuária é um dos principais emissores de metano e foi responsável por 15,7 milhões de toneladas de metano, em 2024 , o que corresponde a 75,8% do total das emissões brasileiras no mesmo ano. Para Gabriel Quintana, coordenador da área de Ciência do Clima do Instituto de Manejo e Certificação Florestal e Agrícola (Imaflora) - responsável pelas propostas para o setor – as mudanças necessárias são oportunidades para incluir produtividade e eficiência na produção de alimentos. “Essa edição do SEEG Soluções expande as estratégias já existentes, trazendo opções que podem ser implementadas por produtores, municípios e regiões do país”, diz. Resíduos O manejo e governança de aterros sanitários e a eliminação dos lixões também são medidas necessárias para eliminar a emissão de metano no setor de resíduos. Para auxiliar, a rede global Iclei – Governos Locais pela Sustentabilidade contribuiu com 12 propostas no relatório. São medidas para inspirar cidades brasileiras a reduzir a geração e o desperdício de resíduos, como a ampliação de coleta seletiva e aproveitamento energético de materiais, afirma Iris Coluna, assessora do Iclei-Governos Locais pela Sustentabilidade. Uso da terra Para o setor de Mudança no Uso da Terra (MUT) e Florestas, o Instituto de Pesquisa Ambiental da Amazônia (Ipam) contribuiu com cinco sugestões no relatório. As ações sugerem melhorias no monitoramento, prevenção e combate a incêndios na vegetação nativa. Energia As últimas cinco sugestões do relatório apontam soluções para reduzir a emissão de metano nas cadeias de combustíveis fósseis como petróleo, gás e carvão. São ações com foco no vazamento e desperdício nos processos produtivos. As contribuições são do Instituto de Energia e Meio Ambiente (Iema), que direciona respostas específicas para as diferentes necessidades do setor. “Quem cozinha com lenha porque não tem acesso a outra fonte de energia precisa de política pública. Já as emissões da cadeia de combustíveis fósseis vêm de operação industrial, e ali cabe responsabilizar quem lucra com a atividade”, conclui a pesquisadora do Iema, Ingrid Graces.",
+        "article_id": "4004715a49a88716f8f8d7dd4da794e1",
+        "link": "https://www.capitalnews.com.br/politica-e-poder/executivo/governo-de-ms-remaneja-r-31-milhoes-para-detran-agepen-e-outras-unidades/445600",
+        "title": "Governo de MS remaneja R$ 3,1 milhões para Detran, Agepen e outras unidades",
+        "description": "O Governo de Mato Grosso do Sul abriu crédito suplementar de R$ 3.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "relatório",
-            "gás poluidor",
-            "observatório do clima",
-            "meio ambiente",
-            "emissão de metano"
-        ],
+        "keywords": null,
         "creator": [
-            "fabíola sinimbú - repórter da agência brasil"
+            "joão gabriel vilalba"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "environment",
+            "business",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-18 13:39:00",
+        "pubDate": "2026-08-19 13:37:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 14:40:43",
-        "image_url": "https://imagens.ebc.com.br/Tok_JTmovJPv27P_xkUe9uTtiOY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/13/tiete_poluicao08.jpg?itok=CLhjX5nP",
+        "fetched_at": "2026-08-19 14:16:26",
+        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2025/11/25/1200x900/1be34f245018337a7758afd8237d19cf-capitalnews-com-br.jpg",
+        "video_url": null,
+        "source_id": "capitalnews",
+        "source_name": "Capital News",
+        "source_priority": 505998,
+        "source_url": "https://www.capitalnews.com.br",
+        "source_icon": "https://n.bytvi.com/capitalnews.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "MS政府向Detran、Agepen和其他单位重新分配310万雷亚尔",
+        "description_zh": "南马托格罗索州政府开设了 3 雷亚尔的额外信贷。"
+    },
+    {
+        "article_id": "ed2777a195ce463f1c582ef2d24b9947",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/democrata-da-florida-vence-primarias-para-senado-dos-estados-unidos",
+        "title": "Democrata da Flórida vence primárias para Senado dos Estados Unidos",
+        "description": "A democrata socialista Angie Nixon conquistou vitória inesperada nessa terça-feira (18) nas primárias democratas da Flórida para o Senado dos Estados Unidos (EUA), enquanto eleitores em vários estados escolhiam candidatos para as eleições que determinarão o controle do Congresso. O resultado surpreendente foi o mais recente de uma série de vitórias de candidatos progressistas insurgentes nas disputas democratas deste ano. Muitos eleitores do partido estão cada vez mais frustrados com a cúpula partidária, que consideram muito antiquada e ineficaz na oposição ao presidente republicano Donald Trump. Embora o movimento tenha despertado entusiasmo na ala de esquerda do partido, analistas alertam que isso pode complicar a campanha para conquistar o controle da Câmara dos Deputados e do Senado em novembro, quando membros de ambos os partidos e independentes irão às urnas. Nenhuma divisão desse tipo ficou evidente no Alasca, onde a democrata Mary Peltola obteve mais votos do que o senador republicano em exercício, Dan S. Sullivan, nas incomuns primárias apartidárias do estado para o Senado dos EUA. Os democratas veem a disputa como uma de suas melhores oportunidades de conquistar uma das quatro cadeiras de que precisam para obter o controle da Câmara, composta por 100 cadeiras, nas eleições de meio de mandato de novembro. A corrida pelo Senado na Flórida não é vista como promissora para os democratas. O estado, que já foi um dos mais disputados, tem se tornado cada vez mais republicano nos últimos anos, e analistas afirmam que a vitória de Nixon provavelmente o coloca ainda mais fora de alcance. Angie Nixon, de 42 anos, tem atuado ativamente no movimento sindical da Flórida e foi repreendida este ano por interromper uma votação na Câmara dos Deputados da Flórida ao protestar contra a legislação de redistritamento congressional com um megafone rosa . Ela derrotou o ex-funcionário de segurança nacional Alex Vindman, que ganhou destaque em 2019 ao testemunhar, perante o Congresso, durante o primeiro processo de impeachment do presidente republicano Donald Trump. Vindman arrecadou 16 vezes mais dinheiro do que Nixon, e analistas afirmaram que ele provavelmente teria mais chances de derrotar a senadora republicana em exercício Ashley Moody nas eleições gerais de novembro. O vencedor completará os dois anos restantes do mandato do ex-senador da Flórida Marco Rubio, que agora ocupa o cargo de secretário de Estado de Trump. * ( Reportagem adicional de Andrew Goudsward ) * É proibida a reprodução deste conteúdo .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "senado",
+            "eleição",
+            "internacional",
+            "flórida",
+            "angie nixon",
+            "vitória",
+            "democrata",
+            "primárias"
+        ],
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-19 13:37:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 14:11:26",
+        "image_url": "https://imagens.ebc.com.br/PLMzLpZtF8SWKp0la0BDR4HwbRw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/19/2026-08-19t123951z_1_lynxmpem7i0tb_rtroptp_4_usa-election-florida.jpg?itok=EorOey_q",
         "video_url": null,
         "source_id": "agenciabrasil_ebc_br",
         "source_name": "Agenciabrasil Ebc Br",
@@ -132,42 +161,37 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "报告提出了减少甲烷排放的解决方案",
-        "description_zh": "环境和研究组织气候观测站网络于本周二 (18) 发布了一份报告，其中汇集了 37 种解决方案，以便巴西能够减少甲烷 (CH4) 排放。天然气被认为是导致气候变化的最强大的污染源之一。尽管"
+        "title_zh": "佛罗里达州民主党赢得美国参议院初选",
+        "description_zh": "社会党民主党人安吉·尼克松周二（18日）在佛罗里达州美国参议院民主党初选中意外获胜，几个州的选民选出了将决定国会控制权的选举候选人。结果"
     },
     {
-        "article_id": "ce2262553256ed7134e7f2f4b1056efb",
-        "link": "https://www.rionegro.com.ar/servicios/quini-6-pozo-acumulado-de-7-350-millones-para-el-sorteo-del-miercoles-19-de-agosto-2026-4687266/",
-        "title": "Quini 6: pozo acumulado de $7.350 millones para el sorteo del miércoles 19 de agosto 2026",
-        "description": "La Lotería de Santa Fe confirmó que el Quini 6 pondrá en juego un pozo total estimado de $7.350 millones, este miércoles 19 de agosto 2026. Repasamos los valores de las apuestas, modalidades y formas de participar.",
+        "article_id": "ce1ac137fd7d2ea389300d23302c53ac",
+        "link": "https://jornal24horas.com.br/?p=62036",
+        "title": "Shopee traz Air Fryer Britânia Oven de 12 litros por apenas R$275",
+        "description": "Se você estava de olho em uma air fryer maior para preparar as refeições do dia a dia, os modelos Oven podem ser boas opções com sua grande capacidade e versatilidade no preparo de alimentos sem o uso de óleo. E a boa notícia, é que por tempo limitado, a Air Fryer Oven Britânia [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "lotería de santa fe",
-            "servicios",
-            "quini 6"
+            "tecnologia"
         ],
-        "creator": [
-            "daniela castro"
-        ],
-        "language": "spanish",
+        "creator": null,
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
-            "business",
-            "top"
+            "technology"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-18 13:38:57",
+        "pubDate": "2026-08-19 13:37:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 13:44:04",
-        "image_url": "https://www.rionegro.com.ar/wp-content/uploads/2026/08/Sorteo-Quini-6.jpg?w=1200&h=630&crop=1&resize=1200,630",
+        "fetched_at": "2026-08-19 14:26:41",
+        "image_url": "https://jornal24horas.com.br/wp-content/uploads/2026/08/air_fryer_Britania_oven_de_12_litros_em_oferta_2fb0f1af02-lJFWQZ.jpg",
         "video_url": null,
-        "source_id": "rionegro",
-        "source_name": "Diario Río Negro",
-        "source_priority": 337049,
-        "source_url": "https://www.rionegro.com.ar",
-        "source_icon": "https://n.bytvi.com/rionegro.png",
+        "source_id": "jornal24horas",
+        "source_name": "Jornal24horas",
+        "source_priority": 42157300,
+        "source_url": "http://jornal24horas.com.br",
+        "source_icon": "https://n.bytvi.com/jornal24horas.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -175,195 +199,24 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "Quini 6：2026 年 8 月 19 日星期三抽奖累积奖金 73.5 亿美元",
-        "description_zh": "圣达菲彩票确认，Quini 6 将于 2026 年 8 月 19 日本周三发放预计总奖金 73.5 亿美元。我们将审查投注金额、方式和参与方式。"
+        "title_zh": "Shopee 推出 12 升 Air Fryer Britânia 烤箱，仅需 R$275",
+        "description_zh": "如果您正在寻找更大的空气炸锅来准备日常餐点，烤箱型号可能是不错的选择，因为它们具有大容量和多功能性，无需使用油即可准备食物。好消息是，在有限的时间内，空气炸锅 Britânia [...]"
     },
     {
-        "article_id": "f1dac85be06aad6e37759da1258ddb4a",
-        "link": "https://nuevodiariodesalta.com.ar/nacion-reconocio-una-deuda-con-salta-pero-el-saldo-final-quedo-a-favor-del-gobierno-nacional/",
-        "title": "Nación reconoció una deuda con Salta, pero el saldo final quedó a favor del Gobierno nacional",
-        "description": "La Provincia de Salta y el Estado nacional acordaron compensar las deudas que mantenían entre sí. El convenio reconoce fondos que Nación debía a la provincia, pero el cruce de las obligaciones dejó un",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "admin"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 13:47:22",
-        "image_url": "https://nuevodiariodesalta.com.ar/wp-content/uploads/2026/08/97033-convenio-entre-saenz-y-caputo-financiamiento-del-bid-por-us-50-millones-para-el-desarrollo-productivo-y-exportador-de-salta-20240802234525.jpeg",
-        "video_url": null,
-        "source_id": "nuevodiariodesalta_ar",
-        "source_name": "Nuevo Diario De Salta",
-        "source_priority": 294920,
-        "source_url": "https://nuevodiariodesalta.com.ar",
-        "source_icon": "https://n.bytvi.com/nuevodiariodesalta_ar.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "国家承认对萨尔塔的债务，但最终余额有利于国家政府",
-        "description_zh": "萨尔塔省和国家同意赔偿彼此所欠的债务。该协议承认国家欠该省的资金，但义务的交叉留下了"
-    },
-    {
-        "article_id": "be7ac7824347e7fe28d46033efb515d8",
-        "link": "https://titulares.ar/paralizacion-de-yacimientos-mendocinos-por-despidos-petroleros/",
-        "title": "Paralización de yacimientos mendocinos por despidos petroleros",
-        "description": "Conflicto laboral en el sector petrolero de Cuyo y La Rioja El Sindicato del Personal Jerárquico y Profesional del Petróleo de Cuyo y La Rioja ha denunciado a Petróleos Sudamericanos SA (PS Energy) por una serie de despidos que han motivado la aplicación de medidas de fuerza que podrían afectar la producción en la región. [...]",
+        "article_id": "f5a1602251dd4782441d7e7b5e3037cd",
+        "link": "https://www.laopinioncoruna.es/sociedad/2026/08/19/desembarco-decenas-inmigrantes-causa-estupor-133488584.html",
+        "title": "El desembarco de decenas de inmigrantes causa estupor en una playa de Los Belones",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "economía"
+            "desembarco",
+            "estupor",
+            "inmigrantes",
+            "causa",
+            "decenas"
         ],
         "creator": [
-            "marisol medrano"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-08-18 13:38:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 16:36:10",
-        "image_url": "https://i2.wp.com/resizer.iproimg.com/unsafe/1280x720/filters:format(webp):quality(75):max_bytes(102400)/assets.iprofesional.com/assets/jpg/2023/11/563183_landscape.jpg?ssl=1",
-        "video_url": null,
-        "source_id": "titulares",
-        "source_name": "Titulares",
-        "source_priority": 10683503,
-        "source_url": "https://titulares.ar",
-        "source_icon": "https://n.bytvi.com/titulares.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "石油公司停工导致门多萨油田瘫痪",
-        "description_zh": "库约和拉里奥哈石油部门的劳资冲突 库约和拉里奥哈的层级和专业石油人员联盟谴责 Petroleos Sudamericanos SA (PS Energy) 的一系列解雇行为，这些解雇行为促使采取了可能影响该行业的强力措施"
-    },
-    {
-        "article_id": "af4b954539e70aa4dd89679f04e0d144",
-        "link": "https://chacodiapordia.com/corrientes-firmo-convenios-para-la-articulacion-productiva-con-mercados-bonaerenses/",
-        "title": "Corrientes firmó convenios para la articulación productiva con Mercados Bonaerenses",
-        "description": "El ministro de Desarrollo Agrario de la Provincia de Buenos Aires, Javier Rodríguez, recorrió la Feria Franca de Goya y una planta arrocera. Además, mantuvo encuentros con productores y firmó convenios con cinco municipios correntinos para promover el intercambio técnico y nuevas oportunidades de comercialización. El ministro de Desarrollo Agrario de la Provincia de Buenos Aires, Javier Rodríguez, visitó Corrientes con una agenda centrada en el fortalecimiento de la producción, la agricultura familiar y la comercialización, y profundizó la articulación entre ambas provincias a partir de la firma de convenios con cinco municipios correntinos. Durante su visita, Javier Rodríguez recorrió la Feria Franca de Goya, donde dialogó con productores y feriantes de la agricultura familiar; visitó el Molino Arrocero La Rosario, donde mantuvo un encuentro con productores; y luego se trasladó a Santa Lucía, donde suscribió acuerdos con los municipios de Santa Lucía, Esquina, San Isidro, Empedrado y Felipe Yofre para avanzar en acciones de intercambio técnico y en la posibilidad de comercializar productos locales en los Mercados Bonaerenses. La agenda dio continuidad al convenio de cooperación formalizado durante la última visita del gobernador bonaerense Axel Kicillof a Corrientes, junto al gobernador correntino Juan Pablo Valdés, y apunta a generar nuevas herramientas de articulación entre los sistemas productivos de ambas provincias. Agricultura familiar: producción, trabajo y desarrollo local En Goya, Javier Rodríguez recorrió la Feria Franca, una organización que desde hace 26 años constituye un espacio de comercialización directa para productores y que actualmente funciona bajo la figura de Cooperativa Feria Franca y Agricultura Familiar. Durante el encuentro, el ministro destacó el rol económico y territorial de este sector y cuestionó las miradas que reducen a la agricultura familiar a una cuestión asistencial: “Para nosotros el verdadero núcleo del desarrollo agrario es tener productores, sostener el trabajo de productor”, señaló, y remarcó que detrás de cada unidad productiva existe no sólo una familia, sino también una red de actividades económicas que impactan en las comunidades. En ese sentido, sostuvo que “no es lo mismo si un millón de toneladas de un producto lo hace un solo productor o lo hacen miles de productores”, porque las consecuencias en términos de oportunidades laborales, desarrollo personal, historia familiar y movimiento del comercio local y regional son diferentes. “Sostener a los productores es también sostener las distintas localidades”, afirmó el ministro, quien planteó que la permanencia de productores en los territorios constituye un componente central de un modelo de desarrollo agrario con mayor arraigo. La Feria Franca de Goya fue creada en el año 2000 como un espacio de comercialización directa entre pequeños productores y consumidores. Actualmente reúne a familias que producen y elaboran frutas y hortalizas, dulces, conservas, miel, panificados, chipá, plantas, flores y artesanías, entre otros productos. Producción arrocera y agregado de valor La recorrida continuó en el Molino Arrocero La Rosario, una empresa familiar radicada en Santa Lucía que desarrolla actividades de secado, acopio, fraccionamiento y envasado de arroz producido por productores de la región. La firma, fundada por el productor arrocero Rafael Giordano, cuenta con una planta industrial en la que trabajan alrededor de 20 personas y comercializa sus productos bajo las marcas La Rosario y Porambá. Su producción llega a distintas provincias del país y también tiene presencia en mercados internacionales. La visita también permitió conocer el proceso de transformación energética que lleva adelante la empresa, que incorporó un sistema de generación solar fotovoltaica para reducir el consumo de energía convencional y avanzar hacia un esquema de mayor sustentabilidad. Convenios con Mercados Bonaerenses En Santa Lucía, Javier Rodríguez encabezó la firma de convenios entre el Ministerio de Desarrollo Agrario bonaerense y cinco municipios correntinos: Santa Lucía, Esquina, San Isidro, Empedrado y Felipe Yofre. Los acuerdos fueron suscriptos junto a los intendentes Norberto Javier Villordo, Cristian Olivetti, Vilma Itatí Ojeda, Rubén Fernando Echeverría y Cristian Ignacio Ledesma, respectivamente. El objetivo es avanzar en el intercambio técnico en materia de producción y comercialización y analizar alternativas para que productos elaborados por productores correntinos puedan incorporarse a los canales de comercialización de Mercados Bonaerenses. “Firmamos convenios entre los municipios y el Ministerio de Desarrollo Agrario vinculados a los Mercados Bonaerenses, donde hay posibilidades de acompañar con asesoramiento y generar posibilidades de comercialización de lo que se produce acá en la zona, allá en la provincia de Buenos Aires”, explicó Javier Rodríguez. Mercados Bonaerenses es una política provincial orientada a acercar productores y consumidores, fortaleciendo los canales de comercialización y generando alternativas para mejorar el acceso a alimentos. “Creemos que hay posibilidad de expandir este programa y de generar articulaciones también con otras zonas productivas”, señaló el ministro. En ese marco, la vinculación con Corrientes adquiere una importancia particular por el perfil productivo de la provincia y por el potencial de complementariedad entre ambas economías regionales. “Venimos de recorrer una planta que procesa arroz. Una producción donde Corrientes es líder, sin ninguna duda, y nosotros tenemos un mercado de consumidores muy importante”, destacó el ministro. Un diagnóstico compartido La agenda concluyó con un encuentro regional de producción donde Javier Rodríguez intercambió con productores, representantes municipales y actores del sector productivo. Durante la jornada, el ministro planteó que uno de los principales problemas que atraviesa actualmente la producción es la caída del consumo, vinculada a la pérdida de poder adquisitivo de los hogares. “Estamos convencidos de que necesitamos un país donde se ponga en valor la producción y el trabajo”, afirmó. Y agregó: “La caída de la demanda, los costos elevados y la tasa de interés alta para pedir crédito conforman un escenario muy complejo”. A ese escenario sumó su preocupación por el incremento de las importaciones en distintas cadenas productivas. En ese sentido, afirmó que la situación “ya no es una apertura importadora, sino una verdadera inundación de importaciones”. Para el ministro, el desafío requiere sostener una mirada de largo plazo sobre el desarrollo productivo y generar políticas que permitan preservar el entramado de productores, industrias, trabajadores y comercios que sostiene a las comunidades del interior. El Litoral/eleco La entrada Corrientes firmó convenios para la articulación productiva con Mercados Bonaerenses se publicó primero en CHACODIAPORDIA.COM .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "la región"
-        ],
-        "creator": [
-            "rodolfo mancuello"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 13:45:43",
-        "image_url": "https://chacodiapordia.com/wp-content/uploads/2026/08/Corrientes-MercadoGoyaMtroBsAs-Ago2026.jpg",
-        "video_url": null,
-        "source_id": "chacodiapordia",
-        "source_name": "Chaco Día Por Día",
-        "source_priority": 440261,
-        "source_url": "https://www.chacodiapordia.com",
-        "source_icon": "https://n.bytvi.com/chacodiapordia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "科连特斯与 Mercados Bonaerenses 签署了生产衔接协议",
-        "description_zh": "布宜诺斯艾利斯省农业发展部长哈维尔·罗德里格斯参观了戈雅弗兰卡博览会和水稻种植园。此外，他还与生产商举行了会议，并与科连特斯的五个市签署了协议，以促进技术交流和新机会。"
-    },
-    {
-        "article_id": "c8ca6006ebcddf75d4840e9773dac2ac",
-        "link": "https://www.elliberal.com.ar/nota/88888/2026/08/el-gobierno-coordina-al-tesoro-y-al-banco-central-para-contener-al-dolar-y-evitar-que-supere-los-1500",
-        "title": "El Gobierno coordina al Tesoro y al Banco Central para contener al dólar y evitar que supere los $1.500",
-        "description": "La estrategia oficial combina intervenciones en el mercado cambiario, manejo de la liquidez en pesos y operaciones financieras. El objetivo es sostener el tipo de cambio, controlar las tasas y, al mismo tiempo, avanzar en la acumulación de reservas.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "noticias",
-            "periodico",
-            "ultimo momento",
-            "news",
-            "el liberal",
-            "diario",
-            "santiago del estero",
-            "argentina"
-        ],
-        "creator": [
-            "f autor"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 13:52:58",
-        "image_url": "https://www.elliberal.com.ar/img/publicaciones/2026/08/18/alta/2210644.webp",
-        "video_url": null,
-        "source_id": "elliberal",
-        "source_name": "El Liberal",
-        "source_priority": 1699418,
-        "source_url": "https://www.elliberal.com.ar",
-        "source_icon": null,
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "政府协调财政部和央行遏制美元，防止其突破1500美元",
-        "description_zh": "官方战略结合了对外汇市场的干预、比索流动性管理和金融运营。目标是维持汇率、控制利率，同时促进储备积累。"
-    },
-    {
-        "article_id": "9761763ac8560a3cdd1e0d8608cfbaed",
-        "link": "https://www.adnsur.com.ar/sociedad/buscan-un-hogar-para-los-gatos-de-una-vecina-que-murio-en-kilometro-3---son-mas-o-menos-entre-15-y-20-_a6a8456cdfa90492fd69e4b4e",
-        "title": "Buscan un hogar para los gatos de una vecina que murió en kilómetro 3: “son más o menos entre 15 y 20”",
-        "description": "Las mascotas se encuentran en el predio del domicilio. Se necesitan, de manera urgente, hogares de tránsito y/o adopción definitiva.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "gatos",
-            "adopción",
-            "hogares de tránsito",
-            "rosa del valle rasgido",
-            "barrio laprida",
-            "chubut",
-            "comodoro rivadavia"
-        ],
-        "creator": [
-            "adnsur"
+            "l. o."
         ],
         "language": "spanish",
         "country": [
@@ -373,331 +226,63 @@
             "crime",
             "top"
         ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:46",
+        "datatype": "multimedia",
+        "pubDate": "2026-08-19 13:36:58",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 14:39:32",
-        "image_url": "https://adnsur-assets.tadevel-cdn.com/6a845c52fa90492fd69ef2a0/720.jpeg",
-        "video_url": null,
-        "source_id": "adnsur",
-        "source_name": "Adnsur",
-        "source_priority": 80627,
-        "source_url": "https://www.adnsur.com.ar",
-        "source_icon": "https://n.bytvi.com/adnsur.png",
+        "fetched_at": "2026-08-19 14:07:24",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5a6d406f-099f-4572-af93-2382ddee99ae_16-9-aspect-ratio_default_0_x288y341.jpg",
+        "video_url": "https://www.laopinioncoruna.es/sociedad/2026/08/19/desembarco-decenas-inmigrantes-causa-estupor-133488584.html",
+        "source_id": "laopinioncoruna",
+        "source_name": "La Opinión A Coruña",
+        "source_priority": 50098,
+        "source_url": "https://www.laopinioncoruna.es",
+        "source_icon": "https://n.bytvi.com/laopinioncoruna.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们正在为 3 公里处死去的邻居的猫寻找家：“大约有 15 到 20 只”",
-        "description_zh": "宠物在房屋内。迫切需要过渡和/或永久收养之家。"
+        "duplicate": true,
+        "title_zh": "数十名移民登陆洛斯贝洛内斯海滩引发震动",
+        "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "5fe4d78ea012c5753557775ca6782d05",
-        "link": "https://www.adnsur.com.ar/sociedad/buscan-un-hogar-para-los-gatos-de-la-mujer-que-murio-en-un-tragico-incendio-en-comodoro_a6a8456cdfa90492fd69e4b4e",
-        "title": "Buscan un hogar para los gatos de la mujer que murió en un trágico incendio en Comodoro",
-        "description": "Las mascotas se encuentran en el predio del domicilio. Se necesitan, de manera urgente, hogares de tránsito y/o adopción definitiva. Estiman que son entre 15 y 20 animales.",
+        "article_id": "5563c778809fe1527c5c7c05f9d3c9fb",
+        "link": "https://www.mixvale.com.br/2026/08/19/reajuste-do-limite-do-mei-e-postergado-para-apos-as-eleicoes-de-outubro/",
+        "title": "Reajuste do limite do MEI é postergado para após as eleições de outubro",
+        "description": "O projeto de lei que propõe a elevação do teto de faturamento do Microempreendedor Individual (MEI) será votado somente depois das eleições de outubro, conforme indicado em 19 de agosto de 2026. A Câmara dos Deputados planeja uma agenda intensa entre 31 de agosto e 4 de setembro, mas o impasse persiste devido à demanda [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "rosa del valle rasgido",
-            "adopción",
-            "comodoro rivadavia",
-            "chubut",
-            "gatos",
-            "barrio laprida",
-            "hogares de tránsito"
+            "simples nacional",
+            "eleições de outubro",
+            "câmara dos deputados",
+            "faturamento",
+            "mei",
+            "ministério da fazenda"
         ],
         "creator": [
-            "adnsur"
+            "maria"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
-            "crime",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 13:39:13",
-        "image_url": "https://adnsur-assets.tadevel-cdn.com/6a845c52fa90492fd69ef2a0/720.jpeg",
-        "video_url": null,
-        "source_id": "adnsur",
-        "source_name": "Adnsur",
-        "source_priority": 80627,
-        "source_url": "https://www.adnsur.com.ar",
-        "source_icon": "https://n.bytvi.com/adnsur.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "他们正在为在科莫多罗一场悲惨火灾中丧生的妇女的猫寻找一个家",
-        "description_zh": "宠物在房屋内。迫切需要过渡和/或永久收养之家。他们估计有 15 到 20 只动物。"
-    },
-    {
-        "article_id": "823a774aa9c7a837ad92a5fc5b473785",
-        "link": "https://nortedigital.mx/conferencia-de-prensa-en-vivo-mananeradelpueblo-desde-palacio-nacional-martes-18-de-agosto-2026/",
-        "title": "Conferencia de prensa en vivo, #MañaneraDelPueblo desde Palacio Nacional. Martes 18 de agosto 2026",
-        "description": "Conferencia de prensa en vivo, #MañaneraDelPueblo desde Palacio Nacional. Martes 18 de agosto 2026 La entrada Conferencia de prensa en vivo, #MañaneraDelPueblo desde Palacio Nacional. Martes 18 de agosto 2026 aparece primero en Norte de Ciudad Juárez .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "claudia",
-            "sheinbaum",
-            "análisis y opinión"
-        ],
-        "creator": [
-            "mauricio rodriguez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:39:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 15:48:35",
-        "image_url": "https://nortedigital.mx/wp-content/uploads/2026/08/claudia1-12.jpeg",
-        "video_url": null,
-        "source_id": "nortedigital_mx",
-        "source_name": "Norte De Ciudad Juárez",
-        "source_priority": 602856,
-        "source_url": "https://nortedigital.mx",
-        "source_icon": "https://n.bytvi.com/nortedigital_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "现场新闻发布会，来自国家宫殿的#MañaneraDelPueblo。 2026 年 8 月 18 日 星期二",
-        "description_zh": "现场新闻发布会，来自国家宫殿的#MañaneraDelPueblo。 2026 年 8 月 18 日星期二 入场现场新闻发布会，来自故宫的#MañaneraDelPueblo。 2026 年 8 月 18 日星期二首先出现在北华雷斯城。"
-    },
-    {
-        "article_id": "8984886336e4780e5f3da75dc24946ae",
-        "link": "https://oem.com.mx/elsoldesanluis/deportes/jaguares-de-san-luis-logran-dos-campeonatos-en-football-alliance-mexico-31632576",
-        "title": "Jaguares de San Luis logran dos campeonatos en Football Alliance México",
-        "description": "Jaguares de San Luis cerraron la temporada 2026 del Football Alliance México infantil con dos campeonatos y dos subcampeonatos como visitantes",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "deportes"
-        ],
-        "creator": [
-            "roberto mirabal"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 18:50:04",
-        "image_url": "https://oem.com.mx/elsoldesanluis/img/31633910/1787060323/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldesanluis_mx",
-        "source_name": "Elsoldesanluis Mx",
-        "source_priority": 972129,
-        "source_url": "https://www.elsoldesanluis.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldesanluis_mx_.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Jaguares de San Luis 在墨西哥足球联盟中两次夺得冠军",
-        "description_zh": "Jaguares de San Luis 队以客队身份获得两项冠军和两项亚军，为墨西哥儿童足球联盟 2026 赛季画上圆满句号"
-    },
-    {
-        "article_id": "452ad169915b4a13cb7cc05aa2e46ae7",
-        "link": "https://santamartaaldia.co/joven-venezolano-fue-asesinado-a-bala-mientras-trabajaba-como-vigilante-en-una-tienda/",
-        "title": "Joven venezolano fue asesinado a bala mientras trabajaba como vigilante en una tienda",
-        "description": "El crimen ocurrió durante la noche del lunes en el barrio La Concepción 2. La víctima, de 21 años, fue atacada con arma de fuego mientras se encontraba trabajando en un establecimiento comercial. Un nuevo homicidio es investigado por las autoridades en Santa Marta luego de que un joven de 21 años fuera asesinado durante [...] The post Joven venezolano fue asesinado a bala mientras trabajaba como vigilante en una tienda appeared first on Santa Marta Al Día .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "santa marta",
-            "portada",
-            "policia metropolitana",
-            "judiciales local"
-        ],
-        "creator": [
-            "redacción smad"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:59",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 13:48:31",
-        "image_url": "https://santamartaaldia.co/wp-content/uploads/2026/08/71e74d3a-b577-4174-bd86-326a3c420dd9.jpeg",
-        "video_url": null,
-        "source_id": "santamartaaldia_co",
-        "source_name": "Santamartaaldia Co",
-        "source_priority": 819227,
-        "source_url": "https://santamartaaldia.co",
-        "source_icon": "https://n.bytvi.com/santamartaaldia_co.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "委内瑞拉青年在商店当保安时被枪杀",
-        "description_zh": "这起犯罪事件发生在周一晚上，地点为 La Concepción 2 街区。受害人21岁，在一家商业机构工作时遭到枪支袭击。圣玛尔塔当局正在调查一起新的凶杀案，谋杀一名 21 岁的年轻人"
-    },
-    {
-        "article_id": "9bf00a41863994242390f0982aac07f8",
-        "link": "https://www.eldiario.com.co/noticias/colombia/terremoto-en-colombia-mas-de-120-mil-familias-afectadas-segun-balance-de-de-la-espriella/",
-        "title": "Terremoto en Colombia: más de 120 mil familias afectadas, según balance de De la Espriella",
-        "description": "El presidente Abelardo de la Espriella presentó el balance más amplio entregado hasta ahora por su Gobierno sobre las consecuencias del terremoto de magnitud 7,4 que sacudió a Colombia el pasado 10 de agosto. La emergencia ya alcanza a 450 municipios de 15 departamentos y deja más de 120.328 familias afectadas. Durante su primera alocución [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "p5",
-            "colombia"
-        ],
-        "creator": [
-            "s.g - editor web"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 13:44:11",
-        "image_url": "https://www.eldiario.com.co/wp-content/uploads/2026/08/Santa-Rosa-de-Cabal-abrio-sus-puertas-al-talento-juvenil-colombiano-84.jpg",
-        "video_url": null,
-        "source_id": "eldiario",
-        "source_name": "El Diario",
-        "source_priority": 307799,
-        "source_url": "https://www.eldiario.com.co",
-        "source_icon": "https://n.bytvi.com/eldiario.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "哥伦比亚地震：根据 De la Espriella 的平衡，超过 12 万个家庭受到影响",
-        "description_zh": "阿韦拉多·德拉埃斯普里埃拉总统就哥伦比亚 8 月 10 日发生的 7.4 级地震的后果提出了政府迄今为止最全面的评估。紧急情况已波及 15 个省的 450 个城市，超过 120,328 个家庭受到影响。"
-    },
-    {
-        "article_id": "62fb8e27917f03a415e8f3bc9ec5d775",
-        "link": "https://www.elcolombiano.com/negocios/ricardo-valencia-nuevo-director-dane-retos-censo-economico-KG40026581",
-        "title": "Ricardo Valencia es el nuevo director del Dane: ¿quién es y cuáles son sus principales retos?",
-        "description": "Ricardo Valencia, economista de la Universidad Javeriana, asumirá la dirección del Departamento Administrativo Nacional de Estadística (Dane) , entidad encargada de producir y divulgar las principales estadísticas oficiales de Colombia. Valencia cuenta con experiencia tanto en el sector público como en consultoría, sostenibilidad, economía circular y gestión de datos. Además, ya hizo parte de la estructura directiva del Dane, donde ocupó el cargo de subdirector general durante la administración de Juan Daniel Oviedo. Puede leer: Los nuevos nombramientos de Abelardo de la Espriella: quiénes son y qué cargos ocuparán Su llegada se da en un momento en el que la entidad enfrenta retos relacionados con la actualización de sus procesos, la calidad y credibilidad de las operaciones estadísticas y la entrega de resultados pendientes del Censo Económico. Antes de regresar a la dirección del Dane, Valencia ya había tenido responsabilidades dentro de la entidad. Como subdirector general, estuvo entre septiembre de 2018 y agosto de 2022. Después de su paso por el Dane, desde septiembre de 2022 hasta la actualidad, desarrolló actividades de consultoría y participación en proyectos relacionados con gestión de datos, análisis socioeconómico y economía circular . Relacionado: Piedad Urdinola renunció a la dirección del Dane, ¿quién queda a cargo? Entre sus trabajos recientes se encuentra su participación como coordinador programático de la campaña a la Alcaldía de Bogotá de Juan Daniel Oviedo, por el movimiento Con Toda por Bogotá, durante el ciclo electoral reciente. También ha trabajado como consultor en gestión de datos para Asocapitales y la Universidad Javeriana de Cali. Una parte importante de la trayectoria profesional de Valencia está relacionada con la sostenibilidad, la economía circular y la gestión de residuos sólidos . Ha prestado servicios de consultoría en economía circular para la Asociación Nacional de Empresarios de Colombia (Andi) , en el marco de la iniciativa Visión 3030, y para la agencia de cooperación alemana GIZ . Vea aquí: ¿Raspando la olla? Luego de la segunda vuelta, entidades del Estado firmaron más de 43.000 contratos por $7,6 billones También trabajó como consultor en estadísticas socioeconómicas para Desmarginalizar Consultores , experiencia que se suma a su trayectoria en análisis de información y gestión de datos. Entre 2014 y 2018 fue director estratégico de la Iniciativa Regional para el Reciclaje Inclusivo , un programa orientado a brindar apoyo técnico y cooperación internacional a gobiernos y organizaciones de la sociedad civil. La iniciativa fue financiada por el BID, FOMIN, Coca-Cola, PepsiCo y Fundación Avina. Antes de ese cargo, entre 2011 y 2014, se desempeñó como director ejecutivo de Compromiso Empresarial para el Reciclaje (Cempre Colombia) . En 2011 también coordinó el proyecto para establecer un sistema de gestión integral de residuos en la Sierra Nevada de Santa Marta , iniciativa que involucró a organizaciones indígenas, asociaciones de recicladores, Tetra Pak y la Corporación Horizontes. Uno de los principales desafíos de Valencia será avanzar en la renovación del Dane y de sus operaciones estadísticas , en un contexto en el que diferentes actores externos han planteado cuestionamientos sobre algunos procesos de producción de información. Además: Plan Milagro arranca con pérdidas por $30 billones y miles de viviendas por reconstruir Entre las operaciones que deberá atender está la Gran Encuesta Integrada de Hogares (GEIH) , una de las principales fuentes para la publicación de los indicadores del mercado laboral colombiano. La gestión del nuevo director tendrá, por tanto, el reto de fortalecer los procesos técnicos de la entidad y mantener la confianza en las estadísticas oficiales que sirven de referencia para el Gobierno, las empresas, los investigadores y los ciudadanos. Otro de los asuntos pendientes será la entrega del resto de los resultados del Censo Económico , proceso que permitirá ampliar la información disponible sobre las actividades económicas y empresariales del país. Más noticias: De la Espriella pide a los bancos bajar tasas para reconstruir viviendas tras el terremoto Durante su gestión, Valencia también deberá liderar otros conteos estadísticos sectoriales y de población, que hacen parte de las responsabilidades del Dane como principal entidad estadística oficial de Colombia. Para consultar contenido premium o profundizar sobre sus temas de interés de Medellín, Antioquia, Colombia y el Mundo, regístrese aquí .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "gobierno nacional",
-            "abelardo de la espriella",
-            "qdz",
-            "colombia",
-            "dane",
-            "el colombiano",
-            "estadística",
-            "entidades"
-        ],
-        "creator": [
-            "el colombiano"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 14:40:43",
-        "image_url": "https://estaticos.elcolombiano.com/binrepository/505x300/0c0/0d0/center/11101/BNNI/3-5_51391896_20260818082123.jpg",
-        "video_url": null,
-        "source_id": "elcolombiano",
-        "source_name": "Elcolombiano",
-        "source_priority": 109876,
-        "source_url": "https://www.elcolombiano.com",
-        "source_icon": "https://n.bytvi.com/elcolombiano.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "里卡多·瓦伦西亚 (Ricardo Valencia) 是 Dane 的新任总监：他是谁？他的主要挑战是什么？",
-        "description_zh": "哈维里亚纳大学经济学家里卡多·瓦伦西亚 (Ricardo Valencia) 将担任国家统计行政部 (Dane) 的领导，该部门负责制作和传播哥伦比亚主要官方统计数据。巴伦西亚在公共部门都有经验"
-    },
-    {
-        "article_id": "c46c4dab4979720efa55b6bb412ae647",
-        "link": "https://www.milenio.com/comunidad/zona-piel-leon-exigen-profepa-operativos-venta-ilegal-pieles-exoticas",
-        "title": "Exigen a Profepa operativos contra venta ilegal de pieles exóticas en León",
-        "description": "Líderes de Zona Piel en León aseguran que llevan más de 20 años sin inspecciones de PROFEPA y piden operativos contra la venta ilegal de pieles exóticas.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "pieles exoticas",
-            "profepa",
-            "noticias hoy",
-            "milenio",
-            "venta ilegal de piel",
-            "noticias de león",
-            "zona piel león",
-            "milenio león",
-            "león guanajuato",
-            "semarnat",
-            "piel de cocodrilo"
-        ],
-        "creator": [
-            "eleazar bandala"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
             "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-18 13:38:31",
+        "pubDate": "2026-08-19 13:36:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 17:05:28",
-        "image_url": "https://cdn.milenio.com/uploads/media/2026/08/18/pieles-exoticas-zona-piel-leon.jpg",
+        "fetched_at": "2026-08-19 13:39:55",
+        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2024/08/mei-microempreendedor.jpg",
         "video_url": null,
-        "source_id": "milenio",
-        "source_name": "Milenio",
-        "source_priority": 10804,
-        "source_url": "https://www.milenio.com",
-        "source_icon": "https://n.bytvi.com/milenio.png",
+        "source_id": "mixvale",
+        "source_name": "Mix Vale",
+        "source_priority": 95409,
+        "source_url": "https://www.mixvale.com.br",
+        "source_icon": "https://n.bytvi.com/mixvale.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -705,45 +290,244 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们要求 Profepa 开展行动，打击莱昂非法销售珍稀兽皮的行为",
-        "description_zh": "莱昂 Zona Piel 的领导人保证，他们已经 20 多年没有接受过 PROFEPA 检查，并呼吁采取行动打击非法销售珍稀兽皮的行为。"
+        "title_zh": "MEI 限额的调整推迟到 10 月选举之后",
+        "description_zh": "如 2026 年 8 月 19 日所示，提议提高个人微型企业家 (MEI) 收入上限的法案将仅在 10 月选举后进行投票。众议院计划在 8 月 31 日至 9 月 4 日期间制定紧张的议程，但陷入僵局"
     },
     {
-        "article_id": "549358c96b11fee3b4f94801d7e6e54e",
-        "link": "https://loslagosnoticias.cl/2026/08/18/bruma-2026-osorno-celebrara-su-primera-competencia-nacional-de-cafe-de-especialidad/34771",
-        "title": "BRUMA 2026: OSORNO CELEBRARÁ SU PRIMERA COMPETENCIA NACIONAL DE CAFÉ DE ESPECIALIDAD",
-        "description": "Osorno se prepara para acoger el próximo 29 de agosto la primera edición de Bruma 2026, una competencia nacional de café filtrado con 24 participantes.",
+        "article_id": "4c0e9e74b07bf0c5abe5510bdb4c604d",
+        "link": "https://www.diariolaopinion.com.ar/locales/proteccion-de-salarios-ya-hay-mas-de-18500-adhesiones-al-plan-de-desendeudamiento-de-santa-fe.htm",
+        "title": "Protección de salarios: ya hay más de 18.500 adhesiones al plan de desendeudamiento de Santa Fe",
+        "description": "Diario La Opinión, informando a Rafaela desde 1921 con verdadera vocación periodística. Información confiable y de calidad.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "diario la opinión de rafaela"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-19 13:36:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 13:46:24",
+        "image_url": "https://www.diariolaopinion.com.ar/galeria/fotos/2026/08/19/m_1787146637.jpeg",
+        "video_url": null,
+        "source_id": "diariolaopinion_ar",
+        "source_name": "Diario La Opinión De Rafaela",
+        "source_priority": 450800,
+        "source_url": "https://www.diariolaopinion.com.ar",
+        "source_icon": "https://n.bytvi.com/diariolaopinion_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "薪资保障：圣达菲债务减免计划已有超过18,500名成员",
+        "description_zh": "La Opinión 报纸，自 1921 年起向拉斐拉报道，从事真正的新闻职业。可靠且优质的信息。"
+    },
+    {
+        "article_id": "424433cd8a756eb872bf384d9d5489e5",
+        "link": "https://www.nsctotal.com.br/especiais-publicitarios/skincare-para-pele-jovem-como-comecar-uma-rotina-sem-exageros",
+        "title": "Skincare para pele jovem: como começar uma rotina sem exageros",
+        "description": "Os cuidados com a pele jovem ganharam espaço nos últimos anos, impulsionados principalmente pelas redes sociais. Vídeos com rotinas de skincare,",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cafe filtrado",
-            "bruma 2026",
-            "osorno",
-            "barismo",
-            "cafe especialidad",
-            "gastronomia chilena",
-            "cultura y espectaculos"
+            "autoestima",
+            "estúdio nsc branded content"
         ],
         "creator": [
-            "prensa"
+            "estúdio nsc"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-19 13:36:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 14:04:10",
+        "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2026/08/skincare-para-pele-jovem.jpg.png",
+        "video_url": null,
+        "source_id": "nsctotal",
+        "source_name": "Nsc Total",
+        "source_priority": 14276,
+        "source_url": "https://www.nsctotal.com.br",
+        "source_icon": "https://n.bytvi.com/nsctotal.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "年轻皮肤的护肤：如何不夸张地开始日常护理",
+        "description_zh": "近年来，年轻皮肤护理在社交媒体的推动下得到了普及。包含护肤程序的视频，"
+    },
+    {
+        "article_id": "d5cbc684482e5a06309ee673cdfe8215",
+        "link": "https://www.espn.com.br/futebol/libertadores/artigo/_/id/17136176/quanto-fluminense-ganhou-premiacao-classificacao-quartas-de-final-copa-libertadores",
+        "title": "Quanto Fluminense ganhou em premiação com a classificação às quartas de final da Libertadores?",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-19 13:36:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 13:36:44",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "espnbz",
+        "source_name": "Espn",
+        "source_priority": 38193,
+        "source_url": "https://www.espn.com.br",
+        "source_icon": "https://n.bytvi.com/espnbz.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "弗鲁米嫩塞在解放者杯四分之一决赛的资格赛中获得了多少奖金？",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "52db7de3e6148aab6397aebccf979a56",
+        "link": "https://www.diariocordoba.com/sociedad/2026/08/19/desembarco-decenas-inmigrantes-causa-estupor-133488588.html",
+        "title": "El desembarco de decenas de inmigrantes causa estupor en una playa de Los Belones",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "causa",
+            "inmigrantes",
+            "estupor",
+            "decenas",
+            "desembarco"
+        ],
+        "creator": [
+            "l. o."
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-08-19 13:36:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 14:07:58",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5a6d406f-099f-4572-af93-2382ddee99ae_16-9-aspect-ratio_default_0_x288y341.jpg",
+        "video_url": "https://www.diariocordoba.com/sociedad/2026/08/19/desembarco-decenas-inmigrantes-causa-estupor-133488588.html",
+        "source_id": "diariocordoba",
+        "source_name": "Cordoba",
+        "source_priority": 48787,
+        "source_url": "https://www.diariocordoba.com",
+        "source_icon": "https://n.bytvi.com/diariocordoba.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "数十名移民登陆洛斯贝洛内斯海滩引发震动",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "b6c2ffa46a3287cb4612f43ac4e7bd94",
+        "link": "https://www.proceso.com.mx/nacional/2026/8/19/en-vivo-conferencia-mananera-de-sheinbaum-190826-378317.html",
+        "title": "EN VIVO: Conferencia mañanera de Sheinbaum (190826)",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "conferencias mañaneras",
+            "conferencia mañanera"
+        ],
+        "creator": [
+            "la redacción"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-19 13:36:49",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 14:07:01",
+        "image_url": "https://assets.proceso.com.mx/img/1786839752760-efx1kw.jpeg",
+        "video_url": null,
+        "source_id": "proceso",
+        "source_name": "Proceso",
+        "source_priority": 47805,
+        "source_url": "https://www.proceso.com.mx",
+        "source_icon": "https://n.bytvi.com/proceso.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "直播：Sheinbaum 的早间会议 (190826)",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "d94852325ebf65ea5858053fb36e51d2",
+        "link": "https://elproa.cl/2026/08/con-operativo-en-el-mall-buscaron-incentivar-a-la-vacunacion-en-san-antonio/",
+        "title": "Con operativo en el Mall buscaron incentivar a la vacunación en San Antonio",
+        "description": "La provincia de San Antonio muestra estadísticas bajas en materia de población que se ha vacunado contra la influenza este año, lo que preocupa a las autoridades e instituciones, especialmente ... Leer más",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "noticias locales"
+        ],
+        "creator": [
+            "elproa"
         ],
         "language": "spanish",
         "country": [
             "chile"
         ],
         "category": [
-            "entertainment"
+            "top",
+            "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-18 13:38:24",
+        "pubDate": "2026-08-19 13:36:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 13:57:24",
-        "image_url": "https://loslagosnoticias.cl/wp-content/uploads/2026/08/bruma-2026-osorno-celebrara-su-primera-compete-bruma-2026-osorno-celebrara-su-primera-compete.jpg",
+        "fetched_at": "2026-08-19 13:46:24",
+        "image_url": "https://elproa.cl/wp-content/uploads/2026/08/Conoperativo19082026-300x169.jpg",
         "video_url": null,
-        "source_id": "noticiaschiloe",
-        "source_name": "Noticias De Chiloé",
-        "source_priority": 10177561,
-        "source_url": "https://www.noticiaschiloe.cl",
-        "source_icon": "https://n.bytvi.com/noticiaschiloe.jpg",
+        "source_id": "elproa_cl",
+        "source_name": "El Diario",
+        "source_priority": 439949,
+        "source_url": "https://elproa.cl",
+        "source_icon": "https://n.bytvi.com/elproa_cl.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -751,95 +535,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "BRUMA 2026：奥索尔诺将庆祝其首届全国精品咖啡大赛",
-        "description_zh": "奥索尔诺正准备于 8 月 29 日举办首届 Bruma 2026 全国过滤咖啡大赛，共有 24 名参赛者。"
+        "title_zh": "通过在购物中心开展行动，他们试图鼓励圣安东尼奥接种疫苗",
+        "description_zh": "圣安东尼奥省今年接种流感疫苗的人口统计数据较低，这令当局和机构感到担忧，尤其是... 阅读更多"
     },
     {
-        "article_id": "f316a6665c4406d913fe7a3dca2f1fa0",
-        "link": "https://www.elheraldo.co/entretenimiento/2026/08/18/resultados-de-sinuano-noche-la-caribena-y-super-astro-luna-del-lunes-17-de-agosto-de-2026/",
-        "title": "Resultados de Sinuano Noche, La Caribeña y Super Astro Luna del lunes 17 de agosto de 2026",
-        "description": "Estos fueron los números ganadores de la jornada nocturna para quienes participaron en los diferentes juegos de azar.",
+        "article_id": "f4d2866d90bc7ed4676f043bccdbcf2d",
+        "link": "https://oem.com.mx/elheraldodejuarez/local/que-es-un-panteon-ecologico-y-como-solicitar-este-servicio-en-ciudad-juarez-31647420",
+        "title": "¿Qué es un panteón ecológico y cómo solicitar este servicio en Ciudad Juárez?",
+        "description": "El concepto de un panteón ecológico busca ofrecer una alternativa a los servicios funerarios tradicionales,",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "suerte",
-            "la-caribena",
-            "super-astro-luna",
-            "resultado-loterias",
-            "sinuano-noche",
-            "loterias"
+            "local"
         ],
         "creator": [
-            "redacción seo"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:21",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 14:06:52",
-        "image_url": "https://www.elheraldo.co/resizer/v2/32RCPI76G5B7ZLYHML7D6G6KLE.jpg?auth=6167f9a967eb9f4dc93077c25bf03ee78a72327e7b2f04a99fd12c0bc68c577e&smart=true&width=1024&height=559",
-        "video_url": null,
-        "source_id": "elheraldo",
-        "source_name": "Elheraldo",
-        "source_priority": 38752,
-        "source_url": "https://www.elheraldo.co",
-        "source_icon": "https://n.bytvi.com/elheraldo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Sinuano Noche、La Caribeña 和 Super Astro Luna 2026 年 8 月 17 日星期一的结果",
-        "description_zh": "这些是参加不同机会游戏的人当晚的中奖号码。"
-    },
-    {
-        "article_id": "a87dd8f1a116e196f1e51fbfb7ff74a0",
-        "link": "https://www.adn40.mx/mexico/2026-08-18/mueren-marinos-tras-accidente-en-tamaulipas-su-camioneta-cayo-a-un-rio-en-soto-de-la-marina/",
-        "title": "Mueren marinos tras accidente en Tamaulipas: Su camioneta cayó a un río en Soto de la Marina",
-        "description": "Tragedia en Soto de la Marina, Tamaulipas: 4 marinos pierden la vida tras caer su camioneta a un río en La Pesca; autoridades investigan las causas del accidente.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "accidentes carreteros",
-            "gobernador américo villareal",
-            "la pesca",
-            "la draga",
-            "accidente en soto de la marina",
-            "marinos",
-            "semar",
-            "tamaulipas",
-            "accidentes viales",
-            "marinos soto de la marina",
-            "secretaría de marina"
-        ],
-        "creator": [
-            "arturo engels"
+            "diana uzquiano"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "world"
+            "environment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-18 13:38:17",
+        "pubDate": "2026-08-19 13:36:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 19:41:43",
-        "image_url": "https://tvazteca-adnnoticias-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Ftvazteca%2FRXLK4DPQOZDLFHOV77RLKDV3UM.jpg?auth=1c1d3e08cd5cb902a133a9a021db5d73f53367b1c46dab9fd6568d1e308c674a&smart=true&width=1200&height=675",
+        "fetched_at": "2026-08-19 18:47:12",
+        "image_url": "https://oem.com.mx/elheraldodejuarez/img/31637289/1787077393/BASE_LANDSCAPE/400/image.jpg",
         "video_url": null,
-        "source_id": "adn40",
-        "source_name": "Adn40",
-        "source_priority": 220795,
-        "source_url": "https://www.adn40.mx",
-        "source_icon": "https://n.bytvi.com/adn40.png",
+        "source_id": "elheraldodejuarez_mx",
+        "source_name": "El Heraldo De Juárez",
+        "source_priority": 589221,
+        "source_url": "https://www.elheraldodejuarez.com.mx",
+        "source_icon": "https://n.bytvi.com/elheraldodejuarez_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -847,24 +576,26 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "塔毛利帕斯州发生事故，水手们丧生：他们的卡车掉进索托德拉马里纳的河里",
-        "description_zh": "塔毛利帕斯州索托德拉马里纳发生悲剧：4 名水手的卡车在拉佩斯卡掉进河里后丧生；当局正在调查事故原因。"
+        "title_zh": "什么是生态万神殿以及如何在华雷斯城请求这项服务？",
+        "description_zh": "生态万神殿的概念旨在提供传统葬礼服务的替代方案，"
     },
     {
-        "article_id": "48c56d9426826ab66aadbcf2eeac8470",
-        "link": "https://www.infobae.com/tendencias/2026/08/18/receta-de-pechugas-de-pollo-con-salsa-blanca-rapida-y-facil/",
-        "title": "Receta de pechugas de pollo con salsa blanca, rápida y fácil",
-        "description": "Un plato cremoso y reconfortante que se prepara en pocos minutos, con ingredientes simples y una guarnición que se puede adaptar al gusto de cada persona",
+        "article_id": "51aa7cb0b07d6094266b09ded7b11d7c",
+        "link": "https://www.infobae.com/espana/2026/08/19/ensalada-italiana-de-melon-la-receta-saludable-y-facil-de-hacer-que-es-perfecta-para-refrescarse-en-verano/",
+        "title": "Ensalada italiana de melón, la receta saludable y fácil de hacer que es perfecta para refrescarse en verano",
+        "description": "Con la fruta de temporada como ingrediente estrella y en solo 15 minutos se puede preparar un plato ligero, que es ideal como entrante o cena veraniega para los días de calor",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "newsroom bue",
-            "últimas noticias",
-            "receta de cocina",
-            "cocina en argentina",
-            "platos principales"
+            "recetas españa",
+            "recetas",
+            "españa-gastronomía",
+            "recetas saludables",
+            "españa noticias",
+            "frutas",
+            "ensaladas"
         ],
         "creator": [
-            "agustina herreria"
+            "alejandra suárez"
         ],
         "language": "spanish",
         "country": [
@@ -877,12 +608,12 @@
             "food",
             "top"
         ],
-        "datatype": "news",
-        "pubDate": "2026-08-18 13:38:15",
+        "datatype": "multimedia",
+        "pubDate": "2026-08-19 13:36:27",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-18 14:02:10",
-        "image_url": "https://www.infobae.com/resizer/v2/O5R4GEEI7REUPJUFMKGQERWMWA.png?auth=4e1b2150d1042fe9e10a22bdf14d4d677c177df2e38fca1cd06d7c595fe21670&smart=true&width=2752&height=1536",
-        "video_url": null,
+        "fetched_at": "2026-08-19 14:02:40",
+        "image_url": "https://www.infobae.com/resizer/v2/EQORHVUSJFDBRJ6XUMNAA3HQ2A.png?auth=749e278c2f8ee541e300cb9ef09c0e234e45d28668881909a6820ecd2fda5203&smart=true&width=2185&height=1229",
+        "video_url": "https://cdn.jwplayer.com/videos/dDZgRwJx-GEW42hld.mp4",
         "source_id": "infobae",
         "source_name": "Infobae",
         "source_priority": 1056,
@@ -895,7 +626,233 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "白酱鸡胸肉食谱，快速又简单",
-        "description_zh": "一道奶油般的舒适菜肴只需几分钟即可完成，配料简单，配菜可根据每个人的口味进行调整。"
+        "title_zh": "意大利冬瓜沙拉，健康又简单，最适合夏日清凉的菜谱",
+        "description_zh": "以时令水果为主角，只需 15 分钟，您就可以准备一道清淡的菜肴，非常适合作为开胃菜或炎热天气的夏季晚餐。"
+    },
+    {
+        "article_id": "3bc18b0a1024cc126cd4190d62f8e86e",
+        "link": "https://www.tvazteca.com/aztecadeportes/el-america-almada-ya-muestra-la-mano-su-dt-la-mesa-los-protagonistas/",
+        "title": "¡Almada ya dejó su sello! ¿El América comienza a jugar como quiere su DT?",
+        "description": "América arrancó con fuerza bajo el mando de Guillermo Almada y ya hay señales de la identidad que el técnico uruguayo quiere imponer en Coapa. ¿Las Águilas ya juegan a su estilo?",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "los protagonistas"
+        ],
+        "creator": [
+            "azteca deportes"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-08-19 13:36:22",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 14:35:12",
+        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/ef/ca/a4c9421e0253d11ae2515f9e1cfa/thumb-6a83cfbeba0ac61454b65116-1787023303469.jpg",
+        "video_url": "https://mdstrm.com/video/6a83cfbeba0ac61454b65116.m3u8",
+        "source_id": "tvazteca",
+        "source_name": "Azteca Deportes",
+        "source_priority": 17594,
+        "source_url": "https://www.tvazteca.com",
+        "source_icon": "https://n.bytvi.com/tvazteca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "阿尔马达已经留下了印记！美国队是否开始按照教练想要的方式比赛？",
+        "description_zh": "美国队在吉列尔莫·阿尔马达的带领下强势开局，已经有迹象表明这位乌拉圭教练希望在美洲杯上强加自己的身份。老鹰队已经打出了自己的风格吗？"
+    },
+    {
+        "article_id": "bcd415945cc7bfcf18f4f72ed3b613cf",
+        "link": "https://www.infobae.com/mexico/2026/08/19/flor-amargo-queda-en-shock-tras-choque-con-vehiculo-oficial-de-san-juan-del-rio-que-bueno-que-no-mori/",
+        "title": "Flor Amargo queda en shock tras choque con vehículo oficial de San Juan del Río: “Qué bueno que no morí”",
+        "description": "La cantante exhibió en redes sociales el percance ocurrido en Tequisquiapan y cuestionó el proceder tras el impacto por alcance",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mexico-noticias",
+            "mexico-entretenimiento",
+            "san juan del río",
+            "querétaro",
+            "flor amargo"
+        ],
+        "creator": [
+            "miriam estrella"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "mexico",
+            "argentina",
+            "united states of america"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-08-19 13:36:20",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 14:02:40",
+        "image_url": "https://www.infobae.com/resizer/v2/EBIXH6E3E5EVLMTY2WXYPBO5QE.jpg?auth=a9c4b47769265a4433c10b1ebf36a8375c8a9e3bd13f82b6c5426f0be15a01ed&smart=true&width=1920&height=1080",
+        "video_url": "https://cdn.jwplayer.com/videos/t5dwskwU-Gfos2MgV.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "弗洛尔·阿马戈在与圣胡安德尔里奥的一辆官方车辆相撞后感到震惊：“幸好我没有死”",
+        "description_zh": "这位歌手在社交网络上展示了特基斯基亚潘发生的事故，并对由于到达影响后的程序提出质疑"
+    },
+    {
+        "article_id": "2865008afc4539ced2062bd72e4cbf75",
+        "link": "https://www.elnuevodia.com.co/tolima/este-sera-el-paso-seguir-tras-el-terremoto-y-los-incendios-en-tolima-538890",
+        "title": "Este será el paso a seguir tras el terremoto y los incendios en Tolima",
+        "description": "Este será el paso a seguir tras el terremoto y los incendios en Tolima jorjuela Mié, 19/08/2026 - 08:36 Fecha nodo Mié, 19/08/2026 - 08:36 Image /sites/default/files/imagenes/2026/08/NOTA%204_%20As%C3%AD%20ser%C3%A1%20el%20plan%20para%20reconstruir%20viviendas%20tras%20las%20emergencias.jpg Body Tras el terremoto y los incendios forestales que han golpeado al Tolima, la Gobernación propuso crear un fondo mixto para apoyar a las familias afectadas. La iniciativa fue planteada por la gobernadora Adriana Magali Matiz y busca sumar recursos públicos y privados para reparar viviendas y atender otras necesidades. Roncesvalles y San Luis están entre los municipios más afectados. Una ayuda que busca llegar a las familias afectadas La propuesta parte de una realidad que todavía enfrentan cientos de familias: viviendas averiadas, cultivos perdidos y comunidades que necesitan apoyo después de las emergencias. La Gobernación plantea reunir al sector público y empresarial para conseguir recursos y materiales destinados a la recuperación. “Necesitamos ayudar a todos los hermanos del departamento”, señaló Adriana Magali Matiz, al referirse a las necesidades que persisten en municipios como Valle de San Juan, Guamo y Ortega, además de las afectaciones ocasionadas por los incendios. Según la mandataria, los incendios han afectado más de 10.000 hectáreas, mientras que el terremoto dejó más de 1.000 familias afectadas en el departamento. La recuperación, explicó, no solo implica reconstruir viviendas, sino también atender las pérdidas productivas y laborales. Roncesvalles, entre los municipios más golpeados En el caso del sismo, Roncesvalles concentra una de las mayores afectaciones, con más de 200 viviendas que presentan daños. La situación ha obligado a varias familias a permanecer fuera de sus hogares mientras se determina qué intervenciones requieren sus casas. Por los incendios, San Luis enfrenta uno de los escenarios más complejos: allí las llamas consumieron cerca de 5.000 hectáreas y afectaron a 10 viviendas. La propuesta del fondo busca que la respuesta no termine con la atención de la emergencia, sino que permita avanzar hacia la recuperación de las comunidades. “Convoqué a todos los gremios, a todos los empresarios del departamento para la conformación de un fondo mixto de reconstrucción del departamento”, afirmó Matiz, quien espera que la iniciativa permita sumar esfuerzos del sector público y privado. Mientras se concreta esta propuesta, las autoridades también pidieron a la ciudadanía evitar la difusión de información falsa relacionada con las emergencias y verificar cualquier reporte a través de los canales oficiales. Creado por Redacción Tolima",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "tolima"
+        ],
+        "creator": [
+            "jorjuela"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-19 13:36:06",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 15:04:34",
+        "image_url": "https://www.elnuevodia.com.co/sites/default/files/styles/galeria_1200x600_/public/imagenes/2026/08/NOTA%204_%20As%C3%AD%20ser%C3%A1%20el%20plan%20para%20reconstruir%20viviendas%20tras%20las%20emergencias.jpg?itok=rwz-YLX7",
+        "video_url": null,
+        "source_id": "elnuevodia",
+        "source_name": "El Nuevo Día",
+        "source_priority": 14300,
+        "source_url": "https://www.elnuevodia.com",
+        "source_icon": "https://n.bytvi.com/elnuevodia.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "这将是托利马地震和火灾后应采取的步骤",
+        "description_zh": "这将是托利马约胡埃拉发生地震和火灾后应采取的步骤 星期三，08/19/2026 - 08:36 节点日期 星期三，08/19/2026 - 08:36 图片/sites/default/files/imagenes/2026/08/NOTA%204_%20As%C3%AD%20ser%C3%A1%20the%20plan%20para%20reconstruir%20housing%20tras%20las%20emergencias.jpg 正文"
+    },
+    {
+        "article_id": "2069c9e71b0936d0cacf200adb4956dd",
+        "link": "https://jornaldebrasilia.com.br/noticias/mundo/ataque-israelense-contra-delegacia-em-gaza-deixa-sete-mortos-afirmam-fontes-palestinas/",
+        "title": "Ataque israelense contra delegacia em Gaza deixa sete mortos, afirmam fontes palestinas",
+        "description": "As autoridades de saúde de Gaza afirmaram que um ataque israelense contra uma sede da polícia municipal matou sete pessoas e deixou vários feridos nesta quarta-feira. O Hospital Al Shifa, na Cidade de Gaza, informou que recebeu sete corpos e pelo menos 22 feridos após o ataque. A agência de resgate da Defesa Civil do território palestino confirmou o número de mortos. AFP",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mundo",
+            "gaza",
+            "ataque",
+            "israel"
+        ],
+        "creator": [
+            "redação jornal de brasília"
+        ],
+        "language": "portuguese",
+        "country": [
+            "colombia",
+            "mexico",
+            "brazil",
+            "peru",
+            "spain",
+            "chile",
+            "venezuela",
+            "argentina",
+            "united states of america",
+            "portugal"
+        ],
+        "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-19 13:36:01",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 13:52:25",
+        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/07/22174131/afp-20251019-79bh7zq-v3-midres-topshotpalestinianisraelconflictgaza.jpg",
+        "video_url": null,
+        "source_id": "jornaldebrasilia",
+        "source_name": "Jornal De Brasília",
+        "source_priority": 1815808,
+        "source_url": "https://jornaldebrasilia.com.br",
+        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "巴勒斯坦消息人士称，以色列对加沙警察局的袭击造成七人死亡",
+        "description_zh": "加沙卫生当局表示，以色列周三袭击了市警察总部，造成七人死亡，多人受伤。加沙城的阿尔希法医院表示，袭击发生后，该医院收到了七具尸体，至少有 22 人受伤。资源机构"
+    },
+    {
+        "article_id": "d1c50721f431ed9eef64a1be7b870fc0",
+        "link": "https://www.elrancaguino.cl/2026/08/19/venezuela-registra-un-nuevo-terremoto-de-magnitud-superior-a-4-en-la-guaira/",
+        "title": "Venezuela registra un nuevo terremoto de magnitud superior a 4 en La Guaira",
+        "description": "(EUROPA PRESS) – Venezuela ha registrado este martes un nuevo terremoto con epicentro en La Guaira, que de momento no ha dejado víctimas ni grandes afectaciones, según ha informado la presidenta encargada, Delcy Rodríguez, que ha precisado que el temblor es de magnitud superior a 4. «Quiero informar que se registró un seísmo sentido, con [...] El artículo Venezuela registra un nuevo terremoto de magnitud superior a 4 en La Guaira se publicó primero en El Rancagüino .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "terremoto",
+            "sismo",
+            "internacional",
+            "la guaira",
+            "venezuela"
+        ],
+        "creator": [
+            "maría fernanda cabrera garcía"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-19 13:35:54",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-19 13:42:57",
+        "image_url": "https://www.elrancaguino.cl/wp-content/uploads/2026/08/seismic-activity-earthquake-venezuela-map-richter-scale_559531-21904-scaled.avif",
+        "video_url": null,
+        "source_id": "elrancaguino_cl",
+        "source_name": "El Rancagüino",
+        "source_priority": 236223,
+        "source_url": "https://www.elrancaguino.cl",
+        "source_icon": "https://n.bytvi.com/elrancaguino_cl.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "委内瑞拉拉瓜伊拉再次发生4级以上地震",
+        "description_zh": "（欧洲新闻） - 本周二，委内瑞拉发生了新的地震，震中位于拉瓜伊拉，据负责总统德尔西·罗德里格斯报道，目前尚未造成任何人员伤亡或重大损失，他指出地震震级大于 4 级。“我想通知您"
     }
 ]
