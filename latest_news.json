@@ -1,35 +1,224 @@
 [
     {
-        "article_id": "888c3fa33f81587f7d3e5336264fbcd1",
-        "link": "https://www.losandes.com.ar/politica/detuvieron-una-funcionaria-bonaerense-la-acusan-lavar-27000-millones-datos-biometricos-expresos-n6002844",
-        "title": "Detuvieron a una funcionaria bonaerense: la acusan de lavar $27.000 millones con datos biométricos de expresos",
-        "description": "Una fiscal de La Plata investiga una organización que habría utilizado a expresos y personas en situación de vulnerabilidad como \"mulas financieras\" para abrir cuentas en billeteras virtuales. La causa detectó movimientos por más de $27.000 millones.",
+        "article_id": "a0adfbd88570c0d76c4e534cbe783981",
+        "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/incendio-atinge-predio-em-xangri-la/",
+        "title": "Incêndio atinge prédio em Xangri-lá",
+        "description": "Incêndio atinge estrutura do litoral norte na manhã desta quarta-feira e bombeiros atuam no combate ao fogo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "prédio",
+            "xangri-lá",
+            "rio grande do sul",
+            "incêndio",
+            "litoral norte",
+            "fogo",
+            "brasil"
+        ],
+        "creator": [
+            "redação abc+"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:42:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-20 13:55:26",
+        "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/08/20/incendio_em_xangrila-22865359.jpg",
+        "video_url": null,
+        "source_id": "abcmais",
+        "source_name": "Abc+",
+        "source_priority": 5471397,
+        "source_url": "https://www.abcmais.com",
+        "source_icon": "https://n.bytvi.com/abcmais.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Xangri-lá 的建筑物发生火灾",
+        "description_zh": "本周三早上，北海岸的建筑物发生火灾，消防队员正在努力灭火"
+    },
+    {
+        "article_id": "2a47fc23a1912f9046d2fa7c5c51b3bd",
+        "link": "https://www.correiobraziliense.com.br/cidades-df/2026/08/7483733-da-nossa-parte-e-trabalhar-diz-grass-sobre-pedido-de-impugnacao-de-arruda.html",
+        "title": "Da nossa parte é trabalhar\", diz Grass sobre pedido de impugnação de Arruda",
+        "description": "Candidato do PT comentou a decisão da Procuradoria Eleitoral do DF, que pediu ao TRE que negue o registro da candidatura de José Roberto Arruda (PSD)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "candidatura",
+            "business",
+            "& economics",
+            "arruda",
+            "eleiçõecb",
+            "finance",
+            "leandro grass"
+        ],
+        "creator": [
+            "mila ferreira"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:42:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-20 13:46:19",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/08/20/whatsapp-image-2026-08-20-at-10-28-52-67468908.jpeg",
+        "video_url": null,
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "就我们而言，这就是工作”，格拉斯在谈到阿鲁达的弹劾请求时说道",
+        "description_zh": "PT 候选人对 DF 选举检察官办公室要求 TRE 拒绝登记何塞·罗伯托·阿鲁达 (PSD) 候选人资格的决定发表评论"
+    },
+    {
+        "article_id": "58e78bb8302bd57f1f1f1803f5379840",
+        "link": "https://www.bigbangnews.com/politica/libertarios-intentan-instalar-ataque-nadia-beller-fue-autoatentado-n102895",
+        "title": "Libertarios intentan instalar que el ataque a Nadia Beller fue un \"autoatentado\"",
+        "description": "Fran Fijap, Lilia Lemoine y la abogada de Fernando Cerimedo apuntaron contra la mujer baleada en Bolivia. Pero el parte médico oficial confirmó heridas múltiples, una fractura expuesta y la extracción quirúrgica de esquirlas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
             "política"
         ],
         "creator": [
-            "redacción política"
+            "big bang! news"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:42:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-20 13:53:44",
+        "image_url": "https://statics.bigbangnews.com/2026/08/crop/6a87040b23383__993x610.webp",
+        "video_url": null,
+        "source_id": "bigbangnews",
+        "source_name": "Big Bang! News",
+        "source_priority": 2472367,
+        "source_url": "https://www.bigbangnews.com",
+        "source_icon": "https://n.bytvi.com/bigbangnews.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "自由主义者试图证明对纳迪亚·贝勒的攻击是一次“自我攻击”",
+        "description_zh": "弗兰·菲亚普 (Fran Fijap)、莉莉亚·勒穆瓦纳 (Lilia Lemoine) 和费尔南多·塞里梅多 (Fernando Cerimedo) 的律师瞄准了在玻利维亚被枪杀的妇女。但官方医疗报告证实了多处受伤、开放性骨折以及手术切除碎片的情况。"
+    },
+    {
+        "article_id": "ee3e1a917b66529ca50b682d080abf7d",
+        "link": "https://chacodiapordia.com/capacitacion-gratuita-sobre-lesiones-deportivas-rcp-y-dea-en-el-polideportivo-jaime-zapata/",
+        "title": "Capacitación gratuita sobre lesiones deportivas, RCP y DEA en el Polideportivo Jaime Zapata",
+        "description": "La jornada se realizará este viernes 21, desde las 18 horas, con entrada libre y gratuita para toda la comunidad. La actividad es organizada por el Comité Olímpico Interprofesional y tiene como objetivo brindar herramientas para actuar ante situaciones de emergencia vinculadas con la práctica deportiva, además de promover la prevención y el cuidado de la salud durante la actividad física. La jornada contará con la participación del Dr. Ramiro Martinengo, médico cardiólogo, y de Ana Laura Núñez, enfermera profesional con orientación en emergencias médicas y deportología, quienes estarán a cargo de compartir conocimientos y recomendaciones sobre reanimación cardiopulmonar (RCP), lesiones deportivas y el uso del Desfibrilador Externo Automático (DEA). Durante la capacitación se explicará la importancia de la RCP y las medidas de prevención, además de brindar recomendaciones para responder adecuadamente ante una emergencia.El DEA (Desfibrilador Externo Automático) es un dispositivo portátil que analiza el ritmo cardíaco y, cuando corresponde, administra una descarga eléctrica para ayudar a restablecer un ritmo cardíaco adecuado. Su utilización, combinada con la RCP, resulta fundamental ante un paro cardíaco. La capacitación es libre y gratuita, por lo que se invita a deportistas, entrenadores, instituciones, familias y a toda la comunidad interesada a participar. Asimismo, las instituciones que deseen solicitar este tipo de capacitación pueden hacerlo enviando una nota al correo mesadeportes2020@gmail.com. La prevención y la capacitación son herramientas fundamentales para salvar vidas. La entrada Capacitación gratuita sobre lesiones deportivas, RCP y DEA en el Polideportivo Jaime Zapata se publicó primero en CHACODIAPORDIA.COM .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "chaco hoy"
+        ],
+        "creator": [
+            "maría paula quiroga"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:42:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-20 19:16:38",
+        "image_url": "https://chacodiapordia.com/wp-content/uploads/2026/08/jaime-microestadio.jpg",
+        "video_url": null,
+        "source_id": "chacodiapordia",
+        "source_name": "Chaco Día Por Día",
+        "source_priority": 440261,
+        "source_url": "https://www.chacodiapordia.com",
+        "source_icon": "https://n.bytvi.com/chacodiapordia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "Jaime Zapata 体育中心提供关于运动损伤、心肺复苏 (CPR) 和自动体外除颤器 (AED) 的免费培训",
+        "description_zh": "该活动将于本周五 21 日下午 6 点开始，整个社区免费入场。该活动由跨专业奥林匹克委员会组织，旨在提供在紧急情况下采取行动的工具，这些工具与实践相关"
+    },
+    {
+        "article_id": "b046598a136750e4b19d4013bdda8078",
+        "link": "https://www.campograndenews.com.br/cidades/capital/ciumes-por-mensagem-pode-ter-motivado-feminicidio-a-golpes-de-foice",
+        "title": "Ciúmes por mensagem pode ter motivado feminicídio a golpes de foice",
+        "description": "Amigo de Joseane Oliveira Nunes, de 33 anos, morta com golpes de foice na cabeça na noite desta quarta-feira (19), no Bairro Cristo Redentor, em Campo Grande, acredita que o crime tenha sido motivado por ciúmes. O homem, que pediu para não ser identificado, esteve no local na manhã desta quinta-feira (20) e relatou à reportagem o que teria acontecido nas horas que antecederam o feminicídio. Segundo ele, na noite do crime, duas amigas estavam com Joseane na casa, mas ele disse não conhecê-las. Os três filhos da vítima não moravam no imóvel. Na residência viviam apenas Joseane e o companheiro, Lourival da Cruz Neto, conhecido como “Bola”, suspeito do crime e ainda procurado pela polícia. O amigo contou que Lourival trabalhou durante todo o dia e, em determinado momento, usou o celular de um colega de serviço para enviar uma mensagem a Joseane, pedindo que ela preparasse o almoço. Durante a conversa, segundo o relato, ele teria visto no aparelho uma mensagem acompanhada de um emoji com um dos olhos fechados e a língua para fora, o que teria despertado ciúmes. Ainda de acordo com a testemunha, depois disso Lourival retornou para casa. No caminho, passou pelo amigo e encontrou Joseane sentada na varanda do imóvel. Conforme o relato, o suspeito pediu o celular da companheira. “Me dá seu celular”, teria dito. Joseane respondeu que o aparelho não pertencia a ele. Mesmo assim, Lourival tomou o telefone da mão dela, disse que queria apenas verificar uma coisa, abriu o aparelho, olhou o conteúdo e depois o devolveu. Na sequência, conforme o amigo, Lourival saiu de bicicleta. A testemunha acredita que ele tenha ido comprar droga. Depois, o viu comprando cerveja e retornando muito nervoso. Segundo o relato, o suspeito chegou a passar por cima de um cachorro enquanto pedalava. O amigo disse que deixou o local e foi para casa tomar banho. Quando retornou, encontrou a rua tomada por viaturas. Foi então informado por uma mulher de que “Bola” havia matado Joseane. Para a testemunha, o ciúme pode ter sido o estopim para o crime. Ele afirmou, porém, que Lourival já apresentava comportamento agressivo anteriormente e fazia comentários indicando que sabia que poderia acabar preso. “Ele falava para mim que estava metendo o louco porque sabia que, quando fosse preso, não ia mais sair tão cedo”, relatou. O amigo também afirmou que já havia sido ameaçado de morte pelo suspeito e que Joseane também teria sofrido ameaças. Segundo ele, Lourival era agressivo com outras pessoas da própria família. “Um cara que bate na própria mãe tem coragem de matar qualquer um. Batia na própria mãe, batia nos primos. A família dele toda tem medo dele”, afirmou. A testemunha relatou ainda que Joseane já havia aparecido com marcas de agressão em outra ocasião. Segundo ele, recentemente ela chegou com um dos olhos roxos. O histórico de violência também consta em registro anterior. Joseane havia solicitado medida protetiva contra Lourival no dia 11 de julho de 2026, após registrar boletim de ocorrência por violência doméstica. Os fatos, naquela ocasião, teriam ocorrido na casa da sogra, no Bairro Jardim das Cerejeiras. Posteriormente, Joseane manifestou interesse em retirar a proteção. A manifestação pela revogação foi formalizada em 16 de agosto, três dias antes de ela ser morta. Ela procurou a Defensoria Pública, informou que continuava com Lourival e declarou não ter mais interesse na manutenção da medida. Segundo o amigo, apesar do pedido de proteção, o casal praticamente não chegou a ficar separado. “Ela foi lá, fez a medida protetiva e veio embora. No outro dia ele já estava aqui com ela”, contou. Na avaliação da testemunha, o comportamento de Lourival já indicava risco havia algum tempo. Ele voltou a classificá-lo como uma pessoa agressiva e afirmou que a morte de Joseane causou revolta entre moradores e crianças da região que conviviam com ela. “É uma crueldade do caramba uma pessoa fazer uma coisa dessas. A vida não vale por causa disso. É complicado”, disse. Ameaças e medo - Uma vizinha da vítima afirmou que conhecia Joseane desde que nasceu e que era bastante próxima dela. Segundo a moradora, a vítima era uma pessoa tranquila, mas reagia quando era ameaçada ou provocada. “Ela era de boa, mas não gostava que ficassem ameaçando ela. Se mexesse com ela, ela ficava brava”, contou. A vizinha afirmou ainda que Joseane não demonstrava medo das ameaças feitas pelo companheiro porque acreditava que ele não teria coragem de concretizá-las. “Ela não tinha medo, porque pensava que ele não tinha coragem”, disse. Segundo os moradores, Lourival já teria ameaçado e agredido Joseane outras vezes. “Ameaçava. Já bateu nela várias vezes”, relatou uma das entrevistadas. A vizinha também contou que Joseane teria sido agredida durante uma gravidez e, posteriormente, perdido o bebê. “Quando ela estava grávida, ele bateu nela e ela perdeu o neném”, afirmou. Essa informação não foi confirmada pela polícia. A reportagem apurou que nunca foi registrada ocorrência sobre o fato. Questionada sobre o período da gestação, a moradora disse que Joseane estaria com nove meses. Ela também mencionou uma agressão com um facão, descrita como uma “pranchada”, golpe feito com a lateral da arma. Os moradores disseram que também já haviam sido alvo de ameaças do suspeito. Uma das vizinhas afirmou que o encontrava com frequência e que ele costumava fazer comentários ameaçadores. “Eu via ele toda vez. Ele ficava fazendo graça comigo, falando que ia me bater”, contou. Outra moradora relatou que Lourival chegou a dizer que daria um soco nela. As entrevistadas disseram não saber se as falas eram feitas em tom de brincadeira. Uma delas também afirmou que ele “tomava remédio”. Sobre o paradeiro de Lourival, os vizinhos disseram acreditar que ele tenha fugido da região. Segundo os relatos, o suspeito teria vínculos com o Jardim das Cerejeiras e poderia ter seguido para uma propriedade da família. Os vizinhos também mencionaram uma propriedade rural pertencente ao pai do suspeito, descrita por eles como uma “horta” ou “fazenda”. “Provavelmente ele foi para alguma horta que ele tem em outra cidade”, disse uma das entrevistadas. “O pai dele tem uma horta”, acrescentou outra. A possibilidade de Lourival ter seguido para a propriedade é apenas uma hipótese levantada pelos moradores. Até o momento, não há confirmação sobre o paradeiro do suspeito. Entenda - Joseane foi encontrada morta dentro da residência onde morava com Lourival, na Rua Luiz Hilário Campos Leite. Ela apresentava ferimentos graves na cabeça provocados por golpes de foice. O Corpo de Bombeiros Militar chegou a realizar manobras de reanimação, mas a morte foi constatada ainda no local. Uma testemunha afirmou ter visto o companheiro da vítima fugir em uma bicicleta azul. Durante a saída, um celular Xiaomi preto caiu em frente ao imóvel. Equipes da Deam (Delegacia Especializada de Atendimento à Mulher), da PM (Polícia Militar) e do GOI (Grupo de Operações e Investigações) estiveram no endereço. Joseane deixa três filhos, com idades entre 11 e 17 anos. Lourival ainda não havia sido preso até a manhã desta quinta-feira.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "identificado",
+            "homem",
+            "-feira",
+            "pediu",
+            "golpes",
+            "amigo",
+            "joseane oliveira nunes",
+            "ciúmes",
+            "foice",
+            "bairro cristo redentor",
+            "campo",
+            "morta",
+            "cabeça",
+            "acredita",
+            "crime tenha sido motivado"
+        ],
+        "creator": [
+            "por bruna marques e victória costacurta"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
             "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-19 13:37:00",
+        "pubDate": "2026-08-20 13:42:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 13:40:21",
-        "image_url": "https://media.losandes.com.ar/p/76420304fcd24dda0db120a5bbb69bea/adjuntos/368/imagenes/100/739/0100739371/1200x675/smart/detuvieron-una-funcionaria-bonaerense-acusada-usar-datos-biometricos-personas-vulnerables-lavar-dinero.jpg",
+        "fetched_at": "2026-08-20 14:12:33",
+        "image_url": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/08/20/6a86ffd40b446.jpeg",
         "video_url": null,
-        "source_id": "losandes",
-        "source_name": "Los Andes",
-        "source_priority": 114641,
-        "source_url": "https://www.losandes.com.ar",
-        "source_icon": "https://n.bytvi.com/losandes.png",
+        "source_id": "campograndenews",
+        "source_name": "Campo Grande News",
+        "source_priority": 139036,
+        "source_url": "https://www.campograndenews.com.br",
+        "source_icon": "https://n.bytvi.com/campograndenews.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -37,104 +226,28 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "他们逮捕了布宜诺斯艾利斯一名官员：指控她利用快递工人的生物识别数据洗钱 270 亿美元",
-        "description_zh": "拉普拉塔的一名检察官正在调查一个组织，该组织利用囚犯和弱势群体作为“金融骡子”在虚拟钱包中开设账户。该案发现了超过 270 亿美元的资金变动。"
+        "title_zh": "对短信的嫉妒可能是镰刀袭击导致杀害女性的动机",
+        "description_zh": "33 岁的乔萨内·奥利维拉·努内斯 (Joseane Oliveira Nunes) 于周三晚 (19 日) 在大坎普的克里斯托·雷登托 (Cristo Redentor) 社区因头部被镰刀击中而死亡，他的朋友认为犯罪动机是出于嫉妒。这名不愿透露姓名的男子周四早上就在现场——"
     },
     {
-        "article_id": "5c34dabb647d7f4533113bc028a28402",
-        "link": "https://www.capitalnews.com.br/politica-e-poder/executivo/governo-de-mato-grosso-do-sul-remaneja-r-31-milhoes-para-detran-agepen-e-outras-unidades/445600",
-        "title": "Governo de Mato Grosso do Sul remaneja R$ 3,1 milhões para Detran, Agepen e outras unidades",
-        "description": "O Governo de Mato Grosso do Sul abriu crédito suplementar de R$ 3.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "joão gabriel vilalba"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-19 13:37:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 17:15:55",
-        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2025/11/25/1200x900/1be34f245018337a7758afd8237d19cf-capitalnews-com-br.jpg",
-        "video_url": null,
-        "source_id": "capitalnews",
-        "source_name": "Capital News",
-        "source_priority": 505998,
-        "source_url": "https://www.capitalnews.com.br",
-        "source_icon": "https://n.bytvi.com/capitalnews.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "南马托格罗索州政府向 Detran、Agepen 和其他单位重新分配 310 万雷亚尔",
-        "description_zh": "南马托格罗索州政府开设了 3 雷亚尔的额外信贷。"
-    },
-    {
-        "article_id": "4004715a49a88716f8f8d7dd4da794e1",
-        "link": "https://www.capitalnews.com.br/politica-e-poder/executivo/governo-de-ms-remaneja-r-31-milhoes-para-detran-agepen-e-outras-unidades/445600",
-        "title": "Governo de MS remaneja R$ 3,1 milhões para Detran, Agepen e outras unidades",
-        "description": "O Governo de Mato Grosso do Sul abriu crédito suplementar de R$ 3.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "joão gabriel vilalba"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-19 13:37:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 14:16:26",
-        "image_url": "https://cdn.capitalnews.com.br/storage/webdisco/2025/11/25/1200x900/1be34f245018337a7758afd8237d19cf-capitalnews-com-br.jpg",
-        "video_url": null,
-        "source_id": "capitalnews",
-        "source_name": "Capital News",
-        "source_priority": 505998,
-        "source_url": "https://www.capitalnews.com.br",
-        "source_icon": "https://n.bytvi.com/capitalnews.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "MS政府向Detran、Agepen和其他单位重新分配310万雷亚尔",
-        "description_zh": "南马托格罗索州政府开设了 3 雷亚尔的额外信贷。"
-    },
-    {
-        "article_id": "ed2777a195ce463f1c582ef2d24b9947",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/democrata-da-florida-vence-primarias-para-senado-dos-estados-unidos",
-        "title": "Democrata da Flórida vence primárias para Senado dos Estados Unidos",
-        "description": "A democrata socialista Angie Nixon conquistou vitória inesperada nessa terça-feira (18) nas primárias democratas da Flórida para o Senado dos Estados Unidos (EUA), enquanto eleitores em vários estados escolhiam candidatos para as eleições que determinarão o controle do Congresso. O resultado surpreendente foi o mais recente de uma série de vitórias de candidatos progressistas insurgentes nas disputas democratas deste ano. Muitos eleitores do partido estão cada vez mais frustrados com a cúpula partidária, que consideram muito antiquada e ineficaz na oposição ao presidente republicano Donald Trump. Embora o movimento tenha despertado entusiasmo na ala de esquerda do partido, analistas alertam que isso pode complicar a campanha para conquistar o controle da Câmara dos Deputados e do Senado em novembro, quando membros de ambos os partidos e independentes irão às urnas. Nenhuma divisão desse tipo ficou evidente no Alasca, onde a democrata Mary Peltola obteve mais votos do que o senador republicano em exercício, Dan S. Sullivan, nas incomuns primárias apartidárias do estado para o Senado dos EUA. Os democratas veem a disputa como uma de suas melhores oportunidades de conquistar uma das quatro cadeiras de que precisam para obter o controle da Câmara, composta por 100 cadeiras, nas eleições de meio de mandato de novembro. A corrida pelo Senado na Flórida não é vista como promissora para os democratas. O estado, que já foi um dos mais disputados, tem se tornado cada vez mais republicano nos últimos anos, e analistas afirmam que a vitória de Nixon provavelmente o coloca ainda mais fora de alcance. Angie Nixon, de 42 anos, tem atuado ativamente no movimento sindical da Flórida e foi repreendida este ano por interromper uma votação na Câmara dos Deputados da Flórida ao protestar contra a legislação de redistritamento congressional com um megafone rosa . Ela derrotou o ex-funcionário de segurança nacional Alex Vindman, que ganhou destaque em 2019 ao testemunhar, perante o Congresso, durante o primeiro processo de impeachment do presidente republicano Donald Trump. Vindman arrecadou 16 vezes mais dinheiro do que Nixon, e analistas afirmaram que ele provavelmente teria mais chances de derrotar a senadora republicana em exercício Ashley Moody nas eleições gerais de novembro. O vencedor completará os dois anos restantes do mandato do ex-senador da Flórida Marco Rubio, que agora ocupa o cargo de secretário de Estado de Trump. * ( Reportagem adicional de Andrew Goudsward ) * É proibida a reprodução deste conteúdo .",
+        "article_id": "6d3d2dd227a7d5662d533344ad9e82fb",
+        "link": "https://www.em.com.br/politica/2026/08/7483868-carlos-viana-busca-assinaturas-para-cpmi-do-lulinha.html",
+        "title": "Carlos Viana busca assinaturas para 'CPMI do Lulinha'",
+        "description": "Senador diz querer investigar suposta intermediação de interesses privados junto ao governo federal",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
+            "carlos-viana",
             "senado",
-            "eleição",
-            "internacional",
-            "flórida",
-            "angie nixon",
-            "vitória",
-            "democrata",
-            "primárias"
+            "carlos viana",
+            "lula",
+            "congresso-nacional",
+            "lulinha",
+            "cpmi",
+            "camara-dos-deputados"
         ],
-        "creator": null,
+        "creator": [
+            "vinícius prates"
+        ],
         "language": "portuguese",
         "country": [
             "brazil"
@@ -144,16 +257,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-19 13:37:00",
+        "pubDate": "2026-08-20 13:42:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 14:11:26",
-        "image_url": "https://imagens.ebc.com.br/PLMzLpZtF8SWKp0la0BDR4HwbRw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/19/2026-08-19t123951z_1_lynxmpem7i0tb_rtroptp_4_usa-election-florida.jpg?itok=EorOey_q",
+        "fetched_at": "2026-08-20 17:01:39",
+        "image_url": "https://midias.em.com.br/_midias/jpg/2026/06/14/wpt20404-66909913.jpg",
         "video_url": null,
-        "source_id": "agenciabrasil_ebc_br",
-        "source_name": "Agenciabrasil Ebc Br",
-        "source_priority": 135198,
-        "source_url": "https://agenciabrasil.ebc.com.br",
-        "source_icon": "https://n.bytvi.com/agenciabrasil_ebc_br.png",
+        "source_id": "estadodeminas",
+        "source_name": "Jornal Estado De Minas",
+        "source_priority": 6179,
+        "source_url": "https://www.em.com.br",
+        "source_icon": "https://n.bytvi.com/estadodeminas.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -161,62 +274,24 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "佛罗里达州民主党赢得美国参议院初选",
-        "description_zh": "社会党民主党人安吉·尼克松周二（18日）在佛罗里达州美国参议院民主党初选中意外获胜，几个州的选民选出了将决定国会控制权的选举候选人。结果"
+        "title_zh": "卡洛斯·维亚纳 (Carlos Viana) 寻求“CPMI do Lulinha”签名",
+        "description_zh": "参议员表示他希望调查涉嫌与联邦政府进行私人利益中介的行为"
     },
     {
-        "article_id": "ce1ac137fd7d2ea389300d23302c53ac",
-        "link": "https://jornal24horas.com.br/?p=62036",
-        "title": "Shopee traz Air Fryer Britânia Oven de 12 litros por apenas R$275",
-        "description": "Se você estava de olho em uma air fryer maior para preparar as refeições do dia a dia, os modelos Oven podem ser boas opções com sua grande capacidade e versatilidade no preparo de alimentos sem o uso de óleo. E a boa notícia, é que por tempo limitado, a Air Fryer Oven Britânia [...]",
+        "article_id": "c99771b7ce0519df3c5c48efd5c62d65",
+        "link": "https://www.diariodecuyo.com.ar/policiales/conmocion-santa-fe-hallaron-muerto-un-nene-6-anos-y-su-madre-quedo-detenida-n6580748",
+        "title": "Conmoción en Santa Fe: hallaron muerto a un nene de 6 años y su madre quedó detenida",
+        "description": "El menor fue encontrado sin vida dentro de una vivienda de San Justo. La Justicia investiga un posible crimen intrafamiliar y la autopsia será determinante para saber cómo murió.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "tecnologia"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-19 13:37:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 14:26:41",
-        "image_url": "https://jornal24horas.com.br/wp-content/uploads/2026/08/air_fryer_Britania_oven_de_12_litros_em_oferta_2fb0f1af02-lJFWQZ.jpg",
-        "video_url": null,
-        "source_id": "jornal24horas",
-        "source_name": "Jornal24horas",
-        "source_priority": 42157300,
-        "source_url": "http://jornal24horas.com.br",
-        "source_icon": "https://n.bytvi.com/jornal24horas.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "Shopee 推出 12 升 Air Fryer Britânia 烤箱，仅需 R$275",
-        "description_zh": "如果您正在寻找更大的空气炸锅来准备日常餐点，烤箱型号可能是不错的选择，因为它们具有大容量和多功能性，无需使用油即可准备食物。好消息是，在有限的时间内，空气炸锅 Britânia [...]"
-    },
-    {
-        "article_id": "f5a1602251dd4782441d7e7b5e3037cd",
-        "link": "https://www.laopinioncoruna.es/sociedad/2026/08/19/desembarco-decenas-inmigrantes-causa-estupor-133488584.html",
-        "title": "El desembarco de decenas de inmigrantes causa estupor en una playa de Los Belones",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "desembarco",
-            "estupor",
-            "inmigrantes",
-            "causa",
-            "decenas"
+            "santa fe",
+            "investigación",
+            "nene",
+            "muerte",
+            "conmoción"
         ],
         "creator": [
-            "l. o."
+            "redacción diario de cuyo"
         ],
         "language": "spanish",
         "country": [
@@ -226,63 +301,17 @@
             "crime",
             "top"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-19 13:36:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 14:07:24",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5a6d406f-099f-4572-af93-2382ddee99ae_16-9-aspect-ratio_default_0_x288y341.jpg",
-        "video_url": "https://www.laopinioncoruna.es/sociedad/2026/08/19/desembarco-decenas-inmigrantes-causa-estupor-133488584.html",
-        "source_id": "laopinioncoruna",
-        "source_name": "La Opinión A Coruña",
-        "source_priority": 50098,
-        "source_url": "https://www.laopinioncoruna.es",
-        "source_icon": "https://n.bytvi.com/laopinioncoruna.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "数十名移民登陆洛斯贝洛内斯海滩引发震动",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "5563c778809fe1527c5c7c05f9d3c9fb",
-        "link": "https://www.mixvale.com.br/2026/08/19/reajuste-do-limite-do-mei-e-postergado-para-apos-as-eleicoes-de-outubro/",
-        "title": "Reajuste do limite do MEI é postergado para após as eleições de outubro",
-        "description": "O projeto de lei que propõe a elevação do teto de faturamento do Microempreendedor Individual (MEI) será votado somente depois das eleições de outubro, conforme indicado em 19 de agosto de 2026. A Câmara dos Deputados planeja uma agenda intensa entre 31 de agosto e 4 de setembro, mas o impasse persiste devido à demanda [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "simples nacional",
-            "eleições de outubro",
-            "câmara dos deputados",
-            "faturamento",
-            "mei",
-            "ministério da fazenda"
-        ],
-        "creator": [
-            "maria"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
         "datatype": "news",
-        "pubDate": "2026-08-19 13:36:54",
+        "pubDate": "2026-08-20 13:41:55",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 13:39:55",
-        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2024/08/mei-microempreendedor.jpg",
+        "fetched_at": "2026-08-20 14:16:29",
+        "image_url": "https://media.diariodecuyo.com.ar/p/3c942f74ed6b2dbe8f2c9fcd50208ce4/adjuntos/380/imagenes/100/331/0100331374/1200x675/smart/image.png",
         "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://n.bytvi.com/mixvale.png",
+        "source_id": "diariodecuyo",
+        "source_name": "Diario De Cuyo",
+        "source_priority": 394047,
+        "source_url": "https://www.diariodecuyo.com.ar",
+        "source_icon": "https://n.bytvi.com/diariodecuyo.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -290,116 +319,39 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "MEI 限额的调整推迟到 10 月选举之后",
-        "description_zh": "如 2026 年 8 月 19 日所示，提议提高个人微型企业家 (MEI) 收入上限的法案将仅在 10 月选举后进行投票。众议院计划在 8 月 31 日至 9 月 4 日期间制定紧张的议程，但陷入僵局"
+        "title_zh": "圣达菲震惊：一名6岁男孩被发现死亡，其母亲被拘留",
+        "description_zh": "这名未成年人被发现死在圣胡斯托的一所房屋内。司法部正在调查可能的家庭犯罪，尸检将对查明他的死因具有决定性作用。"
     },
     {
-        "article_id": "4c0e9e74b07bf0c5abe5510bdb4c604d",
-        "link": "https://www.diariolaopinion.com.ar/locales/proteccion-de-salarios-ya-hay-mas-de-18500-adhesiones-al-plan-de-desendeudamiento-de-santa-fe.htm",
-        "title": "Protección de salarios: ya hay más de 18.500 adhesiones al plan de desendeudamiento de Santa Fe",
-        "description": "Diario La Opinión, informando a Rafaela desde 1921 con verdadera vocación periodística. Información confiable y de calidad.",
+        "article_id": "324a5d57b9e7413f4e19ad8ab2ed7336",
+        "link": "https://www.ole.com.ar/mls/inter-miami/video-picante-cruce-lionel-messi-rival-mls-inter-miami_0_j1auoDI7FF.html",
+        "title": "Video: picante frente a frente de Messi con un rival en la MLS",
+        "description": "Después del gol, Leo fue a reclamarle a un jugador de Philadelphia y casi se agarran: palmada en el cuello y tenso cara a cara antes de que el árbitro los separara.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "lionel messi"
+        ],
         "creator": [
-            "diario la opinión de rafaela"
+            "www.ole.com.ar"
         ],
         "language": "spanish",
         "country": [
             "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-19 13:36:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 13:46:24",
-        "image_url": "https://www.diariolaopinion.com.ar/galeria/fotos/2026/08/19/m_1787146637.jpeg",
-        "video_url": null,
-        "source_id": "diariolaopinion_ar",
-        "source_name": "Diario La Opinión De Rafaela",
-        "source_priority": 450800,
-        "source_url": "https://www.diariolaopinion.com.ar",
-        "source_icon": "https://n.bytvi.com/diariolaopinion_ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "薪资保障：圣达菲债务减免计划已有超过18,500名成员",
-        "description_zh": "La Opinión 报纸，自 1921 年起向拉斐拉报道，从事真正的新闻职业。可靠且优质的信息。"
-    },
-    {
-        "article_id": "424433cd8a756eb872bf384d9d5489e5",
-        "link": "https://www.nsctotal.com.br/especiais-publicitarios/skincare-para-pele-jovem-como-comecar-uma-rotina-sem-exageros",
-        "title": "Skincare para pele jovem: como começar uma rotina sem exageros",
-        "description": "Os cuidados com a pele jovem ganharam espaço nos últimos anos, impulsionados principalmente pelas redes sociais. Vídeos com rotinas de skincare,",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "autoestima",
-            "estúdio nsc branded content"
-        ],
-        "creator": [
-            "estúdio nsc"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "health"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-19 13:36:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 14:04:10",
-        "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2026/08/skincare-para-pele-jovem.jpg.png",
-        "video_url": null,
-        "source_id": "nsctotal",
-        "source_name": "Nsc Total",
-        "source_priority": 14276,
-        "source_url": "https://www.nsctotal.com.br",
-        "source_icon": "https://n.bytvi.com/nsctotal.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "年轻皮肤的护肤：如何不夸张地开始日常护理",
-        "description_zh": "近年来，年轻皮肤护理在社交媒体的推动下得到了普及。包含护肤程序的视频，"
-    },
-    {
-        "article_id": "d5cbc684482e5a06309ee673cdfe8215",
-        "link": "https://www.espn.com.br/futebol/libertadores/artigo/_/id/17136176/quanto-fluminense-ganhou-premiacao-classificacao-quartas-de-final-copa-libertadores",
-        "title": "Quanto Fluminense ganhou em premiação com a classificação às quartas de final da Libertadores?",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
         ],
         "category": [
             "sports"
         ],
-        "datatype": "news",
-        "pubDate": "2026-08-19 13:36:44",
+        "datatype": "multimedia",
+        "pubDate": "2026-08-20 13:41:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 13:36:44",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "espnbz",
-        "source_name": "Espn",
-        "source_priority": 38193,
-        "source_url": "https://www.espn.com.br",
-        "source_icon": "https://n.bytvi.com/espnbz.png",
+        "fetched_at": "2026-08-20 14:05:16",
+        "image_url": "https://www.ole.com.ar/images/2026/08/20/C4RRLEtnf_1200x630__1.jpg",
+        "video_url": "https://cdn.jwplayer.com/videos/mIKJ0LPv-vSnLBWs9.mp4",
+        "source_id": "ole_ar",
+        "source_name": "Ole Ar",
+        "source_priority": 13161,
+        "source_url": "https://www.ole.com.ar",
+        "source_icon": "https://n.bytvi.com/ole_ar.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -407,86 +359,42 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "弗鲁米嫩塞在解放者杯四分之一决赛的资格赛中获得了多少奖金？",
-        "description_zh": "查看原文了解更多详情"
+        "title_zh": "视频：辣味梅西在美国职业足球大联盟中与对手面对面",
+        "description_zh": "进球后，莱奥向一名费城球员抱怨，他们差点抓住对方：拍打对方的脖子，面对面紧张起来，然后裁判将他们分开。"
     },
     {
-        "article_id": "52db7de3e6148aab6397aebccf979a56",
-        "link": "https://www.diariocordoba.com/sociedad/2026/08/19/desembarco-decenas-inmigrantes-causa-estupor-133488588.html",
-        "title": "El desembarco de decenas de inmigrantes causa estupor en una playa de Los Belones",
-        "description": null,
+        "article_id": "d11c480226207178b05f88aef3ccb0ca",
+        "link": "https://viapais.com.ar/tucuman/vamos-indagar-necesario-jaldo-caso-hospital-concepcion_0_8ewk6TM4l7.html",
+        "title": "\"Vamos a indagar todo lo que sea necesario\": Jaldo sobre el caso del Hospital de Concepción",
+        "description": "El gobernador ordenó una investigación tras un hecho vinculado a la identificación de un recién nacido.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "causa",
-            "inmigrantes",
-            "estupor",
-            "decenas",
-            "desembarco"
+            "osvaldo jaldo",
+            "salud",
+            "concepción"
         ],
         "creator": [
-            "l. o."
+            "sol alvarez natale"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "argentina"
         ],
         "category": [
             "crime",
             "top"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-19 13:36:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 14:07:58",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5a6d406f-099f-4572-af93-2382ddee99ae_16-9-aspect-ratio_default_0_x288y341.jpg",
-        "video_url": "https://www.diariocordoba.com/sociedad/2026/08/19/desembarco-decenas-inmigrantes-causa-estupor-133488588.html",
-        "source_id": "diariocordoba",
-        "source_name": "Cordoba",
-        "source_priority": 48787,
-        "source_url": "https://www.diariocordoba.com",
-        "source_icon": "https://n.bytvi.com/diariocordoba.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "数十名移民登陆洛斯贝洛内斯海滩引发震动",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "b6c2ffa46a3287cb4612f43ac4e7bd94",
-        "link": "https://www.proceso.com.mx/nacional/2026/8/19/en-vivo-conferencia-mananera-de-sheinbaum-190826-378317.html",
-        "title": "EN VIVO: Conferencia mañanera de Sheinbaum (190826)",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "conferencias mañaneras",
-            "conferencia mañanera"
-        ],
-        "creator": [
-            "la redacción"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
         "datatype": "news",
-        "pubDate": "2026-08-19 13:36:49",
+        "pubDate": "2026-08-20 13:41:53",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 14:07:01",
-        "image_url": "https://assets.proceso.com.mx/img/1786839752760-efx1kw.jpeg",
+        "fetched_at": "2026-08-20 14:07:57",
+        "image_url": "https://viapais.com.ar/images/2026/08/19/PN1abxRqDG_1200x675.jpg",
         "video_url": null,
-        "source_id": "proceso",
-        "source_name": "Proceso",
-        "source_priority": 47805,
-        "source_url": "https://www.proceso.com.mx",
-        "source_icon": "https://n.bytvi.com/proceso.jpg",
+        "source_id": "viapais_ar",
+        "source_name": "Viapais Ar",
+        "source_priority": 48234,
+        "source_url": "https://viapais.com.ar",
+        "source_icon": "https://n.bytvi.com/viapais_ar.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -494,40 +402,81 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "直播：Sheinbaum 的早间会议 (190826)",
-        "description_zh": "查看原文了解更多详情"
+        "title_zh": "“我们将调查一切必要的事情”：哈尔多谈康塞普西翁医院案件",
+        "description_zh": "在发生与新生儿身份识别有关的事件后，州长下令进行调查。"
     },
     {
-        "article_id": "d94852325ebf65ea5858053fb36e51d2",
-        "link": "https://elproa.cl/2026/08/con-operativo-en-el-mall-buscaron-incentivar-a-la-vacunacion-en-san-antonio/",
-        "title": "Con operativo en el Mall buscaron incentivar a la vacunación en San Antonio",
-        "description": "La provincia de San Antonio muestra estadísticas bajas en materia de población que se ha vacunado contra la influenza este año, lo que preocupa a las autoridades e instituciones, especialmente ... Leer más",
+        "article_id": "0e599e5e315345be766f988a38000f4f",
+        "link": "https://elintransigente.com/2026/08/river-angel-correa-santa-fe/",
+        "title": "«Es un distinto»: Los hinchas de River se enamoraron de un refuerzo",
+        "description": "El delantero fue de las pocas figuras del equipo argentino en Bogotá. The post «Es un distinto»: Los hinchas de River se enamoraron de un refuerzo appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "noticias locales"
+            "ángel correa",
+            "river plate",
+            "river",
+            "copa sudamericana"
         ],
         "creator": [
-            "elproa"
+            "julio gottardi"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:41:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-20 13:54:24",
+        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/08/River-Hinchas-8.webp?fit=1200%2C675&quality=95&ssl=1",
+        "video_url": null,
+        "source_id": "elintransigente",
+        "source_name": "El Intransigente",
+        "source_priority": 3446332,
+        "source_url": "https://elintransigente.com",
+        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "“不一样”：河床球迷爱上了补强",
+        "description_zh": "这位前锋是阿根廷队在波哥大为数不多的球员之一。 “不一样”的帖子：河床球迷爱上了增援，首先出现在《El Intransigente：来自阿根廷和世界各地的实时新闻》上。"
+    },
+    {
+        "article_id": "36865fa646296944ba6205b13568b9cf",
+        "link": "https://www.diarioeldia.cl/noticias/2026/08/20/148234-alerta-alimentaria-por-listeria-retiran-queso-la-rotunda-del-mercado",
+        "title": "Alerta alimentaria por listeria: retiran queso La Rotunda del mercado",
+        "description": "El Minsal lanzó una alerta nacional tras hallar listeria en queso mantecoso La Rotunda, iniciando el retiro del producto. Conocé el lote afectado y por qué es clave evitarlo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "diario el día"
         ],
         "language": "spanish",
         "country": [
             "chile"
         ],
         "category": [
-            "top",
             "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-19 13:36:47",
+        "pubDate": "2026-08-20 13:41:59",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 13:46:24",
-        "image_url": "https://elproa.cl/wp-content/uploads/2026/08/Conoperativo19082026-300x169.jpg",
+        "fetched_at": "2026-08-20 13:49:38",
+        "image_url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/08/diarioeldia/images/02/73/42/2734257_b6f3bd7a3f553228136d5c74b8e4bfb0c9e37c28ce5852218032aae6f5632b13/md.webp",
         "video_url": null,
-        "source_id": "elproa_cl",
-        "source_name": "El Diario",
-        "source_priority": 439949,
-        "source_url": "https://elproa.cl",
-        "source_icon": "https://n.bytvi.com/elproa_cl.jpg",
+        "source_id": "diarioeldia",
+        "source_name": "Diario El D",
+        "source_priority": 942639,
+        "source_url": "https://diarioeldia.cl",
+        "source_icon": "https://n.bytvi.com/diarioeldia.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -535,23 +484,68 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "通过在购物中心开展行动，他们试图鼓励圣安东尼奥接种疫苗",
-        "description_zh": "圣安东尼奥省今年接种流感疫苗的人口统计数据较低，这令当局和机构感到担忧，尤其是... 阅读更多"
+        "title_zh": "李斯特菌食品警报：La Rotunda 奶酪已从市场下架",
+        "description_zh": "在 La Rotunda 黄油奶酪中发现李斯特菌后，Minsal 发布了全国警报，并开始召回该产品。了解受影响的批次以及为什么避免它是关键。"
     },
     {
-        "article_id": "f4d2866d90bc7ed4676f043bccdbcf2d",
-        "link": "https://oem.com.mx/elheraldodejuarez/local/que-es-un-panteon-ecologico-y-como-solicitar-este-servicio-en-ciudad-juarez-31647420",
-        "title": "¿Qué es un panteón ecológico y cómo solicitar este servicio en Ciudad Juárez?",
-        "description": "El concepto de un panteón ecológico busca ofrecer una alternativa a los servicios funerarios tradicionales,",
+        "article_id": "35288abf8353f7147c8f1e9dcb63108c",
+        "link": "https://mx.investing.com/news/forex-news/sube-precio-del-dolar-hoy-peso-mexicano-pierde-fuerza-pero-resiste-debajo-de-17-3739772",
+        "title": "Sube precio del Dólar hoy: Peso mexicano pierde fuerza, pero resiste debajo de 17",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "local"
-        ],
+        "keywords": null,
         "creator": [
-            "diana uzquiano"
+            "investing.com"
         ],
         "language": "spanish",
         "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:41:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-20 14:02:22",
+        "image_url": "https://content-media.investing.com/news/LYNXMPED0914O_M.jpg",
+        "video_url": null,
+        "source_id": "investing_mx",
+        "source_name": "Investing México",
+        "source_priority": 1205,
+        "source_url": "https://mx.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "今日美元价格上涨：墨西哥比索失势，但阻力于 17 下方",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "ebfb2816210958b0e695c55d3080dca2",
+        "link": "https://www.infobae.com/mexico/2026/08/20/eclipse-lunar-parcial-2026-cuando-y-a-que-hora-se-vera-la-luna-roja-en-mexico/",
+        "title": "Eclipse lunar parcial 2026: cuándo y a qué hora se verá la Luna roja en México",
+        "description": "El fenómeno astronómico podrá observarse a simple vista si las condiciones meteorológicas lo permiten",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "luna de sangre",
+            "fenómenos astronómicos",
+            "luna de agosto",
+            "eclipse solar",
+            "mexico-noticias"
+        ],
+        "creator": [
+            "lorna huitrón"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "united states of america",
+            "colombia",
             "mexico"
         ],
         "category": [
@@ -559,61 +553,11 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-19 13:36:32",
+        "pubDate": "2026-08-20 13:41:47",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 18:47:12",
-        "image_url": "https://oem.com.mx/elheraldodejuarez/img/31637289/1787077393/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-08-20 14:01:58",
+        "image_url": "https://www.infobae.com/resizer/v2/KV6YKJNOX5ANJA5JM45SBMNO2M.jpg?auth=778eaaf6f7e2a1da64b85e25dd5a50e5e2860a9ca90e8afccd83fb6bddd44fcb&smart=true&width=1920&height=1080",
         "video_url": null,
-        "source_id": "elheraldodejuarez_mx",
-        "source_name": "El Heraldo De Juárez",
-        "source_priority": 589221,
-        "source_url": "https://www.elheraldodejuarez.com.mx",
-        "source_icon": "https://n.bytvi.com/elheraldodejuarez_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "什么是生态万神殿以及如何在华雷斯城请求这项服务？",
-        "description_zh": "生态万神殿的概念旨在提供传统葬礼服务的替代方案，"
-    },
-    {
-        "article_id": "51aa7cb0b07d6094266b09ded7b11d7c",
-        "link": "https://www.infobae.com/espana/2026/08/19/ensalada-italiana-de-melon-la-receta-saludable-y-facil-de-hacer-que-es-perfecta-para-refrescarse-en-verano/",
-        "title": "Ensalada italiana de melón, la receta saludable y fácil de hacer que es perfecta para refrescarse en verano",
-        "description": "Con la fruta de temporada como ingrediente estrella y en solo 15 minutos se puede preparar un plato ligero, que es ideal como entrante o cena veraniega para los días de calor",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "recetas españa",
-            "recetas",
-            "españa-gastronomía",
-            "recetas saludables",
-            "españa noticias",
-            "frutas",
-            "ensaladas"
-        ],
-        "creator": [
-            "alejandra suárez"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "food",
-            "top"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-19 13:36:27",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 14:02:40",
-        "image_url": "https://www.infobae.com/resizer/v2/EQORHVUSJFDBRJ6XUMNAA3HQ2A.png?auth=749e278c2f8ee541e300cb9ef09c0e234e45d28668881909a6820ecd2fda5203&smart=true&width=2185&height=1229",
-        "video_url": "https://cdn.jwplayer.com/videos/dDZgRwJx-GEW42hld.mp4",
         "source_id": "infobae",
         "source_name": "Infobae",
         "source_priority": 1056,
@@ -626,39 +570,83 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "意大利冬瓜沙拉，健康又简单，最适合夏日清凉的菜谱",
-        "description_zh": "以时令水果为主角，只需 15 分钟，您就可以准备一道清淡的菜肴，非常适合作为开胃菜或炎热天气的夏季晚餐。"
+        "title_zh": "2026 年月偏食：墨西哥何时何地会看到红月亮",
+        "description_zh": "如果天气条件允许，可以用肉眼观察到这一天文现象。"
     },
     {
-        "article_id": "3bc18b0a1024cc126cd4190d62f8e86e",
-        "link": "https://www.tvazteca.com/aztecadeportes/el-america-almada-ya-muestra-la-mano-su-dt-la-mesa-los-protagonistas/",
-        "title": "¡Almada ya dejó su sello! ¿El América comienza a jugar como quiere su DT?",
-        "description": "América arrancó con fuerza bajo el mando de Guillermo Almada y ya hay señales de la identidad que el técnico uruguayo quiere imponer en Coapa. ¿Las Águilas ya juegan a su estilo?",
+        "article_id": "e0a0074ffa0ab290f442fb38df08a181",
+        "link": "https://elpinguino.com/noticia/2026/08/20/sin-velada-de-aniversario-se-quedo-el-liceo-sara-braun-por-desratizacion",
+        "title": "Sin velada de aniversario se quedó el Liceo Sara Braun por desratización",
+        "description": "El establecimiento debió aplazar la celebración de su 120° aniversario para realizar desratizaciones y evaluar problemas de infraestructura que afectarían al inmueble colindante de Casa Azul del Arte.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "los protagonistas"
+            "educación",
+            "regional"
+        ],
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:41:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-20 14:46:41",
+        "image_url": "https://elpinguino.com/uploads/images/large/360a7cc2793c04217a7afcf55ebebe3c.png",
+        "video_url": null,
+        "source_id": "elpinguino",
+        "source_name": "Elpinguino",
+        "source_priority": 415126,
+        "source_url": "https://elpinguino.com",
+        "source_icon": "https://n.bytvi.com/elpinguino.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "由于灭鼠工作，萨拉·布劳恩高中没有举行周年纪念晚会",
+        "description_zh": "该酒店不得不推迟 120 周年庆祝活动，以进行老鼠控制并评估可能影响邻近 Casa Azul del Arte 地产的基础设施问题。"
+    },
+    {
+        "article_id": "0ffdeeb12a2efad82c72f274ad1c2bc7",
+        "link": "https://www.vogue.mx/articulo/con-que-blusas-llevar-los-pantalones-de-los-70-que-regresaron-en-verano-2026",
+        "title": "Con qué blusas llevar los pantalones de los 70 que regresaron en verano 2026",
+        "description": "Así son las mejores blusas y pantalones de los 70 que regresan en verano 2026. Desde diseños de satén hasta de motivos de rayas, conoce los favoritos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "moda",
+            "moda / estilo vogue",
+            "primavera-verano 2026",
+            "pantalones",
+            "blusas"
         ],
         "creator": [
-            "azteca deportes"
+            "renata joffre"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "sports"
+            "entertainment"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-19 13:36:22",
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:41:38",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 14:35:12",
-        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/ef/ca/a4c9421e0253d11ae2515f9e1cfa/thumb-6a83cfbeba0ac61454b65116-1787023303469.jpg",
-        "video_url": "https://mdstrm.com/video/6a83cfbeba0ac61454b65116.m3u8",
-        "source_id": "tvazteca",
-        "source_name": "Azteca Deportes",
-        "source_priority": 17594,
-        "source_url": "https://www.tvazteca.com",
-        "source_icon": "https://n.bytvi.com/tvazteca.png",
+        "fetched_at": "2026-08-20 13:54:19",
+        "image_url": "https://media.vogue.mx/photos/6821e6dc6c2725083d2fe157/master/pass/gafas-de-sol-Jackie-Kennedy-primavera.jpg",
+        "video_url": null,
+        "source_id": "vogue",
+        "source_name": "Vogue",
+        "source_priority": 2581,
+        "source_url": "https://www.vogue.com",
+        "source_icon": "https://n.bytvi.com/vogue.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -666,88 +654,44 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "阿尔马达已经留下了印记！美国队是否开始按照教练想要的方式比赛？",
-        "description_zh": "美国队在吉列尔莫·阿尔马达的带领下强势开局，已经有迹象表明这位乌拉圭教练希望在美洲杯上强加自己的身份。老鹰队已经打出了自己的风格吗？"
+        "title_zh": "2026年夏季回归的70年代裤子搭配什么上衣",
+        "description_zh": "这些 70 年代最好的衬衫和裤子将于 2026 年夏季回归。从缎面设计到条纹图案，了解最受欢迎的款式。"
     },
     {
-        "article_id": "bcd415945cc7bfcf18f4f72ed3b613cf",
-        "link": "https://www.infobae.com/mexico/2026/08/19/flor-amargo-queda-en-shock-tras-choque-con-vehiculo-oficial-de-san-juan-del-rio-que-bueno-que-no-mori/",
-        "title": "Flor Amargo queda en shock tras choque con vehículo oficial de San Juan del Río: “Qué bueno que no morí”",
-        "description": "La cantante exhibió en redes sociales el percance ocurrido en Tequisquiapan y cuestionó el proceder tras el impacto por alcance",
+        "article_id": "e80c3ae76b7de8b17b05f763c2e30b62",
+        "link": "https://www.vanguardia.com/colombia/2026/08/20/en-video-policia-se-salva-de-ser-degollado-tras-brutal-ataque-con-cuchillo-dentro-de-un-cai-en-bogota/",
+        "title": "En video: Policía se salva de ser degollado tras brutal ataque con cuchillo dentro de un CAI en Bogotá",
+        "description": "La situación llevó al agente a sacar su arma de dotación.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "mexico-noticias",
-            "mexico-entretenimiento",
-            "san juan del río",
-            "querétaro",
-            "flor amargo"
+            "salud mental",
+            "policía",
+            "cai de la policía",
+            "video viral",
+            "cuchillo"
         ],
         "creator": [
-            "miriam estrella"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-19 13:36:20",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 14:02:40",
-        "image_url": "https://www.infobae.com/resizer/v2/EBIXH6E3E5EVLMTY2WXYPBO5QE.jpg?auth=a9c4b47769265a4433c10b1ebf36a8375c8a9e3bd13f82b6c5426f0be15a01ed&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/t5dwskwU-Gfos2MgV.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "弗洛尔·阿马戈在与圣胡安德尔里奥的一辆官方车辆相撞后感到震惊：“幸好我没有死”",
-        "description_zh": "这位歌手在社交网络上展示了特基斯基亚潘发生的事故，并对由于到达影响后的程序提出质疑"
-    },
-    {
-        "article_id": "2865008afc4539ced2062bd72e4cbf75",
-        "link": "https://www.elnuevodia.com.co/tolima/este-sera-el-paso-seguir-tras-el-terremoto-y-los-incendios-en-tolima-538890",
-        "title": "Este será el paso a seguir tras el terremoto y los incendios en Tolima",
-        "description": "Este será el paso a seguir tras el terremoto y los incendios en Tolima jorjuela Mié, 19/08/2026 - 08:36 Fecha nodo Mié, 19/08/2026 - 08:36 Image /sites/default/files/imagenes/2026/08/NOTA%204_%20As%C3%AD%20ser%C3%A1%20el%20plan%20para%20reconstruir%20viviendas%20tras%20las%20emergencias.jpg Body Tras el terremoto y los incendios forestales que han golpeado al Tolima, la Gobernación propuso crear un fondo mixto para apoyar a las familias afectadas. La iniciativa fue planteada por la gobernadora Adriana Magali Matiz y busca sumar recursos públicos y privados para reparar viviendas y atender otras necesidades. Roncesvalles y San Luis están entre los municipios más afectados. Una ayuda que busca llegar a las familias afectadas La propuesta parte de una realidad que todavía enfrentan cientos de familias: viviendas averiadas, cultivos perdidos y comunidades que necesitan apoyo después de las emergencias. La Gobernación plantea reunir al sector público y empresarial para conseguir recursos y materiales destinados a la recuperación. “Necesitamos ayudar a todos los hermanos del departamento”, señaló Adriana Magali Matiz, al referirse a las necesidades que persisten en municipios como Valle de San Juan, Guamo y Ortega, además de las afectaciones ocasionadas por los incendios. Según la mandataria, los incendios han afectado más de 10.000 hectáreas, mientras que el terremoto dejó más de 1.000 familias afectadas en el departamento. La recuperación, explicó, no solo implica reconstruir viviendas, sino también atender las pérdidas productivas y laborales. Roncesvalles, entre los municipios más golpeados En el caso del sismo, Roncesvalles concentra una de las mayores afectaciones, con más de 200 viviendas que presentan daños. La situación ha obligado a varias familias a permanecer fuera de sus hogares mientras se determina qué intervenciones requieren sus casas. Por los incendios, San Luis enfrenta uno de los escenarios más complejos: allí las llamas consumieron cerca de 5.000 hectáreas y afectaron a 10 viviendas. La propuesta del fondo busca que la respuesta no termine con la atención de la emergencia, sino que permita avanzar hacia la recuperación de las comunidades. “Convoqué a todos los gremios, a todos los empresarios del departamento para la conformación de un fondo mixto de reconstrucción del departamento”, afirmó Matiz, quien espera que la iniciativa permita sumar esfuerzos del sector público y privado. Mientras se concreta esta propuesta, las autoridades también pidieron a la ciudadanía evitar la difusión de información falsa relacionada con las emergencias y verificar cualquier reporte a través de los canales oficiales. Creado por Redacción Tolima",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tolima"
-        ],
-        "creator": [
-            "jorjuela"
+            "redacción vanguardia"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "environment",
+            "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-19 13:36:06",
+        "pubDate": "2026-08-20 13:41:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 15:04:34",
-        "image_url": "https://www.elnuevodia.com.co/sites/default/files/styles/galeria_1200x600_/public/imagenes/2026/08/NOTA%204_%20As%C3%AD%20ser%C3%A1%20el%20plan%20para%20reconstruir%20viviendas%20tras%20las%20emergencias.jpg?itok=rwz-YLX7",
+        "fetched_at": "2026-08-20 14:05:52",
+        "image_url": "https://www.vanguardia.com/resizer/v2/QYGXUQBXERE2BLEF5M6SNNC67Q.jpg?auth=76484358093939e401cd7346243bd8973fc6aba3388461cc4bee0c512e526d09&smart=true&width=1280&height=733",
         "video_url": null,
-        "source_id": "elnuevodia",
-        "source_name": "El Nuevo Día",
-        "source_priority": 14300,
-        "source_url": "https://www.elnuevodia.com",
-        "source_icon": "https://n.bytvi.com/elnuevodia.jpg",
+        "source_id": "vanguardia",
+        "source_name": "Vanguardia",
+        "source_priority": 24302,
+        "source_url": "https://vanguardia.com.mx",
+        "source_icon": "https://n.bytvi.com/vanguardia.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -755,96 +699,137 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "这将是托利马地震和火灾后应采取的步骤",
-        "description_zh": "这将是托利马约胡埃拉发生地震和火灾后应采取的步骤 星期三，08/19/2026 - 08:36 节点日期 星期三，08/19/2026 - 08:36 图片/sites/default/files/imagenes/2026/08/NOTA%204_%20As%C3%AD%20ser%C3%A1%20the%20plan%20para%20reconstruir%20housing%20tras%20las%20emergencias.jpg 正文"
+        "title_zh": "视频中：波哥大 CAI 内发生残酷持刀袭击后，一名警察免遭斩首",
+        "description_zh": "这种情况导致特工拿出了他的服务武器。"
     },
     {
-        "article_id": "2069c9e71b0936d0cacf200adb4956dd",
-        "link": "https://jornaldebrasilia.com.br/noticias/mundo/ataque-israelense-contra-delegacia-em-gaza-deixa-sete-mortos-afirmam-fontes-palestinas/",
-        "title": "Ataque israelense contra delegacia em Gaza deixa sete mortos, afirmam fontes palestinas",
-        "description": "As autoridades de saúde de Gaza afirmaram que um ataque israelense contra uma sede da polícia municipal matou sete pessoas e deixou vários feridos nesta quarta-feira. O Hospital Al Shifa, na Cidade de Gaza, informou que recebeu sete corpos e pelo menos 22 feridos após o ataque. A agência de resgate da Defesa Civil do território palestino confirmou o número de mortos. AFP",
+        "article_id": "5d0ca94cc4d7e505a10027cecbd8bd47",
+        "link": "https://www.epicentrochile.com/2026/08/20/persecucion-en-nunoa-detienen-a-banda-con-inhibidor-de-senal-tras-intentar-robar-un-automovil/",
+        "title": "Persecución en Ñuñoa: Detienen a banda con inhibidor de señal tras intentar robar un automóvil",
+        "description": "Tres hombres de nacionalidad chilena con antecedentes policiales fueron detenidos por Carabineros tras intentar sustraer un automóvil en calle La Proa, comuna de Ñuñoa. La persecución concluyó en avenida Grecia con Ramón Cruz, donde se les incautó una radio inhibidora de señal, herramientas y un computador. La entrada Persecución en Ñuñoa: Detienen a banda con inhibidor de señal tras intentar robar un automóvil aparece primero en Epicentro Chile .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "mundo",
-            "gaza",
-            "ataque",
-            "israel"
+            "persecución policial",
+            "región metropolitana",
+            "ñuñoa",
+            "region metropolitana",
+            "seguridad pública",
+            "carabineros de chile",
+            "robo de vehículos",
+            "policial santiago",
+            "ministerio publico"
         ],
         "creator": [
-            "redação jornal de brasília"
-        ],
-        "language": "portuguese",
-        "country": [
-            "colombia",
-            "mexico",
-            "brazil",
-            "peru",
-            "spain",
-            "chile",
-            "venezuela",
-            "argentina",
-            "united states of america",
-            "portugal"
-        ],
-        "category": [
-            "world"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-19 13:36:01",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 13:52:25",
-        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/07/22174131/afp-20251019-79bh7zq-v3-midres-topshotpalestinianisraelconflictgaza.jpg",
-        "video_url": null,
-        "source_id": "jornaldebrasilia",
-        "source_name": "Jornal De Brasília",
-        "source_priority": 1815808,
-        "source_url": "https://jornaldebrasilia.com.br",
-        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "巴勒斯坦消息人士称，以色列对加沙警察局的袭击造成七人死亡",
-        "description_zh": "加沙卫生当局表示，以色列周三袭击了市警察总部，造成七人死亡，多人受伤。加沙城的阿尔希法医院表示，袭击发生后，该医院收到了七具尸体，至少有 22 人受伤。资源机构"
-    },
-    {
-        "article_id": "d1c50721f431ed9eef64a1be7b870fc0",
-        "link": "https://www.elrancaguino.cl/2026/08/19/venezuela-registra-un-nuevo-terremoto-de-magnitud-superior-a-4-en-la-guaira/",
-        "title": "Venezuela registra un nuevo terremoto de magnitud superior a 4 en La Guaira",
-        "description": "(EUROPA PRESS) – Venezuela ha registrado este martes un nuevo terremoto con epicentro en La Guaira, que de momento no ha dejado víctimas ni grandes afectaciones, según ha informado la presidenta encargada, Delcy Rodríguez, que ha precisado que el temblor es de magnitud superior a 4. «Quiero informar que se registró un seísmo sentido, con [...] El artículo Venezuela registra un nuevo terremoto de magnitud superior a 4 en La Guaira se publicó primero en El Rancagüino .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "terremoto",
-            "sismo",
-            "internacional",
-            "la guaira",
-            "venezuela"
-        ],
-        "creator": [
-            "maría fernanda cabrera garcía"
+            "sebastián araya"
         ],
         "language": "spanish",
         "country": [
             "chile"
         ],
         "category": [
-            "environment",
+            "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-19 13:35:54",
+        "pubDate": "2026-08-20 13:41:36",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-19 13:42:57",
-        "image_url": "https://www.elrancaguino.cl/wp-content/uploads/2026/08/seismic-activity-earthquake-venezuela-map-richter-scale_559531-21904-scaled.avif",
+        "fetched_at": "2026-08-20 13:51:05",
+        "image_url": "https://www.epicentrochile.com/wp-content/uploads/2026/08/carabineros_robo.webp",
         "video_url": null,
-        "source_id": "elrancaguino_cl",
-        "source_name": "El Rancagüino",
-        "source_priority": 236223,
-        "source_url": "https://www.elrancaguino.cl",
-        "source_icon": "https://n.bytvi.com/elrancaguino_cl.jpg",
+        "source_id": "epicentrochile",
+        "source_name": "Epicentro Chile",
+        "source_priority": 1163442,
+        "source_url": "https://www.epicentrochile.com",
+        "source_icon": "https://n.bytvi.com/epicentrochile.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "努尼阿省的迫害：一伙试图偷车后被信号干扰器逮捕",
+        "description_zh": "三名有警察记录的智利籍男子在努尼阿公社的拉普罗亚街试图偷车后被宪兵逮捕。这场追捕最终在格雷西亚大道上与拉蒙·克鲁兹 (Ramón Cruz) 结束，并缴获了一台信号抑制收音机和工具。"
+    },
+    {
+        "article_id": "00300b44ac44e5bf7b5dc20e28ba8ed2",
+        "link": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-envio-mensaje-directo-a-su-equipo-durante-el-primer-consejo-de-ministros-la-publicacion-llamo-la-atencion/202634/",
+        "title": "Abelardo De La Espriella envió mensaje directo a su equipo durante el primer consejo de ministros; la publicación llamó la atención",
+        "description": "El presidente enfocó la reunión de alto nivel en la emergencia por la que está atravesando Colombia por el terremoto.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "consejo de ministros",
+            "abelardo de la espriella",
+            "mensaje"
+        ],
+        "creator": [
+            "javier barragán ramos"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:41:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-20 14:12:38",
+        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/YRCH5ETAURFQFNPFBDGYQ6ASJM.jpg?auth=ecca3891ae24ae13488aee853d212540e4d39978402ada36e9f599d5f384a2b3&smart=true&width=1600&height=1200",
+        "video_url": null,
+        "source_id": "semana",
+        "source_name": "Semana",
+        "source_priority": 15867,
+        "source_url": "https://www.semana.com",
+        "source_icon": "https://n.bytvi.com/semana.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "阿韦拉多·德拉埃斯普里埃拉（Abelardo De La Espriella）在第一次部长会议期间向他的团队发出了直接信息；刊物引起关注",
+        "description_zh": "总统在高级别会议上重点讨论了哥伦比亚因地震而面临的紧急情况。"
+    },
+    {
+        "article_id": "e934dabeaefc46a8aca1d4662d9fce89",
+        "link": "https://www.elheraldo.co/deportes/2026/08/20/max-verstappen-renueva-con-red-bull-hasta-2030-y-acaba-con-las-especulaciones-de-mercado/",
+        "title": "Max Verstappen renueva con Red Bull hasta 2030 y acaba con las especulaciones de mercado",
+        "description": "El piloto neerlandés llegó a Red Bull en 2014 en el programa junior de la compañía y, desde que debutara en la Fórmula Uno con el primer equipo en 2016, ha conseguido levantar cuatro títulos de campeón del mundo consecutivos, el primero de ellos en 2021, con el que consiguió poner fin a la hegemonía de Mercedes y del británico Lewis Hamilton.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "red-bull",
+            "f1",
+            "max-verstappen",
+            "formula-uno",
+            "2030",
+            "renovacion",
+            "formula-1"
+        ],
+        "creator": [
+            "agencia efe"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:41:27",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-20 14:07:30",
+        "image_url": "https://www.elheraldo.co/resizer/v2/MOJ5TLOEVBEUHH2DUDLXE3AOMY.jpg?auth=0bda431472dbf971adaf13ff097f05430b4b9d456392b73a6a9ef106d11c0cf3&smart=true&width=1890&height=1093",
+        "video_url": null,
+        "source_id": "elheraldo",
+        "source_name": "Elheraldo",
+        "source_priority": 38752,
+        "source_url": "https://www.elheraldo.co",
+        "source_icon": "https://n.bytvi.com/elheraldo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -852,7 +837,57 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
-        "title_zh": "委内瑞拉拉瓜伊拉再次发生4级以上地震",
-        "description_zh": "（欧洲新闻） - 本周二，委内瑞拉发生了新的地震，震中位于拉瓜伊拉，据负责总统德尔西·罗德里格斯报道，目前尚未造成任何人员伤亡或重大损失，他指出地震震级大于 4 级。“我想通知您"
+        "title_zh": "马克斯·维斯塔潘与红牛续约至2030年，结束了市场猜测",
+        "description_zh": "这位荷兰车手于 2014 年加入红牛公司的青少年项目，自 2016 年随一线队首次亮相一级方程式赛车以来，他已连续四次赢得世界冠军头衔，其中第一个冠军头衔是在 2021 年，并以此结束了他的世界冠军生涯。"
+    },
+    {
+        "article_id": "aa01e53cde1a18eb49a4ac013617b9c5",
+        "link": "https://www.infobae.com/america/ciencia-america/2026/08/20/el-eclipse-lunar-de-agosto-2026-cuando-donde-y-como-ver-la-luna-de-sangre/",
+        "title": "El eclipse lunar de agosto 2026: cuándo, dónde y cómo ver la “Luna de Sangre”",
+        "description": "El fenómeno astronómico se podrá observar en toda la Argentina, resto de América, Europa y África. Cómo observarlo mejor y entre qué horas se desarrollará",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "luna de sangre",
+            "eclipse",
+            "eclipse de luna",
+            "eclipse lunar",
+            "últimas noticias",
+            "astronomía",
+            "ciencia"
+        ],
+        "creator": [
+            "víctor ingrassia"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "united states of america",
+            "colombia",
+            "mexico"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-20 13:41:22",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-20 14:01:58",
+        "image_url": "https://www.infobae.com/resizer/v2/ULS3MIQHP5E6PIESZYKE3SMKJY.png?auth=25842508cec8167cccee7d06aa19f2138add89fd86d6d9e8e9a74008d114a8f7&smart=true&width=2752&height=1536",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://n.bytvi.com/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "2026 年 8 月月食：何时、何地以及如何观看“血月”",
+        "description_zh": "这种天文现象在阿根廷、美洲其他地区、欧洲和非洲都可以观测到。如何最好地观察它以及它会在什么时间之间发展"
     }
 ]
