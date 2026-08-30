@@ -1,39 +1,32 @@
 [
     {
-        "article_id": "7be8506f2fe0fa0df345f47a460b999e",
-        "link": "https://www.diariodecuyo.com.ar/san-juan/dolor-la-unsj-murio-eduardo-penafort-historico-profesor-y-referente-filosofia-n6581518",
-        "title": "Dolor en la UNSJ: murió Eduardo Peñafort, histórico profesor y referente de Filosofía",
-        "description": "La Facultad de Filosofía, Humanidades y Artes expresó su profundo pesar y dispuso asueto académico y administrativo. Peñafort dejó más de cuatro décadas de docencia, investigación y formación universitaria.",
+        "article_id": "42854f63c5792c0a614500d13af6e4a7",
+        "link": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/08/29/lenda-do-ciclismo-pogacar-erra-sofre-queda-forte-e-sangrando-abandona-a-volta-da-espanha.htm",
+        "title": "Lenda do ciclismo, Pogacar sofre queda forte, sangra e deixa a Volta da Espanha",
+        "description": "Lenda do ciclismo, Pogacar sofre queda forte, sangra e deixa a Volta da Espanha",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "unsj",
-            "ffha",
-            "eduardo peñafort",
-            "filosofía",
-            "fallecimiento"
-        ],
+        "keywords": null,
         "creator": [
-            "redacción diario de cuyo"
+            "agência estado"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
-            "education",
-            "top"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-28 18:41:00",
+        "pubDate": "2026-08-29 16:55:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:16:16",
-        "image_url": "https://media.diariodecuyo.com.ar/p/4b98452da927a6061a77e1f0fce52b6b/adjuntos/380/imagenes/100/332/0100332830/1200x675/smart/image.png",
+        "fetched_at": "2026-08-29 18:04:36",
+        "image_url": "https://imguol.com/c/esporte/b1/2026/08/29/pogacar-sofreu-ferimentos-no-corpo-inteiro-e-teve-que-abandonar-a-volta-da-espanha-1788023994970_v2_450x253.jpg",
         "video_url": null,
-        "source_id": "diariodecuyo",
-        "source_name": "Diario De Cuyo",
-        "source_priority": 394047,
-        "source_url": "https://www.diariodecuyo.com.ar",
-        "source_icon": "https://n.bytvi.com/diariodecuyo.jpg",
+        "source_id": "uol",
+        "source_name": "Uol",
+        "source_priority": 3498,
+        "source_url": "https://www.uol.com.br",
+        "source_icon": "https://n.bytvi.com/uol.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -45,14 +38,14 @@
         "description_zh": ""
     },
     {
-        "article_id": "ef500db1b6f7f6120cc5052f99458ff4",
-        "link": "https://www.terra.com.br/esportes/futebol/crystal-palace-x-manchester-city-onde-assistir-horario-e-escalacoes-na-premier-league,3aaa198de9dc780c9ab2a06f73ce1620x8ndj4zi.html",
-        "title": "Crystal Palace x Manchester City: Onde Assistir, Horário e Escalações na Premier League",
-        "description": "Crystal Palace x Manchester City medem forças na tarde desta sexta-feira (28) em duelo válido ...",
+        "article_id": "218d4668fcc310afafd8a76ee30641a9",
+        "link": "https://tribunadepetropolis.com.br/noticias/lenda-do-ciclismo-pogacar-erra-sofre-queda-forte-e-sangrando-abandona-a-volta-da-espanha/",
+        "title": "Lenda do ciclismo, Pogacar erra, sofre queda forte e, sangrando, abandona a Volta da Espanha",
+        "description": "Considerado por muitos como o melhor ciclista da história, o esloveno Tadej Pogacar sofreu uma forte queda neste sábado e teve que abandonar a Volta da Espanha, da qual era líder. O acidente aconteceu depois de um choque com outro competidor. O impacto foi muito forte e depois de cair no asfalto, Pogacar sangrou bastante [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "rti esporte"
+            "estadão conteúdo / estadão"
         ],
         "language": "portuguese",
         "country": [
@@ -62,16 +55,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-28 18:41:00",
+        "pubDate": "2026-08-29 16:55:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:05:20",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/08/28/894101723-crystal-palace-x-manchester-city-onde-assistir-escalacoes-premier-league-2026.jpg",
+        "fetched_at": "2026-08-29 17:46:15",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -83,118 +76,37 @@
         "description_zh": ""
     },
     {
-        "article_id": "ac5091c1dd473158a48e5bc67be27b0f",
-        "link": "https://www.terra.com.br/noticias/brasil/com-recorde-de-brasileiros-no-exterior-terapia-navegantes-oferece-apoio-a-imigrantes-em-40-paises,08cbff5d5e7976710c3a39d3210cffecsafy7b7t.html",
-        "title": "Com recorde de brasileiros no exterior, terapia Navegantes oferece apoio a imigrantes em 40 países",
-        "description": "O relatório consular anual do Itamaraty, divulgado no início de julho, contabilizou quase 5,3 ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "rfi"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:40:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:05:27",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/08/28/577531403-whatsapp-image-2026-08-28-at-12-38-20-1.jpg",
-        "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "41619cbbac245227fc3743a70ff90d77",
-        "link": "https://www.cnnbrasil.com.br/curiosidades/trend-do-fantasminha-entenda-como-o-papel-da-nova-brincadeira-flutua-por-meio-de-fenomenos-da-fisica/",
-        "title": "Trend do fantasminha: entenda como o papel da nova brincadeira flutua por meio de fenômenos da física",
-        "description": "Cilco de convecção e o empuxo fazem com que o guardanapo queimado decole até o teto",
+        "article_id": "3c7f21c7761ba3415eac5aec141c5e5a",
+        "link": "https://www.ole.com.ar/poli/video-definicion-final-mundial-hockey-cesped-femenino-argentina-leonas-vs-paises-bajos-holanda-tercera-estrella_0_FNPVk0n11M.html",
+        "title": "Video: la definición por penales que le dio la tercera estrella a Las Leonas",
+        "description": "Tras igualar 1-1 en el tiempo regular, la Selección Argentina de hockey sobre césped femenino derrotó 3-1 a Países Bajos en la definición 'a la australiana' y se consagró en Amstelveen, Holanda.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cnn curiosidades",
-            "trend",
-            "física",
-            "curiosidades"
+            "las leonas",
+            "selección argentina de hockey",
+            "paises bajos"
         ],
         "creator": [
-            "giovanna csiszar"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:40:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:59:49",
-        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/trend-dofantasminha.jpg?w=1200&h=1200&crop=1",
-        "video_url": null,
-        "source_id": "cnnbrasil_br",
-        "source_name": "Cnn Brasil",
-        "source_priority": 1209,
-        "source_url": "https://www.cnnbrasil.com.br",
-        "source_icon": "https://n.bytvi.com/cnnbrasil_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "3b06705dd064dbee3ce998974532c5eb",
-        "link": "https://lagacetadigital.com.ar/2026/08/28/la-municipalidad-avanza-con-el-plan-de-recategorizacion-de-sus-trabajadores/",
-        "title": "La Municipalidad avanza con el plan de recategorización de sus trabajadores",
-        "description": "El intendente Gastón Hissa destacó la política de reconocimiento de la carrera administrativa y entregó los decretos personales a trabajadores municipales que accedieron a una nueva categoría. El proceso ya alcanzó al 95% de los empleados que se encontraban en condiciones de ser recategorizados. La Municipalidad de San Luis continúa con el plan de recategorización [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "destacado"
-        ],
-        "creator": [
-            "la gaceta digital"
+            "www.ole.com.ar"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "business",
-            "top"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-28 18:40:50",
+        "pubDate": "2026-08-29 16:54:50",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 18:53:28",
-        "image_url": "https://lagacetadigital.com.ar/wp-content/uploads/2026/08/hissa-empleados.jpg",
+        "fetched_at": "2026-08-29 17:34:14",
+        "image_url": "https://www.ole.com.ar/images/2026/08/29/E1wIOXGYT_1200x630__1.jpg",
         "video_url": null,
-        "source_id": "lagacetadigital",
-        "source_name": "La Gaceta Digital",
-        "source_priority": 2868974,
-        "source_url": "https://lagacetadigital.com.ar",
-        "source_icon": "https://n.bytvi.com/lagacetadigital.png",
+        "source_id": "ole_ar",
+        "source_name": "Ole Ar",
+        "source_priority": 13161,
+        "source_url": "https://www.ole.com.ar",
+        "source_icon": "https://n.bytvi.com/ole_ar.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -206,15 +118,61 @@
         "description_zh": ""
     },
     {
-        "article_id": "260270c9b0896905708693488b739de0",
-        "link": "https://g1.globo.com/rr/roraima/noticia/2026/08/28/sete-pessoas-sao-presas-suspeitas-de-matar-e-carbonizar-jovem-apos-tribunal-do-crime-em-boa-vista.ghtml",
-        "title": "Sete pessoas são presas suspeitas de matar e carbonizar jovem após 'tribunal do crime' em Boa Vista",
-        "description": "Operação prende sete suspeitos de sequestro e assassinato em Boa Vista Sete pessoas, sendo três mulheres e quatro homens, foram presas pela Polícia Civil (PC) de Roraima, entre esta quarta (26) e quinta-feira (27), suspeitas de envolvimento no assassinato de Cauã Vinícius Castro da Silva, de 21 anos. O jovem foi encontrado carbonizado no bairro São Bento, zona Oeste de Boa Vista, no dia 31 de julho. ✅ Clique aqui para seguir o canal do g1 RR no WhatsApp Segundo a investigação, o crime foi motivado por uma disputa entre facções criminosas. A morte de Cauã foi decidida durante um \"tribunal do crime\" na Praça Germano Sampaio. Os suspeitos fizeram uma chamada de vídeo com lideranças do grupo de fora do estado, que determinaram a execução. A vítima teria integrado a facção criminosa, mas passou a ajudar uma facção rival. Após a \"condenação\", o jovem foi sequestrado e levado para o bairro São Bento, onde foi morto. As mulheres presas têm 29, 35 e 39 anos, os homens são de idades entre 21, 25, 29 e 37 anos) Corpo é encontrado carbonizado em terreno na zona Oeste de Boa Vista Para tentar apagar os rastros do crime, os suspeitos atearam fogo ao corpo. Moradores da região encontraram os restos mortais perto de uma estação de tratamento de esgoto. A Operação Castigare cumpriu mandados de prisão e de busca e apreensão em seis bairros da capital: Jardim Olímpico, Cruviana, Laura Moreira, São Bento, Cinturão Verde e Pintolândia. “É uma dinâmica de violência muito grande dentro dessas organizações. A mesma estrutura que determina a morte de uma pessoa também pode colocar outro integrante como alvo. Esse é um dos aspectos que conseguimos identificar durante a investigação”, disse o delegado João Evangelista, titular da Delegacia Geral de Homicídios (DGH). Durante a operação, a polícia descobriu que um dos investigados também era alvo do próprio grupo criminoso. O homem tinha um mandado de prisão pela morte de Cauã, mas estava foragido após escapar de outro \"tribunal do crime\", onde havia sido condenado à morte pelos comparsas. Um dos alvos, que já tinha mandado de prisão pelo homicídio, também foi preso em flagrante por tráfico de drogas. Os policiais encontraram maconha e uma balança de precisão com ele. Além dos presos, os agentes conduziram um adolescente de 17 anos encontrado com entorpecentes. A casa onde ele estava foi usada para o julgamento da vítima, de acordo com a polícia. Operação Castigare foi coordenada pela Delegacia Geral de Homicídios. Divulgação/Polícia Civil Coletiva Os detalhes da operação foram apresentados em coletiva de imprensa com a presença da delegada-geral da Polícia Civil, Simone Arruda, e da diretora do Departamento de Homicídio e Proteção à Pessoa (DHPP), Míriam Di Manso. A investigação foi coordenada por João Evangelista, junto com os delegados Thiago Alexandre e Carlos Henrique. A ação também teve apoio da Secretaria de Estado da Segurança Pública (Sesp) e de núcleos de inteligência. Policiais militares, a Perícia e o Corpo de Bombeiros estiveram no local. Vinicius Picanço/Rede Amazônica Leia outras notícias do estado no g1 Roraima.",
+        "article_id": "c0ac468ac4a8903a253811f723f02725",
+        "link": "https://www.ole.com.ar/velez/velez-visita-riestra-torneo-clausura_0_3hVZFbQ6lM.html",
+        "title": "Vélez visita a Riestra",
+        "description": "El Fortín no quiere perder pisada en la tabla anual y necesita un triunfo ante el Malevo. Seguilo en Olé.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "g1"
+            "deportivo riestra",
+            "vélez"
         ],
-        "creator": null,
+        "creator": [
+            "www.ole.com.ar"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:54:36",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 17:34:14",
+        "image_url": "https://www.ole.com.ar/images/2026/08/13/u3xJsyBvm_1200x630__1.jpg",
+        "video_url": null,
+        "source_id": "ole_ar",
+        "source_name": "Ole Ar",
+        "source_priority": 13161,
+        "source_url": "https://www.ole.com.ar",
+        "source_icon": "https://n.bytvi.com/ole_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "24faa315da6a466c9fcdfcd7c29f760e",
+        "link": "https://jornaldebrasilia.com.br/entretenimento/celebridades/katy-perry-diz-que-justin-trudeau-esta-em-outro-nivel-em-comparacao-a-ex-namorados/",
+        "title": "Katy Perry diz que Justin Trudeau está ‘em outro nível’ em comparação a ex-namorados",
+        "description": "RIO DE JANEIRO, RJ (FOLHAPRESS) Depois de meses de demonstrações públicas de afeto e de viagens românticas ao lado do ex-primeiro-ministro canadense Justin Trudeau, a cantora Katy Perry deu uma entrevista para divulgar \"Katy Perry: The Lifetimes Tour - Live From Paris\", produção sobre um show de sua recente turnê na capital francesa. O assunto não ficou restrito ao trabalho e ela falou com carinho sobre o namorado ao Entertainment Tonight. Embora não tenha criticado diretamente seus ex-parceiros, a maneira como descreveu o relacionamento atual tornou inevitável a comparação. Questionada sobre como é trazer agora \"o amor de sua vida\" para o próprio mundo, Perry contou que Trudeau se tornou uma presença importante, alguém com quem sabe que pode contar. \"Bem, ele simplesmente está lá para me apoiar\", disse. \"Já tive pessoas que foram aos meus shows antes, e parceiros que demonstravam apoio à sua maneira, mas ele definitivamente está em outro nível.\" Na mesma entrevista, Katy contou qual é a música dela que Trudeau mais gosta, a romântica 'Like the Movies': \"É a música favorita dele. E eu fico, tipo: 'não acredito que estou cantando isso. E eu escrevi isso há tanto tempo. E acho que escrevi isso sobre nós'.\" O entrevistador observou que a cantora já havia descrito \"Like the Movies\" como uma canção sobre o fim de um relacionamento, mas que agora ela parecia uma música de amor. Ela concordou imediatamente e disse que hoje a escuta de uma maneira completamente diferente. \"Com certeza é\", afirmou, acrescentando: \"Meu mundo parou de girar\". O comentário sobre estar em \"outro nível\" chama a atenção diante do histórico bastante público dos relacionamentos de Katy. Antes de Trudeau, ela foi casada com o comediante Russell Brand, de 2010 a 2012. O casamento durou apenas 14 meses, e a cantora descreveu o relacionamento como um período doloroso de sua vida. Ela depois namorou o cantor John Mayer antes de iniciar seu longo relacionamento com Orlando Bloom. Katy e Bloom começaram a namorar em 2016, separaram-se brevemente em 2017, reataram em 2018 e ficaram noivos no Dia dos Namorados de 2019. Eles tiveram uma filha em 2020, mas acabaram encerrando o relacionamento em 2025, depois de quase uma década juntos. Desde então, o ex-casal continua concentrado em criar Daisy de forma compartilhada. Trudeau tem três filhos com a ex-esposa, Sophie Grégoire Trudeau.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "justin trudeau",
+            "ex-namorados",
+            "katy perry",
+            "celebridades"
+        ],
+        "creator": [
+            "redação jornal de brasília"
+        ],
         "language": "portuguese",
         "country": [
             "brazil"
@@ -223,47 +181,46 @@
             "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-28 18:40:37",
+        "pubDate": "2026-08-29 16:54:28",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:04:27",
-        "image_url": "https://s2-g1.glbimg.com/v9j-4Lq6p5xTGYCJnqCGIS2QexU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/Y/Am6qeDRs2MHzUkPE19kg/castigare.png",
+        "fetched_at": "2026-08-29 17:22:07",
+        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/08/29135345/AFP__20260609__2280603444__v1__MidRes__KatyPerryTheLifetimesTourPremiere2026TribecaF.jpg",
         "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "source_id": "jornaldebrasilia",
+        "source_name": "Jornal De Brasília",
+        "source_priority": 1815808,
+        "source_url": "https://jornaldebrasilia.com.br",
+        "source_icon": "https://n.bytvi.com/jornaldebrasilia.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
+        "duplicate": true,
         "title_zh": "",
         "description_zh": ""
     },
     {
-        "article_id": "969f43668e27a76428a3b4469a6d67a2",
-        "link": "https://www.infobae.com/peru/2026/08/28/las-denuncias-por-mineria-ilegal-se-triplicaron-a-nivel-nacional-entre-2020-y-2025/",
-        "title": "Las denuncias por minería ilegal se triplicaron a nivel nacional entre 2020 y 2025",
-        "description": "En La Libertad, la tasa alcanzó 19 denuncias por cada 100 mil habitantes en 2025, casi tres veces el nivel de 2020. Además, a julio de 2026, la región registró la segunda tasa más alta de denuncias por extorsión del país",
+        "article_id": "f8b9df6f4650c7a1c10af74ecbc5d17b",
+        "link": "https://www.mejorinformado.com/nacionales/amigo-expresidente-alberto-fernandez-quedo-mira-justicia-federal_1788022467",
+        "title": "Un amigo del expresidente Alberto Fernández quedó en la mira de la Justicia federal",
+        "description": "Ariel Lijo dispuso un estudio contable para medir el impacto financiero por los contratos estatales. Héctor Martínez Sosa, bróker de seguros allegado al ex Presidente, quedó en el foco de la investigación.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "peru-opinion",
-            "minería ilegal",
-            "la libertad",
-            "ipe",
-            "reinfo"
+            "seguros",
+            "ariel lijo",
+            "nacionales",
+            "alberto fernández",
+            "corrupcion",
+            "administración fraudulenta",
+            "gobierno nacional"
         ],
         "creator": [
-            "maylith coronel"
+            "nicolás zenobio"
         ],
         "language": "spanish",
         "country": [
-            "mexico",
-            "united states of america",
-            "colombia",
             "argentina"
         ],
         "category": [
@@ -271,16 +228,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-28 18:40:32",
+        "pubDate": "2026-08-29 16:54:27",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:02:39",
-        "image_url": "https://www.infobae.com/resizer/v2/UV2NTO3S6FEPHH6L2GHBTMXHZM.jfif?auth=ead4aec65b5b627a759faaf83bd52258fbe045ace0509e370dca4ed7136592dc&smart=true&width=4096&height=2795",
+        "fetched_at": "2026-08-29 18:17:21",
+        "image_url": "https://pxcdn.mejorinformado.com/mejorinformado/082026/1788022322786/720--1-jpg..jpg?cw=320&ch=180",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "mejorinformado",
+        "source_name": "Mejorinformado",
+        "source_priority": 463646,
+        "source_url": "https://www.mejorinformado.com",
+        "source_icon": "https://n.bytvi.com/mejorinformado.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -292,492 +249,82 @@
         "description_zh": ""
     },
     {
-        "article_id": "40960156e9c11aa2262fcf46473eda6f",
-        "link": "https://g1.globo.com/go/goias/noticia/2026/08/28/tamandua-comove-ao-correr-desesperado-durante-incendio-em-goias-video.ghtml",
-        "title": "Tamanduá comove ao correr desesperado durante incêndio em Goiás; vídeo",
-        "description": "Tamanduá comove ao correr desesperado durante incêndio em Goiás; Um tamanduá-bandeira foi filmado correndo para fugir de um incêndio em uma área de vegetação próxima ao aeroporto de Anápolis na região central de Goiás. As imagens foram feitas por membros do Corpo de Bombeiros na quinta-feira (27). Nas imagens, o animal aparece tentando escapar das chamas enquanto o fogo avança pela região. Conforme os Bombeiros o animal consegiu se salvar. ✅ Clique e siga o canal do g1 GO no WhatsApp Segundo o biólogo Edson Abrão, o tamanduá-bandeira é uma espécie ameaçada e sofre com a perda de habitat, a redução de alimentos e as queimadas. “Ele foge do fogo a nível de se proteger, como qualquer outro animal silvestre”, explicou. De acordo com o biólogo, a pelagem do tamanduá-bandeira não faz com que ele seja mais sensível ao calor. Pelo contrário, os pelos ajudam a proteger o animal do excesso de calor e da desidratação durante o período seco. Ao g1 o biólogo explicou que espécie se alimenta principalmente de formigas e cupins. Nesse período de seca, há maior disponibilidade de alimento, já que esses insetos buscam folhas para levar às colônias. Segundo Edson o problema é que as queimadas e o desmatamento destroem o habitat do animal e reduzem a oferta de alimento. Tamandua foge de incêndio em Goiás Arquivo pessoal/ Soldado Filgueira Ação humana ameaça a espécie Segundo o biólogo, a principal ameaça ao tamanduá-bandeira é causada pela ação humana. O desmatamento, as queimadas e a destruição de áreas de alimentação reduzem o habitat e dificultam a sobrevivência e a reprodução da espécie. Ele alerta que, sem medidas de preservação e fiscalização mais eficientes, a população pode continuar diminuindo. Para o biólogo, é necessário reforçar o controle das áreas ambientais com tecnologias que permitam identificar rapidamente queimadas e desmatamentos. O biólogo acredita ainda que se nada por feito o animal poderá se completamente extinto nas próximas décadas. \"Ele é ameaçado principalmente antrópicas (humana). Isso afasta o habitate dele. Ele perde alimento, ele perde lugar de de de de esconder do calor\" disse o biólogo. LEIA TAMBÉM: Resgate emocionante: filhote de jaguatirica é encontrado com queimaduras no meio de incêndio Brigadista emociona ao dar água a lagarto que fugia de incêndio em parque de Goiás; vídeo Raposas filhotes são resgatadas e cuidadas por bombeiros após mãe morrer em incêndio; vídeo Queimadas ameaçam animais O período de estiagem aumenta o risco de incêndios em áreas de vegetação. Segundo o biólogo, além de destruir o habitat, o fogo pode matar animais que não conseguem escapar das chamas. “Quando chegamos em áreas já queimadas, encontramos alguns animais mortos pelas chamas”, relatou Sargento Ericsonn Sousa do Corpo de Bombeiros que acompanhou a ocorrência. Os bombeiros ainda explicam que no período de estiagem, a vegetação seca, baixa umidade e ventos podem fazer com que um pequeno foco se transforme rapidamente em um grande incêndio. Para o Sargento Ericsonn coorporação a melhor forma de combater um incêndio florestal é evitar que ele comece. 📱 Veja outras notícias da região no g1 Goiás.",
+        "article_id": "88e57bdc92a3da9ab9436e3ba6b01a6c",
+        "link": "https://www.eldiariodecarlospaz.com.ar/deportes/2026/8/29/las-leonas-hicieron-historia-y-se-consagraron-campeonas-del-mundo-258554.html",
+        "title": "Las Leonas hicieron historia y se consagraron campeonas del mundo",
+        "description": "El seleccionado argentino de hockey sobre césped femenino igualó 1-1 en tiempo reglamentario con Países Bajos y se impuso 3-1 en los penales para obtener su tercer título mundial",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "g1"
+            "países bajos",
+            "las leonas",
+            "hockey sobre césped"
         ],
-        "creator": null,
+        "creator": [
+            "el diario de carlos paz"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:53:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 21:20:52",
+        "image_url": "https://assets.eldiariodecarlospaz.com.ar/img/1788022411391-ielrd9.jpg",
+        "video_url": null,
+        "source_id": "eldiariodecarlospaz_ar",
+        "source_name": "El Diario De Carlos Paz",
+        "source_priority": 163091,
+        "source_url": "https://www.eldiariodecarlospaz.com.ar",
+        "source_icon": "https://n.bytvi.com/eldiariodecarlospaz_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "5704092c47df88d2095d7952deaafc76",
+        "link": "https://catracalivre.com.br/noticias/apenas-algumas-gotas-em-um-cotonete-restaurarao-o-brilho-original-dos-seus-interruptores-amarelados-em-minutos/",
+        "title": "Apenas algumas gotas em um cotonete restaurarão o brilho original dos seus interruptores amarelados em minutos",
+        "description": "Vinagre diluído ajuda a remover gordura e sujeira de interruptores amarelados. Algumas gotas no cotonete bastam, mas a energia deve ficar desligada durante a limpeza. O post Apenas algumas gotas em um cotonete restaurarão o brilho original dos seus interruptores amarelados em minutos apareceu primeiro em Catraca Livre .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "cotonete",
+            "brilho",
+            "interruptor",
+            "notícias"
+        ],
+        "creator": [
+            "carlos emanoel freires dos santos"
+        ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
             "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:40:21",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:05:31",
-        "image_url": "https://s2-g1.glbimg.com/QcfVLstC6udhsnQGgHgHq12XHi8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/u/2KyRV6RzWnlUPxibNTWw/foto-tamandua-correndo.jpg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "5f8992b77cb023919ffc5707aded6517",
-        "link": "https://cnnespanol.cnn.com/2026/08/28/eeuu/problemas-ranking-presidentes-donald-trump-trax",
-        "title": "Trump clasificó a los presidentes de EE.UU. de “el mejor” a “fracasos” y desconcertó a su base",
-        "description": "La clasificación de Donald Trump sobre los presidentes de Estados Unidos genera dudas por las posiciones que asigna a figuras históricas y por la ausencia de varios mandatarios, incluidos algunos presidentes republicanos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "donald trump",
-            "presidentes de estados unidos"
-        ],
-        "creator": [
-            "aaron blake"
-        ],
-        "language": "spanish",
-        "country": [
-            "bolivia",
-            "costa rica",
-            "guinea",
-            "spain",
-            "colombia",
-            "cuba",
-            "mexico",
-            "el salvador",
-            "nicaragua",
-            "dominican republic",
-            "venezuela",
-            "guatemala",
-            "panama",
-            "argentina",
-            "ecuador",
-            "honduras",
-            "uruguay",
-            "paraguay",
-            "peru",
-            "chile",
-            "puerto rico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-28 18:40:14",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:04:37",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-08-28-112926.png?c=original/w_800",
-        "video_url": "https://clips-media-aka.warnermediacdn.com/cnn/clips/2026-08/2347690-036b03455cfe41df9016b9fddd7648f8/mp4/donald-trump-reporte-elecciones-2020-biden-orix-2347690-1920x1080_8000k.mp4",
-        "source_id": "cnnespanol",
-        "source_name": "Cnn",
-        "source_priority": 16314,
-        "source_url": "https://cnnespanol.cnn.com",
-        "source_icon": "https://n.bytvi.com/cnnespanol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "69c14ed7ad2e1c0f0d1545ec20db9d73",
-        "link": "https://elintransigente.com/2026/08/endrick-real-madrid-futuro/",
-        "title": "Fabrizio Romano confirmó el futuro de Endrick tras los rumores que reinaban en Madrid",
-        "description": "El delantero brasileño rechazó propuestas de clubes europeos y afrontará la competencia interna por un lugar en el ataque. The post Fabrizio Romano confirmó el futuro de Endrick tras los rumores que reinaban en Madrid appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "endrick",
-            "fabrizio romano",
-            "deportes",
-            "real madrid",
-            "mercado de pases"
-        ],
-        "creator": [
-            "santiago gorostiaga"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:40:07",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 18:54:18",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/08/Endrick-1.webp?fit=1200%2C740&quality=95&ssl=1",
-        "video_url": null,
-        "source_id": "elintransigente",
-        "source_name": "El Intransigente",
-        "source_priority": 3446332,
-        "source_url": "https://elintransigente.com",
-        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "53a6199b571a1029fba81567efa3f2fd",
-        "link": "https://www.informador.mx/deportes/rafael-marquez-confirma-a-andres-guardado-como-parte-de-su-cuerpo-tecnico-en-la-seleccion-mexicana-20260828-0089.html",
-        "title": "Márquez confirma a Guardado como parte de su cuerpo técnico en el Tri",
-        "description": "El excapitán del Tri se incorpora al nuevo proyecto junto a Juan Manuel Lillo y Vidal Paloma",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "deportes"
-        ],
-        "creator": [
-            "oralialópez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:41:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:05:03",
-        "image_url": "https://www.informador.mx/__export/1787942423850/sites/elinformador/img/2026/08/28/imago-696364_version1787942422968.jpg_865837646.jpg",
-        "video_url": null,
-        "source_id": "informador_mx",
-        "source_name": "Informador Mx",
-        "source_priority": 27025,
-        "source_url": "https://www.informador.mx",
-        "source_icon": "https://n.bytvi.com/informador_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "8b3ec4556d8f44716f39ec2a26b7b3e4",
-        "link": "https://pulsoslp.com.mx/slp/que-es-el-escalon-universal-que-propone-slp/2080474",
-        "title": "Qué es el escalón universal que propone SLP",
-        "description": "Comisión del Congreso de SLP avaló incorporar escalones de baja altura en hospitales, bancos, hoteles y otros espacios de servicio.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "qué es el escalón universal que propone slp"
-        ],
-        "creator": [
-            "pulso slp"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:41:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 22:53:59",
-        "image_url": "https://blobcore.pulsoslp.com.mx/images/2026/08/28/comision-avala-escalones-accesibles-para-personas-de-talla-baja-efafe4ed-focus-0-0-600-315.webp",
-        "video_url": null,
-        "source_id": "pulsoslp_mx",
-        "source_name": "Pulso Diario San Luis",
-        "source_priority": 3206842,
-        "source_url": "https://www.pulsoslp.com.mx",
-        "source_icon": "https://n.bytvi.com/pulsoslp_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "cc963fdcaedd19c44709bdec3a4689b0",
-        "link": "https://periodicolavoz.com.mx/coahuila/monclova/maria-elena-padilla-sobre-clausura-en-santa-barbara/380524",
-        "title": "Sorprende a vecina clausura de anexo",
-        "description": "La clausura del anexo sorprendió a los vecinos de Santa Bárbara, quienes no reportaron molestias.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mar&#237;a elena padilla",
-            "vecinos colonia santa b&#225;rbara",
-            "polic&#237;a clausura anexo",
-            "clausura anexo santa b&#225;rbara",
-            "anexo una vida nueva es posible"
-        ],
-        "creator": [
-            "diana ortiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:41:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-29 02:46:31",
-        "image_url": "https://blobcore.periodicolavoz.com.mx/images/2026/08/29/diana-52-2-1c086d7c.jpeg",
-        "video_url": null,
-        "source_id": "periodicolavoz_mx",
-        "source_name": "Periodicolavoz Mx",
-        "source_priority": 462138,
-        "source_url": "https://periodicolavoz.com.mx",
-        "source_icon": "https://n.bytvi.com/periodicolavoz_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "5eefba21f8b96e925a5143641710a53c",
-        "link": "https://forbes.com.mx/estos-son-los-tenistas-mejor-pagados-del-mundo-en-2026/",
-        "title": "Estos son los tenistas mejor pagados del mundo en 2026",
-        "description": "Gracias en parte al regreso de Serena Williams, por primera vez hay más mujeres que hombres entre los diez que más ganan en el deporte, que recaudaron un total de 333 mdd durante el año pasado.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "selección forbes",
-            "tenistas mejor pagados"
-        ],
-        "creator": [
-            "brett knight"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:40:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:05:28",
-        "image_url": "https://cdn.forbes.com.mx/2026/08/tenistas-mejor-pagados.webp",
-        "video_url": null,
-        "source_id": "forbes_mx",
-        "source_name": "Forbes Mx",
-        "source_priority": 23981,
-        "source_url": "https://www.forbes.com.mx",
-        "source_icon": "https://n.bytvi.com/forbes_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "fad5a85504fdcdc9de54886ba15b475e",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/08/28/como-viajaba-el-dinero-de-genaro-garcia-luna-uif-revela-ruta-entre-mexico-barbados-y-miami/",
-        "title": "¿Cómo ‘viajaba’ el dinero de Genaro García Luna? UIF revela ruta entre México, Barbados y Miami",
-        "description": "El Gobierno de México recuperó 5.8 millones de dólares de activos vinculados a la trama de corrupción de García Luna.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "chp",
-            "unidad de inteligencia financiera",
-            "corrupción de genaro garcía luna",
-            "trama de corrupción de genaro garcía luna",
-            "dinero de genaro garcía luna",
-            "barbados y miami",
-            "omar reyes colmenares",
-            "omar reyes titular de la uif",
-            "empresas fachada",
-            "genaro garcía luna detenido en eu",
-            "corrupción entre méxico",
-            "exsecretario de seguridad"
-        ],
-        "creator": [
-            "redacción"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:40:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:01:57",
-        "image_url": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/mwNrNmfz-xh6FYS3n5RBWIgj8DM=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6QYJURIBHJACTP2QUY73KUJ6FY.jpg",
-        "video_url": null,
-        "source_id": "elfinanciero",
-        "source_name": "El Financiero",
-        "source_priority": 6218,
-        "source_url": "https://www.elfinanciero.com.mx",
-        "source_icon": "https://n.bytvi.com/elfinanciero.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "6bfaa0bb236cbb391025ab8a164a028d",
-        "link": "https://www.publimetro.co/deportes/2026/08/28/cierre-de-tribunas-y-restricciones-a-barras-las-medidas-de-bogota-tras-los-disturbios-en-el-campin/",
-        "title": "Cierre de tribunas y restricciones a barras: las medidas de Bogotá tras los disturbios en El Campín",
-        "description": "La comisión dio a conocer la resolución para estos lamentables actos de violencia en el máximo escenario deportivo de la capital.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "bogota",
-            "santa fe"
-        ],
-        "creator": [
-            "julián alzate"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:40:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 18:45:51",
-        "image_url": "https://www.publimetro.co/resizer/v2/PFR6UTD6FRBFDMDAWYVMMR6CMU.jpg?auth=619a2ec9889e3cd97e99f54edf867c09e945a7b2c1f10c0f9dce7a9d1546f76c&smart=true&width=1200&height=660",
-        "video_url": null,
-        "source_id": "publimetro_co",
-        "source_name": "Publimetro Colombia",
-        "source_priority": 371455,
-        "source_url": "https://www.publimetro.co",
-        "source_icon": "https://n.bytvi.com/publimetro_co.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "969f43668e27a76428a3b4469a6d67a2",
-        "link": "https://www.infobae.com/peru/2026/08/28/las-denuncias-por-mineria-ilegal-se-triplicaron-a-nivel-nacional-entre-2020-y-2025/",
-        "title": "Las denuncias por minería ilegal se triplicaron a nivel nacional entre 2020 y 2025",
-        "description": "En La Libertad, la tasa alcanzó 19 denuncias por cada 100 mil habitantes en 2025, casi tres veces el nivel de 2020. Además, a julio de 2026, la región registró la segunda tasa más alta de denuncias por extorsión del país",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "peru-opinion",
-            "minería ilegal",
-            "la libertad",
-            "ipe",
-            "reinfo"
-        ],
-        "creator": [
-            "maylith coronel"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico",
-            "united states of america",
-            "colombia",
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-28 18:40:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:02:39",
-        "image_url": "https://www.infobae.com/resizer/v2/UV2NTO3S6FEPHH6L2GHBTMXHZM.jfif?auth=ead4aec65b5b627a759faaf83bd52258fbe045ace0509e370dca4ed7136592dc&smart=true&width=4096&height=2795",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "d761cedbdc32d31a9a866c7a4d715bdc",
-        "link": "https://www.sdpnoticias.com/internacional/muere-a-los-34-anos-omukama-oyo-nyimba-quien-fue-el-rey-mas-joven-del-mundo/",
-        "title": "Muere a los 34 años Omukama Oyo Nyimba, quien fue el rey más joven del mundo",
-        "description": "El rey más joven del mundo Omukama Oyo Nyimba ha muerto a los 34 años, no se reveló la causa.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "muertes 2026",
-            "áfrica"
-        ],
-        "creator": [
-            "andrea luices"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
             "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-28 18:40:21",
+        "pubDate": "2026-08-29 16:53:27",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:08:19",
-        "image_url": "https://www.sdpnoticias.com/resizer/v2/F6XEVUNTDZDMXKG2CHOPHAFWVY.jpeg?smart=true&auth=8e56640464b7cc2476fb489099555068e05b202c6188220bbdba12831b403d21&width=1440&height=810",
+        "fetched_at": "2026-08-29 17:04:00",
+        "image_url": "https://catracalivre.com.br/wp-content/uploads/2026/08/cleaning-wall-light-switch-202608291057.jpeg",
         "video_url": null,
-        "source_id": "sdpnoticias",
-        "source_name": "Sdp Noticias",
-        "source_priority": 59718,
-        "source_url": "https://www.sdpnoticias.com",
-        "source_icon": "https://n.bytvi.com/sdpnoticias.png",
+        "source_id": "catracalivre_br",
+        "source_name": "Catraca Livre",
+        "source_priority": 20092,
+        "source_url": "https://catracalivre.com.br",
+        "source_icon": "https://n.bytvi.com/catracalivre_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -789,37 +336,76 @@
         "description_zh": ""
     },
     {
-        "article_id": "969dfe891f4b517d47efcb1ad5b17e77",
-        "link": "https://caracol.com.co/2026/08/28/el-deporte-es-el-antidoto-contra-la-violencia-de-la-espriella-por-donacion-de-millon-de-dolares/",
-        "title": "“El deporte es el antídoto contra la violencia”: De la Espriella por donación de millón de dólares",
-        "description": "El presidente Abelardo de la Espriella destacó el aporte realizado por la Confederación Sudamericana de Fútbol, Conmebol, para atender a los afectados por el terremoto y fortalecer iniciativas dirigidas a los jóvenes.",
+        "article_id": "d8f97c132fce683df0a133ca67a92ec2",
+        "link": "https://www.diariodecuiaba.com.br/brasil/chuva-intensa-e-granizo-causam-duas-mortes-e-atingem-ao-menos-33-municipios-do-rs/752259",
+        "title": "Chuva intensa e granizo causam duas mortes e atingem ao menos 33 municípios do RS",
+        "description": "Chuvas intensas e granizo causaram ao menos duas mortes e danos no Rio Grande do Sul desde a quinta-feira (27), de acordo com informações preliminares da Defesa Civil deste sábado (29). Ao menos 33 municípios foram impactados no interior e na região metropolitana. Uma criança morreu e outra pessoa ficou ferida na zona norte de Porto Alegre na sexta-feira (28). Ambas estavam em uma casa atingida por queda de árvore. O prefeito, Sebastião Melo (MDB), lamentou o caso e disse, em rede social, que equipes da prefeitura prestaram socorro à família. A outra vítima foi o passageiro de um veículo arrastado pela água em Arroio Grande, município nas proximidades da fronteira sul com o Uruguai. De acordo com o Corpo de Bombeiros, o motorista conseguiu sair do veículo e foi hospitalizado. Danos de queda de granizo na madrugada deste sábado ainda são contabilizados. A previsão é de mais temporais ao longo do fim de semana e até a segunda-feira (31), com alerta também para Santa Catarina. Na noite de sexta-feira, alerta do sistema Cell Broadcast foi emitido para Gramado e Canela, na Serra Gaúcha. Entre danos confirmados no estado, estão destelhamentos de ao menos 1.500 imóveis, quedas de árvores, pontes submersas e alagamentos. Uma das localidades mais afetadas foi Três Palmeiras, no norte gaúcho, onde cerca de 1.000 residências tiveram danos nos telhados após queda de granizo. O município tem cerca de 4.700 habitantes, segundo o último Censo. A prefeitura instalou pontos de distribuição de lonas em ginásio e parque da cidade. Moradores compartilharam imagens em redes sociais de pedras de granizo maiores do que bolas de pingue-pongue. O granizo também atingiu ao menos 287 imóveis em Quaraí, município da fronteira oeste com o Uruguai. A Defesa Civil estima que ao menos 4.209 pessoas foram impactadas no estado. Há risco de inundação de trechos das bacias dos rios Jacuí, Taquari, Caí e Uruguai. Nas redes sociais, o governador Edua...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:53:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 19:30:36",
+        "image_url": "http://www.diariodecuiaba.com.br/images/logo-sharer.png",
+        "video_url": null,
+        "source_id": "diariodecuiaba",
+        "source_name": "Diariodecuiaba",
+        "source_priority": 12245876,
+        "source_url": "https://www.diariodecuiaba.com.br",
+        "source_icon": "https://n.bytvi.com/diariodecuiaba.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "e7cd30c2a21c380ceeb4245c466f0871",
+        "link": "https://oantagonista.com.br/ladooa/entretenimento/casal-constroi-garagem-para-dois-carros-e-ao-substituir-o-muro-antigo-descobre-que-uma-das-vagas-avancou-sobre-o-terreno-vizinho-casal-tenta-negociar-com-o-vizinho-mas-caso-acaba-indo-parar-na-jus/",
+        "title": "Casal constrói garagem para dois carros e, ao substituir o muro antigo, descobre que uma das vagas avançou sobre o terreno vizinho, casal tenta negociar com o vizinho, mas caso acaba indo parar na justiça",
+        "description": "Matrícula, planta e levantamento topográfico ajudam a medir a invasão e orientar a decisão The post Casal constrói garagem para dois carros e, ao substituir o muro antigo, descobre que uma das vagas avançou sobre o terreno vizinho, casal tenta negociar com o vizinho, mas caso acaba indo parar na justiça appeared first on O Antagonista .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "deportes",
-            "abelardo de la espriella"
+            "terreno",
+            "muro antigo",
+            "vagas",
+            "entretenimento"
         ],
         "creator": [
-            "caracol radio"
+            "gustavo gabriel miranda"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "colombia"
+            "brazil"
         ],
         "category": [
             "top",
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-28 18:40:19",
+        "pubDate": "2026-08-29 16:53:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:06:21",
-        "image_url": "https://caracol.com.co/resizer/v2/6SVDCKYOPBAARIW4TZQRY6ZACA.jpeg?auth=a62bfa37bf2bd2f379b8b0a84787cc419f69b87fd712649d3d4c8f4cf83ba61a&smart=true&width=1170&height=652",
+        "fetched_at": "2026-08-29 17:22:11",
+        "image_url": "https://cdn.oantagonista.com/uploads/2026/08/Garagem_invadindo_terreno_vizinho_202608271154.jpg",
         "video_url": null,
-        "source_id": "caracol",
-        "source_name": "Caracol Radio",
-        "source_priority": 30675,
-        "source_url": "https://caracol.com.co",
-        "source_icon": "https://n.bytvi.com/caracol.png",
+        "source_id": "oantagonista",
+        "source_name": "O Antagonista",
+        "source_priority": 2104208,
+        "source_url": "https://www.oantagonista.com",
+        "source_icon": "https://n.bytvi.com/oantagonista.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -831,57 +417,411 @@
         "description_zh": ""
     },
     {
-        "article_id": "5f8992b77cb023919ffc5707aded6517",
-        "link": "https://cnnespanol.cnn.com/2026/08/28/eeuu/problemas-ranking-presidentes-donald-trump-trax",
-        "title": "Trump clasificó a los presidentes de EE.UU. de “el mejor” a “fracasos” y desconcertó a su base",
-        "description": "La clasificación de Donald Trump sobre los presidentes de Estados Unidos genera dudas por las posiciones que asigna a figuras históricas y por la ausencia de varios mandatarios, incluidos algunos presidentes republicanos.",
+        "article_id": "ed61b79689745516b0f0abbbd9a0af55",
+        "link": "https://oem.com.mx/lavozdelafrontera/local/senala-secretaria-de-agricultura-estatal-que-no-sera-rehen-de-intereses-particulares-31802402",
+        "title": "Señala secretaria de Agricultura estatal que no será rehén de intereses particulares",
+        "description": "Pedimos que aquellos que están tomando las instalaciones, la madurez de lograr este diálogo, que se puedan retirar, y que permitan que todo fluya",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "donald trump",
-            "presidentes de estados unidos"
+            "local"
         ],
-        "creator": [
-            "aaron blake"
-        ],
+        "creator": null,
         "language": "spanish",
         "country": [
-            "bolivia",
-            "costa rica",
-            "guinea",
-            "spain",
-            "colombia",
-            "cuba",
-            "mexico",
-            "el salvador",
-            "nicaragua",
-            "dominican republic",
-            "venezuela",
-            "guatemala",
-            "panama",
-            "argentina",
-            "ecuador",
-            "honduras",
-            "uruguay",
-            "paraguay",
-            "peru",
-            "chile",
-            "puerto rico"
+            "mexico"
         ],
         "category": [
             "top",
             "politics"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-08-28 18:40:14",
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:54:56",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-28 19:04:37",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-08-28-112926.png?c=original/w_800",
-        "video_url": "https://clips-media-aka.warnermediacdn.com/cnn/clips/2026-08/2347690-036b03455cfe41df9016b9fddd7648f8/mp4/donald-trump-reporte-elecciones-2020-biden-orix-2347690-1920x1080_8000k.mp4",
-        "source_id": "cnnespanol",
-        "source_name": "Cnn",
-        "source_priority": 16314,
-        "source_url": "https://cnnespanol.cnn.com",
-        "source_icon": "https://n.bytvi.com/cnnespanol.png",
+        "fetched_at": "2026-08-29 22:12:30",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "lavozdelafrontera",
+        "source_name": "La Voz De La Frontera",
+        "source_priority": 178448,
+        "source_url": "https://www.lavozdelafrontera.com.mx",
+        "source_icon": "https://n.bytvi.com/lavozdelafrontera.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "f5614a9883eb38da3996c509ac146345",
+        "link": "https://vanguardia.com.mx/noticias/turismo-genealogico-un-viaje-a-las-raices-familiares-LD23138344",
+        "title": "Turismo genealógico, un viaje a las raíces familiares",
+        "description": "Los ‘viajes genealógicos’, impulsados por el deseo de muchas personas de reconectar con sus raíces familiares son una de las principales tendencias viajeras de 2026, “pasando de ser un pasatiempo para convertirse en una peregrinación”, según una investigación sobre la evolución del sector turístico efectuada por la revista especializada Condé Nast Traveller (CNT).",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "viajes"
+        ],
+        "creator": [
+            "efe"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "tourism"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:54:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 17:35:13",
+        "image_url": "https://vanguardia.com.mx/binrepository/55021162376-1_1-16851822_20260829172007.jpg",
+        "video_url": null,
+        "source_id": "vanguardia",
+        "source_name": "Vanguardia",
+        "source_priority": 24302,
+        "source_url": "https://vanguardia.com.mx",
+        "source_icon": "https://n.bytvi.com/vanguardia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "62009c968094b6229b9a69779620041b",
+        "link": "https://www.rockandpop.cl/2026/08/minsal-amplia-alerta-por-peligrosa-bacteria-en-queso-mantecoso-este-es-el-nuevo-lote-que-no-debes-consumir/",
+        "title": "Minsal amplía alerta por peligrosa bacteria en queso mantecoso: Este es el nuevo lote que NO debes consumir",
+        "description": "Recientemente, el Ministerio de Salud (Minsal) amplió la alerta alimentaria por la presencia de la bacteria Listeria monocytogenes en el queso mantecoso laminado marca La Rotunda, luego de que el ente sanitario realizara nuevos análisis del caso. En un principio, la medida involucraba solo la presentación de 300 gramos. Sin embargo, ahora también considera el Leer más... from Minsal amplía alerta por peligrosa bacteria en queso mantecoso: Este es el nuevo lote que NO debes consumir La entrada Minsal amplía alerta por peligrosa bacteria en queso mantecoso: Este es el nuevo lote que NO debes consumir se publicó primero en Rock&Pop .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "noticias",
+            "actualidad"
+        ],
+        "creator": [
+            "eleonora olave"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:54:43",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 17:13:45",
+        "image_url": "https://www.rockandpop.cl/wp-content/uploads/2026/08/queso-la-rotunda.webp",
+        "video_url": null,
+        "source_id": "rockandpop_cl",
+        "source_name": "Rock And Pop Chile",
+        "source_priority": 280498,
+        "source_url": "https://www.rockandpop.cl",
+        "source_icon": "https://n.bytvi.com/rockandpop_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "fdb02df1cbf96ff888b4662315c70f25",
+        "link": "https://oem.com.mx/elsoldesanluis/local/limpian-mas-de-17-escuelas-de-villa-de-pozos-previo-al-regreso-a-clases-31801111",
+        "title": "Limpian más de 17 escuelas de Villa de Pozos previo al regreso a clases",
+        "description": "Las cuadrillas municipales realizaron poda, deshierbe, retiro de maleza y recolección de residuos para mejorar las condiciones de los planteles educativos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "local"
+        ],
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:54:39",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 22:48:46",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "elsoldesanluis_mx",
+        "source_name": "Elsoldesanluis Mx",
+        "source_priority": 972129,
+        "source_url": "https://www.elsoldesanluis.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldesanluis_mx_.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "bf27a4056702d4cd0d726aa1cee612bc",
+        "link": "https://www.lacuarta.com/mundo/noticia/aumenta-numero-de-muertes-en-nepal-tras-devastador-aluvion-hay-cerca-de-3-mil-desaparecidos/",
+        "title": "Aumenta número de muertes en Nepal tras devastador aluvión: hay cerca de 3 mil desaparecidos",
+        "description": "Las autoridades del país asiático informaron que la cantidad de víctimas fatales aumentó.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nepal",
+            "impacto"
+        ],
+        "creator": [
+            "bastián escalona ampuero"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:54:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 17:06:10",
+        "image_url": "https://www.lacuarta.com/resizer/v2/JITPKY4MNBAZTI46SREH37QGFU.JPG?auth=b74317d7064bb0bed73ab2fa14a405ce391e93e4d52d638bee00bedff0545def&smart=true&width=6000&height=4000",
+        "video_url": null,
+        "source_id": "lacuarta",
+        "source_name": "La Cuarta",
+        "source_priority": 33259,
+        "source_url": "https://www.lacuarta.com",
+        "source_icon": "https://n.bytvi.com/lacuarta.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "e4c3955cbde5baef5544e22d1d1087d8",
+        "link": "https://vanguardia.com.mx/noticias/vania-perez-morales-extitular-de-sna-crea-peticion-en-change-org-para-que-enrique-inzunza-se-separe-de-su-escano-en-el-senado-OD23138071",
+        "title": "Vania Pérez Morales, extitular de SNA crea petición en Change.org, para que Enrique Inzunza se separe de su escaño en el Senado",
+        "description": "Vania Pérez Morales, extitular del Sistema Nacional Anticorrupción (SNA), creó una petición en la plataforma Change.org , una página que impulsa el activismo social y ciudadano, para lograr que Enrique Inzunza se separe de su escaño en el Senado de la República por las acusaciones que enfrenta por parte de Estados Unidos sobre sus presuntos vínculos con el narcotráfico.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "méxico"
+        ],
+        "creator": [
+            "el universal"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:54:25",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 17:35:13",
+        "image_url": "https://vanguardia.com.mx/binrepository/jpg_1-16851814_20260829170449.jpg",
+        "video_url": null,
+        "source_id": "vanguardia",
+        "source_name": "Vanguardia",
+        "source_priority": 24302,
+        "source_url": "https://vanguardia.com.mx",
+        "source_icon": "https://n.bytvi.com/vanguardia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "7b90e18a24fdd328b73f0f19ff7c2bcc",
+        "link": "https://abcnoticias.mx/tendencia/2026/8/29/tu-celular-termina-en-1-esto-tienes-que-hacer-para-no-perder-tu-linea-este-31-de-agosto-291510.html",
+        "title": "¿Tu celular termina en 1? Esto tienes que hacer para NO perder tu línea este 31 de agosto",
+        "description": "Las líneas telefónicas terminadas en 1 tienen hasta el 31 de agosto para registrarse. Te explicamos cómo hacer el trámite paso a paso.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "registro de celular",
+            "padrón de telefonía"
+        ],
+        "creator": [
+            "abc noticias"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:54:01",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 23:14:50",
+        "image_url": "https://abcnoticias.mx/u/fotografias/m/2026/6/26/f1280x720-352473_484148_5050.png",
+        "video_url": null,
+        "source_id": "abcnoticias",
+        "source_name": "Abc Noticias",
+        "source_priority": 300132,
+        "source_url": "https://abcnoticias.mx",
+        "source_icon": "https://n.bytvi.com/abcnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "01e6083d01b1d05d3ff81a72acd57309",
+        "link": "https://www.cnnchile.com/negocios/canciller-perez-mackenna-se-reune-con-par-japones-fortalecer-alianza-bilateral-ambos-paises/",
+        "title": "Canciller Pérez Mackenna se reúne con su par japonés para fortalecer alianza bilateral entre ambos países",
+        "description": "El ministro de Relaciones Exteriores, Francisco Pérez Mackenna, se reunió con el canciller de Japón, Toshimitsu Motegi, en el marco de una alianza bilateral de casi 130 años.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ministerio de relaciones exteriores",
+            "inversión extranjera",
+            "chile",
+            "francisco pérez mackenna",
+            "economía",
+            "japón",
+            "negocios",
+            "comercio exterior"
+        ],
+        "creator": [
+            "héctor basoalto"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:53:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 17:16:44",
+        "image_url": "https://media.cnnchile.com/2026/08/Canciller-Perez-Mackenna-se-reune-con-su-par-japones-para-fortalecer-alianza-bilateral-entre-ambos-paises-e1788021606583-1024x576.jpeg",
+        "video_url": null,
+        "source_id": "cnnchile",
+        "source_name": "Cnn Chile",
+        "source_priority": 575108,
+        "source_url": "https://www.cnnchile.com",
+        "source_icon": "https://n.bytvi.com/cnnchile.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "0c3d73b0601af81b3753e0bd732a49f3",
+        "link": "https://asisucede.com.mx/capturan-a-sujeto-por-robo-con-violencia-a-comercio-en-lerma/",
+        "title": "Capturan a sujeto por robo con violencia a comercio en Lerma",
+        "description": "La atención a una denuncia ciudadana recibida a través del 9-1-1 y el seguimiento mediante cámaras de videovigilancia del C5 permitieron a elementos de la Secretaría de Seguridad del Estado de México y de la Policía Municipal de Lerma detener a un hombre posiblemente relacionado con el delito de robo a comercio en la localidad [...] La entrada Capturan a sujeto por robo con violencia a comercio en Lerma aparece primero en Así Sucede .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "valle de toluca",
+            "seguridad"
+        ],
+        "creator": [
+            "redacción así sucede"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-29 16:53:49",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 17:19:54",
+        "image_url": "https://i0.wp.com/asisucede.com.mx/wp-content/uploads/2026/08/detenido-209.jpeg?fit=1080%2C1080&ssl=1",
+        "video_url": null,
+        "source_id": "asisucede",
+        "source_name": "Asi Sucede",
+        "source_priority": 1051776,
+        "source_url": "https://asisucede.com.mx",
+        "source_icon": "https://n.bytvi.com/asisucede.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "83ae2172868473a8158471a50462fab8",
+        "link": "https://www.marca.com/motor/motogp/gp-aragon/2026/08/29/jorge-martin-quinto-mejor-me-pensaba.html",
+        "title": "Jorge Martín: \"El quinto es mejor de lo que me pensaba\"",
+        "description": "Sufre, pero espera acabar más arriba el domingo y justifica el uso de la goma blanda atrás",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "gp aragón"
+        ],
+        "creator": [
+            "jaime martín"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "technology"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-08-29 16:53:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-29 17:02:29",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/08/29/6a930d3963ca5.jpeg",
+        "video_url": "https://www.dailymotion.com/crawler/video/k4VRTZOVbILYiZJfzW2",
+        "source_id": "marca",
+        "source_name": "Marca Claro",
+        "source_priority": 426,
+        "source_url": "https://www.marca.com",
+        "source_icon": "https://n.bytvi.com/marca.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
