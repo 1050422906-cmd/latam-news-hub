@@ -1,34 +1,33 @@
 [
     {
-        "article_id": "18baf7053b912b894b811df46848ff2d",
-        "link": "https://www.jornaldocomercio.com/politica/2026/08/1261524-congresso-vota-nesta-semana-fim-da-escala-6x1-e-taxa-das-blusinhas.html",
-        "title": "Congresso vota nesta semana fim da escala 6x1 e \"taxa das blusinhas\"",
-        "description": "Congresso Nacional deve analisar nesta semana cinco propostas de repercussão social",
+        "article_id": "5487fe4ace484cd4601aa42549751e43",
+        "link": "https://www.dgabc.com.br/Noticia/4344258/tarcisio-critica-contas-de-lula-e-diz-que-deficit-orcamentario-de-sp-nao-indica-piora-fiscal",
+        "title": "Tarcísio critica contas de Lula e diz que déficit orçamentário de SP não indica piora fiscal",
+        "description": "Tarcísio critica contas de Lula e diz que déficit orçamentário de SP não indica piora fiscal",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "congresso nacional"
+            "política"
         ],
-        "creator": [
-            "agências"
-        ],
+        "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "politics"
+            "business",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:58:00",
+        "pubDate": "2026-08-31 16:37:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:20:25",
-        "image_url": "https://www.jornaldocomercio.com/_midias/jpg/2026/08/30/_raf2044-12006876.jpg",
+        "fetched_at": "2026-08-31 17:23:09",
+        "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
         "video_url": null,
-        "source_id": "jornaldocomercio",
-        "source_name": "Jornal Do Com&eacute;rcio",
-        "source_priority": 1268159,
-        "source_url": "https://www.jornaldocomercio.com",
-        "source_icon": "https://n.bytvi.com/jornaldocomercio.png",
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://n.bytvi.com/dgabc.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -40,33 +39,80 @@
         "description_zh": ""
     },
     {
-        "article_id": "ae0fa8d5c6c4ddf4d8ba5f159caf388b",
-        "link": "https://www.terra.com.br/esportes/fluminense/presidente-do-fluminense-solta-o-verbo-sobre-arbitragem-apos-jogo-contra-o-athletico-pr,016a944965a2600a227536d4a537c465q9dt5el0.html",
-        "title": "Presidente do Fluminense solta o verbo sobre arbitragem após jogo contra o Athletico-PR",
-        "description": "O presidente do Fluminense, Mattheus Montenegro, criticou duramente a arbitragem após o empate ...",
+        "article_id": "80682fac1487c2f8c653d7eeeb47859c",
+        "link": "https://tribunadepetropolis.com.br/noticias/tarcisio-critica-contas-de-lula-e-diz-que-deficit-orcamentario-de-sp-nao-indica-piora-fiscal/",
+        "title": "Tarcísio critica contas de Lula e diz que déficit orçamentário de SP não indica piora fiscal",
+        "description": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), criticou nesta segunda-feira, 31, a condução das contas públicas pelo governo do presidente Luiz Inácio Lula da Silva (PT) e afirmou que a União acumulou déficits primários nos últimos anos. Segundo ele, o déficit orçamentário das contas paulistas “não significa nada” do ponto de vista fiscal. [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "gávea news"
+            "geovani bucci / estadão"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "sports"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:57:52",
+        "pubDate": "2026-08-31 16:37:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:35:08",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/08/30/472013238-fluminense-1-6.png",
+        "fetched_at": "2026-08-31 17:17:04",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "a5715b6d8231fa4c106fd49ed8c7f67d",
+        "link": "https://www.correiobraziliense.com.br/cidades-df/2026/08/7490767-em-sabatina-cappelli-apresenta-propostas-para-areas-diferentes-do-df.html",
+        "title": "Em sabatina, Cappelli apresenta propostas para áreas diferentes do DF",
+        "description": "Candidato do PSB defendeu mudanças na saúde, segurança, mobilidade e educação e prometeu ampliar o efetivo policial e o atendimento a crianças com deficiência",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "campanha",
+            "finance",
+            "& economics",
+            "business",
+            "candidato",
+            "sabatina",
+            "eleições 2026"
+        ],
+        "creator": [
+            "ana carolina alves"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-31 16:37:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-31 16:45:10",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/08/31/img-20260831-132229-67560731.jpg",
+        "video_url": null,
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -78,43 +124,38 @@
         "description_zh": ""
     },
     {
-        "article_id": "acf9571e69ad663f4b988894fc8d20af",
-        "link": "https://www.infobae.com/colombia/deportes/2026/08/30/cayo-el-tercer-entrenador-de-la-liga-betplay-ii-2026-mientras-se-disputa-la-fecha-8/",
-        "title": "Cayó el tercer entrenador de la Liga BetPlay II-2026 mientras se disputa la fecha 8",
-        "description": "Alianza FC anunció la salida del entrenador Camilo Ayala luego de la derrota 5-1 como local, que lo dejó en el puesto 18 de la tabla",
+        "article_id": "a9f7195a9c3258f8494231c5ee6001d2",
+        "link": "https://www.elonce.com/sociedad/lisandro-martinez-y-su-conmovedor-mensaje-por-el-retiro-de-messi-de-la-seleccion.htm",
+        "title": "Lisandro Martínez y su conmovedor mensaje por el retiro de Messi de la Selección",
+        "description": "Lisandro Martínez dejó un emotivo mensaje por el retiro de Messi de la Selección: “Sos mi ejemplo y el ejemplo para todo el mundo”.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "camilo ayala",
-            "alianza fc",
-            "liga betplay",
-            "colombia-deportes",
-            "entrenadores liga colombiana"
+            "selecci&oacute;n argentina",
+            "lisandro mart&iacute;nez",
+            "lionel messi"
         ],
         "creator": [
-            "camilo zabaleta"
+            "redacción elonce"
         ],
         "language": "spanish",
         "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
+            "argentina"
         ],
         "category": [
             "sports",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:57:51",
+        "pubDate": "2026-08-31 16:37:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:31:59",
-        "image_url": "https://www.infobae.com/resizer/v2/GHDTN7QCSFEMLKPEFUHVD5XMB4.jpg?auth=2e634e38236d05ec77907df1f2d1fb991966da5a964c1a9d46af85e01487cd04&smart=true&width=900&height=601",
+        "fetched_at": "2026-08-31 17:21:20",
+        "image_url": "https://elonce-media.elonce.com/fotos/2026/08/31/m_1788195105_49506.webp",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
+        "source_id": "elonce",
+        "source_name": "Elonce",
+        "source_priority": 1130131,
+        "source_url": "https://www.elonce.com",
+        "source_icon": "https://n.bytvi.com/elonce.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -126,13 +167,13 @@
         "description_zh": ""
     },
     {
-        "article_id": "307ee9e97507d0fbe138b3ee088cd85f",
-        "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/30/homem-e-preso-apos-pilotar-moto-com-teor-de-alcool-quase-cinco-vezes-acima-do-limite-na-grande-natal.ghtml",
-        "title": "Homem é preso após pilotar moto com teor de álcool quase cinco vezes acima do limite na Grande Natal",
-        "description": "Prisão ocorreu durante a Operação Zero Álcool, em Parnamirim PMRN/Divulgação Um homem de 42 anos foi preso, neste sábado (29), após ser flagrado pilotando uma motocicleta sob efeito de álcool durante uma blitz na RN-313, em Pium, em Parnamirim, na Grande Natal. O teste do bafômetro apontou 1,66 mg de álcool por litro de ar expelido. A abordagem aconteceu durante a Operação Zero Álcool, conduzida pelo Comando de Policiamento Rodoviário Estadual (CPRE). O resultado do teste representa quase cinco vezes o limite de 0,33 mg/l que configura crime de trânsito. 📳 Clique aqui para seguir o canal do g1 RN no WhatsApp O homem apresentava sinais de desorientação no momento da abordagem. Ainda segundo o CPRE, o resultado de 1,66 mg/l é o maior teor de alcoolemia já registrado em uma pessoa conduzindo veículo automotor em Natal e na Grande Natal, segundo o histórico da operação. Ele foi preso e encaminhado à Central de Flagrantes, onde foram realizados os procedimentos cabíveis. Agora no g1",
+        "article_id": "4b2f8b3e6fcd406cd305e97de0e3944e",
+        "link": "https://oglobo.globo.com/blogs/capital/post/2026/08/os-novos-lances-na-batalha-naval-por-megaterminal-no-porto-de-santos.ghtml",
+        "title": "Os novos lances na ‘batalha naval’ por megaterminal no Porto de Santos",
+        "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "g1"
+            "o globo"
         ],
         "creator": null,
         "language": "portuguese",
@@ -140,105 +181,20 @@
             "brazil"
         ],
         "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-30 16:57:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:03:49",
-        "image_url": "https://s2-g1.glbimg.com/Ztsa92-e5l_SpnnBXTIfHxHQ5h4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/d/dgjgAwRK2L1vAGFbm2xw/whatsapp-image-2026-08-30-at-13.02.19.jpeg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "42fef168d42ac39ef147829647206de9",
-        "link": "https://www.terra.com.br/esportes/fluminense/brasileirao-penalti-marcado-para-o-athletico-pr-repercute-na-torcida-do-fluminense,3fb9735e30b6d265045d34c4199496a5vjtotjkp.html",
-        "title": "Brasileirão: pênalti marcado para o Athletico-PR repercute na torcida do Fluminense",
-        "description": "O empate entre Athletico-PR e Fluminense, por 3 a 3, na manhã deste domingo, foi marcado por ...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "gávea news"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-30 16:57:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:35:08",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/08/30/966447862-5547325919264377de9e6k.jpg",
-        "video_url": null,
-        "source_id": "terra",
-        "source_name": "Terra",
-        "source_priority": 24247,
-        "source_url": "https://www.terra.com.br",
-        "source_icon": "https://n.bytvi.com/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "31dac608674db3c088299942ac99df49",
-        "link": "https://www.mejorinformado.com/editorial/corredor-viento-desarrollo-incrementara-hectareas-riego-entusiasma-piedra-aguila_1788109052",
-        "title": "Corredor del Viento: el desarrollo que incrementará las hectáreas bajo riego y entusiasma a Piedra del Águila",
-        "description": "El proyecto anunciado por el Gobierno neuquino para ampliar la producción de pastizales en la región del Limay del Medio genera expectativas para la clase dirigente de la localidad. Miradas sobre la iniciativa, obras en curso y el trabajo en el Concejo Deliberante.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "editorial",
-            "gobierno de neuquén",
-            "corredor del viento",
-            "hectáreas",
-            "piedra del águila",
-            "desarrollo productivo",
-            "crecimiento económico"
-        ],
-        "creator": [
-            "nicolás zenobio"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "environment",
             "business",
             "top"
         ],
-        "datatype": "news",
-        "pubDate": "2026-08-30 16:57:32",
+        "datatype": "blog",
+        "pubDate": "2026-08-31 16:36:58",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:15:47",
-        "image_url": "https://pxcdn.mejorinformado.com/mejorinformado/082026/1788109043005/muni-entrada-1024x599-jpeg..jpeg?cw=320&ch=180",
+        "fetched_at": "2026-08-31 17:10:35",
+        "image_url": "https://s2-oglobo.glbimg.com/v6L3n2hOKgZ9gX1iJnMmDZI4u9s=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/s/D/eOIE19SvyagUsMnyS1Kg/getimagecontent.jpg",
         "video_url": null,
-        "source_id": "mejorinformado",
-        "source_name": "Mejorinformado",
-        "source_priority": 463646,
-        "source_url": "https://www.mejorinformado.com",
-        "source_icon": "https://n.bytvi.com/mejorinformado.png",
+        "source_id": "oglobo_globo",
+        "source_name": "O Globo",
+        "source_priority": 93485,
+        "source_url": "https://oglobo.globo.com",
+        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -250,34 +206,37 @@
         "description_zh": ""
     },
     {
-        "article_id": "38fc565759c9f0731b362f1da4c6b599",
-        "link": "https://g1.globo.com/go/goias/noticia/2026/08/30/goleiro-atingido-por-tiro-de-bala-de-borracha-de-policial-apos-jogo-deve-ser-indenizado-video-mostra-tiro.ghtml",
-        "title": "Goleiro atingido por tiro de bala de borracha de policial após jogo deve ser indenizado; vídeo mostra tiro",
-        "description": "VÍDEO: PM atira em goleiro com bala de borracha durante confusão em jogo O ex-goleiro do Grêmio Anápolis, Ramon Souza dos Reis, que foi atingido por uma bala de borracha disparada por um policial militar deverá ser indenizado pelo Estado de Goiás em R$ 100 mil. A decisão é da 7a Vara de Fazenda Pública do Tribunal de Justiça de Goiás (TJGO). O g1 procurou a secretaria de Comunicação de Goiás e a Procuradoria-Geral do Estado, para saber se o Estado pretende recorrer da decisão, mas não obteve retorno até a última atualização desta reportagem. O caso aconteceu no dia 10 de julho de 2024, no Estádio Jonas Duarte, em Anápolis. No final da partida contra o Centro-Oeste pela 12a rodada da Divisão de Acesso do Campeonato Goiano, houve uma confusão entre os dois times e, com isso, intervenção da polícia. Em um determinado momento, um PM aponta a arma para um jogador do Grêmio. Ramon disse, em entrevista dada à época, que pediu para que o policial abaixasse a arma. \"Ele empurrou um dos nossos atletas e apontou a arma em direção ao rosto dele. Foi o momento em que eu vi e pedi para ele abaixar a arma. Ele pegou, falou 'vai para trás' e quando eu dei um passo para trás ele efetuou o disparo\", detalhou Ramón. Foto mostra Ramon Souza e o momento em que ele leva um tiro de bala de borracha na perna, em Anápolis, Goiás Vinícius Canuto/Grêmio Anápolis Na ação movida pelo goleiro contra o Estado de Goiás, ele pediu um total de R$ 257.161,82, referente à soma de danos materiais, danos morais e danos estéticos. Em sua decisão, no entanto, a juíza Mariuccia Benicio Soares Miguel decidiu que ele deve ser indenizado no valor total de R$ 97.161,82, que correspondem a: R$ 7.161,82 por danos materiais; R$ 70 mil por danos morais; R$ 20 mil por danos estéticos.",
+        "article_id": "f80199ef318fbc7311a4956ee05731e0",
+        "link": "https://www.nsctotal.com.br/esportes/ex-selecao-brasileira-richarlison-define-destino-para-deixar-o-tottenham-apos-pedir-saida-do-clube-ingles",
+        "title": "Ex-Seleção Brasileira, Richarlison define destino para deixar o Tottenham após pedir saída do clube inglês",
+        "description": "O atacante Richarlison está perto de selar o retorno ao Everton e encerrar a passagem de quatro temporadas pelo Tottenham Hotspur. As conversas entre as",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "g1"
+            "esportes",
+            "futebol"
         ],
-        "creator": null,
+        "creator": [
+            "vini tóffoli"
+        ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top",
-            "crime"
+            "sports",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:57:22",
+        "pubDate": "2026-08-31 16:36:56",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:04:40",
-        "image_url": "https://s2-g1.glbimg.com/I2-tGYU9nfrb9g86ajuSkiemqtA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/6/J/VwDiICSx66TA3IWCGslw/imagens-74-.png",
+        "fetched_at": "2026-08-31 18:34:47",
+        "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2026/01/Richarlison-durante-treino-da-Selecao-Brasileira.jpg",
         "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://n.bytvi.com/g1globo.png",
+        "source_id": "nsctotal",
+        "source_name": "Nsc Total",
+        "source_priority": 14276,
+        "source_url": "https://www.nsctotal.com.br",
+        "source_icon": "https://n.bytvi.com/nsctotal.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -289,16 +248,20 @@
         "description_zh": ""
     },
     {
-        "article_id": "9c10542595787eddc51b52b68580b468",
-        "link": "https://misionesonline.net/2026/08/30/triple-frontera-crimen-investigacion/",
-        "title": "Conmoción en la Triple Frontera: hallaron a un brasileño asesinado dentro de un auto en Paraguay",
-        "description": "Matheus Silva Souza Teles, de 30 años, fue encontrado con un disparo en la cabeza dentro de un vehículo abandonado en Presidente Franco, cerca del Puente del Monday. El presunto autor del crimen fue detenido en Ciudad del Este y quedó a disposición de la Fiscalía paraguaya.",
+        "article_id": "2115e5226daddf3e1f3cbf6a0e2cfe86",
+        "link": "https://elintransigente.com/2026/08/tini-stoessel-rompio-el-silencio-en-medio-de-la-polemica-con-su-padre-fui-encontrando/",
+        "title": "Tini Stoessel rompió el silencio en medio de la polémica con su padre: «Fui encontrando»",
+        "description": "La noticia era inesperada. The post Tini Stoessel rompió el silencio en medio de la polémica con su padre: «Fui encontrando» appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "región de las misiones"
+            "tini stoessel",
+            "espectáculo",
+            "twitter",
+            "argentina",
+            "alejandro stoessel"
         ],
         "creator": [
-            "jimena leguizamon"
+            "agustnbs"
         ],
         "language": "spanish",
         "country": [
@@ -306,58 +269,13 @@
         ],
         "category": [
             "top",
-            "crime"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:57:21",
+        "pubDate": "2026-08-31 16:36:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:15:39",
-        "image_url": "https://static.misionesonline.news/wp-content/uploads/2026/08/external-0d292e025aa16ae57fcac493e67dceaf.png",
-        "video_url": null,
-        "source_id": "misionesonline",
-        "source_name": "Misionesonline",
-        "source_priority": 499523,
-        "source_url": "https://misionesonline.net",
-        "source_icon": "https://n.bytvi.com/misionesonline.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "3a1d31d9944a43645f3a600b8eb2a43b",
-        "link": "https://elintransigente.com/2026/08/river-candidatos-reemplazar-coudet-3/",
-        "title": "River: Crespo, Aimar y Domínguez, los candidatos para convertirse en nuevo DT",
-        "description": "La dirigencia analiza perfiles con contratos vigentes y evalúa mantener a Leonardo Ponzio hasta fin de año. The post River: Crespo, Aimar y Domínguez, los candidatos para convertirse en nuevo DT appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "eduardo coudet",
-            "ramón díaz",
-            "river plate",
-            "stefano di carlo",
-            "river"
-        ],
-        "creator": [
-            "mariano giménez"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-30 16:57:15",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:23:15",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/08/Crespo.webp?fit=1210%2C750&quality=95&ssl=1",
+        "fetched_at": "2026-08-31 16:53:51",
+        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/08/Sin-titulo-22.png?fit=1200%2C701&quality=95&ssl=1",
         "video_url": null,
         "source_id": "elintransigente",
         "source_name": "El Intransigente",
@@ -375,38 +293,130 @@
         "description_zh": ""
     },
     {
-        "article_id": "b4b1d2796ef2f732f1a2323c9a612786",
-        "link": "https://www.brasil247.com/brasil/toffoli-adia-julgamento-de-renan-santos-e-aponta-indicios-de-ilicitude/",
-        "title": "Toffoli adia julgamento de Renan Santos e aponta indícios de ilicitude",
-        "description": "Ao determinar a retirada do processo da pauta, Toffoli apontou possível descumprimento da Lei das Eleições e de duas resoluções do TSE.",
+        "article_id": "f92b577fb2519bb8a7bfab631345a075",
+        "link": "https://www.diariodecuyo.com.ar/san-juan/barreal-suma-obras-clave-reforzar-la-seguridad-vial-zonas-escolares-y-accesos-estrategicos-n6581708",
+        "title": "Barreal suma obras clave para reforzar la seguridad vial en zonas escolares y accesos estratégicos",
+        "description": "Esta medida la comenzó a aplicar el municipio de Calingasta para potenciar la seguridad vial para vecinos y turistas en Barreal.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "brasil",
-            "toffoli",
-            "renan santos"
+            "barreal",
+            "calingasta"
         ],
         "creator": [
-            "laís gouveia"
+            "fabiana juarez"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-31 16:36:52",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-31 16:44:57",
+        "image_url": "https://media.diariodecuyo.com.ar/p/bf4e614612e17f005080f06bb6f376f6/adjuntos/380/imagenes/100/333/0100333140/1200x675/smart/reductores.jpg",
+        "video_url": null,
+        "source_id": "diariodecuyo",
+        "source_name": "Diario De Cuyo",
+        "source_priority": 394047,
+        "source_url": "https://www.diariodecuyo.com.ar",
+        "source_icon": "https://n.bytvi.com/diariodecuyo.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "4a278d60cfebfe6f83f697a348ca4e1c",
+        "link": "https://www.tribunapr.com.br/variedades/contagem-regressiva-para-o-enem-2026-veja-como-aproveitar-os-ultimos-meses-de-preparacao/",
+        "title": "Contagem regressiva para o Enem 2026: veja como aproveitar os últimos meses de preparação",
+        "description": "Faltando poucos meses para o Exame Nacional do Ensino Médio (Enem) 2026, que acontece nos dias 8 e 15 de [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "edicase",
+            "vestibular",
+            "educação",
+            "enem"
+        ],
+        "creator": [
+            "edicase"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top",
-            "crime"
+            "education",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:57:10",
+        "pubDate": "2026-08-31 16:36:45",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:13:00",
-        "image_url": "https://www.brasil247.com/wp-content/uploads/2026/05/20260524200532_2268fb5db72e2d3bbf2ac456494b9484b1b57ce198eae0b689478d00ec49a43e.jpg",
+        "fetched_at": "2026-08-31 20:19:52",
+        "image_url": "https://www.tribunapr.com.br/wp-content/uploads/2026/08/31163628/jovemestudando-2.png",
         "video_url": null,
-        "source_id": "brasil247",
-        "source_name": "Brasil 247",
-        "source_priority": 272172,
-        "source_url": "https://www.brasil247.com",
-        "source_icon": "https://n.bytvi.com/brasil247.png",
+        "source_id": "tribunapr_br",
+        "source_name": "Tribuna Pr",
+        "source_priority": 1000827,
+        "source_url": "https://www.tribunapr.com.br",
+        "source_icon": "https://n.bytvi.com/tribunapr_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "04ba4ff0fce32001f25a8ad195be36e2",
+        "link": "https://www.perfil.com/noticias/politica/lla-reparte-concesiones-en-el-congreso-para-salvar-septiembre-desde-el-iva-a-la-mandioca-hasta-ficha-limpia-y-el-super-rigi.phtml",
+        "title": "LLA reparte concesiones en el Congreso para salvar septiembre: desde el IVA a la mandioca hasta Ficha Limpia y el Súper RIGI",
+        "description": "El oficialismo negocia cambios al Súper RIGI que pide la UCR y el PRO, ya cedió ante el nuevo bloque de misioneros y salteños con la baja del IVA a la mandioca, y prometió reabrir Ficha Limpia. Todo mientras intenta contener una sesión especial de la oposición por endeudamiento y discapacidad, y sostiene conversaciones con el PRO de cara a una alianza en 2027. Leer más",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "martín menem",
+            "inocencia fiscal",
+            "patricia bullrich",
+            "senado",
+            "endeudamiento familiar",
+            "súper rigi",
+            "reforma electoral",
+            "elecciones paso",
+            "diputados"
+        ],
+        "creator": [
+            "julián d'imperio"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-31 16:36:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-31 17:08:47",
+        "image_url": "https://fotos.perfil.com/2026/08/31/trim/540/304/menem-bullrich-2315770.jpg",
+        "video_url": null,
+        "source_id": "perfil",
+        "source_name": "Perfil",
+        "source_priority": 56989,
+        "source_url": "https://www.perfil.com",
+        "source_icon": "https://n.bytvi.com/perfil.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -418,166 +428,84 @@
         "description_zh": ""
     },
     {
-        "article_id": "f83619df725a727303f85abb85c20c6a",
-        "link": "https://www.sdpnoticias.com/deportes/real-madrid-se-queda-con-el-primer-lugar-de-laliga-tras-golear-al-malaga/",
-        "title": "Real Madrid se queda con el primer lugar de LaLiga tras golear al Málaga",
-        "description": "Real Madrid ganó 4-0 al Málaga en la Jornada 3 de LaLiga con goles de Bellingham, Mbappé, Arda Güller y un autogol, el equipo merengue sigue firme en la pelea por el título.",
+        "article_id": "d5f56a6485314779560ffe841693eeb9",
+        "link": "https://www.hsbnoticias.com/ataques-isla-larak-eeuu-iran-intercambian-fuego-primera-vez-desde-julio/",
+        "title": "Ataques en la Isla de Larak desatan represalias: Irán lanza misiles contra bases de EE. UU. en Jordania",
+        "description": "La guerra entre Estados Unidos e Irán volvió a entrar en una fase de confrontación militar directa después de varias semanas de relativa calma. Las fuerzas estadounidenses atacaron el domingo 30 de agosto dos lanzaderas iraníes ubicadas en la isla de Larak, en el estratégico estrecho de Ormuz, en lo que Washington presentó como una [...] La entrada Ataques en la Isla de Larak desatan represalias: Irán lanza misiles contra bases de EE. UU. en Jordania se publicó primero en HSB NOTICIAS .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "real madrid club de fútbol",
-            "laliga"
+            "noticias",
+            "internacional"
         ],
         "creator": [
-            "irán gonzález"
+            "valerie rosero"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "politics",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-31 16:36:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-31 16:45:59",
+        "image_url": "https://www.hsbnoticias.com/wp-content/uploads/2026/08/image-54-2.jpg",
+        "video_url": null,
+        "source_id": "hsbnoticias",
+        "source_name": "Hsb Noticias",
+        "source_priority": 410803,
+        "source_url": "https://www.hsbnoticias.com",
+        "source_icon": "https://n.bytvi.com/hsbnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "c5cec6665d27332e1fb3e1b0b61fde1a",
+        "link": "https://www.reforma.com/protestan-enfermeros-por-falta-de-insumos-y-personal/ar3267242",
+        "title": "Protestan enfermeros por falta de insumos y personal",
+        "description": "Enfermeros de pediatría del Centro Médico Siglo XXI protestan en Cuauhtémoc y Eje 3 Sur en demanda de insumos y contratación de personal.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "protesta",
+            "imss",
+            "ciudad",
+            "cuauhtémoc",
+            "marchas y bloqueos",
+            "eje 3 sur",
+            "centro médico"
+        ],
+        "creator": [
+            "grupo reforma"
         ],
         "language": "spanish",
         "country": [
             "mexico"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-30 16:57:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:08:06",
-        "image_url": "https://www.sdpnoticias.com/resizer/v2/6LJP7L2E4BGVPHZBDQN6O4EOB4.jpg?smart=true&auth=5f5ba0cfc72d421c3ab6df995adee595749271aad072ec3de1cbf27aab3445ce&width=1440&height=810",
-        "video_url": null,
-        "source_id": "sdpnoticias",
-        "source_name": "Sdp Noticias",
-        "source_priority": 59718,
-        "source_url": "https://www.sdpnoticias.com",
-        "source_icon": "https://n.bytvi.com/sdpnoticias.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "acf9571e69ad663f4b988894fc8d20af",
-        "link": "https://www.infobae.com/colombia/deportes/2026/08/30/cayo-el-tercer-entrenador-de-la-liga-betplay-ii-2026-mientras-se-disputa-la-fecha-8/",
-        "title": "Cayó el tercer entrenador de la Liga BetPlay II-2026 mientras se disputa la fecha 8",
-        "description": "Alianza FC anunció la salida del entrenador Camilo Ayala luego de la derrota 5-1 como local, que lo dejó en el puesto 18 de la tabla",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "camilo ayala",
-            "alianza fc",
-            "liga betplay",
-            "colombia-deportes",
-            "entrenadores liga colombiana"
-        ],
-        "creator": [
-            "camilo zabaleta"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "mexico",
-            "argentina",
-            "colombia"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-30 16:57:51",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:31:59",
-        "image_url": "https://www.infobae.com/resizer/v2/GHDTN7QCSFEMLKPEFUHVD5XMB4.jpg?auth=2e634e38236d05ec77907df1f2d1fb991966da5a964c1a9d46af85e01487cd04&smart=true&width=900&height=601",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://n.bytvi.com/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "6a2e2d20fb0d93b82049f9c5e9f18826",
-        "link": "https://www.marca.com/tiramillas/series/2026/08/30/aitana-sanchez-gijon-maxi-iglesias-pillados-totalmente-abrazados-paseando-trujillo-cortarse.html",
-        "title": "Aitana Sánchez-Gijón y Maxi Iglesias, pillados totalmente abrazados paseando por Trujillo: “Sin cortarse”",
-        "description": "Ambos muestran que la relación sigue adelante varios meses juntos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "series"
-        ],
-        "creator": [
-            "fernando hernández fernández"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "science"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-30 16:57:43",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:04:06",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/08/30/6a945fceebc90.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "648921c9fabcba5619cc3d0458f98a4a",
-        "link": "https://www.pulzo.com/nacion/batallon-ejercito-convirtio-motel-soldados-tenian-relaciones-alla-PP5288293",
-        "title": "Revelan el batallón que parecía un motel: los y las soldados tenían relaciones, mientras crecía la delincuencia",
-        "description": "Batallón del Ejército colombiano se convirtió en un motel: revelan que los soldados tenían relaciones entre sí y se la pasaban borrrachos: hay detalles",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "fuerzas militares",
-            "ejército nacional"
-        ],
-        "creator": [
-            "redacción nación"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
         ],
         "category": [
             "domestic"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:57:40",
+        "pubDate": "2026-08-31 16:36:42",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:08:22",
-        "image_url": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5288293-h-o.webp",
+        "fetched_at": "2026-08-31 17:06:40",
+        "image_url": "https://img.gruporeforma.com/imagenes/960x640/7/264/6263614.jpg",
         "video_url": null,
-        "source_id": "pulzo",
-        "source_name": "Pulzo",
-        "source_priority": 81875,
-        "source_url": "https://www.pulzo.com",
-        "source_icon": "https://n.bytvi.com/pulzo.png",
+        "source_id": "reforma",
+        "source_name": "Reforma",
+        "source_priority": 30519,
+        "source_url": "https://www.reforma.com",
+        "source_icon": "https://n.bytvi.com/reforma.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -589,35 +517,85 @@
         "description_zh": ""
     },
     {
-        "article_id": "d0d42d39c851e053e44f162fc4db3bec",
-        "link": "https://www.record.com.mx/historia/maduro-reaparece-desde-la-carcel-publica-ineditas-fotos-y-envia-mensaje-a-sus-nietos-2026083016573305133",
-        "title": "Maduro reaparece desde la cárcel: publica inéditas fotos y envía mensaje a sus nietos",
-        "description": "Maduro reaparece desde la cárcel: publica inéditas fotos y envía mensaje a sus nietos",
+        "article_id": "4270083c23c9671d633b66d133bdc78c",
+        "link": "https://www.mural.com.mx/amenaza-trump-con-golpear-a-iran-teheran-pide-dialogo/ar3267246",
+        "title": "Amenaza Trump con golpear a Irán; Teherán pide diálogo",
+        "description": "Trump amenazó hoy con golpear a Irán tras nuevos ataques, mientras Teherán pidió diálogo y advirtió que la guerra no beneficia a la región.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "contra"
-        ],
+        "keywords": null,
         "creator": [
-            "redacción"
+            "afp"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "sports"
+            "world"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:57:33",
+        "pubDate": "2026-08-31 16:36:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 20:24:38",
+        "fetched_at": "2026-08-31 16:50:13",
         "image_url": null,
         "video_url": null,
-        "source_id": "record",
-        "source_name": "Record",
-        "source_priority": 21395,
-        "source_url": "https://www.record.com.mx",
-        "source_icon": "https://n.bytvi.com/record.png",
+        "source_id": "mural",
+        "source_name": "Mural",
+        "source_priority": 966477,
+        "source_url": "https://www.mural.com.mx",
+        "source_icon": "https://n.bytvi.com/mural.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "7154a1459d4b8cfc765784ee08acbe91",
+        "link": "https://www.elcolombiano.com/negocios/medellin-desempleo-7-por-ciento-mayo-julio-2026-KG40468222",
+        "title": "Medellín registra el desempleo más bajo del país: cayó a 7% en mayo-julio",
+        "description": "Medellín y su área metropolitana consolidaron su buen momento en materia laboral. De acuerdo con el Dane , en el trimestre móvil mayo-julio de 2026, la tasa de desocupación cayó a 7%, frente al 7,3% registrado un año atrás, es decir 1,1 puntos porcentuales por debajo del desempleo nacional , que fue de 8,1% . Mientras tanto, 68.000 personas se sumaron a la población ocupada, según los resultados de la Gran Encuesta Integrada de Hogares (GEIH). Con este resultado, Medellín A.M. se ubicó como el área metropolitana con menor desempleo entre las 23 ciudades y áreas metropolitanas medidas por la entidad. La reducción fue de 0,4 puntos porcentuales frente al mismo periodo de 2025. En paralelo, la cantidad de personas ocupadas llegó a aproximadamente 2,44 millones. Ricardo Valencia, director del Dane, explicó que el comportamiento refleja una mejora en el mercado laboral del territorio: “la tasa de desocupación se ubicó en 7%, lo que significó una disminución de 0,4 puntos porcentuales respecto al mismo periodo de 2025”. Le puede interesar: Desempleo en Colombia cayó a 8,1% en julio: la tasa más baja de este mes desde 2001 El aumento del empleo no se distribuyó de manera uniforme entre las actividades económicas. Según Valencia, el crecimiento estuvo liderado por administración pública y defensa, educación y atención de salud humana, seguido por alojamiento y servicios de comida y construcción. Estos sectores fueron los principales responsables de que el número de ocupados aumentara en 68.000 personas durante el periodo analizado. El dato resulta relevante para Medellín, una economía con una importante participación de los servicios, pero que también mantiene en la construcción una fuente significativa de ocupación. “ Las actividades económicas que más aportaron al aumento de esta población fueron administración pública y defensa, educación y atención de salud humana y alojamiento y servicios de comida y construcción” , señaló Valencia. Lea más: Medellín, la segunda ciudad donde más creció el desempleo en el primer trimestre del 2026 Mientras algunas actividades ampliaron su número de trabajadores, otras tuvieron un efecto contrario sobre la ocupación. Las industrias manufactureras, las actividades inmobiliarias y transporte y almacenamiento fueron las ramas que más restaron al crecimiento del empleo en Medellín A.M., de acuerdo con el reporte presentado por el Dane. Este comportamiento evidencia que la caída del desempleo no responde a un crecimiento generalizado de todas las actividades económicas, sino a una mayor demanda de trabajadores en determinados sectores. El 7% registrado en Medellín A.M. la dejó por debajo de otras ciudades que tradicionalmente tienen un peso importante en el mercado laboral nacional. Durante mayo-julio, Bucaramanga A.M. registró 7,2%, Pereira A.M. 7,5% , Bogotá D.C. 8%, Barranquilla A.M. 8,6% y Cali A.M. 8,9%. Conozca también: Medellín habría cerrado el 2025 con 100.000 desocupados; así se comportó el mercado laboral La combinación de menor desempleo y mayor ocupación marca un balance favorable para el mercado laboral del Valle de Aburrá. En un año, la tasa de desocupación bajó 0,4 puntos porcentuales y se incorporaron 68.000 personas a la población ocupada. Sin embargo, el comportamiento sectorial muestra que el desempeño no es homogéneo. Servicios públicos y sociales, alojamiento, comida y construcción están jalonando la creación de puestos, mientras que industria, inmobiliarias y transporte presentan una dinámica menos favorable. El resultado mantiene a Medellín entre los principales referentes laborales del país y plantea como siguiente desafío que este crecimiento de la ocupación se sostenga y se extienda a más ramas de la economía. Para consultar contenido prémium o profundizar sobre sus temas de interés de Medellín, Antioquia, Colombia y el mundo, regístrese aquí . Bloque de preguntas y respuestas:",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "bjg",
+            "política",
+            "presidencia",
+            "economía",
+            "dane",
+            "ricardo valencia",
+            "desempleo",
+            "johan alexis garcía blandón",
+            "sectores económicos",
+            "empleo",
+            "antioquia",
+            "colombia",
+            "medellín"
+        ],
+        "creator": [
+            "johan alexis garcía blandón"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-31 16:36:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-31 17:40:37",
+        "image_url": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/BFIB/desempleo-medellin-julio-2026_51489737_20260831112100.webp",
+        "video_url": null,
+        "source_id": "elcolombiano",
+        "source_name": "Elcolombiano",
+        "source_priority": 109876,
+        "source_url": "https://www.elcolombiano.com",
+        "source_icon": "https://n.bytvi.com/elcolombiano.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -629,16 +607,16 @@
         "description_zh": ""
     },
     {
-        "article_id": "9542b13d7b10af27d7acf0e3645270b0",
-        "link": "https://diario.mx/juarez/2026/aug/30/mujer-ofrece-81-mil-para-evitar-arresto-tras-asalto-a-cliente-banco-1135806.html",
-        "title": "Mujer ofrece $81 mil para evitar arresto tras asalto a cliente banco",
-        "description": "Presuntamente ayudó al responsable de robar $400 mil a un hombre que acababa de retirar el dinero",
+        "article_id": "f493c2bc1904762cf2b4d1400620c08d",
+        "link": "https://www.diariocordoba.com/cultura/2026/08/31/muere-actor-francesc-garrido-56-anos-133815091.html",
+        "title": "Muere a los 56 años Francesc Garrido, actor de 'Sé quién eres', 'La novia gitana' o 'Clanes'",
+        "description": "El actor de teatro, televisión y cine Francesc Garrido, que participó en películas como 'Mar adentro' y este año en 'El anfitrión', protagonizada por Willem Dafoe, ha fallecido a los 56 años a causa de un infarto, según han indicado a EFE este lunes fuentes del sector del cine.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "juárez"
+            "teatro"
         ],
         "creator": [
-            "staff / el diario de juárez"
+            "efe"
         ],
         "language": "spanish",
         "country": [
@@ -646,19 +624,19 @@
         ],
         "category": [
             "top",
-            "crime"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:57:30",
+        "pubDate": "2026-08-31 16:36:36",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:33:37",
-        "image_url": "https://diario.mx/core/dmx/assets/images/2026/08/30/photo-2026-08-30-10-35-07-DDbvG8t5n.jpg",
+        "fetched_at": "2026-08-31 16:38:05",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bd5243ab-d628-4e58-a9d2-a02413bd69ec_16-9-aspect-ratio_default_0_x600y225.jpg",
         "video_url": null,
-        "source_id": "diario",
-        "source_name": "El Diario",
-        "source_priority": 14955,
-        "source_url": "https://diario.mx",
-        "source_icon": "https://n.bytvi.com/diario.png",
+        "source_id": "diariocordoba",
+        "source_name": "Cordoba",
+        "source_priority": 48787,
+        "source_url": "https://www.diariocordoba.com",
+        "source_icon": "https://n.bytvi.com/diariocordoba.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -670,120 +648,37 @@
         "description_zh": ""
     },
     {
-        "article_id": "b91878854e9d4e28004ccbeee57b7700",
-        "link": "https://www.sopitas.com/deportes/portero-leon-asalto-casa-disparan/",
-        "title": "Roban y disparan al portero suplente del León al interior de su domicilio",
-        "description": "Irving Martínez, portero suplente del León, fue víctima de un asalto en su domicilio, incluso fue atacado por uno de los delincuentes, quien le disparó con... The post Roban y disparan al portero suplente del León al interior de su domicilio appeared first on Sopitas.com .",
+        "article_id": "193cce973335d828cdef14a1df1815c3",
+        "link": "https://www.latercera.com/sociales/noticia/entel-62-anos-impulsando-las-telecomunicaciones-de-chile/",
+        "title": "Entel, 62 años impulsando las telecomunicaciones de Chile",
+        "description": "Entel, 62 años impulsando las telecomunicaciones de Chile",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "liga mx",
-            "deportes",
-            "atlante",
-            "león"
+            "sociales"
         ],
         "creator": [
-            "sergio ramírez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-30 16:57:21",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:08:14",
-        "image_url": "https://www.sopitas.com/wp-content/uploads/2026/08/portero-leon-asalto-casa-disparan.webp",
-        "video_url": null,
-        "source_id": "sopitas",
-        "source_name": "Sopitas",
-        "source_priority": 81370,
-        "source_url": "https://www.sopitas.com",
-        "source_icon": "https://n.bytvi.com/sopitas.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "60cfe0f2cabdbffc31f34191e0bc37a4",
-        "link": "https://www.eldesmarque.com/futbol/liga-1a-division/20260830/real-madrid-notas-malaga-puntos-santiago-bernabeu-laliga-ea-sports_18_020046624.html",
-        "title": "El uno por uno y notas del Real Madrid ante el Málaga: Bellingham y Mbappé siguen siendo los del Mundial",
-        "description": "Así jugaron los hombres de José Mourinho El Real Madrid consiguió un cómodo triunfo por 4-0 ante el Málaga gracias a un arranque espectacular que le permitió a los de José Mourinho encarrilar el partido muy pronto. Jude Bellingham y Kylian Mbappé fueron los mejores y ellos anotaron los tantos junto al de Alfonso Herrero en propia portería y el de Arda Güler ya en el descuento . En ElDesmarque ponemos nota y evaluamos, de manera individual, la actuación de los jugadores del conjunto merengue en la jornada 3 de LALIGA EA SPORTS . Thibaut Courtois [5] : Apenas tuvo que realizar una parada a un tiro de Larrubia el belga, que dispuso de un encuentro plácido en el Santiago Bernabéu. Trent Alexander-Arnold [8] : El inglés regresó al once titular y se lució como un futbolista más de ataque participando en la mayoría de ellos gracias a sus golpeos precisos como el que le puso a Mbappé en la pared que acabó en el 3-0. Tuvo una ocasión clara para marcar que le sacó Alfonso Herrero. Antonio Rüdiger [7] : Gran nivel del alemán, sin permitir que los jugadores malaguistas le pusieran en apuros gracias a su poderío físico. Aguantó físicamente hasta el final. Dean Huijsen [7] : Partido muy completo del malagueño ante sus ex, sin dejar opciones a los delanteros del equipo de la Costa del Sol para que pudieran generar ocasiones. Muy seguro en la salida de balón. Marc Cucurella [7] : Tras el aviso en la primera jugada, se aseguró de que Larrubia no pudiera crear peligro en el área de Courtois sacando su intensidad habitual incluso ya con el partido muy decantado para el Real Madrid. Debe mejorar su conexión en ataque con Vinicius. Fede Valverde [7] : Asumió más protagonismo en la salida de balón sin Bernardo Silva y, ante un Málaga que pronto se cayó del encuentro, jugó con tranquilidad en esta faceta. En la presión también lideró al Real Madrid desde la segunda línea. Eduardo Camavinga [7] : A pesar de que su etapa en el Real Madrid parecía finiquitada, el galo finalmente se ha quedado dejando un buen nivel general en el choque ante el Málaga sin problemas con la pelota más allá de un par de despistes que no dejan de ser habituales en él. Gran balón filtrado a Mbappé en la jugada del 3-0. Brahim Díaz [7] : El malagueño salió muy motivado ante el equipo de su tierra y dejó varias acciones de calidad como su caño a Dotor a pesar de no ser tan decisivo como sus compañeros en el ataque. También colaboró atrás cuando el Málaga intentó llegar. Jude Bellingham [9] : Sigue desplegando un nivel espectacular desde que arrancara el Mundial con conducciones marca de la casa como la que realizó en su golazo para el 1-0. Participó en el 2-0 con un cabezazo que terminó finalmente en gol en propia y se sacó también un disparo a la cruceta ya en la segunda. Jude Bellingham celebra su gol en el Real Madrid-Málaga Cordon Press Vinicius Jr. [6] : Dura pugna para el brasileño con Carlos Puga, sin tener la fluidez de sus compañeros en el ataque pero mejorando su forma física con respecto a los dos primeros encuentros de la temporada. Le regaló a Arda Güler el cuarto de la tarde. Kylian Mbappé [9] : Al francés le da igual hacer o no pretemporada y ya está demostrando un nivel físico descomunal, con unos arranques imposibles para la defensa del Málaga. Generó el segundo gol con un gran recorte y marcó el tercero tras una pared con Trent y una volea precisa. Sustituciones de José Mourinho en el Real Madrid-Málaga Yan Diomande [6] : Va cogiendo confianza el ex del RB Leipzig y el Leganés y cada vez se atreve a realizar más regates como esos que le valieron fichar por el Real Madrid. Bernardo Silva [6] : El portugués le dio más pausa al juego del Real Madrid en una segunda parte que amenazaba con romperse. Arda Güler [7] : Salió con poco tiempo por delante pero aun así puso su sello en el partido con una gran conducción y transformando el regalo de Vinicius. Los jugadores del Real Madrid celebran un gol al Málaga Cordon Press",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "laliga primera división"
-        ],
-        "creator": [
-            "joaquín anduro"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-30 16:57:20",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:36:28",
-        "image_url": "https://album.mediaset.es/eimg/2026/08/30/el-once-titular-del-real-madrid-ante-el-malaga_03ad.jpg",
-        "video_url": null,
-        "source_id": "eldesmarque",
-        "source_name": "Eldesmarque",
-        "source_priority": 44851,
-        "source_url": "https://motor.eldesmarque.com",
-        "source_icon": "https://n.bytvi.com/eldesmarque.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "c36d01afb4edbe36f2256d812e8f4e39",
-        "link": "https://www.rockandpop.cl/2026/08/red-movilidad-anuncia-refuerzos-de-recorridos-este-lunes-31-de-agosto-que-paso-y-como-funcionaran-los-buses/",
-        "title": "Red Movilidad anuncia refuerzos de recorridos este lunes 31 de agosto: ¿Qué pasó y cómo funcionarán los buses?",
-        "description": "La empresa de transportes Red Movilidad informó que habrá refuerzos en diversos recorridos de buses en la capital el lunes 31 de agosto. Esto con el objetivo de que los asistentes al evento deportivo en el Estadio Claro Arena tengan un retorno seguro. Y es que durante esta jornada, Universidad Católica y O ́Higgins se enfrentarán en el marco de la Leer más... from Red Movilidad anuncia refuerzos de recorridos este lunes 31 de agosto: ¿Qué pasó y cómo funcionarán los buses? La entrada Red Movilidad anuncia refuerzos de recorridos este lunes 31 de agosto: ¿Qué pasó y cómo funcionarán los buses? se publicó primero en Rock&Pop .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "dato útil",
-            "noticias"
-        ],
-        "creator": [
-            "eleonora olave"
+            "la tercera"
         ],
         "language": "spanish",
         "country": [
             "chile"
         ],
         "category": [
+            "science",
             "top",
-            "crime"
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:57:18",
+        "pubDate": "2026-08-31 16:36:29",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:13:21",
-        "image_url": "https://www.rockandpop.cl/wp-content/uploads/2026/05/Red-Movilidad-3.webp",
+        "fetched_at": "2026-08-31 17:06:58",
+        "image_url": "https://www.latercera.com/resizer/v2/CDDP5B5YWRGS3L6F3A5N62CS5Y.jpg?auth=36bbd9078e0cfdf96c8cddea204f970d3d68959f433fa9af326be256bd500a10&smart=true&width=6720&height=4480",
         "video_url": null,
-        "source_id": "rockandpop_cl",
-        "source_name": "Rock And Pop Chile",
-        "source_priority": 280498,
-        "source_url": "https://www.rockandpop.cl",
-        "source_icon": "https://n.bytvi.com/rockandpop_cl.png",
+        "source_id": "latercera",
+        "source_name": "Latercera",
+        "source_priority": 32330,
+        "source_url": "https://www.latercera.com",
+        "source_icon": "https://n.bytvi.com/latercera.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -795,35 +690,158 @@
         "description_zh": ""
     },
     {
-        "article_id": "82d4e5fa13aaefa073270f23ba940a72",
-        "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/08/30/eibar-resiste-diez-gana-andorra.html",
-        "title": "El Eibar resiste con diez y gana en Andorra",
-        "description": "Aleix Garrido hizo el 0-1 al comienzo del segundo tiempo y los armeros aguantaron pese a jugar más de media hora en inferioridad numérica tras la roja directa a Magunazelaia",
+        "article_id": "14fa0fd94ec684fc2286d80f23aee748",
+        "link": "https://www.zocalo.com.mx/conoce-todo-de-maria-vargas-edad-estatura-asi-es-la-nueva-miss-mexico/",
+        "title": "Conoce todo de María Vargas, edad, estatura Así es la nueva Miss México",
+        "description": "Este es el perfil detallado de la tapatía que representará a México en Miss Universo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "segunda división"
+            "espectáculos",
+            "miss mexico"
         ],
         "creator": [
-            "pol forcada"
+            "josé alfredo ramos lópez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-31 16:36:22",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-31 16:43:16",
+        "image_url": "https://www.zocalo.com.mx/wp-content/uploads/2026/08/jali.jpg",
+        "video_url": null,
+        "source_id": "zocalo",
+        "source_name": "Periódico Zócalo",
+        "source_priority": 208655,
+        "source_url": "http://zocalo.com.mx",
+        "source_icon": "https://n.bytvi.com/zocalo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "46a438982634c392bd6ffd5de7e016e1",
+        "link": "https://www.diariodelsur.com.co/espanol-pasto/",
+        "title": "Defensor español Derik Osede fue inscrito por Deportivo Pasto",
+        "description": "Con el objetivo de reforzar la nómina para el segundo semestre del 2026, Derik Osede Prieto fue inscrito por Deportivo Pasto, así lo oficializó el club mediante sus redes sociales. Es de anotar que el futbolista lleva más de un mes entrenando con el equipo y ahora se oficializó su ingreso a la institución nariñense. [...] La entrada Defensor español Derik Osede fue inscrito por Deportivo Pasto se publicó primero en Diario del Sur .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "noticias",
+            "deportes",
+            "derik osede",
+            "destacadas",
+            "deportivo pasto"
+        ],
+        "creator": [
+            "antonio rosero"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "sports"
+            "sports",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-30 16:57:17",
+        "pubDate": "2026-08-31 16:36:18",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-30 17:02:58",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/08/30/6a945dc2b9eef.jpeg",
+        "fetched_at": "2026-08-31 16:49:34",
+        "image_url": "https://www.diariodelsur.com.co/wp-content/uploads/2026/08/FOTO-2-DEREK-OSEDE-PRIETO.jpg",
         "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://n.bytvi.com/marca.png",
+        "source_id": "diariodelsur",
+        "source_name": "Diario Del Sur",
+        "source_priority": 832974,
+        "source_url": "http://diariodelsur.com.co",
+        "source_icon": "https://n.bytvi.com/diariodelsur.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "71b402bef735a4a5d61c4d2cff3a49f0",
+        "link": "https://www.elnorte.com/amenaza-trump-con-golpear-a-iran-teheran-pide-dialogo/ar3267245",
+        "title": "Amenaza Trump con golpear a Irán; Teherán pide diálogo",
+        "description": "Trump amenazó hoy con golpear a Irán tras nuevos ataques, mientras Teherán pidió diálogo y advirtió que la guerra no beneficia a la región.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "afp"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-31 16:36:17",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-08-31 16:40:07",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "elnorte",
+        "source_name": "Elnorte",
+        "source_priority": 107502,
+        "source_url": "https://www.elnorte.com",
+        "source_icon": "https://n.bytvi.com/elnorte.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "763979d7df4d8ce3238a31ca85427332",
+        "link": "https://oem.com.mx/elsoldehermosillo/tendencias/el-gran-canon-atractivos-y-medidas-de-seguridad-para-una-visita-inolvidable-31832459",
+        "title": "El Gran Cañón: Atractivos y medidas de seguridad para una visita inolvidable",
+        "description": "Luego de la inundación que sorprendió a campistas el río Colorado en la parte baja del Gran Cañón, surgen dudas sobre la seguridad que existe en ese sitio turístico",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "tendencias"
+        ],
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-08-31 16:36:11",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-01 04:12:45",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "elsoldehermosillo",
+        "source_name": "El Sol De Hermosillo",
+        "source_priority": 176742,
+        "source_url": "https://www.elsoldehermosillo.com.mx",
+        "source_icon": "https://n.bytvi.com/elsoldehermosillo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
