@@ -1,52 +1,57 @@
 [
     {
-        "article_id": "5487fe4ace484cd4601aa42549751e43",
-        "link": "https://www.dgabc.com.br/Noticia/4344258/tarcisio-critica-contas-de-lula-e-diz-que-deficit-orcamentario-de-sp-nao-indica-piora-fiscal",
-        "title": "Tarcísio critica contas de Lula e diz que déficit orçamentário de SP não indica piora fiscal",
-        "description": "Tarcísio critica contas de Lula e diz que déficit orçamentário de SP não indica piora fiscal",
+        "article_id": "ae2e101827a5433e92c12e7feb024f6b",
+        "link": "https://www.elancasti.com.ar/espectaculo/maru-botana-hablo-alejandro-stoessel-y-se-solidarizo-tini-n620612",
+        "title": "Maru Botana habló sobre Alejandro Stoessel y se solidarizó con Tini",
+        "description": "La conductora lamentó la situación familiar de la cantante y recordó su vínculo con el empresario.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
+            "espectáculo"
+        ],
+        "creator": [
+            "el ancasti"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-01 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-01 16:24:02",
+        "image_url": "https://media.elancasti.com.ar/p/2f0bb5952d3a87172b3fd4d6e2fbd9c8/adjuntos/325/imagenes/000/426/0000426635/1200x675/smart/images.jpg",
+        "video_url": null,
+        "source_id": "elancasti_ar",
+        "source_name": "Elancasti Ar",
+        "source_priority": 2635729,
+        "source_url": "https://www.elancasti.com.ar",
+        "source_icon": "https://n.bytvi.com/elancasti_ar.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "104276f9fc33996cbe023bf46ea4dc55",
+        "link": "https://www.gazetasp.com.br/politica/tarcisio-visita-hospital-e-haddad-concede-entrevista-nesta-terca-em-agendas-da-disputa-pelo-governo-de-sp/",
+        "title": "Tarcísio visita hospital e Haddad concede entrevista nesta terça em agendas da disputa pelo governo de SP",
+        "description": "Veja os compromissos previstos para os principais nomes da disputa eleitoral paulista O post Tarcísio visita hospital e Haddad concede entrevista nesta terça em agendas da disputa pelo governo de SP apareceu primeiro em Gazeta de São Paulo .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "são paulo",
             "política"
         ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-31 16:37:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 17:23:09",
-        "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://n.bytvi.com/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "80682fac1487c2f8c653d7eeeb47859c",
-        "link": "https://tribunadepetropolis.com.br/noticias/tarcisio-critica-contas-de-lula-e-diz-que-deficit-orcamentario-de-sp-nao-indica-piora-fiscal/",
-        "title": "Tarcísio critica contas de Lula e diz que déficit orçamentário de SP não indica piora fiscal",
-        "description": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), criticou nesta segunda-feira, 31, a condução das contas públicas pelo governo do presidente Luiz Inácio Lula da Silva (PT) e afirmou que a União acumulou déficits primários nos últimos anos. Segundo ele, o déficit orçamentário das contas paulistas “não significa nada” do ponto de vista fiscal. [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
         "creator": [
-            "geovani bucci / estadão"
+            "laís seguin"
         ],
         "language": "portuguese",
         "country": [
@@ -56,43 +61,57 @@
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-31 16:37:00",
+        "pubDate": "2026-09-01 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 17:17:04",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "fetched_at": "2026-09-01 16:25:47",
+        "image_url": "https://cdn.gazetasp.com.br/uploads/2026/09/tarcisio-haddad-649x365.jpg",
         "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://n.bytvi.com/tribunadepetropolis_br.jpg",
+        "source_id": "gazetasp_br",
+        "source_name": "Gazetasp Br",
+        "source_priority": 676902,
+        "source_url": "https://www.gazetasp.com.br",
+        "source_icon": "https://n.bytvi.com/gazetasp_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
+        "duplicate": false,
         "title_zh": "",
         "description_zh": ""
     },
     {
-        "article_id": "a5715b6d8231fa4c106fd49ed8c7f67d",
-        "link": "https://www.correiobraziliense.com.br/cidades-df/2026/08/7490767-em-sabatina-cappelli-apresenta-propostas-para-areas-diferentes-do-df.html",
-        "title": "Em sabatina, Cappelli apresenta propostas para áreas diferentes do DF",
-        "description": "Candidato do PSB defendeu mudanças na saúde, segurança, mobilidade e educação e prometeu ampliar o efetivo policial e o atendimento a crianças com deficiência",
+        "article_id": "5eb8f7f3d6c7bce745c0a195ebaf0cd5",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dominio-de-faccoes-faz-da-seguranca-principal-preocupacao-do-eleitor-do-nordeste.shtml",
+        "title": "Domínio de facções faz da segurança principal preocupação do eleitor do Nordeste",
+        "description": "Um outeiro na zona rural de Salgueiro, sertão de Pernambuco, abriga uma igrejinha branca em meio a um descampado quase deserto, entre mandacarus e rebanhos de cabras que andam soltas. A comunidade fica em uma região remota onde só é possível chegar por estradas de terra. Leia mais (09/01/2026 - 13h00)",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "campanha",
-            "finance",
-            "& economics",
-            "business",
-            "candidato",
-            "sabatina",
-            "eleições 2026"
+            "combate ao narcotráfico",
+            "eleições 2026",
+            "violência",
+            "pl",
+            "ciro gomes",
+            "união brasil",
+            "acm neto",
+            "folha",
+            "flávio bolsonaro",
+            "renan santos",
+            "tráfico de drogas",
+            "eleições ce",
+            "pcc",
+            "lula",
+            "pt",
+            "psdb",
+            "folha de s.paulo",
+            "jerônimo rodrigues",
+            "nordeste",
+            "eleições"
         ],
         "creator": [
-            "ana carolina alves"
+            "joão pedro pitombo",
+            "lalo de almeida"
         ],
         "language": "portuguese",
         "country": [
@@ -103,16 +122,16 @@
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-31 16:37:00",
+        "pubDate": "2026-09-01 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 16:45:10",
-        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/08/31/img-20260831-132229-67560731.jpg",
+        "fetched_at": "2026-09-01 16:04:35",
+        "image_url": "https://f.i.uol.com.br/fotografia/2026/08/19/17871826196a863e1b39596_1787182619_3x2_md.jpg",
         "video_url": null,
-        "source_id": "correiobraziliense",
-        "source_name": "Correio Braziliense",
-        "source_priority": 267296,
-        "source_url": "https://www.correiobraziliense.com.br",
-        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -124,144 +143,27 @@
         "description_zh": ""
     },
     {
-        "article_id": "a9f7195a9c3258f8494231c5ee6001d2",
-        "link": "https://www.elonce.com/sociedad/lisandro-martinez-y-su-conmovedor-mensaje-por-el-retiro-de-messi-de-la-seleccion.htm",
-        "title": "Lisandro Martínez y su conmovedor mensaje por el retiro de Messi de la Selección",
-        "description": "Lisandro Martínez dejó un emotivo mensaje por el retiro de Messi de la Selección: “Sos mi ejemplo y el ejemplo para todo el mundo”.",
+        "article_id": "d5304d41072a5f86bfc089a3dd298d21",
+        "link": "https://diariopanorama.com/noticia/565055/boca-sufrio-baja-ultimo-momento-para-enfrentar-velez-copa-argentina",
+        "title": "Boca sufrió una baja de último momento para enfrentar a Vélez por Copa Argentina",
+        "description": "Dolor de cabeza para Arruabarrena en la previa del partido de este miércoles ante el Fortín.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "selecci&oacute;n argentina",
-            "lisandro mart&iacute;nez",
-            "lionel messi"
-        ],
-        "creator": [
-            "redacción elonce"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-31 16:37:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 17:21:20",
-        "image_url": "https://elonce-media.elonce.com/fotos/2026/08/31/m_1788195105_49506.webp",
-        "video_url": null,
-        "source_id": "elonce",
-        "source_name": "Elonce",
-        "source_priority": 1130131,
-        "source_url": "https://www.elonce.com",
-        "source_icon": "https://n.bytvi.com/elonce.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "4b2f8b3e6fcd406cd305e97de0e3944e",
-        "link": "https://oglobo.globo.com/blogs/capital/post/2026/08/os-novos-lances-na-batalha-naval-por-megaterminal-no-porto-de-santos.ghtml",
-        "title": "Os novos lances na ‘batalha naval’ por megaterminal no Porto de Santos",
-        "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "o globo"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-08-31 16:36:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 17:10:35",
-        "image_url": "https://s2-oglobo.glbimg.com/v6L3n2hOKgZ9gX1iJnMmDZI4u9s=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/s/D/eOIE19SvyagUsMnyS1Kg/getimagecontent.jpg",
-        "video_url": null,
-        "source_id": "oglobo_globo",
-        "source_name": "O Globo",
-        "source_priority": 93485,
-        "source_url": "https://oglobo.globo.com",
-        "source_icon": "https://n.bytvi.com/oglobo_globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "f80199ef318fbc7311a4956ee05731e0",
-        "link": "https://www.nsctotal.com.br/esportes/ex-selecao-brasileira-richarlison-define-destino-para-deixar-o-tottenham-apos-pedir-saida-do-clube-ingles",
-        "title": "Ex-Seleção Brasileira, Richarlison define destino para deixar o Tottenham após pedir saída do clube inglês",
-        "description": "O atacante Richarlison está perto de selar o retorno ao Everton e encerrar a passagem de quatro temporadas pelo Tottenham Hotspur. As conversas entre as",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "esportes",
-            "futebol"
-        ],
-        "creator": [
-            "vini tóffoli"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-31 16:36:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 18:34:47",
-        "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2026/01/Richarlison-durante-treino-da-Selecao-Brasileira.jpg",
-        "video_url": null,
-        "source_id": "nsctotal",
-        "source_name": "Nsc Total",
-        "source_priority": 14276,
-        "source_url": "https://www.nsctotal.com.br",
-        "source_icon": "https://n.bytvi.com/nsctotal.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "2115e5226daddf3e1f3cbf6a0e2cfe86",
-        "link": "https://elintransigente.com/2026/08/tini-stoessel-rompio-el-silencio-en-medio-de-la-polemica-con-su-padre-fui-encontrando/",
-        "title": "Tini Stoessel rompió el silencio en medio de la polémica con su padre: «Fui encontrando»",
-        "description": "La noticia era inesperada. The post Tini Stoessel rompió el silencio en medio de la polémica con su padre: «Fui encontrando» appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tini stoessel",
-            "espectáculo",
-            "twitter",
+            "somos deporte",
+            "ultimo",
+            "velez",
+            "para",
+            "copa",
             "argentina",
-            "alejandro stoessel"
+            "enfrentar",
+            "diario panorama",
+            "baja",
+            "boca",
+            "sufrio",
+            "momento"
         ],
         "creator": [
-            "agustnbs"
+            "redacción diario panorama"
         ],
         "language": "spanish",
         "country": [
@@ -269,19 +171,19 @@
         ],
         "category": [
             "top",
-            "politics"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-31 16:36:54",
+        "pubDate": "2026-09-01 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 16:53:51",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/08/Sin-titulo-22.png?fit=1200%2C701&quality=95&ssl=1",
+        "fetched_at": "2026-09-01 19:05:26",
+        "image_url": "https://diariopanorama.com/fotos/notas/2026/08/14/vasco-arruabarrena-boca-563174-162825.jpg",
         "video_url": null,
-        "source_id": "elintransigente",
-        "source_name": "El Intransigente",
-        "source_priority": 3446332,
-        "source_url": "https://elintransigente.com",
-        "source_icon": "https://n.bytvi.com/elintransigente.jpg",
+        "source_id": "diariopanorama",
+        "source_name": "Diario Panorama",
+        "source_priority": 31285,
+        "source_url": "https://diariopanorama.com",
+        "source_icon": "https://n.bytvi.com/diariopanorama.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -293,257 +195,284 @@
         "description_zh": ""
     },
     {
-        "article_id": "f92b577fb2519bb8a7bfab631345a075",
-        "link": "https://www.diariodecuyo.com.ar/san-juan/barreal-suma-obras-clave-reforzar-la-seguridad-vial-zonas-escolares-y-accesos-estrategicos-n6581708",
-        "title": "Barreal suma obras clave para reforzar la seguridad vial en zonas escolares y accesos estratégicos",
-        "description": "Esta medida la comenzó a aplicar el municipio de Calingasta para potenciar la seguridad vial para vecinos y turistas en Barreal.",
+        "article_id": "1b342399396b802beb7bd7f7376aa9b9",
+        "link": "https://www.jornaldooeste.com.br/acit-apresentacao-candidatos/",
+        "title": "ACIT inicia apresentação de candidatos",
+        "description": "A Associação Comercial e Empresarial de Toledo (ACIT), em parceria com o Conselho do Jovem Empreendedor e lideranças locais, iniciou um movimento decisivo para as ... Leia mais",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "barreal",
-            "calingasta"
+            "toledo"
         ],
         "creator": [
-            "fabiana juarez"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-31 16:36:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 16:44:57",
-        "image_url": "https://media.diariodecuyo.com.ar/p/bf4e614612e17f005080f06bb6f376f6/adjuntos/380/imagenes/100/333/0100333140/1200x675/smart/reductores.jpg",
-        "video_url": null,
-        "source_id": "diariodecuyo",
-        "source_name": "Diario De Cuyo",
-        "source_priority": 394047,
-        "source_url": "https://www.diariodecuyo.com.ar",
-        "source_icon": "https://n.bytvi.com/diariodecuyo.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "4a278d60cfebfe6f83f697a348ca4e1c",
-        "link": "https://www.tribunapr.com.br/variedades/contagem-regressiva-para-o-enem-2026-veja-como-aproveitar-os-ultimos-meses-de-preparacao/",
-        "title": "Contagem regressiva para o Enem 2026: veja como aproveitar os últimos meses de preparação",
-        "description": "Faltando poucos meses para o Exame Nacional do Ensino Médio (Enem) 2026, que acontece nos dias 8 e 15 de [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "edicase",
-            "vestibular",
-            "educação",
-            "enem"
-        ],
-        "creator": [
-            "edicase"
+            "jornal do oeste"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "education",
-            "top"
+            "top",
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-31 16:36:45",
+        "pubDate": "2026-09-01 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 20:19:52",
-        "image_url": "https://www.tribunapr.com.br/wp-content/uploads/2026/08/31163628/jovemestudando-2.png",
+        "fetched_at": "2026-09-01 16:16:24",
+        "image_url": "https://www.jornaldooeste.com.br/wp-content/uploads/2026/09/ademir_kopeginski_podcast_eleicoes_marcelo_rocha-5.jpg",
         "video_url": null,
-        "source_id": "tribunapr_br",
-        "source_name": "Tribuna Pr",
-        "source_priority": 1000827,
-        "source_url": "https://www.tribunapr.com.br",
-        "source_icon": "https://n.bytvi.com/tribunapr_br.png",
+        "source_id": "jornaldooeste_br",
+        "source_name": "Jornal Do Oeste",
+        "source_priority": 513417,
+        "source_url": "https://www.jornaldooeste.com.br",
+        "source_icon": "https://n.bytvi.com/jornaldooeste_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
+        "duplicate": false,
         "title_zh": "",
         "description_zh": ""
     },
     {
-        "article_id": "04ba4ff0fce32001f25a8ad195be36e2",
-        "link": "https://www.perfil.com/noticias/politica/lla-reparte-concesiones-en-el-congreso-para-salvar-septiembre-desde-el-iva-a-la-mandioca-hasta-ficha-limpia-y-el-super-rigi.phtml",
-        "title": "LLA reparte concesiones en el Congreso para salvar septiembre: desde el IVA a la mandioca hasta Ficha Limpia y el Súper RIGI",
-        "description": "El oficialismo negocia cambios al Súper RIGI que pide la UCR y el PRO, ya cedió ante el nuevo bloque de misioneros y salteños con la baja del IVA a la mandioca, y prometió reabrir Ficha Limpia. Todo mientras intenta contener una sesión especial de la oposición por endeudamiento y discapacidad, y sostiene conversaciones con el PRO de cara a una alianza en 2027. Leer más",
+        "article_id": "8c7385b822ce4847037c1446188ce2b3",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/andrew-scott-sustenta-pressao-drama-de-guerra-sobre-o-dia-d.shtml",
+        "title": "Andrew Scott sustenta 'Pressão', drama de guerra sobre o Dia D",
+        "description": "Na era clássica do cinema , era quase corrente serem feitos filmes sobre personagens menores. \"Alta Tensão\", por exemplo, versava sobre especialistas em religar grandes redes elétricas. Foi feito em 1941 por Raoul Walsh com vigor incomum. Em \"Pressão\" , estamos mais ou menos no mesmo caso, só que quase 90 anos depois. O mundo mudou, e o filme aproveita essa mudança. Leia mais (09/01/2026 - 13h00)",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "martín menem",
-            "inocencia fiscal",
-            "patricia bullrich",
-            "senado",
-            "endeudamiento familiar",
-            "súper rigi",
-            "reforma electoral",
-            "elecciones paso",
-            "diputados"
+            "architecture & crafts",
+            "performing arts",
+            "visual arts",
+            "folha de s.paulo",
+            "arte",
+            "crítica de cinema",
+            "folha",
+            "cinema"
         ],
         "creator": [
-            "julián d'imperio"
+            "inácio araujo"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "review",
+        "pubDate": "2026-09-01 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-01 16:04:35",
+        "image_url": "https://f.i.uol.com.br/fotografia/2026/08/18/17870802596a84ae431390a_1787080259_3x2_md.jpg",
+        "video_url": null,
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "7bd9cf7e7bcf271df463e8ccb43f46bc",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/serra-da-chapadinha-na-bahia-vira-area-protegida-apos-enfrentar-pressao-de-mineradoras.shtml",
+        "title": "Serra da Chapadinha, na Bahia, vira área protegida após enfrentar pressão de mineradoras",
+        "description": "O Governo da Bahia oficializou nesta terça-feira (1o) a criação do Refúgio de Vida Silvestre da Serra da Chapadinha, região da Chapada Diamantina que vinha sendo pressionada por interesses ligados à mineração, à exploração ilegal de madeira, à expansão imobiliária e à grilagem de terras. Leia mais (09/01/2026 - 13h00)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "pt",
+            "chapada diamantina",
+            "meio ambiente",
+            "ministério público federal",
+            "science & tech",
+            "folha de s.paulo",
+            "jerônimo rodrigues",
+            "folha",
+            "bahia",
+            "bahia-estado"
+        ],
+        "creator": [
+            "joão pedro pitombo"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-01 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-01 16:04:35",
+        "image_url": "https://f.i.uol.com.br/fotografia/2026/05/07/177815524669fc7eee066ca_1778155246_3x2_md.jpg",
+        "video_url": null,
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "2237c0d7a5113256f4d145ca6aca9739",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/caiado-quer-trava-temporaria-em-aposentadorias-para-fazer-ajuste-diz-coordenador-de-plano-politico.shtml",
+        "title": "Caiado quer trava temporária em aposentadorias para fazer ajuste, diz coordenador de plano político",
+        "description": "O candidato à Presidência Ronaldo Caiado (PSD) vai apresentar, caso eleito, uma PEC (Proposta de Emenda à Constituição) de emergência fiscal com travas temporárias para conter gastos obrigatórios, disse Roberto Brant, coordenador do programa de governo do ex-governador de Goiás. Leia mais (09/01/2026 - 13h00)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "contas públicas",
+            "eleições 2026",
+            "psd",
+            "business",
+            "finance",
+            "veja vídeo",
+            "folha de s.paulo",
+            "folha",
+            "eleições",
+            "ronaldo caiado",
+            "& economics"
+        ],
+        "creator": [
+            "adriana fernandes",
+            "mariana carneiro",
+            "idiana tomazelli"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-09-01 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-01 16:04:35",
+        "image_url": "https://f.i.uol.com.br/fotografia/2026/09/01/17882723066a96deb20d559_1788272306_3x2_md.jpg",
+        "video_url": "https://www.youtube.com/watch?v=R6yKKzhhXYo",
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "26191e6dda518acb2e3854bcadfe2bfc",
+        "link": "https://jornal24horas.com.br/?p=64247",
+        "title": "X500 Pro Max: novo celular da vivo vaza com ilha de câmeras gigantesca",
+        "description": "O vivo X500 Pro Max pode ter uma das maiores ilhas para câmeras traseiras já vistas em um smartphone, de acordo com um novo vazamento. Em um vídeo que que mostra o suposto smartphone, uma pessoa manuseia o aparelho com um novo módulo gigantesco e com um anel circular para ajuste de configurações. Esse dispositivo [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "tecnologia"
+        ],
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-01 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-01 16:57:55",
+        "image_url": "https://jornal24horas.com.br/wp-content/uploads/2026/09/vivo_x500_pro_max_vazado_44d1939898-DLqaxv.jpg",
+        "video_url": null,
+        "source_id": "jornal24horas",
+        "source_name": "Jornal24horas",
+        "source_priority": 42157300,
+        "source_url": "http://jornal24horas.com.br",
+        "source_icon": "https://n.bytvi.com/jornal24horas.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "8b76117e360b6058036f667058288b14",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/paguei-us-19-mil-a-advogada-dos-milagres-mas-acabei-deportado-dos-eua.shtml",
+        "title": "Paguei US$ 19 mil a 'advogada dos milagres', mas acabei deportado dos EUA",
+        "description": "\"A expectativa era de que eu finalmente poderia ficar bem nos Estados Unidos , com residência legal e uma autorização de trabalho, mas acontece que estou aqui, deportado.\" Leia mais (09/01/2026 - 13h00)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "deportação",
+            "cidade do méxico",
+            "folha",
+            "ice",
+            "américa latina",
+            "violência contra a mulher",
+            "imigração",
+            "redes sociais",
+            "folha de s.paulo",
+            "estados unidos",
+            "washington",
+            "governo trump",
+            "history & philosophy",
+            "méxico",
+            "casa branca",
+            "social issues",
+            "américa do sul",
+            "imigrantes",
+            "advogado"
+        ],
+        "creator": [
+            "leire ventas"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
         ],
         "category": [
             "top",
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-31 16:36:41",
+        "pubDate": "2026-09-01 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 17:08:47",
-        "image_url": "https://fotos.perfil.com/2026/08/31/trim/540/304/menem-bullrich-2315770.jpg",
+        "fetched_at": "2026-09-01 16:04:35",
+        "image_url": "https://f.i.uol.com.br/fotografia/2026/09/01/17882749606a96e910124b3_1788274960_3x2_md.jpg",
         "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://n.bytvi.com/perfil.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "d5f56a6485314779560ffe841693eeb9",
-        "link": "https://www.hsbnoticias.com/ataques-isla-larak-eeuu-iran-intercambian-fuego-primera-vez-desde-julio/",
-        "title": "Ataques en la Isla de Larak desatan represalias: Irán lanza misiles contra bases de EE. UU. en Jordania",
-        "description": "La guerra entre Estados Unidos e Irán volvió a entrar en una fase de confrontación militar directa después de varias semanas de relativa calma. Las fuerzas estadounidenses atacaron el domingo 30 de agosto dos lanzaderas iraníes ubicadas en la isla de Larak, en el estratégico estrecho de Ormuz, en lo que Washington presentó como una [...] La entrada Ataques en la Isla de Larak desatan represalias: Irán lanza misiles contra bases de EE. UU. en Jordania se publicó primero en HSB NOTICIAS .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "noticias",
-            "internacional"
-        ],
-        "creator": [
-            "valerie rosero"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "politics",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-31 16:36:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 16:45:59",
-        "image_url": "https://www.hsbnoticias.com/wp-content/uploads/2026/08/image-54-2.jpg",
-        "video_url": null,
-        "source_id": "hsbnoticias",
-        "source_name": "Hsb Noticias",
-        "source_priority": 410803,
-        "source_url": "https://www.hsbnoticias.com",
-        "source_icon": "https://n.bytvi.com/hsbnoticias.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "c5cec6665d27332e1fb3e1b0b61fde1a",
-        "link": "https://www.reforma.com/protestan-enfermeros-por-falta-de-insumos-y-personal/ar3267242",
-        "title": "Protestan enfermeros por falta de insumos y personal",
-        "description": "Enfermeros de pediatría del Centro Médico Siglo XXI protestan en Cuauhtémoc y Eje 3 Sur en demanda de insumos y contratación de personal.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "protesta",
-            "imss",
-            "ciudad",
-            "cuauhtémoc",
-            "marchas y bloqueos",
-            "eje 3 sur",
-            "centro médico"
-        ],
-        "creator": [
-            "grupo reforma"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "domestic"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-31 16:36:42",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 17:06:40",
-        "image_url": "https://img.gruporeforma.com/imagenes/960x640/7/264/6263614.jpg",
-        "video_url": null,
-        "source_id": "reforma",
-        "source_name": "Reforma",
-        "source_priority": 30519,
-        "source_url": "https://www.reforma.com",
-        "source_icon": "https://n.bytvi.com/reforma.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "4270083c23c9671d633b66d133bdc78c",
-        "link": "https://www.mural.com.mx/amenaza-trump-con-golpear-a-iran-teheran-pide-dialogo/ar3267246",
-        "title": "Amenaza Trump con golpear a Irán; Teherán pide diálogo",
-        "description": "Trump amenazó hoy con golpear a Irán tras nuevos ataques, mientras Teherán pidió diálogo y advirtió que la guerra no beneficia a la región.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "afp"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "world"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-31 16:36:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 16:50:13",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "mural",
-        "source_name": "Mural",
-        "source_priority": 966477,
-        "source_url": "https://www.mural.com.mx",
-        "source_icon": "https://n.bytvi.com/mural.png",
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://n.bytvi.com/folha.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -555,88 +484,35 @@
         "description_zh": ""
     },
     {
-        "article_id": "7154a1459d4b8cfc765784ee08acbe91",
-        "link": "https://www.elcolombiano.com/negocios/medellin-desempleo-7-por-ciento-mayo-julio-2026-KG40468222",
-        "title": "Medellín registra el desempleo más bajo del país: cayó a 7% en mayo-julio",
-        "description": "Medellín y su área metropolitana consolidaron su buen momento en materia laboral. De acuerdo con el Dane , en el trimestre móvil mayo-julio de 2026, la tasa de desocupación cayó a 7%, frente al 7,3% registrado un año atrás, es decir 1,1 puntos porcentuales por debajo del desempleo nacional , que fue de 8,1% . Mientras tanto, 68.000 personas se sumaron a la población ocupada, según los resultados de la Gran Encuesta Integrada de Hogares (GEIH). Con este resultado, Medellín A.M. se ubicó como el área metropolitana con menor desempleo entre las 23 ciudades y áreas metropolitanas medidas por la entidad. La reducción fue de 0,4 puntos porcentuales frente al mismo periodo de 2025. En paralelo, la cantidad de personas ocupadas llegó a aproximadamente 2,44 millones. Ricardo Valencia, director del Dane, explicó que el comportamiento refleja una mejora en el mercado laboral del territorio: “la tasa de desocupación se ubicó en 7%, lo que significó una disminución de 0,4 puntos porcentuales respecto al mismo periodo de 2025”. Le puede interesar: Desempleo en Colombia cayó a 8,1% en julio: la tasa más baja de este mes desde 2001 El aumento del empleo no se distribuyó de manera uniforme entre las actividades económicas. Según Valencia, el crecimiento estuvo liderado por administración pública y defensa, educación y atención de salud humana, seguido por alojamiento y servicios de comida y construcción. Estos sectores fueron los principales responsables de que el número de ocupados aumentara en 68.000 personas durante el periodo analizado. El dato resulta relevante para Medellín, una economía con una importante participación de los servicios, pero que también mantiene en la construcción una fuente significativa de ocupación. “ Las actividades económicas que más aportaron al aumento de esta población fueron administración pública y defensa, educación y atención de salud humana y alojamiento y servicios de comida y construcción” , señaló Valencia. Lea más: Medellín, la segunda ciudad donde más creció el desempleo en el primer trimestre del 2026 Mientras algunas actividades ampliaron su número de trabajadores, otras tuvieron un efecto contrario sobre la ocupación. Las industrias manufactureras, las actividades inmobiliarias y transporte y almacenamiento fueron las ramas que más restaron al crecimiento del empleo en Medellín A.M., de acuerdo con el reporte presentado por el Dane. Este comportamiento evidencia que la caída del desempleo no responde a un crecimiento generalizado de todas las actividades económicas, sino a una mayor demanda de trabajadores en determinados sectores. El 7% registrado en Medellín A.M. la dejó por debajo de otras ciudades que tradicionalmente tienen un peso importante en el mercado laboral nacional. Durante mayo-julio, Bucaramanga A.M. registró 7,2%, Pereira A.M. 7,5% , Bogotá D.C. 8%, Barranquilla A.M. 8,6% y Cali A.M. 8,9%. Conozca también: Medellín habría cerrado el 2025 con 100.000 desocupados; así se comportó el mercado laboral La combinación de menor desempleo y mayor ocupación marca un balance favorable para el mercado laboral del Valle de Aburrá. En un año, la tasa de desocupación bajó 0,4 puntos porcentuales y se incorporaron 68.000 personas a la población ocupada. Sin embargo, el comportamiento sectorial muestra que el desempeño no es homogéneo. Servicios públicos y sociales, alojamiento, comida y construcción están jalonando la creación de puestos, mientras que industria, inmobiliarias y transporte presentan una dinámica menos favorable. El resultado mantiene a Medellín entre los principales referentes laborales del país y plantea como siguiente desafío que este crecimiento de la ocupación se sostenga y se extienda a más ramas de la economía. Para consultar contenido prémium o profundizar sobre sus temas de interés de Medellín, Antioquia, Colombia y el mundo, regístrese aquí . Bloque de preguntas y respuestas:",
+        "article_id": "00735e9d1979f9cd30d3290472dc33af",
+        "link": "https://www.elimparcial.com/estilos/2026/09/01/cuando-lo-obvio-solo-es-obvio-para-ti/",
+        "title": "Cuando lo obvio sólo es obvio para ti",
+        "description": "Hay una frase que probablemente todos hemos escuchado al comenzar un trabajo: “pero eso es muy fácil”; curiosamente, casi nunca consigue que la tarea se vuelva más fácil.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "bjg",
-            "política",
-            "presidencia",
-            "economía",
-            "dane",
-            "ricardo valencia",
-            "desempleo",
-            "johan alexis garcía blandón",
-            "sectores económicos",
-            "empleo",
-            "antioquia",
-            "colombia",
-            "medellín"
+            "retos y oportunidades"
         ],
         "creator": [
-            "johan alexis garcía blandón"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-31 16:36:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 17:40:37",
-        "image_url": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/BFIB/desempleo-medellin-julio-2026_51489737_20260831112100.webp",
-        "video_url": null,
-        "source_id": "elcolombiano",
-        "source_name": "Elcolombiano",
-        "source_priority": 109876,
-        "source_url": "https://www.elcolombiano.com",
-        "source_icon": "https://n.bytvi.com/elcolombiano.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "f493c2bc1904762cf2b4d1400620c08d",
-        "link": "https://www.diariocordoba.com/cultura/2026/08/31/muere-actor-francesc-garrido-56-anos-133815091.html",
-        "title": "Muere a los 56 años Francesc Garrido, actor de 'Sé quién eres', 'La novia gitana' o 'Clanes'",
-        "description": "El actor de teatro, televisión y cine Francesc Garrido, que participó en películas como 'Mar adentro' y este año en 'El anfitrión', protagonizada por Willem Dafoe, ha fallecido a los 56 años a causa de un infarto, según han indicado a EFE este lunes fuentes del sector del cine.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "teatro"
-        ],
-        "creator": [
-            "efe"
+            "adal morones"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top",
-            "entertainment"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-31 16:36:36",
+        "pubDate": "2026-09-01 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 16:38:05",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bd5243ab-d628-4e58-a9d2-a02413bd69ec_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fetched_at": "2026-09-01 16:05:46",
+        "image_url": "https://www.elimparcial.com/resizer/v2/4W5XXQJD7FDBVMPQ6CGRR7TBA4.jpeg?auth=d1365eb9e85ee518c8ec81694ef1d8f02a82859ceee6f54343578e475b0e05ee&smart=true&width=7887&height=4437",
         "video_url": null,
-        "source_id": "diariocordoba",
-        "source_name": "Cordoba",
-        "source_priority": 48787,
-        "source_url": "https://www.diariocordoba.com",
-        "source_icon": "https://n.bytvi.com/diariocordoba.png",
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -648,37 +524,165 @@
         "description_zh": ""
     },
     {
-        "article_id": "193cce973335d828cdef14a1df1815c3",
-        "link": "https://www.latercera.com/sociales/noticia/entel-62-anos-impulsando-las-telecomunicaciones-de-chile/",
-        "title": "Entel, 62 años impulsando las telecomunicaciones de Chile",
-        "description": "Entel, 62 años impulsando las telecomunicaciones de Chile",
+        "article_id": "c36f455742d61758a860e44512292a11",
+        "link": "https://newsroom.rcnradio.com/colombia/descubren-enjambre-sismico-en-choco-tras-terremoto-en-colombia-esto-explico-el-sgc",
+        "title": "Descubren enjambre sísmico en Chocó tras terremoto en Colombia: Esto explico el SGC",
+        "description": "El enjambre sísmico en Chocó sigue bajo vigilancia del SGC. Conoce qué ha encontrado la entidad y cómo avanza el monitoreo en la región. Ver más.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "laura gutierrez valbuena"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-01 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-02 02:10:34",
+        "image_url": "https://assets.rcnradio.com/assets/cms/enjambre_sismico_Choco_cba888b244.webp",
+        "video_url": null,
+        "source_id": "rcnradio",
+        "source_name": "Rcn Radio",
+        "source_priority": 105846,
+        "source_url": "https://www.rcnradio.com",
+        "source_icon": "https://n.bytvi.com/rcnradio.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "435571ed46fffe8b80f3bf953fc86b40",
+        "link": "https://www.elimparcial.com/son/arizona/2026/09/01/el-grito-phoenix-2026-celebra-las-fiestas-patrias-mexicanas-en-arizona/",
+        "title": "El Grito Phoenix 2026: celebra las fiestas patrias mexicanas en Arizona",
+        "description": "El Grito Phoenix 2026: celebra las fiestas patrias mexicanas en Arizona",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "sociales"
+            "arizona",
+            "arizona zt"
         ],
         "creator": [
-            "la tercera"
+            "karla valenzuela"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-01 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-01 16:05:46",
+        "image_url": "https://www.elimparcial.com/resizer/v2/GMS3IPDHS5EU5HUKJHWCATBR6Y.jpg?auth=a9243c3bb10aac64389f78bc86bcc8504160f32d4889573f192310d3f6b46b25&smart=true&width=750&height=500",
+        "video_url": null,
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "07cddbae1db6c16da42ccbecf75681d2",
+        "link": "https://www.elimparcial.com/son/estilosgh/2026/09/01/innovan-en-formacion/",
+        "title": "Innovan en formación",
+        "description": "Tec de Monterrey, campus Sonora Norte, inaugura Sala de Juicios Orales y HUB de Clínicas Jurídicas.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "estilos gh"
+        ],
+        "creator": [
+            "karla valenzuela"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-01 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-01 16:05:46",
+        "image_url": "https://www.elimparcial.com/resizer/v2/F7KZWIPIDZHAFN7XTY7NSVMLJQ.jpg?auth=af2a37c4bce9894867b4327edb2358f37e637059b4fb8cc126081372e8a3111a&smart=true&width=4496&height=3000",
+        "video_url": null,
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://n.bytvi.com/elimparcial.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "6f825c253d477d86a960d5fc6e78d740",
+        "link": "https://chocale.cl/2026/09/muchos-datos-pocas-nueces-el-desafio-de-convertir-la-informacion-en-mejores-productos-y-decisiones/",
+        "title": "Muchos datos, pocas nueces: El desafío de convertir la información en mejores productos y decisiones",
+        "description": "Ejecutivos de FICO, Mercado Libre y Floid analizaron en el CMS Financial Innovation Chile 2026 cómo los datos pueden impulsar productos más personalizados y mejores decisiones financieras.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "créditos",
+            "fintechile",
+            "floid",
+            "inteligencia artificial",
+            "inclusión financiera",
+            "open banking",
+            "mercado libre",
+            "finanzas abiertas",
+            "notpay",
+            "fintech"
+        ],
+        "creator": [
+            "javier rogel"
         ],
         "language": "spanish",
         "country": [
             "chile"
         ],
         "category": [
-            "science",
             "top",
-            "lifestyle"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-31 16:36:29",
+        "pubDate": "2026-09-01 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 17:06:58",
-        "image_url": "https://www.latercera.com/resizer/v2/CDDP5B5YWRGS3L6F3A5N62CS5Y.jpg?auth=36bbd9078e0cfdf96c8cddea204f970d3d68959f433fa9af326be256bd500a10&smart=true&width=6720&height=4480",
+        "fetched_at": "2026-09-01 21:48:43",
+        "image_url": "https://i0.wp.com/chocale.cl/wp-content/uploads/2026/08/CMS-Financial-Innovation-2026.jpg?fit=1200%2C750&ssl=1",
         "video_url": null,
-        "source_id": "latercera",
-        "source_name": "Latercera",
-        "source_priority": 32330,
-        "source_url": "https://www.latercera.com",
-        "source_icon": "https://n.bytvi.com/latercera.jpg",
+        "source_id": "chocale_cl",
+        "source_name": "Chócale",
+        "source_priority": 399810,
+        "source_url": "https://chocale.cl",
+        "source_icon": "https://n.bytvi.com/chocale_cl.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -690,81 +694,36 @@
         "description_zh": ""
     },
     {
-        "article_id": "14fa0fd94ec684fc2286d80f23aee748",
-        "link": "https://www.zocalo.com.mx/conoce-todo-de-maria-vargas-edad-estatura-asi-es-la-nueva-miss-mexico/",
-        "title": "Conoce todo de María Vargas, edad, estatura Así es la nueva Miss México",
-        "description": "Este es el perfil detallado de la tapatía que representará a México en Miss Universo.",
+        "article_id": "0997cd7fe0334167f006fb43a0ee1de9",
+        "link": "https://www.informador.mx/entretenimiento/buenas-vibraciones-la-recomendacion-de-hoy-en-la-cartelera-de-cine-es-buenas-vibraciones-20260831-0171.html",
+        "title": "La recomendación de hoy en la cartelera de cine es “Buenas Vibraciones”",
+        "description": "Los aficionados al cine francés tienen la película Buenas Vibraciones en la cartelera de cine tapatía",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "espectáculos",
-            "miss mexico"
+            "entretenimiento"
         ],
         "creator": [
-            "josé alfredo ramos lópez"
+            "xochitlmartínez"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-08-31 16:36:22",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 16:43:16",
-        "image_url": "https://www.zocalo.com.mx/wp-content/uploads/2026/08/jali.jpg",
-        "video_url": null,
-        "source_id": "zocalo",
-        "source_name": "Periódico Zócalo",
-        "source_priority": 208655,
-        "source_url": "http://zocalo.com.mx",
-        "source_icon": "https://n.bytvi.com/zocalo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "46a438982634c392bd6ffd5de7e016e1",
-        "link": "https://www.diariodelsur.com.co/espanol-pasto/",
-        "title": "Defensor español Derik Osede fue inscrito por Deportivo Pasto",
-        "description": "Con el objetivo de reforzar la nómina para el segundo semestre del 2026, Derik Osede Prieto fue inscrito por Deportivo Pasto, así lo oficializó el club mediante sus redes sociales. Es de anotar que el futbolista lleva más de un mes entrenando con el equipo y ahora se oficializó su ingreso a la institución nariñense. [...] La entrada Defensor español Derik Osede fue inscrito por Deportivo Pasto se publicó primero en Diario del Sur .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "noticias",
-            "deportes",
-            "derik osede",
-            "destacadas",
-            "deportivo pasto"
-        ],
-        "creator": [
-            "antonio rosero"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports",
+            "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-31 16:36:18",
+        "pubDate": "2026-09-01 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 16:49:34",
-        "image_url": "https://www.diariodelsur.com.co/wp-content/uploads/2026/08/FOTO-2-DEREK-OSEDE-PRIETO.jpg",
+        "fetched_at": "2026-09-01 16:05:41",
+        "image_url": "https://www.informador.mx/__export/1788225714159/sites/elinformador/img/2026/08/31/buenas_vibraciones_x1x_crop1788225669825.jpg_539401183.jpg",
         "video_url": null,
-        "source_id": "diariodelsur",
-        "source_name": "Diario Del Sur",
-        "source_priority": 832974,
-        "source_url": "http://diariodelsur.com.co",
-        "source_icon": "https://n.bytvi.com/diariodelsur.png",
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://n.bytvi.com/informador_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -776,33 +735,38 @@
         "description_zh": ""
     },
     {
-        "article_id": "71b402bef735a4a5d61c4d2cff3a49f0",
-        "link": "https://www.elnorte.com/amenaza-trump-con-golpear-a-iran-teheran-pide-dialogo/ar3267245",
-        "title": "Amenaza Trump con golpear a Irán; Teherán pide diálogo",
-        "description": "Trump amenazó hoy con golpear a Irán tras nuevos ataques, mientras Teherán pidió diálogo y advirtió que la guerra no beneficia a la región.",
+        "article_id": "3b3a390aaf5f3fa63ddd83ed733c0c04",
+        "link": "https://www.lacuarta.com/tendencias/noticia/alejo-igoa-viene-a-chile-llega-el-show-del-youtuber-en-espanol-mas-grande-del-mundo/",
+        "title": "Alejo Igoa viene a Chile: Llega el show del Youtuber en español más grande del mundo",
+        "description": "El creador de contenido con más de 121 millones de suscriptores realizará su primera gira internacional que lo llevará a cinco países.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "movistar arena",
+            "show",
+            "alejo igoa"
+        ],
         "creator": [
-            "afp"
+            "axel christiansen"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "chile"
         ],
         "category": [
-            "world"
+            "entertainment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-31 16:36:17",
+        "pubDate": "2026-09-01 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-08-31 16:40:07",
-        "image_url": null,
+        "fetched_at": "2026-09-01 16:06:43",
+        "image_url": "https://www.lacuarta.com/resizer/v2/NHFI3HQLIRCV5IHPF2VFUS2FJE.png?auth=e4b800e455cdb16f995da3387697a2cd9a3e5e5bb4fab820b2cf79b9ed37b6dc&smart=true&width=1900&height=1080",
         "video_url": null,
-        "source_id": "elnorte",
-        "source_name": "Elnorte",
-        "source_priority": 107502,
-        "source_url": "https://www.elnorte.com",
-        "source_icon": "https://n.bytvi.com/elnorte.png",
+        "source_id": "lacuarta",
+        "source_name": "La Cuarta",
+        "source_priority": 33259,
+        "source_url": "https://www.lacuarta.com",
+        "source_icon": "https://n.bytvi.com/lacuarta.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -814,34 +778,124 @@
         "description_zh": ""
     },
     {
-        "article_id": "763979d7df4d8ce3238a31ca85427332",
-        "link": "https://oem.com.mx/elsoldehermosillo/tendencias/el-gran-canon-atractivos-y-medidas-de-seguridad-para-una-visita-inolvidable-31832459",
-        "title": "El Gran Cañón: Atractivos y medidas de seguridad para una visita inolvidable",
-        "description": "Luego de la inundación que sorprendió a campistas el río Colorado en la parte baja del Gran Cañón, surgen dudas sobre la seguridad que existe en ese sitio turístico",
+        "article_id": "a8870fb9202da85f34ffde128cef5615",
+        "link": "https://www.eleconomista.com.mx/los-especiales/electronic-arts-salida-nasdaq-busca-expansion-comunidades-globales-20260901-831101.html",
+        "title": "Electronic Arts tras su salida del Nasdaq busca la expansión de sus comunidades globales",
+        "description": "La operación encabezada por PIF, Silver Lake y Affinity Partners abre una nueva etapa para Electronic Arts, con capital privado, franquicias globales y mayores apuestas tecnológicas digitales",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "tendencias"
+            "los especiales"
         ],
-        "creator": null,
+        "creator": [
+            "patricia ortega"
+        ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
             "top",
-            "crime"
+            "technology"
         ],
         "datatype": "news",
-        "pubDate": "2026-08-31 16:36:11",
+        "pubDate": "2026-09-01 16:00:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-01 04:12:45",
-        "image_url": null,
+        "fetched_at": "2026-09-01 16:04:26",
+        "image_url": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/08/31/6a95e740079c1.jpeg",
         "video_url": null,
-        "source_id": "elsoldehermosillo",
-        "source_name": "El Sol De Hermosillo",
-        "source_priority": 176742,
-        "source_url": "https://www.elsoldehermosillo.com.mx",
-        "source_icon": "https://n.bytvi.com/elsoldehermosillo.png",
+        "source_id": "eleconomista",
+        "source_name": "El Economista",
+        "source_priority": 19606,
+        "source_url": "https://www.eleconomista.com.mx",
+        "source_icon": "https://n.bytvi.com/eleconomista.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "a2ac1b54ac001e15d4c2d3997acdf3ab",
+        "link": "https://periodicoelmomento.com/exportaciones-de-jitomate-potosino-caen-15-4-por-ciento/",
+        "title": "Exportaciones de jitomate potosino caen 15.4 por ciento",
+        "description": "Productores enfrentan menores envíos a Estados Unidos, cuota antidumping y menores márgenes de ganancia.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "san luis potosi",
+            "principales"
+        ],
+        "creator": [
+            "ernesto garcía"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-01 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-01 16:24:43",
+        "image_url": "https://periodicoelmomento.com/wp-content/uploads/2026/08/9d601f29-dbaf-4b5a-b96d-86cbf13a1d7f-1024x576.jpeg",
+        "video_url": null,
+        "source_id": "periodicoelmomento",
+        "source_name": "Inicio - Momento",
+        "source_priority": 3162964,
+        "source_url": "https://periodicoelmomento.com",
+        "source_icon": "https://n.bytvi.com/periodicoelmomento.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "58f82dda60b8921a4e43a9e3d95d7464",
+        "link": "https://www.theclinic.cl/2026/09/01/bmw-ix3-en-chile-neue-klasse-precio/",
+        "title": "BMW iX3 en Chile: la apuesta que abre la era Neue Klasse",
+        "description": "El BMW iX3 en Chile inaugura la plataforma Neue Klasse con precios desde 83,9 millones de pesos. Autonomía de hasta 805 km, carga ultrarrápida y un computador central diez veces más veloz marcan el primer capítulo eléctrico de la marca en el país. The post BMW iX3 en Chile: la apuesta que abre la era Neue Klasse appeared first on The Clinic .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "bmw",
+            "lanzamiento en chile",
+            "autos eléctricos",
+            "auto test",
+            "suv",
+            "tecnología automotriz"
+        ],
+        "creator": [
+            "leo mellado"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-01 16:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-01 16:11:22",
+        "image_url": "https://static.theclinic.cl/media/2026/09/01-153213_ly6h_P90626547_highRes_the-new-bmw-ix3-50-x.jpg",
+        "video_url": null,
+        "source_id": "theclinic",
+        "source_name": "The Clinic",
+        "source_priority": 129373,
+        "source_url": "https://www.theclinic.cl",
+        "source_icon": "https://n.bytvi.com/theclinic.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
