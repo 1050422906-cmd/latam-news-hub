@@ -1,146 +1,39 @@
 [
     {
-        "article_id": "e391efad84fe96459a2bf52eb58d4c6b",
-        "link": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/09/05/haaland-decide-city-supera-o-cacula-coventry-city-e-mantem-campanha-perfeita-na-premier-league.htm",
-        "title": "Haaland decide, City supera o caçula Coventry City na Premier League",
-        "description": "Haaland decide, e City supera o recém-promovido Coventry City no Inglês",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "agência estado"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-05 16:04:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 17:03:08",
-        "image_url": "https://imguol.com/c/esporte/7b/2026/09/05/haaland-foi-o-autor-do-gol-da-vitoria-do-manchester-city-contra-o-coventry-pela-premier-league-1788624349458_v2_450x253.jpg",
-        "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://i.newsdata.io/uol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "4bea0657443961b59d8f03c36e54505e",
-        "link": "https://tribunadepetropolis.com.br/noticias/haaland-decide-city-supera-o-cacula-coventry-city-e-mantem-campanha-perfeita-na-premier-league/",
-        "title": "Haaland decide, City supera o caçula Coventry City e mantém campanha perfeita na Premier League",
-        "description": "A briga pela artilharia está acirrada nesta largada da Premier League. Após desencantar na segunda rodada, Haaland voltou a deixar sua marca pelo Manchester City, desta vez sendo decisivo no triunfo sobre o recém-promovido Coventry City, por 1 a 0, no Etihad Stadium. O camisa 9 igualou os três gols de Bruno Fernandes, do rival [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-05 16:04:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:46:52",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://i.newsdata.io/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "d9df6c6ba10c67ee8746878b5a8de9f2",
-        "link": "https://tribunadepetropolis.com.br/noticias/lula-nao-quero-depender-da-china-e-dos-eua-queremos-inteligencia-artificial-em-portugues/",
-        "title": "Lula: não quero depender da China e dos EUA, queremos inteligência artificial em português",
-        "description": "O presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), afirmou neste sábado, 5, que o Brasil não quer depender da China ou dos Estados Unidos no desenvolvimento de inteligência artificial e defendeu uma tecnologia produzida em português. Durante comício em São José do Rio Preto (SP), Lula também destacou o [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "victor ohana e júlia pestana / estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-05 16:04:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:46:54",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://i.newsdata.io/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "6073235455cad2e2b61096c8dcf7bef7",
-        "link": "https://eldiariodecatamarca.com/index.php/policiales-y-judiciales/en-menos-de-24-horas-detienen-a-42-personas-en-distintos-operativos-en-catamarca",
-        "title": "En menos de 24 horas detienen a 42 personas en distintos operativos en Catamarca",
-        "description": "Lo llevaron adelante efectivos de las Comisarías del Valle Central y de la Departamental Tinogasta, con la colaboración de sus pares de distintos grupos especiales de la Institución-eldiariodecatamarca.com",
+        "article_id": "f0839eb4a4837d78dcab1ecc5a68e15d",
+        "link": "https://www.canal26.com/tendencias/2026/09/06/tecnica-japonesa-para-que-sirve-poner-una-moneda-en-el-freezer-y-como-saber-si-se-corto-la-luz/",
+        "title": "Técnica japonesa: para qué sirve poner una moneda en el freezer y cómo saber si se cortó la luz",
+        "description": "Este método es clave para saber si el corte ocurrió hace varias horas y cuidar los alimentos.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "policiales y judiciales"
+            "luz",
+            "truco",
+            "evergreen",
+            "monedas"
         ],
-        "creator": null,
+        "creator": [
+            "canal 26"
+        ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "politics"
+            "top",
+            "crime",
+            "technology"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-05 16:03:59",
+        "pubDate": "2026-09-06 16:03:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:28:03",
-        "image_url": "https://eldiariodecatamarca.com/images/noticias/2026/09-05-2026/detienen%20a%2042%20personas%20en%20distintos.jpg",
+        "fetched_at": "2026-09-06 16:33:30",
+        "image_url": "https://www.canal26.com/resizer/v2/TLSBGPRB6ZEJHFSMAOXH4YL6KY.png?auth=8d541a3a101ac1f231cf3d63ff9a00cda7fdd55e7ab36529754c204e7e658486&smart=true&width=1200&height=900",
         "video_url": null,
-        "source_id": "eldiariodecatamarca",
-        "source_name": "El Diario De Catamarca",
-        "source_priority": 20757621,
-        "source_url": "https://eldiariodecatamarca.com",
-        "source_icon": "https://i.newsdata.io/eldiariodecatamarca.jpeg",
+        "source_id": "canal26",
+        "source_name": "Canal26",
+        "source_priority": 9385,
+        "source_url": "https://www.canal26.com",
+        "source_icon": "https://i.newsdata.io/Canal26.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -152,13 +45,16 @@
         "description_zh": ""
     },
     {
-        "article_id": "208917fea6409633f7d54721d06146dd",
-        "link": "https://extra.globo.com/blogs/page-not-found/post/2026/09/colecionador-descobre-que-cabeca-de-raposa-empalhada-e-parte-de-predador-extinto-e-a-compra-por-r-505-mil.ghtml",
-        "title": "Colecionador descobre que 'cabeça de raposa' empalhada é parte de predador extinto e a compra por R$ 505 mil",
-        "description": "James Cranfield coleciona \"cabeças de raposa estranhas e maravilhosas\" para demonstrar a diversidade da taxidermia. Ao navegar por um site de leilões, uma peça empalhada chamou a sua atenção. O objeto era descrito como \"cabeça de raposa do século XIX\". Porém, ao examinar a imagem mais de perto, percebeu que se tratava de algo muito mais especial. \"Quando cliquei e a imagem ampliou, foi como um choque para o meu cérebro e os meus olhos: aquilo não era uma raposa\", contou o britânico de 38 anos, segundo a BBC. \"Pensei imediatamente: Isso parece um tilacino\", completou ele. O tilacino, ou tigre-da-tasmânia, era um marsupial carnívoro que lembrava um cachorro grande, mas apresentava um padrão distinto de listras no dorso. Antes distribuído por toda a Austrália e chegando até o norte, na Papua-Nova Guiné, o predador estava restrito à ilha da Tasmânia quando os colonizadores europeus chegaram. A espécie foi levada à beira da extinção pela caça, doenças e perda de habitat. E ela chegou em 1936, quando o último tilacino morreu em zoológico da Tasmânia. Só as fotos não deram ao colecionador a garantia de que ele estava diante de uma preciosidade. Ele foi ver a cabeça empalhada na casa de leilões, que ficava a três horas de carro de onde ele morava Cranfield estava certo. Era a cabeça de um tigre-da-tasmânia. Uma pessoa anônima havia comprado o artefato pelo equivalente a cerca de numa feira local, achando graça dos seus olhos esbugalhados e do sorriso caricato da \"raposa\", segundo o site \"Science Alert\". Naturalmente, ele ficou muito surpreso ao colocar a peça para leilão na Auctioneum, em Bristol (Inglaterra), e vê-la ser arrematada por nada menos que R$ 435 mil (valor pago ao vendedor) Cranfield disse que planeja manter a peça taxidermizada — não como um troféu, mas como uma ferramenta educacional que os cientistas possam utilizar para obter mais informações sobre seu misterioso proprietário.. Colecionador James Cranfield descobriu que 'cabeça de raposa' empalhada era parte de predador extinto e o comprou por R$ 505 mil em leilão Reprodução/Auctioneum Foi exatamente Cranfield quem arrematou a cabeça rara, contou o \"Times of London\". O colecionador ainda pagou cerca de R$ 70 mil em taxas, somando assim R$ 505 mil. Para garantir que não havia pago uma fortuna por uma cabeça de raposa comum, Cranfield submeteu o espécime a exames de raio-X e tomografia computadorizada, confirmando tratar-se de um artefato autêntico. \"Não só é uma cabeça de tilacino genuína, como os exames revelaram um crânio perfeito e em estado impecável dentro da peça montada. Estou muito satisfeito por não ter passado pelo vexame de gastar [tanto] numa cabeça de raposa. Eu jamais poderia dar as caras na comunidade, na internet ou em qualquer outro lugar\", declarou o britânico. Cranfield disse que planeja manter a peça taxidermizada não como um troféu, mas como uma ferramenta educacional que os cientistas possam utilizar para obter mais informações sobre a espécie.",
+        "article_id": "09322fd1544cbcaba8a1823f8d48aabc",
+        "link": "https://www.netvasco.com.br/n/392031/veja-fotos-do-treino-do-vasco-deste-domingo-no-ct-moacyr-barbosa",
+        "title": "Veja fotos do treino do Vasco deste domingo no CT Moacyr Barbosa",
+        "description": "vascodagama Treino & preparação encerrada antes da viagem rumo à Colômbia ✈️🇨🇴 📸 Matheus Lima | #VascoDaGama Fonte: Instagram oficial do Vasco",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "extra"
+            "notícias",
+            "treino",
+            "vasco",
+            "ct moacyr barbosa"
         ],
         "creator": null,
         "language": "portuguese",
@@ -167,62 +63,19 @@
         ],
         "category": [
             "top",
-            "environment"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-09-05 16:03:47",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:38:00",
-        "image_url": "https://s2-extra.glbimg.com/h71B5sfpz5PlgkmSMqlsbOicgoA=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/Z/l/fGfqGvRSu6QJApv49RPg/blog-tasmanian-1.jpg",
-        "video_url": null,
-        "source_id": "extra_globo",
-        "source_name": "Extra | Extra Online",
-        "source_priority": 47133,
-        "source_url": "https://extra.globo.com",
-        "source_icon": "https://i.newsdata.io/extra_globo.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "06e1be57f2f1c30ee2d80d248474c91c",
-        "link": "https://www.diariodecuyo.com.ar/politica/murio-alberto-iribarne-ex-ministro-justicia-nestor-kirchner-n6582255",
-        "title": "Murió Alberto Iribarne, ex ministro de Justicia de Néstor Kirchner",
-        "description": "Tenía 75 años y una extensa trayectoria en la función pública. Fue ministro de Justicia de Néstor Kirchner, diputado, convencional constituyente y embajador en Uruguay.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "néstor kirchner",
-            "exministro",
-            "muerte"
-        ],
-        "creator": [
-            "agencia noticias argentinas"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "politics"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-05 16:03:34",
+        "pubDate": "2026-09-06 16:03:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:16:25",
-        "image_url": "https://media.diariodecuyo.com.ar/p/e098d05818e153624318d829888f5433/adjuntos/380/imagenes/100/334/0100334120/1200x675/smart/image.png",
+        "fetched_at": "2026-09-06 16:06:46",
+        "image_url": "https://netvasco.com.br/img/logo_mini.jpg",
         "video_url": null,
-        "source_id": "diariodecuyo",
-        "source_name": "Diario De Cuyo",
-        "source_priority": 394047,
-        "source_url": "https://www.diariodecuyo.com.ar",
-        "source_icon": "https://i.newsdata.io/diariodecuyo.jpg",
+        "source_id": "netvasco_br",
+        "source_name": "Netvasco",
+        "source_priority": 32805,
+        "source_url": "https://www.netvasco.com.br",
+        "source_icon": "https://i.newsdata.io/netvasco_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -234,29 +87,245 @@
         "description_zh": ""
     },
     {
-        "article_id": "9e2e33d01cb676cc390d7dc3e68be372",
-        "link": "https://odia.ig.com.br/economia/empregos-e-negocios/2026/09/7299022-siderurgica-abre-mais-de-30-vagas-para-programa-de-estagio-no-rio.html",
-        "title": "Siderúrgica abre mais de 30 vagas para programa de estágio no Rio",
-        "description": "Oportunidade é destinada a estudantes de graduação com previsão de formatura entre 2028 e 2029; bolsa-auxílio pode chegar a R$ 2 mil",
+        "article_id": "236863afa573995bc5a07bdb2445567d",
+        "link": "https://oantagonista.com.br/ladooa/entretenimento/ao-rebaixar-quintal-em-80-centimetros-para-ampliar-garagem-familia-deixa-base-do-muro-vizinho-completamente-exposta/",
+        "title": "Ao rebaixar quintal em 80 centímetros para ampliar garagem, família deixa base do muro vizinho completamente exposta",
+        "description": "Samuel retirou cerca de 80 centímetros de terra do quintal para ampliar a garagem, acreditando que o muro de Lídia possuía fundação independente. Dois dias depois, três rachaduras apareceram dentro da casa vizinha, enquanto o empreiteiro afirmou que a parede já tinha sustentação inadequada antes da obra. Samuel podia rebaixar o quintal mesmo deixando a... The post Ao rebaixar quintal em 80 centímetros para ampliar garagem, família deixa base do muro vizinho completamente exposta appeared first on O Antagonista .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "empregos e negócios"
+            "rebaixamento do quintal",
+            "direito de vizinhança",
+            "escavação",
+            "muro",
+            "entretenimento"
         ],
         "creator": [
-            "victor louro"
+            "miguel adonay"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
+            "top",
             "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-05 16:03:29",
+        "pubDate": "2026-09-06 16:03:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:12:32",
-        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/09/05/20260825_programa_de_estagio_ternium_154-39366512.jpeg",
+        "fetched_at": "2026-09-06 16:22:45",
+        "image_url": "https://cdn.oantagonista.com/uploads/2026/09/Vizinhos_discutindo_muro_rachado_202609060658.jpg",
+        "video_url": null,
+        "source_id": "oantagonista",
+        "source_name": "O Antagonista",
+        "source_priority": 2104208,
+        "source_url": "https://www.oantagonista.com",
+        "source_icon": "https://i.newsdata.io/oantagonista.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "7ea42d3871d77071b351e4b9e4f6df81",
+        "link": "https://www.letrap.com.ar//politica/elecciones-marcos-juarez-resultados-y-todos-los-datos-vivo-n5426385",
+        "title": "Elecciones en Marcos Juárez: comenzó el recuento de los votos y se esperan resultados cerca de las 20",
+        "description": "Dellarossa, Crescente y Font concentran la disputa este domingo. Pasquali, al acecho. Una contienda que se municipalizó, pero que Córdoba leerá en clave 2027. Elecciones en Marcos Juárez: Dellarossa volvió al plan de 2014 y cerró la campaña con Juez, Macri y Bullrich Elecciones en Marcos Juárez: Germán Font llega envalentonado al domingo y su mesa chica sueña con el batacazo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "política"
+        ],
+        "creator": [
+            "letra p"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "blog",
+        "pubDate": "2026-09-06 16:03:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 21:13:59",
+        "image_url": "https://media.letrap.com.ar/p/1f85c80cb727f53c289165c0b0a60de2/adjuntos/349/imagenes/100/197/0100197322/1200x630/smart/marcos-juarez-cartel.png",
+        "video_url": null,
+        "source_id": "letrap_ar",
+        "source_name": "Letra P",
+        "source_priority": 314803,
+        "source_url": "https://www.letrap.com.ar",
+        "source_icon": "https://i.newsdata.io/letrap_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "68cbe9b36f5a92bc92d4beb74eef4926",
+        "link": "https://www.em.com.br/politica/2026/09/7495053-ato-no-dia-da-independencia-reune-politicos-de-direita-em-bh.html",
+        "title": "Ato no Dia da Independência reúne políticos de direita em BH",
+        "description": "Manifestação na Praça da Liberdade deve ter as presenças de Flávio Roscoe, Nikolas Ferreira e outros nomes do PL; pauta inclui críticas a Lula e Moraes, e orações para Mendonça",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "eleições 2026",
+            "nikolas ferreira",
+            "manifestação",
+            "brasil",
+            "belo horizonte",
+            "direita"
+        ],
+        "creator": [
+            "nara ferreira"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:02:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 19:30:46",
+        "image_url": "https://midias.em.com.br/app/noticia_127983242361/2022/09/06/1391517/nas-comemoracoes-do-dia-da-independencia-no-ano-passado-apoiadores-do-presidente-lotaram-a-praca-da-liberdade-em-belo-horizonte_1_194306.jpg",
+        "video_url": null,
+        "source_id": "estadodeminas",
+        "source_name": "Jornal Estado De Minas",
+        "source_priority": 6179,
+        "source_url": "https://www.em.com.br",
+        "source_icon": "https://i.newsdata.io/estadodeminas.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "67fc0f43f785f20374463d8e55063f8d",
+        "link": "https://www.rionegro.com.ar/economia/banco-nacion-lanza-una-nueva-linea-de-financiamiento-uva-para-la-compra-de-vehiculos-0km-y-usados-4711500/",
+        "title": "Banco Nación lanza una nueva línea de financiamiento UVA para la compra de vehículos 0 KM y usados",
+        "description": "La entidad bancaria suma una alternativa con montos de hasta 100 millones de pesos sin prenda. El crédito permite financiar la totalidad del rodado y estará disponible a partir de este lunes 7 de septiembre con tasas diferenciales para clientes con cuenta sueldo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "economía",
+            "créditos uva",
+            "banco nación",
+            "autos 0 km",
+            "financiamiento",
+            "créditos"
+        ],
+        "creator": [
+            "gabriel jara"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:02:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 16:14:39",
+        "image_url": "https://www.rionegro.com.ar/wp-content/uploads/2026/09/rn-2026-09-06T130151.962.jpg?w=1200&h=630&crop=1&resize=1200,630",
+        "video_url": null,
+        "source_id": "rionegro",
+        "source_name": "Diario Río Negro",
+        "source_priority": 337049,
+        "source_url": "https://www.rionegro.com.ar",
+        "source_icon": "https://i.newsdata.io/rionegro.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "d71085f94249eb1e65d8c39f937b4810",
+        "link": "https://g1.globo.com/se/sergipe/edicao/2026/09/06/videos-estacao-agricola-deste-domingo-6-de-setembro.ghtml",
+        "title": "VÍDEOS: Estação Agrícola deste domingo, 6 de setembro",
+        "description": "VÍDEOS: Estação Agrícola deste domingo, 6 de setembro",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "g1"
+        ],
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:02:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 16:35:29",
+        "image_url": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://i.newsdata.io/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "b18a7ae9d8d32526ca4361afbc5e4b7f",
+        "link": "https://odia.ig.com.br/diversao/celebridades/2026/09/7299290-simone-mendes-conta-sobre-susto-apos-procedimento-estetico.html",
+        "title": "Simone Mendes conta sobre susto após procedimento estético",
+        "description": "Cantora falou sobre pós-operatório em publicação nas redes sociais, neste último sábado (5)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "celebridades"
+        ],
+        "creator": [
+            "isabela bitencourt"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:02:43",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 16:12:09",
+        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/09/06/design_sem_nome___2026_09_06t125752_532-39371417.jpg",
         "video_url": null,
         "source_id": "odia_ig_br",
         "source_name": "Odia Ig Br",
@@ -274,273 +343,44 @@
         "description_zh": ""
     },
     {
-        "article_id": "4bf72898a343f01b86de45da2a5dd7cc",
-        "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/05/brasil-goleia-a-tanzania-na-estreia-da-copa-do-mundo-feminina-sub-20.ghtm",
-        "title": "Brasil goleia a Tanzânia na estreia da Copa do Mundo feminina sub-20",
-        "description": "Brasil goleia a Tanzânia na estreia da Copa do Mundo feminina sub-20",
+        "article_id": "f44b80a1a46f3000cecfc2011cc6d355",
+        "link": "https://www.lance.com.br/volei/volei-de-praia-brasil-carimba-vaga-olimpica-no-masculino.html",
+        "title": "verena-thainara-volei-de-praia",
+        "description": "O Brasil já é presença garantida na disputa masculina do vôlei de praia nos Jogos Olímpicos de Los Angeles 2028. Veja!",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "olimpíadas",
+            "jogos olímpicos",
+            "brasil",
+            "mais esportes",
+            "update_me",
+            "explain_it_to_me",
+            "vôlei",
+            "sul-americano",
+            "vôlei de praia"
+        ],
         "creator": [
-            "bruno favoretto"
+            "thiago fernandes"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-05 16:03:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:03:28",
-        "image_url": "https://imguol.com/c/esporte/84/2026/09/05/selecao-brasileira-feminina-estreou-com-goleada-por-4-a-1-sobre-a-tanzania-na-copa-do-mundo-sub-20-1788623441353_v2_450x337.jpg",
-        "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://i.newsdata.io/uol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "a3402fb41b0609654f4b624da15ca9a2",
-        "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/05/frente-fria-leva-chuva-ao-sudeste-e-aumenta-risco-de-geada-no-sul-no-feriadao.ghtm",
-        "title": "Frente fria leva chuva ao Sudeste e aumenta risco de geada no Sul do Brasil",
-        "description": "Frente fria leva chuva ao Sudeste e aumenta risco de geada no Sul",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "alexandre novais garcia"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-05 16:03:27",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:03:27",
-        "image_url": "https://conteudo.imguol.com.br/c/noticias/c6/2025/09/22/alagamento-na-avenida-joao-batista-vitoriano-na-vila-constancia-zona-sul-de-sao-paulo-1758564856603_v2_4x3.jpg",
-        "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://i.newsdata.io/uol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "6c607d51ea4c7c546d82a9fe06cb4f7e",
-        "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/09/05/caca-grego-cai-diante-de-milhares-durante-show-aereo-perto-de-atenas.ghtm",
-        "title": "Caça cai e explode durante exibição aérea na Grécia; pilotos morrem",
-        "description": "Caça cai e explode durante exibição aérea na Grécia; pilotos morrem",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "170984"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-05 16:03:24",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:03:24",
-        "image_url": "https://imguol.com/c/noticias/9a/2026/09/05/fumaca-sobe-apos-a-queda-de-um-jato-militar-phantom-f-4-durante-o-show-aereo-athens-flying-week-no-aeroporto-militar-de-tanagra-perto-de-atenas-1788613156753_v2_300x225.jpg",
-        "video_url": null,
-        "source_id": "uol",
-        "source_name": "Uol",
-        "source_priority": 3498,
-        "source_url": "https://www.uol.com.br",
-        "source_icon": "https://i.newsdata.io/uol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "38684835f2f0f41c380c3ce6fac2ce8c",
-        "link": "https://www.tvazteca.com/aztecadeportes/barcelona-real-madrid-favorito-campeon-espana/",
-        "title": "Barcelona o Real Madrid; ¿qué club es el favorito a ganar la temporada 2026 - 2027 en España?",
-        "description": "El Barcelona y el Real Madrid son dos de los principales favoritos a quedarse con el título de la primera división de España, según la Inteligencia Artificial.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "internacional"
-        ],
-        "creator": [
-            "alan chávez - marktube"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-05 16:04:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 23:34:20",
-        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/50/34/8589ca254354b31c3e2dfff7e063/barcelona-real-madrid-favorito-campeon-espana.jpg",
-        "video_url": null,
-        "source_id": "tvazteca",
-        "source_name": "Azteca Deportes",
-        "source_priority": 17594,
-        "source_url": "https://www.tvazteca.com",
-        "source_icon": "https://i.newsdata.io/tvazteca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "f65b1c92260f7bf977911e311484f05c",
-        "link": "https://ladiscusion.cl/familia-afectada-por-tornado-en-yungay-recibe-vivienda-de-emergencia/",
-        "title": "Familia afectada por tornado en Yungay recibe vivienda de emergencia",
-        "description": "Una nueva respuesta concreta para una familia afectada por los recientes eventos meteorológicos se materializó este jueves en Yungay, donde se concretó la entrega de una vivienda, permitiendo avanzar en el restablecimiento de sus condiciones de vida y dando continuidad al proceso de recuperación tras la emergencia. La entrega se enmarca en el trabajo que [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "yungay",
-            "ñuble",
-            "vivienda de emergencia",
-            "tornado"
-        ],
-        "creator": [
-            "ladiscusion"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-05 16:03:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:16:11",
-        "image_url": "https://ladiscusion.cl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-05-at-9.43.02-AM-1.jpg",
-        "video_url": null,
-        "source_id": "ladiscusion_cl",
-        "source_name": "Ladiscusion Cl",
-        "source_priority": 338295,
-        "source_url": "https://www.ladiscusion.cl",
-        "source_icon": "https://i.newsdata.io/ladiscusion_cl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "d29a23157d814f13f74ab55209e9be12",
-        "link": "https://www.poresto.com/campeche/2026/9/5/alertan-por-conjuntivitis-en-campeche-calor-dispara-hasta-60-los-problemas-de-la-vista.html",
-        "title": "Alertan por conjuntivitis en Campeche: Calor dispara hasta 60% los problemas de la vista",
-        "description": "Especialistas alertan que el calor aumenta hasta 60% los problemas oculares, principalmente ojo seco y conjuntivitis, y recomiendan evitar la automedicación.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "campeche",
-            "península de yucatán"
-        ],
-        "creator": [
-            "alejandro balan"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-05 16:03:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 18:21:49",
-        "image_url": "https://www.poresto.com/media/2026/9/5/los-problemas-de-la-vista-aumentan-hasta-60-por-ciento-durante-la-temporada-de-calor.jpg",
-        "video_url": null,
-        "source_id": "poresto",
-        "source_name": "Por Esto!",
-        "source_priority": 1266292,
-        "source_url": "https://www.poresto.com",
-        "source_icon": "https://i.newsdata.io/poresto.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "8c3cd2674325d6efdc699e3fc1c15885",
-        "link": "https://www.diarioeldia.cl/noticias/2026/09/05/150020-sammis-reyes-sorprende-con-el-arena-la-herradura-y-motiva-a-jovenes-deportistas-de-coquimbo",
-        "title": "Sammis Reyes sorprende con el Arena La Herradura y motiva a jóvenes deportistas de Coquimbo",
-        "description": "El exjugador de la NFL destacó el recinto deportivo y compartió con integrantes de Campeones para Coquimbo, relevando el deporte como una oportunidad de vida.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "equipo el día"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
         ],
         "category": [
             "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-05 16:03:46",
+        "pubDate": "2026-09-06 16:02:34",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:20:33",
-        "image_url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/09/diarioeldia/images/02/75/72/2757248_066a6db3f2fe9a1b09539d39c3fedc4427666dd2f6b74fda2d86120b4a67bb25/md.webp",
+        "fetched_at": "2026-09-06 16:04:22",
+        "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,format=webp/uploads/2026/09/verena-thainara-volei-de-praia-scaled.jpg",
         "video_url": null,
-        "source_id": "diarioeldia",
-        "source_name": "Diario El D",
-        "source_priority": 942639,
-        "source_url": "https://diarioeldia.cl",
-        "source_icon": "https://i.newsdata.io/diarioeldia.png",
+        "source_id": "lance",
+        "source_name": "Lance!",
+        "source_priority": 12891,
+        "source_url": "https://www.lance.com.br",
+        "source_icon": "https://i.newsdata.io/lance.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -552,41 +392,79 @@
         "description_zh": ""
     },
     {
-        "article_id": "df8e6a961f89781f7086fb6c0e2fc670",
-        "link": "https://www.diariocambio.com.mx/2026/municipios/puebla-municipios/a-sacar-el-cubrebocas-ceniza-del-popocatepetl-llegara-a-puebla-cdmx-y-morelos/",
-        "title": "A sacar el cubrebocas: Ceniza del Popocatépetl llegará a Puebla, CDMX y Morelos",
-        "description": "La ceniza del Popocatépetl podría desplazarse principalmente hacia el norte y oeste durante las próximas 12 horas, con posible afectación en el Valle de Atlixco, Angelópolis, Estado de México, Ciudad de México y Morelos, de acuerdo con un pronóstico de dispersión emitido este sábado 5 de septiembre de 2026. El pronóstico, correspondiente a las 06:00 [...] The post A sacar el cubrebocas: Ceniza del Popocatépetl llegará a Puebla, CDMX y Morelos appeared first on Diario Cambio .",
+        "article_id": "5c2472a49cd14b90c110a5e9a53cef48",
+        "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/06/homem-e-morto-a-tiros-enquanto-dormia-dentro-de-casa-na-grande-joao-pessoa.ghtml",
+        "title": "Homem é morto a tiros enquanto dormia dentro de casa, na Grande João Pessoa",
+        "description": "Viatura da Polícia Militar da Paraí Divulgação/PMPB Um homem de 20 anos foi morto a tiros enquanto dormia em casa, na madrugada deste domingo (6), em Bayeux, na Grande João Pessoa. A vítima foi identificada como Samir Nascimento. De acordo com a Polícia Militar, dois homens invadiram a residência e atiraram várias vezes contra Samir, que estava dormindo no momento do crime. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp Ainda segundo a PM, o homem usava tornozeleira eletrônica e tinha antecedentes por tráfico de drogas. Até a última atualização desta reportagem, nenhum suspeito havia sido identificado ou preso. A polícia investiga o caso. Vídeos mais assistidos do g1 Paraíba",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "morelos",
-            "atlixco",
-            "cdmx",
-            "puebla",
-            "cubrebocas",
-            "ceniza",
-            "popocatepetl"
+            "g1"
+        ],
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:02:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 16:34:01",
+        "image_url": "https://s2-g1.glbimg.com/43xo4jVeAVL7hETgouu-KzHvVP8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/J/JC7p0bTt2Y104hrVmbcQ/viatura-da-pm-paraiba.jpg",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://i.newsdata.io/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "c63f88d3d7479eee73552495b198093c",
+        "link": "https://www.hidrocalidodigital.com/ruta-53-jesus-maria-y-aguascalientes/",
+        "title": "Arranca la Ruta 53 entre Jesús María y Aguascalientes",
+        "description": "A partir de este domingo, inicia operaciones la Ruta 53, con lo que se incrementa la movilidad entre los municipios de Aguascalientes y Jesús María en beneficio de miles de personas que diariamente se desplazan entre ambos territorios.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nuestro estado",
+            "ruta 53",
+            "jesús maría",
+            "aguascalientes",
+            "autobuses",
+            "movilidad"
         ],
         "creator": [
-            "mara gonzález"
+            "matilde arteaga"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "domestic"
+            "top",
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-05 16:03:38",
+        "pubDate": "2026-09-06 16:03:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:10:59",
-        "image_url": "https://www.diariocambio.com.mx/wp-content/uploads/2026/09/A-sacar-el-cubrebocas-Ceniza-del-Popocatepetl-llegara-a-Puebla-CDMX-y-Morelos.webp",
+        "fetched_at": "2026-09-06 18:51:56",
+        "image_url": "https://www.hidrocalidodigital.com/wp-content/uploads/2026/09/Arranca-la-Ruta-53-entre-Jesus-Maria-y-Aguascalientes.webp",
         "video_url": null,
-        "source_id": "diariocambio",
-        "source_name": "Diariocambio",
-        "source_priority": 137606,
-        "source_url": "https://www.diariocambio.com.mx",
-        "source_icon": "https://i.newsdata.io/diariocambio.jpg",
+        "source_id": "hidrocalidodigital",
+        "source_name": "Hidrocalidodigital",
+        "source_priority": 2174378,
+        "source_url": "https://www.hidrocalidodigital.com",
+        "source_icon": "https://i.newsdata.io/hidrocalidodigital.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -598,79 +476,77 @@
         "description_zh": ""
     },
     {
-        "article_id": "ab5bdec57ab98420f42f640dddd67cbb",
-        "link": "https://www.prensafutbol.cl/manchester-city-sufrido-triunfo-ante-coventry/",
-        "title": "Con Erling Haaland salvador: Manchester City sufrió para vencer al Coventry y seguir en la cima de la Premier League",
-        "description": "(Foto: Naomi Baker/Getty Images) Batalló y sudó la gota gorda ante el recién ascendido. En partido correspondiente a la jornada 3 de la Premier League 2026-27, Manchester City obtuvo un sufrido triunfo sobre Coventry, consiguiendo extender su inicio perfecto en el torneo. Los Skyblues arrancaron erráticos y su arquero Gianluigi Donnarumma casi se manda un [...] The post Con Erling Haaland salvador: Manchester City sufrió para vencer al Coventry y seguir en la cima de la Premier League appeared first on PrensaFútbol .",
+        "article_id": "29ca60ee1041d3ee78ec50758f2ad4d4",
+        "link": "https://www.diariodelsur.com.co/tu-cerebro-esta-prediciendo-el-futuro-la-ciencia-revela-que-significa-realmente-tener-un-deja-vu/",
+        "title": "¿Tu cerebro está prediciendo el futuro? La ciencia revela qué significa realmente tener un déjà vu",
+        "description": "Esa extraña sensación de haber vivido el momento Entras a un lugar desconocido y, de repente, algo parece completamente familiar. Reconoces la escena aunque sabes que nunca habías estado allí. Durante unos segundos, tienes la sensación de que ya viviste exactamente ese momento. A esto se le conoce como déjà vu. La expresión francesa significa [...] La entrada ¿Tu cerebro está prediciendo el futuro? La ciencia revela qué significa realmente tener un déjà vu se publicó primero en Diario del Sur .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "coventry city",
-            "destacadas",
-            "premier league",
-            "manchester city",
             "noticias"
         ],
         "creator": [
-            "sebastián cornejos"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-09-05 16:03:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:45:53",
-        "image_url": "https://www.prensafutbol.cl/wp-content/uploads/2026/09/haaland_festejo_manchester-city_premier_2026_getty.jpg",
-        "video_url": "https://www.youtube.com/watch?v=EiE8B8Flft0",
-        "source_id": "prensafutbol",
-        "source_name": "Prensa Futbol Chile",
-        "source_priority": 435149,
-        "source_url": "https://www.prensafutbol.cl",
-        "source_icon": "https://i.newsdata.io/prensafutbol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "7ca1fd7f2f38c5990773339ee1d535b5",
-        "link": "https://larazon.co/de-la-espriella-pide-a-cancilleria-revisar-la-solicitud-de-nacionalidad-del-surcoreano-zion-hwang/",
-        "title": "De La Espriella le pide a Cancillería revisar la solicitud de nacionalidad del surcoreano Zion Hwang",
-        "description": "El presidente respondió al video del creador de contenido y afirmó que quien hizo de Colombia su hogar merece ser escuchado.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "nación"
-        ],
-        "creator": [
-            "yajaira iglesias"
+            "maria camila rivera alarcon"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "domestic"
+            "top",
+            "science"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-05 16:03:26",
+        "pubDate": "2026-09-06 16:02:51",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:13:18",
-        "image_url": "https://larazon.co/wp-content/uploads/2026/09/z-1024x683.jpg",
+        "fetched_at": "2026-09-06 16:19:12",
+        "image_url": "https://www.diariodelsur.com.co/wp-content/uploads/2026/09/pexels-googledeepmind-17483868-scaled.jpg",
         "video_url": null,
-        "source_id": "larazon_co",
-        "source_name": "Larazon Co",
-        "source_priority": 190111,
-        "source_url": "https://larazon.co",
-        "source_icon": "https://i.newsdata.io/larazon_co.png",
+        "source_id": "diariodelsur",
+        "source_name": "Diario Del Sur",
+        "source_priority": 832974,
+        "source_url": "http://diariodelsur.com.co",
+        "source_icon": "https://i.newsdata.io/diariodelsur.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "24723370931f5bdb506cde7f9dcdd806",
+        "link": "https://www.hsbnoticias.com/tu-cerebro-esta-prediciendo-el-futuro-la-ciencia-revela-que-significa-realmente-tener-un-deja-vu/",
+        "title": "¿Tu cerebro está prediciendo el futuro? La ciencia revela qué significa realmente tener un déjà vu",
+        "description": "Esa extraña sensación de haber vivido el momento Entras a un lugar desconocido y, de repente, algo parece completamente familiar. Reconoces la escena aunque sabes que nunca habías estado allí. Durante unos segundos, tienes la sensación de que ya viviste exactamente ese momento. A esto se le conoce como déjà vu. La expresión francesa significa [...] La entrada ¿Tu cerebro está prediciendo el futuro? La ciencia revela qué significa realmente tener un déjà vu se publicó primero en HSB NOTICIAS .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "noticias"
+        ],
+        "creator": [
+            "maria camila rivera alarcon"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "science"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:02:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 16:16:19",
+        "image_url": "https://www.hsbnoticias.com/wp-content/uploads/2026/09/pexels-googledeepmind-17483868-scaled.jpg",
+        "video_url": null,
+        "source_id": "hsbnoticias",
+        "source_name": "Hsb Noticias",
+        "source_priority": 410803,
+        "source_url": "https://www.hsbnoticias.com",
+        "source_icon": "https://i.newsdata.io/hsbnoticias.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -682,13 +558,59 @@
         "description_zh": ""
     },
     {
-        "article_id": "c6e2269523f4cf2c78203fdf18706a79",
-        "link": "https://www.record.com.mx/historia/luka-modric-no-se-va-el-historico-mediocampista-seguira-con-la-seleccion-de-croacia-2026090516031875316",
-        "title": "Luka Modric no se va, el histórico mediocampista seguirá con la Selección de Croacia",
-        "description": "Luka Modric no se va, el histórico mediocampista seguirá con la Selección de Croacia",
+        "article_id": "22889f83328da1b4891881b20b60e5d1",
+        "link": "https://www.vanguardia.com/judicial/2026/09/06/video-desmanes-y-agresiones-marcaron-el-ingreso-al-megaconcierto-en-bucaramanga/",
+        "title": "Video: desmanes y agresiones marcaron el ingreso al megaconcierto en Bucaramanga",
+        "description": "La inconformidad por las dificultades para ingresar al megaconcierto terminó en desmanes en los alrededores del estadio Américo Montanini de Bucaramanga.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "futbol"
+            "ferias y fiestas",
+            "bucaramanga",
+            "concierto"
+        ],
+        "creator": [
+            "redacción judicial"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:02:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 16:05:42",
+        "image_url": "https://www.vanguardia.com/resizer/v2/DT5IUL4U6FBN3KFPHZUC745U6Y.png?auth=23ff02b140d7524e50f39be01bee9041207df21f6074dc27203dc1a8bff62a9e&smart=true&width=598&height=518",
+        "video_url": null,
+        "source_id": "vanguardia",
+        "source_name": "Vanguardia",
+        "source_priority": 24302,
+        "source_url": "https://vanguardia.com.mx",
+        "source_icon": "https://i.newsdata.io/vanguardia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "e3cd99c76ee58bf05df2aa773e7a3588",
+        "link": "https://www.razon.com.mx/deportes/2026/09/06/quien-es-andrea-kimi-antonelli-el-piloto-revelacion-de-la-formula-1-y-que-lidera-el-campeonato/",
+        "title": "¿Quién es Andrea Kimi Antonelli el piloto revelación de la Fórmula 1 y que lidera el campeonato?",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "gran-premio-de-italia",
+            "f1",
+            "formula-1",
+            "mercedes"
         ],
         "creator": [
             "redacción"
@@ -698,58 +620,14 @@
             "mexico"
         ],
         "category": [
+            "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-05 16:03:18",
+        "pubDate": "2026-09-06 16:02:29",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:35:43",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "record",
-        "source_name": "Record",
-        "source_priority": 21395,
-        "source_url": "https://www.record.com.mx",
-        "source_icon": "https://i.newsdata.io/record.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "e1cca8bc28181c68c55113bdc3b67d94",
-        "link": "https://www.razon.com.mx/deportes/2026/09/05/terror-en-la-formula-3-un-monoplaza-se-incendia-y-otro-sale-volando-en-el-sprint-del-gp-de-italia-video/",
-        "title": "¡Terror en la Fórmula 3! Un monoplaza se incendia y otro sale volando en el Sprint del GP de Italia (VIDEO)",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "accidentes",
-            "automovilismo",
-            "formula-3",
-            "incendios"
-        ],
-        "creator": [
-            "enrique villanueva"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "sports",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-05 16:03:16",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:06:47",
-        "image_url": "https://www.razon.com.mx/resizer/v2/QRQQC4AGRBDELHFA2S42CIMGEM.jpg?auth=b986bc2b37482033688fee7b822411c68ab978c46160e7e52fc34beb0410f011&smart=true&width=1200&height=628",
+        "fetched_at": "2026-09-06 16:38:16",
+        "image_url": "https://www.razon.com.mx/resizer/v2/PDHT7P5YARBM5NQUZ3CSNVZSBU.png?auth=d81ab1c0f79786933d18a561506a87d24b162e150e1bd6ec22a540fbc9469b69&smart=true&width=1024&height=516",
         "video_url": null,
         "source_id": "razon",
         "source_name": "La Razón De México",
@@ -767,10 +645,93 @@
         "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "2d2259d3dc6be0367f826a251dd8ac4b",
-        "link": "https://www.infobae.com/espana/agencias/2026/09/05/ventura-y-sebastian-fernandez-abren-la-puerta-grande-en-la-rondena-de-rejones/",
-        "title": "Ventura y Sebastián Fernández abren la puerta grande en la 'Rondeña' de rejones",
-        "description": "Ventura y Sebastián Fernández abren la puerta grande en la 'Rondeña' de rejones",
+        "article_id": "5b10ef6cead36140f3b46a898d008291",
+        "link": "https://www.proceso.com.mx/internacional/2026/9/6/a-sus-95-anos-raul-castro-reaparece-en-acto-militar-en-cuba-379485.html",
+        "title": "A sus 95 años, Raúl Castro, reaparece en acto militar en Cuba",
+        "description": "Las inusuales imágenes del evento del sábado en la noche, que duran más de 10 minutos, fueron difundidas en un reporte de la televisión estatal, y muestran al expresidente y líder cubano junto a Raúl Guillermo Rodríguez Castro, apodado “El Cangrejo”, su guardaespaldas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "raúl castro",
+            "cuba"
+        ],
+        "creator": [
+            "ap"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "crime"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:02:28",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 16:07:21",
+        "image_url": "https://assets.proceso.com.mx/img/1788710426896-qq9xe5.jpg",
+        "video_url": null,
+        "source_id": "proceso",
+        "source_name": "Proceso",
+        "source_priority": 47805,
+        "source_url": "https://www.proceso.com.mx",
+        "source_icon": "https://i.newsdata.io/proceso.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "5915fddfc22cf659f97b11a7138be236",
+        "link": "https://www.mediotiempo.com/automovilismo/f1/kimi-antonelli-conquista-premio-italia-checo-perez-termina-18-monza",
+        "title": "Kimi Antonelli se llevó la victoria en casa",
+        "description": "Monza fue escenario de una carrera marcada por la estrategia y la velocidad, con Antonelli aprovechando los momentos clave para subir a lo más alto del podio.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "gp de italia"
+        ],
+        "creator": [
+            "agencia efe"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:02:15",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 16:28:56",
+        "image_url": "https://s3.us-east-2.amazonaws.com/cdn.mediotiempo.com/uploads/media/2026/09/06/kimi-antonelli-llevo-victoria-casa.jpg",
+        "video_url": null,
+        "source_id": "mediotiempo",
+        "source_name": "Medio Tiempo",
+        "source_priority": 36606,
+        "source_url": "https://www.mediotiempo.com",
+        "source_icon": "https://i.newsdata.io/mediotiempo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "5e4cfedfda919901e87fd6d62f5b3e40",
+        "link": "https://www.infobae.com/america/agencias/2026/09/06/el-ejercito-ruso-ataca-dos-centros-logisticos-y-barco-mercante-en-el-puerto-de-odesa/",
+        "title": "El ejército ruso ataca dos centros logísticos y barco mercante en el puerto de Odesa",
+        "description": "El ejército ruso ataca dos centros logísticos y barco mercante en el puerto de Odesa",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
@@ -785,12 +746,12 @@
         ],
         "category": [
             "top",
-            "sports"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-05 16:03:11",
+        "pubDate": "2026-09-06 16:02:14",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-05 16:32:41",
+        "fetched_at": "2026-09-06 16:31:54",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
         "video_url": null,
         "source_id": "infobae",
@@ -798,6 +759,89 @@
         "source_priority": 1056,
         "source_url": "https://www.infobae.com",
         "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "44a4cde1cc916321d72adb3147dc26e0",
+        "link": "https://www.infobae.com/america/agencias/2026/09/06/ong-independiente-confirma-dos-nuevos-feminicidios-en-cuba-y-suben-a-47-en-este-ano/",
+        "title": "ONG independiente confirma dos nuevos feminicidios en Cuba y suben a 47 en este año",
+        "description": "ONG independiente confirma dos nuevos feminicidios en Cuba y suben a 47 en este año",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "newsroom infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "argentina",
+            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:01:57",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 16:31:54",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "d3ce94d57de5291abd4172daacbe3f9d",
+        "link": "https://eldiariodechihuahua.mx/local/2026/sep/06/continua-clausurada-gasolinera-black-gold-834833.html",
+        "title": "Continúa clausurada gasolinera Black Gold",
+        "description": "Las actividades de la empresa en la ciudad de Chihuahua han estado suspendidas debido a una intervención de las autoridades federales",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "local"
+        ],
+        "creator": [
+            "orlando chávez | el diario"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-06 16:01:51",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-06 16:39:36",
+        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/09/06/gasolinera2-fPt787wUT.jpg",
+        "video_url": null,
+        "source_id": "eldiariodechihuahua",
+        "source_name": "Eldiariodechihuahua",
+        "source_priority": 77437,
+        "source_url": "https://www.eldiariodechihuahua.mx",
+        "source_icon": "https://i.newsdata.io/eldiariodechihuahua.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
