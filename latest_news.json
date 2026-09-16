@@ -1,37 +1,36 @@
 [
     {
-        "article_id": "810ffe965561cc4e87e8a9cf33151030",
-        "link": "https://whiplash.net/materias/news_667/382905-myleskennedy.html",
-        "title": "Myles Kennedy (Alter Bridge, Slash) se recusa terminantemente a usar IA",
-        "description": "\"Você vai recorrer a algo que vasculha toda a Internet, pega o trabalho de outras pessoas e serve de base para algo que supostamente é seu?\"",
+        "article_id": "b5aa1d53485369fa1926bcae65de8fa2",
+        "link": "https://www.ambito.com/mundo/un-fallo-espana-suspendio-el-derecho-voto-los-latinos-que-cuentan-ciudadania-la-ley-nietos-n6322526",
+        "title": "Un fallo de España suspendió el derecho a voto de los latinos que cuentan con ciudadanía por la ley de Nietos",
+        "description": "Oficinas de abogados sostuvieron que \"hay mucha incertidumbre\". Desde el PSOE instaron a que esta situación \"se resuelva cuanto antes\" mientras la suspensión cautelar se deriva de los recursos contencioso-administrativos presentados meses atrás por las formaciones políticas Vox y Iustitia Europa.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "alter bridge",
-            "slash",
-            "myles kennedy"
+            "españa",
+            "vox"
         ],
         "creator": [
-            "joão renato alves"
+            "ámbito.com"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "argentina"
         ],
         "category": [
-            "technology",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-14 16:27:00",
+        "pubDate": "2026-09-15 16:22:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:40:52",
-        "image_url": "https://whiplash.net/imagens_promo_22/alter_bridge_myles_kennedy_broken_wings_yt_vevo.jpg",
+        "fetched_at": "2026-09-15 16:37:17",
+        "image_url": "https://media.ambito.com/p/7b8fda3e247a3d5bed9df9c75aedc198/adjuntos/239/imagenes/040/816/0040816264/1200x675/smart/ciudadania-espanolajpg.jpg",
         "video_url": null,
-        "source_id": "whiplash",
-        "source_name": "Whiplash",
-        "source_priority": 97693,
-        "source_url": "https://whiplash.net",
-        "source_icon": "https://i.newsdata.io/whiplash.png",
+        "source_id": "ambito",
+        "source_name": "Ambito",
+        "source_priority": 37705,
+        "source_url": "https://www.ambito.com",
+        "source_icon": "https://i.newsdata.io/ambito.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -43,36 +42,38 @@
         "description_zh": ""
     },
     {
-        "article_id": "781a9c29e935480a545fc0f6af76a725",
-        "link": "https://www.tudocelular.com/windows-phone/noticias/n244300/melhor-memoria-ram-comprar-guia-tudocelular.html",
-        "title": "Melhor memória RAM para comprar | Guia do TudoCelular",
-        "description": "Confira as melhores opções de memória RAM para montar ou atualizar seu setup com qualidade e preço justo",
+        "article_id": "e55a87e907c40731a6890a56d55bd831",
+        "link": "https://www.ambito.com/victoria-villarruel-y-el-representante-del-vaticano-participan-las-celebraciones-la-virgen-del-milagro-salta-n6322558",
+        "title": "Victoria Villarruel y el representante del Vaticano participan de las celebraciones de la Virgen del Milagro en Salta",
+        "description": "La vicepresidenta y el religioso Michael Wallace Banach asistieron a la misa central y también estarán en la procesión. Los acompaña el gobernador Gustavo Sáenz.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "windows"
+            "salta",
+            "victoria villarruel"
         ],
         "creator": [
-            "tudocelular.com"
+            "ámbito.com"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "argentina"
         ],
         "category": [
-            "technology",
+            "lifestyle",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-14 16:27:00",
+        "pubDate": "2026-09-15 16:22:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 21:33:57",
-        "image_url": null,
+        "fetched_at": "2026-09-15 16:37:16",
+        "image_url": "https://media.ambito.com/p/102a07178aedd4d485cd2e5a1a608f87/adjuntos/239/imagenes/043/643/0043643513/1200x675/smart/victoria-villarruel.jpg",
         "video_url": null,
-        "source_id": "tudocelular",
-        "source_name": "Tudocelular.com",
-        "source_priority": 14359,
-        "source_url": "https://www.tudocelular.com",
-        "source_icon": "https://i.newsdata.io/tudocelular.png",
+        "source_id": "ambito",
+        "source_name": "Ambito",
+        "source_priority": 37705,
+        "source_url": "https://www.ambito.com",
+        "source_icon": "https://i.newsdata.io/ambito.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -84,14 +85,131 @@
         "description_zh": ""
     },
     {
-        "article_id": "fe64f850c1d66aeecd9b82c77bee64d7",
-        "link": "https://tribunadepetropolis.com.br/noticias/fpa-cobra-implementacao-da-mp-para-renegociacao-das-dividas-rurais/",
-        "title": "FPA cobra implementação da MP para renegociação das dívidas rurais",
-        "description": "A Frente Parlamentar da Agropecuária (FPA) cobrou o governo federal e o Congresso pela implementação da Medida Provisória (MP) 1.376/2026, que trata da renegociação das dívidas dos produtores rurais. Em carta aberta, a FPA defende que a “renegociação rural precisa sair do papel e chegar ao produtor”. A Frente relata que, apesar de a MP [...]",
+        "article_id": "f223bc5b47b4d090cc2ae8b0538d0e03",
+        "link": "https://www.campograndenews.com.br/cidades/interior/mulher-e-presa-acusada-de-extorquir-clientes-de-sites-de-acompanhantes",
+        "title": "Mulher é presa acusada de extorquir clientes de sites de acompanhantes",
+        "description": "Uma mulher foi presa nesta quarta-feira (15) em Dourados, a 251 km de Campo Grande, acusada de ser operadora financeira de uma quadrilha que se passa por facções criminosas para extorquir clientes de site de acompanhantes. Nos últimos meses, dezenas de usuários desse serviço registraram boletins de ocorrência nas delegacias da cidade denunciando terem sido vítimas de extorsão após contato com perfis de garotas de programa anunciados na plataforma “HotMS”. Sob ameaça de serem expostos para a família, esses homens se sujeitavam às chantagens e pagavam os valores exigidos. O mandado de prisão temporária de L.R.V. foi cumprido por policiais da Derf (Delegacia Especializada de Repressão a Roubos e Furtos). Conforme a polícia, o golpe começava assim que a vítima acessava os anúncios de acompanhantes. Posteriormente, o cliente passava a receber mensagens de desconhecidos. Os interlocutores se apresentavam como integrantes de organizações criminosas e afirmavam que a vítima teria causado prejuízo às garotas de programa ou ao suposto “cafetão” responsável pelos anúncios. A partir desse momento, segundo os investigadores, começa o chamado “Golpe do Falso Cafetão Faccionado”. Sob graves ameaças contra a vítima e seus familiares, os criminosos exigem pagamentos imediatos via Pix. Para impor temor às vítimas e conferir credibilidade às ameaças, os golpistas usam os nomes do Comando Vermelho e do PCC (Primeiro Comando da Capital). As investigações conduzidas pela Derf identificaram indícios da utilização de contas bancárias de terceiros para o recebimento e posterior circulação dos valores provenientes das extorsões. A mulher presa em Dourados é investigada por possível atuação nessa engrenagem financeira do esquema, inclusive no recrutamento de pessoas para disponibilização de contas destinadas a receber o dinheiro da extorsão. A polícia aponta possível participação de indivíduo que se encontra recolhido no sistema penitenciário, mas ainda não identificado. HotMS Segundo a Derf, a investigação também chamou a atenção para a recorrente utilização da plataforma “HotMS” como ponto inicial de contato com potenciais vítimas do golpe. “Diante dessa circunstância e com o objetivo de esclarecer de que maneira os criminosos estariam obtendo informações relacionadas aos usuários, a Derf intimou e realizou, por mais de uma vez, contatos com o canal administrativo responsável pelo site HotMS, buscando esclarecimentos e colaboração com as investigações. As solicitações, contudo, foram ignoradas, não havendo a colaboração solicitada até o momento”, afirma a Polícia Civil. Os investigadores alertam os usuários da plataforma e de serviços semelhantes para que não façam pagamentos e procurem imediatamente a polícia caso recebam mensagens ameaçadoras exigindo dinheiro, mesmo que os autores se apresentem como cafetões, como integrantes do PCC, do Comando Vermelho ou de qualquer outra organização criminosa.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "mulher",
+            "facções criminosas",
+            "site",
+            "acusada",
+            "251 km",
+            "operadora financeira",
+            "últimos",
+            "acompanhantes",
+            "extorquir clientes",
+            "passa",
+            "quadrilha",
+            "-feira",
+            "presa",
+            "dourados",
+            "campo"
+        ],
         "creator": [
-            "isadora duarte / estadão"
+            "por helio de freitas",
+            "de dourados"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:22:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:41:42",
+        "image_url": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/09/15/6aa96d122e829.webp",
+        "video_url": null,
+        "source_id": "campograndenews",
+        "source_name": "Campo Grande News",
+        "source_priority": 139036,
+        "source_url": "https://www.campograndenews.com.br",
+        "source_icon": "https://i.newsdata.io/campograndenews.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "68f4673bcbae762f35836851c14a6a75",
+        "link": "https://www.mdzol.com/policiales/laudelina-pena-rechazo-el-cara-cara-maciel-y-el-excomisario-volvio-apuntar-contra-tres-acusados-el-caso-loan-n1607251",
+        "title": "Laudelina Peña rechazó el cara a cara con Maciel y el excomisario volvió a apuntar contra tres acusados por el caso Loan",
+        "description": "La tía de Loan Danilo Peña se negó a enfrentarse con el excomisario de 9 de Julio. También declararán nuevos testigos y fueron levantadas las testimoniales de Paula Bernini y Deisy Leonela Ávalos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "loan",
+            "walter maciel",
+            "laudelina"
+        ],
+        "creator": [
+            "mdz policiales"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:22:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:31:57",
+        "image_url": "https://media.mdzol.com/p/ba9a3e1a385504f2b961ddaa87388976/adjuntos/373/imagenes/001/957/0001957976/1200x675/652x330:672x350/juicio-loan.jpeg",
+        "video_url": null,
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://i.newsdata.io/mdzol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "f1c328deb49d16d08ea7fb8e01984adb",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/saude-no-brasil-desperdica-ate-r-360-bilhoes-por-ano-diz-estudo.shtml",
+        "title": "Saúde no Brasil desperdiça até R$ 360 bilhões por ano, diz estudo",
+        "description": "O sistema de saúde brasileiro desperdiça entre R$ 240 bilhões e R$ 360 bilhões por ano. O número consta do documento \"Os 5 Inegociáveis da Saúde: Uma Agenda para as Lideranças Políticas Brasileiras 2027-2030\", elaborado pela Fesaúde (Federação dos Hospitais, Clínicas e Laboratórios do Estado de São Paulo) e pelo SindHosp (Sindicato dos Hospitais, Clínicas, Laboratórios e Estabelecimentos de Saúde do Estado de São Paulo). Leia mais (09/15/2026 - 13h22)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "finance",
+            "empresarios",
+            "folha",
+            "exames",
+            "negócios",
+            "mercado",
+            "ocde",
+            "hospital",
+            "business",
+            "fiesp",
+            "& economics",
+            "hospitais",
+            "pib",
+            "economia",
+            "empresas",
+            "folha de s.paulo",
+            "exames clínicos"
+        ],
+        "creator": [
+            "luana franzão"
         ],
         "language": "portuguese",
         "country": [
@@ -101,98 +219,16 @@
             "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-14 16:27:00",
+        "pubDate": "2026-09-15 16:22:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 17:16:56",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "fetched_at": "2026-09-15 16:32:06",
+        "image_url": "https://f.i.uol.com.br/fotografia/2026/08/06/17860504836a74f7b333d1a_1786050483_3x2_md.jpg",
         "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://i.newsdata.io/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "fd026f310499ae50713b0417586e3e9e",
-        "link": "https://www.dgabc.com.br/Noticia/4346813/fpa-cobra-implementacao-da-mp-para-renegociacao-das-dividas-rurais",
-        "title": "FPA cobra implementação da MP para renegociação das dívidas rurais",
-        "description": "FPA cobra implementação da MP para renegociação das dívidas rurais",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "economia"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-14 16:27:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 17:22:56",
-        "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://i.newsdata.io/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "4f63f789d2724f8f100420fd895c0544",
-        "link": "https://www.folhavitoria.com.br/justica/justica-decreta-prisao-preventiva-de-empresario-por-desmatamento-em-santa-teresa/",
-        "title": "Justiça decreta prisão preventiva de empresário por desmatamento em Santa Teresa",
-        "description": "Foto: MPES/ Reprodução Decisão de 9 de setembro recebeu denúncia sobre intervenção em 1.847 metros quadrados de Mata Atlântica na zona rural",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "desmatamento",
-            "justiça",
-            "mata atlântica"
-        ],
-        "creator": [
-            "maria clara leitão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-14 16:26:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:41:56",
-        "image_url": "https://uploads.folhavitoria.com.br/imagens/2026/09/Area-desmatada-em-Santa-Teresa-Foto-MPES-Reproducao-.jpg",
-        "video_url": null,
-        "source_id": "folhavitoria_br",
-        "source_name": "Folha Vitória",
-        "source_priority": 123574,
-        "source_url": "https://www.folhavitoria.com.br",
-        "source_icon": "https://i.newsdata.io/folhavitoria_br.png",
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://i.newsdata.io/folha.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -204,149 +240,174 @@
         "description_zh": ""
     },
     {
-        "article_id": "04d0230f75701be6bb76d2894f7be65c",
-        "link": "https://www.diariodocentrodomundo.com.br/advogado-de-frias-foi-contratado-por-r-5-milhoes-pelo-governo-do-df-entenda/",
-        "title": "Advogado de Frias foi contratado por R$ 5 milhões pelo governo do DF; entenda",
-        "description": "Escritório de Fábio Lago Meirelles, advogado de Mario Frias, recebeu previsão de contratação em parceria do ICB com o Governo do Distrito Federal.",
+        "article_id": "287bd46a06e48ab598a5e626a8258689",
+        "link": "https://www.correiobraziliense.com.br/politica/2026/09/7500886-mendes-acusa-mendonca-de-interesse-eleitoral-nao-merece-respeito.html",
+        "title": "Mendes acusa Mendonça de interesse eleitoral: \"Não merece respeito\"",
+        "description": "Ministro foi acusado por companheiro do Supremo Tribunal Federal (STF) de 'inflamar' a população durante atos do feriado de 7 de setembro",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "instituto conhecer brasil",
-            "secretaria de educação do df",
-            "fabio lago meirelles",
+            "politics"
+        ],
+        "creator": [
+            "gabriel botelho"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:22:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:46:42",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/png/2026/09/15/design-sem-nome--3--67694632.png",
+        "video_url": null,
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://i.newsdata.io/correiobraziliense.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "e0960cd1f5a8d1f00bcfef150f030727",
+        "link": "https://odia.ig.com.br/resende/2026/09/7302191-prefeitura-de-resende-entrega-revitalizacao-de-creche-no-bairro-surubi.html",
+        "title": "Prefeitura de Resende entrega revitalização de creche no bairro Surubi",
+        "description": "Unidade passou por reforma completa, com melhorias na estrutura e adequações para oferecer mais conforto e segurança à comunidade escolar",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "obras"
+        ],
+        "creator": [
+            "luan campos"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:21:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:41:43",
+        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/09/15/inauguracao_da_creche_walda_walkiria_no_surubi__3__rafael_oliveira_-39422553.jpg",
+        "video_url": null,
+        "source_id": "odia_ig_br",
+        "source_name": "Odia Ig Br",
+        "source_priority": 144458,
+        "source_url": "https://odia.ig.com.br",
+        "source_icon": "https://i.newsdata.io/odia_ig_br.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "4fc17705bd5a6bdd1f1ba977e5fbfd93",
+        "link": "https://www.poder360.com.br/poder-justica/veja-fotos-do-plenario-do-stf-no-julgamento-sobre-moraes/",
+        "title": "Veja fotos do plenário do STF no julgamento sobre Moraes",
+        "description": "Ministros analisam nesta 3a feira (15.set) se deve ser aberta investigação contra o ministro por relação com Daniel Vorcaro, fundador do Banco Master",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "julgamento de moraes",
+            "poder justiça",
+            "alexandre de moraes",
+            "stf",
+            "gilmar mendes",
+            "daniel vorcaro",
+            "supremo tribunal federal",
+            "edson fachin",
+            "andré mendonça",
+            "banco master"
+        ],
+        "creator": [
+            "poder360 · poder360"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:21:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:31:57",
+        "image_url": "https://static.poder360.com.br/uploads/2026/09/STF-julga-no-plenario-se-Alexandre-de-Moraes-e-investigado-no-caso-Banco-Master-15set2026-1-1600x686.jpg",
+        "video_url": null,
+        "source_id": "poder360_br",
+        "source_name": "Poder360",
+        "source_priority": 6639,
+        "source_url": "https://www.poder360.com.br",
+        "source_icon": "https://i.newsdata.io/poder360_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "f3b30d47fd55baf06e75a17025f4c2fb",
+        "link": "https://www.infoplatense.com.ar/reinauguracion-estadio-unico-la-plata-noviembre-argentina-femenina-alemania/",
+        "title": "El Estadio Único reabre a fin de noviembre con Argentina femenina ante Alemania",
+        "description": "Chiqui Tapia recorrió las obras y confirmó la fecha de la reinauguración del Estadio Único de La Plata. El partido [...] La entrada El Estadio Único reabre a fin de noviembre con Argentina femenina ante Alemania se publicó primero en InfoPlatense .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "estadio único",
             "política",
-            "polícia federal",
-            "flávio dino",
-            "dark horse",
-            "bolsonaro",
-            "fap-df",
-            "destaques",
-            "governo do distrito federal",
-            "mario frias"
+            "chiqui tapia",
+            "torneo clausura",
+            "la plata",
+            "selección argentina femenina",
+            "afa",
+            "fútbol"
         ],
         "creator": [
-            "diario do centro do mundo"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-14 16:26:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:37:11",
-        "image_url": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/09/1-mario-frias-karina-gama-1.webp",
-        "video_url": null,
-        "source_id": "diariodocentrodomundo",
-        "source_name": "Dcm",
-        "source_priority": 46634,
-        "source_url": "https://www.diariodocentrodomundo.com.br",
-        "source_icon": "https://i.newsdata.io/diariodocentrodomundo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "bd35772cdb1ef7a37f48acb6e94492b4",
-        "link": "https://www.mixvale.com.br/2026/09/14/chiefs-enfrentam-dilemas-de-elenco-ao-receber-broncos-no-monday-night-football-com-quarterbacks-lesionados/",
-        "title": "Chiefs enfrentam dilemas de elenco ao receber Broncos no Monday Night Football com quarterbacks lesionados",
-        "description": "A aguardada rodada do Monday Night Football da nova temporada da NFL tem seu início marcado por um confronto divisional cativante, onde o Kansas City Chiefs recebe o Denver Broncos. Este embate inicial da temporada ocorre em meio a narrativas distintas para ambas as franquias: Denver busca consolidar o sucesso da campanha anterior, enquanto Kansas [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "kansas city chiefs",
-            "denver broncos",
-            "monday night football",
-            "nfl",
-            "bo nix",
-            "latest news (en)"
-        ],
-        "creator": [
-            "internet"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-14 16:26:38",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:40:43",
-        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2025/04/mixvaleportal.jpg",
-        "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://i.newsdata.io/mixvale.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "3a2b73850404124f46dcbea89005a6a3",
-        "link": "https://www.clarin.com/politica/nueva-reunion-gabinete-milei-mostro-optimista-reclamo-malvinas-volvio-bajar-linea-economia_0_NmWDFhTkLx.html",
-        "title": "Milei se mostró optimista con Malvinas y les pidió a sus ministros \"no dejarse psicopatear\" por la economía",
-        "description": "El Presidente les dijo a sus ministros que ve un cambio geopolítico, tras la declaración de Trump por la soberanía. E insistió en que no habrá retoques al modelo, pese al reclamo interno para reactivar el consumo.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "reclamo",
-            "linea",
-            "diego santilli",
-            "mostro",
-            "reunion",
-            "nueva",
-            "karina milei",
-            "volvio",
-            "optimista",
-            "gabinete",
-            "economia",
-            "milei",
-            "santiago caputo",
-            "bajar",
-            "javier milei",
-            "malvinas"
-        ],
-        "creator": [
-            "clarin.com - home"
+            "pablo schoening"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "business",
-            "top"
+            "top",
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-14 16:26:32",
+        "pubDate": "2026-09-15 16:21:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 17:01:53",
-        "image_url": "https://www.clarin.com/img/2026/09/09/FI5Uje5qd_1200x630__1.jpg",
+        "fetched_at": "2026-09-15 16:51:41",
+        "image_url": "https://www.infoplatense.com.ar/wp-content/uploads/estadio-1.jpg",
         "video_url": null,
-        "source_id": "clarin",
-        "source_name": "Clarin",
-        "source_priority": 1115,
-        "source_url": "https://www.clarin.com",
-        "source_icon": "https://i.newsdata.io/clarin.png",
+        "source_id": "infoplatense_ar",
+        "source_name": "Info Platense",
+        "source_priority": 1836314,
+        "source_url": "https://www.infoplatense.com.ar",
+        "source_icon": "https://i.newsdata.io/infoplatense_ar.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -358,10 +419,10 @@
         "description_zh": ""
     },
     {
-        "article_id": "1d21ed2c9bda041a05526377f37667a8",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/14/anthony-garotinho-rj1-veja-integra.ghtml",
-        "title": "Anthony Garotinho, candidato do Republicanos ao Governo do RJ participa de sabatina no RJ1; veja íntegra",
-        "description": "RJ1 entrevista Garotinho Nesta segunda-feira (14), Anthony Garotinho (Republicanos), candidato ao Governo do Estado do Rio de Janeiro, foi sabatinado no RJ1. Ele falou sobre segurança pública, educação e transporte, entre outros temas. Participam da entrevista os candidatos que atingiram, no mínimo, 5% das intenções de voto na pesquisa Datafolha divulgada na última sexta-feira (11), conforme acordo celebrado com os partidos. 📱Baixe o app do g1 para ver notícias do RJ em tempo real e de graça Além dele, serão entrevistados: 15/09 – Douglas Ruas (PL) 16/09 – Eduardo Paes (PSD) Anthony Garotinho (Republicanos) no estúdio do 'RJ1' João Cotta/TV Globo Confira o que o candidato falou sobre os seguintes assuntos: Segurança pública Alerj Dívida do estado Educação Registro de candidatura Transporte O que fará para retomar territórios do crime Segurança pública Garotinho (Republicanos) responde sobre segurança pública Alerj Garotinho (Republicanos) responde sobre Alerj Dívida do estado Garotinho (Republicanos) responde sobre dívida do estado Educação Garotinho (Republicanos) responde sobre educação Registro de candidatura Garotinho (Republicanos) responde sobre registro de candidatura Transporte Garotinho (Republicanos) responde sobre transporte O que fará para retomar territórios do crime Garotinho (Republicanos) responde sobre estratégia para retomar territórios do crime 🟩O g1 Rio está no GloboPop, o novo aplicativo de vídeos curtos verticais da Globo, disponível gratuitamente no seu celular. Lá no app, você pode seguir o palco do g1 Rio para não perder nenhum episódio. Baixe o GloboPop.",
+        "article_id": "fd1f98683142142c44fef97553742b11",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/15/douglas-ruas-fala-sobre-transporte-publico-rj1.ghtml",
+        "title": "Douglas Ruas promete reduzir tarifa do metrô para R$ 5 e buscar recursos com a União para viabilizar as obras da Linha 3",
+        "description": "Douglas Ruas (PL) responde sobre transporte público O candidato ao governo do Rio de Janeiro Douglas Ruas (PL) afirmou, durante entrevista ao RJ1 nesta terça-feira (15), que pretende reduzir a tarifa do metrô no estado dos atuais R$ 7,90 para R$ 5 e buscar recursos da União para viabilizar a Linha 3, entre o Rio e o Leste Metropolitano. A entrevista foi conduzida pelos apresentadores Mariana Gross e Edimilson Ávila. Para chegar ao valor de R$ 5, Ruas disse que pretende ampliar o subsídio pago pelo governo do estado à tarifa. LEIA TAMBÉM: Douglas Ruas critica ações de Castro na segurança e propõe ‘indicador de retomada de territórios’ “Em relação ao preço é inaceitável que o Estado do Rio de Janeiro pratique a maior tarifa do Brasil. Eu quero buscar o maior subsídio para poder baixar esse valor e tornar o nosso modal metroviário mais atrativo, trazer o passageiro de volta. Nós vamos perseguir para poder alcançar uma tarifa de R$ 5”, afirmou Ruas. O candidato do PL afirmou que pretende aumentar a arrecadação do estado sem elevar impostos como uma das formas de financiar a política. “Eu creio que através da política de segurança que a gente vai implementar aqui nós vamos aumentar a receita dos cofres públicos sem aumentar o imposto para quem já paga muito aqui no estado do Rio de Janeiro.” Douglas Ruas (PL) é o entrevistado desta terça-feira (15) no RJ1 Globo/ João Cotta 📱Baixe o app do g1 para ver notícias do RJ em tempo real e de graça Entre as medidas citadas pelo candidato estão a atração de novas indústrias, empresas e empregos. “Aquecendo a atividade econômica, trazendo novas indústrias, ampliando as atividades já existentes, mais empresas, mais empregos, a gente vai conseguir aumentar a arrecadação do estado do Rio de Janeiro.” Estudo para a Linha 3 do metrô Ruas também afirmou que pretende buscar recursos da União para tirar do papel a Linha 3 do metrô, que ligaria o Rio ao Leste Metropolitano. Segundo ele, um estudo para a obra já está em andamento na Universidade Federal do Rio de Janeiro (UFRJ), com recursos de emenda parlamentar, e a previsão é que seja concluído em dezembro de 2027. “O que muita gente não sabe é que até hoje nós não temos um projeto com nível de detalhamento suficiente para avançar para uma contratação, não temos sequer o custo. Prometeram algo que não sabem o quanto custa. Quem deu o primeiro passo nesse sentido foi o atual senador da República e próximo presidente da República Flávio Bolsonaro, colocou recursos de emenda na UFRJ, universidade pública, para elaborar esse projeto. O prazo para que seja concluído o estudo é dezembro de 2027.” O candidato disse que pretende acompanhar a conclusão do estudo e, depois, buscar uma parceria com o governo federal para viabilizar a obra. 🟩O g1 Rio está no GloboPop, o novo aplicativo de vídeos curtos verticais da Globo, disponível gratuitamente no seu celular. Lá no app, você pode seguir o palco do g1 Rio para não perder nenhum episódio. Baixe o GloboPop.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
             "g1"
@@ -373,13 +434,13 @@
         ],
         "category": [
             "top",
-            "politics"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-14 16:26:28",
+        "pubDate": "2026-09-15 16:21:44",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:35:17",
-        "image_url": "https://s2-g1.glbimg.com/Kp9cwI5-9KfB1k1friTgULx9tzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/w/YUgPGrQQO2YJmROvE5Bg/whatsapp-image-2026-09-14-at-12.02.10-1-.jpeg",
+        "fetched_at": "2026-09-15 16:35:38",
+        "image_url": "https://s2-g1.glbimg.com/2aM2aFgGIO-BdzJm3Mh1r2yDkpE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/C/cO24tgQY6SX44HPGCIpQ/whatsapp-image-2026-09-15-at-12.04.20.jpeg",
         "video_url": null,
         "source_id": "g1globo",
         "source_name": "G1 - O Portal",
@@ -397,58 +458,17 @@
         "description_zh": ""
     },
     {
-        "article_id": "98b3b2d07c1083ee11c110021c2aeabb",
-        "link": "https://www.cnnbrasil.com.br/eleicoes/cury-defende-que-stf-conclua-julgamento-antes-do-1o-turno-das-eleicoes/",
-        "title": "Cury defende que STF conclua julgamento antes do 1o turno das eleições",
-        "description": "Candidato do Avante à Presidência pede que análise sobre investigação envolvendo o ministro Alexandre de Moraes seja concluída antes da votação de 4 de outubro",
+        "article_id": "6c6bb2e003bc4544cbde4bece39e7b85",
+        "link": "https://pulsoslp.com.mx/nacional/refuerzo-de-seguridad-en-mazatlan-por-omar-garcia-harfuch/2086307",
+        "title": "Refuerzo de seguridad en Mazatlán por Omar García Harfuch",
+        "description": "Refuerzo de seguridad en Mazatlán anunciado por Omar García Harfuch para combatir violencia.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "eleições 2026",
-            "-agencia-cnn-",
-            "eleições",
-            "stf (supremo tribunal federal)",
-            "augusto cury"
-        ],
-        "creator": [
-            "lucasschroeder"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-09-14 16:26:27",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 18:33:10",
-        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/WhatsApp-Image-2026-09-14-at-13.16.12.jpeg?w=1200&h=1200&crop=1",
-        "video_url": "https://www.youtube.com/watch?v=kmAMTbzNN-c",
-        "source_id": "cnnbrasil_br",
-        "source_name": "Cnn Brasil",
-        "source_priority": 1209,
-        "source_url": "https://www.cnnbrasil.com.br",
-        "source_icon": "https://i.newsdata.io/cnnbrasil_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "3a235aa586b3850c7b54ae6726dfffa1",
-        "link": "https://pulsoslp.com.mx/slp/congreso-slp-elige-a-luis-fernando-gamez-como-presidente/2085956",
-        "title": "Congreso SLP elige a Luis Fernando Gámez como presidente",
-        "description": "El Congreso de San Luis Potosí eligió a Luis Fernando Gámez como presidente de la Mesa Directiva para la LXIV Legislatura.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mesa directiva lxiv legislatura san luis potosí"
+            "secretaría de la defensa nacional sinaloa",
+            "claudia sheinbaum seguridad mazatlán sinaloa",
+            "omar garcía harfuch refuerzo seguridad mazatlán",
+            "sspc despliegue elementos mazatlán",
+            "refuerzos secretaría de marina mazatlán"
         ],
         "creator": [
             "pulso slp"
@@ -458,14 +478,14 @@
             "mexico"
         ],
         "category": [
-            "top",
-            "politics"
+            "politics",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-14 16:27:00",
+        "pubDate": "2026-09-15 16:22:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 17:53:58",
-        "image_url": "https://blobcore.pulsoslp.com.mx/images/2026/09/14/gamez-macias-presidira-la-directiva-de-congreso-083ee94b-focus-0-0-600-315.webp",
+        "fetched_at": "2026-09-15 18:23:56",
+        "image_url": "https://blobcore.pulsoslp.com.mx/images/2026/09/04/juan-carlos-valencia-tiene-orden-de-extradicion-confirma-harfuch-1ef5b66f-focus-0-0-600-315.webp",
         "video_url": null,
         "source_id": "pulsoslp_mx",
         "source_name": "Pulso Diario San Luis",
@@ -483,200 +503,46 @@
         "description_zh": ""
     },
     {
-        "article_id": "d033f23091fbf0d9b00ae2e5c7d8dd64",
-        "link": "https://www.heraldo.mx/asesinan-en-morelos-a-estudiante-espanola-de-intercambio/",
-        "title": "Asesinan en Morelos a estudiante española de intercambio",
-        "description": "Rolando Herrera Agencia Reforma CIUDAD DE MÉXICO: Una estudiante española de 21 años, quien realizaba un intercambio académico en la Universidad Autónoma del Estado de Morelos (UAEM), fue asesinada el pasado sábado en Cuautla, Morelos, informaron autoridades estatales. El Fiscal General del Estado, Fernando Blumenkron, confirmó que la víctima era de nacionalidad española y que [...]",
+        "article_id": "d45179585aaf5bcb0cc717981cedd7eb",
+        "link": "https://forbes.com.mx/ad-pinturas-prisa-cumple-80-anos-y-abre-una-nueva-etapa-de-liderazgo/",
+        "title": "Pinturas PRISA cumple 80 años y abre una nueva etapa de liderazgo",
+        "description": "La compañía jalisciense de pinturas y recubrimientos llega a ocho décadas con más de 3,000 soluciones, presencia en 28 estados y una capacidad productiva superior a 40 millones de litros anuales.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "nacional"
+            "pinturas prisa",
+            "aniversario",
+            "construcción",
+            "impermeabilizantes",
+            "industria",
+            "recubrimientos",
+            "pinturas",
+            "jalisco",
+            "méxico",
+            "infraestructura",
+            "prisa"
         ],
         "creator": [
-            "agencia reforma"
+            "contenido patrocinado"
         ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "education"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-14 16:26:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:51:09",
-        "image_url": "https://www.heraldo.mx/wp-content/uploads/2026/09/batch_5-Policiaca-Rafaguean-a-estudia_2931855.webp",
-        "video_url": null,
-        "source_id": "heraldo_mx",
-        "source_name": "El Heraldo De Aguascalientes",
-        "source_priority": 1061009,
-        "source_url": "https://www.heraldo.mx",
-        "source_icon": "https://i.newsdata.io/heraldo_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "f7f386eebb6098fc5fc5c81f313d02d3",
-        "link": "https://www.tvazteca.com/aztecanoticias/video-rescatan-a-hombre-que-intenta-lanzarse-un-puente-en-iztapalapa-cdmx/",
-        "title": "VIDEO| Rescatan a hombre que intentaba arrojarse de un puente peatonal en Iztapalapa",
-        "description": "Los cuatro elementos de bomberos lograron evitar que un hombre se arrojara de un puente peatonal en calles de Iztapalapa, CDMX; así ocurrió el rescate.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "seguridad"
-        ],
-        "creator": [
-            "fernanda benítez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-14 16:26:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:36:12",
-        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/5c/91/e6632ad54f08bab29d8ea20a5f02/portada-2026-09-14t102219-969.jpg",
-        "video_url": null,
-        "source_id": "tvazteca",
-        "source_name": "Azteca Deportes",
-        "source_priority": 17594,
-        "source_url": "https://www.tvazteca.com",
-        "source_icon": "https://i.newsdata.io/tvazteca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "a59c21795af5779f6dc45f3524f0232b",
-        "link": "https://www.pulzo.com/nacion/abelardo-de-la-espriella-rechaza-alianza-con-renovacion-liberal-y-prohibe-prebendas-en-colombia-PP5301710A",
-        "title": "Abelardo de la Espriella rechaza una alianza con Renovación Liberal y advierte contra negociaciones políticas en su gobierno",
-        "description": "Abelardo de la Espriella rechaza alianzas políticas con Renovación Liberal y promete transparencia total en su relación con el Congreso.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "el espectador",
-            "rodrigo lara",
-            "nación",
-            "abelardo de la espriella"
-        ],
-        "creator": [
-            "redacción nación"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "domestic"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-14 16:26:44",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:40:27",
-        "image_url": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5301710A-h-o.webp",
-        "video_url": null,
-        "source_id": "pulzo",
-        "source_name": "Pulzo",
-        "source_priority": 81875,
-        "source_url": "https://www.pulzo.com",
-        "source_icon": "https://i.newsdata.io/pulzo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "fa941d3778f905e5159b81a67e2864c7",
-        "link": "https://www.elespectador.com/deportes/futbol-colombiano/santa-fe/santa-fe-vs-vasco-da-gama-hora-y-donde-ver-en-vivo-los-cuartos-de-la-sudamericana-2026/",
-        "title": "Santa Fe vs. Vasco da Gama: hora y dónde ver en vivo los cuartos de la Sudamericana 2026",
-        "description": "Santa Fe buscará una nueva hazaña de visitante en el estadio São Januário de Río de Janeiro con la mira puesta en las semifinales de la Copa Sudamericana.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "santa fe"
-        ],
-        "creator": [
-            "daniel montoya ardila"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-14 16:26:43",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:48:25",
-        "image_url": "https://www.elespectador.com/wp-content/uploads/elespectador/FURPPLUO55ADFK2IDADQFX4YB4.jpg",
-        "video_url": null,
-        "source_id": "elespectador",
-        "source_name": "Elespectador.com",
-        "source_priority": 589787,
-        "source_url": "http://elespectador.com",
-        "source_icon": "https://i.newsdata.io/elespectador.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "c3d81c7d3f7c12c2ab02e174b8aa70a7",
-        "link": "https://oem.com.mx/diariodequeretaro/deportes/claudia-esteva-impartio-curso-a-jueces-en-queretaro-32081194",
-        "title": "Claudia Esteva impartió curso a jueces en Querétaro",
-        "description": "Hubo una asistencia de 20 personas de diferentes partes del país, quienes se llevaron buenos conocimientos y mucha motivación para seguir mejorando",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "deportes"
-        ],
-        "creator": null,
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
             "lifestyle",
-            "top",
-            "education"
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-14 16:26:38",
+        "pubDate": "2026-09-15 16:21:58",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 21:44:59",
-        "image_url": null,
+        "fetched_at": "2026-09-15 16:35:25",
+        "image_url": "https://cdn.forbes.com.mx/2026/09/PRISA-Planta-Alposa-2.jpg",
         "video_url": null,
-        "source_id": "diariodequeretaro",
-        "source_name": "Diario De Quer",
-        "source_priority": 416798,
-        "source_url": "https://www.diariodequeretaro.com.mx",
-        "source_icon": "https://i.newsdata.io/diariodequeretaro.png",
+        "source_id": "forbes_mx",
+        "source_name": "Forbes Mx",
+        "source_priority": 23981,
+        "source_url": "https://www.forbes.com.mx",
+        "source_icon": "https://i.newsdata.io/forbes_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -688,21 +554,58 @@
         "description_zh": ""
     },
     {
-        "article_id": "a9cd12fbc178386a77ce94d80e086d7e",
-        "link": "https://www.theclinic.cl/2026/09/14/eclipse-solar-2027-la-comuna-chilena-donde-mejor-se-vera-el-anillo-de-fuego-ya-agoto-sus-alojamientos/",
-        "title": "Eclipse solar 2027: la comuna chilena donde mejor se verá el “anillo de fuego” ya agotó sus alojamientos",
-        "description": "Futaleufú la comuna de tres mil habitantes del sur del país, se convertirá en el epicentro y mejor punto de observación del \"anillo de fuego\" en Chile, espera recibir entre 20 mil y 30 mil visitantes para la fecha. The post Eclipse solar 2027: la comuna chilena donde mejor se verá el “anillo de fuego” ya agotó sus alojamientos appeared first on The Clinic .",
+        "article_id": "15593ef6c4cd804df24ebfcb43b6a82d",
+        "link": "https://elheraldodesaltillo.mx/2026/09/15/radio-torreon-y-torreon-tv-fortalecen-la-difusion-de-contenidos-de-salud-mental/",
+        "title": "Radio Torreón y Torreón TV fortalecen la difusión de contenidos de salud mental",
+        "description": "En el mes de la prevención del suicidio, el Sistema XHTOR refrenda su compromiso con la orientación, la prevención y el bienestar de las familias de Torreón Torreón, Coahuila.- En el marco del Mes de la Prevención del Suicidio, septiembre, Radio Torreón y Torreón TV fortalecen la difusión de contenidos relacionados con la salud mental, [...] La entrada Radio Torreón y Torreón TV fortalecen la difusión de contenidos de salud mental se publicó primero en El Heraldo de Saltillo .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "fernando grandón",
-            "eclipse solar anular",
-            "cristián palma",
-            "región de los lagos",
-            "futaleufú",
-            "ciudad"
+            "torreón"
         ],
         "creator": [
-            "dominga krotik"
+            "el heraldo de saltillo"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "domestic"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:21:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:48:03",
+        "image_url": "https://elheraldodesaltillo.mx/wp-content/uploads/2026/09/radio-e1789489299555.jpeg",
+        "video_url": null,
+        "source_id": "elheraldodesaltillo_mx",
+        "source_name": "Elheraldodesaltillo Mx",
+        "source_priority": 435997,
+        "source_url": "https://elheraldodesaltillo.mx",
+        "source_icon": "https://i.newsdata.io/elheraldodesaltillo_mx.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "074428155caed7f04d863e147d527501",
+        "link": "https://www.lacuarta.com/chile/noticia/publimetro-pide-su-quiebra-en-medio-de-millonarias-deudas-se-revela-altisimo-monto-total/",
+        "title": "Publimetro pide su quiebra en medio de millonarias deudas: se revela altísimo monto total",
+        "description": "La firma mantiene deudas por remuneraciones y obligaciones previsionales de trabajadores actuales y pasados.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "quiebra",
+            "prensa",
+            "publimetro"
+        ],
+        "creator": [
+            "diego ramírez"
         ],
         "language": "spanish",
         "country": [
@@ -710,64 +613,19 @@
         ],
         "category": [
             "top",
-            "environment"
-        ],
-        "datatype": "podcast",
-        "pubDate": "2026-09-14 16:26:31",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:42:34",
-        "image_url": "https://static.theclinic.cl/media/2026/09/14-125636_vwqn_Fotos-TC-8.png",
-        "video_url": null,
-        "source_id": "theclinic",
-        "source_name": "The Clinic",
-        "source_priority": 129373,
-        "source_url": "https://www.theclinic.cl",
-        "source_icon": "https://i.newsdata.io/theclinic.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "852d6258a5f88dcf3240b481df81a3f3",
-        "link": "https://24-horas.mx/mundo/ong-israeli-acusa-a-israel-de-eliminar-toda-posibilidad-de-un-estado-palestino/",
-        "title": "ONG israelí acusa a Israel de eliminar toda posibilidad de un Estado palestino",
-        "description": "Una oenegé israelí acusó al gobierno de Israel de aplicar una política destinada a eliminar cualquier posibilidad de un Estado palestino.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "isrel",
-            "netanyahu",
-            "guerra",
-            "mundo",
-            "palestina"
-        ],
-        "creator": [
-            "afp"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-14 16:26:23",
+        "pubDate": "2026-09-15 16:21:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 17:22:32",
-        "image_url": "https://bunny-wp-pullzone-szblh4ncqp.b-cdn.net/wp-content/uploads/mexico//2026/09/Diseno-sin-titulo-2-14.webp",
+        "fetched_at": "2026-09-15 16:36:41",
+        "image_url": "https://www.lacuarta.com/resizer/v2/EOX4HIJ45RA7DNCVURSVAESDTE.jpg?auth=f0983437a4b5c34b0536f6299dae604941f84b559da8b950ba61aaa969b1f3cf&smart=true&width=1900&height=1070",
         "video_url": null,
-        "source_id": "24horas",
-        "source_name": "24 Horas",
-        "source_priority": 469594,
-        "source_url": "https://www.24-horas.mx",
-        "source_icon": "https://i.newsdata.io/24horas.jpg",
+        "source_id": "lacuarta",
+        "source_name": "La Cuarta",
+        "source_priority": 33259,
+        "source_url": "https://www.lacuarta.com",
+        "source_icon": "https://i.newsdata.io/lacuarta.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -779,78 +637,252 @@
         "description_zh": ""
     },
     {
-        "article_id": "3e8f5e93749e8b7549a287cbeeaf005a",
-        "link": "https://www.eleconomista.com.mx/politica/sheinbaum-lamenta-asesinato-estudiante-claudia-tacoronte-sre-mantiene-contacto-espana-dice-20260914-833438.html",
-        "title": "Sheinbaum lamenta asesinato de estudiante Claudia Tacoronte; SRE mantiene contacto con España, dice",
-        "description": "La estudiante española Claudia Tacoronte fue asesinada en Cuautla; autoridades investigan el caso y mantienen contacto con el Consulado de España.",
+        "article_id": "f55f705ed502e1f13746e032237ff232",
+        "link": "https://www.publimetro.co/entretenimiento/2026/09/15/jorge-rausch-destapo-nuevo-secretico-de-petro-y-la-mujer-de-panama/",
+        "title": "Jorge Rausch destapó nuevo secretico de Petro y la mujer de Panamá",
+        "description": "Jorge Rausch de MasterChef reveló detalles de la cita de Petro con su novia en restaurante en Panamá",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "política"
+            "gustavo petro",
+            "panamá"
         ],
         "creator": [
-            "maría fernanda sosa santiago"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-14 16:26:11",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 17:04:15",
-        "image_url": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/09/14/6aa805f907763.png",
-        "video_url": null,
-        "source_id": "eleconomista",
-        "source_name": "El Economista",
-        "source_priority": 19606,
-        "source_url": "https://www.eleconomista.com.mx",
-        "source_icon": "https://i.newsdata.io/eleconomista.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "de4148282dc41a0c118529a3832103a1",
-        "link": "https://www.semana.com/economia/empresas/articulo/mintrabajo-anuncia-inspeccion-a-tienda-zara-tras-denuncia-de-trabajadora-que-tuvo-que-salir-descalza-del-local/202610/",
-        "title": "MinTrabajo anuncia inspección a tienda Zara, tras denuncia de trabajadora que tuvo que salir descalza del local",
-        "description": "El caso será puesto bajo la lupa de la cartera que lidera Natalia López.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "natalia lópez fuentes",
-            "ministerio de trabajo",
-            "zara"
-        ],
-        "creator": [
-            "martha morales manchego"
+            "steven garcía"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "business"
+            "entertainment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-14 16:26:10",
+        "pubDate": "2026-09-15 16:21:38",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-14 16:34:19",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/6XRG675YN5A7HIVKYEH2K5XOXI.jpg?auth=27096f9283513b2a1597f7523388adf70402db53b15e1f978297aa1ce6265025&smart=true&width=2000&height=1000",
+        "fetched_at": "2026-09-15 16:45:59",
+        "image_url": "https://www.publimetro.co/resizer/v2/O547NMXTMZC6TKMVGPAHVGG2SY.png?auth=ad2ee7edef3214052c15a7859d4d5124823ac7623e659e73139bdd0bcbbaee11&smart=true&width=1920&height=1080",
         "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://i.newsdata.io/semana.png",
+        "source_id": "publimetro_co",
+        "source_name": "Publimetro Colombia",
+        "source_priority": 371455,
+        "source_url": "https://www.publimetro.co",
+        "source_icon": "https://i.newsdata.io/publimetro_co.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "edff5141c04b44fb7f4d5719c1bf6c3b",
+        "link": "https://www.eluniversal.com.mx/nacion/refuerzan-seguridad-en-mazatlan-sinaloa-arriban-mil-800-elementos-de-la-defensa-marina-y-sspc/",
+        "title": "Refuerzan seguridad en Mazatlán, Sinaloa; arriban mil 800 elementos de la Defensa, Marina y SSPC",
+        "description": "Se busca mayor presencia territorial, patrullajes, vigilancia y prevención de delitos",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "sinaloa",
+            "seguridad",
+            "seguridad en mazatlan",
+            "violencia en sinaloa",
+            "omar garcia harfuch"
+        ],
+        "creator": [
+            "el universal"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:21:31",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:32:15",
+        "image_url": "https://www.eluniversal.com.mx/resizer/v2/ELB72AL6MNAVXCE6QQZUETA5IM.jpg?auth=37ca3d1882329a81b530e5980c5abe2d157fae81bca3a49c0b594185f53a4afd&smart=true&width=1200&height=740",
+        "video_url": null,
+        "source_id": "eluniversal",
+        "source_name": "El Universal",
+        "source_priority": 8884,
+        "source_url": "https://www.eluniversal.com.mx",
+        "source_icon": "https://i.newsdata.io/eluniversal.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "dcb4b026e48f9cb187175eabbd1b745d",
+        "link": "https://asisucede.com.mx/atacan-a-balazos-a-asesor-de-alcaldesa-de-tecamac/",
+        "title": "Atacan a balazos a asesor de alcaldesa de Tecámac",
+        "description": "El asesor de la presidenta municipal de Tecámac, Carlos Galindo, fue atacado la mañana de este martes cuando se dirigía a sus actividades laborales. Inicialmente se creyó que la víctima del ataque era la alcaldesa Rosa Yolanda Wong Romero, a quien se reportó segura y participando en la llamada Mesa de Paz. De acuerdo con [...] La entrada Atacan a balazos a asesor de alcaldesa de Tecámac aparece primero en Así Sucede .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "destacadas",
+            "valle de méxico",
+            "seguridad"
+        ],
+        "creator": [
+            "redacción así sucede"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:21:26",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:49:45",
+        "image_url": "https://i0.wp.com/asisucede.com.mx/wp-content/uploads/2026/09/Ataque-Tecamac-Carlos-Galindo.jpg?fit=800%2C600&ssl=1",
+        "video_url": null,
+        "source_id": "asisucede",
+        "source_name": "Asi Sucede",
+        "source_priority": 1051776,
+        "source_url": "https://asisucede.com.mx",
+        "source_icon": "https://i.newsdata.io/asisucede.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "a73258fafc3142a6cab1605fd49fa9f7",
+        "link": "https://www.soyfutbol.com/noticias/lionel-messi-vuelve-a-sacudir-el-balon-de-oro-lequipe-lo-coloca-entre-los-grandes-favoritos-de-2026-20260915-0010.html",
+        "title": "Lionel Messi vuelve a sacudir el Balón de Oro: LÉquipe lo coloca entre los grandes favoritos de 2026",
+        "description": "El astro argentino aparece junto con Lamine Yamal, Kylian Mbappé, Harry Kane y Ousmane Dembélé en una carrera que promete definirse hasta el último voto.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "noticias"
+        ],
+        "creator": [
+            "amarelle federico"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:21:24",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:48:56",
+        "image_url": "https://www.soyfutbol.com/images-formats/1200x675/t_2-p_9-fpx_5285-fpy_1861/jpg/2026/09/02/afp__20260831__c6x88ke__v2__highres__topshotfilesfblargmessi.jpg",
+        "video_url": null,
+        "source_id": "soyfutbol",
+        "source_name": "Soyfutbol",
+        "source_priority": 877070,
+        "source_url": "https://www.soyfutbol.com",
+        "source_icon": "https://i.newsdata.io/soyfutbol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "9a4466b203da28c359762523762c7e82",
+        "link": "https://aldialogo.mx/estado/2026/09/15/definiran-accesos-permantenes-a-fraccionamientos-tras-obras-en-autopista-mexico-queretaro",
+        "title": "Definirán accesos permantenes a fraccionamientos tras obras en autopista México-Querétaro",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "jair lara"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:21:23",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:48:11",
+        "image_url": "https://aldialogo.sfo2.digitaloceanspaces.com/uploads/2026/09/Definiran-accesos-permantenes-a-fraccionamientos-tras-obras-en-autopista-Mexico-Queretaro.jpg",
+        "video_url": null,
+        "source_id": "aldialogo",
+        "source_name": "Aldialogo Mx",
+        "source_priority": 673454,
+        "source_url": "https://aldialogo.mx",
+        "source_icon": "https://i.newsdata.io/aldialogo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "c4b638d98fbaad902a1bc407bb92c4b5",
+        "link": "https://www.vanguardia.com/colombia/2026/09/15/rescatan-a-ocho-personas-durante-operativo-militar-contra-el-eln-en-el-catatumbo/",
+        "title": "Rescatan a ocho personas durante operativo militar contra el ELN en el Catatumbo",
+        "description": "Una operación militar en el corazón del Catatumbo terminó con un resultado inesperado. Los comandos llegaron buscando a tres uniformados y encontraron a otras ocho personas privadas de la libertad.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ejército nacional",
+            "liberación",
+            "gaula del ejército",
+            "liberación de secuestrados",
+            "secuestrador",
+            "secuestro",
+            "eln",
+            "ejército nacional de colombia",
+            "gaula"
+        ],
+        "creator": [
+            "jaime moreno"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-15 16:21:21",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-15 16:34:52",
+        "image_url": "https://www.vanguardia.com/resizer/v2/VBRSXKBQXNEO3C6TWT6JJK5Q5I.jpg?auth=e627cd8a63d05f35868a5793159f09897d327a01d775b4789430ee94dac79997&smart=true&width=1080&height=614",
+        "video_url": null,
+        "source_id": "vanguardia",
+        "source_name": "Vanguardia",
+        "source_priority": 24302,
+        "source_url": "https://vanguardia.com.mx",
+        "source_icon": "https://i.newsdata.io/vanguardia.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
