@@ -1,251 +1,458 @@
 [
     {
-        "article_id": "dbf7faf0b23278c5ff122680569ab762",
-        "link": "https://www.lagaceta.com.ar/nota/1154277/seguridad/pelea-campeonato-profesionales-termino-tribunales.html",
-        "title": "Una pelea en un campeonato de profesionales terminó en tribunales",
-        "description": "Un médico denunció a un abogado de haberle quebrado la mandíbula por el golpe de puño que le aplicó. Se suspendió una audiencia clave.",
+        "article_id": "ae4c62d44dc3d244a35425b17f4ecab7",
+        "link": "https://www.elliberal.com.ar/nota/91866/2026/09/elias-suarez-en-la-expobra--el-desafio-de-desarrollar-la-ganaderia-en-santiago-del-estero-es-un-tema-central",
+        "title": "Elías Suárez en la ExpoBra: \"El desafío de desarrollar la ganadería en Santiago del Estero es un tema central\"",
+        "description": "El Gobernador inauguró la 19a ExpoBra en el Vivero San Carlos de La Banda y destacó el potencial productivo de Santiago del Estero. En diálogo exclusivo con EL LIBERAL, habló sobre el crecimiento de la ganadería, el acompañamiento a los productores y el trabajo conjunto entre el sector público y privado.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "ministerio público",
-            "tucumán",
-            "seguridad",
-            "jorge alejandro lembo",
-            "lesiones graves",
-            "pablo josé villazur",
-            "bajo grande"
+            "diario",
+            "ultimo momento",
+            "santiago del estero",
+            "el liberal",
+            "argentina",
+            "periodico",
+            "news",
+            "noticias"
         ],
         "creator": [
-            "gustavo rodríguez"
+            "f autor"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 19:49:45",
-        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/09/16/en-pausa-audiencia-se-deberia-haber-imputado-al-denunciado-se-suspendio-ausencia-defensor-1154277-162435.jpeg",
-        "video_url": null,
-        "source_id": "lagaceta_ar",
-        "source_name": "Lagaceta",
-        "source_priority": 975335,
-        "source_url": "https://www.lagaceta.com.ar",
-        "source_icon": "https://i.newsdata.io/LaGaceta_Ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "ede4239686e0bdd782a5f59eac15a4c4",
-        "link": "https://www.tudocelular.com/dell/noticias/n263077/googlebook-dell-parte-linha-xps-documento-vazado.html",
-        "title": "Googlebook da Dell será parte da linha premium XPS, reforça documento vazado",
-        "description": "Novo documento vazado reforça que o primeiro Googlebook da Dell será membro da linha premium XPS, devendo trazer construção premium e ficha potente",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "dell"
-        ],
-        "creator": [
-            "tudocelular.com"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 21:33:18",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "tudocelular",
-        "source_name": "Tudocelular.com",
-        "source_priority": 14359,
-        "source_url": "https://www.tudocelular.com",
-        "source_icon": "https://i.newsdata.io/tudocelular.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "1d2e7657d57a86fb05de66cd1dd9322a",
-        "link": "https://www.minutouno.com/deportes/bronca-sao-paulo-el-var-cuestionaron-el-fuera-juego-el-empate-boca-n6323067",
-        "title": "Bronca en São Paulo por el VAR: cuestionaron el fuera de juego en el empate ante Boca",
-        "description": "Tras quedar eliminado de la Copa Sudamericana, desde el conjunto brasileño reclamaron por la decisión arbitral que anuló el gol que podía significar el empate.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "deportes"
-        ],
-        "creator": [
-            "minutouno"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 16:37:55",
-        "image_url": "https://media.minutouno.com/p/434e83e3c55d97749e8c5177b53fdd90/adjuntos/150/imagenes/043/646/0043646628/1200x675/842x393:862x413/san-pablo-offisde.jpg",
-        "video_url": null,
-        "source_id": "minutouno",
-        "source_name": "Minutouno",
-        "source_priority": 33172,
-        "source_url": "https://www.minutouno.com",
-        "source_icon": "https://i.newsdata.io/minutouno.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "68614af5df204cde5d0a2de095d78579",
-        "link": "https://www.netvasco.com.br/n/392778/vice-campeao-brasileiro-pelo-vasco-ex-meia-xaxa-morre-aos-74-anos",
-        "title": "Vice-campeão brasileiro pelo Vasco, ex-meia Xaxá morre aos 74 anos",
-        "description": "Xaxá relembra momentos pelos clubes lusitanos Xaxá, ex-meia de Portuguesa, Londrina e Vasco, morreu nesta quarta-feira, aos 74 anos. A causa da morte não foi divulgada até o momento. Ele morava em Guarujá, no litoral de São Paulo. Londrina e Vasco fazem outra grande decisão em São Januário Revelado pela Portuguesa Santista, Xaxá foi em seguida para a Portuguesa de Desportos, onde atuou de 1970 a 1976. Com a Lusa, ele foi campeão do Campeonato Paulista de 1973, em jogo polêmico decidido nos pênaltis e com erro do árbitro Armando Marques na contagem. A Portuguesa chegou a abandonar o campo, e o título foi dividido posteriormente. Em 1977, Xaxá foi contratado pelo Londrina e fez parte do time que marcou história no clube, chegando às semifinais do Campeonato Brasileiro daquele ano. Ele fez dois gols em jogos decisivos contra Goiânia e Vila Nova, no chamado “pacto de Goiânia”, que levou o Londrina à fase decisiva do campeonato. Em seguida, o Tubarão deixou pelo caminho times como Flamengo, Corinthians, Santos e Vasco da Gama, parando no Atlético-MG nas semifinais. Xaxá jogou também pelo Vasco, em 1979, fazendo parte do time vice-campeão brasileiro daquele ano. Ele passou ainda por Juventus-SP, Uberlândia e União Rondonópolis, onde encerrou a carreira, em 1980. Depois de parar de jogar, Xaxá trabalhou como comentarista de futebol, foi professor de futebol para jovens nos Estados Unidos, além de ser treinador na base na Portuguesa Santista e na Portuguesa. A Portuguesa Santista, a Portuguesa de Desportos e o Londrina postaram notas de pesar pela morte de Xaxá. Os clubes lamentaram o falecimento do ex-jogador, destacaram os principais momentos e se solidarizaram com os familiares e amigos. Xaxá, em jogo comemorativo de ex-jogadores do Londrina, em 2018 — Foto: Gustavo Oliveira/Arquivo Londrina EC Veja a nota da Portuguesa A Associação Portuguesa de Desportos lamenta profundamente o falecimento de Maximiliano Rodrigues Lopes, o nosso eterno Xaxá, aos 74 anos. Xaxá vestiu a camisa da Lusa entre 1970 e 1976, disputando 230 partidas e marcando 11 gols. Pelo nosso clube, fez parte de uma geração que entrou para a história, sendo campeão paulista em 1973. A Portuguesa se solidariza com familiares, amigos e todos que tiveram a oportunidade de conviver com Xaxá. Descanse em paz, Super Xaxá ❤️💚 Nota da Portuguesa sobre a morte de Xaxá — Foto: Reprodução/Instagram Veja a nota da Portuguesa Santista Com profundo pesar, a Associação Atlética Portuguesa lamenta o falecimento de Maximiliano Rodrigues Lopes, mais conhecido como Xaxá, ex-jogador do clube e intregrante do Master da Briosa. Nascido em Guarujá, Xaxá começou sua trajetória no futebol profissional nos gramados de Ulrico Mursa, em 1969, com apenas 17 anos. A Portuguesa Santista se solidariza com a dor dos familiares e amigos. Nota da Portuguesa Santista sobre a morte de Xaxá — Foto: Reprodução/Instagram Veja a nota do Londrina O Londrina Esporte Clube presta suas condolências à família e aos amigos de Maximiliano Rodrigues Lopes, conhecido como Xaxá. Nossa família Alviceleste está de luto pela perda de Xaxá, que faleceu aos 74 anos, nesta quarta-feira (16). Xaxá chegou ao Londrina vindo da Portuguesa em 1977 e fez parte daquela grandiosa equipe que disputou a Série A do Campeonato Brasileiro, terminando na 4a colocação, eliminando equipes como Flamengo, Corinthians, Santos e Vasco da Gama. Pelo Tubarão, marcou dois gols. Descanse em paz, Xaxá. 🤍 Nota do Londrina sobre a morte de Xaxá — Foto: Reprodução/Instagram Fonte: ge",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "vasco",
-            "notícias",
-            "brasileiro",
-            "campeonato brasileiro",
-            "brasileirão"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 17:06:42",
-        "image_url": "https://www.netvasco.com.br/news/noticias16/arquivos/20260916-132450-1-12-xaxa-em-jogo-comemorativo-de-ex-jogadores-do-londrina-em-2018---foto-gustavo-oliveiraarquivo-londrina-ec.jpg",
-        "video_url": null,
-        "source_id": "netvasco_br",
-        "source_name": "Netvasco",
-        "source_priority": 32805,
-        "source_url": "https://www.netvasco.com.br",
-        "source_icon": "https://i.newsdata.io/netvasco_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "0a30d95d4ea9d15dd5a7ef6a014ee8a3",
-        "link": "https://www.correiobraziliense.com.br/ciencia-e-saude/2026/09/7501811-astronomos-confirmam-descoberta-de-planeta-mais-jovem-ja-encontrado.html",
-        "title": "Astrônomos confirmam descoberta de planeta mais jovem já encontrado",
-        "description": "Com menos de 1 milhão de anos, a descoberta do exoplaneta Elias 2-24 b desafia os modelos atuais sobre a formação do nosso próprio sistema solar",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "planeta",
-            "health & medical",
-            "nasa",
-            "astronomia"
-        ],
-        "creator": [
-            "correio braziliense"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "science"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 16:46:16",
-        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/09/16/675x450/1_7501811-0e95b90712b34db5a07829c51a10d95a-67707664.jpeg",
-        "video_url": null,
-        "source_id": "correiobraziliense",
-        "source_name": "Correio Braziliense",
-        "source_priority": 267296,
-        "source_url": "https://www.correiobraziliense.com.br",
-        "source_icon": "https://i.newsdata.io/correiobraziliense.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "8a55489d772188f16aaa532f63d45387",
-        "link": "https://jc.uol.com.br/colunas/seguranca/2026/09/16/megaoperacao-contra-crime-organizado-bloqueia-mais-de-rs-508-milhoes.html",
-        "title": "Megaoperação contra crime organizado bloqueia mais de R$ 508 milhões",
-        "description": "Mobilização combate organizações especializadas no tráfico de drogas e de armas de fogo e lavagem de dinheiro. São cumpridos 106 mandados de prisão",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "investigação"
-        ],
-        "creator": [
-            "da redação",
-            "com agência brasil"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "crime",
+            "environment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-16 16:28:00",
+        "pubDate": "2026-09-17 16:13:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 16:48:26",
-        "image_url": "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2026/09/16/ficco-37079994.jpeg",
+        "fetched_at": "2026-09-17 16:23:32",
+        "image_url": "https://www.elliberal.com.ar/img/publicaciones/2026/09/17/alta/2217314.webp",
         "video_url": null,
-        "source_id": "jcne10uol",
-        "source_name": "Jc Notiacute",
-        "source_priority": 652888,
-        "source_url": "https://jc.ne10.uol.com.br",
-        "source_icon": "https://i.newsdata.io/jcne10uol.png",
+        "source_id": "elliberal",
+        "source_name": "El Liberal",
+        "source_priority": 1699418,
+        "source_url": "https://www.elliberal.com.ar",
+        "source_icon": null,
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "608266c165f5960033b450f35a642b10",
+        "link": "https://www.mixvale.com.br/2026/09/17/caixa-sorteia-concurso-3059-da-mega-sena-valendo-r-102-milhoes/",
+        "title": "Caixa sorteia concurso 3059 da Mega-Sena valendo R$ 102 milhões",
+        "description": "A Caixa sorteia as dezenas do concurso 3.059 da Mega-Sena nesta quinta-feira, 17 de setembro de 2026, às 21h, na cidade de São Paulo, com um prêmio calculado em R$ 102 milhões. O montante principal acumulou. Concurso anterior terminou sem vencedores na faixa principal Os seis números sorteados em 15 de setembro de 2026 não [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "concurso 3059",
+            "últimas notícias",
+            "mega-sena",
+            "loterias caixa",
+            "prêmio milionário",
+            "caixa"
+        ],
+        "creator": [
+            "luís henrique costa"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:57",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 22:46:28",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "mixvale",
+        "source_name": "Mix Vale",
+        "source_priority": 95409,
+        "source_url": "https://www.mixvale.com.br",
+        "source_icon": "https://i.newsdata.io/mixvale.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "5d37d64282c691c6d46a00bf877e7ddd",
+        "link": "https://www.omelete.com.br/filmes/vingadores-guerras-secretas-kathryn-hahn-agatha-harkness-retorno-rumor",
+        "title": "Vingadores: Guerras Secretas | Kathryn Hahn pode voltar como Agatha Harkness no filme, diz rumor",
+        "description": "Vingadores: Guerras Secretas | Kathryn Hahn pode voltar como Agatha Harkness no filme, diz rumor",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "agatha",
+            "avengers secret wars",
+            "kathryn hahn",
+            "agatha harkness",
+            "guerras secretas marvel",
+            "avengers 6",
+            "agatha all along",
+            "universo marvel",
+            "vingadores: guerras secretas",
+            "kathryn hahn agatha",
+            "marvel studios",
+            "vingadores 6",
+            "mcu",
+            "agatha guerras secretas",
+            "marvel"
+        ],
+        "creator": [
+            "felipe rocha"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:57",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 16:36:50",
+        "image_url": "https://cdn.ome.lt/r4VAQLTSUv4p0ooyXk9RIJK40sE=/970x0/smart/filters:format(webp)/extras/conteudos/agatha-2.jpg",
+        "video_url": null,
+        "source_id": "omelete_br",
+        "source_name": "Omelete",
+        "source_priority": 32316,
+        "source_url": "https://www.omelete.com.br",
+        "source_icon": "https://i.newsdata.io/omelete_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "c7fe9c341c60caaf1341305b5fc49c78",
+        "link": "https://www.infobae.com/colombia/2026/09/17/fabiola-perea-ex-empleada-domestica-de-laura-sarabia-denuncio-que-fue-victima-del-abuso-de-poder-de-la-ahora-embajadora-en-londres/",
+        "title": "Fabiola Perea, exempleada doméstica de Laura Sarabia, denunció que fue “víctima del abuso de poder” de la exembajadora en Londres",
+        "description": "La mujer vinculó lo ocurrido con la búsqueda de una maleta con dinero desaparecida en el apartamento de la exjefe de gabinete del gobierno de Gustavo Petro y relató que agentes vestidos de civil visitaron su casa en Soacha antes de la ‘chuzada’",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "laura sarabia",
+            "fabiola perea",
+            "prueba del polígrafo",
+            "colombia-noticias",
+            "marelbys meza"
+        ],
+        "creator": [
+            "frank  saavedra"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "mexico",
+            "united states of america"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:52",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 16:31:47",
+        "image_url": "https://www.infobae.com/resizer/v2/QTVDPELFHVDMHHTOD4TI2FV6SM.png?auth=434c7af02048aaf41617f433cbd47cd19b64ea97a3dd998879abd7bbe48dab63&smart=true&width=1920&height=1080",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "2841d3429e403ee8e9178f9f37118d02",
+        "link": "https://www.eldiarioar.com/politica/milei-sesion-senado-debate-inocencia-fiscal-biocombustibles_1_13518759.html",
+        "title": "Duras críticas al Gobierno por el nuevo ajuste a discapacidad: \"Milei disfruta ver sufrir a los más vulnerables”",
+        "description": "En medio de la sesión por la Inocencia Fiscal II y biocombustibles, legisladores de la oposición cuestionaron con dureza los cambios en la Ley de Emergencia en Discapacidad que metió el Gobierno en el Presupuesto 2027. La senadora Bullrich admitió que en el oficialismo no habían sido informados. \"Disfrutan ver sufrir a los más vulnerables\", disparó Wado de Pedro desde la Cámara alta. El Senado sesiona este jueves con el objetivo declarado de convertir en ley la Inocencia Fiscal II y avanzar con la reforma del régimen de biocombustibles , pero el temario oficial quedó relegado a un segundo plano en el inicio del debate. El oficialismo llegó al recinto con 37 legisladores propios y debió salir a buscar el respaldo de bloques provinciales y federales para garantizar el quórum, en una jornada que comenzó dominada por los reclamos de la oposición contra los recortes en discapacidad incluidos en el proyecto de Presupuesto 2027. El senador de Unión por la Patria Eduardo “Wado” de Pedro fue el más duro. Vinculó los cambios que el Gobierno impulsa sobre la Ley de Emergencia en Discapacidad con el articulado del nuevo Presupuesto y acusó al Ejecutivo de desentenderse del problema: “El Gobierno desconoce la Emergencia en Discapacidad, la veta y el Congreso vuelve a insistir. Parece que el presidente Javier Milei disfruta ver sufrir a los más vulnerables”, lanzó. También apuntó contra la lógica de ajuste familiar que, dijo, el oficialismo pretende trasladar a los hogares con una persona con discapacidad a cargo: “Los discapacitados dependen de la ayuda del resto de la sociedad. Es imposible que el pluriempleo pueda sostener a un hijo o a un miembro de la familia que necesita ayuda.” A los cuestionamientos por discapacidad se sumaron las críticas del kirchnerismo por el endeudamiento de las familias argentinas. La senadora Alicia Kirchner advirtió sobre lo que definió como “usura social” y describió un escenario de “precariedad y abandono” que, sostuvo, alcanza a una gran mayoría de la población. La legisladora señaló que buena parte de las familias recurrió al crédito para sostener el consumo básico y que ese fenómeno quedó legitimado por la falta de respuestas del Estado. El trasfondo de los reclamos tiene nombre y artículo: el 39 del proyecto de Presupuesto 2027, que habilitaría la eliminación del nomenclador nacional de discapacidad , el instrumento que fija valores de referencia uniformes para tratamientos, traslados y prestaciones en todo el país. Sin esa regulación unificada, los montos quedarían sujetos a negociaciones individuales con cada obra social, con el riesgo de que la diferencia termine cayendo sobre las familias. La incomodidad no quedó circunscripta a la oposición. La propia jefa del bloque oficialista en el Senado, Patricia Bullrich , reconoció públicamente que ni ella ni el resto de la Mesa Política habían sido informados de los cambios en discapacidad que terminaron incorporados al Presupuesto. “A mí me sorprendió porque, estando en la Mesa Política, el tema no salió a la luz. No nos enteramos, es la verdad”, admitió en radio Rivadavia, y reconoció que ese tipo de desprolijidades “resiente un poco las relaciones” dentro del espacio libertario. El episodio se inscribe en una tensión que el Gobierno viene arrastrando desde hace meses. La Ley de Emergencia en Discapacidad fue vetada por Javier Milei en 2025 y el Congreso insistió con su sanción, convirtiéndola en la Ley 27.793. Desde entonces, sucesivos intentos oficiales de introducir modificaciones —incluida una propuesta del ministro de Salud, Mario Lugones, en abril— reavivaron el conflicto con los aliados legislativos y con el sector de prestadores, que denuncia pagos demorados de hasta 90 días y familias que abandonan coberturas por la crisis económica. Más allá del ruido por discapacidad y endeudamiento, el Senado busca avanzar este jueves con el resto de un temario cargado: además de convertir en ley la Inocencia Fiscal II y avanzar con la reforma del régimen de biocombustibles , está en el temario el traspaso de competencias penales a la Justicia de la Ciudad de Buenos Aires, la incorporación del Parque Nacional Monte León y una serie de pliegos judiciales, entre ellos las designaciones para tribunales en materia de delitos económicos. En cambio, quedó nuevamente postergado el tratamiento de la reforma de la Carta Orgánica del Banco Central , uno de los proyectos que el oficialismo negocia con los bloques dialoguistas y que todavía no logró destrabar.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "discapacidad",
+            "patricia bullrich",
+            "emergencia en discapacidad",
+            "senado",
+            "javier milei"
+        ],
+        "creator": [
+            "eldiarioar.com"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-09-17 16:12:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 16:44:35",
+        "image_url": "https://static.eldiario.es/clip/16983a08-74cf-479b-a5dc-152858c9d61b_16-9-discover-aspect-ratio_default_0_x828y368.jpg",
+        "video_url": "https://www.youtube.com/watch?v=S_8FqVKrQnA",
+        "source_id": "eldiarioar",
+        "source_name": "El Diario Ar",
+        "source_priority": 233338,
+        "source_url": "https://www.eldiarioar.com",
+        "source_icon": "https://i.newsdata.io/eldiarioar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "4c5e4c4efc6ae9b17c6f5c18df2c970c",
+        "link": "https://contilnetnoticias.com.br/voce-viu/fazedores-de-cultura-de-sena-denunciam-atraso-em-resultado-da-pnab/",
+        "title": "Fazedores de cultura de Sena denunciam atraso em resultado da PNAB",
+        "description": "Fazedores de cultura de Sena Madureira estão cobrando esclarecimentos sobre o atraso na divulgação do resultado final de um edital da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB)....",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "você viu?"
+        ],
+        "creator": [
+            "contilnet",
+            "ricardo amaral"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:35",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 16:42:11",
+        "image_url": "https://contilnetnoticias.com.br/wp-content/uploads/2026/09/prefeitura-de-sena-madureira.avif",
+        "video_url": null,
+        "source_id": "contilnetnoticias",
+        "source_name": "Contilnet Notícias",
+        "source_priority": 155904,
+        "source_url": "https://contilnetnoticias.com.br",
+        "source_icon": "https://i.newsdata.io/contilnetnoticias.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "3a747ec1fde94b0f2821e334f69a2ec1",
+        "link": "https://www.abcmais.com/opiniao/ivar-hartmann-nao-ha-bem-que-sempre-dure/",
+        "title": "IVAR HARTMANN: Não há bem que sempre dure",
+        "description": "Nem mal que nunca acabe. Qual leitor não conhece a frase? Pois é. Nosso STF, ao longo das décadas, berço de tantos ilustres homens públicos, pessoas ilibadas que construíram uma vida defendendo o direito, era uma plêiade de advogados brasileiros, que viam na figura de um ministro da Suprema Corte o final de sua carreira [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "opinião",
+            "artigo",
+            "ivar hartmann",
+            "nh",
+            "novo hamburgo"
+        ],
+        "creator": [
+            "five.integracao"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 16:24:53",
+        "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/23/img_20190925_wa0014_18473714-22836565.jpg",
+        "video_url": null,
+        "source_id": "abcmais",
+        "source_name": "Abc+",
+        "source_priority": 5471397,
+        "source_url": "https://www.abcmais.com",
+        "source_icon": "https://i.newsdata.io/abcmais.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "12b0c337013e5f64d42ebb5ab6ff322b",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/la-justicia-no-pudo-comprobar-si-facundo-moyano-violo-la-perimetral-para-encontrarse-con-candela-arizaga/",
+        "title": "La Justicia no pudo comprobar si Facundo Moyano violó la perimetral para encontrarse con Candela Arizaga",
+        "description": "La conclusión se desprende del informe elaborado por el Ministerio Público Fiscal porteño, luego de que la Policía Judicial realizara la investigación correspondiente",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "últimas noticias",
+            "candela arizaga",
+            "facundo moyano"
+        ],
+        "creator": [
+            "infobae"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "mexico",
+            "united states of america"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-09-17 16:12:30",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 16:31:47",
+        "image_url": "https://www.infobae.com/resizer/v2/XTALKMZY35FEPGXK6VUEXRDJ4E.png?auth=37652d2fea2b3fc2b1ae2235c3b8d03941aba90d76a509301132001cca92d1bb&smart=true&width=2752&height=1536",
+        "video_url": "https://cdn.jwplayer.com/videos/B7DmGDuW-HeIT2Id1.mp4",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "c57ca777af6aacc24a71ac6ea8c88f3d",
+        "link": "https://www.jornaldamidia.com.br/2026/09/17/as-vesperas-das-eleicoes-bolsa-familia-sobe-15-e-beneficio-medio-chega-a-r777/",
+        "title": "Às vésperas das eleições, Bolsa Família sobe 15% e benefício médio chega a R$777",
+        "description": "O benefício pago pelo programa Bolsa Família será reajustado em 15%. O aumento corresponde à variação inflacionária registrada pelo Índice Nacional de Preços ao Consumidor (INPC) entre março de 2023 e agosto de 2026. Com isso, o valor mínimo do benefício ficará em R$ 691. Já o valor médio pago chegará a R$ 777. A atualização [...] Leia a matéria Às vésperas das eleições, Bolsa Família sobe 15% e benefício médio chega a R$777 no Jornal da Mídia .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "inpc",
+            "cotidiano",
+            "destaque",
+            "bolsa família"
+        ],
+        "creator": [
+            "redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:18",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 16:20:45",
+        "image_url": "https://www.jornaldamidia.com.br/wp-content/uploads/2026/09/Bolsa-Familia.jpg",
+        "video_url": null,
+        "source_id": "jornaldamidia",
+        "source_name": "Jornal Da Midia",
+        "source_priority": 1081951,
+        "source_url": "https://www.jornaldamidia.com.br",
+        "source_icon": "https://i.newsdata.io/jornaldamidia.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "25578f8399a44ac7c2af5176a15fea7f",
+        "link": "https://www.laopinioncoruna.es/espana/2026/09/17/consejero-presidencia-justifica-compra-atico-134401923.html",
+        "title": "El consejero de Presidencia madrileño justifica la compra del ático para contar con \"un inmueble institucional\": \"Isabel Díaz Ayuso no ha tenido, tiene ni tendrá una residencia oficial\"",
+        "description": "\"Isabel Díaz Ayuso se paga su propia vivienda y no ha tenido, tiene ni tendrá una residencia oficial\". El consejero de Presidencia de la Comunidad de Madrid, Miguel Ángel García, ha insistido en el argumento que ya utilizó la semana pasada la propia presidenta madrileña para tratar de apagar la polémica en torno a la compra por parte de la empresa pública Planifica Madrid de un ático en el distrito de Chamberí. García ha justificado la compra como forma de “contar con un inmueble institucional” que dispusiera de “zona destinada a lugar de trabajo”, “un área de descanso” y “alojamiento ocasional para autoridades en visita oficial a la región o a las propias autoridades de la comunidad”.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "compra",
+            "presidencia",
+            "justifica",
+            "atico",
+            "consejero"
+        ],
+        "creator": [
+            "víctor rodríguez"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:18",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 16:37:42",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2adcb692-4f2b-4718-9cb1-170363455916_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "video_url": null,
+        "source_id": "laopinioncoruna",
+        "source_name": "La Opinión A Coruña",
+        "source_priority": 50098,
+        "source_url": "https://www.laopinioncoruna.es",
+        "source_icon": "https://i.newsdata.io/laopinioncoruna.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -257,86 +464,40 @@
         "description_zh": ""
     },
     {
-        "article_id": "aa5ef883b976a291a0f33ca8a7caf972",
-        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/o-saldo-negativo-de-r-44-milhoes-das-campanhas-dos-presidenciaveis.ghtml",
-        "title": "O saldo negativo de R$ 44 milhões das campanhas dos presidenciáveis",
-        "description": "As prestações de contas parciais apresentadas até o momento pelos 12 candidatos à Presidência da República revelam um saldo de R$ 44,2 milhões entre o total das despesas das campanhas (R$ 153,9 milhões) e dos recursos recebidos (R$ 109,7 milhões) até o momento. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+        "article_id": "000cb93b3ad55bf28b16dea1a24d9e06",
+        "link": "https://www.elmanana.com/noticias/nacional/talento-en-ciudad-juarez-y-su-impacto-en-la-economia-global/6186474",
+        "title": "Talento en Ciudad Juárez y su impacto en la economía global",
+        "description": "La ubicación estratégica de Ciudad Juárez la convierte en una plataforma ideal para el nearshoring y la inversión extranjera.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "o globo"
+            "talento en ciudad ju&#225;rez",
+            "ciudad ju&#225;rez econom&#237;a global",
+            "manufactura avanzada ciudad ju&#225;rez",
+            "plataforma de nearshoring",
+            "inversi&#243;n en ciudad ju&#225;rez"
         ],
-        "creator": null,
-        "language": "portuguese",
+        "creator": [
+            "el universal"
+        ],
+        "language": "spanish",
         "country": [
-            "brazil"
+            "mexico"
         ],
         "category": [
             "top",
             "business"
         ],
-        "datatype": "blog",
-        "pubDate": "2026-09-16 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 17:10:31",
-        "image_url": "https://s2-oglobo.glbimg.com/E7ixYpnWH7V94Ctn4WguEjjsKVk=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/Y/z/j2o9KYS9KBUOPs7OlIQA/lula-flavio-caiado.png",
-        "video_url": null,
-        "source_id": "oglobo_globo",
-        "source_name": "O Globo",
-        "source_priority": 93485,
-        "source_url": "https://oglobo.globo.com",
-        "source_icon": "https://i.newsdata.io/oglobo_globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "b05c836f6dce0cadd6e51076d31283e8",
-        "link": "https://diariopanorama.com/noticia/566679/banda-celebro-sus-114-anos-homenaje-historia-cultura-e-identidad",
-        "title": "La Banda celebró sus 114 años con un homenaje a su historia, cultura e identidad",
-        "description": "La ciudad conmemoró este miércoles su 114° aniversario con un acto protocolar en la plaza Manuel Belgrano, que reunió a autoridades, instituciones, fuerzas de seguridad, estudiantes, artistas y vecinos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "e",
-            "homenaje",
-            "anos",
-            "diario panorama",
-            "114",
-            "celebro",
-            "sus",
-            "locales",
-            "historia",
-            "identidad",
-            "banda",
-            "cultura"
-        ],
-        "creator": [
-            "redacción diario panorama"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
         "datatype": "news",
-        "pubDate": "2026-09-16 16:28:00",
+        "pubDate": "2026-09-17 16:13:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 19:35:32",
-        "image_url": "https://diariopanorama.com/fotos/notas/2026/09/16/aniversario-banda-566679-162942.jpg",
+        "fetched_at": "2026-09-17 21:43:06",
+        "image_url": "https://blob.elmanana.com/images/2026/09/17/crop-w502-h419-captura-de-pantalla-2026-09-17-a-las-41429-p-m-558eb43c-focus-0-0-1200-647.webp",
         "video_url": null,
-        "source_id": "diariopanorama",
-        "source_name": "Diario Panorama",
-        "source_priority": 31285,
-        "source_url": "https://diariopanorama.com",
-        "source_icon": "https://i.newsdata.io/diariopanorama.png",
+        "source_id": "elmanana",
+        "source_name": "Últimas Noticias - El Mañana De Reynosa",
+        "source_priority": 258494,
+        "source_url": "https://www.elmanana.com",
+        "source_icon": "https://i.newsdata.io/elmanana.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -348,193 +509,40 @@
         "description_zh": ""
     },
     {
-        "article_id": "043f39a650ae9ff183a4f84ad89f77a3",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/chuvas-em-sp-cidades-do-vale-do-ribeira-estao-em-estado-de-emergencia",
-        "title": "Chuvas em SP: cidades do Vale do Ribeira estão em estado de emergência",
-        "description": "Cinco municípios do Vale do Ribeira (Eldorado, Registro, Ribeira, Iporanga e Barra do Turvo) e a cidade de Piracaia decretaram situação de emergência após as fortes chuvas que atingiram a região. Nos últimos dias, cerca de 2 mil pessoas foram afetadas pelas inundações nesta área que fica no sul do estado de São Paulo. Notícias relacionadas: Entenda: STF encerra sessão sem definir casos sobre Moraes e Mendonça . Segundo a Defesa Civil, há 28 famílias desabrigadas na cidade de Registro e 25 em Sete Barras. As equipes estaduais seguem acompanhando a evolução dos níveis dos rios e atuando em conjunto com as prefeituras. Nesta quarta-feira (16), o Rio Ribeira de Iguape continua transbordando em determinados trechos, o que causa inundações concentradas nas áreas rurais de Sete Barras, Registro e Pariquera-Açu. Entre os habitantes afetados pela chuva, está um paciente de 100 anos resgatado em Registro. A casa dele ficou ilhada por causa da chuva, o que impossibilitou acesso por via terrestre. A Polícia Militar precisou mobilizar dois helicópteros para o resgate. Nos municípios de Ribeira, Iporanga e Eldorado, a situação começou a se normalizar com o retorno das águas para o leito do rio, permitindo que os moradores deem início à limpeza de suas casas para retornarem às suas rotinas. Não foram registrados novos focos de alagamento nessas localidades, e até o momento, não há relatos de vítimas feridas ou fatais em razão dos temporais na região. Para atender as famílias atingidas, foram estruturados 19 abrigos distribuídos por seis municípios. Além disso, a Secretaria de Estado da Educação colocou cinco escolas estaduais à disposição para acolher a população afetada. Contingência Na tarde desta quarta-feira (16), representantes dos municípios do Vale do Ribeira se reúnem com o governo do Estado de São Paulo para coordenar ações conjuntas de resposta. A reunião vai alinhar o atendimento à população afetada e organizar as medidas de recuperação das áreas atingidas e de restabelecimento da normalidade. Nesta terça-feira (15), a região começou a receber um novo lote de medicamentos e de ajuda humanitária. Os remédios profiláticos para prevenção da leptospirose foram enviados aos trabalhadores que atuam na linha de frente dos resgates em áreas de enchentes. Além disso, foram enviados 159 mil frascos de hipoclorito de sódio para o tratamento de água nas residências das cidades afetadas. A entrega ocorreu na sede do Departamento Regional de Saúde de Registro e foram distribuídos dois frascos por família. Medidas de ajuda humanitária também estão sendo empenhadas pelo Fundo Social de São Paulo, com o envio de mais de 7 mil itens distribuídos às administrações municipais das cidades da região, que recebem kits de limpeza, higiene, dormitório, cestas básicas e água. Os municípios atendidos são Avaré, Piedade, Sumaré, Monte Mor, Juquitiba, Ibiúna, Sete Barras, Eldorado, Itaquaquecetuba, Ribeira, Barra do Turvo, Registro, Iporanga, Guapiara, Itapecerica da Serra, Capivari e Rafard. *Estagiário da Agência Brasil sob supervisão de Odair Braz Junior",
+        "article_id": "ce0b6969f87da7f8868a7279b999683e",
+        "link": "https://pulsoslp.com.mx/seguridad/pareja-detenida-por-fgeslp-por-maltrato-infantil-en-jalisco/2086696",
+        "title": "Pareja detenida por FGESLP por maltrato infantil en Jalisco",
+        "description": "Pareja acusada de maltrato infantil fue aprehendida por FGESLP en Jalisco y será presentada ante juez en San Luis Potosí.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "chuvas",
-            "sp",
-            "são paulo",
-            "educação",
-            "vale do ribeira",
-            "meteorologia"
+            "orden de aprehensión feminicidio tentativa",
+            "pdi detención raquel n raúl n",
+            "fgeslp aprehensión pareja maltrato infantil",
+            "fiscalía san luis potosí captura jalisco",
+            "maltrato infantil san luis potosí jalisco"
         ],
         "creator": [
-            "matheus crobelatti* – agência brasil"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "education"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 16:41:47",
-        "image_url": "https://imagens.ebc.com.br/qoviJAVXPFriIo72FVpUXkLVugc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int9245.jpg?itok=1yc09Yf1",
-        "video_url": null,
-        "source_id": "agenciabrasil_ebc_br",
-        "source_name": "Agenciabrasil Ebc Br",
-        "source_priority": 135198,
-        "source_url": "https://agenciabrasil.ebc.com.br",
-        "source_icon": "https://i.newsdata.io/agenciabrasil_ebc_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "91e7bfb922f18c46684fd402f35004e5",
-        "link": "https://istoe.com.br/chuvas-vale-ribeira-seis-municipios-emergencia-enchentes",
-        "title": "Chuvas no Vale do Ribeira levam seis municípios a decretar emergência",
-        "description": "Seis municípios paulistas, incluindo o Vale do Ribeira e Piracaia, decretaram emergência após fortes chuvas e inundações que afetaram cerca de 2 mil pessoas.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "desabrigados",
-            "são paulo",
-            "ajuda humanitária",
-            "vale do ribeira",
-            "rio ribeira de iguape",
-            "enchentes",
-            "defesa civil",
-            "piracaia",
-            "notícias",
-            "chuvas",
-            "registro"
-        ],
-        "creator": [
-            "istoé news"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 19:13:49",
-        "image_url": "https://istoe.com.br/wp-content/uploads/2026/09/Resgate-em-cidade-alagada-1-1200x630.png",
-        "video_url": null,
-        "source_id": "istoe",
-        "source_name": "Istoé Independente",
-        "source_priority": 239209,
-        "source_url": "https://istoe.com.br",
-        "source_icon": "https://i.newsdata.io/istoe.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "c865ad480466523387f96821cd4d42ba",
-        "link": "https://www.elpais.com.co/entretenimiento/aqui-fui-feliz-shakira-habla-de-su-emocionante-regreso-a-espana-1600.html",
-        "title": "“Aquí fui feliz”: Shakira habla de su emocionante regreso a España",
-        "description": "la artista barranquillera ha emocionado al público europeo tras su llegada a Madrid.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "españa",
-            "regreso",
-            "shakira"
-        ],
-        "creator": [
-            "francisco henao"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 16:37:39",
-        "image_url": "https://semana-el-pais-prod.web.arc-cdn.net/resizer/v2/B6BNZXU4ZZFS3C32JMAEEAASWU.jpeg?auth=e14c2c4bd306d90575724587d31ede276e0a82cc91160376981ecdab74157bbf&smart=true&width=1270&height=720",
-        "video_url": null,
-        "source_id": "elpaiscl",
-        "source_name": "El Pais",
-        "source_priority": 39172,
-        "source_url": "https://www.elpais.com.co",
-        "source_icon": "https://i.newsdata.io/elpaiscl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "94a134030be927220ea8be2e30647015",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/09/16/clima-en-peninsula-de-yucatan-jueves-17-de-septiembre-preparate-para-el-calor-y-cielo-despejado-source-ia/",
-        "title": "Clima en Península de Yucatán: El jueves 17 de septiembre será un día con cielo despejado",
-        "description": "El pronóstico del clima para la Península de Yucatán este jueves 17 de septiembre anticipa temperaturas elevadas y un cielo mayormente despejado en sus principales ciudades.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "conagua",
-            "temperatura península de yucatán",
-            "clima méxico",
-            "probabilidad de precipitación",
-            "temperatura máxima",
-            "estado del tiempo península de yucatán",
-            "condiciones climáticas península de yucatán",
-            "temperaturas esperadas",
-            "temperatura 37°c península de yucatán",
-            "pronóstico península de yucatán",
-            "calidad del aire",
-            "temperatura mínima",
-            "smn",
-            "pronóstico meteorológico",
-            "península de yucatán",
-            "clima península de yucatán",
-            "pronóstico península de yucatán septiembre",
-            "pronóstico extendido",
-            "servicio meteorológico nacional",
-            "clima hoy"
-        ],
-        "creator": [
-            "redacción"
+            "pulso slp"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "environment",
+            "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-16 16:27:56",
+        "pubDate": "2026-09-17 16:13:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 16:31:05",
-        "image_url": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/YEHbVdGb4Re-0dWGW78_7sVUjV0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/Y5IHBHINFVBCPA3YWXNE6IL6AI.jpg",
+        "fetched_at": "2026-09-17 17:24:43",
+        "image_url": "https://blobcore.pulsoslp.com.mx/images/2026/09/17/capturan-a-pareja-senalada-por-maltrato-a-menor-9516a80c-focus-0-0-600-315.webp",
         "video_url": null,
-        "source_id": "elfinanciero",
-        "source_name": "El Financiero",
-        "source_priority": 6218,
-        "source_url": "https://www.elfinanciero.com.mx",
-        "source_icon": "https://i.newsdata.io/elfinanciero.jpg",
+        "source_id": "pulsoslp_mx",
+        "source_name": "Pulso Diario San Luis",
+        "source_priority": 3206842,
+        "source_url": "https://www.pulsoslp.com.mx",
+        "source_icon": "https://i.newsdata.io/pulsoslp_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -546,36 +554,39 @@
         "description_zh": ""
     },
     {
-        "article_id": "5cf6739428bfbbade0f50cd520541b83",
-        "link": "https://turquesanews.mx/isla-mujeres/atenea-gomez-celebra-el-grito-de-independencia-junto-a-familias-islenas-y-visitantes/",
-        "title": "Atenea Gómez celebra el Grito de Independencia junto a familias isleñas y visitantes",
-        "description": "En una noche llena de orgullo, tradición y amor por México, la Presidenta Municipal, Atenea Gómez Ricalde, encabezó la ceremonia del Grito de Independencia, acompañada de familias isleñas y visitantes que se reunieron en la Explanada Municipal para conmemorar el 216 Aniversario del inicio de la Independencia de México. Como parte del protocolo cívico, Atenea [...]",
+        "article_id": "b3b3acff48b9149aa6a7676f134a16cb",
+        "link": "https://periodicolavoz.com.mx/coahuila/region-carbonifera/fiscalia-general-del-estado-coahuila-catea-chatarrera-la-par/382082",
+        "title": "Cateo en chatarrera La Parka por robo en Nueva Rosita",
+        "description": "Durante el cateo, se aseguraron objetos que podrían estar relacionados con el robo, mientras la investigación continúa para esclarecer los hechos.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "isla mujeres"
+            "fiscal&#237;a general del estado coahuila",
+            "operativo guardia nacional nueva rosita",
+            "robo en nueva rosita",
+            "investigaci&#243;n de robo coahuila",
+            "cateo chatarrera la parka"
         ],
         "creator": [
-            "redacción turquesa news"
+            "teresa muñoz"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-16 16:27:54",
+        "pubDate": "2026-09-17 16:13:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 16:55:55",
-        "image_url": "https://turquesanews.mx/wp-content/uploads/2026/09/Atenea-2.jpg",
+        "fetched_at": "2026-09-17 23:45:41",
+        "image_url": "https://blobcore.periodicolavoz.com.mx/images/2026/09/17/whatsapp-image-2026-09-17-at-43757-pm-17b4dba0.jpeg",
         "video_url": null,
-        "source_id": "turquesanews",
-        "source_name": "Turquesa News",
-        "source_priority": 8219221,
-        "source_url": "https://turquesanews.mx",
-        "source_icon": "https://i.newsdata.io/turquesanews.png",
+        "source_id": "periodicolavoz_mx",
+        "source_name": "Periodicolavoz Mx",
+        "source_priority": 462138,
+        "source_url": "https://periodicolavoz.com.mx",
+        "source_icon": "https://i.newsdata.io/periodicolavoz_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -587,16 +598,146 @@
         "description_zh": ""
     },
     {
-        "article_id": "4a127c51315e391394783a3c4dfeb3ba",
-        "link": "https://www.marca.com/futbol/primera-division/2026/09/16/polemica-elche-x-despues-madrid-pelearemos-x10-precis-video.html",
-        "title": "Polémica del Elche en X... después del Madrid: \"Lo pelearemos x10 si es preciso\"",
-        "description": "El Elche ha publicado a través de su cuenta de X dos mensajes, en referencia a Mbappé y Vinicius, que no han tardado en viralizarse en redes sociales.",
+        "article_id": "d8ef50af9831b9f10e7bf1a1f1823d11",
+        "link": "https://www.elsiglodetorreon.com.mx/noticia/2026/sheinbaum-explica-por-que-no-menciono-a-ignacio-allende-en-el-grito-de-independencia.html",
+        "title": "Sheinbaum explica por qué no mencionó a Ignacio Allende en el Grito de Independencia",
+        "description": "La presidenta Claudia Sheinbaum Pardo explicó por qué no mencionó a Ignacio Allende durante su Grito de Independencia y aseguró que \"no hay nada en contra de este héroe\" . La mandataria detalló que decidió incluir a Guadalupe Victoria como parte de una selección limitada de figuras históricas. Sheinbaum aclara ausencia de Allende en el Grito Durante su conferencia mañanera de este jueves 17 de septiembre en Palacio Nacional , Sheinbaum Pardo señaló que sustituyó a Allende, uno de los iniciadores de la Independencia, por Guadalupe Victoria. \"No hay nada en particular en contra de Allende, incluso el año pasado lo dije. Tenía sus diferencias con Hidalgo, algún... Más información -- Sheinbaum explica por qué no mencionó a Ignacio Allende en el Grito de Independencia »",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "primera división"
+            "portada"
         ],
         "creator": [
-            "javier mancebo"
+            "redacción digital"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 18:39:36",
+        "image_url": "https://www.elsiglodetorreon.com.mx/m/i/2026/09/2047176.jpeg",
+        "video_url": null,
+        "source_id": "elsiglodetorreon",
+        "source_name": "El Siglo De Torreón",
+        "source_priority": 99698,
+        "source_url": "https://www.elsiglodetorreon.com.mx",
+        "source_icon": "https://i.newsdata.io/elsiglodetorreon.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "c7fe9c341c60caaf1341305b5fc49c78",
+        "link": "https://www.infobae.com/colombia/2026/09/17/fabiola-perea-ex-empleada-domestica-de-laura-sarabia-denuncio-que-fue-victima-del-abuso-de-poder-de-la-ahora-embajadora-en-londres/",
+        "title": "Fabiola Perea, exempleada doméstica de Laura Sarabia, denunció que fue “víctima del abuso de poder” de la exembajadora en Londres",
+        "description": "La mujer vinculó lo ocurrido con la búsqueda de una maleta con dinero desaparecida en el apartamento de la exjefe de gabinete del gobierno de Gustavo Petro y relató que agentes vestidos de civil visitaron su casa en Soacha antes de la ‘chuzada’",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "laura sarabia",
+            "fabiola perea",
+            "prueba del polígrafo",
+            "colombia-noticias",
+            "marelbys meza"
+        ],
+        "creator": [
+            "frank  saavedra"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "mexico",
+            "united states of america"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:52",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 16:31:47",
+        "image_url": "https://www.infobae.com/resizer/v2/QTVDPELFHVDMHHTOD4TI2FV6SM.png?auth=434c7af02048aaf41617f433cbd47cd19b64ea97a3dd998879abd7bbe48dab63&smart=true&width=1920&height=1080",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "32b00deccfbfac4788424d6b3f5cb45d",
+        "link": "https://oem.com.mx/elsoldemexico/mexico/exjefe-policial-ligado-a-asaeo-escapa-de-custodia-y-es-reaprehendido-en-la-mixteca-32129164",
+        "title": "Exjefe policial ligado a ASAEO escapa de custodia y es reaprehendido en la Mixteca",
+        "description": "Ángel de Jesús E. J., exjefe policial de San Antonio de la Cal, escapó de la custodia de la Fiscalía y fue localizado horas después en un hotel de la Mixteca; cuatro agentes quedaron separados del cargo e investigados por la evasión",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "méxico"
+        ],
+        "creator": [
+            "luis ramírez / corresponsal"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:50",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 23:10:05",
+        "image_url": "https://oem.com.mx/elsoldemexico/img/32130057/1789661556/BASE_LANDSCAPE/400/image.jpg",
+        "video_url": null,
+        "source_id": "elsoldemexico",
+        "source_name": "El Sol De Mexico",
+        "source_priority": 101294,
+        "source_url": "https://www.elsoldemexico.com.mx",
+        "source_icon": "https://i.newsdata.io/elsoldemexico.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "2c4aa63e05808bd99c256e2307810de8",
+        "link": "https://www.marca.com/ciclismo/2026/09/17/usoa-ostolaza-firma-tres-anos-x.html",
+        "title": "Usoa Ostolaza firma tres años con Uno X",
+        "description": "Después de seis temporadas en el Laboral Kutxa - Fundación Euskadi, la corredora vasca da el salto internacional con un contrato hasta 2029",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ciclismo"
+        ],
+        "creator": [
+            "miguel ángel rodríguez cuesta"
         ],
         "language": "spanish",
         "country": [
@@ -605,12 +746,12 @@
         "category": [
             "sports"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-09-16 16:27:52",
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 16:32:31",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/09/16/6aaac37edfe72.png",
-        "video_url": "https://www.dailymotion.com/crawler/video/xb8jooy",
+        "fetched_at": "2026-09-17 16:31:23",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/09/17/6aac11018f547.jpeg",
+        "video_url": null,
         "source_id": "marca",
         "source_name": "Marca Claro",
         "source_priority": 426,
@@ -627,158 +768,18 @@
         "description_zh": ""
     },
     {
-        "article_id": "ad02185409e53d3721eb6a0d31815a78",
-        "link": "https://oem.com.mx/elsoldepuebla/local/descarta-ssp-privacion-ilegal-o-secuestro-de-hugo-alejandro-estudiante-de-la-buap-desaparecido-32113827",
-        "title": "Descarta SSP privación ilegal o secuestro de Hugo Alejandro, estudiante de la BUAP desaparecido",
-        "description": "El secretario Francisco Sánchez sostuvo que hay indicios de que el joven presuntamente cayó en el afluente del río Alseseca",
+        "article_id": "c43d576b1b068ffcca6f42e9167a46aa",
+        "link": "https://www.quadratin.com.mx/nacionales/muere-a-los-44-anos-diputada-federal-anay-beltran-reyes/",
+        "title": "Muere a los 44 años diputada federal Anay Beltrán Reyes",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "local"
+            "condolencias",
+            "nacionales",
+            "morena"
         ],
         "creator": [
-            "jesús tepal"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:27:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 21:41:40",
-        "image_url": "https://oem.com.mx/elsoldepuebla/img/31985727/1789575332/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldepuebla_mx",
-        "source_name": "El Sol De Puebla",
-        "source_priority": 167831,
-        "source_url": "https://www.elsoldepuebla.com.mx",
-        "source_icon": "https://i.newsdata.io/elsoldepuebla_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "f2cae9460aa9a2d7ad470b9427a97472",
-        "link": "https://depor.com/futbol-internacional/dazn-en-directo-donde-ver-partido-fc-barcelona-racing-por-futbol-tv-y-online-en-espana-nnda-nnrt-noticia/",
-        "title": "DAZN EN DIRECTO — dónde ver partido FC Barcelona - Racing por Fútbol TV y Online en España",
-        "description": "El FC Barcelona - Racing por LaLiga 2026-27 lo podrás ver EN VIVO y EN DIRECTO a través de DAZN. Descubre cómo hacerlo en esta nota.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "fc barcelona - racing en vivo",
-            "laliga 2026-27",
-            "laliga 2026-27 en directo",
-            "fc barcelona - racing en directo",
-            "dazn en directo",
-            "fc barcelona",
-            "racing de santander",
-            "dónde ver partido fc barcelona - racing en vivo",
-            "dónde ver partido fc barcelona - racing en directo",
-            "fc barcelona - racing vía dazn en directo",
-            "dazn en vivo",
-            "laliga 2026-27 en vivo",
-            "fc barcelona - racing",
-            "fc barcelona - racing vía dazn",
-            "dónde ver partido fc barcelona - racing",
-            "fc barcelona - racing vía dazn en vivo"
-        ],
-        "creator": [
-            "césar quispe alcócer"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:27:49",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 16:37:44",
-        "image_url": "https://depor.com/resizer/v2/6QQXNSGWZFDLLA447V2P4BBZ5E.jpg?auth=3f7024f208b2ee4e38983907ede71d00462a370da42f7622f57730708683f4d4&smart=true&width=2400&height=1620",
-        "video_url": null,
-        "source_id": "depor",
-        "source_name": "Depor",
-        "source_priority": 36977,
-        "source_url": "https://depor.com",
-        "source_icon": "https://i.newsdata.io/depor.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "f9ed8f825ca5cb834194594810ca385a",
-        "link": "https://www.eluniversal.com.mx/nacion/godoy-niega-que-exista-orden-de-aprehension-contra-jorge-amilcar-amigo-de-hijos-de-amlo-no-no-hay-nada-asegura/",
-        "title": "Godoy niega que exista orden de aprehensión contra Jorge Amílcar, amigo de hijos de AMLO; \"no, no hay nada\", asegura",
-        "description": "La fiscala recordó que tampoco hay alguna orden de aprehensión contra \"Andy\" López",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "jorge amilcar",
-            "orden de aprehension contra jorge amilcar",
-            "fgr",
-            "andy lopez",
-            "ernestina godoy",
-            "amigo de andy lopez"
-        ],
-        "creator": [
-            "el universal"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:27:43",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 16:32:33",
-        "image_url": "https://www.eluniversal.com.mx/resizer/v2/BYBLMCE2QVBLRHZSZGZHEXHP5Q.jpg?auth=15330f509f570f93129617731f1d54a5de65a55ddbe0aeb8ca1196470a014f9a&smart=true&width=1201&height=740",
-        "video_url": null,
-        "source_id": "eluniversal",
-        "source_name": "El Universal",
-        "source_priority": 8884,
-        "source_url": "https://www.eluniversal.com.mx",
-        "source_icon": "https://i.newsdata.io/eluniversal.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "7615561a78deb4ead216c0d1cb0da263",
-        "link": "https://oem.com.mx/lavozdelafrontera/local/demanda-servidor-publico-a-pescadora-de-san-felipe-por-presunto-dano-moral-32113977",
-        "title": "Demanda servidor público a pescadora de San Felipe por presunto daño moral",
-        "description": "Ella y la comunidad de pescadores han sufrido un mayor daño moral al no poder pescar, señala Ana Isabel García Aguilar",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "local"
-        ],
-        "creator": [
-            "mariela tapia"
+            "luis ayala/quadratín emx"
         ],
         "language": "spanish",
         "country": [
@@ -789,16 +790,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-16 16:27:38",
+        "pubDate": "2026-09-17 16:12:44",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 21:42:06",
-        "image_url": "https://oem.com.mx/lavozdelafrontera/img/32114168/1789575973/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-09-17 16:15:37",
+        "image_url": "https://www.quadratin.com.mx/www/wp-content/uploads/2026/09/Muere-a-los-44-anos-diputada-federal-Anay-Beltran-Reyes-1-1160x700-1-1160x700.jpeg",
         "video_url": null,
-        "source_id": "lavozdelafrontera",
-        "source_name": "La Voz De La Frontera",
-        "source_priority": 178448,
-        "source_url": "https://www.lavozdelafrontera.com.mx",
-        "source_icon": "https://i.newsdata.io/lavozdelafrontera.png",
+        "source_id": "quadratin",
+        "source_name": "Quadratín",
+        "source_priority": 320781,
+        "source_url": "https://www.quadratin.com.mx",
+        "source_icon": "https://i.newsdata.io/quadratin.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -807,89 +808,83 @@
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
         "title_zh": "",
-        "description_zh": ""
+        "description_zh": "查看原文了解更多详情"
     },
     {
-        "article_id": "a0300948e7606747b18cad99cd88af17",
-        "link": "https://www.elespectador.com/bogota/aparecio-con-vida-angie-arevalo-el-rastro-de-la-menor-se-habia-perdido-en-engativa/",
-        "title": "Apareció con vida Angie Arevalo; el rastro de la menor se había perdido en Engativá",
-        "description": "La noticia fue confirmada por la Secretaría de Seguridad. El Espectador habló con su mamá sobre las circunstancias que rodearon su caso.",
+        "article_id": "7fbdc1a9ac03a3e4c46de84a5900b76f",
+        "link": "https://www.elnorte.com/fallece-la-diputada-federal-de-morena-anay-beltran-reyes/ar3277498",
+        "title": "Fallece la diputada federal de Morena Anay Beltrán Reyes",
+        "description": "La diputada federal por Tultitlán, Edomex, Anay Beltrán Reyes, falleció por una enfermedad, confirma la bancada de Morena en San Lázaro.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "desaparecidos",
-            "angie arevalo",
-            "engativá"
-        ],
+        "keywords": null,
         "creator": [
-            "redacción bogotá"
+            "martha martínez"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-16 16:27:29",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 17:47:36",
-        "image_url": "https://www.elespectador.com/wp-content/uploads/2026/09/Diseno-sin-titulo-14.png",
-        "video_url": null,
-        "source_id": "elespectador",
-        "source_name": "Elespectador.com",
-        "source_priority": 589787,
-        "source_url": "http://elespectador.com",
-        "source_icon": "https://i.newsdata.io/elespectador.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "63dcc266d6c12508ddf5a0644899b9d7",
-        "link": "https://occidente.co/regionales/valle-del-cauca/ataque-a-radar-en-candelaria-aerocivil-rechaza-atentado-con-dron/",
-        "title": "Aerocivil rechaza ataque con drones contra radar en Candelaria",
-        "description": "La Aeronáutica Civil rechazó el ataque registrado este miércoles 16 de septiembre contra un radar de vigilancia y control del tránsito aéreo ubicado en el corregimiento de El Carmelo, zona rural de Candelaria, Valle del Cauca. Según la Alcaldía, se registraron cuatro explosiones que, de acuerdo con las primeras informaciones, habrían sido provocadas mediante drones... The post Aerocivil rechaza ataque con drones contra radar en Candelaria appeared first on Diario Occidente .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "valle del cauca"
-        ],
-        "creator": [
-            "eduardo andres osma solano"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
+            "mexico"
         ],
         "category": [
             "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-16 16:27:21",
+        "pubDate": "2026-09-17 16:12:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-16 18:21:02",
-        "image_url": "https://occidente.co/wp-content/uploads/2026/09/Aerocivil-rechaza-ataque-con-drones-contra-radar-en-Candelaria.jpg",
+        "fetched_at": "2026-09-17 16:40:53",
+        "image_url": null,
         "video_url": null,
-        "source_id": "occidente_co",
-        "source_name": "Diario Occidente",
-        "source_priority": 1189990,
-        "source_url": "https://occidente.co",
-        "source_icon": "https://i.newsdata.io/occidente_co.png",
+        "source_id": "elnorte",
+        "source_name": "Elnorte",
+        "source_priority": 107502,
+        "source_url": "https://www.elnorte.com",
+        "source_icon": "https://i.newsdata.io/elnorte.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "729c64649fab7370cecea1e3e59e6071",
+        "link": "https://www.elnorte.com/hallan-muerta-a-alumna-de-medicina-desaparecida-en-jalisco/ar3277499",
+        "title": "Hallan muerta a alumna de medicina desaparecida en Jalisco",
+        "description": "Mujer localizada sin vida en Zapopan, Jalisco, fue identificada como Karla Margarita Pérez Jiménez, estudiante de medicina desaparecida.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "tania casillas"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-17 16:12:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-17 16:40:51",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "elnorte",
+        "source_name": "Elnorte",
+        "source_priority": 107502,
+        "source_url": "https://www.elnorte.com",
+        "source_icon": "https://i.newsdata.io/elnorte.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
         "title_zh": "",
         "description_zh": ""
     }
