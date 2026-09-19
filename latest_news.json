@@ -1,9 +1,296 @@
 [
     {
-        "article_id": "ae4c62d44dc3d244a35425b17f4ecab7",
-        "link": "https://www.elliberal.com.ar/nota/91866/2026/09/elias-suarez-en-la-expobra--el-desafio-de-desarrollar-la-ganaderia-en-santiago-del-estero-es-un-tema-central",
-        "title": "Elías Suárez en la ExpoBra: \"El desafío de desarrollar la ganadería en Santiago del Estero es un tema central\"",
-        "description": "El Gobernador inauguró la 19a ExpoBra en el Vivero San Carlos de La Banda y destacó el potencial productivo de Santiago del Estero. En diálogo exclusivo con EL LIBERAL, habló sobre el crecimiento de la ganadería, el acompañamiento a los productores y el trabajo conjunto entre el sector público y privado.",
+        "article_id": "f190c81e53d983eb8da7303fd5f2ae32",
+        "link": "https://www.estadao.com.br/internacional/cao-que-ajudou-a-resgatar-vitimas-de-terremoto-ganha-estatua-na-venezuela-npr/",
+        "title": "Tsunami, cão que ajudou a resgatar vítimas de terremoto na Venezuela, ganha estátua e se aposenta",
+        "description": "Border Collie participou de buscas após e encerrou carreira de quase uma década com a missão; monumento foi inaugurado em Maracaibo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:09:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 16:35:12",
+        "image_url": "https://www.estadao.com.br/resizer/v2/BWSMEPCGXVCDFNOLZSMXXV3H2Y.jpg?quality=80&auth=a1f21cdae940976b3481b92ec2a62825df631177567134083aebed0939d4ac7f&width=1200&height=1200&smart=true",
+        "video_url": null,
+        "source_id": "estadao_br",
+        "source_name": "Estadao Br",
+        "source_priority": 13396,
+        "source_url": "https://www.estadao.com.br",
+        "source_icon": "https://i.newsdata.io/estadao_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "b145585438038f819b01a37577681704",
+        "link": "https://jornaldaparaiba.com.br/cotidiano/ex-presidente-da-camara-de-mamanguape-e-ferido-durante-tentativa-de-assalto",
+        "title": "Ex-presidente da Câmara de Mamanguape é ferido durante tentativa de assalto",
+        "description": "Delegacia de Mamanguape Foto: José Marques/Secom-PB. Foto: José Marques/Secom-PB Um ex-vereador e ex-presidente da Câmara de Vereadores de Mamanguape, identificado como Joãozinho da Estaca, ficou ferido em uma tentativa de assalto, na manhã desta sexta-feira (18). De acordo com o delegado da Polícia Civil, Marcos Sales, o ex-vereador estava saindo de casa quando, ao abrir o portão, um dos suspeitos aproveitou e entrou no imóvel.Um segundo suspeito estava do lado de fora do imóvel, em uma motocicleta, que abordou um transeunte que passava pela rua e o obrigou a entrar na casa. A suspeita é de que a abordagem tenha sido feita para evitar que a pessoa acionasse as forças de segurança.O ex-vereador tentou fugir pela frente da residência, em direção a um beco, mas foi perseguido e atingido de raspão por um disparo na região do rosto.Ele sofreu ferimentos superficiais, foi levado ao Hospital Geral de Mamanguape, recebeu atendimento médico e teve alta em seguida.A Polícia Civil informou que está analisando imagens de câmeras de segurança e coletando informações para identificar os suspeitos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "cotidiano"
+        ],
+        "creator": [
+            "jornal da paraíba"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:59",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 19:20:28",
+        "image_url": "https://cdn.jornaldaparaiba.com.br/img/inline/220000/ex-presidente-da-camara-de-mamanguape-e-ferido-dur0022099300202609181609.jpg?xid=1233132",
+        "video_url": null,
+        "source_id": "jornaldaparaiba_br",
+        "source_name": "Jornal Da Paraíba",
+        "source_priority": 469136,
+        "source_url": "https://jornaldaparaiba.com.br",
+        "source_icon": "https://i.newsdata.io/jornaldaparaiba_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "30e09dd7ccf26c900775472491ea83cf",
+        "link": "https://veja.abril.com.br/mundo/ira-faz-desfile-militar-com-caixoes-de-trump-e-netanyahu/",
+        "title": "Irã faz desfile militar com ‘caixões’ de Trump e Netanyahu",
+        "description": "Evento em Teerã reuniu milhares de integrantes da milícia Basij e exibiu mulheres armadas, drones e equipamentos militares",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "benjamin netanyahu",
+            "mundo",
+            "israel",
+            "donald trump",
+            "governo do irã",
+            "estados unidos"
+        ],
+        "creator": [
+            "júlia sofia"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:57",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 16:31:17",
+        "image_url": "https://veja.abril.com.br/wp-content/uploads/2026/09/AFP__20260918__C8N982J__v1__HighRes__IranIsraelUsWarRally.jpg",
+        "video_url": null,
+        "source_id": "veja_abril_br",
+        "source_name": "Veja",
+        "source_priority": 5562,
+        "source_url": "https://veja.abril.com.br",
+        "source_icon": "https://i.newsdata.io/veja_abril_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "597d89e15e7d7078a6aa4bb40656d8ef",
+        "link": "https://br.investing.com/news/stock-market-news/espanha--acoes-fecharam-o-pregao-em-queda-e-o-indice-ibex-35-recuou-160-2069789",
+        "title": "Espanha - Ações fecharam o pregão em queda e o Índice IBEX 35 recuou 1,60%",
+        "description": "Espanha - Ações fecharam o pregão em queda e o Índice IBEX 35 recuou 1,60%",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "investing.com"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:55",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 16:38:42",
+        "image_url": "https://content-media.investing.com/news/LYNXMPEA6D0CA_M.jpg",
+        "video_url": null,
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://i.newsdata.io/investing_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "ff3e72bb41d1dc58a44261bcc0b916bf",
+        "link": "https://viapais.com.ar/tres-arroyos/sala-primeros-auxilios-juan-eulogio-barra-recibio-nuevo-equipamiento_0_WEFUaXGNkn.html",
+        "title": "La sala de primeros auxilios de Juan Eulogio Barra recibió nuevo equipamiento",
+        "description": "La Cooperativa Eléctrica realizó una donación destinada a fortalecer la capacidad de atención de la Sala de Primeros Auxilios de Juan Eulogio Barra.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "solidaridad",
+            "energía",
+            "municipalidad de gonzales chaves",
+            "actualidad"
+        ],
+        "creator": [
+            "redacción vía tres arroyos"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 16:36:01",
+        "image_url": "https://viapais.com.ar/images/2026/09/18/TamBydwbLZ_1200x675.jpg",
+        "video_url": null,
+        "source_id": "viapais_ar",
+        "source_name": "Viapais Ar",
+        "source_priority": 48234,
+        "source_url": "https://viapais.com.ar",
+        "source_icon": "https://i.newsdata.io/viapais_ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "1a21bb74b72dcc4e2fcafd302937fe24",
+        "link": "https://www.resumenlatinoamericano.org/2026/09/18/guatemala-justicia-para-luz-leticia-y-ana-maria-tribunal-sentencia-a-militar-a-50-anos-de-prision/",
+        "title": "Guatemala. Justicia para Luz Leticia y Ana María: tribunal sentencia a militar a 50 años de prisión",
+        "description": "Por Simón Antonio. Prensa Comunitaria_Resumen Latinoamericano 18 de septiembre 2026. La familia había pedido 170 años de prisión por delitos contra deberes de la humanidad y desaparición forzada, pero el Tribunal sólo condenó al militar Juan Francisco Cifuentes Cano a 50 años por desaparición forzada. El Tribunal Octavo de Sentencia Penal condenó a 50 años [...] La entrada Guatemala. Justicia para Luz Leticia y Ana María: tribunal sentencia a militar a 50 años de prisión se publicó primero en Resumen Latinoamericano .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "guatemala"
+        ],
+        "creator": [
+            "resumen latinoamericano"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 16:11:26",
+        "image_url": "https://www.resumenlatinoamericano.org/wp-content/uploads/2026/09/images-54.jpg",
+        "video_url": null,
+        "source_id": "resumenlatinoamericano_org",
+        "source_name": "Resumen Latinoamericano News",
+        "source_priority": 116606,
+        "source_url": "https://www.resumenlatinoamericano.org",
+        "source_icon": "https://i.newsdata.io/resumenlatinoamericano_org.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "9c9ca139f501a4c16b72c44aaf097de4",
+        "link": "https://valor.globo.com/empresas/noticia/2026/09/18/mbappe-troca-a-nike-pela-on-o-que-isso-significa-para-as-acoes-do-setor-esportivo.ghtml",
+        "title": "Mbappé troca a Nike pela On; o que isso significa para as ações do setor esportivo",
+        "description": "Um dos maiores astros do esporte mundial decidiu trocar a Nike pela On Holding, mas as ações da empresa suíça de calçados e vestuário esportivo caíram nesta sexta-feira (18), à medida que o crescimento dos negócios continuou sendo motivo de preocupação para os investidores. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "valor"
+        ],
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 16:33:03",
+        "image_url": "https://s2-valor.glbimg.com/EROyxHiTkmGEX9JT9b3UKGPmEBM=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/0/A/OABbcgRbADvPmzJlqG7Q/mbappe-assina-com-a-suica-on-instagram-k.mbappe.png",
+        "video_url": null,
+        "source_id": "valor_globo",
+        "source_name": "Valor Globo",
+        "source_priority": 2786,
+        "source_url": "https://valor.globo.com",
+        "source_icon": "https://i.newsdata.io/valor_globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "e0e111ee40c4512792351454b1bd7ece",
+        "link": "https://www.elliberal.com.ar/nota/91982/2026/09/simulo-su-propio-secuestro-para-extorsionar-a-su-esposa-y-pedirle-2-millones-de-pesos",
+        "title": "Simuló su propio secuestro para extorsionar a su esposa y pedirle 2 millones de pesos",
+        "description": "La mujer denunció que supuestos captores le exigían plata por WhatsApp para liberarlo. El sujeto fue descubierto y terminó tras las rejas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
             "diario",
@@ -23,14 +310,14 @@
             "argentina"
         ],
         "category": [
-            "environment",
+            "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-17 16:13:00",
+        "pubDate": "2026-09-18 16:08:39",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:23:32",
-        "image_url": "https://www.elliberal.com.ar/img/publicaciones/2026/09/17/alta/2217314.webp",
+        "fetched_at": "2026-09-18 16:54:46",
+        "image_url": "https://www.elliberal.com.ar/img/publicaciones/2026/09/18/alta/2217560.webp",
         "video_url": null,
         "source_id": "elliberal",
         "source_name": "El Liberal",
@@ -48,41 +335,37 @@
         "description_zh": ""
     },
     {
-        "article_id": "608266c165f5960033b450f35a642b10",
-        "link": "https://www.mixvale.com.br/2026/09/17/caixa-sorteia-concurso-3059-da-mega-sena-valendo-r-102-milhoes/",
-        "title": "Caixa sorteia concurso 3059 da Mega-Sena valendo R$ 102 milhões",
-        "description": "A Caixa sorteia as dezenas do concurso 3.059 da Mega-Sena nesta quinta-feira, 17 de setembro de 2026, às 21h, na cidade de São Paulo, com um prêmio calculado em R$ 102 milhões. O montante principal acumulou. Concurso anterior terminou sem vencedores na faixa principal Os seis números sorteados em 15 de setembro de 2026 não [...]",
+        "article_id": "83dbf1b452d44ec5c3a45b17077b4d8b",
+        "link": "https://www.perfil.com/noticias/politica/nuevas-imagenes-del-allanamiento-a-cristina-kirchner-asi-era-el-vestidor-detras-de-una-puerta-blindada.phtml",
+        "title": "Nuevas imágenes del allanamiento a Cristina Kirchner: así era el vestidor detrás de una puerta blindada",
+        "description": "El video muestra el ingreso de los policías al espacio ubicado junto al dormitorio principal. Las imágenes fueron exhibidas durante el juicio por la causa Cuadernos. Leer más",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "concurso 3059",
-            "últimas notícias",
-            "mega-sena",
-            "loterias caixa",
-            "prêmio milionário",
-            "caixa"
+            "allanamiento 2018",
+            "cristina kirchner"
         ],
         "creator": [
-            "luís henrique costa"
+            "lola blasco"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "argentina"
         ],
         "category": [
-            "top",
-            "business"
+            "crime",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-17 16:12:57",
+        "pubDate": "2026-09-18 16:08:35",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 22:46:28",
-        "image_url": null,
+        "fetched_at": "2026-09-18 16:39:10",
+        "image_url": "https://fotos.perfil.com/2026/09/18/trim/540/304/allanamiento-departamento-de-cristina-kirchner-2018-2328637.jpg",
         "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://i.newsdata.io/mixvale.png",
+        "source_id": "perfil",
+        "source_name": "Perfil",
+        "source_priority": 56989,
+        "source_url": "https://www.perfil.com",
+        "source_icon": "https://i.newsdata.io/perfil.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -94,50 +377,77 @@
         "description_zh": ""
     },
     {
-        "article_id": "5d37d64282c691c6d46a00bf877e7ddd",
-        "link": "https://www.omelete.com.br/filmes/vingadores-guerras-secretas-kathryn-hahn-agatha-harkness-retorno-rumor",
-        "title": "Vingadores: Guerras Secretas | Kathryn Hahn pode voltar como Agatha Harkness no filme, diz rumor",
-        "description": "Vingadores: Guerras Secretas | Kathryn Hahn pode voltar como Agatha Harkness no filme, diz rumor",
+        "article_id": "f85469b35f80b7cdc150efc34242fdeb",
+        "link": "https://www.lanacion.com.ar/deportes/tenis/francisco-cerundolo-abrira-la-serie-entre-argentina-y-turquia-en-la-primera-serie-de-copa-davis-en-nid18092026/",
+        "title": "Francisco Cerúndolo abrirá la serie entre Argentina y Turquía en la primera serie de Copa Davis en la Patagonia",
+        "description": "Este sábado, desde las 12, en el estadio Ruca Che de Neuquén, el porteño se medirá con Yanki Erel; a continuación, Thiago Tirante vs. Mert Alkaya",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "agatha",
-            "avengers secret wars",
-            "kathryn hahn",
-            "agatha harkness",
-            "guerras secretas marvel",
-            "avengers 6",
-            "agatha all along",
-            "universo marvel",
-            "vingadores: guerras secretas",
-            "kathryn hahn agatha",
-            "marvel studios",
-            "vingadores 6",
-            "mcu",
-            "agatha guerras secretas",
-            "marvel"
+            "tenis"
         ],
         "creator": [
-            "felipe rocha"
+            "la nacion"
         ],
-        "language": "portuguese",
+        "language": "spanish",
         "country": [
-            "brazil"
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:34",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 16:31:16",
+        "image_url": "https://resizer.glanacion.com/resizer/v2/QQ3LN6CX3FEHFLGURCSQJB5PMU.jpg?auth=2ea0a494e4580a0c7ec9833b397696c12b7fa9b6507f223eb90cc6ecd2da59d9&smart=true&width=1619&height=1079",
+        "video_url": null,
+        "source_id": "lanacion",
+        "source_name": "La Nacion",
+        "source_priority": 7204,
+        "source_url": "https://www.lanacion.com.ar",
+        "source_icon": "https://i.newsdata.io/lanacion.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "6e59e0792fbeba260b3b8919c85578bb",
+        "link": "https://www.informador.mx/entretenimiento/la-historia-detras-de-la-corona-de-flores-que-luis-miguel-envio-a-silvia-pinal-en-su-funeral-20260918-0076.html",
+        "title": "La historia detrás de la corona de flores que Luis Miguel envió a Silvia Pinal",
+        "description": "Luis Miguel no acudió al homenaje público de Pinal en Bellas Artes, pero sí estuvo presente de manera simbólica",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "entretenimiento"
+        ],
+        "creator": [
+            "maría orozco"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
         ],
         "category": [
             "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-17 16:12:57",
+        "pubDate": "2026-09-18 16:09:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:36:50",
-        "image_url": "https://cdn.ome.lt/r4VAQLTSUv4p0ooyXk9RIJK40sE=/970x0/smart/filters:format(webp)/extras/conteudos/agatha-2.jpg",
+        "fetched_at": "2026-09-18 16:36:37",
+        "image_url": "https://www.informador.mx/__export/1789747698384/sites/elinformador/img/2026/09/18/rs829175_2551588-neg-e0147-1996-03-19-019.jpg_1544770020.jpg",
         "video_url": null,
-        "source_id": "omelete_br",
-        "source_name": "Omelete",
-        "source_priority": 32316,
-        "source_url": "https://www.omelete.com.br",
-        "source_icon": "https://i.newsdata.io/omelete_br.png",
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://i.newsdata.io/informador_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -149,614 +459,39 @@
         "description_zh": ""
     },
     {
-        "article_id": "c7fe9c341c60caaf1341305b5fc49c78",
-        "link": "https://www.infobae.com/colombia/2026/09/17/fabiola-perea-ex-empleada-domestica-de-laura-sarabia-denuncio-que-fue-victima-del-abuso-de-poder-de-la-ahora-embajadora-en-londres/",
-        "title": "Fabiola Perea, exempleada doméstica de Laura Sarabia, denunció que fue “víctima del abuso de poder” de la exembajadora en Londres",
-        "description": "La mujer vinculó lo ocurrido con la búsqueda de una maleta con dinero desaparecida en el apartamento de la exjefe de gabinete del gobierno de Gustavo Petro y relató que agentes vestidos de civil visitaron su casa en Soacha antes de la ‘chuzada’",
+        "article_id": "19ec016b004886a94908dbbb19ba0161",
+        "link": "https://www.las2orillas.co/escultura-entre-cemento-y-ladrillo/",
+        "title": "Escultura entre cemento y ladrillo",
+        "description": "Una mirada en el perfil de la escultura de Joaquín Restrepo dentro de la feria alternativa Un-Fair Tequendama El artículo Escultura entre cemento y ladrillo fue publicado originalmente en Las2orillas.co: Historias, voces y noticias de Colombia . Copyrights Las2orillas.co",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "laura sarabia",
-            "fabiola perea",
-            "prueba del polígrafo",
-            "colombia-noticias",
-            "marelbys meza"
+            "un-fair tequendama",
+            "feria alternativa",
+            "joaquín restrepo",
+            "opinión"
         ],
         "creator": [
-            "frank  saavedra"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "colombia",
-            "mexico",
-            "united states of america"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:12:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:31:47",
-        "image_url": "https://www.infobae.com/resizer/v2/QTVDPELFHVDMHHTOD4TI2FV6SM.png?auth=434c7af02048aaf41617f433cbd47cd19b64ea97a3dd998879abd7bbe48dab63&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "2841d3429e403ee8e9178f9f37118d02",
-        "link": "https://www.eldiarioar.com/politica/milei-sesion-senado-debate-inocencia-fiscal-biocombustibles_1_13518759.html",
-        "title": "Duras críticas al Gobierno por el nuevo ajuste a discapacidad: \"Milei disfruta ver sufrir a los más vulnerables”",
-        "description": "En medio de la sesión por la Inocencia Fiscal II y biocombustibles, legisladores de la oposición cuestionaron con dureza los cambios en la Ley de Emergencia en Discapacidad que metió el Gobierno en el Presupuesto 2027. La senadora Bullrich admitió que en el oficialismo no habían sido informados. \"Disfrutan ver sufrir a los más vulnerables\", disparó Wado de Pedro desde la Cámara alta. El Senado sesiona este jueves con el objetivo declarado de convertir en ley la Inocencia Fiscal II y avanzar con la reforma del régimen de biocombustibles , pero el temario oficial quedó relegado a un segundo plano en el inicio del debate. El oficialismo llegó al recinto con 37 legisladores propios y debió salir a buscar el respaldo de bloques provinciales y federales para garantizar el quórum, en una jornada que comenzó dominada por los reclamos de la oposición contra los recortes en discapacidad incluidos en el proyecto de Presupuesto 2027. El senador de Unión por la Patria Eduardo “Wado” de Pedro fue el más duro. Vinculó los cambios que el Gobierno impulsa sobre la Ley de Emergencia en Discapacidad con el articulado del nuevo Presupuesto y acusó al Ejecutivo de desentenderse del problema: “El Gobierno desconoce la Emergencia en Discapacidad, la veta y el Congreso vuelve a insistir. Parece que el presidente Javier Milei disfruta ver sufrir a los más vulnerables”, lanzó. También apuntó contra la lógica de ajuste familiar que, dijo, el oficialismo pretende trasladar a los hogares con una persona con discapacidad a cargo: “Los discapacitados dependen de la ayuda del resto de la sociedad. Es imposible que el pluriempleo pueda sostener a un hijo o a un miembro de la familia que necesita ayuda.” A los cuestionamientos por discapacidad se sumaron las críticas del kirchnerismo por el endeudamiento de las familias argentinas. La senadora Alicia Kirchner advirtió sobre lo que definió como “usura social” y describió un escenario de “precariedad y abandono” que, sostuvo, alcanza a una gran mayoría de la población. La legisladora señaló que buena parte de las familias recurrió al crédito para sostener el consumo básico y que ese fenómeno quedó legitimado por la falta de respuestas del Estado. El trasfondo de los reclamos tiene nombre y artículo: el 39 del proyecto de Presupuesto 2027, que habilitaría la eliminación del nomenclador nacional de discapacidad , el instrumento que fija valores de referencia uniformes para tratamientos, traslados y prestaciones en todo el país. Sin esa regulación unificada, los montos quedarían sujetos a negociaciones individuales con cada obra social, con el riesgo de que la diferencia termine cayendo sobre las familias. La incomodidad no quedó circunscripta a la oposición. La propia jefa del bloque oficialista en el Senado, Patricia Bullrich , reconoció públicamente que ni ella ni el resto de la Mesa Política habían sido informados de los cambios en discapacidad que terminaron incorporados al Presupuesto. “A mí me sorprendió porque, estando en la Mesa Política, el tema no salió a la luz. No nos enteramos, es la verdad”, admitió en radio Rivadavia, y reconoció que ese tipo de desprolijidades “resiente un poco las relaciones” dentro del espacio libertario. El episodio se inscribe en una tensión que el Gobierno viene arrastrando desde hace meses. La Ley de Emergencia en Discapacidad fue vetada por Javier Milei en 2025 y el Congreso insistió con su sanción, convirtiéndola en la Ley 27.793. Desde entonces, sucesivos intentos oficiales de introducir modificaciones —incluida una propuesta del ministro de Salud, Mario Lugones, en abril— reavivaron el conflicto con los aliados legislativos y con el sector de prestadores, que denuncia pagos demorados de hasta 90 días y familias que abandonan coberturas por la crisis económica. Más allá del ruido por discapacidad y endeudamiento, el Senado busca avanzar este jueves con el resto de un temario cargado: además de convertir en ley la Inocencia Fiscal II y avanzar con la reforma del régimen de biocombustibles , está en el temario el traspaso de competencias penales a la Justicia de la Ciudad de Buenos Aires, la incorporación del Parque Nacional Monte León y una serie de pliegos judiciales, entre ellos las designaciones para tribunales en materia de delitos económicos. En cambio, quedó nuevamente postergado el tratamiento de la reforma de la Carta Orgánica del Banco Central , uno de los proyectos que el oficialismo negocia con los bloques dialoguistas y que todavía no logró destrabar.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "discapacidad",
-            "patricia bullrich",
-            "emergencia en discapacidad",
-            "senado",
-            "javier milei"
-        ],
-        "creator": [
-            "eldiarioar.com"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-09-17 16:12:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:44:35",
-        "image_url": "https://static.eldiario.es/clip/16983a08-74cf-479b-a5dc-152858c9d61b_16-9-discover-aspect-ratio_default_0_x828y368.jpg",
-        "video_url": "https://www.youtube.com/watch?v=S_8FqVKrQnA",
-        "source_id": "eldiarioar",
-        "source_name": "El Diario Ar",
-        "source_priority": 233338,
-        "source_url": "https://www.eldiarioar.com",
-        "source_icon": "https://i.newsdata.io/eldiarioar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "4c5e4c4efc6ae9b17c6f5c18df2c970c",
-        "link": "https://contilnetnoticias.com.br/voce-viu/fazedores-de-cultura-de-sena-denunciam-atraso-em-resultado-da-pnab/",
-        "title": "Fazedores de cultura de Sena denunciam atraso em resultado da PNAB",
-        "description": "Fazedores de cultura de Sena Madureira estão cobrando esclarecimentos sobre o atraso na divulgação do resultado final de um edital da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB)....",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "você viu?"
-        ],
-        "creator": [
-            "contilnet",
-            "ricardo amaral"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:12:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:42:11",
-        "image_url": "https://contilnetnoticias.com.br/wp-content/uploads/2026/09/prefeitura-de-sena-madureira.avif",
-        "video_url": null,
-        "source_id": "contilnetnoticias",
-        "source_name": "Contilnet Notícias",
-        "source_priority": 155904,
-        "source_url": "https://contilnetnoticias.com.br",
-        "source_icon": "https://i.newsdata.io/contilnetnoticias.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "3a747ec1fde94b0f2821e334f69a2ec1",
-        "link": "https://www.abcmais.com/opiniao/ivar-hartmann-nao-ha-bem-que-sempre-dure/",
-        "title": "IVAR HARTMANN: Não há bem que sempre dure",
-        "description": "Nem mal que nunca acabe. Qual leitor não conhece a frase? Pois é. Nosso STF, ao longo das décadas, berço de tantos ilustres homens públicos, pessoas ilibadas que construíram uma vida defendendo o direito, era uma plêiade de advogados brasileiros, que viam na figura de um ministro da Suprema Corte o final de sua carreira [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "opinião",
-            "artigo",
-            "ivar hartmann",
-            "nh",
-            "novo hamburgo"
-        ],
-        "creator": [
-            "five.integracao"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:12:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:24:53",
-        "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/23/img_20190925_wa0014_18473714-22836565.jpg",
-        "video_url": null,
-        "source_id": "abcmais",
-        "source_name": "Abc+",
-        "source_priority": 5471397,
-        "source_url": "https://www.abcmais.com",
-        "source_icon": "https://i.newsdata.io/abcmais.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "12b0c337013e5f64d42ebb5ab6ff322b",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/la-justicia-no-pudo-comprobar-si-facundo-moyano-violo-la-perimetral-para-encontrarse-con-candela-arizaga/",
-        "title": "La Justicia no pudo comprobar si Facundo Moyano violó la perimetral para encontrarse con Candela Arizaga",
-        "description": "La conclusión se desprende del informe elaborado por el Ministerio Público Fiscal porteño, luego de que la Policía Judicial realizara la investigación correspondiente",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "últimas noticias",
-            "candela arizaga",
-            "facundo moyano"
-        ],
-        "creator": [
-            "infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "colombia",
-            "mexico",
-            "united states of america"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-09-17 16:12:30",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:31:47",
-        "image_url": "https://www.infobae.com/resizer/v2/XTALKMZY35FEPGXK6VUEXRDJ4E.png?auth=37652d2fea2b3fc2b1ae2235c3b8d03941aba90d76a509301132001cca92d1bb&smart=true&width=2752&height=1536",
-        "video_url": "https://cdn.jwplayer.com/videos/B7DmGDuW-HeIT2Id1.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "c57ca777af6aacc24a71ac6ea8c88f3d",
-        "link": "https://www.jornaldamidia.com.br/2026/09/17/as-vesperas-das-eleicoes-bolsa-familia-sobe-15-e-beneficio-medio-chega-a-r777/",
-        "title": "Às vésperas das eleições, Bolsa Família sobe 15% e benefício médio chega a R$777",
-        "description": "O benefício pago pelo programa Bolsa Família será reajustado em 15%. O aumento corresponde à variação inflacionária registrada pelo Índice Nacional de Preços ao Consumidor (INPC) entre março de 2023 e agosto de 2026. Com isso, o valor mínimo do benefício ficará em R$ 691. Já o valor médio pago chegará a R$ 777. A atualização [...] Leia a matéria Às vésperas das eleições, Bolsa Família sobe 15% e benefício médio chega a R$777 no Jornal da Mídia .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "inpc",
-            "cotidiano",
-            "destaque",
-            "bolsa família"
-        ],
-        "creator": [
-            "redação"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:12:18",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:20:45",
-        "image_url": "https://www.jornaldamidia.com.br/wp-content/uploads/2026/09/Bolsa-Familia.jpg",
-        "video_url": null,
-        "source_id": "jornaldamidia",
-        "source_name": "Jornal Da Midia",
-        "source_priority": 1081951,
-        "source_url": "https://www.jornaldamidia.com.br",
-        "source_icon": "https://i.newsdata.io/jornaldamidia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "25578f8399a44ac7c2af5176a15fea7f",
-        "link": "https://www.laopinioncoruna.es/espana/2026/09/17/consejero-presidencia-justifica-compra-atico-134401923.html",
-        "title": "El consejero de Presidencia madrileño justifica la compra del ático para contar con \"un inmueble institucional\": \"Isabel Díaz Ayuso no ha tenido, tiene ni tendrá una residencia oficial\"",
-        "description": "\"Isabel Díaz Ayuso se paga su propia vivienda y no ha tenido, tiene ni tendrá una residencia oficial\". El consejero de Presidencia de la Comunidad de Madrid, Miguel Ángel García, ha insistido en el argumento que ya utilizó la semana pasada la propia presidenta madrileña para tratar de apagar la polémica en torno a la compra por parte de la empresa pública Planifica Madrid de un ático en el distrito de Chamberí. García ha justificado la compra como forma de “contar con un inmueble institucional” que dispusiera de “zona destinada a lugar de trabajo”, “un área de descanso” y “alojamiento ocasional para autoridades en visita oficial a la región o a las propias autoridades de la comunidad”.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "compra",
-            "presidencia",
-            "justifica",
-            "atico",
-            "consejero"
-        ],
-        "creator": [
-            "víctor rodríguez"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:12:18",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:37:42",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2adcb692-4f2b-4718-9cb1-170363455916_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "video_url": null,
-        "source_id": "laopinioncoruna",
-        "source_name": "La Opinión A Coruña",
-        "source_priority": 50098,
-        "source_url": "https://www.laopinioncoruna.es",
-        "source_icon": "https://i.newsdata.io/laopinioncoruna.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "000cb93b3ad55bf28b16dea1a24d9e06",
-        "link": "https://www.elmanana.com/noticias/nacional/talento-en-ciudad-juarez-y-su-impacto-en-la-economia-global/6186474",
-        "title": "Talento en Ciudad Juárez y su impacto en la economía global",
-        "description": "La ubicación estratégica de Ciudad Juárez la convierte en una plataforma ideal para el nearshoring y la inversión extranjera.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "talento en ciudad ju&#225;rez",
-            "ciudad ju&#225;rez econom&#237;a global",
-            "manufactura avanzada ciudad ju&#225;rez",
-            "plataforma de nearshoring",
-            "inversi&#243;n en ciudad ju&#225;rez"
-        ],
-        "creator": [
-            "el universal"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:13:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 21:43:06",
-        "image_url": "https://blob.elmanana.com/images/2026/09/17/crop-w502-h419-captura-de-pantalla-2026-09-17-a-las-41429-p-m-558eb43c-focus-0-0-1200-647.webp",
-        "video_url": null,
-        "source_id": "elmanana",
-        "source_name": "Últimas Noticias - El Mañana De Reynosa",
-        "source_priority": 258494,
-        "source_url": "https://www.elmanana.com",
-        "source_icon": "https://i.newsdata.io/elmanana.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "ce0b6969f87da7f8868a7279b999683e",
-        "link": "https://pulsoslp.com.mx/seguridad/pareja-detenida-por-fgeslp-por-maltrato-infantil-en-jalisco/2086696",
-        "title": "Pareja detenida por FGESLP por maltrato infantil en Jalisco",
-        "description": "Pareja acusada de maltrato infantil fue aprehendida por FGESLP en Jalisco y será presentada ante juez en San Luis Potosí.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "orden de aprehensión feminicidio tentativa",
-            "pdi detención raquel n raúl n",
-            "fgeslp aprehensión pareja maltrato infantil",
-            "fiscalía san luis potosí captura jalisco",
-            "maltrato infantil san luis potosí jalisco"
-        ],
-        "creator": [
-            "pulso slp"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:13:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 17:24:43",
-        "image_url": "https://blobcore.pulsoslp.com.mx/images/2026/09/17/capturan-a-pareja-senalada-por-maltrato-a-menor-9516a80c-focus-0-0-600-315.webp",
-        "video_url": null,
-        "source_id": "pulsoslp_mx",
-        "source_name": "Pulso Diario San Luis",
-        "source_priority": 3206842,
-        "source_url": "https://www.pulsoslp.com.mx",
-        "source_icon": "https://i.newsdata.io/pulsoslp_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "b3b3acff48b9149aa6a7676f134a16cb",
-        "link": "https://periodicolavoz.com.mx/coahuila/region-carbonifera/fiscalia-general-del-estado-coahuila-catea-chatarrera-la-par/382082",
-        "title": "Cateo en chatarrera La Parka por robo en Nueva Rosita",
-        "description": "Durante el cateo, se aseguraron objetos que podrían estar relacionados con el robo, mientras la investigación continúa para esclarecer los hechos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "fiscal&#237;a general del estado coahuila",
-            "operativo guardia nacional nueva rosita",
-            "robo en nueva rosita",
-            "investigaci&#243;n de robo coahuila",
-            "cateo chatarrera la parka"
-        ],
-        "creator": [
-            "teresa muñoz"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:13:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 23:45:41",
-        "image_url": "https://blobcore.periodicolavoz.com.mx/images/2026/09/17/whatsapp-image-2026-09-17-at-43757-pm-17b4dba0.jpeg",
-        "video_url": null,
-        "source_id": "periodicolavoz_mx",
-        "source_name": "Periodicolavoz Mx",
-        "source_priority": 462138,
-        "source_url": "https://periodicolavoz.com.mx",
-        "source_icon": "https://i.newsdata.io/periodicolavoz_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "d8ef50af9831b9f10e7bf1a1f1823d11",
-        "link": "https://www.elsiglodetorreon.com.mx/noticia/2026/sheinbaum-explica-por-que-no-menciono-a-ignacio-allende-en-el-grito-de-independencia.html",
-        "title": "Sheinbaum explica por qué no mencionó a Ignacio Allende en el Grito de Independencia",
-        "description": "La presidenta Claudia Sheinbaum Pardo explicó por qué no mencionó a Ignacio Allende durante su Grito de Independencia y aseguró que \"no hay nada en contra de este héroe\" . La mandataria detalló que decidió incluir a Guadalupe Victoria como parte de una selección limitada de figuras históricas. Sheinbaum aclara ausencia de Allende en el Grito Durante su conferencia mañanera de este jueves 17 de septiembre en Palacio Nacional , Sheinbaum Pardo señaló que sustituyó a Allende, uno de los iniciadores de la Independencia, por Guadalupe Victoria. \"No hay nada en particular en contra de Allende, incluso el año pasado lo dije. Tenía sus diferencias con Hidalgo, algún... Más información -- Sheinbaum explica por qué no mencionó a Ignacio Allende en el Grito de Independencia »",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "portada"
-        ],
-        "creator": [
-            "redacción digital"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:12:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 18:39:36",
-        "image_url": "https://www.elsiglodetorreon.com.mx/m/i/2026/09/2047176.jpeg",
-        "video_url": null,
-        "source_id": "elsiglodetorreon",
-        "source_name": "El Siglo De Torreón",
-        "source_priority": 99698,
-        "source_url": "https://www.elsiglodetorreon.com.mx",
-        "source_icon": "https://i.newsdata.io/elsiglodetorreon.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "c7fe9c341c60caaf1341305b5fc49c78",
-        "link": "https://www.infobae.com/colombia/2026/09/17/fabiola-perea-ex-empleada-domestica-de-laura-sarabia-denuncio-que-fue-victima-del-abuso-de-poder-de-la-ahora-embajadora-en-londres/",
-        "title": "Fabiola Perea, exempleada doméstica de Laura Sarabia, denunció que fue “víctima del abuso de poder” de la exembajadora en Londres",
-        "description": "La mujer vinculó lo ocurrido con la búsqueda de una maleta con dinero desaparecida en el apartamento de la exjefe de gabinete del gobierno de Gustavo Petro y relató que agentes vestidos de civil visitaron su casa en Soacha antes de la ‘chuzada’",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "laura sarabia",
-            "fabiola perea",
-            "prueba del polígrafo",
-            "colombia-noticias",
-            "marelbys meza"
-        ],
-        "creator": [
-            "frank  saavedra"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "colombia",
-            "mexico",
-            "united states of america"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:12:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:31:47",
-        "image_url": "https://www.infobae.com/resizer/v2/QTVDPELFHVDMHHTOD4TI2FV6SM.png?auth=434c7af02048aaf41617f433cbd47cd19b64ea97a3dd998879abd7bbe48dab63&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "32b00deccfbfac4788424d6b3f5cb45d",
-        "link": "https://oem.com.mx/elsoldemexico/mexico/exjefe-policial-ligado-a-asaeo-escapa-de-custodia-y-es-reaprehendido-en-la-mixteca-32129164",
-        "title": "Exjefe policial ligado a ASAEO escapa de custodia y es reaprehendido en la Mixteca",
-        "description": "Ángel de Jesús E. J., exjefe policial de San Antonio de la Cal, escapó de la custodia de la Fiscalía y fue localizado horas después en un hotel de la Mixteca; cuatro agentes quedaron separados del cargo e investigados por la evasión",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "méxico"
-        ],
-        "creator": [
-            "luis ramírez / corresponsal"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-17 16:12:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 23:10:05",
-        "image_url": "https://oem.com.mx/elsoldemexico/img/32130057/1789661556/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldemexico",
-        "source_name": "El Sol De Mexico",
-        "source_priority": 101294,
-        "source_url": "https://www.elsoldemexico.com.mx",
-        "source_icon": "https://i.newsdata.io/elsoldemexico.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "2c4aa63e05808bd99c256e2307810de8",
-        "link": "https://www.marca.com/ciclismo/2026/09/17/usoa-ostolaza-firma-tres-anos-x.html",
-        "title": "Usoa Ostolaza firma tres años con Uno X",
-        "description": "Después de seis temporadas en el Laboral Kutxa - Fundación Euskadi, la corredora vasca da el salto internacional con un contrato hasta 2029",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ciclismo"
-        ],
-        "creator": [
-            "miguel ángel rodríguez cuesta"
+            "ana maría escallón"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "sports"
+            "lifestyle",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-17 16:12:48",
+        "pubDate": "2026-09-18 16:09:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:31:23",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/09/17/6aac11018f547.jpeg",
+        "fetched_at": "2026-09-18 16:17:34",
+        "image_url": "https://www.las2orillas.co/wp-content/uploads/2026/09/ana-maria-escallon-2.jpg",
         "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com",
-        "source_icon": "https://i.newsdata.io/marca.png",
+        "source_id": "las2orillas",
+        "source_name": "Las2orillas",
+        "source_priority": 23814,
+        "source_url": "https://www.las2orillas.co",
+        "source_icon": "https://i.newsdata.io/las2orillas.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -768,38 +503,44 @@
         "description_zh": ""
     },
     {
-        "article_id": "c43d576b1b068ffcca6f42e9167a46aa",
-        "link": "https://www.quadratin.com.mx/nacionales/muere-a-los-44-anos-diputada-federal-anay-beltran-reyes/",
-        "title": "Muere a los 44 años diputada federal Anay Beltrán Reyes",
-        "description": null,
+        "article_id": "d9bb7ea5712f8a87e3a66a1fae7c8ebb",
+        "link": "https://www.epicentrochile.com/2026/09/18/cardenal-fernando-chomali-llama-a-frenar-la-corrupcion-y-fomentar-el-empleo-en-el-te-deum-ecumenico/",
+        "title": "Cardenal Fernando Chomali llama a frenar la corrupción y fomentar el empleo en el Te Deum Ecuménico",
+        "description": "Frente al Presidente José Antonio Kast y las máximas autoridades de la República, el arzobispo de Santiago instó a superar la dicotomía entre maternidad y trabajo formal mediante acuerdos entre el Estado y los privados, exigiendo además medidas urgentes para prevenir la violencia. La entrada Cardenal Fernando Chomali llama a frenar la corrupción y fomentar el empleo en el Te Deum Ecuménico aparece primero en Epicentro Chile .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "condolencias",
-            "nacionales",
-            "morena"
+            "corrupción chile",
+            "nacional",
+            "jose antonio kast",
+            "natalidad chile",
+            "catedral metropolitana",
+            "fiestas patrias",
+            "empleo formal",
+            "fernando chomalí",
+            "te deum ecumenico"
         ],
         "creator": [
-            "luis ayala/quadratín emx"
+            "sebastián araya"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "chile"
         ],
         "category": [
-            "environment",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-17 16:12:44",
+        "pubDate": "2026-09-18 16:09:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:15:37",
-        "image_url": "https://www.quadratin.com.mx/www/wp-content/uploads/2026/09/Muere-a-los-44-anos-diputada-federal-Anay-Beltran-Reyes-1-1160x700-1-1160x700.jpeg",
+        "fetched_at": "2026-09-18 16:22:45",
+        "image_url": "https://www.epicentrochile.com/wp-content/uploads/2026/09/Captura-de-pantalla-2026-09-18-132326.webp",
         "video_url": null,
-        "source_id": "quadratin",
-        "source_name": "Quadratín",
-        "source_priority": 320781,
-        "source_url": "https://www.quadratin.com.mx",
-        "source_icon": "https://i.newsdata.io/quadratin.png",
+        "source_id": "epicentrochile",
+        "source_name": "Epicentro Chile",
+        "source_priority": 1163442,
+        "source_url": "https://www.epicentrochile.com",
+        "source_icon": "https://i.newsdata.io/epicentrochile.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -808,56 +549,283 @@
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
         "title_zh": "",
-        "description_zh": "查看原文了解更多详情"
+        "description_zh": ""
     },
     {
-        "article_id": "7fbdc1a9ac03a3e4c46de84a5900b76f",
-        "link": "https://www.elnorte.com/fallece-la-diputada-federal-de-morena-anay-beltran-reyes/ar3277498",
-        "title": "Fallece la diputada federal de Morena Anay Beltrán Reyes",
-        "description": "La diputada federal por Tultitlán, Edomex, Anay Beltrán Reyes, falleció por una enfermedad, confirma la bancada de Morena en San Lázaro.",
+        "article_id": "eb35e832bd79926020f95809a9367f8d",
+        "link": "https://oem.com.mx/elsoldesanluis/local/la-mayor-parte-del-congreso-responde-a-intereses-partidistas-acusa-jaime-chalita-32144848",
+        "title": "“La mayor parte del Congreso responde a intereses partidistas”, acusa Jaime Chalita",
+        "description": "El presidente del Consejo Empresarial Mexicano llamó a los diputados locales a escuchar a sus representados y atender las propuestas planteadas por la ciudadanía.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "local"
+        ],
         "creator": [
-            "martha martínez"
+            "mayra tristán"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "crime",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-17 16:12:40",
+        "pubDate": "2026-09-18 16:08:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:40:53",
-        "image_url": null,
+        "fetched_at": "2026-09-18 21:20:40",
+        "image_url": "https://oem.com.mx/elsoldesanluis/img/32007414/1789055826/BASE_LANDSCAPE/400/image.jpg",
         "video_url": null,
-        "source_id": "elnorte",
-        "source_name": "Elnorte",
-        "source_priority": 107502,
-        "source_url": "https://www.elnorte.com",
-        "source_icon": "https://i.newsdata.io/elnorte.png",
+        "source_id": "elsoldesanluis_mx",
+        "source_name": "Elsoldesanluis Mx",
+        "source_priority": 972129,
+        "source_url": "https://www.elsoldesanluis.com.mx",
+        "source_icon": "https://i.newsdata.io/elsoldesanluis_mx_.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
+        "duplicate": false,
         "title_zh": "",
         "description_zh": ""
     },
     {
-        "article_id": "729c64649fab7370cecea1e3e59e6071",
-        "link": "https://www.elnorte.com/hallan-muerta-a-alumna-de-medicina-desaparecida-en-jalisco/ar3277499",
-        "title": "Hallan muerta a alumna de medicina desaparecida en Jalisco",
-        "description": "Mujer localizada sin vida en Zapopan, Jalisco, fue identificada como Karla Margarita Pérez Jiménez, estudiante de medicina desaparecida.",
+        "article_id": "5c3e02fbb5e560ee8a40dd3f3d15159c",
+        "link": "https://www.eldesmarque.com/futbol/internacional/20260918/cristiano-ronaldo-seguira-jugando-portugal-aviso-jorge-jesus_18_020210656.html",
+        "title": "Cristiano Ronaldo seguirá jugando con Portugal con un aviso de Jorge Jesús: \"Si rinde jugará y, si no, no\"",
+        "description": "Cristiano Ronaldo, convocado por Jorge Jesús para la selección de Portugal Cristiano Ronaldo envía un mensaje a Leo Messi tras la muerte de su padre",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "fútbol internacional"
+        ],
+        "creator": [
+            "joaquín anduro"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 19:26:53",
+        "image_url": "https://album.mediaset.es/eimg/2026/07/07/cristiano-ronaldo-en-el-partido-contra-espana-en-el-mundial-2026_9de8.jpg",
+        "video_url": null,
+        "source_id": "eldesmarque",
+        "source_name": "Eldesmarque",
+        "source_priority": 44851,
+        "source_url": "https://motor.eldesmarque.com",
+        "source_icon": "https://i.newsdata.io/eldesmarque.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "6e29ddceb896e8fd9b3aa9c52cf5bf6f",
+        "link": "https://mx.investing.com/news/stock-market-news/las-bolsas-de-valores-de-portugal-cerraron-con-caidas-el-psi-perdio-un-133-3769917",
+        "title": "Las bolsas de valores de Portugal cerraron con caídas; el PSI perdió un 1.33%",
+        "description": "Las bolsas de valores de Portugal cerraron con caídas; el PSI perdió un 1.33%",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "tania casillas"
+            "investing.com"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:35",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 18:43:05",
+        "image_url": "https://content-media.investing.com/news/Portugal_800x533_L_1630015644.jpg",
+        "video_url": null,
+        "source_id": "investing_mx",
+        "source_name": "Investing México",
+        "source_priority": 1205,
+        "source_url": "https://mx.investing.com",
+        "source_icon": "https://i.newsdata.io/investing_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "ab634558aac57aeee15dcf2632275f70",
+        "link": "https://www.infobae.com/peru/2026/09/18/esposo-de-ethel-pozo-sale-en-defensa-de-gisela-valcarcel-y-cuestiona-el-talento-de-edson-davila-le-soplaban-los-chistes/",
+        "title": "Esposo de Ethel Pozo muestra su apoyo a Gisela Valcárcel y cuestiona el talento de Edson Dávila: “Le soplaban los chistes”",
+        "description": "Julián Alexander aseguró que el conductor recibía indicaciones mediante un audífono durante su etapa en ‘América hoy’, versión que la hija de Gisela Valcárcel respaldó",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "peru-entretenimiento",
+            "edson dávila",
+            "ethel pozo"
+        ],
+        "creator": [
+            "ana morocho"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "argentina",
+            "colombia",
+            "united states of america"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:28",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 16:32:24",
+        "image_url": "https://www.infobae.com/resizer/v2/ECNGNK2CCNFENBLGKARBN3VBI4.jpg?auth=b01a2b83f065d25c385652dd659da1d1d1934e886959ae7ab097a7ff9c3cab97&smart=true&width=1920&height=1080",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "024c4b7dba9c9485a4def32cf556da70",
+        "link": "https://tribunacampeche.com/18/no-cede-la-inseguridad-balean-a-joven-frente-a-casa-de-sus-padres/755838/",
+        "title": "¡NO CEDE LA INSEGURIDAD! BALEAN A JOVEN FRENTE A CASA DE SUS PADRES",
+        "description": "En el cruce de las calles Nadzcan y Pechal de la colonia Bugambilias, en Xpujil,... The post ¡NO CEDE LA INSEGURIDAD! BALEAN A JOVEN FRENTE A CASA DE SUS PADRES first appeared on Tribuna Campeche .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "padres",
+            "balean",
+            "municipios",
+            "portada",
+            "inseguridad",
+            "tendencias",
+            "policía",
+            "joven",
+            "casa"
+        ],
+        "creator": [
+            "editor 2"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "blog",
+        "pubDate": "2026-09-18 16:08:28",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 16:23:12",
+        "image_url": "https://tribunacampeche.com/wp-content/uploads/2026/09/BaleadoWEB.png",
+        "video_url": null,
+        "source_id": "tribunacampeche",
+        "source_name": "Tribuna Campeche",
+        "source_priority": 1508810,
+        "source_url": "https://tribunacampeche.com",
+        "source_icon": "https://i.newsdata.io/tribunacampeche.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "0d94654e9688983b7da20335cb902cb9",
+        "link": "https://www.infobae.com/venezuela/2026/09/18/ministerio-publico-corrige-una-de-las-desviaciones-ejecutadas-por-tarek-william-saab-el-fiscal-de-maduro/",
+        "title": "Ministerio Público corrige una de las desviaciones ejecutadas por Tarek William Saab, el fiscal de Maduro",
+        "description": "El nuevo responsable de la acción penal en el país y ficha de Delcy Rodríguez, Larry Devoe, se compromete a respetar el debido proceso y ordena dejar de exponer en las redes a las personas que están siendo investigadas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "larry devoe",
+            "ministerio público",
+            "tarek william saab",
+            "nicolás maduro",
+            "delcy rodríguez",
+            "venezuela"
+        ],
+        "creator": [
+            "pedro pablo peñaloza"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "argentina",
+            "colombia",
+            "united states of america"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-18 16:08:24",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-18 16:32:24",
+        "image_url": "https://www.infobae.com/resizer/v2/XDY7R3SSZFEFTGBMTJK4N5FN64.jpg?auth=4cd130eddcfeff7698e6883b6c076c12f5ac2aafb27b802b6f004aa10403ee13&smart=true&width=4786&height=3250",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "86d7e356fa2e3358dce9ceab7be1cdbc",
+        "link": "https://www.ejecentral.com.mx/nuestro-eje/devuelven-mascara-y-codice-azcatitlan-que-son-patrimonio-cultural-de-mexico-y-el-penacho-de-moctezuma-para-cuando",
+        "title": "Devuelven máscara y códice Azcatitlan que son patrimonio cultural de México; ¿y el Penacho de Moctezuma para cuándo?",
+        "description": "El coleccionista dijo haber adquirido el objeto en Francia, sin embargo, tras algunos años de tenerlo, se acercó a las autoridades para su devolución",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "japón",
+            "méxico",
+            "patrimonio cultural"
+        ],
+        "creator": [
+            "eje central"
         ],
         "language": "spanish",
         "country": [
@@ -868,23 +836,23 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-17 16:12:40",
+        "pubDate": "2026-09-18 16:08:22",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-17 16:40:51",
-        "image_url": null,
+        "fetched_at": "2026-09-18 16:14:36",
+        "image_url": "https://assets.ejecentral.com.mx/dims4/default/9d13ed3/2147483647/strip/false/crop/1872x1053+0+275/resize/1200x675!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F3a%2Ffe%2Fa37ae2974d9f96681745aa2ec34f%2Fjapones-devolvera-pieza-del-patrimonio-cultural-de-mexico.png",
         "video_url": null,
-        "source_id": "elnorte",
-        "source_name": "Elnorte",
-        "source_priority": 107502,
-        "source_url": "https://www.elnorte.com",
-        "source_icon": "https://i.newsdata.io/elnorte.png",
+        "source_id": "ejecentral_mx",
+        "source_name": "Ejecentral Mx",
+        "source_priority": 306830,
+        "source_url": "https://www.ejecentral.com.mx",
+        "source_icon": "https://i.newsdata.io/ejecentral_mx.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
+        "duplicate": false,
         "title_zh": "",
         "description_zh": ""
     }
