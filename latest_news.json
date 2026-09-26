@@ -1,93 +1,35 @@
 [
     {
-        "article_id": "a9ef411390c1adfe954cd793308cb037",
-        "link": "https://www.lagaceta.com.ar/nota/1155312/deportes/gran-premio-batalla-tucuman-en-vivo-segui-cobertura-especial-la-gaceta.html",
-        "title": "Gran Premio Batalla de Tucumán, EN VIVO: seguí la cobertura especial de LA GACETA",
-        "description": "El diario realiza un streaming especial para vivir toda la jornada hípica.",
+        "article_id": "2d99d09dd7dffd5668a08bec8e8e3dab",
+        "link": "https://jc.uol.com.br/politica/2026/09/25/no-recife-lula-promete-fim-das-bets-combate-ao-feminicidio-e-chama-familia-bolsonaro-de-traidores.html",
+        "title": "No Recife, Lula promete fim das bets, combate ao feminicídio e chama família Bolsonaro de 'traidores'",
+        "description": "O petista também citou ações dos governos dele, defendeu aumento real do salário mínimo e falou sobre a própria trajetória em Pernambuco",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "deportes",
-            "hipódromo de tucumán",
-            "tucumán",
-            "gran premio batalla de tucumán",
-            "más deportes",
-            "san miguel de tucumán"
+            "eleições 2026"
         ],
         "creator": [
-            "ale casas cau"
+            "alice lins"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-09-24 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 19:49:27",
-        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/09/21/espectculo-de-primer-nivel-gp-batalla-tucuman-esta-entre-mejores-carreras-turf-nacional-1154930-162451.jpg",
-        "video_url": "https://www.youtube.com/watch?v=kw7gZmymzh8",
-        "source_id": "lagaceta_ar",
-        "source_name": "Lagaceta",
-        "source_priority": 975335,
-        "source_url": "https://www.lagaceta.com.ar",
-        "source_icon": "https://i.newsdata.io/LaGaceta_Ar.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "图库曼大奖赛之战现场直播：我关注了 LA GACETA 的特别报道",
-        "description_zh": "该报特别制作了直播整个马术日的直播。"
-    },
-    {
-        "article_id": "85177377ae2b18cf1999bf986ab4c0dc",
-        "link": "https://www.lagaceta.com.ar/nota/1155373/mundo/netanyahu-hablo-ante-onu-semivacia-tras-retiro-decenas-delegaciones.html",
-        "title": "Netanyahu habló ante una ONU semivacía tras el retiro de decenas de delegaciones",
-        "description": "El primer ministro de Israel justificó durante su discurso los ataques de Israel contra Gaza, los palestinos y la ofensiva contra Irán.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "franja de gaza",
-            "tucumán",
-            "tensión entre israel e irán",
-            "israel",
-            "benjamin netanyahu",
-            "asamblea general de las naciones unidas",
-            "mundo",
-            "tenso discurso",
-            "nueva york",
-            "zohran mamdani",
-            "cisjordania",
-            "estados unidos",
-            "turquía"
-        ],
-        "creator": [
-            "luis duarte"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
             "top",
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-24 16:28:00",
+        "pubDate": "2026-09-25 16:31:51",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 19:49:27",
-        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/09/24/primer-ministro-israel-benjamin-netanyahu-ante-onu-foto-x-1155373-162818.jpg",
+        "fetched_at": "2026-09-25 17:18:33",
+        "image_url": "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2026/09/25/whatsapp_image_2026_09_25_at_11_54_42-37102483.jpeg",
         "video_url": null,
-        "source_id": "lagaceta_ar",
-        "source_name": "Lagaceta",
-        "source_priority": 975335,
-        "source_url": "https://www.lagaceta.com.ar",
-        "source_icon": "https://i.newsdata.io/LaGaceta_Ar.png",
+        "source_id": "jcne10uol",
+        "source_name": "Jc Notiacute",
+        "source_priority": 652888,
+        "source_url": "https://jc.ne10.uol.com.br",
+        "source_icon": "https://i.newsdata.io/jcne10uol.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -95,40 +37,131 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "数十个代表团撤离后，内塔尼亚胡在半空的联合国发表讲话",
-        "description_zh": "以色列总理在讲话中为以色列对加沙、巴勒斯坦人和伊朗的进攻辩护。"
+        "title_zh": "",
+        "description_zh": ""
     },
     {
-        "article_id": "baf75aa067f45abc6945be23a3bc9b93",
-        "link": "https://www.minutouno.com/sociedad/una-jubilada-dono-su-casa-los-vecinos-la-abandonaron-un-geriatrico-y-la-justicia-les-saco-la-propiedad-n6326215",
-        "title": "Una jubilada donó su casa a los vecinos, la abandonaron en un geriátrico y la Justicia les sacó la propiedad",
-        "description": "La mujer es de Chascomús, no tenía hijos, atravesaba problemas de salud y había cedido su única propiedad a una pareja de confianza.",
+        "article_id": "d93112b74a6e6675ac78ab7f9af6254a",
+        "link": "https://tn.com.ar/videos/campo/2026/09/25/lo-crie-desde-un-huevo-y-me-lo-mataron-el-desgarrador-testimonio-del-encargado-de-un-campo-por-la-caza-de-su-nandu/",
+        "title": "“Lo crié desde un huevo y me lo mataron”: el desgarrador testimonio del encargado de un campo por la caza de su ñandú",
+        "description": "Imagen del video difundido en redes sociales por los furtivos, donde se observa a los perros galgos persiguiendo al ñandú dentro del establecimiento \"El Tauro\"; el material fue clave para la denuncia de Fleitas. (Video: Raúl Fleitas).",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "sociedad"
+            "data-cc-vid",
+            "data-cc",
+            "videos en tn"
         ],
         "creator": [
-            "minutouno"
+            "tn"
         ],
         "language": "spanish",
         "country": [
             "argentina"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-09-25 16:31:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 17:01:39",
+        "image_url": "https://tn.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F1-14-c3def8cc18d81790345889922-1790345964.jpg?auth=c57136ebeea096e1c03fc1076219c473cd6aa23b8135f665c02fbb8324564ec7",
+        "video_url": "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1909642",
+        "source_id": "tn",
+        "source_name": "Todo Noticias",
+        "source_priority": 6803,
+        "source_url": "https://tn.com.ar",
+        "source_icon": "https://i.newsdata.io/tn.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "8f7738126c3bba3af706ef2c9a2733e4",
+        "link": "https://latam.ign.com/marathon-2/114772/bungie-reconoce-marathon-fracaso-dificultad-extrema",
+        "title": "Bungie reconoce que Marathon fracasó en su estreno por ser \"demasiado difícil\"",
+        "description": "Desarrolladores de Bungie admiten que la elevada dificultad y el bucle de derrotas alejaron al público casual de Marathon tras su lanzamiento. Meses después del turbulento lanzamiento de Marathon en marzo de 2026, Bungie admitió abiertamente las razones detrás del bajo rendimiento del título . En un reciente documental, los principales creativos del estudio reconocieron que el juego fue diseñado con una dificultad excesiva que terminó ahuyentando a la audiencia general. El videojuego …",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "marathon",
+            "noticias"
+        ],
+        "creator": [
+            "diego valadez"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile",
+            "mexico",
+            "puerto rico",
+            "argentina",
+            "el salvador",
+            "venezuela",
+            "peru",
+            "paraguay"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 16:34:24",
+        "image_url": "https://sm.ign.com/ign_latam/screenshot/default/marathon1_k6mw.jpg",
+        "video_url": null,
+        "source_id": "ign_latam",
+        "source_name": "Ign Latinoamérica",
+        "source_priority": 121,
+        "source_url": "https://latam.ign.com",
+        "source_icon": "https://i.newsdata.io/ign_latam.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "83dcceb248b668dc806ede07c5e14730",
+        "link": "https://atarde.com.br/cultura/maior-mural-indigena-do-brasil-e-concluido-em-salvador-veja-fotos-1403449",
+        "title": "Maior mural indígena do Brasil é concluído em Salvador; veja fotos",
+        "description": "Salvador ganhou um mural de 200 metros de extensão na ligação Iguatemi–Paralela. Intitulada “Águas Ancestrais – Corpo-Rio, Território Vivo”, a obra foi criada pelos artistas indígenas Thiago Tupinambá, da Bahia, e Isa Muriá, do Pará, e já está concluída e entregue à população.A intervenção integra o Circuito de Murais do BRT - Arte como respiro, memória e território vivo em Salvador e ocupa uma extensa superfície de concreto em uma das áreas de maior circulação da cidade. Segundo a organização do projeto, trata-se do maior mural horizontal já realizado por artistas indígenas no Brasil. A iniciativa é realizada pela Prefeitura de Salvador, por meio da Fundação Gregório de Mattos, e pela Trevo Produções, com curadoria e concepção do Projeto MURAL - Movimento Urbano de Arte Livre.Mural transforma concreto em rioO conceito da obra parte do significado de origem Tupi-Guarani atribuído ao nome Iguatemi: “rio ondulante” ou “água que corre”. A partir dessa referência, os artistas construíram uma composição que reúne grafismos, figuras simbólicas, referências sonoras, memória e movimento.Um rio contínuo percorre visualmente os 200 metros do mural e conecta os diferentes elementos da pintura. Na narrativa proposta pela obra, a água funciona como elemento de ligação entre histórias, identidades e saberes ancestrais.O trabalho também estabelece uma relação com a história do território. Onde existia o Rio Camarajipe, o mural cria um “rio simbólico” que leva Carrancas do Rio São Francisco à região do Iguatemi. A composição também inclui altares sonoros, estabelecendo uma conexão entre a música de Salvador e referências à ancestralidade.Artistas de Bahia e Pará assinam obraA criação reúne trajetórias de dois artistas indígenas de diferentes regiões do país. Thiago Tupinambá é baiano, enquanto Isa Muriá é paraense. A proposta estabelece um diálogo entre referências culturais dos dois estados e leva ao espaço público uma produção contemporânea relacionada às identidades e à diversidade dos povos indígenas brasileiros.A presença dos dois artistas também coloca a autoria indígena no centro da intervenção. Em vez de uma representação produzida por terceiros, a obra é construída pelos próprios artistas a partir de referências culturais e narrativas ligadas às suas trajetórias.Obra passa a integrar paisagem de SalvadorCom a conclusão do mural, “Águas Ancestrais” passa a fazer parte da paisagem urbana da ligação Iguatemi–Paralela. A intervenção pode ser observada por motoristas, passageiros do transporte público, ciclistas e pedestres que circulam pelo trecho.A obra integra a segunda etapa do Circuito de Murais do BRT, que também tem ações em andamento no bairro do Itaigara. O projeto tem como proposta levar intervenções artísticas para áreas de circulação cotidiana da cidade.Veja fotos! 1 de 6 | Foto: Divulgação 2 de 6 | Foto: Divulgação 3 de 6 | Foto: Divulgação 4 de 6 | Foto: Divulgação 5 de 6 | Foto: Divulgação 6 de 6 | Foto: Divulgação Ficha técnica da obraObra: Águas Ancestrais – Corpo-Rio, Território VivoLocal: ligação Iguatemi–Paralela, Salvador, BahiaProjeto: Circuito de Murais do BRT - Arte Como Respiro, Memória e Território VivoArtistas: Thiago Tupinambá e Isa MuriáCuradoria: Vanessa Vieira/Projeto MURALCoordenação executiva: Marcos ClementProdução de campo: Gui CapriolliAssistentes de produção: Rubens Chagas - SuckAssistentes de pintura: Flávio Córtex, Pérola Aimée e Canário",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "cultura"
+        ],
+        "creator": [
+            "beatriz santos"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
         ],
         "category": [
             "lifestyle",
-            "politics"
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-24 16:28:00",
+        "pubDate": "2026-09-25 16:31:38",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:37:02",
-        "image_url": "https://media.minutouno.com/p/bf59b1e505ed09c83254eb130427a592/adjuntos/150/imagenes/043/662/0043662400/fallo-geriatrico-1.jpg",
+        "fetched_at": "2026-09-25 16:38:15",
+        "image_url": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/maior-mural-indigena-do-brasil-e-concluido-em-salv0140344900202609251331.jpg?xid=7244516",
         "video_url": null,
-        "source_id": "minutouno",
-        "source_name": "Minutouno",
-        "source_priority": 33172,
-        "source_url": "https://www.minutouno.com",
-        "source_icon": "https://i.newsdata.io/minutouno.png",
+        "source_id": "atarde",
+        "source_name": "A Tarde",
+        "source_priority": 57528,
+        "source_url": "https://www.atarde.com.br",
+        "source_icon": "https://i.newsdata.io/atarde.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -136,35 +169,19 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "一名退休人员将她的房子捐赠给邻居，他们将其遗弃在疗养院，正义从他们手中夺走了财产",
-        "description_zh": "这名妇女来自查斯科穆斯，没有孩子，正在经历健康问题，并将她唯一的财产交给了一对值得信赖的夫妇。"
+        "title_zh": "",
+        "description_zh": ""
     },
     {
-        "article_id": "9fb07a3bf1a99b9bd3315e936a314f2a",
-        "link": "https://www.campograndenews.com.br/cidades/capital/gaeco-deixa-garagem-com-dois-malotes-apos-1h30-de-buscas-na-bandeirantes",
-        "title": "Gaeco deixa garagem com dois malotes após 1h30 de buscas na Bandeirantes",
-        "description": "Após 1h30 de buscas em uma garagem de veículos na Avenida Bandeirantes, em Campo Grande, a equipe do Gaeco (Grupo de Atuação Especial de Repressão ao Crime Organizado) deixou o local levando dois malotes. Conforme o advogado da empresa, Hugo Henrique Oliveira Vicari, o alvo da Operação “Infiltrados” no endereço foi um dos funcionários da garagem. A ação, deflagrada nesta quinta-feira (24), investiga um esquema de desvio de drogas, especialmente cocaína, e cumpre 26 ordens de prisão. Segundo o advogado, os agentes apreenderam pertences do funcionário, além de um computador. Celulares e veículos também foram vistoriados durante a operação. “Não temos ciência ainda de todos os fatos para poder prestar tantos esclarecimentos. Mas a gente vai apurar o que o delegado vai avaliar, vai olhar os computadores, os celulares, os carros, para ver se tem alguma coisa que seja indício de crime organizado”, afirmou Hugo Henrique. O advogado também disse que, até o momento, não há indicação de envolvimento do proprietário da garagem no esquema investigado. “Até onde a gente sabe não tem envolvimento”, declarou. O proprietário não quis falar com a imprensa. A garagem foi alvo das buscas dentro da Operação “Infiltrados”, deflagrada pelo Gaeco para investigar policiais suspeitos de desviar drogas apreendidas e devolver os entorpecentes ao tráfico. A ofensiva cumpre mandados em Campo Grande, Dourados e Terenos. Segundo o Gaeco, a investigação começou em outubro de 2025, a partir de provas obtidas nas operações Traquetos e Blindspot. O grupo investigado teria omitido parte das drogas apreendidas nos registros oficiais ou retirado entorpecentes diretamente de depósitos de delegacias, para depois repassá-los a traficantes. Alvos - Um dos alvos é o delegado Hoffman D'Ávila Cândido e Sousa, que teria mandado de prisão em aberto, mas não foi encontrado até o momento. Equipes realizaram buscas na casa do servidor, e o advogado Amilton Ferreira acompanhou as diligências. Outro alvo foi o ex-policial Augusto Torres Galvão Florindo, conhecido como “Paraíba”, que já havia sido alvo de outra investigação envolvendo suspeita de irregularidades com materiais apreendidos. Conforme apurado pela reportagem, também foram presos Douglas Tobias, Nerverson Vieira de Araújo e Nelson Vieira de Araújo. O investigador Roberto Palmeiras da Silva também teve mandado de prisão expedido e, segundo a defesa, deve se apresentar durante a tarde.",
+        "article_id": "6574a99fa4ea68d1ea745a4fed195a0f",
+        "link": "https://extra.globo.com/economia/noticia/2026/09/governo-deve-propor-pena-de-ate-6-anos-de-prisao-a-quem-operar-bets.ghtml",
+        "title": "Governo deve propor pena de até 6 anos de prisão a quem operar bets",
+        "description": "O governo federal deve enviar ao Congresso Nacional um projeto de lei que criminaliza as bets e seus operadores. O texto prevê pena de prisão de até seis anos, além de multa, para quem explorar ou operar apostas on-line no Brasil, mesmo se ela tiver autorização de autoridade estrangeira. A proposta também prevê pena de prisão para quem fizer publicidade para as bets. A medida consta em projeto de lei que o presidente deve assinar nesta sexta-feira e que integra pacote da gestão petista contra as apostas. A nove dias do primeiro turno das eleições, o presidente anunciará nesta sexta-feira um pacote de medidas que buscam atacar o endividamento das famílias brasileiras e as bets, dois temas tratados como prioridade de Lula. Nos últimos dias, o petista intensificou o ataque às apostas esportivas e endureceu o discurso, afirmando que acabaria com elas. Além de uma medida provisória (MP) que deverá proibir as bets no país, o petista apresentará esse projeto de lei para criminalizar as bets e seus operadores acompanhado de uma segunda MP. Medidas provisórias têm a vigência imediata e precisam ser aprovadas pelo Congresso Nacional em até 120 dias para seguir valendo. Já um projeto de lei só entra em vigor após ser avaliado pelos parlamentares. Análise do Congresso Por isso, a proibição das bets deve valer imediatamente, já a criminalização depende da análise da Câmara e do Senado. O projeto de lei foi elaborado pelo Ministério da Justiça e Segurança Pública. O texto cria um crime específico para quem explorar ou operar apostas de quota fixa. Ele prevê pena de reclusão de quatro a seis anos, além de multa. Determina ainda que incorrem nessas penas quem “oferece, recebe, registra ou intermedeia apostas de quota fixa ou disponibiliza, mantém ou administra apostas de quota fixa, estabelecimento físico ou canal destinado à realização das apostas”. O projeto diz ainda que essa pena poderá ser aumentada em um terço se a aposta tiver por objeto “evento virtual de jogo on-line”. Para quem fizer divulgação, publicidade, propaganda, promoção comercial ou ação de marketing destinada a incentivar a realização das apostas terá pena de reclusão de dois a quatro anos, além de multa. Também estará sujeito a essas penas quem “capta, recruta, angaria, encaminha ou indica apostadores” para as bets e quem “patrocina, impulsiona ou monetiza, por qualquer meio, publicidade, propaganda, promoção comercial ou ação de marketing” de apostas de quota fixa. Ampliação da pena Nesse ponto, o projeto de lei diz ainda que a pena poderá ser aumentada em 50% quando a divulgação ou captação envolver promessa ou pagamento de remuneração, comissão ou participação nos valores apostados ou nas perdas dos apostadores vinculada ao cadastramento ou à captação de clientes O projeto também mira o uso de dados pessoais para atrair clientes para as bets. Pela proposta, passará a ser crime fornecer, transmitir, ceder, negociar, comercializar, selecionar, classificar, segmentar ou enriquecer dados pessoais com o objetivo de captar apostadores ou direcionar publicidade de apostas. A pena prevista também é de dois a quatro anos de reclusão e multa.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "garagem",
-            "atuação especial",
-            "campo",
-            "avenida bandeirantes",
-            "gaeco",
-            "crime organizado",
-            "1h30",
-            "veículos",
-            "levando",
-            "buscas",
-            "equipe",
-            "deixou",
-            "conforme",
-            "repressão",
-            "malotes"
+            "extra"
         ],
-        "creator": [
-            "por clara farias e viviane oliveira"
-        ],
+        "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
@@ -174,16 +191,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-24 16:28:00",
+        "pubDate": "2026-09-25 16:31:22",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 17:11:50",
-        "image_url": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/09/24/6ab5532220b5e.jpg",
+        "fetched_at": "2026-09-25 17:08:06",
+        "image_url": "https://s2-extra.glbimg.com/aDQi0FRFDPTnK_u4Cqx9sP8DwVU=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/V/R/bRmDBbQG2ubEVhRy3JFg/whatsapp-image-2026-08-31-at-17.52.38.avif",
         "video_url": null,
-        "source_id": "campograndenews",
-        "source_name": "Campo Grande News",
-        "source_priority": 139036,
-        "source_url": "https://www.campograndenews.com.br",
-        "source_icon": "https://i.newsdata.io/campograndenews.png",
+        "source_id": "extra_globo",
+        "source_name": "Extra | Extra Online",
+        "source_priority": 47133,
+        "source_url": "https://extra.globo.com",
+        "source_icon": "https://i.newsdata.io/extra_globo.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -191,311 +208,89 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "在 Bandeirantes 进行 1 小时 30 分的搜索后，Gaeco 带着两个袋子离开了车库",
-        "description_zh": "在大坎普 (Campo Grande) Avenida Bandeirantes 的一个车库进行了 1 小时 30 分的搜查后，Gaeco 团队（镇压有组织犯罪特别行动小组）带着两个袋子离开了现场。据该公司律师 Hugo Henrique Oliveira Vicari 称，“Infiltrados”行动的目标"
+        "title_zh": "",
+        "description_zh": ""
     },
     {
-        "article_id": "d59da8eb3c1c63e13fe31c575caf1a7f",
-        "link": "https://www.abcmais.com/opiniao/jackson-buonocore-os-abusadores-sexuais/",
-        "title": "JACKSON BUONOCORE: Os abusadores sexuais",
-        "description": "Trata-se de uma questão estrutural, em que a violência sexual se configura como um fenômeno enraizado na assimetria de gênero e no patriarcado",
+        "article_id": "787fad6953bf9898e34a84a4097e293e",
+        "link": "https://www.laopinioncoruna.es/sociedad/2026/09/25/reina-letizia-abre-curso-formacion-profesional-suma-1-24-millones-alumnos-134690534.html",
+        "title": "La reina Letizia abre el curso de Formación Profesional, que suma 1,24 millones de alumnos",
+        "description": "La reina Letizia ha presidido este viernes en el IES Ribera del Tajo de Talavera de la Reina (Toledo) la apertura del curso de Formación Profesional 2026-2027, unas enseñanzas que forman en España a 1,24 millones de alumnos, un 3,1 por ciento más que el curso anterior.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "opinião",
-            "artigo",
-            "novo hamburgo",
-            "nh",
-            "jackson buonocore"
+            "educación"
         ],
         "creator": [
-            "five.integracao"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:28:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:54:41",
-        "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/23/jackson_buonocore_site-22836531.jpg",
-        "video_url": null,
-        "source_id": "abcmais",
-        "source_name": "Abc+",
-        "source_priority": 5471397,
-        "source_url": "https://www.abcmais.com",
-        "source_icon": "https://i.newsdata.io/abcmais.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "JACKSON BUONOCORE：性虐待者",
-        "description_zh": "这是一个结构性问题，性暴力是一种植根于性别不对称和父权制的现象"
-    },
-    {
-        "article_id": "1c0e3e155d4067d15016a1624669c91e",
-        "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/o-senado-diante-da-crise-do-supremo/",
-        "title": "O Senado diante da crise do Supremo",
-        "description": "Que os próximos capítulos sejam conduzidos pela Constituição, pelo devido processo legal, pela transparência e pela responsabilidade institucional. E o tempo revelará se as instituições foram capazes de responder à crise fortalecendo ou enfraquecendo a confiança da sociedade na Justiça",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "francisco nascimento"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:27:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 17:04:21",
-        "image_url": "https://www.estadao.com.br/resizer/v2/FOWOAP73UZEFXAGSSTZNGYXXO4.JPG?auth=5666e25422a322b54c7c1d1050300085cd2604f45c904cc89613e869e76ec14c&smart=true&width=8192&height=5464",
-        "video_url": null,
-        "source_id": "estadao_br",
-        "source_name": "Estadao Br",
-        "source_priority": 13396,
-        "source_url": "https://www.estadao.com.br",
-        "source_icon": "https://i.newsdata.io/estadao_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "参议院面临最高法院危机",
-        "description_zh": "愿接下来的章节以宪法、正当法律程序、透明度和机构责任为指导。时间将揭示各机构是否能够通过加强或削弱社会对正义的信任来应对危机"
-    },
-    {
-        "article_id": "4a9d0f7131d3a6ff46320a14743d55e0",
-        "link": "https://www.omelete.com.br/series-tv/black-doves-netflix-2a-temporada-trailer",
-        "title": "Black Doves | 2ª temporada de série de espionagem com Keira Knightley ganha trailer; assista",
-        "description": "Black Doves | 2ª temporada de série de espionagem com Keira Knightley ganha trailer; assista",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "keira knightley",
-            "netflix",
-            "black doves 2ª temporada",
-            "black doves trailer",
-            "black doves",
-            "ben whishaw"
-        ],
-        "creator": [
-            "felipe rocha"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:27:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:36:21",
-        "image_url": "https://cdn.ome.lt/GT1bvC-u1e9OuzQZ4FZXtZWOmEY=/970x0/smart/filters:format(webp)/extras/conteudos/AAAAQQace8xfrhUEtBBPJtDr17BGfSMwOd922ua8fw1UiIh2CAhWUXuQ18AQ_NOmbQvHkkW4GRtDIkbphpFaB0eH0EDDHrn-SMmId4NGfU_snPzJTKpShNRITT0JQi-51F_Mtm2H4lEiM9RLSHhwLYo1kB-m.webp",
-        "video_url": null,
-        "source_id": "omelete_br",
-        "source_name": "Omelete",
-        "source_priority": 32316,
-        "source_url": "https://www.omelete.com.br",
-        "source_icon": "https://i.newsdata.io/omelete_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "黑鸽子|凯拉·奈特莉主演的间谍系列第二季发布预告片；手表",
-        "description_zh": "黑鸽子|凯拉·奈特莉主演的间谍系列第二季发布预告片；手表"
-    },
-    {
-        "article_id": "453fc3729ad23e868ead50bfc8afb145",
-        "link": "https://www.perfil.com/noticias/internacional/trump-recibio-con-honores-militares-a-xi-jinping-en-la-casa-blanca.phtml",
-        "title": "Trump recibió con honores militares a Xi Jinping en la Casa Blanca para tratar \"temas apremiantes\"",
-        "description": "Tras recibirlo este miércoles en el aeropuerto, Donald Trump este jueves le abrió las puertas de la Casa Blanca a Xi Jinping, presidente chino, con honores. Leer más",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "social issues"
-        ],
-        "creator": [
-            "macarena lizarraga"
+            "efe"
         ],
         "language": "spanish",
         "country": [
             "argentina"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:27:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 17:08:07",
-        "image_url": "https://fotos.perfil.com/2026/09/24/trim/540/304/donald-trump-xi-jinping-20260924-2333183.jpg",
-        "video_url": null,
-        "source_id": "perfil",
-        "source_name": "Perfil",
-        "source_priority": 56989,
-        "source_url": "https://www.perfil.com",
-        "source_icon": "https://i.newsdata.io/perfil.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "特朗普在白宫以军事礼节接见习近平，讨论“紧迫问题”",
-        "description_zh": "唐纳德·特朗普周三在机场接见他后，周四荣幸地向中国国家主席习近平打开了白宫大门。阅读更多"
-    },
-    {
-        "article_id": "5453aa2645dbd43a6a6ce765d0463521",
-        "link": "https://cinepop.com.br/johnny-depp-retorna-poderoso-no-trailer-legendado-de-sede-de-sangue-confira-767594/",
-        "title": "Johnny Depp retorna PODEROSO no trailer LEGENDADO de ‘Sede de Sangue’; Confira!",
-        "description": "A Paris Filmes divulgou o trailer legendado de ‘Sede de Sangue‘ (Day Drinker), suspense estrelado por Johnny Depp (‘Piratas do Caribe’) e Penélope Cruz (‘O Convite’). O longa será lançado nos cinemas nacionais no dia 25 de março de 2027. Confira: Marc Webb (‘O Espetacular Homem-Aranha’) é responsável pela direção, a partir de um roteiro […] A matéria foi vista no Johnny Depp retorna PODEROSO no trailer LEGENDADO de ‘Sede de Sangue’; Confira!",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "lionsgate",
-            "sede de sangue",
-            "manu rios",
-            "juan diego botto",
-            "anika boyle",
-            "zach dean",
-            "outer banks",
-            "day drinker",
-            "arón piper",
-            "johnny depp",
-            "madelyn cline",
-            "marc webb",
-            "penélope cruz",
-            "notícias",
-            "featured"
-        ],
-        "creator": [
-            "nefferson taveira"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:27:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:47:44",
-        "image_url": "https://cinepop.com.br/wp-content/uploads/2026/09/sede-de-sangue-johnny-depp.jpg",
-        "video_url": null,
-        "source_id": "cinepop",
-        "source_name": "Cinepop",
-        "source_priority": 647090,
-        "source_url": "https://cinepop.com.br",
-        "source_icon": "https://i.newsdata.io/cinepop.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "约翰尼·德普在《嗜血》的字幕预告片中强势回归；一探究竟！",
-        "description_zh": "巴黎电影公司发布了由约翰尼·德普（《加勒比海盗》）和佩内洛普·克鲁兹（《邀请》）主演的惊悚片《嗜血》（《白日饮酒者》）的字幕预告片。这部电影将于 2027 年 3 月 25 日在全国影院上映。 快来看看：马克·韦伯（《超凡蜘蛛侠》）负责"
-    },
-    {
-        "article_id": "f0dae0213be858e6666148ecf2033a0e",
-        "link": "https://www.mejorinformado.com/deportes/despues-15-anos-vuelve-rugido-mitico-autodromo-juan-manuel-fangio-reabre-puertas_1790267252",
-        "title": "Después de 15 años, vuelve el rugido: el mítico autódromo Juan Manuel Fangio reabre sus puertas",
-        "description": "El mítico autódromo de Balcarce reabre sus puertas este fin de semana tras una profunda renovación y recibirá nuevamente categorías nacionales. El circuito no tenía actividad de este nivel desde la última carrera de Turismo Carretera en 2011.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "juan manuel fangio",
-            "autódromo",
-            "automovilismo argentino",
-            "deportes",
-            "balcarce"
-        ],
-        "creator": [
-            "marcelo figueroa"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:27:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 17:16:20",
-        "image_url": "https://pxcdn.mejorinformado.com/mejorinformado/092026/1790266513985.jpg?cw=320&ch=180",
-        "video_url": null,
-        "source_id": "mejorinformado",
-        "source_name": "Mejorinformado",
-        "source_priority": 463646,
-        "source_url": "https://www.mejorinformado.com",
-        "source_icon": "https://i.newsdata.io/mejorinformado.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "15 年后，轰鸣声再次回归：传奇的胡安·曼努埃尔·方吉奥 (Juan Manuel Fangio) 赛道重新开放",
-        "description_zh": "传奇的巴尔卡斯赛马场经过彻底整修后于本周末重新开放，并将再次获得国家类别的奖项。自 2011 年上一届 Turismo Carretera 比赛以来，该赛道还没有进行过如此级别的活动。"
-    },
-    {
-        "article_id": "dbbb1eeab9a3db2b81234dd13bd03aae",
-        "link": "https://www.elcalbucano.cl/2026/09/jornada-de-socializacion-con-establecimientos-educacionales-de-maullin/",
-        "title": "Jornada de socialización con establecimientos educacionales de Maullín",
-        "description": "Jornada de socialización con establecimientos educacionales de Maullín La Oficina Local de la Niñez (OLN), en conjunto con el Hospital, DESAM y DAEM, organizó una jornada dirigida a directivos y profesionales de convivencia escolar de los establecimientos educacionales de la comuna. Durante el encuentro, los equipos del Hospital, DESAM y DAEM presentaron la ficha de […] La entrada Jornada de socialización con establecimientos educacionales de Maullín se publicó primero en Diario Digital El Calbucano .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "actualidad",
-            "_destacadas"
-        ],
-        "creator": [
-            "el calbucano"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
         ],
         "category": [
             "top",
             "education"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-24 16:27:58",
+        "pubDate": "2026-09-25 16:31:09",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:54:25",
-        "image_url": "https://www.elcalbucano.cl/wp-content/uploads/2026/09/821656404_2412060039327053_8958799674697996878_n.jpg",
+        "fetched_at": "2026-09-25 16:37:40",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9c5641f6-1042-49ec-8c84-c858379efd32_16-9-aspect-ratio_default_0_x1200y533.jpg",
         "video_url": null,
-        "source_id": "elcalbucano_cl",
-        "source_name": "Elcalbucano Cl",
-        "source_priority": 3536871,
-        "source_url": "https://www.elcalbucano.cl",
-        "source_icon": "https://i.newsdata.io/elcalbucano_cl.jpg",
+        "source_id": "laopinioncoruna",
+        "source_name": "La Opinión A Coruña",
+        "source_priority": 50098,
+        "source_url": "https://www.laopinioncoruna.es",
+        "source_icon": "https://i.newsdata.io/laopinioncoruna.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "dc90121f213ce67a4d226c15e58c38a0",
+        "link": "https://bichosdecampo.com/ya-se-cubrio-el-75-de-la-estimacion-oficial-argentina-de-importacion-de-soja-y-es-muy-probable-que-deba-ser-ajustada/",
+        "title": "Ya se cubrió el 75% de la estimación oficial argentina de importación de soja (y es muy probable que deba ser ajustada)",
+        "description": "En agosto pasado la molienda de soja en la Argentina –según datos oficiales– fue de 4,25 millones de toneladas, una cifra 8,8% superior a la del mismo mes de 2025. Las fábricas oleaginosas argentinas vienen haciendo grandes esfuerzos por originar poroto para aprovechar los buenos valores internacionales de la harina y el aceite de soja. […]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "procesamiento soja",
+            "molienda soja",
+            "soja argentina",
+            "soja paraguay",
+            "soja",
+            "soybean argentina",
+            "industria aceitera",
+            "soybean paraguay",
+            "valor soja"
+        ],
+        "creator": [
+            "valor soja"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:09",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 16:39:16",
+        "image_url": "https://bichosdecampo.com/wp-content/uploads/2022/03/SojaBarcazas.png",
+        "video_url": null,
+        "source_id": "bichosdecampo",
+        "source_name": "Bichos De Campo",
+        "source_priority": 79985,
+        "source_url": "https://bichosdecampo.com",
+        "source_icon": "https://i.newsdata.io/bichosdecampo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -503,39 +298,132 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "与毛林教育机构的社交日",
-        "description_zh": "与 Maullín 教育机构的社交日 地方儿童办公室 (OLN) 与医院、DESAM 和 DAEM 一起，为来自公社教育机构的主管和学校共存专业人员组织了一天。采访过程中"
+        "title_zh": "",
+        "description_zh": ""
     },
     {
-        "article_id": "6a5848919ee880e9c9fec172c4082866",
-        "link": "https://www.soyfutbol.com/noticias/juan-reynoso-respalda-a-joel-huiqui-en-cruz-azul-y-le-da-un-consejo-para-conservar-el-puesto-que-trate-de-hacer-amigos-20260924-0025.html",
-        "title": "Juan Reynoso respalda a Joel Huiqui en Cruz Azul y le da un consejo para conservar el puesto: Que trate de hacer amigos",
-        "description": "El entrenador que ganó la Novena defendió al actual técnico de La Máquina, aunque también habló de la importancia de las relaciones dentro del club.",
+        "article_id": "a150266e8440a73368b8f74c9653730c",
+        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/25/ze-neto-e-cristiano-cancelam-show-as-vesperas-da-eleicao-em-ribeirao-preto-sp.ghtml",
+        "title": "Zé Neto e Cristiano cancelam show às vésperas da eleição em Ribeirão Preto, SP",
+        "description": "Zé Neto e Cristiano em show na Festa Junina de Votorantim (SP) Divulgação / @off.contest A dupla Zé Neto e Cristiano cancelou o show marcado para o dia 3 de outubro em Ribeirão Preto. O anúncio foi feito no perfil dos sertanejos em uma rede social nesta sexta-feira (25). No comunicado, a dupla lamentou a decisão e informou que ela foi tomada por questões operacionais e de segurança ligadas às vésperas das eleições, que acontecem no dia 4 de outubro. “Especialmente as regras e possíveis restrições à comercialização de bebidas alcoólicas no período eleitoral, considerando que grande parte do evento funciona no formato open bar, e a necessidade de garantir o controle adequado do público, o deslocamento dos eleitores e a tranquilidade do pleito.” Faça parte do canal do g1 Ribeirão e Franca no WhatsApp Agora no g1 Ainda segundo a dupla, a decisão seguiu recomendações de órgãos públicos locais. Zé Neto e Cristiano passariam por Ribeirão Preto com o projeto 360, que conta com um palco no centro do espaço para deixar os artistas mais próximos do público. A apresentação aconteceria no Parque Permanente de Exposições. Política de reembolso A dupla também divulgou a política de reembolso para os fãs que já tinham comprado o ingresso. Segundo o comunicado, os consumidores receberão o dinheiro de volta de forma integral, incluindo as taxas de serviço e conveniência. “O estorno será processado automaticamente pela Bilheteria Digital, no mesmo meio de pagamento utilizado na compra”. Não é preciso solicitar o reembolso. Em caso de dúvidas, os fãs podem entrar em contato pelo e-mail atendimento@bilheteriadigital.com ou pelo telefone (21) 99740-5218. Veja mais notícias da região no g1 Ribeirão e Franca Vídeos: Tudo sobre Ribeirão Preto, Franca e região",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "noticias"
+            "g1"
+        ],
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:05",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 17:04:03",
+        "image_url": "https://s2-g1.glbimg.com/Hsw1GLROkqoG-3rrDevlD2Upjm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/e/LFdB2zRJeVLxxzn6bgxQ/off.contest-0771.jpg",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://i.newsdata.io/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "ddd1e176aebf01e2377669efbdcc4c86",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pacote-de-lula-contra-bets-tera-pena-de-prisao-para-quem-explorar-apostas-on-line.shtml",
+        "title": "Pacote de Lula contra bets terá pena de prisão para quem explorar apostas on-line",
+        "description": "O pacote contra as apostas on-line que o presidente Luiz Inácio Lula da Silva (PT) anunciará nesta sexta-feira (25) deve incluir pena de prisão para coibir a operação de empresas desse tipo, que ficaram conhecidas como bets. Leia mais (09/25/2026 - 13h31)",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "finance",
+            "& economics",
+            "lula",
+            "folha",
+            "bets no brasil",
+            "folha de s.paulo",
+            "endividamento",
+            "eleições",
+            "business",
+            "eleições 2026"
         ],
         "creator": [
-            "amarelle federico"
+            "caio spechoto",
+            "catia seabra"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "mexico"
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 17:03:05",
+        "image_url": "https://f.i.uol.com.br/fotografia/2026/09/25/17903534926ab6a0548aa4a_1790353492_3x2_md.jpg",
+        "video_url": null,
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://i.newsdata.io/folha.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "ca7615bb10156876973f560d9febef36",
+        "link": "https://www.meutimao.com.br/noticias-do-corinthians/540797/jovens-do-corinthians-estao-entre-jogadores-mais-valiosos-no-futebol-brasileiro-e-argentino",
+        "title": "Jovens do Corinthians estão entre jogadores mais valiosos no futebol brasileiro e argentino",
+        "description": "O Corinthians tem dois jogadores Sub-21 entre os mais valiosos do Brasil e da Argentina. O volante André Luiz (sexto colocado) e o atacante Gui Negão (sétima posição) integram a lista do CIES Football",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "futebol",
+            "esporte",
+            "corinthians",
+            "gui negão",
+            "andré luiz"
+        ],
+        "creator": [
+            "meu timão"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
         ],
         "category": [
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-24 16:27:54",
+        "pubDate": "2026-09-25 16:31:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 19:18:59",
-        "image_url": "https://www.soyfutbol.com/images-formats/1200x675/t_2-p_9-fpx_731-fpy_411/png/2026/09/24/tevez-juventus_psd_-_2026-09-24t132711_983.png",
+        "fetched_at": "2026-09-25 16:41:30",
+        "image_url": "https://cdn.meutimao.com.br/fotos-do-corinthians/w614/2026/09/19/andre_luiz_e_gui_negao_durante_treino_do_f5a8.jpg",
         "video_url": null,
-        "source_id": "soyfutbol",
-        "source_name": "Soyfutbol",
-        "source_priority": 877070,
-        "source_url": "https://www.soyfutbol.com",
-        "source_icon": "https://i.newsdata.io/soyfutbol.png",
+        "source_id": "meutimao",
+        "source_name": "Meu Timão",
+        "source_priority": 142685,
+        "source_url": "https://www.meutimao.com.br",
+        "source_icon": "https://i.newsdata.io/meutimao.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -543,39 +431,38 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "胡安·雷诺索在《蓝色十字》中支持乔尔·惠基，并给他保住工作的建议：尝试交朋友",
-        "description_zh": "赢得诺维娜奖的教练为现任拉马奎纳教练辩护，尽管他也谈到了俱乐部内部关系的重要性。"
+        "title_zh": "",
+        "description_zh": ""
     },
     {
-        "article_id": "6c06a202fe1af57bc22f854b78527334",
-        "link": "https://www.record.com.mx/historia/inegi-revela-que-16-millones-de-mexicanos-fueron-desplazados-por-inseguridad-2026092416275108932",
-        "title": "INEGI revela que 1.6 millones de mexicanos fueron desplazados por inseguridad",
-        "description": "INEGI revela que 1.6 millones de mexicanos fueron desplazados por inseguridad",
+        "article_id": "b8e71c0d10bbd7404e107cc1a79b153a",
+        "link": "https://pulsoslp.com.mx/slp/ordenes-judiciales-incumplidas-denuncian-madres-en-san-luis-potosi/2089317",
+        "title": "Órdenes judiciales incumplidas denuncian madres en San Luis Potosí",
+        "description": "En San Luis Potosí, madres denuncian incumplimiento de órdenes judiciales y problemas en procesos familiares.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "contra"
-        ],
+        "keywords": null,
         "creator": [
-            "redacción"
+            "pulso slp"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "sports"
+            "top",
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-24 16:27:51",
+        "pubDate": "2026-09-25 16:32:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 17:05:23",
-        "image_url": null,
+        "fetched_at": "2026-09-25 18:25:13",
+        "image_url": "https://blobcore.pulsoslp.com.mx/images/2026/09/25/madres-denuncian-trabas-judiciales-en-casos-de-violencia-vicaria-de3c80d2-focus-0-0-600-315.webp",
         "video_url": null,
-        "source_id": "record",
-        "source_name": "Record",
-        "source_priority": 21395,
-        "source_url": "https://www.record.com.mx",
-        "source_icon": "https://i.newsdata.io/record.png",
+        "source_id": "pulsoslp_mx",
+        "source_name": "Pulso Diario San Luis",
+        "source_priority": 3206842,
+        "source_url": "https://www.pulsoslp.com.mx",
+        "source_icon": "https://i.newsdata.io/pulsoslp_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -583,40 +470,40 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "INEGI透露，160万墨西哥人因不安全局势而流离失所",
-        "description_zh": "INEGI透露，160万墨西哥人因不安全局势而流离失所"
+        "title_zh": "",
+        "description_zh": ""
     },
     {
-        "article_id": "ac5e2ccb83c50aff8355bedc017c9b09",
-        "link": "https://www.tvazteca.com/aztecauno/estilo-de-vida/4-cortes-cabello-capas-volumen-movimiento-pelo/",
-        "title": "4 cortes de cabello en capas que aportan volumen y movimiento al pelo",
-        "description": "Los cortes de cabello en capas son una alternativa ideal para renovar el look, aportar movimiento y conseguir una melena con volumen y un acabado moderno.",
+        "article_id": "25ccc29a6009763b156f1e2404a4e47f",
+        "link": "https://www.informador.mx/mexico/huracan-odalys-se-intensifica-y-alcanza-la-categoria-4-afecta-a-mexico-20260925-0066.html",
+        "title": "Huracán Odalys se intensifica y alcanza la categoría 4: ¿afecta a México?",
+        "description": "El ciclón registra vientos de 215 km/h frente a las costas de Baja California Sur, mientras las autoridades vigilan su trayectoria",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "estilo de vida"
+            "méxico"
         ],
         "creator": [
-            "julieta garcía | marktube"
+            "anelsolis"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "lifestyle",
+            "environment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-24 16:27:51",
+        "pubDate": "2026-09-25 16:32:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:35:19",
-        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/e4/35/7eef179843b3ae047161b9e588a3/estilo-de-vidaclaves-cuidado-piel-50-anos-1.png",
+        "fetched_at": "2026-09-25 16:35:28",
+        "image_url": "https://www.informador.mx/__export/1790353739491/sites/elinformador/img/2026/09/25/hurac-n_odalys_se_intensifica_y_alcanza_la_categor-a_4_-afecta_a_m-xico_version1790353714957.jpg_1300221565.jpg",
         "video_url": null,
-        "source_id": "tvazteca",
-        "source_name": "Azteca Deportes",
-        "source_priority": 17594,
-        "source_url": "https://www.tvazteca.com",
-        "source_icon": "https://i.newsdata.io/tvazteca.png",
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://i.newsdata.io/informador_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -624,230 +511,21 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "4 种分层发型，增加头发的体积和动感",
-        "description_zh": "分层发型是焕然一新、动感动感、打造丰盈秀发、现代感的理想选择。"
+        "title_zh": "",
+        "description_zh": ""
     },
     {
-        "article_id": "e22d873f2d376701e3350c6875002bd7",
-        "link": "https://americamonumental.bolavip.com/noticias/santiago-bueno-revelo-si-esta-listo-o-no-para-debutar-con-america-estoy-preparado-para",
-        "title": "Santiago Bueno reveló si está listo o no para debutar con América: “Estoy preparado para…”",
-        "description": "El defensor uruguayo se declara listo tras una adaptación exitosa y se espera lo mejor para este Apertura 2026. América no falló en decantarse por el fichaje de Santiago Bueno para la central por derecha, un elemento uruguayo con experiencia europea , mundialista y con un gran físico, que sin duda alguna encajará perfecto en lo que pretende Guillermo Almada en la parte defensiva. Sin embargo, el americanismo no lo ha podido ver en acción en el Apertura 2026 , pero platicando con TUDN, el zaguero charrúa rompió el silencio tras estas primeras semanas adaptándose a la altura y dejó en claro que está listo para jugar cuando se requiera . Santiago Bueno se declara adaptado para jugar “ He hecho una gran pretemporada en Wolverhampton , eso fue bueno para llegar aquí con una base, obviamente que la altura se nota un poco para los jugadores que no están acostumbrados a la altura , pero con estas semanas de entrenamiento, con el cuerpo técnico, hicimos un buen trabajo y estoy preparado para jugar “, expresó. Santiago Bueno se perfila para sumar pronto sus primeros minutos como azulcrema. Santiago Bueno y los desafíos que aceptó al fichar por América Fue en entrevista, previo al juego ante Necaxa, donde Bueno se dio tiempo de hablar al respecto de lo que está siendo su situación en América , pues como ya se sabe, apenas tiene un par de semanas en Coapa, pero el charrúa sabe bien dónde ha aterrizado. “ Muy contento de llegar a este club tan grande , tan reconocido mundialmente, para mí es un gran desafío , que espero poder estar a la altura, creo que estoy bien preparado para darlo todo “, expresó el zaguero uruguayo para TUDN, con lo cual el americanismo pudo conocer más sobre su nuevo central.",
+        "article_id": "da2287ffd5d0283ff0c262b971d993a2",
+        "link": "https://www.rockandpop.cl/2026/09/dia-del-cine-tendra-entradas-desde-2-000-en-todo-chile-conoce-las-fechas-y-peliculas-disponibles/",
+        "title": "Día del Cine tendrá entradas desde $2.000 en todo Chile: Conoce las fechas y películas disponibles",
+        "description": "Si estabas esperando una oportunidad para volver al cine, septiembre terminará con una promoción especial que se extenderá por tres días en todo Chile. El próximo 28, 29 y 30 de septiembre se realizará una nueva edición de El Día del Cine, iniciativa que permitirá acceder a funciones con entradas desde $2.000. Además, permitirá disfrutar Leer más... from Día del Cine tendrá entradas desde $2.000 en todo Chile: Conoce las fechas y películas disponibles La entrada Día del Cine tendrá entradas desde $2.000 en todo Chile: Conoce las fechas y películas disponibles se publicó primero en Rock&Pop .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
+            "cine",
             "noticias"
         ],
         "creator": [
-            "jorge dennis"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:27:44",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:33:25",
-        "image_url": "https://media.bolavip.com/wp-content/uploads/sites/13/2026/09/24102113/Santiago-Bueno-3-1200x740.jpg",
-        "video_url": null,
-        "source_id": "americamonumental",
-        "source_name": "Aguilas Monumental",
-        "source_priority": 10308,
-        "source_url": "https://americamonumental.bolavip.com",
-        "source_icon": "https://i.newsdata.io/americamonumental.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "圣地亚哥·布埃诺 (Santiago Bueno) 透露了他是否准备好在美国首次亮相：“我准备……”",
-        "description_zh": "乌拉圭后卫在成功适应后宣布自己已经做好了准备，并期待在 2026 年的开赛中取得最好的成绩。美国队并没有放弃在右中锋位置上签下圣地亚哥·布埃诺（Santiago Bueno），这位拥有欧洲和世界杯经验且体格出色的乌拉圭球员无疑将"
-    },
-    {
-        "article_id": "f7b5fd0921f8f6b39ddec54f3273d40b",
-        "link": "https://www.soyfutbol.com/noticias/dagoberto-espinoza-recibe-el-llamado-de-rafa-marquez-al-tri-por-una-baja-inesperada-cuando-reportara-20260924-0026.html",
-        "title": "Dagoberto Espinoza recibe el llamado de Rafa Márquez al Tri por una baja inesperada: ¿cuándo reportará?",
-        "description": "El americanista fue convocado de última hora para cubrir una ausencia en la Selección Mexicana, aunque primero deberá cumplir con un compromiso de Liga MX.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "noticias"
-        ],
-        "creator": [
-            "franco emilio layus"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:27:41",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 19:18:59",
-        "image_url": "https://www.soyfutbol.com/images-formats/1200x675/t_2-p_9-fpx_600-fpy_370/jpg/2026/09/24/images_-5-.jpg",
-        "video_url": null,
-        "source_id": "soyfutbol",
-        "source_name": "Soyfutbol",
-        "source_priority": 877070,
-        "source_url": "https://www.soyfutbol.com",
-        "source_icon": "https://i.newsdata.io/soyfutbol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "达戈韦托·埃斯皮诺萨因意外缺席而接到拉法·马尔克斯·阿尔特里的电话：他什么时候报到？",
-        "description_zh": "这位美国球员在最后一刻被征召参加墨西哥国家队，尽管他必须首先履行墨西哥足球甲级联赛的承诺。"
-    },
-    {
-        "article_id": "3283205181fc38be555138a75612cec4",
-        "link": "https://www.elheraldo.co/deportes/2026/09/24/el-supermetro-toma-forma-ya-alcanza-el-89/",
-        "title": "El ‘Supermetro’ toma forma: “ya alcanza el 89 %”",
-        "description": "La intervención del escenario deportivo avanza hacia su etapa definitiva con la estructura general prácticamente culminada.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estadio-metropolitano-roberto-melendez",
-            "junior",
-            "supermetro",
-            "estadio-metropolitano",
-            "metro"
-        ],
-        "creator": [
-            "redacción deportes"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:27:40",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:37:01",
-        "image_url": "https://www.elheraldo.co/resizer/v2/U7ELMJN7RBFM7AGAYZFFHIXRDM.jpeg?auth=08b10b957478457ac2d7de6bde97643b9d6fcf84ccf502ba0074fab48da4044f&smart=true&width=1280&height=854",
-        "video_url": null,
-        "source_id": "elheraldo",
-        "source_name": "Elheraldo",
-        "source_priority": 38752,
-        "source_url": "https://www.elheraldo.co",
-        "source_icon": "https://i.newsdata.io/elheraldo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "“超级地铁”初具规模：“已达89%”",
-        "description_zh": "体育场景的介入已进入最后阶段，总体结构已基本完成。"
-    },
-    {
-        "article_id": "08a16187ee4a824dfa332e799b1309be",
-        "link": "https://www.futbolsapiens.com/actualidad-futbol-mexicano/almeyda-carga-contra-la-liga-mx-por-no-parar-en-la-fecha-fifa-video/",
-        "title": "Almeyda carga contra la Liga MX por no parar en la fecha FIFA | VIDEO",
-        "description": "Almeyda carga contra la Liga MX por no parar en la fecha FIFA | VIDEO Matías Almeyda, técnico del Monterrey, se mostró molesto porque la Liga MX no paró por la fecha FIFA de este fin de semana. «Vamos a extrañar a nuestros seleccionados. El campeonato se debió parar porque son jugadores muy importantes para […] La entrada Almeyda carga contra la Liga MX por no parar en la fecha FIFA | VIDEO aparece primero en Futbol Sapiens .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "actualidad futbol mexicano",
-            "liga mx",
-            "matías almeyda"
-        ],
-        "creator": [
-            "gianfranco ruggiero"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:27:38",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:51:16",
-        "image_url": "https://www.futbolsapiens.com/wp-content/uploads/2026/09/Matias-Almeyda-Rayados.jpg",
-        "video_url": null,
-        "source_id": "futbolsapiens",
-        "source_name": "Futbolsapiens",
-        "source_priority": 1504773,
-        "source_url": "https://www.futbolsapiens.com",
-        "source_icon": "https://i.newsdata.io/futbolsapiens.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "阿尔梅达指控墨西哥足球俱乐部未在国际足联比赛日期停止比赛视频",
-        "description_zh": "阿尔梅达指控墨西哥足球俱乐部未在国际足联比赛日期停止比赛视频 蒙特雷队主教练马蒂亚斯·阿尔梅达 (Matías Almeyda) 很不高兴，因为墨西哥足球甲级联赛本周末没有停下来参加国际足联的比赛。 «我们会想念我们的团队。锦标赛不得不停止，因为他们是非常重要的球员。"
-    },
-    {
-        "article_id": "07beb6329d1bff1ff3a15a7b06ec60fc",
-        "link": "https://forbes.com.mx/todo-apunta-a-que-infantino-seguira-pero-la-fifa-se-enfrenta-a-una-nueva-guerra-de-poder/",
-        "title": "Todo apunta a que Infantino seguirá, pero la FIFA se enfrenta a una nueva guerra de poder",
-        "description": "Destacadas figuras del fútbol mundial perciben cada vez más que la crisis está dejando de centrarse en la sucesión para convertirse en una pugna sobre las condiciones de su continuidad en el cargo.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "presidencia fifa",
-            "infantino",
-            "selección forbes"
-        ],
-        "creator": [
-            "forbes méxico staff"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-24 16:27:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:34:38",
-        "image_url": "https://cdn.forbes.com.mx/2026/07/GIANNI-INFANTINO-1.webp",
-        "video_url": null,
-        "source_id": "forbes_mx",
-        "source_name": "Forbes Mx",
-        "source_priority": 23981,
-        "source_url": "https://www.forbes.com.mx",
-        "source_icon": "https://i.newsdata.io/forbes_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "一切都表明因凡蒂诺将继续，但国际足联面临新的权力战争",
-        "description_zh": "世界足坛的知名人士越来越认识到，这场危机不再关注接班人问题，而​​是一场围绕其任期连续性条件的斗争。"
-    },
-    {
-        "article_id": "c7e802568767e30899f3590413ae7489",
-        "link": "https://redgol.cl/alexis/alexis-sanchez-comienza-colmar-la-paciencia-en-el-montreal",
-        "title": "Alexis Sánchez comienza colmar la paciencia en el Montreal: “No ha sido influyente”",
-        "description": "El delantero chileno está comenzado a recibir las primeras críticas de los medios canadienses por su discreto inicio en la MLS. Alexis Sánchez ha tenido un discreto inicio de campaña con la camiseta del Montreal . En nueve partidos el Niño Maravilla no ha podido marcar diferencias en un club que necesita resultados urgentes para comenzar a soñar por un lugar en los playoffs. El equipo del chileno lleva cinco derrotas al hilo en la MLS y apenas ha ganado en una de sus últimas siete presentaciones . Con 21 puntos es el colista absoluto de la Conferencia Este y está a lejanas doce unidades de meterse en puestos de postemporada. Por lo mismo ya están comenzando a salir las primeras críticas contra el tocopillano, quien a pesar de tener encima altas expectativas en poder darle un salto de calidad a su club, esa mejora todavía brilla por su ausencia. Las críticas que Alexis Sánchez recibe en Canadá Fue en el podcast quebequense Plein Axe donde el chileno recibió duras críticas. Olivier Brett, quien además es columnista del portal RDA y de BPM Sports Radio, aseguró que “ juzgar nunca es bueno, pero evaluar, eso te da una foto auténtica, y es totalmente correcto ”. “ Si evalúas a Alexis Sánchez en este momento, él no ha sido influyente , no había conexión entre el puntero izquierdo del CF Montréal (Sánchez) y el lado contrario”, agregó Brett. Alexis Sánchez todavía no suma ni goles ni asistencias con la camiseta del Montreal. | Foto: Getty Images. En ese mismo espacio su colega Frédéric Lord afirmó que “ hay que poner a Alexis Sánchez, si quiere repartir más juego y hacer jugadas combinadas. No es una influencia por la izquierda del ataque, en este momento. Eso es sintonía fina, también es experiencia, entre la dirección deportiva y lo que tu entrenador puede hacer con esa información”. Cabe destacar que Alexis Sánchez ya suma nueve partidos en el Montreal, siendo siete por la MLS y dos por el Canadian Championship. En 397 minutos de acción el delantero de 37 años no suma ni goles ni asistencias. El próximo partido del Montreal de Alexis Sánchez El equipo del chileno volverá a la acción este Cincinnati este sábado 26 de septiembre a las 20:30 (hora de Chile) en el Estadio Saputo. Este duelo será válido por la fecha 27 de la MLS. En síntesis Alexis Sánchez registra cero goles y cero asistencias en nueve partidos con el CF Montreal. CF Montreal ocupa el último lugar de la Conferencia Este acumulando cinco derrotas consecutivas. CF Montreal enfrentará a Cincinnati este sábado 26 de septiembre a las 20:30 horas.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "alexis sánchez"
-        ],
-        "creator": [
-            "patricio echagüe"
+            "paz henríquez"
         ],
         "language": "spanish",
         "country": [
@@ -855,19 +533,19 @@
         ],
         "category": [
             "top",
-            "politics"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-24 16:27:34",
+        "pubDate": "2026-09-25 16:31:52",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-24 16:41:55",
-        "image_url": "https://media.redgol.cl/wp-content/uploads/sites/8/2026/09/24132623/alexis-sanchez-montreal-5-1200x740.jpg",
+        "fetched_at": "2026-09-25 16:45:10",
+        "image_url": "https://www.rockandpop.cl/wp-content/uploads/2026/09/Dia-del-Cine.webp",
         "video_url": null,
-        "source_id": "redgol_cl",
-        "source_name": "Red Gol",
-        "source_priority": 179990,
-        "source_url": "https://redgol.cl",
-        "source_icon": "https://i.newsdata.io/redgol_cl.png",
+        "source_id": "rockandpop_cl",
+        "source_name": "Rock And Pop Chile",
+        "source_priority": 280498,
+        "source_url": "https://www.rockandpop.cl",
+        "source_icon": "https://i.newsdata.io/rockandpop_cl.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -875,7 +553,307 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
-        "title_zh": "亚历克西斯·桑切斯开始在蒙特利尔填补他的耐心：“他没有影响力”",
-        "description_zh": "这位智利前锋开始因其在美国职业足球大联盟的谨慎开局而首次受到加拿大媒体的批评。亚历克西斯·桑切斯 (Alexis Sánchez) 身穿蒙特利尔球衣在本赛季开局谨慎。在九场比赛中，神奇男孩未能在需要帮助的俱乐部中发挥作用"
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "1b78a9d51f947da946f7bbae2ef73aad",
+        "link": "https://www.latercera.com/politica/noticia/ojos-de-la-llave-barros-en-un-tanque-a-lo-bachelet-lo-que-se-no-vio-de-la-gira-de-kast-y-el-homenaje-a-la-expresidenta/",
+        "title": "Ojos de la llave: Barros en un tanque a lo Bachelet, lo que se no vio de la gira de Kast y el homenaje a la expresidenta",
+        "description": "En una semana marcada por el viaje del Presidente a Estados Unidos y el fracaso legislativo en la agenda de seguridad, hubo varios episodios que pasaron desapercibidos o que fueron controvertidos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "política"
+        ],
+        "creator": [
+            "la tercera"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 16:36:51",
+        "image_url": "https://www.latercera.com/resizer/v2/BA5OBAVVYNFSBEA3DFUPRQHYJM.jpg?auth=6d9d33950c15b20bed63ac4757eb8be2a43a63bd82f2c2d0ea00e8cf041c745e&smart=true&width=1870&height=1305",
+        "video_url": null,
+        "source_id": "latercera",
+        "source_name": "Latercera",
+        "source_priority": 32330,
+        "source_url": "https://www.latercera.com",
+        "source_icon": "https://i.newsdata.io/latercera.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "817a95461a4be30f4b819a797fb813dd",
+        "link": "https://oem.com.mx/la-prensa/metropoli/linea-7-del-metro-tenis-atorado-en-escalera-electrica-obliga-a-suspender-su-servicio-32270463",
+        "title": "Línea 7 del Metro: Tenis atorado en escalera eléctrica obliga a suspender su servicio",
+        "description": "El Metro reportó que 95% de las 467 escaleras eléctricas de la Red se encuentran disponibles y llamó a los usuarios a evitar accidentes por el uso incorrecto de los equipos",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "metropoli"
+        ],
+        "creator": [
+            "aurelio sánchez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:43",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 21:50:01",
+        "image_url": "https://oem.com.mx/la-prensa/img/32271059/1790353488/BASE_LANDSCAPE/400/image.jpg",
+        "video_url": null,
+        "source_id": "la_prensa_mx",
+        "source_name": "La Prensa",
+        "source_priority": 889435,
+        "source_url": "https://www.la-prensa.com.mx",
+        "source_icon": "https://i.newsdata.io/la_prensa_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "8e0cade09ef24ed196db4e6301092342",
+        "link": "https://www.noroeste.com.mx/deportes/futbol/el-manchester-city-encontrado-culpable-de-mas-de-100-irregularidades-financieras-NJ25979747",
+        "title": "El Manchester City, encontrado culpable de más de 100 irregularidades financieras",
+        "description": "El Manchester City ha sido encontrado culpable de más de un centenar de irregularidades financieras, unos cargos que arrastra desde 2023, según adelantó este viernes The Athletic y publicaron otros medios deportivos. Aunque el City había negado reiteradamente las acusaciones, la comisión independiente que falló sobre el caso consideró al club de Mánchester culpable en prácticamente todos los casos (130) en que había sospechas, señalan las mismas fuentes. Por el momento, no se han formulado sanciones, ya que esto se decidirá en una etapa posterior. Estas sanciones, recogidas en el Manual de la Premier League inglesa, pueden ir desde una mera advertencia a una retirada de puntos en el campeonato o, en el caso más extremo, incluso la expulsión de la competición. Incluso la retirada de puntos puede aplicarse con efectos retroactivos, lo que podría costarle al club hasta la pérdida de algunos títulos, siempre según The Athletic. La Premier League acusó en febrero de 2023 al City de no proporcionar información financiera precisa ni los detalles correctos de pagos a entrenadores y jugadores entre las temporadas 2009-2010 y 2017-2018, de no cumplir con el ‘fair play’ financiero de la UEFA entre 2009 y 2018, y con el de la Premier League en las campañas 2015-2016 y 2017-2018. Igualmente, de no cooperar con las investigaciones de la Premier que se desarrollaron entre diciembre de 2018 y febrero de 2023. El City negó todos los cargos y contrató a algunos de los mejores abogados especializados en deporte en el Reino Unido para tratar de limpiar su nombre y evitar las sanciones. En la década que ha investigado la Premier League, es decir, entre la campaña 2009-2010 y la 2017-2018, el City ganó tres ligas, una Copa de Inglaterra y tres Copas de la Liga .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "futbol",
+            "manchester city",
+            "premier league",
+            "manchester",
+            "noroeste/redacción"
+        ],
+        "creator": [
+            "noroeste/redacción"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 02:49:17",
+        "image_url": "https://www.noroeste.com.mx/binrepository/manchester-city_1-14571885_20260925093105.jpg",
+        "video_url": null,
+        "source_id": "noroeste",
+        "source_name": "Noroeste",
+        "source_priority": 841816,
+        "source_url": "https://www.noroeste.com.mx",
+        "source_icon": "https://i.newsdata.io/noroeste.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "8f7738126c3bba3af706ef2c9a2733e4",
+        "link": "https://latam.ign.com/marathon-2/114772/bungie-reconoce-marathon-fracaso-dificultad-extrema",
+        "title": "Bungie reconoce que Marathon fracasó en su estreno por ser \"demasiado difícil\"",
+        "description": "Desarrolladores de Bungie admiten que la elevada dificultad y el bucle de derrotas alejaron al público casual de Marathon tras su lanzamiento. Meses después del turbulento lanzamiento de Marathon en marzo de 2026, Bungie admitió abiertamente las razones detrás del bajo rendimiento del título . En un reciente documental, los principales creativos del estudio reconocieron que el juego fue diseñado con una dificultad excesiva que terminó ahuyentando a la audiencia general. El videojuego …",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "marathon",
+            "noticias"
+        ],
+        "creator": [
+            "diego valadez"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile",
+            "mexico",
+            "puerto rico",
+            "argentina",
+            "el salvador",
+            "venezuela",
+            "peru",
+            "paraguay"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 16:34:24",
+        "image_url": "https://sm.ign.com/ign_latam/screenshot/default/marathon1_k6mw.jpg",
+        "video_url": null,
+        "source_id": "ign_latam",
+        "source_name": "Ign Latinoamérica",
+        "source_priority": 121,
+        "source_url": "https://latam.ign.com",
+        "source_icon": "https://i.newsdata.io/ign_latam.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "8badf86388a7b0d968e2b44544db734c",
+        "link": "https://tribunademexico.com/bandas-nubosas-de-odalys-se-sumaran-a-polo-sin-confirmar-aun-el-efecto-fujiwhara/",
+        "title": "Bandas nubosas de Odalys se sumarán a Polo sin confirmar aún el efecto Fujiwhara",
+        "description": "Por ahora no está confirmado que exista una interacción directa entre los dos huracanes ni que vaya a presentarse el efecto Fujiwhara. Lo que sí se observa es la aproximación de sus extensas bandas nubosas, con Odalys acercando parte de su estructura al sistema de Polo El cargo Bandas nubosas de Odalys se sumarán a Polo sin confirmar aún el efecto Fujiwhara apareció primero en Tribuna de México .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nacional",
+            "méxico"
+        ],
+        "creator": [
+            "carlos puelma"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:39",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 16:49:00",
+        "image_url": "https://storage.googleapis.com/tribunamexico-secure/2026/09/cp-bandas-nubosas-odalys-polo.jpg.webp",
+        "video_url": null,
+        "source_id": "tribunademexico",
+        "source_name": "Tribuna De México",
+        "source_priority": 697716,
+        "source_url": "https://tribunademexico.com",
+        "source_icon": "https://i.newsdata.io/tribunademexico.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "1132f9c756e7928da8f47e00b921cd41",
+        "link": "https://www.theclinic.cl/2026/09/25/como-se-gesto-la-declaracion-conjunta-entre-boric-y-bachelet-y-el-retorno-al-debate-nacional-de-la-expresidenta-tras-su-fallida-nominacion-a-la-onu/",
+        "title": "Cómo se gestó la declaración conjunta entre Boric y Bachelet y el retorno al debate nacional de la expresidenta tras su fallida nominación a la ONU",
+        "description": "El líder frenteamplista y la militante socialista tienen un contacto permanente, según afirman en su entorno, por lo que la redacción de un documento conjunto para cuestionar la decisión del Presidente José Antonio Kast de sumarse al Escudo de las Américas no tomó mucho tiempo. El documento surgió ante la necesidad de marcar un \"punto\" sobre lo que podría significar la alianza en la soberanía de Chile. The post Cómo se gestó la declaración conjunta entre Boric y Bachelet y el retorno al debate nacional de la expresidenta tras su fallida nominación a la ONU appeared first on The Clinic .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "política",
+            "michelle bachelet",
+            "josé antonio kast",
+            "gabriel boric"
+        ],
+        "creator": [
+            "jorge palacios"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 16:41:39",
+        "image_url": "https://static.theclinic.cl/media/2026/09/25-161139_gorx_Boric-y-Bachelet.jpg",
+        "video_url": null,
+        "source_id": "theclinic",
+        "source_name": "The Clinic",
+        "source_priority": 129373,
+        "source_url": "https://www.theclinic.cl",
+        "source_icon": "https://i.newsdata.io/theclinic.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "9b8102bbf3f547b2a34fb410d228a4e8",
+        "link": "https://www.diariodelsur.com.co/como-preparar-granola-de-chocolate-casera/",
+        "title": "Como preparar granola de chocolate casera",
+        "description": "Ingredientes Preparación Tip: si quieres una granola con trozos grandes y crujientes, presiona bien la mezcla contra la bandeja antes de hornearla y evita removerla durante la cocción. La entrada Como preparar granola de chocolate casera se publicó primero en Diario del Sur .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "noticias"
+        ],
+        "creator": [
+            "sandra ortiz"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "food"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-25 16:31:33",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-25 16:49:33",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "diariodelsur",
+        "source_name": "Diario Del Sur",
+        "source_priority": 832974,
+        "source_url": "http://diariodelsur.com.co",
+        "source_icon": "https://i.newsdata.io/diariodelsur.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
     }
 ]
