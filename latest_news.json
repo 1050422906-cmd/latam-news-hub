@@ -1,15 +1,15 @@
 [
     {
-        "article_id": "2d99d09dd7dffd5668a08bec8e8e3dab",
-        "link": "https://jc.uol.com.br/politica/2026/09/25/no-recife-lula-promete-fim-das-bets-combate-ao-feminicidio-e-chama-familia-bolsonaro-de-traidores.html",
-        "title": "No Recife, Lula promete fim das bets, combate ao feminicídio e chama família Bolsonaro de 'traidores'",
-        "description": "O petista também citou ações dos governos dele, defendeu aumento real do salário mínimo e falou sobre a própria trajetória em Pernambuco",
+        "article_id": "f4c711fa60cb48ad1f53ee825f1be8ec",
+        "link": "https://www.folhavitoria.com.br/politica/flavio-pede-prisao-de-coordenador-da-secom-por-incentivar-fake-news-sobre-n-s-aparecida/",
+        "title": "Flávio pede prisão de coordenador da Secom por incentivar fake news sobre N. S. Aparecida",
+        "description": "Flávio Bolsonaro - Foto: Lula Marques/Agência Brasil A campanha do senador e candidato à presidência da República, Flávio Bolsonaro (PL), pediu a prisão preventiva de George Marques da Silva e Silva, coordenador-geral de Estratégia e Informação da Secretaria de Comunicação Social da Presidência (Secom), por incentivar a divulgação de informações falsas sobre o candidato. O pedido foi apresentado ao Ministério Público Eleitoral. […]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "eleições 2026"
+            "política"
         ],
         "creator": [
-            "alice lins"
+            "estadão conteúdo"
         ],
         "language": "portuguese",
         "country": [
@@ -20,107 +20,151 @@
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-25 16:31:51",
+        "pubDate": "2026-09-26 16:50:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 17:18:33",
-        "image_url": "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2026/09/25/whatsapp_image_2026_09_25_at_11_54_42-37102483.jpeg",
+        "fetched_at": "2026-09-26 18:11:13",
+        "image_url": "https://www.folhavitoria.com.br/wp-content/uploads/2026/02/Flavio-Bolsonaro.jpg",
         "video_url": null,
-        "source_id": "jcne10uol",
-        "source_name": "Jc Notiacute",
-        "source_priority": 652888,
-        "source_url": "https://jc.ne10.uol.com.br",
-        "source_icon": "https://i.newsdata.io/jcne10uol.png",
+        "source_id": "folhavitoria_br",
+        "source_name": "Folha Vitória",
+        "source_priority": 123574,
+        "source_url": "https://www.folhavitoria.com.br",
+        "source_icon": "https://i.newsdata.io/folhavitoria_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
+        "duplicate": true,
         "title_zh": "",
         "description_zh": ""
     },
     {
-        "article_id": "d93112b74a6e6675ac78ab7f9af6254a",
-        "link": "https://tn.com.ar/videos/campo/2026/09/25/lo-crie-desde-un-huevo-y-me-lo-mataron-el-desgarrador-testimonio-del-encargado-de-un-campo-por-la-caza-de-su-nandu/",
-        "title": "“Lo crié desde un huevo y me lo mataron”: el desgarrador testimonio del encargado de un campo por la caza de su ñandú",
-        "description": "Imagen del video difundido en redes sociales por los furtivos, donde se observa a los perros galgos persiguiendo al ñandú dentro del establecimiento \"El Tauro\"; el material fue clave para la denuncia de Fleitas. (Video: Raúl Fleitas).",
+        "article_id": "ca18840bb6f2447903bd7bd23976ef69",
+        "link": "https://www.dgabc.com.br/Noticia/4349264/flavio-pede-prisao-de-coordenador-da-secom-por-incentivar-fake-news-sobre-n-s-aparecida",
+        "title": "Flávio pede prisão de coordenador da Secom por incentivar fake news sobre N. S. Aparecida",
+        "description": "Flávio pede prisão de coordenador da Secom por incentivar fake news sobre N. S. Aparecida",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "data-cc-vid",
-            "data-cc",
-            "videos en tn"
+            "política"
         ],
         "creator": [
-            "tn"
+            "agência estado"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
             "crime",
             "top"
         ],
-        "datatype": "multimedia",
-        "pubDate": "2026-09-25 16:31:41",
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:50:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 17:01:39",
-        "image_url": "https://tn.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F1-14-c3def8cc18d81790345889922-1790345964.jpg?auth=c57136ebeea096e1c03fc1076219c473cd6aa23b8135f665c02fbb8324564ec7",
-        "video_url": "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1909642",
-        "source_id": "tn",
-        "source_name": "Todo Noticias",
-        "source_priority": 6803,
-        "source_url": "https://tn.com.ar",
-        "source_icon": "https://i.newsdata.io/tn.png",
+        "fetched_at": "2026-09-26 18:22:13",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://i.newsdata.io/dgabc.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
+        "duplicate": true,
         "title_zh": "",
         "description_zh": ""
     },
     {
-        "article_id": "8f7738126c3bba3af706ef2c9a2733e4",
-        "link": "https://latam.ign.com/marathon-2/114772/bungie-reconoce-marathon-fracaso-dificultad-extrema",
-        "title": "Bungie reconoce que Marathon fracasó en su estreno por ser \"demasiado difícil\"",
-        "description": "Desarrolladores de Bungie admiten que la elevada dificultad y el bucle de derrotas alejaron al público casual de Marathon tras su lanzamiento. Meses después del turbulento lanzamiento de Marathon en marzo de 2026, Bungie admitió abiertamente las razones detrás del bajo rendimiento del título . En un reciente documental, los principales creativos del estudio reconocieron que el juego fue diseñado con una dificultad excesiva que terminó ahuyentando a la audiencia general. El videojuego …",
+        "article_id": "52dcfb0480ba8329a01e375eef81ed8b",
+        "link": "https://www.dgabc.com.br/Noticia/4349263/bruno-parrilla-acoes-dos-eua-contra-cuba-sao-um-crime-contra-a-humanidade",
+        "title": "Bruno Parrilla: Ações dos EUA contra Cuba São um crime contra a humanidade",
+        "description": "Bruno Parrilla: Ações dos EUA contra Cuba São um crime contra a humanidade",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "marathon",
-            "noticias"
+            "internacional"
         ],
         "creator": [
-            "diego valadez"
+            "agência estado"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "chile",
-            "mexico",
-            "puerto rico",
-            "argentina",
-            "el salvador",
-            "venezuela",
-            "peru",
-            "paraguay"
+            "brazil"
         ],
         "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:50:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 18:22:13",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://i.newsdata.io/dgabc.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "5ab084a32abff59bdcb9fc720170830e",
+        "link": "https://www.estrelando.com.br/nota/2026/09/26/kim-kardashian-compartilha-registros-romanticos-com-lewis-hamilton-em-viagem-a-paris-334569",
+        "title": "Kim Kardashian compartilha registros românticos com Lewis Hamilton em viagem a Paris",
+        "description": "O amor está muito no ar! Kim Kardashian e Lewis Hamilton aproveitaram uma viagem a dois em Paris e deram novos sinais de muita sintonia. Na última sexta-feira, dia 25, a socialite compartilhou uma sequência de fotos da estadia na capital francesa e incluiu registros românticos ao lado do piloto de Fórmula 1. Em uma das imagens, os dois aparecem trocando um beijo com a Torre Eiffel ao fundo, em um cenário digno de filme. Em outro registro, Kim e Hamilton surgem abraçados enquanto fazem uma selfie . O carrossel também conta com uma foto mais íntima do casal, deitado na cama. Segundo a revista People , o registro do beijo foi feito durante um passeio de barco privado pelo Rio Sena, à noite, e aparece no sexto slide da publicação. Na imagem, Kim segura o rosto do piloto enquanto ele coloca a mão nas costas dela. A publicação ainda reúne outros momentos da viagem, como ingressos VIP para um show de Céline Dion, um jantar à luz de velas e uma foto de Kim na pista enquanto Hamilton aparece em um carro de corrida. O relacionamento entre os dois começou a chamar atenção no início de 2026, quando passaram a ser vistos juntos em encontros e eventos. Em junho, Kim tornou pública a relação ao compartilhar registros feitos durante o Grande Prêmio de Mônaco, incluindo uma foto em que aparece beijando o capacete do piloto. Desde então, os dois têm protagonizado momentos de carinho em aparições públicas e nas redes sociais, alimentando o interesse dos fãs pela relação. Veja as fotos: Ver esse post no Instagram Um post compartilhado por Kim Kardashian (@kimkardashian) Já nos segue no Instagram ? Por lá, compartilhamos tudo sobre celebridades, estilo, realities , séries, teen , bastidores do entretenimento e reportagens exclusivas. Vai ficar de fora dessa? O nosso perfil é @portal.estrelando.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "romance lewis hamilton",
+            "kim kardashian e lewis hamilton",
+            "lewis hamilton",
+            "kim kardashian paris",
+            "torre eiffel",
+            "viagem romântica",
+            "fórmu",
+            "casal famoso",
+            "romance kim kardashian",
+            "beijo kim kardashian",
+            "kim kardashian",
+            "lewis hamilton paris",
+            "kim e hamilton em paris"
+        ],
+        "creator": [
+            "da redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
             "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-25 16:31:40",
+        "pubDate": "2026-09-26 16:50:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:34:24",
-        "image_url": "https://sm.ign.com/ign_latam/screenshot/default/marathon1_k6mw.jpg",
+        "fetched_at": "2026-09-26 17:21:06",
+        "image_url": null,
         "video_url": null,
-        "source_id": "ign_latam",
-        "source_name": "Ign Latinoamérica",
-        "source_priority": 121,
-        "source_url": "https://latam.ign.com",
-        "source_icon": "https://i.newsdata.io/ign_latam.png",
+        "source_id": "estrelando_br",
+        "source_name": "Estrelando",
+        "source_priority": 1214650,
+        "source_url": "https://www.estrelando.com.br",
+        "source_icon": "https://i.newsdata.io/estrelando_br.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -132,36 +176,72 @@
         "description_zh": ""
     },
     {
-        "article_id": "83dcceb248b668dc806ede07c5e14730",
-        "link": "https://atarde.com.br/cultura/maior-mural-indigena-do-brasil-e-concluido-em-salvador-veja-fotos-1403449",
-        "title": "Maior mural indígena do Brasil é concluído em Salvador; veja fotos",
-        "description": "Salvador ganhou um mural de 200 metros de extensão na ligação Iguatemi–Paralela. Intitulada “Águas Ancestrais – Corpo-Rio, Território Vivo”, a obra foi criada pelos artistas indígenas Thiago Tupinambá, da Bahia, e Isa Muriá, do Pará, e já está concluída e entregue à população.A intervenção integra o Circuito de Murais do BRT - Arte como respiro, memória e território vivo em Salvador e ocupa uma extensa superfície de concreto em uma das áreas de maior circulação da cidade. Segundo a organização do projeto, trata-se do maior mural horizontal já realizado por artistas indígenas no Brasil. A iniciativa é realizada pela Prefeitura de Salvador, por meio da Fundação Gregório de Mattos, e pela Trevo Produções, com curadoria e concepção do Projeto MURAL - Movimento Urbano de Arte Livre.Mural transforma concreto em rioO conceito da obra parte do significado de origem Tupi-Guarani atribuído ao nome Iguatemi: “rio ondulante” ou “água que corre”. A partir dessa referência, os artistas construíram uma composição que reúne grafismos, figuras simbólicas, referências sonoras, memória e movimento.Um rio contínuo percorre visualmente os 200 metros do mural e conecta os diferentes elementos da pintura. Na narrativa proposta pela obra, a água funciona como elemento de ligação entre histórias, identidades e saberes ancestrais.O trabalho também estabelece uma relação com a história do território. Onde existia o Rio Camarajipe, o mural cria um “rio simbólico” que leva Carrancas do Rio São Francisco à região do Iguatemi. A composição também inclui altares sonoros, estabelecendo uma conexão entre a música de Salvador e referências à ancestralidade.Artistas de Bahia e Pará assinam obraA criação reúne trajetórias de dois artistas indígenas de diferentes regiões do país. Thiago Tupinambá é baiano, enquanto Isa Muriá é paraense. A proposta estabelece um diálogo entre referências culturais dos dois estados e leva ao espaço público uma produção contemporânea relacionada às identidades e à diversidade dos povos indígenas brasileiros.A presença dos dois artistas também coloca a autoria indígena no centro da intervenção. Em vez de uma representação produzida por terceiros, a obra é construída pelos próprios artistas a partir de referências culturais e narrativas ligadas às suas trajetórias.Obra passa a integrar paisagem de SalvadorCom a conclusão do mural, “Águas Ancestrais” passa a fazer parte da paisagem urbana da ligação Iguatemi–Paralela. A intervenção pode ser observada por motoristas, passageiros do transporte público, ciclistas e pedestres que circulam pelo trecho.A obra integra a segunda etapa do Circuito de Murais do BRT, que também tem ações em andamento no bairro do Itaigara. O projeto tem como proposta levar intervenções artísticas para áreas de circulação cotidiana da cidade.Veja fotos! 1 de 6 | Foto: Divulgação 2 de 6 | Foto: Divulgação 3 de 6 | Foto: Divulgação 4 de 6 | Foto: Divulgação 5 de 6 | Foto: Divulgação 6 de 6 | Foto: Divulgação Ficha técnica da obraObra: Águas Ancestrais – Corpo-Rio, Território VivoLocal: ligação Iguatemi–Paralela, Salvador, BahiaProjeto: Circuito de Murais do BRT - Arte Como Respiro, Memória e Território VivoArtistas: Thiago Tupinambá e Isa MuriáCuradoria: Vanessa Vieira/Projeto MURALCoordenação executiva: Marcos ClementProdução de campo: Gui CapriolliAssistentes de produção: Rubens Chagas - SuckAssistentes de pintura: Flávio Córtex, Pérola Aimée e Canário",
+        "article_id": "9c705185754d291bc6124b7d4c07be4a",
+        "link": "https://tribunadepetropolis.com.br/noticias/flavio-pede-prisao-de-coordenador-da-secom-por-incentivar-fake-news-sobre-n-s-aparecida/",
+        "title": "Flávio pede prisão de coordenador da Secom por incentivar fake news sobre N. S. Aparecida",
+        "description": "A campanha do senador e candidato à presidência da República, Flávio Bolsonaro (PL), pediu a prisão preventiva de George Marques da Silva e Silva, coordenador-geral de Estratégia e Informação da Secretaria de Comunicação Social da Presidência (Secom), por incentivar a divulgação de informações falsas sobre o candidato. O pedido foi apresentado ao Ministério Público Eleitoral. […]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cultura"
-        ],
+        "keywords": null,
         "creator": [
-            "beatriz santos"
+            "vinícius valfré / estadão"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "lifestyle",
-            "top"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-25 16:31:38",
+        "pubDate": "2026-09-26 16:50:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:38:15",
-        "image_url": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/maior-mural-indigena-do-brasil-e-concluido-em-salv0140344900202609251331.jpg?xid=7244516",
+        "fetched_at": "2026-09-26 17:15:53",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
-        "source_id": "atarde",
-        "source_name": "A Tarde",
-        "source_priority": 57528,
-        "source_url": "https://www.atarde.com.br",
-        "source_icon": "https://i.newsdata.io/atarde.png",
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://i.newsdata.io/tribunadepetropolis_br.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "3550ec62424a99d7e3f48ad48256ecd6",
+        "link": "https://tribunadepetropolis.com.br/noticias/bruno-parrilla-acoes-dos-eua-contra-cuba-sao-um-crime-contra-a-humanidade/",
+        "title": "Bruno Parrilla: Ações dos EUA contra Cuba São um crime contra a humanidade",
+        "description": "O ministro das Relações Exteriores de Cuba, Bruno Rodríguez Parrilla, afirmou neste sábado, 26, em discurso na Assembleia Geral da ONU, que as ações dos Estados Unidos contra a ilha configuram um crime contra a humanidade. Segundo o ministro, Washington mantém e aprofunda o bloqueio econômico e medidas de pressão contra Havana, apesar de, ao […]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "letícia correia / estadão"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:50:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 17:16:45",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "video_url": null,
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://i.newsdata.io/tribunadepetropolis_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -173,34 +253,92 @@
         "description_zh": ""
     },
     {
-        "article_id": "6574a99fa4ea68d1ea745a4fed195a0f",
-        "link": "https://extra.globo.com/economia/noticia/2026/09/governo-deve-propor-pena-de-ate-6-anos-de-prisao-a-quem-operar-bets.ghtml",
-        "title": "Governo deve propor pena de até 6 anos de prisão a quem operar bets",
-        "description": "O governo federal deve enviar ao Congresso Nacional um projeto de lei que criminaliza as bets e seus operadores. O texto prevê pena de prisão de até seis anos, além de multa, para quem explorar ou operar apostas on-line no Brasil, mesmo se ela tiver autorização de autoridade estrangeira. A proposta também prevê pena de prisão para quem fizer publicidade para as bets. A medida consta em projeto de lei que o presidente deve assinar nesta sexta-feira e que integra pacote da gestão petista contra as apostas. A nove dias do primeiro turno das eleições, o presidente anunciará nesta sexta-feira um pacote de medidas que buscam atacar o endividamento das famílias brasileiras e as bets, dois temas tratados como prioridade de Lula. Nos últimos dias, o petista intensificou o ataque às apostas esportivas e endureceu o discurso, afirmando que acabaria com elas. Além de uma medida provisória (MP) que deverá proibir as bets no país, o petista apresentará esse projeto de lei para criminalizar as bets e seus operadores acompanhado de uma segunda MP. Medidas provisórias têm a vigência imediata e precisam ser aprovadas pelo Congresso Nacional em até 120 dias para seguir valendo. Já um projeto de lei só entra em vigor após ser avaliado pelos parlamentares. Análise do Congresso Por isso, a proibição das bets deve valer imediatamente, já a criminalização depende da análise da Câmara e do Senado. O projeto de lei foi elaborado pelo Ministério da Justiça e Segurança Pública. O texto cria um crime específico para quem explorar ou operar apostas de quota fixa. Ele prevê pena de reclusão de quatro a seis anos, além de multa. Determina ainda que incorrem nessas penas quem “oferece, recebe, registra ou intermedeia apostas de quota fixa ou disponibiliza, mantém ou administra apostas de quota fixa, estabelecimento físico ou canal destinado à realização das apostas”. O projeto diz ainda que essa pena poderá ser aumentada em um terço se a aposta tiver por objeto “evento virtual de jogo on-line”. Para quem fizer divulgação, publicidade, propaganda, promoção comercial ou ação de marketing destinada a incentivar a realização das apostas terá pena de reclusão de dois a quatro anos, além de multa. Também estará sujeito a essas penas quem “capta, recruta, angaria, encaminha ou indica apostadores” para as bets e quem “patrocina, impulsiona ou monetiza, por qualquer meio, publicidade, propaganda, promoção comercial ou ação de marketing” de apostas de quota fixa. Ampliação da pena Nesse ponto, o projeto de lei diz ainda que a pena poderá ser aumentada em 50% quando a divulgação ou captação envolver promessa ou pagamento de remuneração, comissão ou participação nos valores apostados ou nas perdas dos apostadores vinculada ao cadastramento ou à captação de clientes O projeto também mira o uso de dados pessoais para atrair clientes para as bets. Pela proposta, passará a ser crime fornecer, transmitir, ceder, negociar, comercializar, selecionar, classificar, segmentar ou enriquecer dados pessoais com o objetivo de captar apostadores ou direcionar publicidade de apostas. A pena prevista também é de dois a quatro anos de reclusão e multa.",
+        "article_id": "2aafd84550665f0a88e7ead45abf4c13",
+        "link": "https://ofuxico.com.br/noticias/roberto-carlos-afirma-que-perdeu-99-do-que-ganhou-no-futebol/",
+        "title": "Roberto Carlos afirma que perdeu 99% do que ganhou no futebol",
+        "description": "Roberto Carlos revela que perdeu 99% do que ganhou no futebol após problemas com empresários e família e conta como refez a vida. O post Roberto Carlos afirma que perdeu 99% do que ganhou no futebol apareceu primeiro em OFuxico .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "extra"
+            "fortuna",
+            "notícias",
+            "dinheiro"
         ],
-        "creator": null,
+        "creator": [
+            "flavia cirino"
+        ],
         "language": "portuguese",
         "country": [
             "brazil"
+        ],
+        "category": [
+            "entertainment",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:50:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 17:10:28",
+        "image_url": "https://ofuxico.com.br/wp-content/uploads/2026/09/ex-jogador-roberto-carlos.jpg",
+        "video_url": null,
+        "source_id": "ofuxico",
+        "source_name": "Ofuxico",
+        "source_priority": 77850,
+        "source_url": "https://ofuxico.com.br",
+        "source_icon": "https://i.newsdata.io/ofuxico.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "fc51aef95a1ab75e686ec3474e0e3ea0",
+        "link": "https://www.infobae.com/mexico/2026/09/26/elementos-federales-aseguran-249-kilos-de-cocaina-y-fentanilo-en-tijuana-estaban-ocultos-en-un-doble-fondo-de-la-caja-de-un-tractocamion/",
+        "title": "Elementos federales aseguran 249 kilos de cocaína y fentanilo en Tijuana: estaban ocultos en un doble fondo de la caja de un tractocamión",
+        "description": "La droga fue asegurada en la Garita de Otay, en Tijuana, y en el decomiso participaron elementos de Aduanas, la Defensa, la Guardia Nacional y la SSPC",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mexico-noticias",
+            "narco en méxico",
+            "narcotráfico en méxico",
+            "defensa",
+            "tijuana",
+            "mexico-seguridad",
+            "garita de otay",
+            "cocaína",
+            "fentanilo",
+            "guardia nacional",
+            "droga"
+        ],
+        "creator": [
+            "miguel flores"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "mexico",
+            "united states of america",
+            "colombia"
         ],
         "category": [
             "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-25 16:31:22",
+        "pubDate": "2026-09-26 16:49:46",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 17:08:06",
-        "image_url": "https://s2-extra.glbimg.com/aDQi0FRFDPTnK_u4Cqx9sP8DwVU=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/V/R/bRmDBbQG2ubEVhRy3JFg/whatsapp-image-2026-08-31-at-17.52.38.avif",
+        "fetched_at": "2026-09-26 17:02:23",
+        "image_url": "https://www.infobae.com/resizer/v2/TBBDQFZTZFE3PDLOP7RHNX5B6E.jpg?auth=5c6974a8d0dd38ff1a423a243ca445fd4ea2f987f23a6c1ee2681cb576989c9f&smart=true&width=1068&height=800",
         "video_url": null,
-        "source_id": "extra_globo",
-        "source_name": "Extra | Extra Online",
-        "source_priority": 47133,
-        "source_url": "https://extra.globo.com",
-        "source_icon": "https://i.newsdata.io/extra_globo.jpg",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -212,13 +350,51 @@
         "description_zh": ""
     },
     {
-        "article_id": "787fad6953bf9898e34a84a4097e293e",
-        "link": "https://www.laopinioncoruna.es/sociedad/2026/09/25/reina-letizia-abre-curso-formacion-profesional-suma-1-24-millones-alumnos-134690534.html",
-        "title": "La reina Letizia abre el curso de Formación Profesional, que suma 1,24 millones de alumnos",
-        "description": "La reina Letizia ha presidido este viernes en el IES Ribera del Tajo de Talavera de la Reina (Toledo) la apertura del curso de Formación Profesional 2026-2027, unas enseñanzas que forman en España a 1,24 millones de alumnos, un 3,1 por ciento más que el curso anterior.",
+        "article_id": "c47fce7f5202fb3a41afa06d84d0bc68",
+        "link": "https://br.investing.com/news/world-news/trump-rejeita-proposta-iraniana-para-reabrir-estreito-de-ormuz-e-encerrar-combates-2076037",
+        "title": "Trump rejeita proposta iraniana para reabrir Estreito de Ormuz e encerrar combates",
+        "description": "Trump rejeita proposta iraniana para reabrir Estreito de Ormuz e encerrar combates",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "reuters"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:49:39",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 17:06:45",
+        "image_url": "https://content-media.investing.com/trkd-images/LYNXMPEM8P0GO_1200_L.jpg",
+        "video_url": null,
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://i.newsdata.io/investing_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "1abb61c1f8e8f4ed4597ed31154763ec",
+        "link": "https://www.laopinioncoruna.es/sociedad/2026/09/26/multitudinaria-marcha-protesta-desahucio-maricarmen-madrid-134714211.html",
+        "title": "Una multitudinaria marcha en protesta por el desahucio de Maricarmen recorre el centro de Madrid",
+        "description": "Una multitudinaria manifestación recorre esta tarde el centro de Madrid convocada por el Sindicato de Inquilinas para protestar por el desahucio de Maricarmen, la anciana que tuvo que abandonar su vivienda de alquiler tras 70 años en la misma, una situación de la que culpan al Gobierno, a la Comunidad y al Ayuntamiento de Madrid.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "educación"
+            "vivienda"
         ],
         "creator": [
             "efe"
@@ -228,14 +404,15 @@
             "argentina"
         ],
         "category": [
+            "crime",
             "top",
-            "education"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-25 16:31:09",
+        "pubDate": "2026-09-26 16:49:24",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:37:40",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9c5641f6-1042-49ec-8c84-c858379efd32_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "fetched_at": "2026-09-26 17:08:11",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d538bd18-83b4-493a-9f7c-45382a88839b_16-9-aspect-ratio_default_0_x1200y533.jpg",
         "video_url": null,
         "source_id": "laopinioncoruna",
         "source_name": "La Opinión A Coruña",
@@ -253,599 +430,48 @@
         "description_zh": ""
     },
     {
-        "article_id": "dc90121f213ce67a4d226c15e58c38a0",
-        "link": "https://bichosdecampo.com/ya-se-cubrio-el-75-de-la-estimacion-oficial-argentina-de-importacion-de-soja-y-es-muy-probable-que-deba-ser-ajustada/",
-        "title": "Ya se cubrió el 75% de la estimación oficial argentina de importación de soja (y es muy probable que deba ser ajustada)",
-        "description": "En agosto pasado la molienda de soja en la Argentina –según datos oficiales– fue de 4,25 millones de toneladas, una cifra 8,8% superior a la del mismo mes de 2025. Las fábricas oleaginosas argentinas vienen haciendo grandes esfuerzos por originar poroto para aprovechar los buenos valores internacionales de la harina y el aceite de soja. […]",
+        "article_id": "3608f45e429beaf3dcdd39e38baa241c",
+        "link": "https://hoydiariodelmagdalena.com.co/archivos/1309404/nestor-lorenzo-no-descarta-una-nueva-convocatoria-de-james-rodriguez-a-la-seleccion-colombia",
+        "title": "Néstor Lorenzo no descarta una nueva convocatoria de James Rodríguez a la Selección Colombia",
+        "description": "El técnico argentino dejó las puertas abiertas para el volante cucuteño, hoy en Atlético Nacional. James Rodríguez anunció su retiro oficial de la Selección...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "procesamiento soja",
-            "molienda soja",
-            "soja argentina",
-            "soja paraguay",
-            "soja",
-            "soybean argentina",
-            "industria aceitera",
-            "soybean paraguay",
-            "valor soja"
+            "deportes",
+            "judicial",
+            "noticias santa marta",
+            "hoy diario magdalena",
+            "mundo",
+            "polã­tica",
+            "noticias",
+            "economã­a",
+            "hoy diario",
+            "santa marta",
+            "reportajes",
+            "magdalena",
+            "clasificados",
+            "actualidad"
         ],
         "creator": [
-            "valor soja"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:09",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:39:16",
-        "image_url": "https://bichosdecampo.com/wp-content/uploads/2022/03/SojaBarcazas.png",
-        "video_url": null,
-        "source_id": "bichosdecampo",
-        "source_name": "Bichos De Campo",
-        "source_priority": 79985,
-        "source_url": "https://bichosdecampo.com",
-        "source_icon": "https://i.newsdata.io/bichosdecampo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "a150266e8440a73368b8f74c9653730c",
-        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/25/ze-neto-e-cristiano-cancelam-show-as-vesperas-da-eleicao-em-ribeirao-preto-sp.ghtml",
-        "title": "Zé Neto e Cristiano cancelam show às vésperas da eleição em Ribeirão Preto, SP",
-        "description": "Zé Neto e Cristiano em show na Festa Junina de Votorantim (SP) Divulgação / @off.contest A dupla Zé Neto e Cristiano cancelou o show marcado para o dia 3 de outubro em Ribeirão Preto. O anúncio foi feito no perfil dos sertanejos em uma rede social nesta sexta-feira (25). No comunicado, a dupla lamentou a decisão e informou que ela foi tomada por questões operacionais e de segurança ligadas às vésperas das eleições, que acontecem no dia 4 de outubro. “Especialmente as regras e possíveis restrições à comercialização de bebidas alcoólicas no período eleitoral, considerando que grande parte do evento funciona no formato open bar, e a necessidade de garantir o controle adequado do público, o deslocamento dos eleitores e a tranquilidade do pleito.” Faça parte do canal do g1 Ribeirão e Franca no WhatsApp Agora no g1 Ainda segundo a dupla, a decisão seguiu recomendações de órgãos públicos locais. Zé Neto e Cristiano passariam por Ribeirão Preto com o projeto 360, que conta com um palco no centro do espaço para deixar os artistas mais próximos do público. A apresentação aconteceria no Parque Permanente de Exposições. Política de reembolso A dupla também divulgou a política de reembolso para os fãs que já tinham comprado o ingresso. Segundo o comunicado, os consumidores receberão o dinheiro de volta de forma integral, incluindo as taxas de serviço e conveniência. “O estorno será processado automaticamente pela Bilheteria Digital, no mesmo meio de pagamento utilizado na compra”. Não é preciso solicitar o reembolso. Em caso de dúvidas, os fãs podem entrar em contato pelo e-mail atendimento@bilheteriadigital.com ou pelo telefone (21) 99740-5218. Veja mais notícias da região no g1 Ribeirão e Franca Vídeos: Tudo sobre Ribeirão Preto, Franca e região",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "g1"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:05",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 17:04:03",
-        "image_url": "https://s2-g1.glbimg.com/Hsw1GLROkqoG-3rrDevlD2Upjm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/e/LFdB2zRJeVLxxzn6bgxQ/off.contest-0771.jpg",
-        "video_url": null,
-        "source_id": "g1globo",
-        "source_name": "G1 - O Portal",
-        "source_priority": 3053,
-        "source_url": "https://g1.globo.com",
-        "source_icon": "https://i.newsdata.io/g1globo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "ddd1e176aebf01e2377669efbdcc4c86",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pacote-de-lula-contra-bets-tera-pena-de-prisao-para-quem-explorar-apostas-on-line.shtml",
-        "title": "Pacote de Lula contra bets terá pena de prisão para quem explorar apostas on-line",
-        "description": "O pacote contra as apostas on-line que o presidente Luiz Inácio Lula da Silva (PT) anunciará nesta sexta-feira (25) deve incluir pena de prisão para coibir a operação de empresas desse tipo, que ficaram conhecidas como bets. Leia mais (09/25/2026 - 13h31)",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "finance",
-            "& economics",
-            "lula",
-            "folha",
-            "bets no brasil",
-            "folha de s.paulo",
-            "endividamento",
-            "eleições",
-            "business",
-            "eleições 2026"
-        ],
-        "creator": [
-            "caio spechoto",
-            "catia seabra"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 17:03:05",
-        "image_url": "https://f.i.uol.com.br/fotografia/2026/09/25/17903534926ab6a0548aa4a_1790353492_3x2_md.jpg",
-        "video_url": null,
-        "source_id": "folha",
-        "source_name": "Folha",
-        "source_priority": 3498,
-        "source_url": "https://www.folha.uol.com.br",
-        "source_icon": "https://i.newsdata.io/folha.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "ca7615bb10156876973f560d9febef36",
-        "link": "https://www.meutimao.com.br/noticias-do-corinthians/540797/jovens-do-corinthians-estao-entre-jogadores-mais-valiosos-no-futebol-brasileiro-e-argentino",
-        "title": "Jovens do Corinthians estão entre jogadores mais valiosos no futebol brasileiro e argentino",
-        "description": "O Corinthians tem dois jogadores Sub-21 entre os mais valiosos do Brasil e da Argentina. O volante André Luiz (sexto colocado) e o atacante Gui Negão (sétima posição) integram a lista do CIES Football",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "futebol",
-            "esporte",
-            "corinthians",
-            "gui negão",
-            "andré luiz"
-        ],
-        "creator": [
-            "meu timão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:41:30",
-        "image_url": "https://cdn.meutimao.com.br/fotos-do-corinthians/w614/2026/09/19/andre_luiz_e_gui_negao_durante_treino_do_f5a8.jpg",
-        "video_url": null,
-        "source_id": "meutimao",
-        "source_name": "Meu Timão",
-        "source_priority": 142685,
-        "source_url": "https://www.meutimao.com.br",
-        "source_icon": "https://i.newsdata.io/meutimao.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "b8e71c0d10bbd7404e107cc1a79b153a",
-        "link": "https://pulsoslp.com.mx/slp/ordenes-judiciales-incumplidas-denuncian-madres-en-san-luis-potosi/2089317",
-        "title": "Órdenes judiciales incumplidas denuncian madres en San Luis Potosí",
-        "description": "En San Luis Potosí, madres denuncian incumplimiento de órdenes judiciales y problemas en procesos familiares.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "pulso slp"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:32:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 18:25:13",
-        "image_url": "https://blobcore.pulsoslp.com.mx/images/2026/09/25/madres-denuncian-trabas-judiciales-en-casos-de-violencia-vicaria-de3c80d2-focus-0-0-600-315.webp",
-        "video_url": null,
-        "source_id": "pulsoslp_mx",
-        "source_name": "Pulso Diario San Luis",
-        "source_priority": 3206842,
-        "source_url": "https://www.pulsoslp.com.mx",
-        "source_icon": "https://i.newsdata.io/pulsoslp_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "25ccc29a6009763b156f1e2404a4e47f",
-        "link": "https://www.informador.mx/mexico/huracan-odalys-se-intensifica-y-alcanza-la-categoria-4-afecta-a-mexico-20260925-0066.html",
-        "title": "Huracán Odalys se intensifica y alcanza la categoría 4: ¿afecta a México?",
-        "description": "El ciclón registra vientos de 215 km/h frente a las costas de Baja California Sur, mientras las autoridades vigilan su trayectoria",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "méxico"
-        ],
-        "creator": [
-            "anelsolis"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:32:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:35:28",
-        "image_url": "https://www.informador.mx/__export/1790353739491/sites/elinformador/img/2026/09/25/hurac-n_odalys_se_intensifica_y_alcanza_la_categor-a_4_-afecta_a_m-xico_version1790353714957.jpg_1300221565.jpg",
-        "video_url": null,
-        "source_id": "informador_mx",
-        "source_name": "Informador Mx",
-        "source_priority": 27025,
-        "source_url": "https://www.informador.mx",
-        "source_icon": "https://i.newsdata.io/informador_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "da2287ffd5d0283ff0c262b971d993a2",
-        "link": "https://www.rockandpop.cl/2026/09/dia-del-cine-tendra-entradas-desde-2-000-en-todo-chile-conoce-las-fechas-y-peliculas-disponibles/",
-        "title": "Día del Cine tendrá entradas desde $2.000 en todo Chile: Conoce las fechas y películas disponibles",
-        "description": "Si estabas esperando una oportunidad para volver al cine, septiembre terminará con una promoción especial que se extenderá por tres días en todo Chile. El próximo 28, 29 y 30 de septiembre se realizará una nueva edición de El Día del Cine, iniciativa que permitirá acceder a funciones con entradas desde $2.000. Además, permitirá disfrutar Leer más... from Día del Cine tendrá entradas desde $2.000 en todo Chile: Conoce las fechas y películas disponibles La entrada Día del Cine tendrá entradas desde $2.000 en todo Chile: Conoce las fechas y películas disponibles se publicó primero en Rock&Pop .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "cine",
-            "noticias"
-        ],
-        "creator": [
-            "paz henríquez"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:45:10",
-        "image_url": "https://www.rockandpop.cl/wp-content/uploads/2026/09/Dia-del-Cine.webp",
-        "video_url": null,
-        "source_id": "rockandpop_cl",
-        "source_name": "Rock And Pop Chile",
-        "source_priority": 280498,
-        "source_url": "https://www.rockandpop.cl",
-        "source_icon": "https://i.newsdata.io/rockandpop_cl.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "1b78a9d51f947da946f7bbae2ef73aad",
-        "link": "https://www.latercera.com/politica/noticia/ojos-de-la-llave-barros-en-un-tanque-a-lo-bachelet-lo-que-se-no-vio-de-la-gira-de-kast-y-el-homenaje-a-la-expresidenta/",
-        "title": "Ojos de la llave: Barros en un tanque a lo Bachelet, lo que se no vio de la gira de Kast y el homenaje a la expresidenta",
-        "description": "En una semana marcada por el viaje del Presidente a Estados Unidos y el fracaso legislativo en la agenda de seguridad, hubo varios episodios que pasaron desapercibidos o que fueron controvertidos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "política"
-        ],
-        "creator": [
-            "la tercera"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:44",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:36:51",
-        "image_url": "https://www.latercera.com/resizer/v2/BA5OBAVVYNFSBEA3DFUPRQHYJM.jpg?auth=6d9d33950c15b20bed63ac4757eb8be2a43a63bd82f2c2d0ea00e8cf041c745e&smart=true&width=1870&height=1305",
-        "video_url": null,
-        "source_id": "latercera",
-        "source_name": "Latercera",
-        "source_priority": 32330,
-        "source_url": "https://www.latercera.com",
-        "source_icon": "https://i.newsdata.io/latercera.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "817a95461a4be30f4b819a797fb813dd",
-        "link": "https://oem.com.mx/la-prensa/metropoli/linea-7-del-metro-tenis-atorado-en-escalera-electrica-obliga-a-suspender-su-servicio-32270463",
-        "title": "Línea 7 del Metro: Tenis atorado en escalera eléctrica obliga a suspender su servicio",
-        "description": "El Metro reportó que 95% de las 467 escaleras eléctricas de la Red se encuentran disponibles y llamó a los usuarios a evitar accidentes por el uso incorrecto de los equipos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "metropoli"
-        ],
-        "creator": [
-            "aurelio sánchez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:43",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 21:50:01",
-        "image_url": "https://oem.com.mx/la-prensa/img/32271059/1790353488/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "la_prensa_mx",
-        "source_name": "La Prensa",
-        "source_priority": 889435,
-        "source_url": "https://www.la-prensa.com.mx",
-        "source_icon": "https://i.newsdata.io/la_prensa_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "8e0cade09ef24ed196db4e6301092342",
-        "link": "https://www.noroeste.com.mx/deportes/futbol/el-manchester-city-encontrado-culpable-de-mas-de-100-irregularidades-financieras-NJ25979747",
-        "title": "El Manchester City, encontrado culpable de más de 100 irregularidades financieras",
-        "description": "El Manchester City ha sido encontrado culpable de más de un centenar de irregularidades financieras, unos cargos que arrastra desde 2023, según adelantó este viernes The Athletic y publicaron otros medios deportivos. Aunque el City había negado reiteradamente las acusaciones, la comisión independiente que falló sobre el caso consideró al club de Mánchester culpable en prácticamente todos los casos (130) en que había sospechas, señalan las mismas fuentes. Por el momento, no se han formulado sanciones, ya que esto se decidirá en una etapa posterior. Estas sanciones, recogidas en el Manual de la Premier League inglesa, pueden ir desde una mera advertencia a una retirada de puntos en el campeonato o, en el caso más extremo, incluso la expulsión de la competición. Incluso la retirada de puntos puede aplicarse con efectos retroactivos, lo que podría costarle al club hasta la pérdida de algunos títulos, siempre según The Athletic. La Premier League acusó en febrero de 2023 al City de no proporcionar información financiera precisa ni los detalles correctos de pagos a entrenadores y jugadores entre las temporadas 2009-2010 y 2017-2018, de no cumplir con el ‘fair play’ financiero de la UEFA entre 2009 y 2018, y con el de la Premier League en las campañas 2015-2016 y 2017-2018. Igualmente, de no cooperar con las investigaciones de la Premier que se desarrollaron entre diciembre de 2018 y febrero de 2023. El City negó todos los cargos y contrató a algunos de los mejores abogados especializados en deporte en el Reino Unido para tratar de limpiar su nombre y evitar las sanciones. En la década que ha investigado la Premier League, es decir, entre la campaña 2009-2010 y la 2017-2018, el City ganó tres ligas, una Copa de Inglaterra y tres Copas de la Liga .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "futbol",
-            "manchester city",
-            "premier league",
-            "manchester",
-            "noroeste/redacción"
-        ],
-        "creator": [
-            "noroeste/redacción"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:41",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-26 02:49:17",
-        "image_url": "https://www.noroeste.com.mx/binrepository/manchester-city_1-14571885_20260925093105.jpg",
-        "video_url": null,
-        "source_id": "noroeste",
-        "source_name": "Noroeste",
-        "source_priority": 841816,
-        "source_url": "https://www.noroeste.com.mx",
-        "source_icon": "https://i.newsdata.io/noroeste.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "8f7738126c3bba3af706ef2c9a2733e4",
-        "link": "https://latam.ign.com/marathon-2/114772/bungie-reconoce-marathon-fracaso-dificultad-extrema",
-        "title": "Bungie reconoce que Marathon fracasó en su estreno por ser \"demasiado difícil\"",
-        "description": "Desarrolladores de Bungie admiten que la elevada dificultad y el bucle de derrotas alejaron al público casual de Marathon tras su lanzamiento. Meses después del turbulento lanzamiento de Marathon en marzo de 2026, Bungie admitió abiertamente las razones detrás del bajo rendimiento del título . En un reciente documental, los principales creativos del estudio reconocieron que el juego fue diseñado con una dificultad excesiva que terminó ahuyentando a la audiencia general. El videojuego …",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "marathon",
-            "noticias"
-        ],
-        "creator": [
-            "diego valadez"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile",
-            "mexico",
-            "puerto rico",
-            "argentina",
-            "el salvador",
-            "venezuela",
-            "peru",
-            "paraguay"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:40",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:34:24",
-        "image_url": "https://sm.ign.com/ign_latam/screenshot/default/marathon1_k6mw.jpg",
-        "video_url": null,
-        "source_id": "ign_latam",
-        "source_name": "Ign Latinoamérica",
-        "source_priority": 121,
-        "source_url": "https://latam.ign.com",
-        "source_icon": "https://i.newsdata.io/ign_latam.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "8badf86388a7b0d968e2b44544db734c",
-        "link": "https://tribunademexico.com/bandas-nubosas-de-odalys-se-sumaran-a-polo-sin-confirmar-aun-el-efecto-fujiwhara/",
-        "title": "Bandas nubosas de Odalys se sumarán a Polo sin confirmar aún el efecto Fujiwhara",
-        "description": "Por ahora no está confirmado que exista una interacción directa entre los dos huracanes ni que vaya a presentarse el efecto Fujiwhara. Lo que sí se observa es la aproximación de sus extensas bandas nubosas, con Odalys acercando parte de su estructura al sistema de Polo El cargo Bandas nubosas de Odalys se sumarán a Polo sin confirmar aún el efecto Fujiwhara apareció primero en Tribuna de México .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "nacional",
-            "méxico"
-        ],
-        "creator": [
-            "carlos puelma"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:49:00",
-        "image_url": "https://storage.googleapis.com/tribunamexico-secure/2026/09/cp-bandas-nubosas-odalys-polo.jpg.webp",
-        "video_url": null,
-        "source_id": "tribunademexico",
-        "source_name": "Tribuna De México",
-        "source_priority": 697716,
-        "source_url": "https://tribunademexico.com",
-        "source_icon": "https://i.newsdata.io/tribunademexico.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "1132f9c756e7928da8f47e00b921cd41",
-        "link": "https://www.theclinic.cl/2026/09/25/como-se-gesto-la-declaracion-conjunta-entre-boric-y-bachelet-y-el-retorno-al-debate-nacional-de-la-expresidenta-tras-su-fallida-nominacion-a-la-onu/",
-        "title": "Cómo se gestó la declaración conjunta entre Boric y Bachelet y el retorno al debate nacional de la expresidenta tras su fallida nominación a la ONU",
-        "description": "El líder frenteamplista y la militante socialista tienen un contacto permanente, según afirman en su entorno, por lo que la redacción de un documento conjunto para cuestionar la decisión del Presidente José Antonio Kast de sumarse al Escudo de las Américas no tomó mucho tiempo. El documento surgió ante la necesidad de marcar un \"punto\" sobre lo que podría significar la alianza en la soberanía de Chile. The post Cómo se gestó la declaración conjunta entre Boric y Bachelet y el retorno al debate nacional de la expresidenta tras su fallida nominación a la ONU appeared first on The Clinic .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "política",
-            "michelle bachelet",
-            "josé antonio kast",
-            "gabriel boric"
-        ],
-        "creator": [
-            "jorge palacios"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-25 16:31:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:41:39",
-        "image_url": "https://static.theclinic.cl/media/2026/09/25-161139_gorx_Boric-y-Bachelet.jpg",
-        "video_url": null,
-        "source_id": "theclinic",
-        "source_name": "The Clinic",
-        "source_priority": 129373,
-        "source_url": "https://www.theclinic.cl",
-        "source_icon": "https://i.newsdata.io/theclinic.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "9b8102bbf3f547b2a34fb410d228a4e8",
-        "link": "https://www.diariodelsur.com.co/como-preparar-granola-de-chocolate-casera/",
-        "title": "Como preparar granola de chocolate casera",
-        "description": "Ingredientes Preparación Tip: si quieres una granola con trozos grandes y crujientes, presiona bien la mezcla contra la bandeja antes de hornearla y evita removerla durante la cocción. La entrada Como preparar granola de chocolate casera se publicó primero en Diario del Sur .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "noticias"
-        ],
-        "creator": [
-            "sandra ortiz"
+            "redacción hoy diario del magdalena"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "top",
-            "food"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-25 16:31:33",
+        "pubDate": "2026-09-26 16:50:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-25 16:49:33",
-        "image_url": null,
+        "fetched_at": "2026-09-26 17:16:40",
+        "image_url": "https://hoydiariodelmagdalena.com.co/social-image/news/1309404/opengraph-image.jpg?v=1790441456560",
         "video_url": null,
-        "source_id": "diariodelsur",
-        "source_name": "Diario Del Sur",
-        "source_priority": 832974,
-        "source_url": "http://diariodelsur.com.co",
-        "source_icon": "https://i.newsdata.io/diariodelsur.png",
+        "source_id": "hoydiariodelmagdalena_co",
+        "source_name": "Hoy Diario Del Magdalena",
+        "source_priority": 368807,
+        "source_url": "https://hoydiariodelmagdalena.com.co",
+        "source_icon": "https://i.newsdata.io/hoydiariodelmagdalena_co.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -853,6 +479,388 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "46ef23677d8851c1aa15cf297d4fb9ea",
+        "link": "https://www.marca.com/ciclismo/mundial/2026/09/26/masajista-correr-evenepoel-aert-mundial-surrealista-solucion-eslovaquia.html",
+        "title": "De masajista a correr contra Evenepoel y Van Aert en el Mundial: la surrealista solución de Eslovaquia",
+        "description": "Vladimír Kováčik, como indican en France TV, viajó a Montreal como miembro del staff de la selección y terminará tomando la salida en la prueba élite masculina",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mundial"
+        ],
+        "creator": [
+            "nacho labarga"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:50:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 17:01:48",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/09/26/6ab7f88ca1b8e.png",
+        "video_url": null,
+        "source_id": "marca",
+        "source_name": "Marca Claro",
+        "source_priority": 426,
+        "source_url": "https://www.marca.com",
+        "source_icon": "https://i.newsdata.io/marca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "fc51aef95a1ab75e686ec3474e0e3ea0",
+        "link": "https://www.infobae.com/mexico/2026/09/26/elementos-federales-aseguran-249-kilos-de-cocaina-y-fentanilo-en-tijuana-estaban-ocultos-en-un-doble-fondo-de-la-caja-de-un-tractocamion/",
+        "title": "Elementos federales aseguran 249 kilos de cocaína y fentanilo en Tijuana: estaban ocultos en un doble fondo de la caja de un tractocamión",
+        "description": "La droga fue asegurada en la Garita de Otay, en Tijuana, y en el decomiso participaron elementos de Aduanas, la Defensa, la Guardia Nacional y la SSPC",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mexico-noticias",
+            "narco en méxico",
+            "narcotráfico en méxico",
+            "defensa",
+            "tijuana",
+            "mexico-seguridad",
+            "garita de otay",
+            "cocaína",
+            "fentanilo",
+            "guardia nacional",
+            "droga"
+        ],
+        "creator": [
+            "miguel flores"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "mexico",
+            "united states of america",
+            "colombia"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:49:46",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 17:02:23",
+        "image_url": "https://www.infobae.com/resizer/v2/TBBDQFZTZFE3PDLOP7RHNX5B6E.jpg?auth=5c6974a8d0dd38ff1a423a243ca445fd4ea2f987f23a6c1ee2681cb576989c9f&smart=true&width=1068&height=800",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "b9f9084dc41124263289be5470a7403a",
+        "link": "https://www.marca.com/tiramillas/cine/2026/09/26/brad-pitt-deja-ver-ines-ramon-bautizo-iglesia-santa-barbara-madrid.html",
+        "title": "Brad Pitt se deja ver con Inés de Ramón en un bautizo en la Iglesia de Santa Bárbara en Madrid",
+        "description": "La pareja ha aprovechado su paso por San Sebastián para desplazarse hasta la capital y acudir a un evento privado",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "cine"
+        ],
+        "creator": [
+            "ramón garcia parrilla"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "science"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:49:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 17:04:16",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/09/26/6ab7f6dd05689.jpeg",
+        "video_url": null,
+        "source_id": "marca",
+        "source_name": "Marca Claro",
+        "source_priority": 426,
+        "source_url": "https://www.marca.com",
+        "source_icon": "https://i.newsdata.io/marca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "5f8d98fa685e408c8de9bc577ec3bd05",
+        "link": "https://actualidad.rt.com/actualidad/629574-cadaveres-cuidadosamente-colocados-lavrov-destaca",
+        "title": "\"Cadáveres cuidadosamente colocados\": Lavrov destaca un 'fake' no investigado sobre la operación especial",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "rt en español"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:49:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 17:04:13",
+        "image_url": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+        "video_url": null,
+        "source_id": "rt_mx",
+        "source_name": "Rt",
+        "source_priority": 19092,
+        "source_url": "https://actualidad.rt.com",
+        "source_icon": "https://i.newsdata.io/rt_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "1aa5fc81b47782e1816d401ce6991dfa",
+        "link": "https://www.launion.com.mx/morelos/nacional/noticias/300389-activistas-reunen-mas-de-19-mil-firmas-para-exigir-salida-de-inzunza-del-senado.html",
+        "title": "Activistas reúnen más de 19 mil firmas para exigir salida de Inzunza del Senado",
+        "description": "Este viernes, la activista Vania Pérez Morales, expresidenta del Sistema Nacional Anticorrupción, hizo públicos documentos que se intentaron entregar a los coordinadores de MC, PRI, PAN y Morena en el Senado , así como al presidente de la Cámara alta, Higinio Martínez. Los escritos contienen firmas ciudadanas para solicitar la separación del cargo del senador sin bancada, Enrique Inzunza Cázarez. Pérez Morales explicó que el documento, fechado el 21 de septiembre, fue entregado formalmente el pasado martes, aunque señaló que la mayoría de los legisladores no ha respondido a la solicitud. Informó que este 29 de septiembre acudirán al Senado para entregar las firmas y la petición ciudadana. De acuerdo con el documento, las firmas fueron reunidas mediante la plataforma digital Change.org y, hasta las 16:00 horas, sumaban 19 mil 241. La iniciativa plantea que Inzunza deje el cargo para que los señalamientos e investigaciones existentes en México y Estados Unidos puedan ser esclarecidos por las autoridades competentes sin la protección del fuero constitucional. El próximo 29 de septiembre se cumplirán cinco meses desde que Inzunza fue señalado por la Fiscalía del Distrito Sur de Nueva York por presuntos nexos con el crimen organizado, junto con el gobernador con licencia de Sinaloa, Rocha Moya, y ocho funcionarios más. Tras darse a conocer la acusación, Rocha Moya pidió licencia, mientras que Inzunza Cázarez no acudió presencialmente al Senado durante más de 100 días. Por su parte, el general en retiro Gerardo Mérida se entregó a las autoridades de Estados Unidos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nacional"
+        ],
+        "creator": [
+            "lts"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:49:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 17:20:00",
+        "image_url": "https://www.launion.com.mx/media/k2/items/cache/96b1ffacc3f5789bee8bbc99bf03d9ed_L.jpg",
+        "video_url": null,
+        "source_id": "launionmk",
+        "source_name": "Launion Maxico",
+        "source_priority": 928030,
+        "source_url": "https://www.launion.com.mx",
+        "source_icon": "https://i.newsdata.io/launionmk.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "113a956053c6484b0a39c21c237c64d5",
+        "link": "https://www.diariocordoba.com/sociedad/2026/09/26/multitudinaria-marcha-protesta-desahucio-maricarmen-madrid-134714215.html",
+        "title": "Una multitudinaria marcha en protesta por el desahucio de Maricarmen recorre el centro de Madrid",
+        "description": "Una multitudinaria manifestación recorre esta tarde el centro de Madrid convocada por el Sindicato de Inquilinas para protestar por el desahucio de Maricarmen, la anciana que tuvo que abandonar su vivienda de alquiler tras 70 años en la misma, una situación de la que culpan al Gobierno, a la Comunidad y al Ayuntamiento de Madrid.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "multitudinaria",
+            "desahucio",
+            "protesta",
+            "marcha",
+            "maricarmen",
+            "madrid"
+        ],
+        "creator": [
+            "efe"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:49:24",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 17:08:04",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d538bd18-83b4-493a-9f7c-45382a88839b_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "video_url": null,
+        "source_id": "diariocordoba",
+        "source_name": "Cordoba",
+        "source_priority": 48787,
+        "source_url": "https://www.diariocordoba.com",
+        "source_icon": "https://i.newsdata.io/diariocordoba.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "44388bfc742eacd7cc5072fe32cbec31",
+        "link": "https://oem.com.mx/elsudcaliforniano/local/ciudadania-se-capacita-para-vigilar-y-documentar-la-naturaleza-en-baja-california-sur-32287305",
+        "title": "Ciudadanía se capacita para vigilar y documentar la naturaleza en Baja California Sur",
+        "description": "La segunda edición de la Escuela de Vigilantes de la Naturaleza comenzó actividades en la UABCS",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "local"
+        ],
+        "creator": [
+            "cristhian jesus calderon quiroz"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "education",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:49:21",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 22:20:29",
+        "image_url": "https://oem.com.mx/elsudcaliforniano/img/32287631/1790437639/BASE_LANDSCAPE/400/image.jpg",
+        "video_url": null,
+        "source_id": "elsudcaliforniano_mx",
+        "source_name": "El Sudcaliforniano",
+        "source_priority": 1282545,
+        "source_url": "https://www.elsudcaliforniano.com.mx",
+        "source_icon": "https://i.newsdata.io/elsudcaliforniano_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "f472b106a99dda4d2c0520de56146ea0",
+        "link": "https://www.marca.com/futbol/nations-league/2026/09/26/01-0195-20260926-114-118.html",
+        "title": "Inglaterra - España en directo | Última hora de UEFA Nations League en vivo hoy",
+        "description": "Sigue en vivo y en directo el Inglaterra - España de UEFA Nations League con todos los goles y estadísticas del partido",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nations league"
+        ],
+        "creator": [
+            "rubén jiménez"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:49:14",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 17:01:43",
+        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/09/26/17904406444845.png",
+        "video_url": null,
+        "source_id": "marca",
+        "source_name": "Marca Claro",
+        "source_priority": 426,
+        "source_url": "https://www.marca.com",
+        "source_icon": "https://i.newsdata.io/marca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "3b8f5be4d80fd1edd1cfb29a4cd561b6",
+        "link": "https://heraldodemexico.com.mx/nacional/2026/9/26/secretaria-de-marina-alista-mil-despensas-ocho-mil-litros-de-agua-en-manzanillo-ante-el-huracan-polo-categoria-895821.html",
+        "title": "Secretaría de Marina alista mil despensas y ocho mil litros de agua en Manzanillo ante el huracán Polo categoría 5",
+        "description": "Buques ARM Isla Tiburón, ARM Usumacinta y ARM Zapoteco quedaron alistados en el Pacífico ante la evolución del huracán Polo hacia Baja California Sur.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "matías domínguez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-26 16:49:05",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-26 20:06:10",
+        "image_url": "https://heraldodemexico.com.mx/u/fotografias/m/2026/9/26/f1280x720-1333535_1465210_5050.jpeg",
+        "video_url": null,
+        "source_id": "heraldodemexico",
+        "source_name": "El Heraldo De Mexico",
+        "source_priority": 21317,
+        "source_url": "https://heraldodemexico.com.mx",
+        "source_icon": "https://i.newsdata.io/heraldodemexico.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
         "title_zh": "",
         "description_zh": ""
     }
