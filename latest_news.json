@@ -1,26 +1,67 @@
 [
     {
-        "article_id": "c0851500fb82ad5428fbc6f05ffb0713",
-        "link": "https://tribunadepetropolis.com.br/noticias/shakira-reencontra-ghetto-kids-em-show-na-espanha-e-cumpre-promessa-feita-as-criancas/",
-        "title": "Shakira reencontra Ghetto Kids em show na Espanha e cumpre promessa feita às crianças",
-        "description": "Shakira reencontrou os Ghetto Kids, grupo de crianças de Uganda que chamou sua atenção após publicar uma coreografia de Dai Dai nas redes sociais. Nesta sexta-feira, 25, os dançarinos voltaram a dividir o palco com a cantora, desta vez durante a residência dela em Madri, na Espanha. As crianças participaram do quarto show da temporada […]",
+        "article_id": "84ee151190d65c2796b18c06ee74fea1",
+        "link": "https://www.losandes.com.ar/deportes/tiene-23-anos-fue-convocado-lionel-scaloni-y-acaba-ser-papa-matias-soule-presento-bautista-su-primer-hijo-n6008260",
+        "title": "Tiene 23 años, fue convocado por Lionel Scaloni y acaba de ser papá: Matías Soulé presentó a Bautista, su primer hijo",
+        "description": "El delantero de la Roma compartió en redes sociales las imágenes del recién nacido antes de los amistosos frente a Bolivia, Burkina Faso y Benín.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "deportes"
+        ],
+        "creator": [
+            "francisco moreno"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-29 17:06:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-29 17:11:18",
+        "image_url": "https://media.losandes.com.ar/p/6eac0262e60453eca362ce893008f1ad/adjuntos/368/imagenes/100/752/0100752103/1200x675/786x229:806x249/matias-soule.png",
+        "video_url": null,
+        "source_id": "losandes",
+        "source_name": "Los Andes",
+        "source_priority": 114641,
+        "source_url": "https://www.losandes.com.ar",
+        "source_icon": "https://i.newsdata.io/losandes.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "dae540a0e789c5bb580ab91cf46de8c3",
+        "link": "https://tribunadepetropolis.com.br/noticias/ira-diz-que-ja-apresentou-aos-eua-condicoes-para-acordo-mas-trump-e-incapaz-de-decidir/",
+        "title": "Irã diz que já apresentou aos EUA condições para acordo, mas Trump é ‘incapaz de decidir’",
+        "description": "O secretário do Conselho Supremo de Segurança Nacional do Irã, major-general Mohsen Rezaei, afirmou nesta terça-feira (29) que Teerã já apresentou suas condições aos Estados Unidos, mas que o presidente americano, Donald Trump, seria incapaz de tomar uma decisão. “Nós apresentamos nossas condições, mas Trump não é capaz de tomar uma decisão”, declarou Rezaei durante […]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "redação e+ / estadão"
+            "pedro lima / estadão"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top",
-            "entertainment"
+            "politics",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-28 17:18:00",
+        "pubDate": "2026-09-29 17:06:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:47:35",
+        "fetched_at": "2026-09-29 17:47:40",
         "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
         "source_id": "tribunadepetropolis_br",
@@ -39,47 +80,36 @@
         "description_zh": ""
     },
     {
-        "article_id": "ac671693f62ab0df49e99c38db567ca5",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-haddad-obtem-11-liminares-para-remover-publicacoes-negativas-de-bolsonaristas.shtml",
-        "title": "Campanha de Haddad obtém 11 liminares para remover publicações negativas de bolsonaristas",
-        "description": "A campanha de Fernando Haddad ( PT ) ao governo de São Paulo obteve 11 decisões favoráveis da Justiça Eleitoral no último final de semana determinando a retirada de postagens impulsionadas por bolsonaristas contra o candidato e o presidente Lula (PT). Leia mais (09/28/2026 - 14h18)",
+        "article_id": "0fbab516b23cc65bba4fe4d3bb43ed60",
+        "link": "https://odia.ig.com.br/rio-de-janeiro/2026/09/7307029-motorista-mente-sobre-roubo-de-carga-e-e-preso-em-flagrante-por-furto.html",
+        "title": "Motorista mente sobre roubo de carga e é preso em flagrante por furto",
+        "description": "Carregamento de bebidas era avaliado em mais de R$ 276 mil; homem também responderá por comunicação falsa de crime",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "eleições",
-            "stj",
-            "folha de s.paulo",
-            "tse",
-            "fernando haddad",
-            "politics",
-            "eleições sp",
-            "são paulo - estado",
-            "pt",
-            "folha",
-            "stf",
-            "justiça eleitoral",
-            "eleições 2026"
+            "rio de janeiro"
         ],
         "creator": [
-            "carlos petrocilo"
+            "manuella viégas"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "politics"
+            "crime",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-28 17:18:00",
+        "pubDate": "2026-09-29 17:06:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:33:03",
-        "image_url": "https://f.i.uol.com.br/fotografia/2026/08/29/17880336886a933a98388b8_1788033688_3x2_md.jpg",
+        "fetched_at": "2026-09-29 17:42:43",
+        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/09/29/whatsapp_image_2026_09_29_at_13_59_34-39498454.jpeg",
         "video_url": null,
-        "source_id": "folha",
-        "source_name": "Folha",
-        "source_priority": 3498,
-        "source_url": "https://www.folha.uol.com.br",
-        "source_icon": "https://i.newsdata.io/folha.png",
+        "source_id": "odia_ig_br",
+        "source_name": "Odia Ig Br",
+        "source_priority": 144458,
+        "source_url": "https://odia.ig.com.br",
+        "source_icon": "https://i.newsdata.io/odia_ig_br.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -91,13 +121,94 @@
         "description_zh": ""
     },
     {
-        "article_id": "d5a12c51275fd989741ebdac205de02b",
-        "link": "https://www.dgabc.com.br/Noticia/4349529/shakira-reencontra-ghetto-kids-em-show-na-espanha-e-cumpre-promessa-feita-as-criancas",
-        "title": "Shakira reencontra Ghetto Kids em show na Espanha e cumpre promessa feita às crianças",
-        "description": "Shakira reencontra Ghetto Kids em show na Espanha e cumpre promessa feita às crianças",
+        "article_id": "74aebc7d2157812c30b9490fc79b67c4",
+        "link": "https://www.mdzol.com/deportes/argentina-confirmo-cambios-ultimo-momento-la-convocatoria-antes-del-amistoso-bolivia-n1616893",
+        "title": "Argentina confirmó cambios de último momento en la convocatoria antes del amistoso con Bolivia",
+        "description": "La medida impacta en los planes de Estudiantes y Boca, que afrontarán compromisos clave esta semana.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cultura & lazer"
+            "selección argentina",
+            "convocatoria",
+            "amistoso"
+        ],
+        "creator": [
+            "mdz deportes"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-29 17:06:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-29 17:31:05",
+        "image_url": "https://media.mdzol.com/p/9ca13b09745846904465f8aee4d66a06/adjuntos/373/imagenes/002/002/0002002906/1200x675/611x85:631x105/palacios-flores.jpg",
+        "video_url": null,
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://i.newsdata.io/mdzol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "064004ed3f78ba75c986a4b311a7ac80",
+        "link": "https://www.uai.com.br/sem-categoria/2026/09/29/como-eliminar-a-impregnacao-de-residuos-organicos-em-plasticos-porosos-sem-recorrer-a-saponaceos-abrasivos-pesados/",
+        "title": "Como eliminar a impregnação de resíduos orgânicos em plásticos porosos sem recorrer a saponáceos abrasivos pesados",
+        "description": "Quer aprender a desinfetar a tábua do vaso sanitário e tirar manchas amareladas? Veja o truque fácil com bicarbonato",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "gustavo davi silvestrin"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-29 17:06:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-29 17:06:51",
+        "image_url": "https://www.uai.com.br/wp-content/uploads/2026/09/7746743f-5b81-48a2-91b5-dde9453171ea.jpg",
+        "video_url": null,
+        "source_id": "uai",
+        "source_name": "Portal Uai",
+        "source_priority": 33324,
+        "source_url": "https://www.uai.com.br",
+        "source_icon": null,
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "31fbb7a72f6425d1cb5fb7c7cc8d1bf3",
+        "link": "https://www.dgabc.com.br/Noticia/4349751/ira-diz-que-ja-apresentou-aos-eua-condicoes-para-acordo-mas-trump-e-incapaz-de-decidir-",
+        "title": "Irã diz que já apresentou aos EUA condições para acordo, mas Trump é 'incapaz de decidir'",
+        "description": "Irã diz que já apresentou aos EUA condições para acordo, mas Trump é 'incapaz de decidir'",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "internacional"
         ],
         "creator": null,
         "language": "portuguese",
@@ -105,13 +216,13 @@
             "brazil"
         ],
         "category": [
-            "top",
-            "entertainment"
+            "politics",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-28 17:18:00",
+        "pubDate": "2026-09-29 17:06:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 18:23:02",
+        "fetched_at": "2026-09-29 18:22:30",
         "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
         "video_url": null,
         "source_id": "dgabc",
@@ -130,201 +241,40 @@
         "description_zh": ""
     },
     {
-        "article_id": "2b1d8756646ca83926fd2fa6c815e81a",
-        "link": "https://odia.ig.com.br/esporte/2026/09/7306646-matheuzinho-compara-pressoes-da-selecao-e-do-flamengo-seu-ex-clube.html",
-        "title": "Matheuzinho compara pressões da Seleção e do Flamengo, seu ex-clube",
-        "description": "Atualmente no Corinthians, lateral-direito fez sua estreia pela equipe nacional no amistoso da última sexta-feira (25) contra a Austrália",
+        "article_id": "2c55d55856ee1663978eddb63ae94c0a",
+        "link": "https://www.diariodecuyo.com.ar/politica/el-mensaje-bruno-olivera-la-muerte-juan-carlos-pagotto-te-voy-recordar-siempre-n6584427",
+        "title": "El mensaje de Bruno Olivera tras la muerte de Juan Carlos Pagotto: \"Te voy a recordar siempre\"",
+        "description": "El senador sanjuanino de La Libertad Avanza despidió a su compañero de bloque con un emotivo mensaje en redes sociales. Pagotto fue encontrado sin vida este martes en su casa de La Rioja.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "esporte"
+            "lla",
+            "juan carlos pagotto",
+            "bruno olivera",
+            "san juan",
+            "la rioja"
         ],
         "creator": [
-            "gabriel salotti"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-28 17:18:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:42:06",
-        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/09/28/27set2026_treino_brisbane_32_matheuzinho-39493804.jpg",
-        "video_url": null,
-        "source_id": "odia_ig_br",
-        "source_name": "Odia Ig Br",
-        "source_priority": 144458,
-        "source_url": "https://odia.ig.com.br",
-        "source_icon": "https://i.newsdata.io/odia_ig_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "997de24155c7ea456fdf134bc72d835e",
-        "link": "https://br.investing.com/news/transcripts/harmony-gold-no-mining-forum-americas-2026-disciplina-impulsiona-crescimento-93CH-2077185",
-        "title": "Harmony Gold no Mining Forum Americas 2026: disciplina impulsiona crescimento",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "investing.com"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-28 17:17:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:37:36",
-        "image_url": "https://content-media.investing.com/news/LYNXMPEB3R08Z_M.jpg",
-        "video_url": null,
-        "source_id": "investing_br",
-        "source_name": "Investing Brasil",
-        "source_priority": 33451,
-        "source_url": "https://br.investing.com",
-        "source_icon": "https://i.newsdata.io/investing_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "4affe69b3a029a49d95ebd95e9a6b865",
-        "link": "https://br.investing.com/news/transcripts/versamet-no-mining-forum-americas-2026-grande-acordo-de-crescimento-em-foco-93CH-2077184",
-        "title": "Versamet no Mining Forum Americas 2026: grande acordo de crescimento em foco",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "investing.com"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-28 17:17:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:37:36",
-        "image_url": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg",
-        "video_url": null,
-        "source_id": "investing_br",
-        "source_name": "Investing Brasil",
-        "source_priority": 33451,
-        "source_url": "https://br.investing.com",
-        "source_icon": "https://i.newsdata.io/investing_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "77292cafd6209b57751c01beb96a3c0e",
-        "link": "https://www.correiobraziliense.com.br/esportes/2026/09/7509888-kickboxing-paranaense-brilha-no-df-e-conquista-vaga-ao-mundial-no-japao.html",
-        "title": "Kickboxing: Paranaense brilha no DF e conquista vaga ao Mundial no Japão",
-        "description": "João Victor, de apenas 23 anos, fez três grandes lutas e encerrou a noite dando show em um combate de arrepiar contra Agnaldo 'Cruel'",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "esportes",
-            "sports",
-            "de",
-            "mundial"
-        ],
-        "creator": [
-            "correio braziliense"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-28 17:17:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:44:50",
-        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/09/28/675x450/1_img-1983-jpg--1--67810032.jpeg",
-        "video_url": null,
-        "source_id": "correiobraziliense",
-        "source_name": "Correio Braziliense",
-        "source_priority": 267296,
-        "source_url": "https://www.correiobraziliense.com.br",
-        "source_icon": "https://i.newsdata.io/correiobraziliense.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "0817c80101cae2bb39c966fa0c8f463b",
-        "link": "https://viapais.com.ar/vida/pintor-austriaco-obligan-cambiar-nombre-caballo-turf-posible-referencia-hitler_0_wFjmhyawkV.html",
-        "title": "Pintor austríaco: obligan a cambiar el nombre a un caballo de turf por posible referencia a Hitler",
-        "description": "La máxima autoridad hípica de Estados Unidos ordenó modificar el nombre del caballo Austrian Painter y el de su hermana tras recibir denuncias, desatando un intenso debate sobre los límites de la censura y la ambigüedad en la cultura digital.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "caballo",
-            "vida-discover",
-            "polémica"
-        ],
-        "creator": [
-            "rita márquez"
+            "redacción diario de cuyo"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top",
-            "politics"
+            "politics",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-28 17:17:41",
+        "pubDate": "2026-09-29 17:06:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 03:59:48",
-        "image_url": "https://viapais.com.ar/images/2026/09/28/RkX9BRkeWU_1200x675.jpg",
+        "fetched_at": "2026-09-29 20:23:59",
+        "image_url": "https://media.diariodecuyo.com.ar/p/1dc31a9026ff88f8e8e417021c1b7d27/adjuntos/380/imagenes/100/337/0100337918/1200x675/464x418:484x438/saveclipapp_825350324_17991077592012752_2053580992796881785_n.jpg",
         "video_url": null,
-        "source_id": "viapais_ar",
-        "source_name": "Viapais Ar",
-        "source_priority": 48234,
-        "source_url": "https://viapais.com.ar",
-        "source_icon": "https://i.newsdata.io/viapais_ar.png",
+        "source_id": "diariodecuyo",
+        "source_name": "Diario De Cuyo",
+        "source_priority": 394047,
+        "source_url": "https://www.diariodecuyo.com.ar",
+        "source_icon": "https://i.newsdata.io/diariodecuyo.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -336,121 +286,37 @@
         "description_zh": ""
     },
     {
-        "article_id": "ef124c0c0b66d352f540911f23ae96c2",
-        "link": "https://www.infobae.com/colombia/2026/09/28/matias-luengas-el-joven-que-logro-puntaje-perfecto-en-pruebas-saber-11-agradecio-a-abelardo-de-la-espriella-tras-otorgarle-una-beca-universitaria-estudiare-la-carrera-de-mis-suenos/",
-        "title": "Matías Luengas, el joven que logró puntaje perfecto en pruebas Saber 11, agradeció a Abelardo de la Espriella tras otorgarle una beca universitaria: “Estudiaré la carrera de mis sueños”",
-        "description": "Disciplina, apoyo familiar y la intervención de un empresario abren una nueva etapa de oportunidades para este joven cucuteño de 16 años",
+        "article_id": "efed0269f56bf49f39cd05c870fcba52",
+        "link": "https://jornalpequeno.com.br/2026/09/29/inscricoes-para-7a-corrida-do-tjma-comecam-nesta-quinta-feira-1o/",
+        "title": "Inscrições para 7ª Corrida do TJMA começam nesta quinta-feira (1º)",
+        "description": "Prova será realizada no dia 17 de outubro, na Avenida Litorânea, em São Luís.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "beca universitaria",
-            "colombia-noticias",
-            "abelardo de la espriella",
-            "pruebas saber 11",
-            "matías luengas vergel"
+            "geral",
+            "esportes",
+            "cidade"
         ],
         "creator": [
-            "jhon bernal"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "united states of america",
-            "colombia"
-        ],
-        "category": [
-            "education",
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-28 17:17:38",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:31:56",
-        "image_url": "https://www.infobae.com/resizer/v2/ANK765UNT5DTNJHJ3A3RB6HHBA.jpg?auth=591c0cf43765126af2a7aa52cf46dcb9dc4fb2eb734fdaf609d27b805557bb04&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "182adc2318828ea5a0d92bb4e0ffd99a",
-        "link": "https://www.estadao.com.br/paladar/radar/a-origem-do-bolovo-e-como-fazer-em-casa/",
-        "title": "A origem do bolovo e como fazer em casa",
-        "description": "O bolovo querido nos botecos paulistanos nasceu no Reino Unido, ganhou versões brasileiras e continua conquistando fãs pela combinação de ovo, carne e crocância",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "radar"
+            "gustavo bogea"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "food"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-09-28 17:17:34",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 18:03:23",
-        "image_url": "https://www.estadao.com.br/resizer/v2/5TISBNYIOJETNJYPQOYNHCGSUE.jpeg?auth=41506e35644a0d6b3ee81cc2374bca4ae9c53f07e74d3ff5383cfc1f0e8132bd&smart=true&width=1280&height=914",
-        "video_url": "https://d1bl11pgu3tw3h.cloudfront.net/prod/powaEmbed.html?org=estadao&uuid=c4b2338c-4417-4527-90cc-70462fb6c15e",
-        "source_id": "estadao_br",
-        "source_name": "Estadao Br",
-        "source_priority": 13396,
-        "source_url": "https://www.estadao.com.br",
-        "source_icon": "https://i.newsdata.io/estadao_br.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "2f2bc25b8a284041514d42dcb962ab0d",
-        "link": "https://lasillarota.com/estados/2026/9/28/ong-de-guerrero-exigen-se-respete-paridad-de-genero-530408.html",
-        "title": "ONG de Guerrero exigen se respete paridad de género",
-        "description": "Organizaciones de derechos humanos y feministas presentaron carta abierta al IEPC Guerrero pidiendo que la paridad incluya los 33 municipios que nunca han tenido gobernadora, amparadas en fallo de la SCJN del 3 de septiembre",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "arturo jiménez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-28 17:17:58",
+        "pubDate": "2026-09-29 17:05:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:43:26",
-        "image_url": null,
+        "fetched_at": "2026-09-29 17:15:11",
+        "image_url": "https://jornalpequeno.com.br/wp-content/uploads/2026/09/card_site_corrida_tjma_2026_29_09_2026_08_06_11.jpg",
         "video_url": null,
-        "source_id": "lasillarota",
-        "source_name": "La Silla Rota",
-        "source_priority": 200644,
-        "source_url": "https://lasillarota.com",
-        "source_icon": "https://i.newsdata.io/lasillarota.jpg",
+        "source_id": "jornalpequeno",
+        "source_name": "Jornal Pequeno",
+        "source_priority": 332011,
+        "source_url": "https://jornalpequeno.com.br",
+        "source_icon": "https://i.newsdata.io/jornalpequeno.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -462,51 +328,37 @@
         "description_zh": ""
     },
     {
-        "article_id": "e07c8736c80578f60e87871459fb39ee",
-        "link": "https://www.eledenmx.com.mx/221079-2/",
-        "title": "Mortandad de peces es por falta de oxígeno: Semades",
-        "description": "Una nueva mortandad de peces fue reportada en la laguna Las Ilusiones, particularmente en la zona de Tierra Colorada, donde autoridades ya realizan labores para retirar los ejemplares afectados. La titular de la Secretaría de Medio Ambiente y Desarrollo Sostenible (Semades), Sheila Cadena Nieto, explicó que el fenómeno se ha registrado en años anteriores y […]",
+        "article_id": "39908bad9ac31c281b763b9ccc0d245b",
+        "link": "https://www.elonce.com/economia/fabricante-de-indumentaria-de-reconocidas-marcas-entro-en-concurso-con-deudas-por-635-millones.htm",
+        "title": "Fabricante de indumentaria de reconocidas marcas entró en concurso con deudas por $635 millones",
+        "description": "utex, fabricante de indumentaria para reconocidas marcas, entró en concurso preventivo con deudas por $635,45 millones y su planta paralizada.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "falta de oxígeno",
-            "mortandad de peces",
-            "ejemplares",
-            "protección",
-            "condiciones",
-            "autoridades",
-            "peces",
-            "semades",
-            "tabasco",
-            "fue",
-            "laguna",
-            "mortandad",
-            "civil",
-            "aguas",
-            "oxigeno",
-            "residuales"
+            "jutex",
+            "concurso acreedores",
+            "fabricante de indumentaria"
         ],
         "creator": [
-            "jesús urgell"
+            "elonce.com"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "argentina"
         ],
         "category": [
-            "environment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-28 17:17:46",
+        "pubDate": "2026-09-29 17:05:55",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 21:37:02",
-        "image_url": "https://www.eledenmx.com.mx/wp-content/uploads/2026/09/el-eden-mx-mortandad-de-peces-es-por-falta-de-oxigeno-semades.jpg",
+        "fetched_at": "2026-09-29 17:20:10",
+        "image_url": "https://elonce-media.elonce.com/fotos/2026/09/29/m_1790701793_356.webp",
         "video_url": null,
-        "source_id": "eledenmx",
-        "source_name": "El Edén Mx",
-        "source_priority": 7373666,
-        "source_url": "https://www.eledenmx.com.mx",
-        "source_icon": "https://i.newsdata.io/eledenmx.png",
+        "source_id": "elonce",
+        "source_name": "Elonce",
+        "source_priority": 1130131,
+        "source_url": "https://www.elonce.com",
+        "source_icon": "https://i.newsdata.io/elonce.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -518,45 +370,36 @@
         "description_zh": ""
     },
     {
-        "article_id": "90a7b2cbec90587ca63814ee8a8e2179",
-        "link": "https://www.ejecentral.com.mx/nuestro-eje/ultimos-pagos-bienestar-y-becas-28-al-30-de-septiembre-que-programas-depositan-montos-y-quienes-reciben-apoyo",
-        "title": "Últimos pagos Bienestar y Becas 28 al 30 de septiembre: qué programas depositan, montos y quiénes reciben apoyo",
-        "description": "Los beneficiarios de Jóvenes Construyendo el Futuro recibirán su apoyo este lunes 28 de septiembre; los demás pagos de Bienestar concluyeron el viernes 25.",
+        "article_id": "2b6713ae153bf1222649a393a2e2aa86",
+        "link": "https://www.lanacion.com.ar/politica/roberto-edgar-volcan-se-sumo-a-la-libertad-avanza-y-sera-candidato-en-puerto-iguazu-nid29092026/",
+        "title": "Roberto Edgar Volcán se sumó a La Libertad Avanza y quiere ser candidato a intendente de Puerto Iguazú",
+        "description": "El cantante de cumbia, intérprete del hit de los noventa “Esa malvada”, se postulará a intendente de la ciudad misionera",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "pagos bienestar 29 de septiembre",
-            "pagos bienestar 30 de septiembre",
-            "pago",
-            "pagos bienestar septiembre 2026",
-            "pagos bienestar",
-            "bienestar",
-            "pagos bienestar 28 de septiembre",
-            "becas bienestar septiembre 2026",
-            "pago bienestar hoy 28 de septiembre",
-            "pago jóvenes construyendo el futuro"
+            "política"
         ],
         "creator": [
-            "eje central"
+            "la nacion"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
+            "argentina"
         ],
         "category": [
-            "top",
-            "business"
+            "entertainment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-28 17:17:46",
+        "pubDate": "2026-09-29 17:05:54",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:45:18",
-        "image_url": "https://assets.ejecentral.com.mx/dims4/default/446ae07/2147483647/strip/false/crop/1200x675+0+63/resize/1200x675!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fba%2Fcc%2F298dbc09498482a88f671d3800c9%2Fcalendario-de-pagos-de-julio-programas-apoyos-del-bienestar-2026.jpg",
+        "fetched_at": "2026-09-29 17:30:57",
+        "image_url": "https://resizer.glanacion.com/resizer/v2/KSRAJEGRN5DUPALDRYOLI5R3UQ.jpg?auth=da944701d06fcf4ec4a1fe79fd9fb11f92a91f413ccdee49c22f60861b7e73a8&smart=true&width=1365&height=910",
         "video_url": null,
-        "source_id": "ejecentral_mx",
-        "source_name": "Ejecentral Mx",
-        "source_priority": 306830,
-        "source_url": "https://www.ejecentral.com.mx",
-        "source_icon": "https://i.newsdata.io/ejecentral_mx.jpg",
+        "source_id": "lanacion",
+        "source_name": "La Nacion",
+        "source_priority": 7204,
+        "source_url": "https://www.lanacion.com.ar",
+        "source_icon": "https://i.newsdata.io/lanacion.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -568,36 +411,36 @@
         "description_zh": ""
     },
     {
-        "article_id": "a9ad6f65da96a6643ae6b5d971af8dab",
-        "link": "https://oem.com.mx/elsoldeleon/local/guanajuato-capital-celebra-la-toma-de-la-alhondiga-con-desfile-y-6-mil-personas-32326965",
-        "title": "Conmemoran la toma de la Alhóndiga de Granaditas en su aniversario 216; desfilan 6 mil personas",
-        "description": "Además, las autoridades renovaron el fuego simbólico de la libertad al interior del museo de la Alhóndiga y donde llamaron a seguir luchando por la libertad del estado, el país y la patria",
+        "article_id": "5c7c0c62860aba848be8879b9d32e35c",
+        "link": "https://www.informador.mx/economia/liverpool-este-es-el-samsung-galaxy-en-50-de-descuento-previo-a-la-venta-nocturna-20260929-0080.html",
+        "title": "Liverpool: Este es el Samsung Galaxy en 50% de descuento previo a la Venta Nocturna",
+        "description": "El Samsung Galaxy S23 reacondicionado se encuentra a un precio único, ofreciendo tecnología premium antes de las grandes rebajas",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "local"
+            "economía"
         ],
         "creator": [
-            "vivian della rocca"
+            "nancy andrade jáuregui"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top",
-            "politics"
+            "technology",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-28 17:17:45",
+        "pubDate": "2026-09-29 17:06:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 22:45:30",
-        "image_url": "https://oem.com.mx/elsoldeleon/img/32327105/1790615853/BASE_LANDSCAPE/400/image.jpg",
+        "fetched_at": "2026-09-29 17:34:48",
+        "image_url": "https://www.informador.mx/__export/1790701411650/sites/elinformador/img/2026/09/29/liverpool_este_es_el_samsung_galaxy_en_50-_de_descuento_previo_a_la_venta_nocturna_version1790701393546.png_162987073.png",
         "video_url": null,
-        "source_id": "elsoldeleon_mx",
-        "source_name": "El Sol De León",
-        "source_priority": 535690,
-        "source_url": "https://www.elsoldeleon.com.mx",
-        "source_icon": "https://i.newsdata.io/elsoldeleon_mx.png",
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://i.newsdata.io/informador_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -609,127 +452,35 @@
         "description_zh": ""
     },
     {
-        "article_id": "429378daf0ffca2e9159f38a8327d94b",
-        "link": "https://www.noroeste.com.mx/nacional/devela-loteria-nacional-billete-para-conmemorar-primer-aniversario-del-organo-de-administracion-judicial-EA26046064",
-        "title": "Devela Lotería Nacional billete para conmemorar primer aniversario del Órgano de Administración Judicial",
-        "description": "• Transformar la justicia significa construir un México en el que las instituciones responden al pueblo y están a su servicio: Olivia Salomón • El OAJ ha construido consensos e impulsado un uso eficiente de los recursos para ser más productiva y eficaz la tarea de impartir justicia, aseguró el Maestro Néstor Vargas Solano • El sorteo se celebrará el próximo 2 de octubre; el Premio Mayor será de 17 millones de pesos en 2 series y una bolsa total de 51 millones de pesos en premios. La Lotería Nacional develó el billete del Sortero Superior No. 2899 que se celebrará el próximo 2 de octubre, emisión que tiene como fin conmemorar el primer aniversario de existencia del Órgano de Administración Judicial (OAJ) institución creada por la reforma al Poder Judicial Federal de 2024. La develación del boleto se llevó a cabo en el Auditorio José Vicente Aguinaco Alemán de este organismo jurisdiccional y estuvo encabezada por la directora general de Lotería Nacional, Olivia Salomón, y el Presidente del Órgano de Administración Judicial, Néstor Vargas Solano. La directora Olivia Salomón señaló que las grandes transformaciones de México también se construyen desde sus instituciones, con su capacidad para renovarse, dejar atrás los privilegios y poner al pueblo en el centro de cada decisión. Y con esta visión, destacó que en sus 256 años de vida Lotería Nacional ha tenido el privilegio de contar la historia del país a través de sus billetes, que esta ocasión está dedicado a una institución que nace en un momento de grandes cambios para la vida pública del país. La titular de Lotería Nacional afirmó que el gobierno de la Presidenta Claudia Sheinbaum tiene la convicción de que la justicia esté al servicio del pueblo, bajo los principios de honestidad, austeridad y responsabilidad que distinguen al Humanismo Mexicano, “hace apenas unos días nuestra Presidenta afirmó que México cuenta con un Poder Judicial mucho mejor que el que antes habíamos tenido”. Añadió que en esta nueva etapa el Órgano de Administración Judicial desempeña un papel fundamental para garantizar que los recursos públicos, la tecnología y el talento humano contribuyan a una impartición de justicia más eficiente y cercana a la gente. Al cerrar su mensaje, Olivia Salomón expresó su deseo para que este aniversario marque el comienzo de una nueva etapa en la que el avance institucional se traduzca en resultados para la gente, “la grandeza de México también se construye con instituciones sólidas y con mujeres y hombres comprometidos con su país”. A nombre del Pleno, el Presidente del OAJ, Maestro Néstor Vargas Solano, agradeció la distinción de la Lotería para rendir un homenaje a una institución que tiene la encomienda “de brindar justicia pronta, completa, expedita e imparcial para todas y todos como lo establece nuestra Constitución Política y como lo merece el pueblo de México”, dijo. Al evento asistieron las y los integrantes del Pleno: Maestra Catalina Ramírez Hernández, Doctora Xóchitl Almendra Hernández Torres, Licenciada Surit Berenice Romero Domínguez y el Maestro José Alberto Gallegos Ramírez. El Maestro Vargas Solano destacó que el primer año de vida del OAJ ha servido para construir consensos, atender las necesidades de las personas juzgadoras y eficientar los recursos. Esto, con el fin de “adoptar medidas que nos hagan más productivos y eficaces en cada una de las tareas que debemos llevara a cabo”. Puntualizó que este billete conmemorativo representa también un reconocimiento a las trabajadoras y trabajadores del nuevo Poder Judicial de la Federación (PJF), desde las personas juzgadoras hasta el personal administrativo, “quienes son los protagonistas de estos cambios y que están dedicados a cumplir con la tarea diaria de brindar justicia”. Para el Sorteo Superior No. 2899 habrá un Premio Mayor de 17 millones de pesos en dos series y una bolsa repartible de 51 millones de pesos en premios; se celebrará el viernes 2 de octubre, a las 20:00 horas. Se emitieron dos millones 400 mil cachitos que recorrerán todo el país llevando la imagen del Órgano de Administración Judicial, convirtiéndose en mensajeros de este primer aniversario. Ya están disponibles en con las billeteras y billeteros, en los puntos de venta autorizados, en la App MiLotería y en miloteria.mx . Se transmitirá en vivo por el canal de YouTube institucional Sorteos Tradicionales de la Lotería Nacional.",
+        "article_id": "d3982193af237bb087ae3f8782ee83d4",
+        "link": "https://www.futbolred.com/colombianos-en-el-exterior/juan-david-cabal-espera-no-tener-mas-lesiones-tras-paron-de-selecciones-273351",
+        "title": "Juan David Cabal trabaja para regresar tras parón de selecciones",
+        "description": "El defensor colombiano no ha tenido su mejor rendimiento a causa de las lesiones.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "contenido externo",
-            "lotería nacional"
+            "colombianos en el exterior"
         ],
         "creator": [
-            "contenido externo"
+            "casa editorial el tiempo; andres rocha florez"
         ],
         "language": "spanish",
         "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-28 17:17:44",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:49:46",
-        "image_url": "https://www.noroeste.com.mx/binrepository/whatsapp-image-2026-09-28-at-10-15_1-14590404_20260928101944.jpg",
-        "video_url": null,
-        "source_id": "noroeste",
-        "source_name": "Noroeste",
-        "source_priority": 841816,
-        "source_url": "https://www.noroeste.com.mx",
-        "source_icon": "https://i.newsdata.io/noroeste.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "ef124c0c0b66d352f540911f23ae96c2",
-        "link": "https://www.infobae.com/colombia/2026/09/28/matias-luengas-el-joven-que-logro-puntaje-perfecto-en-pruebas-saber-11-agradecio-a-abelardo-de-la-espriella-tras-otorgarle-una-beca-universitaria-estudiare-la-carrera-de-mis-suenos/",
-        "title": "Matías Luengas, el joven que logró puntaje perfecto en pruebas Saber 11, agradeció a Abelardo de la Espriella tras otorgarle una beca universitaria: “Estudiaré la carrera de mis sueños”",
-        "description": "Disciplina, apoyo familiar y la intervención de un empresario abren una nueva etapa de oportunidades para este joven cucuteño de 16 años",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "beca universitaria",
-            "colombia-noticias",
-            "abelardo de la espriella",
-            "pruebas saber 11",
-            "matías luengas vergel"
-        ],
-        "creator": [
-            "jhon bernal"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "united states of america",
             "colombia"
-        ],
-        "category": [
-            "education",
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-28 17:17:38",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:31:56",
-        "image_url": "https://www.infobae.com/resizer/v2/ANK765UNT5DTNJHJ3A3RB6HHBA.jpg?auth=591c0cf43765126af2a7aa52cf46dcb9dc4fb2eb734fdaf609d27b805557bb04&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "93fa06f2e6623851614354ffc041dc42",
-        "link": "https://juanfutbol.com/seleccion-mexicana/rafa-marquez-sorprende-a-mexico-con-mensaje-sobre-cambios-que-tienen-que-ocurrir",
-        "title": "Rafa Márquez sorprende antes de México vs. Perú con un mensaje sobre los cambios que “tienen que ocurrir”",
-        "description": "Rafa Márquez compartió una reflexión en sus historias de Instagram mientras la Selección Mexicana prepara su segundo partido de esta Fecha FIFA. The post Rafa Márquez sorprende antes de México vs. Perú con un mensaje sobre los cambios que “tienen que ocurrir” appeared first on Juanfutbol .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "rafa márquez",
-            "selección mexicana"
-        ],
-        "creator": [
-            "gerónimo heller"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
         ],
         "category": [
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-28 17:17:35",
+        "pubDate": "2026-09-29 17:05:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:19:36",
-        "image_url": "https://media.juanfutbol.com/wp-content/uploads/2026/09/Untitled-September-28-2026-at-11.49.56-3-1.webp",
+        "fetched_at": "2026-09-29 18:04:54",
+        "image_url": "https://www.futbolred.com/files/article_graphic/uploads/2026/03/29/69c9e7f1dca4b.png",
         "video_url": null,
-        "source_id": "juanfutbol",
-        "source_name": "Juanfutbol",
-        "source_priority": 637048,
-        "source_url": "https://juanfutbol.com",
-        "source_icon": "https://i.newsdata.io/juanfutbol.png",
+        "source_id": "futbolred",
+        "source_name": "Futbolred",
+        "source_priority": 17422,
+        "source_url": "https://www.futbolred.com",
+        "source_icon": "https://i.newsdata.io/futbolred.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -741,126 +492,324 @@
         "description_zh": ""
     },
     {
-        "article_id": "b6140363cb7a5463698a6e34382c0655",
-        "link": "https://eldiariodechihuahua.mx/nacional/2026/sep/28/donde-esta-naciones-unidas-cuestiona-sheinbaum-841923.html",
-        "title": "¿Dónde está Naciones Unidas?, cuestiona Sheinbaum",
-        "description": "La Presidenta Claudia Sheinbaum cuestionó la actuación de la Organización de las Naciones Unidas (ONU) ante los conflictos en Ucrania, Palestina e Irán",
+        "article_id": "2d03d96e810f2a02af7472b2433f4008",
+        "link": "https://www.semana.com/economia/macroeconomia/articulo/adaptacion-climatica-avanza-en-las-empresas-pero-persisten-brechas-de-aseguramiento/202656/",
+        "title": "Adaptación climática avanza en las empresas, pero persisten brechas de aseguramiento",
+        "description": "El riesgo climático impulsa nuevas medidas de resiliencia en las empresas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "nacional"
+            "empresas afectadas",
+            "cambio climático",
+            "aseguradoras"
         ],
         "creator": [
-            "claudia guerrero y natalia vitela / reforma"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-28 17:17:33",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:38:34",
-        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/09/28/captura-de-pantalla-2026-09-28-111241-wmbPqRuld.jpg",
-        "video_url": null,
-        "source_id": "eldiariodechihuahua",
-        "source_name": "Eldiariodechihuahua",
-        "source_priority": 77437,
-        "source_url": "https://www.eldiariodechihuahua.mx",
-        "source_icon": "https://i.newsdata.io/eldiariodechihuahua.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "b9a6792f721fcc1b220332ba44613343",
-        "link": "https://www.infobae.com/mexico/2026/09/28/turistas-desafian-el-peligro-durante-el-huracan-polo-y-graban-el-oleaje-de-cerca-desde-el-malecon-de-puerto-vallarta/",
-        "title": "Turistas desafían el peligro durante el huracán Polo y graban el oleaje de cerca desde el malecón de Puerto Vallarta",
-        "description": "Las grabaciones mostraron a grupos de visitantes frente al mar, con celulares y cámaras, mientras el agua alcanzaba el paso peatonal y rebasaba las estructuras del malecón",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "huracán polo",
-            "tormenta tropical",
-            "turistas",
-            "clima",
-            "mexico-noticias",
-            "puerto vallarta"
-        ],
-        "creator": [
-            "marco ruiz"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "mexico",
-            "united states of america",
-            "colombia"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-09-28 17:17:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:31:56",
-        "image_url": "https://www.infobae.com/resizer/v2/7ZUNYYVKTZHNJPKHFESY2LF7XM.jpg?auth=07e9f867e417948a6b4c1af0ce2a8837fbf449b7a59765bedf0d9093d74925d6&smart=true&width=1920&height=1080",
-        "video_url": "https://cdn.jwplayer.com/videos/BWmADaac-Gfos2MgV.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "3667180af6b54c9bcb08387705c14673",
-        "link": "https://www.semana.com/politica/articulo/gustavo-petro-responde-a-alocucion-de-abelardo-de-la-espriella-le-aconsejo-no-acabe-con-la-paz/202620/",
-        "title": "Gustavo Petro responde a alocución de Abelardo De La Espriella: “Le aconsejo, no acabe con la paz”",
-        "description": "El expresidente se refirió a las declaraciones del primer mandatario y sacó pecho por sus resultados económicos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "abelardo de la espriella",
-            "gustavo petro"
-        ],
-        "creator": [
-            "juan diego mercado hidalgo"
+            "jerónimo castillo mujica"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "politics"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-28 17:17:20",
+        "pubDate": "2026-09-29 17:05:56",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-28 17:34:57",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/JGLA7HUJ2ZFOVN5JMKG5KQS274.png?auth=9b4b90a7501bcb7cea8f7a2705ede664060dfba766fd79dff18a7f22c5680353&smart=true&width=950&height=530",
+        "fetched_at": "2026-09-29 17:34:58",
+        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/6XJEISX6WBEWHOQOOGKGW3VJX4.jpg?auth=b0a3da96c21a3584635800bb165bcbcdf0424223c0837a8880b314e82dbe090c&smart=true&width=6250&height=4167",
         "video_url": null,
         "source_id": "semana",
         "source_name": "Semana",
         "source_priority": 15867,
         "source_url": "https://www.semana.com",
         "source_icon": "https://i.newsdata.io/semana.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "cbfa867787b094c99a5b5f5b8e6efd8a",
+        "link": "https://nortedigital.mx/la-unidad-no-significa-pensar-todos-igual-mayra-chavez-respalda-a-cruz-y-llama-a-cerrar-filas/",
+        "title": "“La unidad no significa pensar todos igual”: Mayra Chávez respalda a Cruz y llama a cerrar filas",
+        "description": "Mayra Chávez felicitó a Cruz Pérez Cuéllar por su designación como coordinador estatal de la Defensa de la Transformación y la Soberanía Nacional en Chihuahua y llamó a mantener la unidad del movimiento después del proceso interno. “Hoy comienza una nueva etapa que debe encontrarnos unidos, poniendo por encima de cualquier aspiración personal las causas […] La entrada “La unidad no significa pensar todos igual”: Mayra Chávez respalda a Cruz y llama a cerrar filas aparece primero en Norte de Ciudad Juárez .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "mayra chávez",
+            "morena",
+            "política"
+        ],
+        "creator": [
+            "jorge lópez landó"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-29 17:05:55",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-29 17:18:13",
+        "image_url": "https://nortedigital.mx/wp-content/uploads/2026/02/mayra-chavez.jpeg",
+        "video_url": null,
+        "source_id": "nortedigital_mx",
+        "source_name": "Norte De Ciudad Juárez",
+        "source_priority": 602856,
+        "source_url": "https://nortedigital.mx",
+        "source_icon": "https://i.newsdata.io/nortedigital_mx.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "0847f7b0da2da596e2455fa5b493177f",
+        "link": "https://www.pulzo.com/vivir-bien/feria-destinos-con-sabor-tamal-y-tradicion-en-el-corredor-bogota-girardot-colombia-PP5316502A",
+        "title": "El corredor Bogotá-Girardot celebra la feria Destinos con sabor con el tamal como protagonista de la identidad local",
+        "description": "Descubre la feria Destinos con sabor 2024: una ruta gastronómica por la Vía Sumapaz donde el tamal es el gran protagonista.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "vivir bien"
+        ],
+        "creator": [
+            "redacción vivir bien"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-29 17:05:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-29 17:10:05",
+        "image_url": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5316502A-h-o.webp",
+        "video_url": null,
+        "source_id": "pulzo",
+        "source_name": "Pulzo",
+        "source_priority": 81875,
+        "source_url": "https://www.pulzo.com",
+        "source_icon": "https://i.newsdata.io/pulzo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "866d6ed78f72b14e2e884bb892fa0030",
+        "link": "https://oem.com.mx/elsoldehermosillo/local/comerciantes-y-residentes-del-centro-de-hermosillo-se-preparan-ante-afectaciones-de-polo-32345965",
+        "title": "Comerciantes y residentes del Centro de Hermosillo se preparan ante afectaciones de Polo",
+        "description": "Vecinos y comerciantes del primer cuadro de Hermosillo compartieron las medidas que implementan para evitar afectaciones por las lluvias y el viento",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "local"
+        ],
+        "creator": [
+            "sandra solís"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-29 17:05:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-29 22:13:09",
+        "image_url": "https://oem.com.mx/elsoldehermosillo/img/32346797/1790701188/BASE_LANDSCAPE/400/image.jpg",
+        "video_url": null,
+        "source_id": "elsoldehermosillo",
+        "source_name": "El Sol De Hermosillo",
+        "source_priority": 176742,
+        "source_url": "https://www.elsoldehermosillo.com.mx",
+        "source_icon": "https://i.newsdata.io/elsoldehermosillo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "125d55e85d6d46076aa0e242e43452df",
+        "link": "https://www.elnuevosiglo.com.co/politica/congreso-y-organos-de-control-pactan-ruta-de-rendicion-de-cuentas",
+        "title": "Congreso y órganos de control pactan ruta de rendición de cuentas",
+        "description": "Congreso y órganos de control pactan ruta de rendición de cuentas Encabezado por los presidentes del Senado y la Cámara, Honorio Miguel Henríquez Pinedo y Nicolás Antonio Barguil Cubillos, las instituciones del Estado fijaron una hoja de ruta de cuatro años para garantizar la publicidad y trazabilidad de los recursos públicos.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "firma",
+            "congreso",
+            "acuerdo",
+            "informacion"
+        ],
+        "creator": [
+            "xiomara bustos"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-29 17:05:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-29 17:53:58",
+        "image_url": "https://www.elnuevosiglo.com.co/sites/default/files/2026/09/29/imagen/congreso.png",
+        "video_url": null,
+        "source_id": "elnuevosiglo",
+        "source_name": "El Nuevo Siglo",
+        "source_priority": 3048165,
+        "source_url": "http://elnuevosiglo.com.co",
+        "source_icon": "https://i.newsdata.io/elnuevosiglo.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "4b20b129592fcf409fc3dc62ca6ae0c2",
+        "link": "https://imparcialoaxaca.mx/estilo/horoscopos/horoscopo-de-hoy-29-de-septiembre-de-2026/",
+        "title": "Horóscopo de Hoy, 29 de septiembre de 2026",
+        "description": "La verdad que sana y reorienta tu camino El cargo Horóscopo de Hoy, 29 de septiembre de 2026 apareció primero en El Imparcial de Oaxaca .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "horóscopos",
+            "signos zodiacales",
+            "horóscopo hoy",
+            "astrología",
+            "qué te deparan los astros"
+        ],
+        "creator": [
+            "agencias"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-29 17:05:39",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-29 17:11:52",
+        "image_url": "https://imparcialoaxaca.mx/wp-content/uploads/2026/09/Horoscopo-Imparcial-19.webp",
+        "video_url": null,
+        "source_id": "imparcialoaxaca",
+        "source_name": "El Imparcial De Oaxaca",
+        "source_priority": 149125,
+        "source_url": "https://imparcialoaxaca.mx",
+        "source_icon": "https://i.newsdata.io/imparcialoaxaca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "4a3d71c232fc99017ddfc10c139a6dfb",
+        "link": "https://cms.tomatazos.com/noticia/tras-el-exito-de-obsession-y-backrooms-youtube-asegura-que-sus-creadores-tienen-futuro-en-los-oscar/",
+        "title": "Tras el éxito de ‘Obsession’ y ‘Backrooms’, YouTube asegura que sus creadores tienen futuro en los Oscar",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-29 17:05:38",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-29 17:15:25",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "tomatazos",
+        "source_name": "Tomatazos",
+        "source_priority": 304949,
+        "source_url": "https://www.tomatazos.com",
+        "source_icon": "https://i.newsdata.io/tomatazos.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "1b36c74735b0a047fe2758728e9d1751",
+        "link": "https://lacallelibre.com.mx/2026/09/29/dia-mundial-del-corazonrecomiendan-abandono-del-tabaco-para-reducir-riesgo-cardiovascular/",
+        "title": "Día Mundial del Corazón…Recomiendan Abandono del Tabaco Para Reducir Riesgo Cardiovascular",
+        "description": "El estrés pueden incrementar los factores de riesgo para desarrollar enfermedades cardiovasculares, por lo que recomendó evitar el consumo de tabaco, llevar una alimentación equilibrada y realizar actividad física de manera regular. A través de PrevenIMSS, se realizan acciones de detección oportuna de padecimientos y factores de riesgo como obesidad, hipertensión arterial y diabetes mellitus. […] The post Día Mundial del Corazón…Recomiendan Abandono del Tabaco Para Reducir Riesgo Cardiovascular first appeared on Lacallelibre .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "salud"
+        ],
+        "creator": [
+            "denisse"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "health"
+        ],
+        "datatype": "blog",
+        "pubDate": "2026-09-29 17:05:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-29 17:26:08",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "lacallelibre",
+        "source_name": "La Calle Libre",
+        "source_priority": 8475482,
+        "source_url": "https://lacallelibre.com.mx",
+        "source_icon": "https://i.newsdata.io/lacallelibre.jpeg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
