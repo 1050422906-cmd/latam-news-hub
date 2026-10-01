@@ -1,35 +1,36 @@
 [
     {
-        "article_id": "84ee151190d65c2796b18c06ee74fea1",
-        "link": "https://www.losandes.com.ar/deportes/tiene-23-anos-fue-convocado-lionel-scaloni-y-acaba-ser-papa-matias-soule-presento-bautista-su-primer-hijo-n6008260",
-        "title": "Tiene 23 años, fue convocado por Lionel Scaloni y acaba de ser papá: Matías Soulé presentó a Bautista, su primer hijo",
-        "description": "El delantero de la Roma compartió en redes sociales las imágenes del recién nacido antes de los amistosos frente a Bolivia, Burkina Faso y Benín.",
+        "article_id": "56e0a6446af7c552a7f1760e762f9083",
+        "link": "https://www.bahianoticias.com.br/noticia/321744-mensagens-de-vorcaro-revelam-bastidores-de-patrocinio-a-documentario-sobre-temer",
+        "title": "Mensagens de Vorcaro revelam bastidores de patrocínio a documentário sobre Temer",
+        "description": "A coluna de Lauro Jardim, de O GLOBO, revelou novos detalhes sobre o patrocínio de R$ 1 milhão destinado à produção do documentário “963 Dias”, que retrata o governo do ex-presidente Michel Temer. O filme é dirigido por Bruno Barreto e tem produção executiva do publicitário Elsinho Mouco, que atuou como marqueteiro de Temer.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "deportes"
+            "principal",
+            "política"
         ],
         "creator": [
-            "francisco moreno"
+            "redação"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
-            "top",
-            "sports"
+            "entertainment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-29 17:06:00",
+        "pubDate": "2026-09-30 17:20:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:11:18",
-        "image_url": "https://media.losandes.com.ar/p/6eac0262e60453eca362ce893008f1ad/adjuntos/368/imagenes/100/752/0100752103/1200x675/786x229:806x249/matias-soule.png",
+        "fetched_at": "2026-09-30 17:42:49",
+        "image_url": "https://www.bahianoticias.com.br/fotos/principal_noticias/321744/IMAGEM_NOTICIA_9.jpg?checksum=1790780619",
         "video_url": null,
-        "source_id": "losandes",
-        "source_name": "Los Andes",
-        "source_priority": 114641,
-        "source_url": "https://www.losandes.com.ar",
-        "source_icon": "https://i.newsdata.io/losandes.png",
+        "source_id": "bahianoticias",
+        "source_name": "Bahia Notícias",
+        "source_priority": 164044,
+        "source_url": "https://www.bahianoticias.com.br",
+        "source_icon": "https://i.newsdata.io/bahianoticias.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -41,27 +42,79 @@
         "description_zh": ""
     },
     {
-        "article_id": "dae540a0e789c5bb580ab91cf46de8c3",
-        "link": "https://tribunadepetropolis.com.br/noticias/ira-diz-que-ja-apresentou-aos-eua-condicoes-para-acordo-mas-trump-e-incapaz-de-decidir/",
-        "title": "Irã diz que já apresentou aos EUA condições para acordo, mas Trump é ‘incapaz de decidir’",
-        "description": "O secretário do Conselho Supremo de Segurança Nacional do Irã, major-general Mohsen Rezaei, afirmou nesta terça-feira (29) que Teerã já apresentou suas condições aos Estados Unidos, mas que o presidente americano, Donald Trump, seria incapaz de tomar uma decisão. “Nós apresentamos nossas condições, mas Trump não é capaz de tomar uma decisão”, declarou Rezaei durante […]",
+        "article_id": "aa9cb2d67dbb6acf447cff2536865e2a",
+        "link": "https://www.lagaceta.com.ar/nota/1156195/politica/demoraron-maximo-kirchner-circular-camioneta-pedido-secuestro-causa-hotesur.html",
+        "title": "Demoraron a Máximo Kirchner por circular en una camioneta con pedido de secuestro en la causa Hotesur",
+        "description": "El diputado nacional fue interceptado en en San Luis cuando viajaba rumbo a San Juan para participar de un encuentro del PJ.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "justo daract",
+            "corte suprema de justicia de la nación",
+            "néstor kirchner",
+            "tucumán",
+            "argentina",
+            "política",
+            "cristina fernández de kirchner",
+            "frente para la victoria",
+            "san luis",
+            "máximo kirchner",
+            "pedido de secuestro",
+            "bordo de una camioneta",
+            "partido justicialista"
+        ],
+        "creator": [
+            "silvia de las cruces"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-30 17:20:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-30 20:49:53",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/09/30/demoraron-a-mximo-kirchner-diputado-nacional-fue-interceptado-justo-daract-cuando-viajaba-rumbo-san-juan-para-participar-encuentro-pj-1156195-172032.png",
+        "video_url": null,
+        "source_id": "lagaceta_ar",
+        "source_name": "Lagaceta",
+        "source_priority": 975335,
+        "source_url": "https://www.lagaceta.com.ar",
+        "source_icon": "https://i.newsdata.io/LaGaceta_Ar.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "6d5a869b2e00905dff0972e54656f9f9",
+        "link": "https://tribunadepetropolis.com.br/noticias/seguro-rural-fenseg-ve-marco-legal-como-historico-e-cita-base-para-fundo-de-catastrofe/",
+        "title": "Seguro rural: FenSeg vê marco legal como histórico e cita base para Fundo de Catástrofe",
+        "description": "A Federação Nacional de Seguros Gerais (FenSeg) afirmou, em nota, que a sanção da Lei nº 15.526, que moderniza o marco legal do seguro rural e define a subvenção econômica ao prêmio do seguro rural como despesa obrigatória, representa avanço histórico para a consolidação do instrumento como peça estratégica da política agrícola brasileira. Segundo a […]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "pedro lima / estadão"
+            "julia maciel / estadão"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "politics",
-            "top"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-29 17:06:00",
+        "pubDate": "2026-09-30 17:20:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:47:40",
+        "fetched_at": "2026-09-30 17:47:30",
         "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
         "source_id": "tribunadepetropolis_br",
@@ -80,117 +133,33 @@
         "description_zh": ""
     },
     {
-        "article_id": "0fbab516b23cc65bba4fe4d3bb43ed60",
-        "link": "https://odia.ig.com.br/rio-de-janeiro/2026/09/7307029-motorista-mente-sobre-roubo-de-carga-e-e-preso-em-flagrante-por-furto.html",
-        "title": "Motorista mente sobre roubo de carga e é preso em flagrante por furto",
-        "description": "Carregamento de bebidas era avaliado em mais de R$ 276 mil; homem também responderá por comunicação falsa de crime",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "rio de janeiro"
-        ],
-        "creator": [
-            "manuella viégas"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-29 17:06:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:42:43",
-        "image_url": "https://odia.ig.com.br/_midias/jpg/2026/09/29/whatsapp_image_2026_09_29_at_13_59_34-39498454.jpeg",
-        "video_url": null,
-        "source_id": "odia_ig_br",
-        "source_name": "Odia Ig Br",
-        "source_priority": 144458,
-        "source_url": "https://odia.ig.com.br",
-        "source_icon": "https://i.newsdata.io/odia_ig_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "74aebc7d2157812c30b9490fc79b67c4",
-        "link": "https://www.mdzol.com/deportes/argentina-confirmo-cambios-ultimo-momento-la-convocatoria-antes-del-amistoso-bolivia-n1616893",
-        "title": "Argentina confirmó cambios de último momento en la convocatoria antes del amistoso con Bolivia",
-        "description": "La medida impacta en los planes de Estudiantes y Boca, que afrontarán compromisos clave esta semana.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "selección argentina",
-            "convocatoria",
-            "amistoso"
-        ],
-        "creator": [
-            "mdz deportes"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-29 17:06:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:31:05",
-        "image_url": "https://media.mdzol.com/p/9ca13b09745846904465f8aee4d66a06/adjuntos/373/imagenes/002/002/0002002906/1200x675/611x85:631x105/palacios-flores.jpg",
-        "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://i.newsdata.io/mdzol.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "064004ed3f78ba75c986a4b311a7ac80",
-        "link": "https://www.uai.com.br/sem-categoria/2026/09/29/como-eliminar-a-impregnacao-de-residuos-organicos-em-plasticos-porosos-sem-recorrer-a-saponaceos-abrasivos-pesados/",
-        "title": "Como eliminar a impregnação de resíduos orgânicos em plásticos porosos sem recorrer a saponáceos abrasivos pesados",
-        "description": "Quer aprender a desinfetar a tábua do vaso sanitário e tirar manchas amareladas? Veja o truque fácil com bicarbonato",
+        "article_id": "6d2198c835cf962f43e96c355e6643ce",
+        "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/conheca-os-tres-primeiros-participantes-da-2a-temporada-do-chef-de-alto-nivel.shtml",
+        "title": "Conheça os três primeiros participantes da 2ª temporada do Chef de Alto Nível",
+        "description": "A segunda temporada do reality gastronômico Chef de Alto Nível começou a ter seu elenco revelado nesta quarta-feira (30), no quadro Seleção de Alto Nível, do Mais Você ( Globo ). Leia mais (09/30/2026 - 14h20)",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "gustavo davi silvestrin"
+            "leonardo volpato"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-29 17:06:00",
+        "pubDate": "2026-09-30 17:20:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:06:51",
-        "image_url": "https://www.uai.com.br/wp-content/uploads/2026/09/7746743f-5b81-48a2-91b5-dde9453171ea.jpg",
+        "fetched_at": "2026-09-30 17:32:47",
+        "image_url": null,
         "video_url": null,
-        "source_id": "uai",
-        "source_name": "Portal Uai",
-        "source_priority": 33324,
-        "source_url": "https://www.uai.com.br",
-        "source_icon": null,
+        "source_id": "folha",
+        "source_name": "Folha",
+        "source_priority": 3498,
+        "source_url": "https://www.folha.uol.com.br",
+        "source_icon": "https://i.newsdata.io/folha.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -202,13 +171,13 @@
         "description_zh": ""
     },
     {
-        "article_id": "31fbb7a72f6425d1cb5fb7c7cc8d1bf3",
-        "link": "https://www.dgabc.com.br/Noticia/4349751/ira-diz-que-ja-apresentou-aos-eua-condicoes-para-acordo-mas-trump-e-incapaz-de-decidir-",
-        "title": "Irã diz que já apresentou aos EUA condições para acordo, mas Trump é 'incapaz de decidir'",
-        "description": "Irã diz que já apresentou aos EUA condições para acordo, mas Trump é 'incapaz de decidir'",
+        "article_id": "20a926b967e843599a7f7d7e79d482d3",
+        "link": "https://www.dgabc.com.br/Noticia/4349977/seguro-rural-fenseg-ve-marco-legal-como-historico-e-cita-base-para-fundo-de-catastrofe",
+        "title": "Seguro rural: FenSeg vê marco legal como histórico e cita base para Fundo de Catástrofe",
+        "description": "Seguro rural: FenSeg vê marco legal como histórico e cita base para Fundo de Catástrofe",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "internacional"
+            "economia"
         ],
         "creator": null,
         "language": "portuguese",
@@ -216,13 +185,13 @@
             "brazil"
         ],
         "category": [
-            "politics",
+            "environment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-29 17:06:00",
+        "pubDate": "2026-09-30 17:20:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 18:22:30",
+        "fetched_at": "2026-09-30 18:23:35",
         "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
         "video_url": null,
         "source_id": "dgabc",
@@ -241,189 +210,30 @@
         "description_zh": ""
     },
     {
-        "article_id": "2c55d55856ee1663978eddb63ae94c0a",
-        "link": "https://www.diariodecuyo.com.ar/politica/el-mensaje-bruno-olivera-la-muerte-juan-carlos-pagotto-te-voy-recordar-siempre-n6584427",
-        "title": "El mensaje de Bruno Olivera tras la muerte de Juan Carlos Pagotto: \"Te voy a recordar siempre\"",
-        "description": "El senador sanjuanino de La Libertad Avanza despidió a su compañero de bloque con un emotivo mensaje en redes sociales. Pagotto fue encontrado sin vida este martes en su casa de La Rioja.",
+        "article_id": "320fd7f01498fb85ef9b7c7751299994",
+        "link": "https://www.infobae.com/tecno/2026/09/30/grabacion-profesional-en-iphone-18-pro-asi-funciona-la-apertura-variable-en-final-cut-camera/",
+        "title": "Grabación profesional en iPhone 18 Pro: así funciona la apertura variable en Final Cut Camera",
+        "description": "La apertura variable brinda un control más preciso de la luz y del desenfoque del fondo durante la grabación",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "lla",
-            "juan carlos pagotto",
-            "bruno olivera",
-            "san juan",
-            "la rioja"
+            "apertura variable",
+            "iphone 18 pro max",
+            "final cut",
+            "tecnología-noticias",
+            "cámara",
+            "lo último en tecnología",
+            "tecnología",
+            "apple",
+            "iphone 18 pro"
         ],
         "creator": [
-            "redacción diario de cuyo"
+            "isabela durán san juan"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-29 17:06:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 20:23:59",
-        "image_url": "https://media.diariodecuyo.com.ar/p/1dc31a9026ff88f8e8e417021c1b7d27/adjuntos/380/imagenes/100/337/0100337918/1200x675/464x418:484x438/saveclipapp_825350324_17991077592012752_2053580992796881785_n.jpg",
-        "video_url": null,
-        "source_id": "diariodecuyo",
-        "source_name": "Diario De Cuyo",
-        "source_priority": 394047,
-        "source_url": "https://www.diariodecuyo.com.ar",
-        "source_icon": "https://i.newsdata.io/diariodecuyo.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "efed0269f56bf49f39cd05c870fcba52",
-        "link": "https://jornalpequeno.com.br/2026/09/29/inscricoes-para-7a-corrida-do-tjma-comecam-nesta-quinta-feira-1o/",
-        "title": "Inscrições para 7ª Corrida do TJMA começam nesta quinta-feira (1º)",
-        "description": "Prova será realizada no dia 17 de outubro, na Avenida Litorânea, em São Luís.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "geral",
-            "esportes",
-            "cidade"
-        ],
-        "creator": [
-            "gustavo bogea"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-29 17:05:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:15:11",
-        "image_url": "https://jornalpequeno.com.br/wp-content/uploads/2026/09/card_site_corrida_tjma_2026_29_09_2026_08_06_11.jpg",
-        "video_url": null,
-        "source_id": "jornalpequeno",
-        "source_name": "Jornal Pequeno",
-        "source_priority": 332011,
-        "source_url": "https://jornalpequeno.com.br",
-        "source_icon": "https://i.newsdata.io/jornalpequeno.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "39908bad9ac31c281b763b9ccc0d245b",
-        "link": "https://www.elonce.com/economia/fabricante-de-indumentaria-de-reconocidas-marcas-entro-en-concurso-con-deudas-por-635-millones.htm",
-        "title": "Fabricante de indumentaria de reconocidas marcas entró en concurso con deudas por $635 millones",
-        "description": "utex, fabricante de indumentaria para reconocidas marcas, entró en concurso preventivo con deudas por $635,45 millones y su planta paralizada.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "jutex",
-            "concurso acreedores",
-            "fabricante de indumentaria"
-        ],
-        "creator": [
-            "elonce.com"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-29 17:05:55",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:20:10",
-        "image_url": "https://elonce-media.elonce.com/fotos/2026/09/29/m_1790701793_356.webp",
-        "video_url": null,
-        "source_id": "elonce",
-        "source_name": "Elonce",
-        "source_priority": 1130131,
-        "source_url": "https://www.elonce.com",
-        "source_icon": "https://i.newsdata.io/elonce.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "2b6713ae153bf1222649a393a2e2aa86",
-        "link": "https://www.lanacion.com.ar/politica/roberto-edgar-volcan-se-sumo-a-la-libertad-avanza-y-sera-candidato-en-puerto-iguazu-nid29092026/",
-        "title": "Roberto Edgar Volcán se sumó a La Libertad Avanza y quiere ser candidato a intendente de Puerto Iguazú",
-        "description": "El cantante de cumbia, intérprete del hit de los noventa “Esa malvada”, se postulará a intendente de la ciudad misionera",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "política"
-        ],
-        "creator": [
-            "la nacion"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-29 17:05:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:30:57",
-        "image_url": "https://resizer.glanacion.com/resizer/v2/KSRAJEGRN5DUPALDRYOLI5R3UQ.jpg?auth=da944701d06fcf4ec4a1fe79fd9fb11f92a91f413ccdee49c22f60861b7e73a8&smart=true&width=1365&height=910",
-        "video_url": null,
-        "source_id": "lanacion",
-        "source_name": "La Nacion",
-        "source_priority": 7204,
-        "source_url": "https://www.lanacion.com.ar",
-        "source_icon": "https://i.newsdata.io/lanacion.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "5c7c0c62860aba848be8879b9d32e35c",
-        "link": "https://www.informador.mx/economia/liverpool-este-es-el-samsung-galaxy-en-50-de-descuento-previo-a-la-venta-nocturna-20260929-0080.html",
-        "title": "Liverpool: Este es el Samsung Galaxy en 50% de descuento previo a la Venta Nocturna",
-        "description": "El Samsung Galaxy S23 reacondicionado se encuentra a un precio único, ofreciendo tecnología premium antes de las grandes rebajas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "economía"
-        ],
-        "creator": [
-            "nancy andrade jáuregui"
-        ],
-        "language": "spanish",
-        "country": [
+            "colombia",
+            "argentina",
+            "united states of america",
             "mexico"
         ],
         "category": [
@@ -431,16 +241,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-29 17:06:00",
+        "pubDate": "2026-09-30 17:20:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:34:48",
-        "image_url": "https://www.informador.mx/__export/1790701411650/sites/elinformador/img/2026/09/29/liverpool_este_es_el_samsung_galaxy_en_50-_de_descuento_previo_a_la_venta_nocturna_version1790701393546.png_162987073.png",
+        "fetched_at": "2026-09-30 17:31:57",
+        "image_url": "https://www.infobae.com/resizer/v2/S266TRZF2RAINBHB6O4YSE273I.JPG?auth=20d5896236426dc4a80e82e8f734fe911ceb6c6b27a6afe9950e9b731b3a23b6&smart=true&width=7586&height=5057",
         "video_url": null,
-        "source_id": "informador_mx",
-        "source_name": "Informador Mx",
-        "source_priority": 27025,
-        "source_url": "https://www.informador.mx",
-        "source_icon": "https://i.newsdata.io/informador_mx.png",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -452,35 +262,401 @@
         "description_zh": ""
     },
     {
-        "article_id": "d3982193af237bb087ae3f8782ee83d4",
-        "link": "https://www.futbolred.com/colombianos-en-el-exterior/juan-david-cabal-espera-no-tener-mas-lesiones-tras-paron-de-selecciones-273351",
-        "title": "Juan David Cabal trabaja para regresar tras parón de selecciones",
-        "description": "El defensor colombiano no ha tenido su mejor rendimiento a causa de las lesiones.",
+        "article_id": "524b0bab61a10960c46caf4a9490c7a4",
+        "link": "https://www.infobae.com/tecno/2026/09/30/openai-convierte-a-chatgpt-en-una-plataforma-para-descubrir-y-usar-aplicaciones-dentro-de-los-chats/",
+        "title": "OpenAI convierte a ChatGPT en una plataforma para descubrir y usar aplicaciones dentro de los chats",
+        "description": "La plataforma detectará cuándo un servicio de terceros puede resolver una petición y permitirá activarlo desde el chat, sin abrir otra ventana en el dispositivo",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "colombianos en el exterior"
+            "chatgpt",
+            "inteligencia artificial",
+            "lo último en tecnología",
+            "tecnología-noticias",
+            "sam altman",
+            "openai",
+            "aplicaciones"
         ],
         "creator": [
-            "casa editorial el tiempo; andres rocha florez"
+            "dylan escobar ruiz"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "colombia",
+            "argentina",
+            "united states of america",
+            "mexico"
         ],
         "category": [
+            "technology",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-30 17:19:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-30 17:31:57",
+        "image_url": "https://www.infobae.com/resizer/v2/LKKYEQ2GTZD2DC5LUU3CVHPHFA.JPG?auth=c4caee9a8e32fee5cc333045fef7830fcdf0bfd93ddd65ca730b3d96091e4bf5&smart=true&width=7511&height=5010",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "8b8d49c8e4e921a9928ed7c01f0132fa",
+        "link": "https://www.elterritorio.com.ar/noticias/2026/09/30/917307-ya-se-que-quiero-en-esta-vida-jueves-de-estudiantina-en-la-costa",
+        "title": "\"Ya sé que quiero en esta vida\": jueves de Estudiantina en la costa",
+        "description": "Este jueves desde las 16.45 se vivirá la tercera jornada de desfile en el cuarto tramo de la Costanera. En tanto, la despedida de esta etapa de la fiesta 2026 será el viernes con la última noche de desfile. Luego, vendrá la Expo Carrozas y el show de scolas.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "día del estudiante",
+            "cultura"
+        ],
+        "creator": [
+            "el territorio"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-30 17:19:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-30 17:23:00",
+        "image_url": "https://elterritorio-s3.cdn.net.ar/s3i233/2026/09/elterritorio/images/02/79/32/2793226_9b973d40cb1f8ff179f6337f686b8effa5aef5357bc5d38853c0b0d3cca7bf8c/md.webp",
+        "video_url": null,
+        "source_id": "elterritorio",
+        "source_name": "El Territorio",
+        "source_priority": 1548937,
+        "source_url": "https://www.elterritorio.com.ar",
+        "source_icon": "https://i.newsdata.io/elterritorio.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "8cc4cad6b750957ad1d06273725361fa",
+        "link": "https://www.mdzol.com/policiales/2026/9/30/estoy-muerto-en-vida-el-conmovedor-mensaje-del-novio-de-morena-gonzalez-tras-su-muerte-1984668.html",
+        "title": "“Estoy muerto en vida”: el conmovedor mensaje del novio de Morena González tras su muerte",
+        "description": "La joven murió tras resultar herida en el accidente ocurrido en las Picadas de Lavalle. Su novio la despidió con un mensaje en donde recordó el vínculo que compartían y habló del dolor por su inesperada partida",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "dolor",
+            "picadas de lavalle",
+            "accidente",
+            "redes",
+            "despedida",
+            "mensaje"
+        ],
+        "creator": [
+            "mdz policiales"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-30 17:19:43",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-30 17:31:43",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "mdzol",
+        "source_name": "Mdz",
+        "source_priority": 7713,
+        "source_url": "https://www.mdzol.com",
+        "source_icon": "https://i.newsdata.io/mdzol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "1d947ace83e206026683b2dc17b0efed",
+        "link": "https://canaltech.com.br/produtos/xiaomi-lanca-sensor-de-us-6-que-sabe-quando-voce-abre-portas-e-gavetas/",
+        "title": "Xiaomi lança sensor de US$ 6 que sabe quando você abre portas e gavetas",
+        "description": "A Xiaomi anunciou o Door and Window Sensor 3 , novo sensor inteligente capaz de identificar quando portas, janelas, gavetas ou armários são abertos e fechados. O acessório estreia na China por ¥ 44, cerca de R$ 34 em conversão direta , por meio de uma campanha de financiamento coletivo. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Além de mostrar o estado do local monitorado em tempo real, o dispositivo mantém um histórico de uso. Assim, é possível saber quantas vezes uma gaveta foi aberta durante o dia ou por quanto tempo uma porta permaneceu aberta, por exemplo. Sensor registra abertura de portas e gavetas O Xiaomi Door and Window Sensor 3 mantém o formato compacto característico da categoria. A ideia é instalar uma parte do dispositivo na superfície móvel e outra na estrutura fixa para que o sistema reconheça quando há abertura ou fechamento. O acessório pode ser colocado em portas e janelas, mas também funciona em gavetas, armários, caixas organizadoras e outros locais com espaço suficiente para a instalação. A Xiaomi ainda adicionou marcações no próprio corpo do sensor para ajudar no alinhamento entre a unidade principal e o ímã. Isso reduz a chance de erros de instalação que poderiam causar registros incorretos. No aplicativo Mi Home, o usuário consegue consultar o estado atual do sensor, acessar o histórico de eventos e receber alertas caso alguma situação configurada como anormal seja identificada. Bateria pode durar até três anos Uma das principais mudanças da terceira geração está no componente responsável por detectar a abertura. A Xiaomi deixou de lado o sensor Hall usado no Door and Window Sensor 2 e adotou um sensor de magnetorresistência túnel. Segundo a fabricante, a nova tecnologia responde mais rapidamente e consome menos energia. O resultado aparece principalmente na autonomia. O dispositivo usa uma bateria do tipo CR2032 e promete até três anos de duração em condições típicas de uso. É um avanço considerável sobre a geração anterior, cuja estimativa era de aproximadamente um ano. Por outro lado, a Xiaomi removeu o sensor de luminosidade presente no Door and Window Sensor 2. Desta vez, a prioridade ficou para a autonomia e para o monitoramento de abertura e fechamento. Sensor pode automatizar a casa O novo dispositivo também pode fazer parte de automações no ecossistema da Xiaomi. Uma rotina pode, por exemplo, acender as luzes quando uma porta for aberta ou desligar o ar-condicionado caso uma janela fique aberta. Também é possível configurar lembretes para fechar janelas em determinadas condições, como períodos de chuva ou umidade elevada. As rotinas precisam ser configuradas manualmente no Mi Home e dependem de outros dispositivos inteligentes compatíveis. Para acessar o sensor à distância pelo aplicativo, é necessário ter em casa um equipamento compatível com gateway Bluetooth Mesh . A integração com outros aparelhos da marca ocorre pela plataforma Surge Intelligent Connect. Preço e disponibilidade O Xiaomi Door and Window Sensor 3 entra em financiamento coletivo na China em 12 de outubro, às 10h no horário local, por ¥ 44, aproximadamente R$ 34 . Após a campanha, o preço sugerido sobe para ¥ 49, cerca de R$ 38 em conversão direta . A Xiaomi ainda não divulgou planos para comercializar o novo sensor em outros mercados. {{WHATSAPP_CHANNEL}}",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "bruno bertonzin"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "technology",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-30 17:19:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-30 17:37:42",
+        "image_url": "https://tl.ctcdn.com.br/hHJac0Ku8AiD7x_7dpDm_VwPRZM=/320x180/smart/filters:format(webp):quality(85)/e5c9d252-af5d-47b2-b13e-470d4a014bb3.png",
+        "video_url": null,
+        "source_id": "canaltech_br",
+        "source_name": "Canaltech",
+        "source_priority": 47267,
+        "source_url": "https://canaltech.com.br",
+        "source_icon": "https://i.newsdata.io/canaltech_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "e2587881fed98f571adda29793fd5c2d",
+        "link": "https://www.theclinic.cl/2026/09/30/canal-13-gana-en-la-corte-y-deja-sin-efecto-multa-del-cntv-por-cobertura-de-homicidio-en-tu-dia/",
+        "title": "Canal 13 gana en la Corte y deja sin efecto multa del CNTV por cobertura de homicidio en “Tu Día”",
+        "description": "La sanción de 200 UTM se había impuesto por la reiterada exhibición de imágenes previas al homicidio de José Reyes Ossa. La Corte consideró que el CNTV no fundamentó suficientemente que el contenido tuviera un carácter sensacionalista ni que fuera apto para afectar a menores. The post Canal 13 gana en la Corte y deja sin efecto multa del CNTV por cobertura de homicidio en “Tu Día” appeared first on The Clinic .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "corte de apelaciones de santiago",
+            "consejo nacional de televisión",
+            "josé reyes ossa",
+            "tiempo libre",
+            "tu día",
+            "canal 13"
+        ],
+        "creator": [
+            "dominga krotik"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-30 17:20:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-30 17:41:42",
+        "image_url": "https://static.theclinic.cl/media/2026/09/30-150158_an21_A_UNO_1657408.jpg",
+        "video_url": null,
+        "source_id": "theclinic",
+        "source_name": "The Clinic",
+        "source_priority": 129373,
+        "source_url": "https://www.theclinic.cl",
+        "source_icon": "https://i.newsdata.io/theclinic.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "320fd7f01498fb85ef9b7c7751299994",
+        "link": "https://www.infobae.com/tecno/2026/09/30/grabacion-profesional-en-iphone-18-pro-asi-funciona-la-apertura-variable-en-final-cut-camera/",
+        "title": "Grabación profesional en iPhone 18 Pro: así funciona la apertura variable en Final Cut Camera",
+        "description": "La apertura variable brinda un control más preciso de la luz y del desenfoque del fondo durante la grabación",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "apertura variable",
+            "iphone 18 pro max",
+            "final cut",
+            "tecnología-noticias",
+            "cámara",
+            "lo último en tecnología",
+            "tecnología",
+            "apple",
+            "iphone 18 pro"
+        ],
+        "creator": [
+            "isabela durán san juan"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "argentina",
+            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "technology",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-30 17:20:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-30 17:31:57",
+        "image_url": "https://www.infobae.com/resizer/v2/S266TRZF2RAINBHB6O4YSE273I.JPG?auth=20d5896236426dc4a80e82e8f734fe911ceb6c6b27a6afe9950e9b731b3a23b6&smart=true&width=7586&height=5057",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "524b0bab61a10960c46caf4a9490c7a4",
+        "link": "https://www.infobae.com/tecno/2026/09/30/openai-convierte-a-chatgpt-en-una-plataforma-para-descubrir-y-usar-aplicaciones-dentro-de-los-chats/",
+        "title": "OpenAI convierte a ChatGPT en una plataforma para descubrir y usar aplicaciones dentro de los chats",
+        "description": "La plataforma detectará cuándo un servicio de terceros puede resolver una petición y permitirá activarlo desde el chat, sin abrir otra ventana en el dispositivo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "chatgpt",
+            "inteligencia artificial",
+            "lo último en tecnología",
+            "tecnología-noticias",
+            "sam altman",
+            "openai",
+            "aplicaciones"
+        ],
+        "creator": [
+            "dylan escobar ruiz"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia",
+            "argentina",
+            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "technology",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-30 17:19:58",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-30 17:31:57",
+        "image_url": "https://www.infobae.com/resizer/v2/LKKYEQ2GTZD2DC5LUU3CVHPHFA.JPG?auth=c4caee9a8e32fee5cc333045fef7830fcdf0bfd93ddd65ca730b3d96091e4bf5&smart=true&width=7511&height=5010",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "e3d1bafedcf236dd1db118ad929042b6",
+        "link": "https://intoleranciadiario.com/articles/internacional/2026/09/30/1058475-avion-de-flydubai-aterriza-de-emergencia-en-arabia-saudi-tras-agresion-a-piloto.html",
+        "title": "Avión de Flydubai aterriza de emergencia en Arabia Saudí tras agresión a piloto",
+        "description": "El primer ministro de Israel, Benjamín Netanyahu, calificó el incidente como un acto terrorista.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "israel"
+        ],
+        "creator": [
+            "redacción intolerancia; intoleranciadiario com"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-30 17:19:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-30 17:19:53",
+        "image_url": "https://assets.intoleranciadiario.com/media/images/flydubai-intolerancia-1790786608162.png",
+        "video_url": null,
+        "source_id": "intoleranciadiario",
+        "source_name": "Intolerancia Diario",
+        "source_priority": 800128,
+        "source_url": "https://intoleranciadiario.com",
+        "source_icon": "https://i.newsdata.io/intoleranciadiario.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "a9112d737f705409c89f832ffb5127cb",
+        "link": "https://www.mediotiempo.com/mas-deportes/box/kahwagi-vs-olivas-asi-fue-la-ultima-pelea-del-boxeador-que-se-vio-manchada-por-polemica",
+        "title": "Jorge Kahwagi vs. Ramón Olivas: así fue su pelea más polémica",
+        "description": "Jorge Kahwagi selló uno de los KO's más polémicos en la historia del boxeo mexicano.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "jorge kahwagi ultima pelea"
+        ],
+        "creator": [
+            "ricardo olivares"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-29 17:05:57",
+        "pubDate": "2026-09-30 17:19:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 18:04:54",
-        "image_url": "https://www.futbolred.com/files/article_graphic/uploads/2026/03/29/69c9e7f1dca4b.png",
+        "fetched_at": "2026-09-30 19:36:06",
+        "image_url": "https://s3.us-east-2.amazonaws.com/cdn.mediotiempo.com/uploads/media/2026/09/30/victoria-polemica-record-jorge-kahwagi.jpg",
         "video_url": null,
-        "source_id": "futbolred",
-        "source_name": "Futbolred",
-        "source_priority": 17422,
-        "source_url": "https://www.futbolred.com",
-        "source_icon": "https://i.newsdata.io/futbolred.png",
+        "source_id": "mediotiempo",
+        "source_name": "Medio Tiempo",
+        "source_priority": 36606,
+        "source_url": "https://www.mediotiempo.com",
+        "source_icon": "https://i.newsdata.io/mediotiempo.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -492,37 +668,38 @@
         "description_zh": ""
     },
     {
-        "article_id": "2d03d96e810f2a02af7472b2433f4008",
-        "link": "https://www.semana.com/economia/macroeconomia/articulo/adaptacion-climatica-avanza-en-las-empresas-pero-persisten-brechas-de-aseguramiento/202656/",
-        "title": "Adaptación climática avanza en las empresas, pero persisten brechas de aseguramiento",
-        "description": "El riesgo climático impulsa nuevas medidas de resiliencia en las empresas.",
+        "article_id": "cd8b9e492847e347e1792e4b91fd9e6e",
+        "link": "https://www.elimparcial.com/son/hermosillo/2026/09/30/hermosillo-gana-por-segunda-vez-el-desafio-de-ciudades-de-wwf-por-sus-acciones-contra-el-cambio-climatico/",
+        "title": "Hermosillo gana por segunda vez el Desafío de Ciudades de WWF por sus acciones contra el cambio climático",
+        "description": "El municipio fue seleccionado junto con Medellín entre las ciudades latinoamericanas reconocidas por sus estrategias frente al cambio climático durante el ciclo 2025-2026.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "empresas afectadas",
+            "reconocimiento",
             "cambio climático",
-            "aseguradoras"
+            "hermosillo verde",
+            "gobierno de hermosillo"
         ],
         "creator": [
-            "jerónimo castillo mujica"
+            "el imparcial"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "mexico"
         ],
         "category": [
             "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-29 17:05:56",
+        "pubDate": "2026-09-30 17:19:43",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:34:58",
-        "image_url": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/6XJEISX6WBEWHOQOOGKGW3VJX4.jpg?auth=b0a3da96c21a3584635800bb165bcbcdf0424223c0837a8880b314e82dbe090c&smart=true&width=6250&height=4167",
+        "fetched_at": "2026-09-30 17:35:32",
+        "image_url": "https://www.elimparcial.com/resizer/v2/XNYLXBE3DZDO3MVPEYTGG2PIEU.jpg?auth=50435cf00f0368a519fc6060dae5b62af1faebeaa509509d7c95ec691e4b8f98&smart=true&width=1200&height=675",
         "video_url": null,
-        "source_id": "semana",
-        "source_name": "Semana",
-        "source_priority": 15867,
-        "source_url": "https://www.semana.com",
-        "source_icon": "https://i.newsdata.io/semana.png",
+        "source_id": "elimparcial",
+        "source_name": "El Imparcial",
+        "source_priority": 25219,
+        "source_url": "https://www.elimparcial.com",
+        "source_icon": "https://i.newsdata.io/elimparcial.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -534,15 +711,62 @@
         "description_zh": ""
     },
     {
-        "article_id": "cbfa867787b094c99a5b5f5b8e6efd8a",
-        "link": "https://nortedigital.mx/la-unidad-no-significa-pensar-todos-igual-mayra-chavez-respalda-a-cruz-y-llama-a-cerrar-filas/",
-        "title": "“La unidad no significa pensar todos igual”: Mayra Chávez respalda a Cruz y llama a cerrar filas",
-        "description": "Mayra Chávez felicitó a Cruz Pérez Cuéllar por su designación como coordinador estatal de la Defensa de la Transformación y la Soberanía Nacional en Chihuahua y llamó a mantener la unidad del movimiento después del proceso interno. “Hoy comienza una nueva etapa que debe encontrarnos unidos, poniendo por encima de cualquier aspiración personal las causas […] La entrada “La unidad no significa pensar todos igual”: Mayra Chávez respalda a Cruz y llama a cerrar filas aparece primero en Norte de Ciudad Juárez .",
+        "article_id": "7bf748653687cb80728e5f7b99b959e6",
+        "link": "https://www.las2orillas.co/como-logro-arelys-henao-pasar-de-cantar-en-buses-a-convertirse-en-la-reina-del-despecho-y-llenar-el-movistar-arena/",
+        "title": "Cómo logró Arelys Henao pasar de cantar en buses a convertirse en la reina del despecho y llenar el Movistar Arena",
+        "description": "El 17 de octubre la cantante paisa celebrará 30 años de carrera ante más de 14.000 asistentes con canciones como “Mi historia” y “Señor Prohibido” El artículo Cómo logró Arelys Henao pasar de cantar en buses a convertirse en la reina del despecho y llenar el Movistar Arena fue publicado originalmente en Las2orillas.co: Historias, voces y noticias de Colombia . Copyrights Las2orillas.co",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "mayra chávez",
-            "morena",
-            "política"
+            "movistar arena",
+            "actualidad",
+            "arelys henao",
+            "música popular",
+            "entretenimiento"
+        ],
+        "creator": [
+            "héctor cañón hurtado"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-09-30 17:19:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-09-30 19:20:59",
+        "image_url": "https://www.las2orillas.co/wp-content/uploads/2026/09/ARELYS-HENAO-1.jpg",
+        "video_url": null,
+        "source_id": "las2orillas",
+        "source_name": "Las2orillas",
+        "source_priority": 23814,
+        "source_url": "https://www.las2orillas.co",
+        "source_icon": "https://i.newsdata.io/las2orillas.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "53b19af72c7345e4e1ad01e6679c5a22",
+        "link": "https://nortedigital.mx/levantan-censo-en-riberas-para-calcular-danos-vecinos-piden-ayuda/",
+        "title": "Levantan censo en Riberas para calcular daños; vecinos piden ayuda",
+        "description": "Elementos del departamento de Bomberos levantaron un censo entre las personas cuyas casas fueron inundadas con aguas negras debido a las lluvias, informaron vecinos de la etapa 8 del fraccionamiento Riberas del Bravo. “Hace un rato vinieron los bomberos a andar haciendo un censo, los bomberos de aquí, sí, vinieron a hacer un censo, todo […] La entrada Levantan censo en Riberas para calcular daños; vecinos piden ayuda aparece primero en Norte de Ciudad Juárez .",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "riberas del bravo",
+            "inundaciones",
+            "frontera",
+            "lluvias",
+            "afectaciones"
         ],
         "creator": [
             "jorge lópez landó"
@@ -552,13 +776,14 @@
             "mexico"
         ],
         "category": [
-            "politics"
+            "environment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-29 17:05:55",
+        "pubDate": "2026-09-30 17:19:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:18:13",
-        "image_url": "https://nortedigital.mx/wp-content/uploads/2026/02/mayra-chavez.jpeg",
+        "fetched_at": "2026-09-30 17:48:38",
+        "image_url": "https://nortedigital.mx/wp-content/uploads/2026/09/inundaciones-riberas.jpg",
         "video_url": null,
         "source_id": "nortedigital_mx",
         "source_name": "Norte De Ciudad Juárez",
@@ -576,99 +801,19 @@
         "description_zh": ""
     },
     {
-        "article_id": "0847f7b0da2da596e2455fa5b493177f",
-        "link": "https://www.pulzo.com/vivir-bien/feria-destinos-con-sabor-tamal-y-tradicion-en-el-corredor-bogota-girardot-colombia-PP5316502A",
-        "title": "El corredor Bogotá-Girardot celebra la feria Destinos con sabor con el tamal como protagonista de la identidad local",
-        "description": "Descubre la feria Destinos con sabor 2024: una ruta gastronómica por la Vía Sumapaz donde el tamal es el gran protagonista.",
+        "article_id": "57267bae40e3a7594520c56019a3936d",
+        "link": "https://www.elespectador.com/opinion/casi-volvemos-a-romper-las-relaciones-diplomaticas-con-israel/",
+        "title": "Casi volvemos a romper las relaciones diplomáticas con Israel",
+        "description": "Esta semana, en la Redacción al Desnudo de El Espectador, les contamos que en el pie de una foto del canciller Omar Bula escribimos que Colombia había ...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "vivir bien"
+            "redaccción al desnudo",
+            "rad",
+            "fidel cano",
+            "israel"
         ],
         "creator": [
-            "redacción vivir bien"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-29 17:05:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:10:05",
-        "image_url": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5316502A-h-o.webp",
-        "video_url": null,
-        "source_id": "pulzo",
-        "source_name": "Pulzo",
-        "source_priority": 81875,
-        "source_url": "https://www.pulzo.com",
-        "source_icon": "https://i.newsdata.io/pulzo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "866d6ed78f72b14e2e884bb892fa0030",
-        "link": "https://oem.com.mx/elsoldehermosillo/local/comerciantes-y-residentes-del-centro-de-hermosillo-se-preparan-ante-afectaciones-de-polo-32345965",
-        "title": "Comerciantes y residentes del Centro de Hermosillo se preparan ante afectaciones de Polo",
-        "description": "Vecinos y comerciantes del primer cuadro de Hermosillo compartieron las medidas que implementan para evitar afectaciones por las lluvias y el viento",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "local"
-        ],
-        "creator": [
-            "sandra solís"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-29 17:05:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 22:13:09",
-        "image_url": "https://oem.com.mx/elsoldehermosillo/img/32346797/1790701188/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldehermosillo",
-        "source_name": "El Sol De Hermosillo",
-        "source_priority": 176742,
-        "source_url": "https://www.elsoldehermosillo.com.mx",
-        "source_icon": "https://i.newsdata.io/elsoldehermosillo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "125d55e85d6d46076aa0e242e43452df",
-        "link": "https://www.elnuevosiglo.com.co/politica/congreso-y-organos-de-control-pactan-ruta-de-rendicion-de-cuentas",
-        "title": "Congreso y órganos de control pactan ruta de rendición de cuentas",
-        "description": "Congreso y órganos de control pactan ruta de rendición de cuentas Encabezado por los presidentes del Senado y la Cámara, Honorio Miguel Henríquez Pinedo y Nicolás Antonio Barguil Cubillos, las instituciones del Estado fijaron una hoja de ruta de cuatro años para garantizar la publicidad y trazabilidad de los recursos públicos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "firma",
-            "congreso",
-            "acuerdo",
-            "informacion"
-        ],
-        "creator": [
-            "xiomara bustos"
+            "fidel cano correa"
         ],
         "language": "spanish",
         "country": [
@@ -678,17 +823,17 @@
             "politics",
             "top"
         ],
-        "datatype": "news",
-        "pubDate": "2026-09-29 17:05:44",
+        "datatype": "multimedia",
+        "pubDate": "2026-09-30 17:19:30",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:53:58",
-        "image_url": "https://www.elnuevosiglo.com.co/sites/default/files/2026/09/29/imagen/congreso.png",
-        "video_url": null,
-        "source_id": "elnuevosiglo",
-        "source_name": "El Nuevo Siglo",
-        "source_priority": 3048165,
-        "source_url": "http://elnuevosiglo.com.co",
-        "source_icon": "https://i.newsdata.io/elnuevosiglo.jpg",
+        "fetched_at": "2026-09-30 17:48:17",
+        "image_url": "https://www.elespectador.com/wp-content/uploads/elespectador/36VWL43WONECPP7GOI6KXCLJYU.jpg",
+        "video_url": "https://www.dailymotion.com/embed/video/xbfd0cm",
+        "source_id": "elespectador",
+        "source_name": "Elespectador.com",
+        "source_priority": 589787,
+        "source_url": "http://elespectador.com",
+        "source_icon": "https://i.newsdata.io/elespectador.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -700,116 +845,34 @@
         "description_zh": ""
     },
     {
-        "article_id": "4b20b129592fcf409fc3dc62ca6ae0c2",
-        "link": "https://imparcialoaxaca.mx/estilo/horoscopos/horoscopo-de-hoy-29-de-septiembre-de-2026/",
-        "title": "Horóscopo de Hoy, 29 de septiembre de 2026",
-        "description": "La verdad que sana y reorienta tu camino El cargo Horóscopo de Hoy, 29 de septiembre de 2026 apareció primero en El Imparcial de Oaxaca .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "horóscopos",
-            "signos zodiacales",
-            "horóscopo hoy",
-            "astrología",
-            "qué te deparan los astros"
-        ],
-        "creator": [
-            "agencias"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-09-29 17:05:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:11:52",
-        "image_url": "https://imparcialoaxaca.mx/wp-content/uploads/2026/09/Horoscopo-Imparcial-19.webp",
-        "video_url": null,
-        "source_id": "imparcialoaxaca",
-        "source_name": "El Imparcial De Oaxaca",
-        "source_priority": 149125,
-        "source_url": "https://imparcialoaxaca.mx",
-        "source_icon": "https://i.newsdata.io/imparcialoaxaca.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "4a3d71c232fc99017ddfc10c139a6dfb",
-        "link": "https://cms.tomatazos.com/noticia/tras-el-exito-de-obsession-y-backrooms-youtube-asegura-que-sus-creadores-tienen-futuro-en-los-oscar/",
-        "title": "Tras el éxito de ‘Obsession’ y ‘Backrooms’, YouTube asegura que sus creadores tienen futuro en los Oscar",
-        "description": null,
+        "article_id": "3410287616957dc096ebb8d0d55c0e94",
+        "link": "https://actualidad-rt.com/actualidad/630194-drastico-paso-volkswagen",
+        "title": "El drástico paso de Volkswagen en medio de la crisis automotriz europea",
+        "description": "Según el sindicato IG Metall, la medida afecta a pilares centrales del convenio colectivo interno de Volkswagen.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
-        "creator": null,
+        "creator": [
+            "rt en español"
+        ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "entertainment"
+            "top",
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-09-29 17:05:38",
+        "pubDate": "2026-09-30 17:19:27",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:15:25",
-        "image_url": null,
+        "fetched_at": "2026-09-30 17:34:52",
+        "image_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd31f159bf5b7ec939aa57.png",
         "video_url": null,
-        "source_id": "tomatazos",
-        "source_name": "Tomatazos",
-        "source_priority": 304949,
-        "source_url": "https://www.tomatazos.com",
-        "source_icon": "https://i.newsdata.io/tomatazos.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "1b36c74735b0a047fe2758728e9d1751",
-        "link": "https://lacallelibre.com.mx/2026/09/29/dia-mundial-del-corazonrecomiendan-abandono-del-tabaco-para-reducir-riesgo-cardiovascular/",
-        "title": "Día Mundial del Corazón…Recomiendan Abandono del Tabaco Para Reducir Riesgo Cardiovascular",
-        "description": "El estrés pueden incrementar los factores de riesgo para desarrollar enfermedades cardiovasculares, por lo que recomendó evitar el consumo de tabaco, llevar una alimentación equilibrada y realizar actividad física de manera regular. A través de PrevenIMSS, se realizan acciones de detección oportuna de padecimientos y factores de riesgo como obesidad, hipertensión arterial y diabetes mellitus. […] The post Día Mundial del Corazón…Recomiendan Abandono del Tabaco Para Reducir Riesgo Cardiovascular first appeared on Lacallelibre .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "salud"
-        ],
-        "creator": [
-            "denisse"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "health"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-09-29 17:05:37",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-09-29 17:26:08",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "lacallelibre",
-        "source_name": "La Calle Libre",
-        "source_priority": 8475482,
-        "source_url": "https://lacallelibre.com.mx",
-        "source_icon": "https://i.newsdata.io/lacallelibre.jpeg",
+        "source_id": "rt_mx",
+        "source_name": "Rt",
+        "source_priority": 19092,
+        "source_url": "https://actualidad.rt.com",
+        "source_icon": "https://i.newsdata.io/rt_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
