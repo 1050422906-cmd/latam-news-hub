@@ -1,111 +1,38 @@
 [
     {
-        "article_id": "d2e70028a45d4aa03e58972e5d81903d",
-        "link": "https://www.dgabc.com.br/Noticia/4350183/ou-o-ira-assina-um-acordo-com-os-eua-ou-nao-existira-mais-ameaca-trump",
-        "title": "Ou o Irã assina um acordo com os EUA, 'ou não existirá mais', ameaça Trump",
-        "description": "Ou o Irã assina um acordo com os EUA, 'ou não existirá mais', ameaça Trump",
+        "article_id": "ce7afc9c17e8c1b937674805439d8c9a",
+        "link": "https://www.lagaceta.com.ar/nota/1156473/sociedad/habitos-cotidianos-parecen-inofensivos-pero-danan-tu-salud-sin-te-des-cuenta.html",
+        "title": "Los hábitos cotidianos que parecen inofensivos pero dañan tu salud sin que te des cuenta",
+        "description": "Un repaso por aquellas costumbres diarias que solemos pasar por alto, pero que impactan directamente en nuestro ánimo, nivel de energía y bienestar general, según advierten especialistas e instituciones médicas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "internacional"
+            "salud",
+            "tucumán",
+            "sociedad",
+            "tendencias",
+            "organización mundial de la salud"
         ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-01 17:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 18:23:05",
-        "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://i.newsdata.io/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "ca39bd38644cc5985af206dda36dfc6e",
-        "link": "https://www.dgabc.com.br/Noticia/4350182/governo-lula-assina-concessao-de-ct-rei-pele-ao-santos-por-40-anos",
-        "title": "Governo Lula assina concessão de CT Rei Pelé ao Santos por 40 anos",
-        "description": "Governo Lula assina concessão de CT Rei Pelé ao Santos por 40 anos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "esportes"
-        ],
-        "creator": null,
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-01 17:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 18:23:05",
-        "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
-        "video_url": null,
-        "source_id": "dgabc",
-        "source_name": "Diário Do Grande Abc",
-        "source_priority": 1985812,
-        "source_url": "https://www.dgabc.com.br",
-        "source_icon": "https://i.newsdata.io/dgabc.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "32bbf606053eebdfd8b6102a6865ae42",
-        "link": "https://www.rosario3.com/ecos365/noticias/el-gigante-frances-que-apuesta-por-el-petroleo-argentino-inversiones-por-us10.000-millones-20261001-0006.html",
-        "title": "El gigante francés que apuesta por el petróleo argentino: inversiones por u$s10.000 millones",
-        "description": "El anuncio llegó en el inicio de la Argentina Week, en París. TotalEnergies presentó una cartera de proyectos para ampliar su producción de gas y petróleo en el país",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
         "creator": [
-            "redacción ecos365"
+            "luisina acosta"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top",
-            "business"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-01 17:08:00",
+        "pubDate": "2026-10-02 16:51:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:39:25",
-        "image_url": "https://www.rosario3.com/__export/1790874852258/sites/rosario3/img/2026/10/01/captura_de_pantalla_2026-10-01_141337_crop1790874851552.png_554688468.png",
+        "fetched_at": "2026-10-02 20:06:35",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/10/02/habitos-diarios-afectan-salud-1156473-140213.jpg",
         "video_url": null,
-        "source_id": "rosario3",
-        "source_name": "Rosario 3",
-        "source_priority": 56266,
-        "source_url": "https://www.rosario3.com",
-        "source_icon": "https://i.newsdata.io/rosario3.png",
+        "source_id": "lagaceta",
+        "source_name": "La Gaceta",
+        "source_priority": 41850,
+        "source_url": "http://www.lagaceta.com.ar",
+        "source_icon": "https://i.newsdata.io/lagaceta.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -117,15 +44,99 @@
         "description_zh": ""
     },
     {
-        "article_id": "a0a58926207af967cd4955e2bca4f7cc",
-        "link": "https://tribunadepetropolis.com.br/noticias/governo-lula-assina-concessao-de-ct-rei-pele-ao-santos-por-40-anos/",
-        "title": "Governo Lula assina concessão de CT Rei Pelé ao Santos por 40 anos",
-        "description": "O governo do presidente Luiz Inácio Lula da Silva (PT) assinou nesta quinta-feira, 1º, a renovação da concessão do Centro de Treinamento Rei Pelé por mais 40 anos. O CT é usado pela equipe do Santos na Baixada. Estiveram presentes na cerimônia de assinatura da concessão o presidente do Santos, Marcelo Teixeira; os ex-jogadores Pepe, […]",
+        "article_id": "3947a106882db7d3d9ea3289bb1bdd00",
+        "link": "https://www.lagaceta.com.ar/nota/1156467/sociedad/octubre-rosa-se-habilitara-espacio-para-hacer-chequeos-ginecologicos-preventivos-asistencia-publica.html",
+        "title": "Octubre Rosa: se habilitará un espacio para hacer chequeos ginecológicos preventivos en la Asistencia Pública",
+        "description": "Los lunes y miércoles las mujeres podrán hacerse atender en los centros de salud de la Municipalidad para prevenir el cáncer de mama.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "asistencia pública",
+            "salud",
+            "tucumán",
+            "sociedad",
+            "tendencias",
+            "municipalidad de san miguel de tucumán"
+        ],
+        "creator": [
+            "milagro corbalán"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-02 16:51:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-02 20:06:35",
+        "image_url": "https://img.lagaceta.com.ar/fotos/notas/2026/10/02/octubre-rosa-se-habilitara-espacio-para-hacer-chequeos-ginecologicos-preventivos-asistencia-publica-1156467-133248.jpg",
+        "video_url": null,
+        "source_id": "lagaceta",
+        "source_name": "La Gaceta",
+        "source_priority": 41850,
+        "source_url": "http://www.lagaceta.com.ar",
+        "source_icon": "https://i.newsdata.io/lagaceta.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "c1d9a90b72798d6dcc87f79bbcecd002",
+        "link": "https://jc.uol.com.br/colunas/enem-e-educacao/2026/10/02/ifpe-lanca-polo-de-inovacao-com-foco-em-tecnologias-para-industria-sustentavel.html",
+        "title": "IFPE lança Polo de Inovação com foco em tecnologias para indústria sustentável",
+        "description": "A unidade foi inaugurada nesta quinta-feira (1) para desenvolver projetos de pesquisa e tecnologia voltados à indústria e à sustentabilidade",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "tecnologia"
+        ],
+        "creator": [
+            "anaís coelho"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "science",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-02 16:50:59",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-02 18:48:43",
+        "image_url": "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2026/10/02/whatsapp_image_2026_10_02_at_08_11_42-37121328.jpeg",
+        "video_url": null,
+        "source_id": "jcne10uol",
+        "source_name": "Jc Notiacute",
+        "source_priority": 652888,
+        "source_url": "https://jc.ne10.uol.com.br",
+        "source_icon": "https://i.newsdata.io/jcne10uol.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "b779bf870b5732fdfa733ba0c414bb0c",
+        "link": "https://www.espn.com.br/futebol/artigo/_/id/17328748/cristiano-ronaldo-contra-jorge-jesus-autor-outdoor-apoio-revela-quanto-pagou-promete-mais-protestos",
+        "title": "Autor de outdoor de apoio a Cristiano Ronaldo contra Jorge Jesus revela quanto pagou e promete mais protestos",
+        "description": "As últimas semanas para a seleção de Portugal têm sido envoltas por um clima complicado",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
-        "creator": [
-            "gabriel hirabahasi / estadão"
-        ],
+        "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
@@ -134,92 +145,16 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-01 17:08:00",
+        "pubDate": "2026-10-02 16:50:57",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:47:07",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://i.newsdata.io/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "2aea81516c6a36338048c2170ad9fb86",
-        "link": "https://tribunadepetropolis.com.br/noticias/ou-o-ira-assina-um-acordo-com-os-eua-ou-nao-existira-mais-ameaca-trump/",
-        "title": "Ou o Irã assina um acordo com os EUA, ‘ou não existirá mais’, ameaça Trump",
-        "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quinta-feira, 2, que terá de tomar uma decisão sobre o Irã e voltou a pressionar Teerã por um acordo. “Ou o Irã assina um acordo, ou não existirá mais”, declarou a jornalistas. Questionado sobre a eleição presidencial de 2028, o republicano afirmou que poderá apoiar algum […]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "pedro lima / estadão"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-01 17:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:47:10",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://i.newsdata.io/tribunadepetropolis_br.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "8a0271bd41db0bbe926aec1ec7331422",
-        "link": "https://www.elancasti.com.ar/saenz-destaco-que-el-centro-comercial-valle-chico-busca-impulsar-al-comercio-local-n622923",
-        "title": "Sáenz destacó que el Centro Comercial de Valle Chico busca impulsar al comercio local",
-        "description": "El ministro Fidel Sáenz explicó que el proyecto apunta a comerciantes de la provincia y que no se trata de una convocatoria abierta a inversores.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "politics",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-01 17:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:23:18",
+        "fetched_at": "2026-10-02 17:36:46",
         "image_url": null,
         "video_url": null,
-        "source_id": "elancasti_ar",
-        "source_name": "Elancasti Ar",
-        "source_priority": 2635729,
-        "source_url": "https://www.elancasti.com.ar",
-        "source_icon": "https://i.newsdata.io/elancasti_ar.jpg",
+        "source_id": "espnbz",
+        "source_name": "Espn",
+        "source_priority": 38193,
+        "source_url": "https://www.espn.com.br",
+        "source_icon": "https://i.newsdata.io/espnbz.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -231,180 +166,83 @@
         "description_zh": ""
     },
     {
-        "article_id": "8e3bf1acfbdfe11e1a3347a481773feb",
-        "link": "https://oantagonista.com.br/ladooa/entretenimento/abelhas-provaram-acucar-e-pareceram-lamber-os-labios-videos-lentos-registram-reacoes-diferentes-para-sabores-doces-amargos-e-salgados/",
-        "title": "Abelhas provaram açúcar e pareceram lamber os lábios: vídeos lentos registram reações diferentes para sabores doces, amargos e salgados",
-        "description": "O que você vai ver Como pesquisadores treinaram zangões para provar diferentes líquidos. O que os vídeos em câmera lenta mostraram depois do açúcar. O que aconteceu quando as abelhas provaram sal ou substância amarga. Por que esses gestos são tratados como reações afetivas, não só reflexos. Por que esse resultado reabre a discussão sobre... The post Abelhas provaram açúcar e pareceram lamber os lábios: vídeos lentos registram reações diferentes para sabores doces, amargos e salgados appeared first on O Antagonista .",
+        "article_id": "976360a98229eed1ce44f141752e9eca",
+        "link": "https://br.ign.com/grand-theft-auto-vi/156597/o-miami-heat-usara-uniformes-com-o-tema-de-gta-6-em-uma-partida-contra-o-milwaukee-em-novembro",
+        "title": "O Miami Heat usará uniformes com o tema de GTA 6 em uma partida contra o Milwaukee em novembro",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "comportamento animal",
-            "entretenimento",
-            "zangões",
-            "cognição animal",
-            "paladar em insetos"
+            "games",
+            "grand theft auto vi",
+            "notícias"
         ],
         "creator": [
-            "guilherme carvalho"
+            "vitor conceição",
+            "kirk mckeand"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "entertainment",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-01 17:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:22:56",
-        "image_url": "https://cdn.oantagonista.com/uploads/2026/09/Drone_bee_reacting_to_quinine_2K_20260930155611-1.jpg",
-        "video_url": null,
-        "source_id": "oantagonista",
-        "source_name": "O Antagonista",
-        "source_priority": 2104208,
-        "source_url": "https://www.oantagonista.com",
-        "source_icon": "https://i.newsdata.io/oantagonista.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "881fafe8f74653e4212ad614e8563886",
-        "link": "https://www.infobae.com/politica/2026/10/01/osfa-anuncio-que-comenzara-a-cancelar-la-deuda-y-asumira-la-atencion-medica-de-las-fuerzas-armadas/",
-        "title": "OSFA anunció que comenzará a cancelar la deuda y asumirá la atención médica de las Fuerzas Armadas",
-        "description": "En coordinación con el Ministerio de Defensa, el Tesoro Nacional inició un proceso con intención de abonar el monto que supera los 200.000 millones de pesos. El pago de un primer lote de más de 10.000 reintegros de afiliados por más de 5.000 millones de pesos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "defensa",
-            "iosfa",
-            "últimas noticias",
-            "gobierno",
-            "javier milei",
-            "carlos presti",
-            "osfa"
-        ],
-        "creator": [
-            "sofia rojas"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-01 17:07:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:31:44",
-        "image_url": "https://www.infobae.com/resizer/v2/V5XHWXBYOFFS5AS5NZK6VWEAHY.jpg?auth=21b5a0f538ded5c2beb36eda548ef9ddb12931c628eb862f887e6e027b75160e&smart=true&width=1920&height=1282",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "5eb82888057addf4e56fbdfe8310977e",
-        "link": "https://www.adnsur.com.ar/pulso-energetico/100-pozos--600-intervenciones-y-mas-recuperacion-terciaria--la-apuesta-para-sostener-los-yacimientos-maduros-de-chubut_a6abe80723a0d9d41a2d1cc2e",
-        "title": "100 pozos, 600 intervenciones y más recuperación terciaria: la apuesta para sostener los yacimientos maduros de Chubut",
-        "description": "El ministro de Hidrocarburos de Chubut explicó el alcance del proyecto de Cerro Dragón y puso el foco en una técnica que busca darle continuidad a la producción de los yacimientos maduros. La iniciativa contempla una inversión superior a los 1.200 millones de dólares.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "chubut",
-            "cerro dragón",
-            "manantiales behr",
-            "rigi",
-            "pan américan",
-            "hidrocarburos de chubut"
-        ],
-        "creator": [
-            "adnsur"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-01 17:07:48",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:09:41",
-        "image_url": "https://adnsur-assets.tadevel-cdn.com/6abe891f3a0d9d41a2d2d3ed/720.jpeg",
-        "video_url": null,
-        "source_id": "adnsur",
-        "source_name": "Adnsur",
-        "source_priority": 80627,
-        "source_url": "https://www.adnsur.com.ar",
-        "source_icon": "https://i.newsdata.io/adnsur.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "b781ba6f32f733c6b58faa0b48ed3337",
-        "link": "https://elintransigente.com/2026/10/river-santiago-simon-seleccion/",
-        "title": "Santiago Simón: así fue el debut del ex River con la Selección Argentina ante Bolivia",
-        "description": "El mediocampista formado en Núñez sumó sus primeros minutos con la Mayor en el triunfo ante Bolivia y contó cómo fue su recorrido. The post Santiago Simón: así fue el debut del ex River con la Selección Argentina ante Bolivia appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "river plate",
-            "santiago simón",
-            "selección argentina",
-            "river"
-        ],
-        "creator": [
-            "mariano giménez"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
             "top",
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-01 17:07:48",
+        "pubDate": "2026-10-02 16:50:51",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:24:17",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/10/SimC3B3n.webp?fit=1210%2C800&quality=95&ssl=1",
+        "fetched_at": "2026-10-02 17:01:21",
+        "image_url": "https://sm.ign.com/ign_br/news/t/the-miami-/the-miami-heat-will-wear-gta-6-themed-uniforms-in-a-november_ygxu.jpg",
         "video_url": null,
-        "source_id": "elintransigente",
-        "source_name": "El Intransigente",
-        "source_priority": 3446332,
-        "source_url": "https://elintransigente.com",
-        "source_icon": "https://i.newsdata.io/elintransigente.jpg",
+        "source_id": "ign_br",
+        "source_name": "Ign Brasile",
+        "source_priority": 121,
+        "source_url": "https://br.ign.com",
+        "source_icon": "https://i.newsdata.io/ign_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "372e38003ef198b035cd8fe20e976bb2",
+        "link": "https://www.futebolinterior.com.br/paulista-oficializa-acerto-com-ricardo-costa/",
+        "title": "Paulista oficializa acerto com o técnico Ricardo Costa",
+        "description": "Paulista chega a um acordo com o técnico Ricardo Costa e reforça o planejamento para a disputa da Série A3 na próxima temporada",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "técnicos",
+            "ricardo costa",
+            "futebol interior",
+            "futebol",
+            "paulista"
+        ],
+        "creator": [
+            "joao scott"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-02 16:50:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-02 17:15:21",
+        "image_url": "https://images.futebolinterior.com.br/2026/10/RICARDO-COSTA.webp",
+        "video_url": null,
+        "source_id": "futebolinterior",
+        "source_name": "Futebol Interior",
+        "source_priority": 434943,
+        "source_url": "https://www.futebolinterior.com.br",
+        "source_icon": "https://i.newsdata.io/futebolinterior.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -416,17 +254,179 @@
         "description_zh": ""
     },
     {
-        "article_id": "269c32cfbd2e32d128ed57943a46b745",
-        "link": "https://periodicolavoz.com.mx/piedras-negras/general/conflicto-en-cabildo-de-piedras-negras-11-integrantes/383282",
-        "title": "Secretaría del Ayuntamiento defiende continuidad de sesión tras salida de 11 ediles",
-        "description": "Daniel Omar Aguilar sostiene que el Cabildo quedó legalmente instalado; la controversia se centra en el quórum y el rechazo al orden del día.",
+        "article_id": "903216b2e92bf15707c0631b99e8acf0",
+        "link": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-first-quantum-minerals-estao-subindo-hoje-93CH-2082219",
+        "title": "Por que as ações da First Quantum Minerals estão subindo hoje?",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "investing.com"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "science",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-02 16:50:33",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-02 17:07:20",
+        "image_url": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+        "video_url": null,
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://i.newsdata.io/investing_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "07c72302313e862cf614386552631af7",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/02/suspeito-de-matar-esposa-e-enteada-com-machado-fugiu-de-moto-taxi-e-onibus-antes-de-ser-preso-em-sp.ghtml",
+        "title": "Após matar esposa e enteada com machado, homem fugiu de moto, táxi e ônibus antes de ser preso em SP",
+        "description": "Aroldo Pereira Lima foi preso suspeito de matar a esposa e enteada em Jacupiranga g1 Santos e PM Aroldo Pereira Lima, de 52 anos, preso suspeito por matar a esposa, de 52, e a filha dela, de 25, que estava grávida de seis meses, fugiu usando uma motocicleta, um táxi e um ônibus antes de ser localizado e preso em um hotel em Pariquera-Açu (SP). Ele teve a prisão em flagrante convertida em preventiva nesta sexta-feira (2). O crime aconteceu na manhã de quinta-feira (1º), na Estrada do Guaraú, na zona rural de Jacupiranga (SP). Os corpos foram encontrados por uma familiar no quintal do imóvel onde as vítimas moravam. Segundo a polícia, o suspeito foi visto saindo do local após o crime. O machado que teria sido usado no duplo feminicídio foi apreendido. ✅Clique aqui para seguir o canal do g1 Santos no WhatsApp. De acordo com o boletim de ocorrência, Aroldo iniciou a fuga em uma motocicleta. A Polícia Militar (PM) foi acionada e, durante as buscas, constatou que ele havia contratado um táxi para viajar de Jacupiranga (SP) até Pariquera-Açu (SP). Em Pariquera-Açu, segundo a PM, Aroldo chegou a embarcar em um ônibus com destino a Cananéia. Durante as buscas, porém, os policiais descobriram que ele havia se hospedado em um hotel da cidade, onde teria se apresentado com outro nome. Agora no g1 As equipes da PM cercaram o estabelecimento e constataram que o suspeito estava em um dos quartos. Os policiais chamaram pelo suspeito, que não respondeu a tentativa de contato. Os agentes arrombaram a porta do quarto e encontraram Aroldo no banheiro com a pele arroxeada. Segundo o registro, ele havia tentado tirar a própria vida colocado papel higiênico com cola instantânea no nariz e na boca, obstruindo as vias aéreas. Os PMs prestaram socorro imediato ao suspeito, retirando o papel que recobria sua boca e narinas, e o encaminharam ao hospital. Em seguida, Aroldo recebeu voz de prisão e foi encaminhado à Delegacia de Defesa da Mulher de Jacupiranga, que investiga o caso. Em depoimento à Polícia Civil, uma familiar das vítimas contou que Aroldo era possessivo e ciumento, sendo que Lucimara comentou sobre o comportamento agressivo do marido em diversas ocasiões. Aroldo Pereira Lima, de 52 anos, foi preso com cola na boca no quarto de uma pousada em Pariquera-Açu (SP) g1 Santos VÍDEOS: g1 em 1 minuto Santos",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "qu&#243;rum ayuntamiento coahuila",
-            "orden del d&#237;a cabildo",
-            "sesi&#243;n de cabildo coahuila",
-            "sanciones regidores piedras negras",
-            "daniel aguilar piedras negras"
+            "g1"
+        ],
+        "creator": null,
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-02 16:50:24",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-02 17:02:28",
+        "image_url": "https://s2-g1.glbimg.com/ZkRO6-5pdIb8GytwnAB9i9ta4BU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/L/vkULqFSviCQd6ouaeE9Q/inserir-um-titulo-2026-10-02t111341.084.jpg",
+        "video_url": null,
+        "source_id": "g1globo",
+        "source_name": "G1 - O Portal",
+        "source_priority": 3053,
+        "source_url": "https://g1.globo.com",
+        "source_icon": "https://i.newsdata.io/g1globo.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "faa13d0967e40bca528cc96645ab3f88",
+        "link": "https://jornaldebrasilia.com.br/entretenimento/celebridades/michael-douglas-revela-romance-secreto-com-kathleen-turner-que-os-dois-esconderam-por-40-anos/",
+        "title": "Michael Douglas revela romance secreto com Kathleen Turner que os dois esconderam por 40 anos",
+        "description": "LEONARDO VOLPATO SÃO PAULO, SP (FOLHAPRESS) Michael Douglas, 82, revelou um segredo amoroso que manteve por quatro décadas. Em seu novo livro de memórias, \"One Helluva Ride\", o ator conta que se apaixonou por Kathleen Turner, 72, durante as filmagens de \"Tudo por uma Esmeralda\", em 1984. Segundo Douglas, os dois tiveram um relacionamento durante a produção do filme, no México, embora tenham negado o romance publicamente por 40 anos. A revelação foi antecipada pela revista People. Douglas afirma que a atração por Turner surgiu logo no primeiro encontro entre os dois. \"Kathleen era inteligente, engraçada e sexy, com uma voz profunda e sensual que se tornou sua marca registrada. Gostei dela instantaneamente e nos sentimos atraídos um pelo outro imediatamente\", escreve. Na época, o ator ainda era legalmente casado com Diandra Douglas, mãe de seu filho Cameron, embora os dois estivessem separados e enfrentassem uma crise no casamento. O ator afirma que ele e Turner decidiram esconder o envolvimento para proteger sua família. A versão oficial sustentada pelos dois era a de que existia apenas uma forte química entre os colegas de elenco, mas nenhum relacionamento fora das telas. \"Isso era mentira\", escreve Douglas no livro. Segundo ele, os encontros aconteciam discretamente depois das filmagens, quando ele ia ao quarto de hotel da atriz sem que os demais integrantes da equipe soubessem. Até o diretor Robert Zemeckis e o ator Danny DeVito, de acordo com o relato, desconheciam o romance. O relacionamento terminou quando Diandra foi ao México acompanhada de Cameron e passou a desconfiar da proximidade entre o marido e Turner. Douglas conta que sua então mulher ficou a sós com a atriz e deixou claro que, apesar da separação, os dois ainda eram casados. Turner teria recuado por não querer interferir na relação. Douglas afirma que, depois disso, decidiu voltar para Diandra pensando no filho. \"Fiz isso por Cameron, mas não deveríamos ter reatado\", escreve. O casamento, iniciado em 1977, terminou posteriormente em divórcio. A história, no entanto, não encerrou a relação profissional e a amizade entre Douglas e Turner. Os dois voltaram a trabalhar juntos em \"A Joia do Nilo\" (1985) e \"A Guerra dos Roses\" (1989), além de se reencontrarem na terceira temporada de \"O Método Kominsky\", em 2021. Douglas afirma que a convivência profissional ajudou os dois a reconstruírem a amizade. Ele também pediu autorização a Turner antes de incluir o romance no livro, que chega às livrarias em 6 de outubro.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "amor",
+            "kathleen turner",
+            "celebridades",
+            "romance",
+            "michael dougllas"
+        ],
+        "creator": [
+            "milena dias"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-02 16:50:23",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-02 16:52:33",
+        "image_url": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/02134906/Kathleen-Turner-reencontrara-Michael-Douglas.jpg",
+        "video_url": null,
+        "source_id": "jornaldebrasilia",
+        "source_name": "Jornal De Brasília",
+        "source_priority": 1815808,
+        "source_url": "https://jornaldebrasilia.com.br",
+        "source_icon": "https://i.newsdata.io/jornaldebrasilia.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "fc6c65bfc37dce635196da9b8397f3ca",
+        "link": "https://www.sitiosargentina.com.ar/la-recesion-en-argentina-se-profundiza-la-economia-se-enfria-rapidamente/",
+        "title": "La recesión en Argentina se profundiza: la economía se enfría rápidamente",
+        "description": "Impacto económico en Argentina: riesgo país, caída de la actividad y comportamiento de inversores La visión del economista Federico Vaccarezza sobre la situación económica actual y sus implicancias. La discusión sobre la recesión en Argentina se reaviva tras la caída del 2,9% en el EMAE en julio. Federico Vaccarezza señala que, aunque el gobierno busca […]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "marketing"
+        ],
+        "creator": [
+            "sitiosargentina"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "domestic"
+        ],
+        "datatype": "blog",
+        "pubDate": "2026-10-02 16:50:17",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-02 18:09:53",
+        "image_url": "https://www.sitiosargentina.com.ar/wp-content/uploads/2026/10/actividad-economica-2339386.jpg",
+        "video_url": null,
+        "source_id": "sitiosargentina",
+        "source_name": "Sitios Argentina",
+        "source_priority": 564592,
+        "source_url": "https://www.sitiosargentina.com.ar",
+        "source_icon": "https://i.newsdata.io/sitiosargentina.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "46a7a7f1c563efb65da31204c162ad3b",
+        "link": "https://periodicolavoz.com.mx/piedras-negras/general/unidad-municipal-choca-contra-poste-de-cfe-en-piedras-negras/383366",
+        "title": "Ocho trabajadores resultan lesionados tras choque de unidad municipal en Piedras Negras",
+        "description": "Pick up del Departamento de Ecología e Imagen Urbana se impactó contra un poste de la CFE en el Bordo Sur.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "trabajadores lesionados piedras negras",
+            "accidente en piedras negras",
+            "bordo sur piedras negras",
+            "cfe piedras negras",
+            "impacto contra poste cfe"
         ],
         "creator": [
             "emilio gallegos"
@@ -436,13 +436,13 @@
             "mexico"
         ],
         "category": [
-            "politics"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-01 17:08:00",
+        "pubDate": "2026-10-02 16:51:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 23:16:27",
-        "image_url": "https://blobcore.periodicolavoz.com.mx/images/2026/10/01/emilio-44-1-d82334a4.jpg",
+        "fetched_at": "2026-10-02 23:16:39",
+        "image_url": "https://blobcore.periodicolavoz.com.mx/images/2026/10/02/emilio-52-2-592fcfc3.jpeg",
         "video_url": null,
         "source_id": "periodicolavoz_mx",
         "source_name": "Periodicolavoz Mx",
@@ -460,125 +460,32 @@
         "description_zh": ""
     },
     {
-        "article_id": "e7c1139a833192279a81c1a06bed19db",
-        "link": "https://www.informador.mx/jalisco/la-secretaria-de-seguridad-de-jalisco-suma-la-detencion-de-19-objetivos-prioritarios-buscados-en-eu-20261001-0101.html",
-        "title": "Jalisco suma la detención de 19 objetivos prioritarios buscados en EU",
-        "description": "El caso más reciente se registró el 30 de septiembre con la detención de Raúl Rubén \"T\", ciudadano estadounidense requerido por el país vecino desde 2022",
+        "article_id": "47d634e892f739c59eb57c53743a540b",
+        "link": "https://www.elmanana.com/noticias/internacional/centro-2026-putin-y-las-maniobras-militares-rusas/6192121",
+        "title": "Centro-2026: Putin y las maniobras militares rusas",
+        "description": "Los ejercicios militares en Cheliábinsk incluyeron a 47,000 efectivos de varias naciones, destacando la participación de tropas chinas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "jalisco"
-        ],
-        "creator": [
-            "rubí bobadilla"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-01 17:08:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:35:46",
-        "image_url": "https://www.informador.mx/__export/1790874485881/sites/elinformador/img/2026/10/01/seguridad-jalisco-estados_unidos-marshal_version1790874485397.jpg_1603117790.jpg",
-        "video_url": null,
-        "source_id": "informador_mx",
-        "source_name": "Informador Mx",
-        "source_priority": 27025,
-        "source_url": "https://www.informador.mx",
-        "source_icon": "https://i.newsdata.io/informador_mx.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "881fafe8f74653e4212ad614e8563886",
-        "link": "https://www.infobae.com/politica/2026/10/01/osfa-anuncio-que-comenzara-a-cancelar-la-deuda-y-asumira-la-atencion-medica-de-las-fuerzas-armadas/",
-        "title": "OSFA anunció que comenzará a cancelar la deuda y asumirá la atención médica de las Fuerzas Armadas",
-        "description": "En coordinación con el Ministerio de Defensa, el Tesoro Nacional inició un proceso con intención de abonar el monto que supera los 200.000 millones de pesos. El pago de un primer lote de más de 10.000 reintegros de afiliados por más de 5.000 millones de pesos",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "defensa",
-            "iosfa",
-            "últimas noticias",
-            "gobierno",
-            "javier milei",
-            "carlos presti",
-            "osfa"
-        ],
-        "creator": [
-            "sofia rojas"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-01 17:07:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:31:44",
-        "image_url": "https://www.infobae.com/resizer/v2/V5XHWXBYOFFS5AS5NZK6VWEAHY.jpg?auth=21b5a0f538ded5c2beb36eda548ef9ddb12931c628eb862f887e6e027b75160e&smart=true&width=1920&height=1282",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "a010f04b2d9b5765fda2359c5aa5b31d",
-        "link": "https://oem.com.mx/diariodequeretaro/local/rosalba-galvan-pichardo-docencia-psicologia-educativa-y-sindicalismo-en-la-uaq-32381383",
-        "title": "Rosalba Galván Pichardo, docencia, psicología educativa y sindicalismo en la UAQ",
-        "description": "La investigadora de la Facultad de Psicología y Educación cuenta con más de una década de trayectoria en atención terapéutica e investigación sobre alfabetización digital",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "local"
-        ],
+        "keywords": null,
         "creator": null,
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "education",
+            "politics",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-01 17:07:57",
+        "pubDate": "2026-10-02 16:51:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 22:14:57",
+        "fetched_at": "2026-10-02 21:14:06",
         "image_url": null,
         "video_url": null,
-        "source_id": "diariodequeretaro",
-        "source_name": "Diario De Quer",
-        "source_priority": 416798,
-        "source_url": "https://www.diariodequeretaro.com.mx",
-        "source_icon": "https://i.newsdata.io/diariodequeretaro.png",
+        "source_id": "elmanana",
+        "source_name": "Últimas Noticias - El Mañana De Reynosa",
+        "source_priority": 258494,
+        "source_url": "https://www.elmanana.com",
+        "source_icon": "https://i.newsdata.io/elmanana.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -590,61 +497,14 @@
         "description_zh": ""
     },
     {
-        "article_id": "51a152bfe3bf37c625deb5a78b04b067",
-        "link": "https://www.pauta.cl/actualidad/2026/10/01/caso-cornell-nuevos-documentos-revelan-omisiones-en-el-informe-policial-sobre-denuncia-de-violacion-grupal.html",
-        "title": "Caso Cornell: documentos revelan omisiones policiales en denuncia de violación grupal",
-        "description": "La estudiante afirmó ante la policía universitaria que había sido violada, pero esa declaración no apareció en el resumen enviado a la Fiscalía. El caso, que involucra a siete miembros de una fraternidad, volvió a investigación tras una demanda civil.",
+        "article_id": "06c1bc6da1302e9b827bd6bd0c6560bb",
+        "link": "https://www.elnorte.com/corta-csp-mananera-ya-el-lunes-vemos-otros-temas/ar3287121",
+        "title": "Corta CSP mañanera... 'ya el lunes vemos otros temas'",
+        "description": "A minutos de la detención del Capitán Solano, de la red de huachicol de Marina, la Presidenta pospuso preguntas en la mañanera",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "pauta",
-            "actualidad"
-        ],
+        "keywords": null,
         "creator": [
-            "maría alejandra gallardo contreras"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-01 17:07:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:14:32",
-        "image_url": "https://media.pauta.cl/2026/10/cornell-210x210.jpg",
-        "video_url": null,
-        "source_id": "pauta",
-        "source_name": "Pauta",
-        "source_priority": 226248,
-        "source_url": "https://www.pauta.cl",
-        "source_icon": "https://i.newsdata.io/pauta.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "d5bfc0d4f00c9242619ae5d5bbfdabc2",
-        "link": "https://novedadesdetabasco.com.mx/2026/10/01/refuerzan-seguridad-en-tabasco-con-la-llegada-de-la-brigada-de-fusileros-paracaidistas/",
-        "title": "Refuerzan seguridad en Tabasco con la llegada de la Brigada de Fusileros Paracaidistas",
-        "description": "Villahermosa, Tabasco. El Gabinete de Seguridad de Tabasco confirmó el arribo de elementos de la Brigada de Fusileros Paracaidistas, una de las unidades de élite más especializadas del Ejército Mexicano. Los efectivos, también conocidos como los “Boinas Rojas”, se sumarán de inmediato a las operaciones tácticas desplegadas en el estado para restablecer la paz y …",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tabasco",
-            "seguridad",
-            "local",
-            "banner 1"
-        ],
-        "creator": [
-            "jorge cupido"
+            "claudia guerrero y claudia salazar"
         ],
         "language": "spanish",
         "country": [
@@ -655,16 +515,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-01 17:07:49",
+        "pubDate": "2026-10-02 16:50:49",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:25:10",
-        "image_url": "https://novedadesdetabasco.com.mx/wp-content/uploads/2026/10/825293096_122125740315074092_8478207375488744899_n.jpg",
+        "fetched_at": "2026-10-02 17:09:58",
+        "image_url": null,
         "video_url": null,
-        "source_id": "novedadesdetabasco_mx",
-        "source_name": "Novedades De Tabasco",
-        "source_priority": 3923723,
-        "source_url": "https://novedadesdetabasco.com.mx",
-        "source_icon": "https://i.newsdata.io/novedadesdetabasco_mx.jpg",
+        "source_id": "elnorte",
+        "source_name": "Elnorte",
+        "source_priority": 107502,
+        "source_url": "https://www.elnorte.com",
+        "source_icon": "https://i.newsdata.io/elnorte.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -676,45 +536,38 @@
         "description_zh": ""
     },
     {
-        "article_id": "e36d106df2200ef0f1aa4834de60620c",
-        "link": "https://www.infobae.com/tecno/2026/10/01/tiene-16-anos-y-manejaba-desde-su-habitacion-una-red-de-ciberestafas-millonarias-cae-el-jefe-de-killsec/",
-        "title": "Tiene 16 años y manejaba desde su habitación una red de ciberestafas millonarias: Cae el jefe de KillSec",
-        "description": "El adolescente presuntamente habría gestionado un grupo criminal al que se atribuyen 1.000 ciberataques y más de 280 afectados, que llegaron a pagar 500.00 euros en criptomonedas",
+        "article_id": "9cf248e1192b5107356d5467147429eb",
+        "link": "https://forbes.com.mx/piloto-indio-comunica-al-primer-ministro-modi-que-abrio-la-puerta-de-la-cabina-de-flydubai-durante-ataque/",
+        "title": "Piloto indio comunica al primer ministro Modi que abrió la puerta de la cabina de Flydubai durante ataque",
+        "description": "Smit Machchhar habló con Modi desde una cama de hospital en Abu Dabi en un video de casi 10 minutos publicado en las redes sociales del primer ministro.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "lo último en tecnología",
-            "ciberataques",
-            "adolescente",
-            "tecnología-noticias",
-            "criptomonedas",
-            "estafa",
-            "killsec"
+            "piloto",
+            "flydubai",
+            "modi"
         ],
         "creator": [
-            "dylan escobar ruiz"
+            "forbes méxico staff"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
+            "mexico"
         ],
         "category": [
             "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-01 17:07:47",
+        "pubDate": "2026-10-02 16:50:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:31:44",
-        "image_url": "https://www.infobae.com/resizer/v2/NQUHSEBMWRCFJCAUL74KTJ6OPA.jpg?auth=72b82c107d182a203a9ee54b821161083c0cd60d43ccf66ddf23b61b2db17369&smart=true&width=1456&height=816",
+        "fetched_at": "2026-10-02 17:05:12",
+        "image_url": "https://cdn.forbes.com.mx/2026/10/piloto-Flydubai-Modi.webp",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
+        "source_id": "forbes_mx",
+        "source_name": "Forbes Mx",
+        "source_priority": 23981,
+        "source_url": "https://www.forbes.com.mx",
+        "source_icon": "https://i.newsdata.io/forbes_mx.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -726,38 +579,39 @@
         "description_zh": ""
     },
     {
-        "article_id": "c6b502fca97fc3d73c8c79930fa8dcb3",
-        "link": "https://www.pulzo.com/carros/carros-vendidos-colombia-2026-con-sorpresa-para-kia-renault-mazda-PP5318827",
-        "title": "Sorpresa entre carros más vendidos en Colombia en septiembre: Kia, Renault y Mazda miran de reojo",
-        "description": "Tesla irrumpe en el top cinco de marcas más vendidas en Colombia durante septiembre de 2026, impulsada por la alta demanda del Model Y.",
+        "article_id": "0fed0e957674c77928293aae01d8868a",
+        "link": "https://www.elnuevosiglo.com.co/nacion/cae-alias-terry-senalado-cabecilla-criminal-del-suroeste-antioqueno",
+        "title": "Cae alias 'Terry', señalado cabecilla criminal del Suroeste antioqueño",
+        "description": "Cae alias 'Terry', señalado cabecilla criminal del Suroeste antioqueño La Fuerza Pública asestó un impacto directo a las finanzas y a la capacidad operativa del Clan del Golfo en el Suroeste antioqueño tras abatir a Cristian Camilo Chavarría Tapias, conocido como alias 'Terry' o 'Keiner', junto a dos miembros de su esquema de seguridad.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "carros",
-            "carros mazda",
-            "carros kia",
-            "carros híbridos"
+            "clan del gofo",
+            "antioquia",
+            "ejército",
+            "abatido"
         ],
         "creator": [
-            "redacción carros"
+            "xiomara bustos"
         ],
         "language": "spanish",
         "country": [
             "colombia"
         ],
         "category": [
-            "technology"
+            "crime",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-01 17:07:46",
+        "pubDate": "2026-10-02 16:50:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 17:09:52",
-        "image_url": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5318827-h-o.webp",
+        "fetched_at": "2026-10-02 17:53:01",
+        "image_url": "https://www.elnuevosiglo.com.co/sites/default/files/2026/10/02/imagen/peligro.png",
         "video_url": null,
-        "source_id": "pulzo",
-        "source_name": "Pulzo",
-        "source_priority": 81875,
-        "source_url": "https://www.pulzo.com",
-        "source_icon": "https://i.newsdata.io/pulzo.png",
+        "source_id": "elnuevosiglo",
+        "source_name": "El Nuevo Siglo",
+        "source_priority": 3048165,
+        "source_url": "http://elnuevosiglo.com.co",
+        "source_icon": "https://i.newsdata.io/elnuevosiglo.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -769,34 +623,43 @@
         "description_zh": ""
     },
     {
-        "article_id": "f2852d5560710fdd5b97eaa858451c4b",
-        "link": "https://caracol.com.co/2026/10/01/pescadores-de-la-bahia-de-santa-marta-reciben-cinco-lanchas-para-fortalecer-su-actividad/",
-        "title": "Pescadores de la Bahía de Santa Marta reciben cinco lanchas para fortalecer su actividad",
-        "description": "La Fundación Sociedad Portuaria destinó $350 millones para beneficiar a 157 pescadores de cinco organizaciones de la bahía. Las embarcaciones fueron entregadas con motores, equipos de seguridad y navegación.",
+        "article_id": "301a61a6c83cf10a4c1d83cb6dee02aa",
+        "link": "https://lineadirectaportal.com/mexico/proteccion-civil-pide-extremar-precauciones-por-lluvias-en-gran-parte-del-pais-2026-10-02__1713003",
+        "title": "Protección Civil pide extremar precauciones por lluvias en gran parte del país",
+        "description": "El Servicio Meteorológico Nacional (SMN) informó que las lluvias más severas, con acumulados de entre 75 y 150 milímetros, se registrarán en Sinaloa, Nuevo León, Tamaulipas, Zacatecas, Coahuila, Guerrero, Oaxaca, Tabasco y Campeche",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "2 de octubre",
+            "pronóstico clima",
+            "méxico",
+            "noticias de méxico",
+            "temperaturas extremas",
+            "estados con riesgo de inundaciones",
+            "lluvias méxico",
+            "cnpc"
+        ],
         "creator": [
-            "caracol radio"
+            "anastasio esquivel"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "mexico"
         ],
         "category": [
             "environment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-01 17:07:44",
+        "pubDate": "2026-10-02 16:50:26",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 22:35:56",
-        "image_url": "https://caracol.com.co/resizer/v2/BOW3Z7GMYNHETK2TY2TZTGE5GU.jpeg?auth=18010e2dbd9f32ed1e508afa12bfda530186c988324198cc360cb5cd378e2776&quality=70&width=1200&height=900&smart=true",
+        "fetched_at": "2026-10-02 17:10:33",
+        "image_url": "https://lineadirectaportal.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-23-013026.png",
         "video_url": null,
-        "source_id": "caracol",
-        "source_name": "Caracol Radio",
-        "source_priority": 30675,
-        "source_url": "https://caracol.com.co",
-        "source_icon": "https://i.newsdata.io/caracol.png",
+        "source_id": "lineadirectaportal",
+        "source_name": "Linea Directa",
+        "source_priority": 133115,
+        "source_url": "https://lineadirectaportal.com",
+        "source_icon": "https://i.newsdata.io/lineadirectaportal.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -808,14 +671,58 @@
         "description_zh": ""
     },
     {
-        "article_id": "aaadd5cce95b0f48bb5d7ec4021a7ae3",
-        "link": "https://aldialogo.mx/queretaro/2026/10/01/proponen-que-el-acceso-a-la-feria-ganadera-no-tenga-costo",
-        "title": "Proponen que el acceso a la Feria Ganadera no tenga costo",
-        "description": null,
+        "article_id": "cff64bb9763f7ee96bb41086a6bc6031",
+        "link": "https://tribunademexico.com/mexico-vs-estados-unidos-en-vivo/",
+        "title": "México vs Estados Unidos EN VIVO: Horario y canales de transmisión del Clásico de Concacaf",
+        "description": "#Deportes México vs Estados Unidos EN VIVO: Fecha, horario y canales para ver el Clásico de la Concacaf. El cargo México vs Estados Unidos EN VIVO: Horario y canales de transmisión del Clásico de Concacaf apareció primero en Tribuna de México .",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "selección de méxico",
+            "deportes"
+        ],
         "creator": [
-            "estefany gonzález"
+            "francisco butterfield"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-02 16:50:23",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-02 17:18:21",
+        "image_url": "https://storage.googleapis.com/tribunamexico-secure/2026/10/MEX.jpg.webp",
+        "video_url": null,
+        "source_id": "tribunademexico",
+        "source_name": "Tribuna De México",
+        "source_priority": 697716,
+        "source_url": "https://tribunademexico.com",
+        "source_icon": "https://i.newsdata.io/tribunademexico.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "567857354860b958d3e00c4d852676bb",
+        "link": "https://lasillarota.com/mundo/2026/10/2/ocho-nicaraguenses-sin-nacionalidad-en-riesgo-de-deportacion-en-eu-531150.html",
+        "title": "Ocho nicaragüenses sin nacionalidad, en riesgo de deportación en EU",
+        "description": "Human Rights Watch alertó sobre el riesgo de deportación de ocho nicaragüenses detenidos por autoridades migratorias de Estados Unidos",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "deportaciones",
+            "nicaragua"
+        ],
+        "creator": [
+            "efe"
         ],
         "language": "spanish",
         "country": [
@@ -826,16 +733,16 @@
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-01 17:07:44",
+        "pubDate": "2026-10-02 16:50:13",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-01 18:47:27",
-        "image_url": "https://aldialogo.sfo2.digitaloceanspaces.com/uploads/2026/10/Proponen-que-el-acceso-a-la-Feria-Ganadera-no-tenga-costo.webp",
+        "fetched_at": "2026-10-02 17:13:09",
+        "image_url": null,
         "video_url": null,
-        "source_id": "aldialogo",
-        "source_name": "Aldialogo Mx",
-        "source_priority": 673454,
-        "source_url": "https://aldialogo.mx",
-        "source_icon": "https://i.newsdata.io/aldialogo.png",
+        "source_id": "lasillarota",
+        "source_name": "La Silla Rota",
+        "source_priority": 200644,
+        "source_url": "https://lasillarota.com",
+        "source_icon": "https://i.newsdata.io/lasillarota.jpg",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -844,6 +751,93 @@
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "duplicate": false,
         "title_zh": "",
-        "description_zh": "查看原文了解更多详情"
+        "description_zh": ""
+    },
+    {
+        "article_id": "a738a965aad0dad177bb92c2023f5ef0",
+        "link": "https://ladiscusion.cl/megaproyecto-habitacional-de-490-viviendas-en-san-carlos-alcanza-45-de-avance/",
+        "title": "Megaproyecto habitacional de 490 viviendas en San Carlos alcanza 45% de avance",
+        "description": "Un 45% de avance registra el megaproyecto habitacional “La Unión hace la Fuerza”, el cual beneficia al comité más grande desde que Ñuble es región, considerando a 490 familias que accederán a una vivienda a través del Fondo Solidario de Elección de Vivienda (DS49). Esta nueva villa contempla casas que varían entre los 47 y […]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "san carlos",
+            "comité habitacional",
+            "minvu",
+            "viviendas",
+            "ñuble"
+        ],
+        "creator": [
+            "ladiscusion"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "politics",
+            "top",
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-02 16:50:12",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-02 17:15:15",
+        "image_url": "https://ladiscusion.cl/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-13.02.28.jpg",
+        "video_url": null,
+        "source_id": "ladiscusion_cl",
+        "source_name": "Ladiscusion Cl",
+        "source_priority": 338295,
+        "source_url": "https://www.ladiscusion.cl",
+        "source_icon": "https://i.newsdata.io/ladiscusion_cl.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "412475345e4aea5690c267ba2e29e0ca",
+        "link": "https://www.tvazteca.com/aztecauno/venga-la-alegria/exclusiva-malinche-el-musical-regresa-segunda-temporada/",
+        "title": "EN EXCLUSIVA: “Malinche, el musical” regresa con su segunda temporada y reúne a grandes personalidades en su alfombra roja",
+        "description": "La puesta en escena de Nacho Cano volvió a las marquesinas capitalinas con invitados especiales y una nueva temporada.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "venga la alegría"
+        ],
+        "creator": [
+            "dulce olvera"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-10-02 16:50:07",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-02 17:04:38",
+        "image_url": "https://static.tv-azteca.production.tv-azteca.brightspot.cloud/50/a9/e69cedd4421091eb2042999fdff7/malinche.jpg",
+        "video_url": "https://mdstrm.com/video/6abfcf401070aa16da68b96f.m3u8",
+        "source_id": "tvazteca",
+        "source_name": "Azteca Deportes",
+        "source_priority": 17594,
+        "source_url": "https://www.tvazteca.com",
+        "source_icon": "https://i.newsdata.io/tvazteca.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
     }
 ]
