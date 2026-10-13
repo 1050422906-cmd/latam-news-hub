@@ -1,85 +1,46 @@
 [
     {
-        "article_id": "4a6aa2961c36e8a7e80f4ad35d541e47",
-        "link": "https://www.diariodecuiaba.com.br/ilustrado/filme-de-glauber-rocha-ressurge-apos-ostracismo-com-restauro-em-6k/757724",
-        "title": "Filme de Glauber Rocha ressurge após ostracismo com restauro em 6K",
-        "description": "O filme \"Cabeças Cortadas\", de 1970, do cineasta brasileiro Glauber Rocha, está passando por um processo de restauração digital na Espanha, com previsão de conclusão em 2027. A obra será apresentada no Mercado Internacional de Cinema Clássico, realizado durante o Festival Lumière, em Lyon, na França, que reúne projetos de preservação e recuperação de filmes. O festival acontece ao longo da próxima semana, entre os dias 10 e 18 de outubro. A restauração é conduzida pelas empresas espanholas Video Mercury Films e FlixOlé, em parceria com a Escola de Cinema de Madri. Os negativos originais de imagem e som já foram digitalizados em resolução 6K, e o trabalho de recuperação da imagem e de correção de cores está em andamento. A versão final disponibilizada ao público terá resolução 4K. O longa acompanha Díaz II, ditador exilado interpretado por Francisco Rabal, que é atormentado pelas lembranças de seus atos de repressão e brutalidade. O elenco também conta com Pierre Clémenti, Marta May, Rosa María Penna, Emma Cohen e Luis Ciges. Exilado da ditadura militar brasileira, Rocha realizou o filme durante o regime de Francisco Franco, na Espanha. Para obter autorização das autoridades locais e financiamento estatal, apresentou inicialmente o projeto sob o título \"Macbeth 70\", como uma adaptação livre da peça de William Shakespeare. Lançado em 1970 no Festival de Cinema de San Sebastián, o longa dividiu a audiência e os críticos. Acabou sendo um fracasso nas bilheterias espanholas e visto como um filme amaldiçoado, e acabou em ostracismo no cinema da Espanha. O diretor, precursor do Cinema Novo no Brasil, é diretor de filmes como \"Terra em Transe\", \"Deus e o Diabo na Terra do Sol\" e \"O Dragão da Maldade Contra o Santo Guerreiro\". A Video Mercury Films, detentora dos direitos da obra, pretende relançá-la em circuitos especializados em cinema clássico restaurado. Os direitos de distribuição estão disponíveis mundialm...",
+        "article_id": "efdd085d0c324122cb7c114df59146a4",
+        "link": "https://www.infomoney.com.br/politica/programa-eleitoral-de-flavio-vai-ao-ar-sem-som-candidato-diz-nao-haver-coincidencia/",
+        "title": "Programa eleitoral de Flávio vai ao ar sem som; candidato diz não haver coincidência",
+        "description": "A falha ocorreu durante a veiculação da propaganda de Flávio Bolsonaro, quando as imagens foram transmitidas normalmente, mas sem som The post Programa eleitoral de Flávio vai ao ar sem som; candidato diz não haver coincidência appeared first on InfoMoney.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "eleições 2026",
+            "flávio bolsonaro",
+            "nossa senhora aparecida",
+            "política"
+        ],
         "creator": [
-            "da folhapress"
+            "lara rizério"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top",
-            "entertainment"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:28:00",
+        "pubDate": "2026-10-12 18:25:59",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 18:10:55",
-        "image_url": "https://diariodecuiaba.nyc3.digitaloceanspaces.com/storage/webdisco/2026/10/09/1200x900/f0b2a9cc3a109ae0a887256e7c1152e4-diariodecuiaba-com-br.jpg",
+        "fetched_at": "2026-10-12 18:37:54",
+        "image_url": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-11T185232Z_1824565534_RC261OAIDV4W_RTRMADP_3_BRAZIL-ELECTION-BOLSONARO.jpg?fit=3701%2C2467&quality=70&strip=all",
         "video_url": null,
-        "source_id": "diariodecuiaba",
-        "source_name": "Diariodecuiaba",
-        "source_priority": 12245876,
-        "source_url": "https://www.diariodecuiaba.com.br",
-        "source_icon": "https://i.newsdata.io/diariodecuiaba.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "59aa9f39f1f2f28ff742757d60c90966",
-        "link": "https://www.infobae.com/deportes/2026/10/11/el-emocionante-mensaje-de-dibu-martinez-a-lionel-messi-en-una-camiseta-firmada-tras-su-despedida-de-la-seleccion-argentina/",
-        "title": "El emocionante mensaje de Dibu Martínez a Lionel Messi en una camiseta firmada tras su despedida de la selección argentina",
-        "description": "El astro rosarino recibió una remera especial y el arquero albiceleste le dedicó una sentidas palabras",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "deportes-argentina",
-            "rodrigo de paul",
-            "selección argentina",
-            "lionel messi",
-            "lisandro martínez",
-            "emiliano dibu martínez"
+        "source_id": "infomoney",
+        "source_name": "Infomoney",
+        "source_priority": 68762,
+        "source_url": "https://www.infomoney.com.br",
+        "source_icon": "https://i.newsdata.io/infomoney.png",
+        "sentiment": "negative",
+        "sentiment_stats": {
+            "negative": 84.33,
+            "neutral": 15.62,
+            "positive": 0.05
+        },
+        "ai_tag": [
+            "elections"
         ],
-        "creator": [
-            "infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-11 17:27:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:31:39",
-        "image_url": "https://www.infobae.com/resizer/v2/EVPSV2WHRNB3HKADNWY4IPK34A.png?auth=ae125145e398c641e4e5a88f381ed95969b71ae9831e1f39eda57291e4d72a06&smart=true&width=2752&height=1536",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
@@ -88,10 +49,10 @@
         "description_zh": ""
     },
     {
-        "article_id": "9af92080e8a0458457474e8b1fe8d8b8",
-        "link": "https://www.terra.com.br/esportes/futebol/internacional/inglaterra/campeonato-ingles/em-anfield-city-quebra-invencibilidade-do-liverpool-na-premier-league,7513b6fb6e7630eba7a7353d8c8597725kaecojn.html",
-        "title": "Em Anfield, City quebra invencibilidade do Liverpool na Premier League",
-        "description": "Mais líder que nunca! O City deu fim à invencibilidade do Liverpool nesta edição de Premier ...",
+        "article_id": "f5cd6b7251d773b4fc139fec366edf62",
+        "link": "https://www.terra.com.br/esportes/futebol/ronaldo-e-roberto-carlos-celebram-acesso-da-inter-de-limeira-a-serie-b,466e192a66cb6f8f9cbfc1dad733174d3c4tl4ku.html",
+        "title": "Ronaldo e Roberto Carlos celebram acesso da Inter de Limeira à Série B",
+        "description": "Ronaldo e Roberto Carlos celebraram o retorno da Inter de Limeira à Série B do Campeonato ...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
@@ -102,66 +63,28 @@
             "brazil"
         ],
         "category": [
-            "sports",
-            "top"
+            "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:27:29",
+        "pubDate": "2026-10-12 18:25:35",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:35:35",
-        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/10/11/400971222-liverpool-v-manchester-city-premier-league-202627-4-610x400.jpg",
+        "fetched_at": "2026-10-12 19:05:59",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/10/12/1878891749-72652555018601201486017289625369993037576003neasy-resizecom-610x400.jpg",
         "video_url": null,
         "source_id": "terra",
         "source_name": "Terra",
         "source_priority": 24247,
         "source_url": "https://www.terra.com.br",
         "source_icon": "https://i.newsdata.io/terra.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "07ee36a6f23f2da4fe24fc1e79cc0627",
-        "link": "https://esporte.ig.com.br/parceiros/jogada10/2026-10-11/chapecoense-x-athletico-pr--onde-assistir--escalacoes-e-arbitragem.html",
-        "title": "Chapecoense x Athletico-PR: onde assistir, escalações e arbitragem",
-        "description": "Chape tenta uma reação improvável contra o rebaixamento, enquanto o Furacão busca reação após um empate sofrido na última rodada",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "brasileirao2026",
-            "chapecoense",
-            "futebol brasil",
-            "athleticopr"
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.35,
+            "neutral": 6.35,
+            "positive": 93.3
+        },
+        "ai_tag": [
+            "soccer"
         ],
-        "creator": [
-            "jogada 10"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-11 17:27:26",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:41:29",
-        "image_url": "https://i0.statig.com.br/bancodeimagens/d6/cb/u7/d6cbu7agshgphjlvissbu1a2w.jpg",
-        "video_url": null,
-        "source_id": "ig",
-        "source_name": "Ig",
-        "source_priority": 139162,
-        "source_url": "https://www.ig.com.br",
-        "source_icon": "https://i.newsdata.io/ig.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
@@ -170,39 +93,45 @@
         "description_zh": ""
     },
     {
-        "article_id": "73ff736bab36c2b07fb0388806ab1fdf",
-        "link": "https://diariodopara.com.br/bola/corinthians-anuncia-seedorf-tecnico-contrato-2027/",
-        "title": "Corinthians anuncia Clarence Seedorf como técnico com contrato até o fim de 2027",
-        "description": "Neerlandês de 50 anos é o único jogador a vencer a Liga dos Campeões por três clubes, mas soma passagens curtas como treinador desde 2014 O post Corinthians anuncia Clarence Seedorf como técnico com contrato até o fim de 2027 apareceu primeiro em Diário do Pará.",
+        "article_id": "22e99c30a7cd4a09979ded61f25f3dcc",
+        "link": "https://www.nsctotal.com.br/entretenimento/dani-calabresa-estreia-como-protagonista-em-novela-das-sete-da-globo-ao-lado-de-vitoria-strada",
+        "title": "Dani Calabresa estreia como protagonista em novela das sete da Globo ao lado de Vitoria Strada",
+        "description": "Dani Calabresa terá um novo desafio na televisão: interpretar uma das protagonistas de Elas que Lutem, próxima novela das sete da Globo, segundo a coluna",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "bola"
+            "você viu?"
         ],
         "creator": [
-            "matheus de oliveira"
+            "luiza feppe"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "sports",
+            "entertainment",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:27:21",
+        "pubDate": "2026-10-12 18:25:34",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:51:30",
-        "image_url": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_SaveClip_App_842206179_1687716149384409_6551999706686309887_n-1.jpg",
+        "fetched_at": "2026-10-12 19:05:19",
+        "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2026/10/Dani-Calabresa-estreia-como-protagonista-em-novela-das-sete-da-Globo-ao-lado-de-Vitoria-Strada.png",
         "video_url": null,
-        "source_id": "diariodopara",
-        "source_name": "Diário Do Pará",
-        "source_priority": 1552501,
-        "source_url": "https://diariodopara.dol.com.br",
-        "source_icon": "https://i.newsdata.io/diariodopara.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "source_id": "nsctotal",
+        "source_name": "Nsc Total",
+        "source_priority": 14276,
+        "source_url": "https://www.nsctotal.com.br",
+        "source_icon": "https://i.newsdata.io/nsctotal.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.03,
+            "neutral": 21.68,
+            "positive": 78.29
+        },
+        "ai_tag": [
+            "television"
+        ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
@@ -211,43 +140,48 @@
         "description_zh": ""
     },
     {
-        "article_id": "65aa216316f66cf2b27c3ec7f06cc1e9",
-        "link": "https://elintransigente.com/2026/10/11/sturzenegger-dnu-70-23-kirchnerismo/",
-        "title": "Federico Sturzenegger desafió al kirchnerismo por el DNU de Milei: “Pro-casta”",
-        "description": "El ministro defendió los efectos de las desregulaciones y respondió al reclamo opositor para derogar la norma.",
+        "article_id": "6b84b6990649fcee185c89dab02fb841",
+        "link": "https://www.perfil.com/noticias/economia/ciudadania-inversion-funciona-nuevo-programa-argentino-exigen-paises-a40.phtml",
+        "title": "Ciudadanía por inversión: cómo funciona el nuevo programa argentino y qué exigen otros países",
+        "description": "La iniciativa comenzará a recibir solicitudes durante el último trimestre de 2026 y permitirá incorporar a cónyuges e hijos bajo determinadas condiciones. Turquía aparece como uno de los modelos más similares, mientras que Estados Unidos, Portugal, Grecia e Italia ofrecen inicialmente permisos de residencia. Leer más",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "dnu 70/23",
-            "política",
-            "kirchnerismo",
-            "federico sturzenegger",
-            "florencia carignano"
+            "ciudadania",
+            "gobierno",
+            "inversión",
+            "programa"
         ],
         "creator": [
-            "ignacio mendez"
+            "gabriel zorrilla"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "top",
-            "politics"
+            "business",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:27:20",
+        "pubDate": "2026-10-12 18:25:34",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:54:09",
-        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/08/sturzenegger.png?fit=1200%2C800&quality=95&ssl=1",
+        "fetched_at": "2026-10-12 19:38:42",
+        "image_url": "https://fotos.perfil.com/2026/10/02/trim/540/304/luis-caputo-anuncio-programa-de-ciudadania-por-inversion-2339384.png",
         "video_url": null,
-        "source_id": "elintransigente",
-        "source_name": "El Intransigente",
-        "source_priority": 3446332,
-        "source_url": "https://elintransigente.com",
-        "source_icon": "https://i.newsdata.io/elintransigente.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "source_id": "perfil",
+        "source_name": "Perfil",
+        "source_priority": 56989,
+        "source_url": "https://www.perfil.com",
+        "source_icon": "https://i.newsdata.io/perfil.png",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 0.1,
+            "neutral": 89.45,
+            "positive": 10.45
+        },
+        "ai_tag": [
+            "economy"
+        ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
@@ -256,95 +190,96 @@
         "description_zh": ""
     },
     {
-        "article_id": "443dea737d3d98817992e7381f47c7e8",
-        "link": "https://www.infobae.com/peru/2026/10/11/papa-leon-xiv-sera-operado-a-un-mes-de-llegar-al-peru-las-actividades-que-tiene-programadas-en-lima-chiclayo-cusco-y-pucallpa/",
-        "title": "Papa León XIV será operado a un mes de llegar al Perú: las actividades que tiene programadas en Lima, Chiclayo, Cusco y Pucallpa",
-        "description": "El pontífice tiene previsto visitar cuatro ciudades entre el 11 y el 16 de noviembre, con misas, reuniones con fieles y actos junto a autoridades nacionales. Esto podría variar tras revelar su estado de salud",
+        "article_id": "8724a9b05b1b66bdcf5df3673aa2e1ae",
+        "link": "https://www.bemparana.com.br/noticias/parana/curitiba-entra-em-contagem-regressiva-para-o-natal-com-mais-de-150-atracoes/",
+        "title": "Curitiba entra em contagem regressiva para Natal com mais de 150 atrações",
+        "description": "O Natal de Curitiba 2026 começa no dia 24 de novembro, com abertura na Praça Santos Andrade, no Centro da... O post Curitiba entra em contagem regressiva para Natal com mais de 150 atrações apareceu primeiro em Bem Paraná.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "pucallpa",
-            "papa león xiv",
-            "chiclayo",
-            "el vaticano",
-            "cusco",
-            "peru-noticias"
+            "paraná"
         ],
         "creator": [
-            "clara  giraldo"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-11 17:27:11",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:31:39",
-        "image_url": "https://www.infobae.com/resizer/v2/QWXFYDBXMZBBDEHOH2NO3T7RQU.png?auth=c9254abcc962a2b059c065a521069b52aa0bfdccf6d13d0d167adbf9d385ea0d&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "61ee18cc868ec63832462eb4c086be6f",
-        "link": "https://diariodopara.com.br/ao-vivo/brusque-0-x-1-paysandu-ao-vivo-acompanhe-decisao-direto-de-sc/",
-        "title": "Brusque 0 x 1 Paysandu ao vivo: acompanhe decisão direto de SC",
-        "description": "Brusque e Paysandu retomam neste domingo (11) a partida da Série C do Campeonato Brasileiro, interrompida no sábado por questões de segurança. O Paysandu vencia por 1 a 0 e busca o acesso à Série B. O post Brusque 0 x 1 Paysandu ao vivo: acompanhe decisão direto de SC apareceu primeiro em Diário do Pará.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "futebol",
-            "ao vivo",
-            "cbf",
-            "onde assistir",
-            "serie c",
-            "brusque",
-            "campeonato brasileiro",
-            "paysandu"
-        ],
-        "creator": [
-            "matheus de oliveira"
+            "redação"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
+            "tourism"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-12 18:25:25",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-12 18:54:18",
+        "image_url": "https://www.bemparana.com.br/wp-content/uploads/2023/06/4f1-4.jpg",
+        "video_url": null,
+        "source_id": "bemparana_br",
+        "source_name": "Bemparana Br",
+        "source_priority": 2047682,
+        "source_url": "https://www.bemparana.com.br",
+        "source_icon": "https://i.newsdata.io/bemparana_br.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.01,
+            "neutral": 0.14,
+            "positive": 99.85
+        },
+        "ai_tag": [
+            "tourism"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "32d2ae624c745150096a69f9a6a42fc3",
+        "link": "https://elintransigente.com/2026/10/12/rodolfo-arruabarrena-convocados-boca/",
+        "title": "Arruabarrena dio los convocados de Boca vs. Vasco, con la baja de Paredes al frente",
+        "description": "El mediocampista sufrió un desgarro y no estará en la serie ante el equipo brasileño; el entrenador también definió los convocados y las opciones para reemplazarlo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "boca",
+            "boca juniors",
+            "copa sudamericana",
+            "rodolfo arruabarrena",
+            "vasco da gama",
+            "leandro paredes"
+        ],
+        "creator": [
+            "santiago gorostiaga"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
             "sports",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:27:00",
+        "pubDate": "2026-10-12 18:25:10",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:51:30",
-        "image_url": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_55581313486_d2af194ad2_k.jpg",
+        "fetched_at": "2026-10-12 19:55:15",
+        "image_url": "https://i0.wp.com/elintransigente.com/wp-content/uploads/2026/10/Rodolfo20Arruabarrena201-1.webp?fit=1200%2C740&quality=95&ssl=1",
         "video_url": null,
-        "source_id": "diariodopara",
-        "source_name": "Diário Do Pará",
-        "source_priority": 1552501,
-        "source_url": "https://diariodopara.dol.com.br",
-        "source_icon": "https://i.newsdata.io/diariodopara.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "source_id": "elintransigente",
+        "source_name": "El Intransigente",
+        "source_priority": 3446332,
+        "source_url": "https://elintransigente.com",
+        "source_icon": "https://i.newsdata.io/elintransigente.jpg",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 6.74,
+            "neutral": 93.12,
+            "positive": 0.14
+        },
+        "ai_tag": [
+            "soccer"
+        ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
@@ -353,49 +288,98 @@
         "description_zh": ""
     },
     {
-        "article_id": "b23b306ccb41cfdb2d8a5a7565ade912",
-        "link": "https://www.infobae.com/mexico/2026/10/11/unam-investiga-nuevos-tratamientos-contra-el-cancer-drogas-inmunoterapias-y-vacunas/",
-        "title": "UNAM investiga nuevos tratamientos contra el cáncer: drogas, inmunoterapias y vacunas",
-        "description": "Especialistas de cuatro países analizaron avances para combatir tumores y fortalecer la colaboración científica",
+        "article_id": "55d8f9dfb519bc91a29ab928a2d3959d",
+        "link": "https://www.elliberal.com.ar/nota/94583/2026/10/rusherking-y-stef-jegier-se-mostraron-juntos--paseo-al-aire-libre-y-romance-confirmado",
+        "title": "Rusher y Stef Jegier se mostraron juntos: paseo al aire libre y romance confirmado",
+        "description": "El cantante santiagueño y la modelo fueron vistos recorriendo una concurrida feria en las inmediaciones del Museo Nacional de Bellas Artes. Los detalles del vínculo y el perfil de la influencer que trabaja en televisión.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "unam",
-            "ciencia",
-            "innovación",
-            "oncología",
-            "cáncer",
-            "inmunoterapia",
-            "vacunas",
-            "mexico-noticias"
+            "argentina",
+            "diario",
+            "el liberal",
+            "news",
+            "noticias",
+            "santiago del estero",
+            "periodico",
+            "ultimo momento"
         ],
         "creator": [
-            "nadia virgilio"
+            "f autor"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
+            "argentina"
         ],
         "category": [
-            "top",
+            "entertainment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-12 18:25:09",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-12 19:25:20",
+        "image_url": "https://www.elliberal.com.ar/img/publicaciones/2026/10/12/alta/5222824.webp",
+        "video_url": null,
+        "source_id": "elliberal",
+        "source_name": "El Liberal",
+        "source_priority": 1699418,
+        "source_url": "https://www.elliberal.com.ar",
+        "source_icon": null,
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.04,
+            "neutral": 3.39,
+            "positive": 96.57
+        },
+        "ai_tag": [
+            "celebrity"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "f6dda4957211e24cbbd06c18a93274d7",
+        "link": "https://www.bemparana.com.br/bem-estar/saude-e-beleza/veja-cinco-livros-que-retratam-diferentes-experiencias-sobre-o-bem-estar-emocional/",
+        "title": "Veja cinco livros que retratam diferentes experiências sobre o bem-estar emocional",
+        "description": "No dia 10 de outubro foi marcado pelo Dia Mundial da Saúde Mental. A data contribui para o debate sobre... O post Veja cinco livros que retratam diferentes experiências sobre o bem-estar emocional apareceu primeiro em Bem Paraná.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "saúde e beleza"
+        ],
+        "creator": [
+            "da assessoria"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
             "health"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:26:51",
+        "pubDate": "2026-10-12 18:25:07",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:31:39",
-        "image_url": "https://www.infobae.com/resizer/v2/JAOH2TTTBRD6DD3XC7TB73HIPI.png?auth=39fafcbd0743594a42161a49024708421841ea7cc13b0c4384705c0c1abae7c8&smart=true&width=2752&height=1536",
+        "fetched_at": "2026-10-12 18:54:36",
+        "image_url": "https://www.bemparana.com.br/wp-content/uploads/2026/10/livros-saude-mental.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "source_id": "bemparana_br",
+        "source_name": "Bemparana Br",
+        "source_priority": 2047682,
+        "source_url": "https://www.bemparana.com.br",
+        "source_icon": "https://i.newsdata.io/bemparana_br.png",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 0.2,
+            "neutral": 95.5,
+            "positive": 4.3
+        },
+        "ai_tag": [
+            "mental health"
+        ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
@@ -404,133 +388,55 @@
         "description_zh": ""
     },
     {
-        "article_id": "b848f5f9739493ee48ea1df1bbdfa0d3",
-        "link": "https://www.infobae.com/peru/2026/10/11/uno-de-cada-tres-ensayos-clinicos-en-peru-se-concentra-en-el-cancer-que-significa-para-los-pacientes/",
-        "title": "Uno de cada tres ensayos clínicos en Perú se concentra en el cáncer: qué significa para los pacientes",
-        "description": "Perú realizó 586 ensayos clínicos en la última década, de los cuales 188 se concentraron en el área de oncología. Hasta el 70% de las investigaciones correspondieron a estudios de fase III",
+        "article_id": "df1648ec0c2f09650c9845892179f219",
+        "link": "https://www.infobae.com/mexico/2026/10/12/bioserie-no-autorizada-de-timbiriche-podria-repetir-la-formula-legal-que-televisa-uso-contra-la-familia-de-vicente-fernandez/",
+        "title": "Bioserie no autorizada de Timbiriche podría repetir la fórmula legal que Televisa usó contra la familia de Vicente Fernández",
+        "description": "Sasha Sokol, Benny Ibarra, Mariana Garza, Alix Bauer, Erik Rubín y Diego Schoening ya se deslindaron del proyecto. Luis de Llano notifica oposición judicial y notarial",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "peru-noticias",
-            "ministerio de salud",
-            "cáncer",
-            "salud"
+            "vicente fernández",
+            "sasha sokol",
+            "luis de llano",
+            "mexico-enntretenimiento",
+            "televisa",
+            "cuquita abarca",
+            "mexico-noticias",
+            "timbiriche"
         ],
         "creator": [
-            "esteban salazar herrada"
+            "marco ruiz"
         ],
         "language": "spanish",
         "country": [
-            "colombia",
-            "mexico",
+            "united states of america",
             "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "top",
-            "health"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-11 17:26:45",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:31:39",
-        "image_url": "https://www.infobae.com/resizer/v2/TYEMUP4ZCJGN5MBYJZT6QMTLTA.jpeg?auth=0cf57a790850550174819f64543422ff6b20b827f8dc4b98b753078ac915f0b6&smart=true&width=1600&height=1066",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "b3a1e9cca40ae865a28564443e47ea95",
-        "link": "https://periodicovirtual.com/soldados-y-voluntarios-recorren-los-centros-comerciales-de-popayan-para-estrechar-lazos-con-los-ciudadanos/",
-        "title": "Soldados y voluntarios recorren los centros comerciales de Popayán para estrechar lazos con los ciudadanos",
-        "description": "Más cerca de la ciudadanía, las voluntarias de ANASE, capítulo Popayán, recorrerán durante este último trimestre centros comerciales del suroccidente del país para presentar la labor social de la asociación, generando espacios de unión con las comunidades.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "alejandro cortes"
-        ],
-        "language": "spanish",
-        "country": [
+            "mexico",
             "colombia"
         ],
         "category": [
-            "lifestyle",
+            "business",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:27:53",
+        "pubDate": "2026-10-12 18:25:01",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:47:30",
-        "image_url": "https://periodicovirtual.com/content/images/2026/10/ejercito-ods.jpeg",
-        "video_url": null,
-        "source_id": "periodicovirtual",
-        "source_name": "Periodicovirtual",
-        "source_priority": 620023,
-        "source_url": "https://periodicovirtual.com",
-        "source_icon": "https://i.newsdata.io/periodicovirtual.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "59aa9f39f1f2f28ff742757d60c90966",
-        "link": "https://www.infobae.com/deportes/2026/10/11/el-emocionante-mensaje-de-dibu-martinez-a-lionel-messi-en-una-camiseta-firmada-tras-su-despedida-de-la-seleccion-argentina/",
-        "title": "El emocionante mensaje de Dibu Martínez a Lionel Messi en una camiseta firmada tras su despedida de la selección argentina",
-        "description": "El astro rosarino recibió una remera especial y el arquero albiceleste le dedicó una sentidas palabras",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "deportes-argentina",
-            "rodrigo de paul",
-            "selección argentina",
-            "lionel messi",
-            "lisandro martínez",
-            "emiliano dibu martínez"
-        ],
-        "creator": [
-            "infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "sports",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-11 17:27:50",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:31:39",
-        "image_url": "https://www.infobae.com/resizer/v2/EVPSV2WHRNB3HKADNWY4IPK34A.png?auth=ae125145e398c641e4e5a88f381ed95969b71ae9831e1f39eda57291e4d72a06&smart=true&width=2752&height=1536",
+        "fetched_at": "2026-10-12 18:47:20",
+        "image_url": "https://www.infobae.com/resizer/v2/EX6EO4QYXRC4XKUE5GFDWRXW3I.jpg?auth=a6be7e2290e6f64e44bdd0f7391ea9d9a607edd719085617f4bfaec26c62f4b6&smart=true&width=1920&height=1080",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
         "source_priority": 1056,
         "source_url": "https://www.infobae.com",
         "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 7.23,
+            "neutral": 79.39,
+            "positive": 13.38
+        },
+        "ai_tag": [
+            "corporate news"
+        ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
@@ -539,40 +445,43 @@
         "description_zh": ""
     },
     {
-        "article_id": "d02a62ee2357c1f0fd573c3f32fb2ab4",
-        "link": "https://vanguardia.com.mx/vida/el-gran-mito-del-oxigeno-por-que-respirar-mas-te-esta-dejando-sin-energia-IA24064840",
-        "title": "El gran mito del oxígeno: ¿Por qué respirar ‘más’ te está dejando sin energía?",
-        "description": "El dióxido de carbono no es un gas de desecho, sino la llave indispensable para que el oxígeno llegue a nuestras células",
+        "article_id": "367311773335883894da0f53664161ff",
+        "link": "https://tribunadepetropolis.com.br/noticias/ministros-da-opep-afirmam-importancia-de-proteger-passagens-maritimas-e-garantir-fluxos/",
+        "title": "Ministros da Opep+ afirmam importância de proteger passagens marítimas e garantir fluxos",
+        "description": "Ministros da Organização dos Países Exportadores de Petróleo (Opep) e países não membros da Opep participantes da Declaração de Cooperação (DoC) se reuniram nesta segunda-feira, 12, em Riad, para reafirmar a importância de proteger as rotas marítimas internacionais para garantir o fluxo ininterrupto de energia. Em comunicado, eles também observaram que a interrupção atual dos […]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "vida"
-        ],
+        "keywords": null,
         "creator": [
-            "ramsés rodríguez"
+            "thais porsch / estadão"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "mexico"
+            "brazil"
         ],
         "category": [
-            "business",
-            "top",
-            "environment"
+            "politics",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:27:48",
+        "pubDate": "2026-10-12 18:25:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 18:05:09",
-        "image_url": "https://vanguardia.com.mx/binrepository/8680947_1-17879432_20261011173817.jpg",
+        "fetched_at": "2026-10-12 19:17:41",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
         "video_url": null,
-        "source_id": "vanguardia",
-        "source_name": "Vanguardia",
-        "source_priority": 24302,
-        "source_url": "https://vanguardia.com.mx",
-        "source_icon": "https://i.newsdata.io/vanguardia.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://i.newsdata.io/tribunadepetropolis_br.jpg",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.07,
+            "neutral": 31.64,
+            "positive": 68.29
+        },
+        "ai_tag": [
+            "government"
+        ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
@@ -581,39 +490,45 @@
         "description_zh": ""
     },
     {
-        "article_id": "079f6803f68f4194195603c606852eb4",
-        "link": "https://oem.com.mx/elsoldetlaxcala/local/compartir-el-evangelio-desde-el-ejemplo-llamado-del-obispo-de-tlaxcala-a-catequistas-32551168",
-        "title": "Compartir el evangelio desde el ejemplo, llamado del Obispo de Tlaxcala a catequistas",
-        "description": "Desde la comunidad de Tizatlán, el jerarca de la grey católica aseguró que el catequista es aquel que proclama la palabra de lo que siente, de lo que le ha transformado la vida y de lo que ha llegado a su corazón",
+        "article_id": "bf733c991b1c68647636caf15007cadf",
+        "link": "https://www.informador.mx/mexico/dia-de-la-raza-12-de-octubre-es-dia-de-descanso-obligatorio-20261012-0090.html",
+        "title": "Día de la Raza: ¿12 de octubre es día de descanso obligatorio?",
+        "description": "Conoce si este 12 de octubre, Día de la Raza, está contemplado como descanso obligatorio en la Ley Federal del Trabajo y cómo afecta tu salario",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "local"
+            "méxico"
         ],
         "creator": [
-            "jesús lima"
+            "anel solis"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top",
+            "politics",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-12 18:26:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-12 18:34:50",
+        "image_url": "https://www.informador.mx/__export/1791829380800/sites/elinformador/img/2026/10/12/d-a_de_la_raza_-12_de_octubre_es_d-a_de_descanso_obligatorio_version1791829334932_version1791829362968.png_755607282.png",
+        "video_url": null,
+        "source_id": "informador_mx",
+        "source_name": "Informador Mx",
+        "source_priority": 27025,
+        "source_url": "https://www.informador.mx",
+        "source_icon": "https://i.newsdata.io/informador_mx.png",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 0.17,
+            "neutral": 99.51,
+            "positive": 0.32
+        },
+        "ai_tag": [
             "politics"
         ],
-        "datatype": "news",
-        "pubDate": "2026-10-11 17:27:30",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 22:45:12",
-        "image_url": "https://oem.com.mx/elsoldetlaxcala/img/32550532/1791739325/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldetlaxcala_mx",
-        "source_name": "Elsoldetlaxcala Mx",
-        "source_priority": 348815,
-        "source_url": "https://www.elsoldetlaxcala.com.mx",
-        "source_icon": "https://i.newsdata.io/elsoldetlaxcala_mx.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
@@ -622,23 +537,209 @@
         "description_zh": ""
     },
     {
-        "article_id": "025b57a526df2f5395a3c7b151ab96b5",
-        "link": "https://www.adn40.mx/deportes/2026-10-11/messi-nombra-a-gilberto-mora-como-una-de-las-proximas-estrellas-del-futbol-mundial/",
-        "title": "Messi nombra a Gilberto Mora como una de las próximas estrellas del futbol mundial",
-        "description": "A días de retirarse de la Selección de Argentina, Messi dio una lista de los 10 futbolistas que se deben de seguir en el futbol",
+        "article_id": "90cab70a0c407a82cbbcdc2c95793a28",
+        "link": "https://www.elmanana.com/deportes/futbolamericano/dallas-cowboys-contratan-a-mike-pettine-como-asistente/6195972",
+        "title": "Dallas Cowboys contratan a Mike Pettine como asistente",
+        "description": "La llegada de Pettine se da después de una derrota ante Tampa Bay, donde la defensa de los Cowboys mostró debilidades significativas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "adidas",
-            "retiro de messi",
-            "futbol",
-            "deportes",
-            "gilberto mora",
-            "nuevas estrellas de futbol",
-            "lionel messi",
-            "selección mexicana"
+            "christian parker cowboys",
+            "pettine regresa nfl",
+            "cowboys derrota tampa bay",
+            "mike pettine asistente cowboys",
+            "dallas cowboys coordinador defensivo"
         ],
         "creator": [
-            "ximena ochoa"
+            "agencia ap"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-12 18:26:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-12 23:44:42",
+        "image_url": "https://blob.elmanana.com/images/2026/10/12/crop-w2382-h1987-ap26285824164025-dd567431-focus-0-0-1200-647.webp",
+        "video_url": null,
+        "source_id": "elmanana",
+        "source_name": "Últimas Noticias - El Mañana De Reynosa",
+        "source_priority": 258494,
+        "source_url": "https://www.elmanana.com",
+        "source_icon": "https://i.newsdata.io/elmanana.jpg",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 7.62,
+            "neutral": 88.79,
+            "positive": 3.59
+        },
+        "ai_tag": [
+            "american football",
+            "sports"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "e9a089f8cd0f00c328e5ff28c76d9de5",
+        "link": "https://www.mural.com.mx/gana-sat-80-del-monto-en-litigios-fiscales/ar3293164",
+        "title": "Gana SAT 80% del monto en litigios fiscales",
+        "description": "En el primer semestre del año, el SAT ganó 55.8% de los juicios con sentencia definitiva, que concentraron 80.4% del total en controversia.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "alejandra mendoza"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-12 18:25:41",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-12 18:50:10",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "mural",
+        "source_name": "Mural",
+        "source_priority": 966477,
+        "source_url": "https://www.mural.com.mx",
+        "source_icon": "https://i.newsdata.io/mural.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 2.11,
+            "neutral": 10.64,
+            "positive": 87.25
+        },
+        "ai_tag": [
+            "corporate news"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "cbcb91109eb119d4b67fbfd31811a441",
+        "link": "https://lasillarota.com/estados/2026/10/12/rachel-deja-una-menor-muerta-y-diez-desaparecidos-en-baja-california-532639.html",
+        "title": "Rachel deja una menor muerta y diez desaparecidos en Baja California",
+        "description": "El huracán Rachel dejó una menor sin vida y diez personas no localizadas en Baja California, informó la gobernadora Marina del Pilar Ávila",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ensenada",
+            "san felipe",
+            "mesa exprés",
+            "huracán simón",
+            "huracán rachel",
+            "marina del pilar ávila",
+            "baja california"
+        ],
+        "creator": [
+            "luis ramos chavero"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "environment",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-12 18:25:36",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-12 18:42:38",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "lasillarota",
+        "source_name": "La Silla Rota",
+        "source_priority": 200644,
+        "source_url": "https://lasillarota.com",
+        "source_icon": "https://i.newsdata.io/lasillarota.jpg",
+        "sentiment": "negative",
+        "sentiment_stats": {
+            "negative": 96.28,
+            "neutral": 3.69,
+            "positive": 0.03
+        },
+        "ai_tag": [
+            "natural disasters"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "d62d90d101720dd5cea38448e8529789",
+        "link": "https://www.reporteindigo.com/deportes/gracias-por-la-hermosa-vida-que-compartimos-la-desgarradora-despedida-de-la-esposa-de-pac-20261012-0043.html",
+        "title": "\"Gracias por la hermosa vida que compartimos\": La desgarradora despedida de la esposa de PAC tras su fallecimiento",
+        "description": "Su compañera de vida rompió el silencio con una emotiva carta donde recordó sus sueños truncados y más de dos décadas de amor",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "fan"
+        ],
+        "creator": [
+            "fabián isael rosas sánchez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "crime",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-12 18:25:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-12 19:12:32",
+        "image_url": "https://www.reporteindigo.com/images-formats/1200x675/t_2-p_9-fpx_1000-fpy_562/jpg/2026/10/12/copia_de_platillas_fabi-n_-13-.jpg",
+        "video_url": null,
+        "source_id": "reporteindigo",
+        "source_name": "Reporte Indigo",
+        "source_priority": 159031,
+        "source_url": "https://www.reporteindigo.com",
+        "source_icon": "https://i.newsdata.io/reporteindigo.jpg",
+        "sentiment": "negative",
+        "sentiment_stats": {
+            "negative": 81.49,
+            "neutral": 8.35,
+            "positive": 10.16
+        },
+        "ai_tag": [
+            "accidents"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "cdea521e853c31fc1fde05857254cceb",
+        "link": "https://www.mural.com.mx/acusan-a-evo-morales-y-garcia-linera-por-asesinato-y-tortura/ar3293162",
+        "title": "Acusan a Evo Morales y García Linera por asesinato y tortura",
+        "description": "Bolivia inició trámite contra Evo Morales y Álvaro García por delitos de asesinato, tortura y secuestro en el caso Hotel Las Américas.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "xinhua"
         ],
         "language": "spanish",
         "country": [
@@ -648,250 +749,211 @@
             "world"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:27:26",
+        "pubDate": "2026-10-12 18:25:29",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:42:34",
-        "image_url": "https://tvazteca-adnnoticias-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Ftvazteca%2FRWDBZDACT5EHJIE2ZK5KUDZ6XU.jpg?auth=4dafdee6dfb21235eb7b8b37bd38fea7926a18ca2975e62bde39f5d75c232820&smart=true&width=1200&height=675",
-        "video_url": null,
-        "source_id": "adn40",
-        "source_name": "Adn40",
-        "source_priority": 220795,
-        "source_url": "https://www.adn40.mx",
-        "source_icon": "https://i.newsdata.io/adn40.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "a9c62edbbaaeb6a9c01e99b135fa52b7",
-        "link": "https://www.yucatan.com.mx/mundo/2026/10/11/inundaciones-repentinas-causadas-por-el-rio-budhi-gandaki-ocasionan-desalojos-en-nepal.html",
-        "title": "Inundaciones repentinas causadas por el río Budhi Gandaki ocasionan desalojos en Nepal",
-        "description": "KATMANDÚ, Nepal.— Tras registrarse inundaciones repentinas que destruyeron viviendas y otras estructuras en la zona, los pobladores que residen a lo largo del río Budhi Gandaki fueron desalojados este domingo. La Autoridad Nacional de Reducción y Gestión del Riesgo de Desastres ordenaron el desalojo de los habitantes y advirtieron a otros que se trasladaran a […]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "mundo",
-            "inundaciones",
-            "desastres naturales",
-            "recomendada"
-        ],
-        "creator": [
-            "ap"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "environment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-11 17:27:22",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 19:16:22",
+        "fetched_at": "2026-10-12 18:50:10",
         "image_url": null,
         "video_url": null,
-        "source_id": "yucatan",
-        "source_name": "Diario De Yucatán",
-        "source_priority": 65466,
-        "source_url": "https://www.yucatan.com.mx",
-        "source_icon": "https://i.newsdata.io/yucatan.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "source_id": "mural",
+        "source_name": "Mural",
+        "source_priority": 966477,
+        "source_url": "https://www.mural.com.mx",
+        "source_icon": "https://i.newsdata.io/mural.png",
+        "sentiment": "negative",
+        "sentiment_stats": {
+            "negative": 93.51,
+            "neutral": 6.35,
+            "positive": 0.14
+        },
+        "ai_tag": [
+            "crime",
+            "law and justice"
+        ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
+        "duplicate": true,
         "title_zh": "",
         "description_zh": ""
     },
     {
-        "article_id": "6eacff3c03184e43480a517aa2ebdaf0",
-        "link": "https://seguimiento.co/la-region-caribe/atentado-contra-dos-dragoneantes-del-inpec-en-barranquilla-sicario-les-propino",
-        "title": "Atentado contra dos dragoneantes del Inpec en Barranquilla: sicario les propinó varios disparos",
-        "description": "Domingo 11 de Octubre de 2026 - 12:23pm Dos dragoneantes del Inpec fueron heridos a bala la noche de este sábado en el barrio San Martín, en Barranquilla. Los funcionarios del Instituto Nacional Penitenciario y Carcelario fueron identificados como Daniel Steven Tapiero Alférez y Shirly Dallana Acosta Marroquín. Los mencionados son dragoneantes provisionales de la Penitenciaría El Bosque. Habían salido de turno. De acuerdo con la Policía, Tapiero Alférez y Acosta Marroquín se transportaban en una motocicleta cuando fueron interceptados por dos sicarios en moto. El parrillero sacó un arma de fuego y les propinó varios disparos. Los funcionarios del Inpec fueron trasladados a la Clínica San Ignacio donde reciben atención médica. Este atentado se da 5 días después del ataque a bala a la fachada de la cárcel Modelo de Barranquilla, ubicada en la Vía 40. La información recopilada por las autoridades señala que luego del ingreso del director de la cárcel, David Enrique Fals, su escolta entró detrás de él y 5 segundos después escucharon varias detonaciones por arma de fuego. Al salir, el director no vio a nadie, pero al revisar las cámaras de seguridad se percató de dos hombres que llegaron en moto, el parrillero se voló el separador de la Vía 40 y disparó en tres ocasiones contra la cárcel a pesar que en ese momento pasaban varios vehículos y motocicletas sobre la vía. La primera hipótesis que maneja el CTI indica que el hecho podría estar relacionado con amenazas de muerte contra el director por funciones propias del cargo. Personal de vigilancia de la cárcel logró incautar la motocicleta usada para el ataque a bala. Fue hallada abandonada cerca del centro carcelario. El pasado 6 de mayo ocurrió un hecho similar contra ese mismo centro carcelario. Hombres en moto dispararon en repetidas ocasiones contra la fachada del centro carcelario. El caso ocurrió un día después de conocerse un video en el que presuntos integrantes de 'Los Pepes' amenazaron a guardianes del Inpec. Hay que recordar también que el 2 de febrero desconocidos en moto lanzaron un artefacto explosivo por encima de la pared que da a un parqueadero de la Cárcel Distrital El Bosque. En el hecho dos vigilantes del lugar resultaron heridos. Además, un día antes del suceso también hombres en moto dispararon contra la fachada. Judicial dragoneantes dos heridos inoec Barranquilla Región Caribe La región Caribe El hecho ocurrió en el barrio San Martín, la noche de este sábado. Visible: Sí Lindaospino",
+        "article_id": "3240d93166d01b811d850aa8ad479cdd",
+        "link": "https://www.elnorte.com/gana-sat-80-del-monto-en-litigios-fiscales/ar3293163",
+        "title": "Gana SAT 80% del monto en litigios fiscales",
+        "description": "En el primer semestre del año, el SAT ganó 55.8% de los juicios con sentencia definitiva, que concentraron 80.4% del total en controversia.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "últimas noticias de santa marta",
-            "hoy diario del magdalena",
-            "noticias de hoy santa marta",
-            "departamento del magdalena",
-            "seguimiento",
-            "barranquilla",
-            "dragoneantes",
-            "región caribe",
-            "judicial",
-            "noticias de santa marta",
-            "seguimiento.co",
-            "inoec",
-            "dos heridos"
-        ],
+        "keywords": null,
         "creator": [
-            "zonacero"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-11 17:27:21",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 20:24:23",
-        "image_url": "https://seguimiento.co/sites/default/files/2026/10/11/articulo/seguimiento_3.jpeg",
-        "video_url": null,
-        "source_id": "seguimiento",
-        "source_name": "Seguimiento.co",
-        "source_priority": 654651,
-        "source_url": "http://seguimiento.co",
-        "source_icon": "https://i.newsdata.io/seguimiento.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "3e32e29095dc5c76f75a8e986e94b3e4",
-        "link": "https://www.zocalo.com.mx/checo-perez-mantiene-ritmo-consistente-en-singapur-pero-queda-fuera-de-la-zona-de-puntos/",
-        "title": "Checo Pérez mantiene ritmo consistente en Singapur, pero queda fuera de la zona de puntos",
-        "description": "El Cadillac entregó una carrera más balanceada, con buenos momentos, pero en general siguen lejos de optar por un top 10.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "f1",
-            "deportes",
-            "checo perez"
-        ],
-        "creator": [
-            "espn"
+            "alejandra mendoza"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "sports"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:27:18",
+        "pubDate": "2026-10-12 18:25:26",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:43:23",
-        "image_url": "https://www.zocalo.com.mx/wp-content/uploads/2026/10/6-checo-perez-1.jpg",
+        "fetched_at": "2026-10-12 18:40:41",
+        "image_url": null,
         "video_url": null,
-        "source_id": "zocalo",
-        "source_name": "Periódico Zócalo",
-        "source_priority": 208655,
-        "source_url": "http://zocalo.com.mx",
-        "source_icon": "https://i.newsdata.io/zocalo.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "source_id": "elnorte",
+        "source_name": "Elnorte",
+        "source_priority": 107502,
+        "source_url": "https://www.elnorte.com",
+        "source_icon": "https://i.newsdata.io/elnorte.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 2.11,
+            "neutral": 10.64,
+            "positive": 87.25
+        },
+        "ai_tag": [
+            "corporate news"
+        ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
+        "duplicate": true,
         "title_zh": "",
         "description_zh": ""
     },
     {
-        "article_id": "443dea737d3d98817992e7381f47c7e8",
-        "link": "https://www.infobae.com/peru/2026/10/11/papa-leon-xiv-sera-operado-a-un-mes-de-llegar-al-peru-las-actividades-que-tiene-programadas-en-lima-chiclayo-cusco-y-pucallpa/",
-        "title": "Papa León XIV será operado a un mes de llegar al Perú: las actividades que tiene programadas en Lima, Chiclayo, Cusco y Pucallpa",
-        "description": "El pontífice tiene previsto visitar cuatro ciudades entre el 11 y el 16 de noviembre, con misas, reuniones con fieles y actos junto a autoridades nacionales. Esto podría variar tras revelar su estado de salud",
+        "article_id": "8845a3c24ded40a932f17ca876608ade",
+        "link": "https://diario.mx/espectaculos/2026/oct/12/revelara-ladydi-secretos-de-la-realeza-en-documental-inedito-1142965.html",
+        "title": "Revelará LadyDi secretos de la realeza en documental inédito",
+        "description": "Una serie documental recuperará grabaciones inéditas de la Princesa Diana, en las que habló sobre Charles, Camilla y la familia real",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "pucallpa",
-            "papa león xiv",
-            "chiclayo",
-            "el vaticano",
-            "cusco",
-            "peru-noticias"
+            "espectáculos"
         ],
         "creator": [
-            "clara  giraldo"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia",
-            "mexico",
-            "argentina",
-            "united states of america"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-11 17:27:11",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 17:31:39",
-        "image_url": "https://www.infobae.com/resizer/v2/QWXFYDBXMZBBDEHOH2NO3T7RQU.png?auth=c9254abcc962a2b059c065a521069b52aa0bfdccf6d13d0d167adbf9d385ea0d&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "b98e0f68d95c5fc81dae253c3ad26679",
-        "link": "https://heraldodemexico.com.mx/nacional/2026/10/11/iecm-fija-reglas-para-candidaturas-independientes-rumbo-las-elecciones-de-2027-906110.html",
-        "title": "IECM fija reglas para candidaturas independientes rumbo a las elecciones de 2027",
-        "description": "El IECM estableció límites de financiamiento y restricciones de propaganda para quienes busquen una candidatura sin partido en las elecciones de 2027.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "elecciones 2027",
-            "iecm",
-            "candidatos independientes",
-            "dgs"
-        ],
-        "creator": [
-            "matías domínguez"
+            "agencia reforma"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "technology"
+            "entertainment",
+            "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-11 17:27:01",
+        "pubDate": "2026-10-12 18:25:24",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-11 23:33:48",
-        "image_url": "https://heraldodemexico.com.mx/u/fotografias/m/2026/10/11/f1280x720-1340266_1471941_5050.jpeg",
+        "fetched_at": "2026-10-12 18:34:16",
+        "image_url": "https://diario.mx/core/dmx/assets/images/2026/10/12/rty-BWbDUGMUc.jpg",
         "video_url": null,
-        "source_id": "heraldodemexico",
-        "source_name": "El Heraldo De Mexico",
-        "source_priority": 21317,
-        "source_url": "https://heraldodemexico.com.mx",
-        "source_icon": "https://i.newsdata.io/heraldodemexico.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "source_id": "diario",
+        "source_name": "El Diario",
+        "source_priority": 14955,
+        "source_url": "https://diario.mx",
+        "source_icon": "https://i.newsdata.io/diario.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.05,
+            "neutral": 34.57,
+            "positive": 65.38
+        },
+        "ai_tag": [
+            "television"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "6924c89b9d79498e33431142981b45d7",
+        "link": "https://www.noroeste.com.mx/entretenimiento/espectaculos/rosalia-sorprende-en-saturday-night-live-con-ballet-en-puntas-ND26438511",
+        "title": "Rosalía sorprende en Saturday Night Live con ballet en puntas",
+        "description": "Rosalía sorprendió en Saturday Night Live al interpretar una pieza musical con una exigente coreografía de ballet en puntas, culminando su presentación con una inesperada escena bajo la ducha en el programa estadounidense. Su aparición coincidió con el inicio de votaciones para los premios Grammy. La actuación de la cantante española destacó por la demanda física de la coreografía y la particular combinación de música y danza. Tras el número, la artista protagonizó una escena bajo la ducha, un cierre que contrastó con la precisión de su presentación. La participación de Rosalía en uno de los programas más reconocidos de la televisión estadounidense representa una oportunidad para mostrar su propuesta artística a una audiencia amplia. Esto incluye a los votantes que aún no estuvieran familiarizados con su trabajo, según la publicación original. La intérprete apostó por una presentación que combinó baile en puntas y música, mostrando una faceta escénica que requiere preparación y control corporal. Este número fue uno de los momentos destacados de su aparición en el programa. La escena bajo la ducha llegó después de la coreografía y añadió un contraste a la actuación, que pasó de la exigencia técnica del ballet a un momento más relajado. La participación en el programa coincidió con el inicio de las votaciones para los premios Grammy, previstas para el lunes siguiente.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "noroeste/redacción",
+            "espectáculos"
+        ],
+        "creator": [
+            "noroeste/redacción"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-12 18:25:19",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-12 19:21:10",
+        "image_url": "https://www.noroeste.com.mx/binrepository/rosaliaaa_1-14712078_20261012112821.jpg",
+        "video_url": null,
+        "source_id": "noroeste",
+        "source_name": "Noroeste",
+        "source_priority": 841816,
+        "source_url": "https://www.noroeste.com.mx",
+        "source_icon": "https://i.newsdata.io/noroeste.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.11,
+            "neutral": 3.15,
+            "positive": 96.74
+        },
+        "ai_tag": [
+            "entertainment"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "9901cd30cd3f1ea5a6549b944facde31",
+        "link": "https://www.eleconomista.com.mx/videos/industria-mexicana-crece-3-6-anual-20261012-838166.html",
+        "title": "Industria mexicana crece 3.6% anual",
+        "description": "La construcción se estancó, pero la manufactura volvió a crecer con fuerza; de forma acumulada el indicador se mantuvo en terreno positivo, con un avance de 0.8 por ciento.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "video"
+        ],
+        "creator": [
+            "redacción el economista"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "multimedia",
+        "pubDate": "2026-10-12 18:25:18",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-12 19:04:55",
+        "image_url": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/12/6acd25e2aad70.webp",
+        "video_url": "https://www.youtube.com/watch?v=GbtWSGs8HTk",
+        "source_id": "eleconomista",
+        "source_name": "El Economista",
+        "source_priority": 19606,
+        "source_url": "https://www.eleconomista.com.mx",
+        "source_icon": "https://i.newsdata.io/eleconomista.jpg",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.01,
+            "neutral": 0.09,
+            "positive": 99.9
+        },
+        "ai_tag": [
+            "real estate"
+        ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
