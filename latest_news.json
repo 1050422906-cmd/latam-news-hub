@@ -1,58 +1,42 @@
 [
     {
-        "article_id": "ae7c60d787d53c57d28235cfdc446abc",
-        "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/hungria-derruba-restricoes-a-conteudo-lgbtqia-impostas-por-orban.shtml",
-        "title": "Hungria derruba restrições a conteúdo LGBTQIA+ impostas por Orbán",
-        "description": "Parlamentares da Hungria aprovaram nesta terça-feira (13) a retirada de dispositivos anti-LGBTQIA+ de uma lei de \"proteção infantil\" adotada em 2021, durante o governo do nacionalista Viktor Orbán. Leia mais (10/13/2026 - 13h26)",
+        "article_id": "a81d706786c385af329ff77136e3cc22",
+        "link": "https://canaltech.com.br/notebook/novo-notebook-da-gigabyte-tem-desempenho-de-pc-gamer-com-rtx-5090/",
+        "title": "Novo notebook da Gigabyte tem desempenho de PC gamer com RTX 5090",
+        "description": "Se você é gamer e quer o melhor desempenho possível, não resta dúvida de que um PC de mesa high-end é a melhor escolha. Mas existem notebooks quase tão fortes quanto uma máquina dessas, como as novas versões do AORUS Master 16 da Gigabyte, que podem ser equipadas com nada menos que uma RTX 5080 ou RTX 5090, além do melhor processador da AMD no segmento mobile. Além das melhores GPUs para notebooks, o AORUS Master oferece nada menos do que um Ryzen 9 9955HX3D, nada menos do que o melhor processador da AMD para notebooks. Essa é uma CPU de 16 núcleos e 32 threads, operando com boost de 5,40 GHz e TDP de 140W. Seu maior destaque fica para os 128 MB de cache L3 por conta da tecnologia 3D V-Cache. As GPUs da NVIDIA são o que existe de melhor em termos de poder gráfico para notebook. Assim como a versão de desktop, a RTX 5080 mobile também conta com 16 GB de memória. Já a RTX 5090 é equipada com 24 GB e não os 32 GB vistos na versão de PC de mesa. Os chips são refrigerados pelo sistema Frost Fan 2.0 feito para lidar com até 230 W de potência, com fans mais finas e mais silenciosas. O contato com a CPU e GPU é feito através de uma câmera de vapor com 50% mais contato em relação à geração anterior dessa linha de notebooks gamer da Gigabyte. Tela OLED e conexões Independentemente da GPU escolhida, qualquer uma delas consegue lidar com a resolução 2560x1600 (16:10) da tela de 16 polegadas do AORUS Master. Como não poderia deixar de ser, a tela usa nada menos que um painel OLED com taxa de atualização de 240 Hz e tempo de resposta de apenas 0,2 ms. Além disso, ela conta com HDR True Black 1000, 100% de cobertura DCI-P3. Fechando as especificações, assim como é possível escolher qual GPU irá equipar o notebook, é possível escolher também até 64 GB de memória DDR5 e até 2 TB de SSD NVMe Gen 4 e 5. Tudo isso é alimentado por uma bateria de 99 Whr que pode ter 50% de carga em apenas 30 minutos. O notebook oferece ainda portas USB-C e USB-A 3.2 Gen 2, DisplayPort 2.0, HDMI 2.1 e mais. O problema mesmo é o preço de uma máquina desse nível. O modelo equipado com uma RTX 5080, 1 TB de SSD e 32 GB de memória RAM sai por US$ 3.399,99. Já a versão topo de linha com a RTX 5090 e o dobro de armazenamento e memória custa US$ 4.799,99. Existe ainda uma versão com RTX 5070 Ti, mas ela não impressiona como essas high-end. Não existe previsão de lançamento no Brasil, mas dá para esperar preços maiores do que um concorrente absurdamente caro de tempos atrás. {{WHATSAPP_CHANNEL}}",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "direitos lgbt",
-            "budapeste",
-            "trans",
-            "hungria",
-            "união europeia",
-            "viktor orbán",
-            "history & philosophy",
-            "lgbtqia+",
-            "europa",
-            "folha",
-            "transexuais e transgêneros",
-            "transexuais",
-            "leste europeu",
-            "folha de s.paulo",
-            "gay",
-            "social issues",
-            "péter magyar"
-        ],
+        "keywords": null,
         "creator": [
-            "agências de notícias"
+            "raphael giannotti"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "world"
+            "top",
+            "technology"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-13 16:26:00",
+        "pubDate": "2026-10-14 16:09:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:32:46",
-        "image_url": "https://f.i.uol.com.br/fotografia/2026/10/13/17919085946ace5af290fe5_1791908594_3x2_md.jpg",
+        "fetched_at": "2026-10-14 16:37:19",
+        "image_url": "https://tl.ctcdn.com.br/-r2mNf4AuETC_fvXH7DP3A1-H_M=/320x180/smart/filters:format(webp):quality(85)/6a0b681d-1c6f-4bab-8560-e9a2d9a41205.png",
         "video_url": null,
-        "source_id": "folha",
-        "source_name": "Folha",
-        "source_priority": 3498,
-        "source_url": "https://www.folha.uol.com.br",
-        "source_icon": "https://i.newsdata.io/folha.png",
+        "source_id": "canaltech_br",
+        "source_name": "Canaltech",
+        "source_priority": 47267,
+        "source_url": "https://canaltech.com.br",
+        "source_icon": "https://i.newsdata.io/canaltech_br.png",
         "sentiment": "positive",
         "sentiment_stats": {
-            "negative": 5.47,
-            "neutral": 1.86,
-            "positive": 92.67
+            "negative": 0.01,
+            "neutral": 0.07,
+            "positive": 99.92
         },
         "ai_tag": [
-            "politics"
+            "e-commerce",
+            "technology"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -62,41 +46,42 @@
         "description_zh": ""
     },
     {
-        "article_id": "5a8720719269112c0ee68106c33c3440",
-        "link": "https://tribunadepetropolis.com.br/noticias/eleicoes-2026-pco-orienta-voto-nulo-no-2o-turno-da-eleicao-presidencial/",
-        "title": "Eleições 2026: PCO orienta voto nulo no 2º turno da eleição presidencial",
-        "description": "O Partido da Causa Operária (PCO) orientou voto nulo no segundo turno da eleição presidencial, disputado pelo presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL). A decisão foi tomada após a 39ª Conferência Nacional realizada neste domingo e divulgada em nota oficial nesta segunda-feira, 12. Durante a conferência, o candidato […]",
+        "article_id": "5157ca2bd490341d3d7a480310be2063",
+        "link": "https://www.dgabc.com.br/Noticia/4352670/outubro-rosa-artistas-que-ja-falaram-abertamente-sobre-cancer-de-mama",
+        "title": "Outubro Rosa: Artistas que já falaram abertamente sobre câncer de mama",
+        "description": "Outubro Rosa: Artistas que já falaram abertamente sobre câncer de mama",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "mariana ribas e daniel tozzi / estadão"
+        "keywords": [
+            "nacional"
         ],
+        "creator": null,
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "politics"
+            "top",
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-13 16:26:00",
+        "pubDate": "2026-10-14 16:09:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 17:17:05",
-        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "fetched_at": "2026-10-14 17:22:35",
+        "image_url": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
         "video_url": null,
-        "source_id": "tribunadepetropolis_br",
-        "source_name": "Tribuna De Petr",
-        "source_priority": 459332,
-        "source_url": "https://tribunadepetropolis.com.br",
-        "source_icon": "https://i.newsdata.io/tribunadepetropolis_br.jpg",
+        "source_id": "dgabc",
+        "source_name": "Diário Do Grande Abc",
+        "source_priority": 1985812,
+        "source_url": "https://www.dgabc.com.br",
+        "source_icon": "https://i.newsdata.io/dgabc.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 16.89,
-            "neutral": 83.02,
-            "positive": 0.09
+            "negative": 1.01,
+            "neutral": 93.69,
+            "positive": 5.3
         },
         "ai_tag": [
-            "elections"
+            "celebrity"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -106,16 +91,118 @@
         "description_zh": ""
     },
     {
-        "article_id": "8d6cd9be5fab50d6af67cc40c99822d6",
-        "link": "https://www.losandes.com.ar/deportes/tiene-37-anos-juega-el-miami-fc-y-freno-ecuador-el-mundial-2026-recibio-un-guinness-sus-16-atajadas-n6010119",
-        "title": "Tiene 37 años, juega en el Miami FC y frenó a Ecuador en el Mundial 2026: recibió un Guinness por sus 16 atajadas",
-        "description": "El arquero de Curazao igualó la plusmarca mundialista de Tim Howard en el 0-0 que le dio a Curazao su primer punto histórico en una Copa del Mundo.",
+        "article_id": "9a4c8a9806f87694f623e6f85f82536f",
+        "link": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/10/7520694-premio-jabuti-anuncia-finalistas-e-traz-novidades-para-livro-do-ano.html",
+        "title": "Prêmio Jabuti anuncia finalistas e traz novidades para Livro do Ano",
+        "description": "Edição histórica destaca cultura digital e inclui estreantes na disputa pelo Livro do Ano; cerimônia na Sala São Paulo revelará os vencedores",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "deportes"
+            "literatura",
+            "leitura",
+            "livros",
+            "finance",
+            "prêmio",
+            "& economics",
+            "business"
         ],
         "creator": [
-            "los andes"
+            "correio braziliense"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:09:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 20:43:52",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2025/11/29/itamar-vieira-junior-61523066.jpg",
+        "video_url": null,
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://i.newsdata.io/correiobraziliense.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.02,
+            "neutral": 2.64,
+            "positive": 97.34
+        },
+        "ai_tag": [
+            "awards and recognitions"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "0b9619080caa431adf3edd404a9ea873",
+        "link": "https://www.em.com.br/cultura/2026/10/7520693-the-strokes-declaram-apoio-a-lula-banda-posta-arte-politica-em-rede-social.html",
+        "title": "The Strokes declaram apoio a Lula: banda posta arte política em rede social",
+        "description": "Grupo usou o perfil oficial para manifestar suporte ao presidente; postagem conta com remix do baterista brasileiro Fabrizio Moretti na trilha sonora",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "lula",
+            "the strokes",
+            "famosos",
+            "celebridades",
+            "cultura"
+        ],
+        "creator": [
+            "flor sette camara*"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:09:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 19:31:48",
+        "image_url": "https://midias.em.com.br/_midias/jpg/2026/10/14/7520693-66de6f503d72489e93c41e286b1e4e1b-67966700.jpg",
+        "video_url": null,
+        "source_id": "estadodeminas",
+        "source_name": "Jornal Estado De Minas",
+        "source_priority": 6179,
+        "source_url": "https://www.em.com.br",
+        "source_icon": "https://i.newsdata.io/estadodeminas.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 1.39,
+            "neutral": 5.44,
+            "positive": 93.17
+        },
+        "ai_tag": [
+            "celebrity"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "615912e718e5bd7d05ece40e56f77698",
+        "link": "https://www.corrienteshoy.com/nacionales/el-peronismo-no-para-de-dividirse-ahora-el-coreano-peronista-arma-su-propio-partido.htm",
+        "title": "El peronismo no para de dividirse: Ahora el \"coreano peronista\" arma su propio partido",
+        "description": "Portal de noticias de la ciudad de Corrientes, actualidad, galerías de fotos, sociales, eventos, carnavales. Información general y radio en vivo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "daniel caran"
         ],
         "language": "spanish",
         "country": [
@@ -123,27 +210,27 @@
         ],
         "category": [
             "top",
-            "sports"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-13 16:26:00",
+        "pubDate": "2026-10-14 16:09:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:41:04",
-        "image_url": "https://media.losandes.com.ar/p/269e846fd1e77789ef377de08c3e8f21/adjuntos/368/imagenes/100/756/0100756599/1200x675/788x371:808x391/eloy-room.png",
+        "fetched_at": "2026-10-14 17:56:54",
+        "image_url": "https://www.corrienteshoy.com/galeria/fotos/2026/10/14/m_c6571ed3e71676d6800f9f299047baa4.png",
         "video_url": null,
-        "source_id": "losandes",
-        "source_name": "Los Andes",
-        "source_priority": 114641,
-        "source_url": "https://www.losandes.com.ar",
-        "source_icon": "https://i.newsdata.io/losandes.png",
-        "sentiment": "positive",
+        "source_id": "corrienteshoy",
+        "source_name": "Corrientes Hoy",
+        "source_priority": 370282,
+        "source_url": "https://www.corrienteshoy.com",
+        "source_icon": "https://i.newsdata.io/corrienteshoy.png",
+        "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 0.06,
-            "neutral": 3.27,
-            "positive": 96.67
+            "negative": 11.23,
+            "neutral": 81.49,
+            "positive": 7.28
         },
         "ai_tag": [
-            "soccer"
+            "politics"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -153,44 +240,44 @@
         "description_zh": ""
     },
     {
-        "article_id": "11abd35460d1f32512c223b5b9424203",
-        "link": "https://www.losandes.com.ar/policiales/encontraron-un-hombre-muerto-la-lateral-del-acceso-sur-estaba-junto-su-bicicleta-n6010120",
-        "title": "Encontraron un hombre muerto en la lateral del Acceso Sur: estaba junto a su bicicleta",
-        "description": "Vecinos de Acceso Sur y Bulnes llamaron al 911 para denunciar el hecho.",
+        "article_id": "dca19cdae6aca340bb7db789dc3c5e12",
+        "link": "https://www.elchubut.com.ar/regionales/2026-10-14-13-9-0-luque-se-reunio-con-vecinos-en-tecka-en-el-interior-de-chubut-es-donde-mas-se-sufre-la-falta-de-oportunidades",
+        "title": "Luque se reunió con vecinos en Tecka: “En el interior de Chubut es donde más se sufre la falta de oportunidades”",
+        "description": "El diputado nacional mantuvo encuentros con familias de la localidad, que plantearon la falta de oportunidades para los jóvenes.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "policiales"
+            "regionales"
         ],
         "creator": [
-            "redacción policiales"
+            "el chubut"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "crime",
-            "top"
+            "top",
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-13 16:26:00",
+        "pubDate": "2026-10-14 16:09:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:41:04",
-        "image_url": "https://media.losandes.com.ar/p/0233dfc89c49ce6914c9199955020720/adjuntos/368/imagenes/100/546/0100546840/1200x675/smart/ambulancia.jpg",
+        "fetched_at": "2026-10-14 17:10:32",
+        "image_url": "https://pxbcdn.elchubut.com.ar/chubut/102026/1791995809468.jpg",
         "video_url": null,
-        "source_id": "losandes",
-        "source_name": "Los Andes",
-        "source_priority": 114641,
-        "source_url": "https://www.losandes.com.ar",
-        "source_icon": "https://i.newsdata.io/losandes.png",
+        "source_id": "elchubut_ar",
+        "source_name": "El Chubut",
+        "source_priority": 110150,
+        "source_url": "https://www.elchubut.com.ar",
+        "source_icon": "https://i.newsdata.io/elchubut_ar.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 4.83,
-            "neutral": 95.01,
-            "positive": 0.16
+            "negative": 1.92,
+            "neutral": 72.3,
+            "positive": 25.78
         },
         "ai_tag": [
-            "accidents"
+            "politics"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -200,42 +287,286 @@
         "description_zh": ""
     },
     {
-        "article_id": "c983b2174bd97119cc85417ed2894f73",
-        "link": "https://www.gazetasp.com.br/cotidiano/como-renovar-o-banheiro-sem-demolir-e-evitar-entulho-de-obra-veja-as-principais-dicas-dos-especialistas/",
-        "title": "Como renovar o banheiro sem demolir e evitar entulho de obra? Veja as principais dicas dos especialistas",
-        "description": "As mãos do artesão pressionaram a película especial contra o azulejo antigo até o ar escapar pelas bordas e o desenho novo cobrir por completo o padrão que já não agradava o morador. Em vez de marreta, pó e sacos de cacos, a renovação do banheiro começou com limpeza, secagem e recorte preciso de uma […] O post Como renovar o banheiro sem demolir e evitar entulho de obra? Veja as principais dicas dos especialistas apareceu primeiro em Gazeta de São Paulo.",
+        "article_id": "9c371d0e8492eebe118c07bb72f9de8c",
+        "link": "https://tribunadepetropolis.com.br/noticias/outubro-rosa-artistas-que-ja-falaram-abertamente-sobre-cancer-de-mama/",
+        "title": "Outubro Rosa: Artistas que já falaram abertamente sobre câncer de mama",
+        "description": "De acordo com estimativas do Instituto Nacional de Câncer (Inca), o Brasil deve registrar 78.610 novos casos de câncer de mama entre 2026 e 2028. Para chamar a atenção para a doença, a campanha Outubro Rosa promove anualmente a conscientização sobre a importância do diagnóstico precoce, que aumenta as chances de sucesso do tratamento. O […]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "casa e jardim",
-            "banheiro",
-            "cotidiano"
-        ],
+        "keywords": null,
         "creator": [
-            "willian porto - agência nextnews"
+            "leonardo neto / estadão"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:09:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 16:46:35",
+        "image_url": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
+        "video_url": null,
+        "source_id": "tribunadepetropolis_br",
+        "source_name": "Tribuna De Petr",
+        "source_priority": 459332,
+        "source_url": "https://tribunadepetropolis.com.br",
+        "source_icon": "https://i.newsdata.io/tribunadepetropolis_br.jpg",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 12.06,
+            "neutral": 79.79,
+            "positive": 8.15
+        },
+        "ai_tag": [
+            "diseases"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "08acc8a3e6d75605f622271c65bf2b22",
+        "link": "https://sanfernandodigital.com.ar/octubre-suma-talleres-en-la-casa-de-la-cultura-y-el-museo-historico/",
+        "title": "Octubre suma talleres en la Casa de la Cultura y el Museo Histórico",
+        "description": "La Casa de la Cultura y el Museo Histórico Provincial ofrecen durante octubre una programación de talleres coordinada por la Dirección Provincial de Patrimonio y Museos, dependiente del Ministerio de Cultura, Turismo y Deporte. Cerámica, origami, crochet, resina y movimiento son algunas de las opciones, a las que se suma una nueva propuesta para acercarse [...] La entrada Octubre suma talleres en la Casa de la Cultura y el Museo Histórico se publicó primero en San Fernando.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "información general"
+        ],
+        "creator": [
+            "san fernando digital"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "education"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:08:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 16:25:59",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "sanfernandodigital",
+        "source_name": "San Fernando",
+        "source_priority": 10849441,
+        "source_url": "https://sanfernandodigital.com.ar",
+        "source_icon": "https://i.newsdata.io/sanfernandodigital.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.04,
+            "neutral": 35.16,
+            "positive": 64.8
+        },
+        "ai_tag": [
+            "education"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "8a573b057f5db6aba6f43f6e40e65187",
+        "link": "https://br.investing.com/news/stock-market-news/portugal--acoes-fecharam-o-pregao-em-alta-e-o-indice-psi-avancou-038-2091859",
+        "title": "Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 0,38%",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "investing.com"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:08:38",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 16:37:03",
+        "image_url": "https://content-media.investing.com/news/LYNXMPEB2J0XY_M.jpg",
+        "video_url": null,
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://i.newsdata.io/investing_br.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.02,
+            "neutral": 4.91,
+            "positive": 95.07
+        },
+        "ai_tag": [
+            "financial markets"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "19e7c2db6c9b29baee6feff6e5688b19",
+        "link": "https://www.correiobraziliense.com.br/revista-do-correio/2026/10/7520477-racas-magras-6-cachorros-que-se-destacam-pelo-corpo-esbelto-e-atletico.html",
+        "title": "Raças magras: 6 cachorros que se destacam pelo corpo esbelto e atlético",
+        "description": "Conheça cães de silhueta esguia e pernas longas que chamam a atenção pela elegância e personalidade",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "cachorro",
+            "relationships",
+            "& family",
+            "edicase",
+            "pets",
+            "friends",
+            "animais de estimação"
+        ],
+        "creator": [
+            "redação edicase"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "lifestyle"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:08:35",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 20:42:12",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/png/2026/10/14/whippet-1-67963804.png",
+        "video_url": null,
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://i.newsdata.io/correiobraziliense.png",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 0.17,
+            "neutral": 84.99,
+            "positive": 14.84
+        },
+        "ai_tag": [
+            "fashion and lifestyle"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "87453d20a312cbbe12895d96093742cf",
+        "link": "https://forbes.com.mx/citi-adopta-postura-mas-agresiva-respecto-a-la-fed-tras-datos-de-la-inflacion-y-posible-subida-de-tasas/",
+        "title": "Citi adopta postura más agresiva respecto a la Fed tras datos de la inflación y posible subida de tasas",
+        "description": "Citi señaló que espera que la Fed mantenga estables las tasas de política monetaria tras el aumento previsto para diciembre.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "tasas de la fed",
+            "inflación",
+            "citi"
+        ],
+        "creator": [
+            "forbes méxico staff"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-13 16:26:00",
+        "pubDate": "2026-10-14 16:08:51",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 18:01:47",
-        "image_url": "https://cdn.gazetasp.com.br/uploads/2026/10/renovar-banheiro-pelicula-sem-entulho-jpg-649x365.webp",
+        "fetched_at": "2026-10-14 16:35:46",
+        "image_url": "https://cdn.forbes.com.mx/2022/07/miquel-parera-z6rjY1Tc3QI-unsplash-scaled-e1657889900616.jpg",
         "video_url": null,
-        "source_id": "gazetasp_br",
-        "source_name": "Gazetasp Br",
-        "source_priority": 676902,
-        "source_url": "https://www.gazetasp.com.br",
-        "source_icon": "https://i.newsdata.io/gazetasp_br.jpg",
-        "sentiment": "positive",
+        "source_id": "forbes_mx",
+        "source_name": "Forbes Mx",
+        "source_priority": 23981,
+        "source_url": "https://www.forbes.com.mx",
+        "source_icon": "https://i.newsdata.io/forbes_mx.png",
+        "sentiment": "negative",
         "sentiment_stats": {
-            "negative": 0.05,
-            "neutral": 29.69,
-            "positive": 70.26
+            "negative": 62.7,
+            "neutral": 36.52,
+            "positive": 0.78
+        },
+        "ai_tag": [
+            "banking and finance"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "4dfea7455c0a237f6faa53bda1d8e616",
+        "link": "https://www.milenio.com/espectaculos/famosos/por-que-laura-bozzo-se-fue-de-peru-para-vivir-mexico",
+        "title": "¿Por qué Laura Bozzo se fue de Perú y comenzó a vivir en México? Se reporta que su estado de salud es grave",
+        "description": "Aquí te revelamos por qué Laura Bozzo dejó Perú para vivir en México y conoce el supuesto reporte sobre su grave estado de salud tras ser hospitalizada.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "qué le pasó a laura bozzo",
+            "laura bozzo noticias",
+            "por que no vive en peru laura bozzo",
+            "laura bozzo ultima hora",
+            "laura bozzo peru",
+            "laura bozzo hospitalizada",
+            "estado de salud de laura bozzo",
+            "laura bozzo por que vive en mexico",
+            "laura bozzo"
+        ],
+        "creator": [
+            "adriana paez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:08:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-15 03:44:20",
+        "image_url": "https://cdn.milenio.com/uploads/media/2026/06/11/laura-bozzo-presume-apoyo-mexico.jpg",
+        "video_url": null,
+        "source_id": "milenio",
+        "source_name": "Milenio",
+        "source_priority": 10804,
+        "source_url": "https://www.milenio.com",
+        "source_icon": "https://i.newsdata.io/milenio.png",
+        "sentiment": "negative",
+        "sentiment_stats": {
+            "negative": 53.44,
+            "neutral": 46.48,
+            "positive": 0.08
         },
         "ai_tag": null,
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -246,248 +577,234 @@
         "description_zh": ""
     },
     {
-        "article_id": "b59a161eb2c71cafe38dbe2b4ecd4c9f",
-        "link": "https://www.elpatagonico.com/en-rio-pico-se-puso-venta-un-campo-lago-privado-y-16-km-costa-n6333183",
-        "title": "En Río Pico se puso en venta un campo con lago privado y 16 km de costa",
-        "description": "El Observatorio de Tierras advirtió que el inmueble fue promocionado a potenciales inversores extranjeros durante el período de incertidumbre legal abierto por el polémico fallo de la Corte Suprema.",
+        "article_id": "5a84797687fc0c8da3103bb12b956a42",
+        "link": "https://cronicadelquindio.com/deporte/atletico-nacional-busca-el-pase-a-semifinales-de-copa-ante-el-dim/",
+        "title": "Atlético Nacional busca el pase a semifinales de copa ante el DIM",
+        "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "tierras"
+            "james rodríguez atlético nacional",
+            "dim",
+            "juan fernando quintero al dim",
+            "atlético nacional vs dim",
+            "cuartos de final copa betplay",
+            "copa betplay"
         ],
         "creator": [
-            "el patagonico"
+            "samuel vela hoyos"
         ],
         "language": "spanish",
         "country": [
-            "argentina"
+            "colombia"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:08:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 18:47:39",
+        "image_url": "https://cronicadelquindio.com/wp-content/uploads/2026/10/Atletico-Nacional-busca-el-pase-a-semifinales-de-copa-ante-el-DIM-scaled.webp",
+        "video_url": null,
+        "source_id": "cronicadelquindio",
+        "source_name": "Cronicadelquindio",
+        "source_priority": 502371,
+        "source_url": "https://cronicadelquindio.com",
+        "source_icon": "https://i.newsdata.io/cronicadelquindio.png",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 0.97,
+            "neutral": 97.49,
+            "positive": 1.54
+        },
+        "ai_tag": [
+            "soccer"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "c766dfa88a14ee2666cb87f6de571bd1",
+        "link": "https://www.diarioeldia.cl/noticias/2026/10/14/153825-nuevo-cosam-abre-sus-puertas-para-acercar-la-salud-mental-a-la-comunidad",
+        "title": "Nuevo COSAM abre sus puertas para acercar la salud mental a la comunidad",
+        "description": "Más de 50 personas conocieron las instalaciones y al equipo del primer Centro de Salud Mental Comunitaria normalizado de la Región de Coquimbo. El recinto entrega atención especializada para casos de mayor complejidad.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "equipo el día"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:08:42",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 16:19:06",
+        "image_url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/10/diarioeldia/images/02/81/34/2813453_97f402fe01cc926dc7c2a2c6f82e217e64dc9a6c0360fbe40c49a20e4c0aaa6f/md.webp",
+        "video_url": null,
+        "source_id": "diarioeldia",
+        "source_name": "Diario El D",
+        "source_priority": 942639,
+        "source_url": "https://diarioeldia.cl",
+        "source_icon": "https://i.newsdata.io/diarioeldia.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.02,
+            "neutral": 0.04,
+            "positive": 99.94
+        },
+        "ai_tag": [
+            "mental health"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "5ef5b4e2af12cbd2a9947a121aebd085",
+        "link": "https://www.elpais.com.co/cali/el-barrio-capri-en-cali-tendra-feria-de-emprendimientos-y-gastronomia-este-jueves-habra-musica-y-actividades-para-ninos-1429.html",
+        "title": "El barrio Capri, en Cali, tendrá feria de emprendimientos y gastronomía este jueves: habrá música y actividades para niños",
+        "description": "La jornada se realizará este jueves 15 de octubre, de 4:00 p. m. a 11:00 p. m., en la calle 10A entre carreras 70 y 72. Habrá más de 60 emprendimientos, 12 restaurantes, música en vivo, actividades para mascotas y zonas inflables para niños.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "economía",
+            "borondo",
+            "reactivación",
+            "cali"
+        ],
+        "creator": [
+            "laura cortez palacios"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "other"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:08:29",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 16:36:40",
+        "image_url": "https://semana-el-pais-prod.web.arc-cdn.net/resizer/v2/PYPECU5X2FBLXCLLWO2MRVUOYM.jpeg?auth=ce16fb5eda17e460fa42e8a3d61a0c0399204b649dd15abf67e49dd506433219&smart=true&width=1300&height=868",
+        "video_url": null,
+        "source_id": "elpaiscl",
+        "source_name": "El Pais",
+        "source_priority": 39172,
+        "source_url": "https://www.elpais.com.co",
+        "source_icon": "https://i.newsdata.io/elpaiscl.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.02,
+            "neutral": 5.32,
+            "positive": 94.66
+        },
+        "ai_tag": null,
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "dc0f7a54d76b5acdabc1de2e67a3c2f5",
+        "link": "https://www.proceso.com.mx/opinion/2026/10/14/movimiento-privatizador-381851.html",
+        "title": "Movimiento privatizador",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "pablo lemus",
+            "movimiento ciudadano",
+            "jalisco"
+        ],
+        "creator": [
+            "josé antonio rodríguez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
         ],
         "category": [
             "business",
             "top"
         ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:56",
+        "datatype": "opinion",
+        "pubDate": "2026-10-14 16:08:17",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:53:57",
-        "image_url": "https://media.elpatagonico.com/p/26fbef1d5e3a8fed9f9c40746e9386da/adjuntos/193/imagenes/043/701/0043701216/1200x675/smart/6121679793729022077033759977141101984024471403016962498181718997051463079504.jpg",
-        "video_url": null,
-        "source_id": "elpatagonico",
-        "source_name": "Elpatagonico",
-        "source_priority": 3345961,
-        "source_url": "https://www.elpatagonico.com",
-        "source_icon": "https://i.newsdata.io/elpatagonico.png",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 76.85,
-            "neutral": 23.05,
-            "positive": 0.1
-        },
-        "ai_tag": [
-            "real estate"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "53666368e22f71369232e26c6f083ff0",
-        "link": "https://www.elonce.com/policiales/fuerte-choque-entre-dos-camionetas-en-concordia-dejo-importantes-danos-materiales.htm",
-        "title": "Fuerte choque entre dos camionetas en Concordia dejó importantes daños materiales",
-        "description": "Un choque entre dos camionetas en Concordia dejó importantes daños materiales en Chabrillón y San Juan. Los tres ocupantes resultaron ilesos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "concordia",
-            "chevrolet s10",
-            "toyota hilux",
-            "accidente",
-            "siniestro vial",
-            "choque"
-        ],
-        "creator": [
-            "elonce.com"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:50:47",
-        "image_url": "https://elonce-media.elonce.com/fotos/2026/10/13/m_1791909011_47533.webp",
-        "video_url": null,
-        "source_id": "elonce",
-        "source_name": "Elonce",
-        "source_priority": 1130131,
-        "source_url": "https://www.elonce.com",
-        "source_icon": "https://i.newsdata.io/elonce.jpg",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 97.2,
-            "neutral": 2.78,
-            "positive": 0.02
-        },
-        "ai_tag": [
-            "accidents"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "a91139d5279a07f34eca34924961ad8b",
-        "link": "https://www.infobae.com/mexico/2026/10/13/no-hemos-estado-de-brazos-cruzados-sheinbaum-niega-crisis-en-imss-pero-llama-a-atender-carencias-previo-a-mega-marcha-de-trabajadores/",
-        "title": "“No hemos estado de brazos cruzados”: Sheinbaum niega crisis en IMSS, pero llama a atender carencias previo a mega marcha de trabajadores",
-        "description": "La presidenta acusó a la oposición de promover las críticas al sector salud tras las protestas laborales y las muertes neonatales",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "trabajadores",
-            "claudia sheinbaum",
-            "la mañanera",
-            "sector salud",
-            "política mexicana",
-            "mexico-noticias",
-            "muertes neonatales",
-            "imss"
-        ],
-        "creator": [
-            "fernanda lópez castro"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico",
-            "argentina",
-            "united states of america",
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 17:01:35",
-        "image_url": "https://www.infobae.com/resizer/v2/WYMBIC4APRA7DEKHERHUZNORM4.jpg?auth=4611f70dfadd03252bbcd203c68443844b108d533e29bc4de1eeb09fd38d8c06&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "neutral",
-        "sentiment_stats": {
-            "negative": 0.27,
-            "neutral": 98.94,
-            "positive": 0.79
-        },
-        "ai_tag": [
-            "politics"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "338c410f4f4ae287a508f9c428d18704",
-        "link": "https://www.diarioelzondasj.com.ar/policiales/condena-de-11-anos-para-un-hombre-por-abuso-en-rawson",
-        "title": "Condena de 11 años para un hombre por abuso en Rawson",
-        "description": "El tribunal unificó la pena con una condena previa y ordenó que siga detenido. Los hechos involucraron a dos hijos de su pareja, cuando tenían 11 y 7 años.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "redacción el zonda"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:51:05",
-        "image_url": "https://telesolweb-proxy.sapiamedios.com/storage/v1/object/public/articles/articles/65aedd97-874e-4c7d-8e61-c68df55be3e5.webp",
-        "video_url": null,
-        "source_id": "diarioelzondasj_ar",
-        "source_name": "El Zonda",
-        "source_priority": 1206421,
-        "source_url": "https://www.diarioelzondasj.com.ar",
-        "source_icon": "https://i.newsdata.io/diarioelzondasj_ar.png",
-        "sentiment": "neutral",
-        "sentiment_stats": {
-            "negative": 4.27,
-            "neutral": 85.38,
-            "positive": 10.35
-        },
-        "ai_tag": [
-            "crime",
-            "law and justice"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "ae144492690ea461787d3ec8918d55c7",
-        "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/lula-diz-que-pl-vai-votar-fim-da-escala-6x1-apos-pressao-da-militancia-1.1755677",
-        "title": "Lula diz que PL vai votar fim da escala 6x1 após pressão da militância",
-        "description": "Presidente atribuiu mudança de posição da oposição às manifestações de rua do fim de semana",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "política",
-            "escala 6x1",
-            "senado",
-            "pl",
-            "governo lula",
-            "trabalhador"
-        ],
-        "creator": [
-            "estadão conteúdo"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:53",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 19:41:44",
+        "fetched_at": "2026-10-14 16:37:09",
         "image_url": null,
         "video_url": null,
-        "source_id": "correiodopovo",
-        "source_name": "Correio Do Povo",
-        "source_priority": 139621,
-        "source_url": "https://www.correiodopovo.com.br",
-        "source_icon": "https://i.newsdata.io/correiodopovo.png",
+        "source_id": "proceso",
+        "source_name": "Proceso",
+        "source_priority": 47805,
+        "source_url": "https://www.proceso.com.mx",
+        "source_icon": "https://i.newsdata.io/proceso.jpg",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 1.39,
-            "neutral": 52.71,
-            "positive": 45.9
+            "negative": 5.15,
+            "neutral": 85.72,
+            "positive": 9.13
+        },
+        "ai_tag": [
+            "economy"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "d0feb34d1493a5984a75c00f8ee41f31",
+        "link": "https://eldiariodechihuahua.mx/nacional/2026/oct/14/revela-csp-cateo-para-frustrar-ataque-escolar-847631.html",
+        "title": "Revela CSP cateo para frustrar ataque escolar",
+        "description": "En la Corte ya sólo se turnan a Ministros y Ministras los nuevos expedientes que son considerados de atención urgente o preferente",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nacional"
+        ],
+        "creator": [
+            "mayumi suzuki y claudia guerrero/agencia reforma"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:08:16",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 16:38:29",
+        "image_url": "https://eldiariodechihuahua.mx/core/dch/assets/images/2026/10/14/imagetransformer-mkQwl8F9L.jpg",
+        "video_url": null,
+        "source_id": "eldiariodechihuahua",
+        "source_name": "Eldiariodechihuahua",
+        "source_priority": 77437,
+        "source_url": "https://www.eldiariodechihuahua.mx",
+        "source_icon": "https://i.newsdata.io/eldiariodechihuahua.png",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 0.39,
+            "neutral": 97.73,
+            "positive": 1.88
         },
         "ai_tag": [
             "politics"
@@ -500,305 +817,95 @@
         "description_zh": ""
     },
     {
-        "article_id": "dd50ff39368ff3702cbab434807caaa4",
-        "link": "https://periodicolavoz.com.mx/coahuila/monclova/conductor-responsable-del-accidente-de-jesucristofer-es-llamado-a-declarar/384287",
-        "title": "Llama autoridad judicial a conductor que atropelló a Jesucristofer",
-        "description": "A casi un mes de la muerte de Jesucristofer Iván Orozco Cruz, su madre exige justicia y que el presunto responsable responda ante la ley.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "conductor responsable",
-            "audiencias judiciales",
-            "video accidente",
-            "accidente monclova",
-            "justicia jesucristofer"
-        ],
-        "creator": [
-            "carolina salomón"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:26:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 23:46:56",
-        "image_url": "https://lavoz.blob.core.windows.net/images/2026/10/13/autoridades-judiciales-citan-a-conductor-por-el-atropello-de-jesucristofer-c0945527.jpg",
-        "video_url": null,
-        "source_id": "periodicolavoz_mx",
-        "source_name": "Periodicolavoz Mx",
-        "source_priority": 462138,
-        "source_url": "https://periodicolavoz.com.mx",
-        "source_icon": "https://i.newsdata.io/periodicolavoz_mx.png",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 61.48,
-            "neutral": 37.89,
-            "positive": 0.63
-        },
-        "ai_tag": [
-            "politics"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "59796f65a2a7003a06a212ef92ea6910",
-        "link": "https://www.ejecentral.com.mx/nuestro-eje/explosion-en-gasera-de-coacalco-hoy-estalla-pipa-de-gas-de-40-mil-litros-y-hay-danos-en-viviendas-video",
-        "title": "Explosión en gasera de Coacalco HOY: estalla pipa de gas de 40 mil litros y hay daños en viviendas (VIDEO)",
-        "description": "De acuerdo con los reportes preliminares, el incidente se registró después de las 8:00 horas y habría sido provocado entre las pipas.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "explosión en gasera de coacalco",
-            "explosión en el estado de méxico",
-            "explosión en coacalco hoy",
-            "incendio en gasera",
-            "explosión de pipa",
-            "gasera de loma bonita",
-            "explosión en gasera de coacalco video",
-            "pipa de gas",
-            "coacalco",
-            "gasera"
-        ],
-        "creator": [
-            "eje central"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:56",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:45:04",
-        "image_url": "https://assets.ejecentral.com.mx/dims4/default/96faa34/2147483647/strip/false/crop/1189x669+5+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F1d%2F96%2F7376e27b44bf803183890fc2197e%2Fexplosion-en-gasera-de-coacalco.jpg",
-        "video_url": null,
-        "source_id": "ejecentral_mx",
-        "source_name": "Ejecentral Mx",
-        "source_priority": 306830,
-        "source_url": "https://www.ejecentral.com.mx",
-        "source_icon": "https://i.newsdata.io/ejecentral_mx.jpg",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 94.39,
-            "neutral": 5.59,
-            "positive": 0.02
-        },
-        "ai_tag": [
-            "accidents"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "a91139d5279a07f34eca34924961ad8b",
-        "link": "https://www.infobae.com/mexico/2026/10/13/no-hemos-estado-de-brazos-cruzados-sheinbaum-niega-crisis-en-imss-pero-llama-a-atender-carencias-previo-a-mega-marcha-de-trabajadores/",
-        "title": "“No hemos estado de brazos cruzados”: Sheinbaum niega crisis en IMSS, pero llama a atender carencias previo a mega marcha de trabajadores",
-        "description": "La presidenta acusó a la oposición de promover las críticas al sector salud tras las protestas laborales y las muertes neonatales",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "trabajadores",
-            "claudia sheinbaum",
-            "la mañanera",
-            "sector salud",
-            "política mexicana",
-            "mexico-noticias",
-            "muertes neonatales",
-            "imss"
-        ],
-        "creator": [
-            "fernanda lópez castro"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico",
-            "argentina",
-            "united states of america",
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:54",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 17:01:35",
-        "image_url": "https://www.infobae.com/resizer/v2/WYMBIC4APRA7DEKHERHUZNORM4.jpg?auth=4611f70dfadd03252bbcd203c68443844b108d533e29bc4de1eeb09fd38d8c06&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "neutral",
-        "sentiment_stats": {
-            "negative": 0.27,
-            "neutral": 98.94,
-            "positive": 0.79
-        },
-        "ai_tag": [
-            "politics"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "11a27f963def4f535b0e403eb9787d70",
-        "link": "https://www.elpaisvallenato.com/omana-acuso-a-de-la-espriella-de-manipular-las-cifras-de-contratos-del-llamado-banco-de-talentos/",
-        "title": "Omaña acusó a De la Espriella de manipular las cifras de contratos del llamado Banco de Talentos",
-        "description": "La senadora del Pacto Histórico, Alejandra Omaña, conocida artísticamente como Amaranta Hank, cuestionó en X el alcance del Banco de The post Omaña acusó a De la Espriella de manipular las cifras de contratos del llamado Banco de Talentos first appeared on El Pais Vallenato.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "nacional"
-        ],
-        "creator": [
-            "admin"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "blog",
-        "pubDate": "2026-10-13 16:25:41",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:53:43",
-        "image_url": "https://www.elpaisvallenato.com/wp-content/uploads/2026/10/presindete.jpg",
-        "video_url": null,
-        "source_id": "elpaisvallenato",
-        "source_name": "El País Vallenato",
-        "source_priority": 2989922,
-        "source_url": "https://www.elpaisvallenato.com",
-        "source_icon": "https://i.newsdata.io/elpaisvallenato.png",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 87.04,
-            "neutral": 12.89,
-            "positive": 0.07
-        },
-        "ai_tag": [
-            "politics"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "f83ec2f846d6b1a048a2c72ef5b02b76",
-        "link": "https://www.infobae.com/peru/2026/10/13/nadeska-widausky-seguira-en-prision-pj-confirma-su-detencion-con-fines-de-extradicion-a-belgica/",
-        "title": "Nadeska Widausky seguirá en prisión: PJ confirma su detención con fines de extradición a Bélgica",
-        "description": "La Sala de Apelaciones que preside Enma Benavides ratificó que la modelo permanecerá recluida mientras las autoridades belgas presentan el pedido formal de extradición al Perú",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "nadeska widausky",
-            "peru-politica",
-            "poder judicial",
-            "bélgica"
-        ],
-        "creator": [
-            "diego  casimiro ore"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico",
-            "argentina",
-            "united states of america",
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:39",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 17:01:35",
-        "image_url": "https://www.infobae.com/resizer/v2/HNYB3PYCTVHBVGBRI6JYY3GAWU.jpg?auth=3f89406e2dad75f118753a5c81ecbba500e22271972bc574dd07a28486199579&smart=true&width=2048&height=1232",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 60.44,
-            "neutral": 39.45,
-            "positive": 0.11
-        },
-        "ai_tag": [
-            "politics"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "25d63a40458f00cb292947815dec8242",
-        "link": "https://caracol.com.co/2026/10/13/la-historia-de-los-hermanos-jackson-sin-incluir-a-michael-sera-contada-en-un-nuevo-documental/",
-        "title": "La historia de los hermanos Jackson, sin incluir a Michael, será contada en un nuevo documental",
-        "description": "Jackie, Jermaine, Tito y Marlon Jackson estarán en un largometraje documental de 90 minutos, que también estará disponible como serie documental de tres partes.",
+        "article_id": "91a074fe59a3411dd15c8ace7d14330d",
+        "link": "https://www.mural.com.mx/permanece-simon-frente-a-costas-de-jalisco/ar3294544",
+        "title": "Permanece 'Simon' frente a costas de Jalisco",
+        "description": "El huracán 'Simon', de categoría 1, permanece frente a costas de Jalisco, generando lluvias fuertes en estados del occidente de México.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "matheo duarte"
+            "grupo reforma"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "mexico"
         ],
         "category": [
             "top",
-            "entertainment"
+            "environment"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-13 16:25:35",
+        "pubDate": "2026-10-14 16:08:14",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 17:06:41",
-        "image_url": "https://caracol.com.co/resizer/v2/Q3M4UWGPRFE3NHLVUKBQFW7HXY.jpg?auth=058a5641d8392723a8f03860191869e3587e503159c40bdcb2fafff003d6eedc&smart=true&width=1024&height=683",
+        "fetched_at": "2026-10-14 16:19:24",
+        "image_url": null,
         "video_url": null,
-        "source_id": "caracol",
-        "source_name": "Caracol Radio",
-        "source_priority": 30675,
-        "source_url": "https://caracol.com.co",
-        "source_icon": "https://i.newsdata.io/caracol.png",
+        "source_id": "mural",
+        "source_name": "Mural",
+        "source_priority": 966477,
+        "source_url": "https://www.mural.com.mx",
+        "source_icon": "https://i.newsdata.io/mural.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 0.1,
-            "neutral": 76.95,
-            "positive": 22.95
+            "negative": 12.45,
+            "neutral": 87.41,
+            "positive": 0.14
         },
         "ai_tag": [
-            "movies"
+            "natural disasters"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "6abcfeedc81168897065196e640315fb",
+        "link": "https://www.infobae.com/economia/2026/10/14/presupuesto-2027-el-gasto-en-salud-infantil-caeria-13-y-el-destinado-a-primera-infancia-retrocederia-16/",
+        "title": "Presupuesto 2027: el gasto en salud infantil caería 13% y el destinado a primera infancia retrocedería 16%",
+        "description": "El informe conjunto de UNICEF y ACIJ atribuyó ambas reducciones a menores fondos para vacunas y transferencias al Hospital Garrahan, sin una respuesta pública del Ministerio de Economía hasta el cierre de esta nota",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "auh",
+            "unicef",
+            "niñez",
+            "presupuesto general de la nación"
+        ],
+        "creator": [
+            "david cayón"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina",
+            "colombia",
+            "united states of america",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-14 16:08:13",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-14 16:31:39",
+        "image_url": "https://www.infobae.com/resizer/v2/7C33X26KDBEFNLIAC6M3LPUXJ4.jpg?auth=bd4a333e954b6b6e2222931069d6bb39e24faeba0b91302fa2dcc0eadc81b35e&smart=true&width=965&height=644",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "negative",
+        "sentiment_stats": {
+            "negative": 91.94,
+            "neutral": 8.01,
+            "positive": 0.05
+        },
+        "ai_tag": [
+            "diseases"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -808,195 +915,44 @@
         "description_zh": ""
     },
     {
-        "article_id": "1309c6416ecaa3b726af21a1364c8190",
-        "link": "https://www.vanguardia.com/judicial/2026/10/13/salio-de-la-carcel-modelo-con-un-permiso-de-72-horas-y-no-regreso-fue-capturado-en-bucaramanga/",
-        "title": "Salió de la Cárcel Modelo con un permiso de 72 horas y no regresó: fue capturado en Bucaramanga",
-        "description": "Alias ‘Pin’, condenado a 16 años y ocho meses de prisión por homicidio, fue capturado en el norte de Bucaramanga tras incumplir un permiso de 72 horas y no regresar a la cárcel.",
+        "article_id": "c0ab6fad999e11ce7045edae0c95c8d7",
+        "link": "https://diario.mx/juarez/2026/oct/14/lo-cachan-mientras-desmantelaba-una-f-150-1143307.html",
+        "title": "Lo 'cachan' mientras desmantelaba una F-150",
+        "description": "El sujeto fue detenido por policías municipales en la colonia Zaragoza",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "homicidio",
-            "cárcel",
-            "riña",
-            "bucaramanga"
+            "juárez"
         ],
         "creator": [
-            "redacción judicial"
+            "staff / el diario de juárez"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "mexico"
         ],
         "category": [
             "crime",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-13 16:25:35",
+        "pubDate": "2026-10-14 16:08:13",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:35:32",
-        "image_url": "https://www.vanguardia.com/resizer/v2/7JYOXF6YZVGBRB2ZDSDS6XUN5E.jpeg?auth=5593edc6b87c5bcd3a21e69913fed3f3a43de004cd352cbf695977be74ec608b&smart=true&width=1280&height=960",
+        "fetched_at": "2026-10-14 16:34:39",
+        "image_url": "https://diario.mx/core/dmx/assets/images/2026/10/14/photo-2026-10-14-09-46-19-aXe8CuO2I.jpg",
         "video_url": null,
-        "source_id": "vanguardia",
-        "source_name": "Vanguardia",
-        "source_priority": 24302,
-        "source_url": "https://vanguardia.com.mx",
-        "source_icon": "https://i.newsdata.io/vanguardia.png",
+        "source_id": "diario",
+        "source_name": "El Diario",
+        "source_priority": 14955,
+        "source_url": "https://diario.mx",
+        "source_icon": "https://i.newsdata.io/diario.png",
         "sentiment": "negative",
         "sentiment_stats": {
-            "negative": 88.12,
-            "neutral": 11.77,
-            "positive": 0.11
+            "negative": 67.9,
+            "neutral": 31.84,
+            "positive": 0.26
         },
         "ai_tag": [
-            "crime",
-            "law and justice"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "a498ad98296dafcfd4d3ba749a3e4667",
-        "link": "https://www.theclinic.cl/2026/10/13/queens-of-the-stone-age-los-emabajadores-del-rock-que-llegaran-con-nuevo-disco-a-lollapalooza-chile-2027/",
-        "title": "Queens of the Stone Age: los embajadores del rock que llegarán con nuevo disco a Lollapalooza Chile 2027",
-        "description": "Aunque por Chile ya han pasado varias veces, ahora volverán con novedades: la banda liderada por Josh Homme será parte de Lollapalooza Chile 2027 con \"Perfecth\", su noveno álbum de estudio, que se estrenará en octubre. Con tres sencillos ya publicados, Queens of the Stone Age suma nuevo material a una trayectoria que los ha convertido en referentes del rock alternativo. The post Queens of the Stone Age: los embajadores del rock que llegarán con nuevo disco a Lollapalooza Chile 2027 appeared first on The Clinic.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "lollapalooza",
-            "tiempo libre",
-            "queens of the stone age"
-        ],
-        "creator": [
-            "the clinic"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:27",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:41:27",
-        "image_url": "https://static.theclinic.cl/media/2026/10/13-161911_mjh7_QOTSA-30-Andreas-Neumann.jpg",
-        "video_url": null,
-        "source_id": "theclinic",
-        "source_name": "The Clinic",
-        "source_priority": 129373,
-        "source_url": "https://www.theclinic.cl",
-        "source_icon": "https://i.newsdata.io/theclinic.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.03,
-            "neutral": 7.76,
-            "positive": 92.21
-        },
-        "ai_tag": [
-            "entertainment"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "5c8385abc563fd90fe4034e96f4c8447",
-        "link": "https://8columnas.com.mx/estado-de-mexico/estudiantes-de-la-uaemex-llevaran-gastronomia-mexiquense-a-concurso-en-chile/",
-        "title": "Estudiantes de la UAEMéx llevarán gastronomía mexiquense a concurso en Chile",
-        "description": "Redacción Ocho estudiantes de la Licenciatura en Gastronomía de la Universidad Autónoma del Estado de México (UAEMéx) participarán en el XVII Concurso Panamericano de Gastronomía y Servicio, que se realizará del 19 al 23 de octubre en la Región de Los Lagos, Chile, donde presentarán propuestas culinarias inspiradas en las tradiciones del Nevado de […]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estado de méxico",
-            "concurso",
-            "gastronomía",
-            "uaemex",
-            "chile"
-        ],
-        "creator": [
-            "ocho columnas"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "education"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:26",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 16:54:16",
-        "image_url": "https://8columnas.com.mx/wp-content/uploads/2026/10/1-5.jpg",
-        "video_url": null,
-        "source_id": "8columnas",
-        "source_name": "8 Columnas",
-        "source_priority": 3151158,
-        "source_url": "https://8columnas.com.mx",
-        "source_icon": "https://i.newsdata.io/8columnas.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.02,
-            "neutral": 0.83,
-            "positive": 99.15
-        },
-        "ai_tag": [
-            "education"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "a92dc12d792d3ada84d41e5ff09c96ae",
-        "link": "https://oem.com.mx/elsoldepuebla/local/iee-abre-vacantes-como-auxiliar-electoral-y-coordinador-distrital-les-pagaran-hasta-11-mil-pesos-32582697",
-        "title": "IEE abre vacantes como auxiliar electoral y coordinador distrital; les pagarán hasta 11 mil pesos",
-        "description": "El registro para los aspirantes a estos cargos se puede realizar hasta el 2 de noviembre",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "local"
-        ],
-        "creator": [
-            "julio sánchez"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-13 16:25:25",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-13 21:41:31",
-        "image_url": "https://oem.com.mx/elsoldepuebla/img/32583086/1791906943/BASE_LANDSCAPE/400/image.jpg",
-        "video_url": null,
-        "source_id": "elsoldepuebla_mx",
-        "source_name": "El Sol De Puebla",
-        "source_priority": 167831,
-        "source_url": "https://www.elsoldepuebla.com.mx",
-        "source_icon": "https://i.newsdata.io/elsoldepuebla_mx.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.19,
-            "neutral": 32.62,
-            "positive": 67.19
-        },
-        "ai_tag": [
-            "elections"
+            "accidents"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
