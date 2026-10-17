@@ -1,13 +1,17 @@
 [
     {
-        "article_id": "bbbfa7123170510f788d4e7128b1a63e",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/colossal-usa-ia-para-tentar-trazer-dodo-ave-extinta-no-seculo-17-de-volta-a-vida.shtml",
-        "title": "Colossal usa IA para tentar trazer dodô, ave extinta no século 17, de volta à vida",
-        "description": "A Colossal Biosciences afirmou nesta quarta (14) ter desenvolvido um sistema de inteligência artificial para seu projeto de trazer o dodô de volta à vida. A IA, segundo a empresa de biotecnologia, permite identificar alterações genéticas que podem ser responsáveis por características da ave, extinta no século 17. Leia mais (10/15/2026 - 13h05)",
+        "article_id": "2dcb3d53d2bf46d34603ee7a16c67f80",
+        "link": "https://whiplash.net/materias/news_666/383895-queen.html",
+        "title": "Roger Taylor (Queen) admite que não conversa mais com John Deacon",
+        "description": "\"Ele provavelmente deve estar sentado em algum lugar, contando seu dinheiro\", disse o baterista.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "queen",
+            "john deacon",
+            "roger taylor"
+        ],
         "creator": [
-            "will dunham"
+            "joão renato alves"
         ],
         "language": "portuguese",
         "country": [
@@ -15,139 +19,27 @@
         ],
         "category": [
             "top",
-            "technology"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-15 16:05:00",
+        "pubDate": "2026-10-16 15:56:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:34:11",
-        "image_url": null,
+        "fetched_at": "2026-10-16 16:09:25",
+        "image_url": "https://whiplash.net/imagens_promo_22/queen_greatesthits.jpg",
         "video_url": null,
-        "source_id": "folha",
-        "source_name": "Folha",
-        "source_priority": 3498,
-        "source_url": "https://www.folha.uol.com.br",
-        "source_icon": "https://i.newsdata.io/folha.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.03,
-            "neutral": 4.39,
-            "positive": 95.58
-        },
-        "ai_tag": [
-            "artificial intelligence"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "60c1fed24ee556b660dfeb83cfe1b812",
-        "link": "https://www.mdzol.com/mdz-show/2026/10/15/carminha-y-nina-de-regreso-avenida-brasil-2-es-un-hecho-y-asi-fue-su-presentacion-oficial-1988321.html",
-        "title": "Carminha y Nina de regreso: Avenida Brasil 2 es un hecho y así fue su presentación oficial",
-        "description": null,
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "novela",
-            "avenida brasil (telenovela)",
-            "televisión"
-        ],
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "lifestyle"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:05:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:31:02",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://i.newsdata.io/mdzol.png",
+        "source_id": "whiplash",
+        "source_name": "Whiplash",
+        "source_priority": 97693,
+        "source_url": "https://whiplash.net",
+        "source_icon": "https://i.newsdata.io/whiplash.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 1.81,
-            "neutral": 94.31,
-            "positive": 3.88
+            "negative": 22.56,
+            "neutral": 76.82,
+            "positive": 0.62
         },
         "ai_tag": [
-            "awards and recognitions"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "c37e2ee4f7c08b9bf65a227d326e2d0d",
-        "link": "https://tododia.com.br/policia/pm-estoura-cassino-clandestino-em-tabacaria-no-matao-com-caca-niqueis-drogas-armas-e-dinheiro/",
-        "title": "PM ‘estoura’ cassino clandestino em tabacaria no Matão com caça-níqueis, drogas, armas e dinheiro",
-        "description": "Comerciante de 22 anos foi preso em flagrante na Vila San Martin; policiais também encontraram mais de R$ 8,6 mil em dinheiro e um cômodo oculto usado como cassino clandestino",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "caça-níqueis",
-            "primeiro comando da capital",
-            "cidades",
-            "ato infracional",
-            "polícia militar de sp",
-            "caça-níquel",
-            "jogos de azar",
-            "tráfico de drogas",
-            "notícia",
-            "contravenção penal",
-            "corrupção de menores",
-            "polícia",
-            "cv",
-            "crime organizado",
-            "canil",
-            "tráfico",
-            "polícia civil de sp",
-            "página inicial",
-            "48º bpm/i",
-            "contravenção"
-        ],
-        "creator": [
-            "vagner salustiano"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "crime"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:04:52",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:18:48",
-        "image_url": "https://tododia.com.br/wp-content/uploads/2026/10/PM-APREENDE-DROGAS-ARMAS-E-CACA-NIQUEIS-EM-TABACARIA-NO-MATAO-SITE-FOTOS-2.jpg",
-        "video_url": null,
-        "source_id": "tododia_br",
-        "source_name": "Todo Dia",
-        "source_priority": 914263,
-        "source_url": "https://tododia.com.br",
-        "source_icon": "https://i.newsdata.io/tododia_br.png",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 82.41,
-            "neutral": 17.09,
-            "positive": 0.5
-        },
-        "ai_tag": [
-            "crime"
+            "celebrity"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -157,43 +49,285 @@
         "description_zh": ""
     },
     {
-        "article_id": "fa9cf5da95de8fbb124b1b9b53faa29f",
-        "link": "https://viapais.com.ar/cordoba/dijo-claudio-barrelier-declaracion-tenencia-material-abuso_0_de1dEafWlQ.html",
-        "title": "Qué dijo Claudio Barrelier en su declaración por tenencia de material de abuso",
-        "description": "El hombre declaró este jueves 15 de octubre desde la cárcel de Cruz del Eje y acusó a la madre de Agostina Vega de entregar a la menor y exigió un encuentro presencial.",
+        "article_id": "d33e33c944c2ce297cfe5911fcf17c9e",
+        "link": "https://www.perfil.com/noticias/economia/el-mercado-ya-le-pone-precio-a-las-elecciones-de-2027-los-bonos-pagan-hasta-mas-del-triple-tras-el-cambio-de-mandato.phtml",
+        "title": "El mercado ya le pone precio a las elecciones de 2027: los bonos pagan hasta más del triple tras el cambio de mandato",
+        "description": "A un año de las presidenciales, los inversores comenzaron a incorporar el riesgo electoral en sus decisiones. Mientras un bono que vence antes de las elecciones rinde menos del 3% en dólares, otro con vencimiento apenas un año después ofrece alrededor del 10%. Leer más",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "agostina vega",
-            "crimen",
-            "femicidio"
+            "riesgo pais",
+            "riesgo electoral",
+            "trade electoral",
+            "bonos soberanos"
         ],
         "creator": [
-            "redacción vía córdoba"
+            "maría lorena rodríguez"
         ],
         "language": "spanish",
         "country": [
             "argentina"
         ],
         "category": [
-            "crime",
+            "business",
             "top"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-15 16:04:49",
+        "pubDate": "2026-10-16 15:56:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:49:44",
-        "image_url": "https://viapais.com.ar/images/2026/09/09/XFoozGGwFN_1200x675.jpg",
+        "fetched_at": "2026-10-16 16:38:36",
+        "image_url": "https://fotos.perfil.com/2026/07/29/trim/540/304/mercados-financieros-29072026-2293350.jpg",
         "video_url": null,
-        "source_id": "viapais_ar",
-        "source_name": "Viapais Ar",
-        "source_priority": 48234,
-        "source_url": "https://viapais.com.ar",
-        "source_icon": "https://i.newsdata.io/viapais_ar.png",
+        "source_id": "perfil",
+        "source_name": "Perfil",
+        "source_priority": 56989,
+        "source_url": "https://www.perfil.com",
+        "source_icon": "https://i.newsdata.io/perfil.png",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 27.34,
+            "neutral": 63.68,
+            "positive": 8.98
+        },
+        "ai_tag": [
+            "financial markets"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "7c25ee3c829d763a5f337170d79d9fe5",
+        "link": "https://www.losandes.com.ar/sociedad/el-fenomeno-del-chino-mandarin-las-escuelas-mendoza-ya-hay-500-alumnos-primaria-y-secundaria-n6010598",
+        "title": "El fenómeno del chino mandarín en las escuelas de Mendoza: ya hay 500 alumnos en primaria y secundaria",
+        "description": "En apenas un año, el dictado gratuito de esta lengua en la provincia experimentó un crecimiento exponencial. El plan es articulado por la DGE.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "sociedad"
+        ],
+        "creator": [
+            "redacción sociedad"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "education"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:56:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:09:27",
+        "image_url": "https://media.losandes.com.ar/p/71ac5e8701d0fdcaac4adae021adeb7b/adjuntos/368/imagenes/100/757/0100757757/1200x675/smart/chino-dge.jpg",
+        "video_url": null,
+        "source_id": "losandes",
+        "source_name": "Los Andes",
+        "source_priority": 114641,
+        "source_url": "https://www.losandes.com.ar",
+        "source_icon": "https://i.newsdata.io/losandes.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.02,
+            "neutral": 0.29,
+            "positive": 99.69
+        },
+        "ai_tag": [
+            "education"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "26aef09d3a668a9c90ba788a3a949e73",
+        "link": "https://www.gazetasp.com.br/cotidiano/outubro-rosa-diagnostico-nao-e-sentenca-veja-relatos-da-jornada-de-recuperacao-de-pacientes-de-cancer-de-mama/",
+        "title": "Outubro Rosa: diagnóstico não é sentença; veja relatos da jornada de recuperação de pacientes de câncer de mama",
+        "description": "Quando Iraci percebeu um pequeno caroço na mama, no fim de dezembro de 2015, estava perto do Natal. A vida seguia em seu ritmo habitual, com compromissos familiares e planos para o futuro. Entre eles, a festa de 15 anos da filha mais nova, que tinha 14. O que parecia uma alteração discreta no corpo […] O post Outubro Rosa: diagnóstico não é sentença; veja relatos da jornada de recuperação de pacientes de câncer de mama apareceu primeiro em Gazeta de São Paulo.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "outubro rosa",
+            "câncer",
+            "saúde",
+            "brasil",
+            "cotidiano"
+        ],
+        "creator": [
+            "larissa crippa"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:18:48",
+        "image_url": "https://cdn.gazetasp.com.br/uploads/2026/10/Foto_-arquivo-pessoal-649x365.png",
+        "video_url": null,
+        "source_id": "gazetasp_br",
+        "source_name": "Gazetasp Br",
+        "source_priority": 676902,
+        "source_url": "https://www.gazetasp.com.br",
+        "source_icon": "https://i.newsdata.io/gazetasp_br.jpg",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 2.7,
+            "neutral": 68.2,
+            "positive": 29.1
+        },
+        "ai_tag": [
+            "diseases"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "e105039929c16123f3cbf2086bf54934",
+        "link": "https://elsoldesanjuan.com.ar/albardon/16/10/2026/albardon-el-centro-de-jubilados-del-barrio-salta-inauguro-la-remodelacion-de-sus-instalaciones/",
+        "title": "Albardón: el Centro de Jubilados del Barrio Salta inauguró la remodelación de sus instalaciones",
+        "description": "El intendente Juan Carlos Abarca encabezó la habilitación de las obras de refacción y puesta en valor del edificio, destinadas a brindar mejores comodidades y actividades a los adultos mayores de la zona. La entrada Albardón: el Centro de Jubilados del Barrio Salta inauguró la remodelación de sus instalaciones se publicó primero en El Sol de San Juan.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "albardón",
+            "albardon"
+        ],
+        "creator": [
+            "el sol de san juan"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "business",
+            "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 15:56:18",
+        "image_url": "https://elsoldesanjuan.com.ar/wp-content/uploads/2026/10/853004013_2407750736422107_2498420296689437512_n.jpg",
+        "video_url": null,
+        "source_id": "elsoldesanjuan",
+        "source_name": "San Juan",
+        "source_priority": 29724160,
+        "source_url": "https://elsoldesanjuan.com.ar",
+        "source_icon": "https://i.newsdata.io/elsoldesanjuan.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.05,
+            "neutral": 13.77,
+            "positive": 86.18
+        },
+        "ai_tag": [
+            "real estate"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "2b314b4f7accb4458e7faf9e1545836f",
+        "link": "https://agenciasanluis.com/2026/10/16/1221267-la-policia-y-el-servicio-penitenciario-realizaron-la-final-de-la-copa-apolo-2026-de-unidades-caninas/",
+        "title": "La Policía y el Servicio Penitenciario realizaron la final de la Copa Apolo 2026 de unidades caninas",
+        "description": "La actividad reunió a alrededor de 15 binomios caninos de las distintas divisiones que integran el Departamento de Unidades Caninas de la Policía y de la Sección Canes del Servicio Penitenciario, perteneciente al Complejo Penitenciario Nº 1.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "seguridad",
+            "servicio penitenciario provincial",
+            "división canes",
+            "policía de la provincia de san luis"
+        ],
+        "creator": [
+            "andres acosta"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:53",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:12:38",
+        "image_url": "https://agenciasanluis.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-12.35.58-750x420.jpeg",
+        "video_url": null,
+        "source_id": "agenciasanluis",
+        "source_name": "Agenciasanluis",
+        "source_priority": 174112,
+        "source_url": "https://agenciasanluis.com",
+        "source_icon": "https://i.newsdata.io/agenciasanluis.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.06,
+            "neutral": 38.48,
+            "positive": 61.46
+        },
+        "ai_tag": [
+            "politics"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "05dd5c10d7abe1784745d2e41098a62d",
+        "link": "https://elciudadanoweb.com/causa-contra-maria-laura-garrigos-para-su-defensa-se-trata-de-un-caso-de-manual-de-lawfare-y-arbitrariedad-judicial/",
+        "title": "Causa contra María Laura Garrigós: para su defensa se trata de “un caso de manual de lawfare y arbitrariedad judicial”",
+        "description": "“Los hechos que mencionan los fiscales en la causa corresponden a los años 2019 y 2022, es decir, periodos totalmente ajenos a su gestión. No hay un solo hecho ni una sola prueba que la vincule durante su tiempo como interventora”, afirmó Bruera La entrada Causa contra María Laura Garrigós: para su defensa se trata de “un caso de manual de lawfare y arbitrariedad judicial” se publicó primero en El Ciudadano.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "política"
+        ],
+        "creator": [
+            "el ciudadano"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:45",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:22:57",
+        "image_url": "https://elciudadanoweb.com/wp-content/uploads/2026/10/maria-laura-garrigos-de-rebori.webp",
+        "video_url": null,
+        "source_id": "elciudadanoweb",
+        "source_name": "El Ciudadano",
+        "source_priority": 1918873,
+        "source_url": "https://www.elciudadanoweb.com",
+        "source_icon": "https://i.newsdata.io/elciudadanoweb.png",
         "sentiment": "negative",
         "sentiment_stats": {
-            "negative": 87.31,
-            "neutral": 12.6,
-            "positive": 0.09
+            "negative": 52.39,
+            "neutral": 46.29,
+            "positive": 1.32
         },
         "ai_tag": [
             "crime",
@@ -207,48 +341,43 @@
         "description_zh": ""
     },
     {
-        "article_id": "4d1a1c342a581b77356f48dcc0722b42",
-        "link": "https://catracalivre.com.br/noticias/arvore-recem-plantada-recebe-tutor-bem-apertado-para-nao-balancar-mas-a-amarracao-rigida-pode-marcar-o-tronco-e-limitar-o-movimento-que-ajuda-a-planta-a-se-fortalecer/",
-        "title": "Árvore recém-plantada recebe tutor bem apertado para não balançar, mas a amarração rígida pode marcar o tronco e limitar o movimento que ajuda a planta a se fortalecer",
-        "description": "Árvore recém-plantada precisa de tutor? Entenda quando usar a estaca, por que evitar amarrações rígidas e como proteger o tronco durante o crescimento. O post Árvore recém-plantada recebe tutor bem apertado para não balançar, mas a amarração rígida pode marcar o tronco e limitar o movimento que ajuda a planta a se fortalecer apareceu primeiro em Catraca Livre.",
+        "article_id": "94cc1456847c4afca6424e863a87c532",
+        "link": "https://www.broadcast.com.br/isso-nao-e-um-plano/",
+        "title": "Isso (não) é um plano",
+        "description": "A cobertura da negociação da dívida da Braskem lembra a obra de René Magritte O post Isso (não) é um plano apareceu primeiro em Broadcast - O mercado financeiro em tempo real.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "cinta para tutor de árvore",
-            "como amarrar uma árvore ao tutor",
-            "tronco marcado pela amarração",
-            "notícias",
-            "tutoramento de árvores"
+            "surrealismo"
         ],
         "creator": [
-            "tamiles santos brito"
+            "gabriel baldocchi"
         ],
         "language": "portuguese",
         "country": [
             "brazil"
         ],
         "category": [
-            "top",
-            "environment"
+            "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-15 16:04:35",
+        "pubDate": "2026-10-16 15:55:45",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:35:35",
-        "image_url": "https://catracalivre.com.br/wp-content/uploads/2026/10/tree-trunk-with-support-strap-20261014141523-e1792002767533.jpg",
+        "fetched_at": "2026-10-16 16:16:52",
+        "image_url": "https://www.broadcast.com.br/wp-content/uploads/2025/08/braskem-divulgacao-09.09.15.jpg",
         "video_url": null,
-        "source_id": "catracalivre_br",
-        "source_name": "Catraca Livre",
-        "source_priority": 20092,
-        "source_url": "https://catracalivre.com.br",
-        "source_icon": "https://i.newsdata.io/catracalivre_br.png",
+        "source_id": "broadcast",
+        "source_name": "Broadcast",
+        "source_priority": 585978,
+        "source_url": "https://www.broadcast.com.br/noticias",
+        "source_icon": "https://i.newsdata.io/broadcast.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 0.15,
-            "neutral": 97.6,
-            "positive": 2.25
+            "negative": 0.31,
+            "neutral": 99.32,
+            "positive": 0.37
         },
         "ai_tag": [
-            "eco-friendly"
+            "banking and finance"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -258,221 +387,68 @@
         "description_zh": ""
     },
     {
-        "article_id": "cfba6f3b8bcd74e5978455534a515a28",
-        "link": "https://oantagonista.com.br/brasil/globo-demite-executivo-apos-reportagem-de-o-antagonista/",
-        "title": "Globo demite executivo após reportagem de O Antagonista",
-        "description": "Frederic Kachar não é mais executivo da Globo. Menos de 24 horas depois do relacionamento promíscuo do CEO de veículos impressos e das rádios da empresa com o banqueiro Daniel Vorcaro ter sido revelado em primeira mão pelo TV Pop, em parceria com O Antagonista, o conglomerado decidiu demitir o diretor, que integrava o quadro de... The post Globo demite executivo após reportagem de O Antagonista appeared first on O Antagonista.",
+        "article_id": "bbc308b347fb241441a7168d09f7673a",
+        "link": "https://www.adnsur.com.ar/sociedad/la-justicia-freno-las-obras-de-dos-proyectos-inmobiliarios-en-bariloche-por-riesgo-ambiental_a6ad24262a46c4428ebf62bd0",
+        "title": "La Justicia frenó las obras de dos proyectos inmobiliarios en Bariloche por riesgo ambiental",
+        "description": "Una magistrada dictó una medida cautelar que suspende los desarrollos “Faena” y “Cauma”, ubicados cerca de dos reservas naturales. El amparo fue impulsado por vecinos y organizaciones que exigen un estudio de impacto ambiental conjunto.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "brasil",
-            "globo",
-            "daniel vorcaro"
-        ],
+        "keywords": null,
         "creator": [
-            "tv pop"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:04:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:21:50",
-        "image_url": "https://cdn.oantagonista.com/uploads/2026/10/frederic-kachar-foto-divulgacao-tv-globo-tvpop.jpeg",
-        "video_url": null,
-        "source_id": "oantagonista",
-        "source_name": "O Antagonista",
-        "source_priority": 2104208,
-        "source_url": "https://www.oantagonista.com",
-        "source_icon": "https://i.newsdata.io/oantagonista.png",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 54.24,
-            "neutral": 45.7,
-            "positive": 0.06
-        },
-        "ai_tag": [
-            "television"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "7b3c53e7813d708a45d99e0df897f73d",
-        "link": "https://www.clarin.com/politica/perimetral-metros-sesionar-concejal-denuncio-edil-violencia-genero-justicia-dicto-medida-inedita_0_zYBy4Fk0Lo.html",
-        "title": "Perimetral de tres metros para sesionar: una concejal denunció a otro edil por violencia de género y la Justicia dictó una medida inédita",
-        "description": "En San Pedro, Paola Basso, radical en Nuevos Aires, denunció al concejal Martín Rivas por hostigamiento, intimidación y agresiones verbales. La debieron mover de banca para cumplir con la restricción judicial. El concejal acusado denunció a otro de sus pares por amenaza.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "violencia de género",
-            "san pedro - buenos aires",
-            "últimas noticias",
-            "concejo deliberante"
-        ],
-        "creator": [
-            "clarin.com - home"
+            "adnsur"
         ],
         "language": "spanish",
         "country": [
             "argentina"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:04:35",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:32:05",
-        "image_url": "https://www.clarin.com/img/2026/10/15/a0xl9WPjV_1200x630__1.jpg",
-        "video_url": null,
-        "source_id": "clarin",
-        "source_name": "Clarin",
-        "source_priority": 1115,
-        "source_url": "https://www.clarin.com",
-        "source_icon": "https://i.newsdata.io/clarin.png",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 87.09,
-            "neutral": 12.6,
-            "positive": 0.31
-        },
-        "ai_tag": [
-            "politics"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "6d16268c49e3b5fdee8dc8f4f3f0be31",
-        "link": "https://www.infobae.com/mexico/2026/10/15/mexico-entre-las-economias-con-mayor-crecimiento-de-la-ocde-sheinbaum-presume-cifras-del-segundo-trimestre/",
-        "title": "México, entre las economías con mayor crecimiento de la OCDE: Sheinbaum presume cifras del segundo trimestre",
-        "description": "El país con mayor crecimiento económico en este momento es Irlanda, después Israel, seguido de Eslovenia, Suiza, Lituania, Suecia y en séptimo lugar de la lista se encuentra México",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "claudia sheinbaum",
-            "la mañanera",
-            "política mexicana",
-            "mexico-noticias",
-            "economia mexicana",
-            "ocde"
-        ],
-        "creator": [
-            "samantha godinez"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "argentina",
-            "mexico",
-            "colombia"
         ],
         "category": [
             "business",
-            "top"
+            "top",
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-15 16:04:32",
+        "pubDate": "2026-10-16 15:55:40",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:34:05",
-        "image_url": "https://www.infobae.com/resizer/v2/OECPPS5GNZAOZMSDQNHFYB764Q.jpg?auth=dfbc6d354d0b2fdf5fb10c92e3057bdcf24bf95170b51b6b6bbb798a0102726e&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-10-16 16:09:29",
+        "image_url": "https://adnsur-assets.tadevel-cdn.com/6ad2459aa46c4428ebf6d312/720.jpeg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.03,
-            "neutral": 5.62,
-            "positive": 94.35
-        },
-        "ai_tag": [
-            "economy"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "1e2d2b94fcde5c1f0a9f6428b5e3377a",
-        "link": "https://www.laopinioncoruna.es/galicia/2026/10/15/juez-abre-diligencias-gas-pimienta-135376866.html",
-        "title": "Un juez abre diligencias por el gas pimienta de la ourensana Ana Vázquez y pide partes de lesiones a los denunciantes",
-        "description": "Un juez de Madrid ha abierto diligencias previas por el incidente protagonizado por la diputada ourensana del PP Ana Vázquez, que exhibió un espray de gas pimienta en el Congreso de los Diputados el pasado 23 de septiembre, y ha solicitado a los denunciantes, varios parlamentarios, que aporten partes de lesiones antes de decidir si inicia una investigación formal. La decisión la ha adoptado el juez Pedro Merchante, titular de la Plaza Número 6 de la Sección de Instrucción del Tribunal de Instancia, según han confirmado fuentes jurídicas a Europa Press. El magistrado ha requerido a los diputados que presentaron la denuncia que entreguen la documentación médica para valorar los siguientes pasos del procedimiento.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "gobierno"
-        ],
-        "creator": [
-            "r. s. c."
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "crime",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:04:29",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:06:35",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cb2ac22f-3e51-467f-b938-0ec517827aa3_16-9-aspect-ratio_default_0_x844y375.jpg",
-        "video_url": null,
-        "source_id": "laopinioncoruna",
-        "source_name": "La Opinión A Coruña",
-        "source_priority": 50098,
-        "source_url": "https://www.laopinioncoruna.es",
-        "source_icon": "https://i.newsdata.io/laopinioncoruna.png",
+        "source_id": "adnsur",
+        "source_name": "Adnsur",
+        "source_priority": 80627,
+        "source_url": "https://www.adnsur.com.ar",
+        "source_icon": "https://i.newsdata.io/adnsur.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 22.56,
-            "neutral": 77.38,
-            "positive": 0.06
+            "negative": 19.92,
+            "neutral": 78.6,
+            "positive": 1.48
         },
         "ai_tag": [
+            "real estate",
             "accidents"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
+        "duplicate": false,
         "title_zh": "",
         "description_zh": ""
     },
     {
-        "article_id": "850dc2c9fd49b7e04e00bfd00a0e6d0e",
-        "link": "https://www.folhavitoria.com.br/cultura/literatura/6-livros-de-professores-que-sao-verdadeiras-aulas-de-vida-para-professores/",
-        "title": "6 livros de professores que são verdadeiras aulas de vida… para professores",
-        "description": "No Dia do Professor, uma seleção de obras de Rubem Alves, Leandro Karnal e outros educadores que refletem sobre os desafios, as possibilidades e o sentido de ensinar",
+        "article_id": "f830baac3ded0277aeffb8fd68e6a7c7",
+        "link": "https://www.folhavitoria.com.br/cotidiano/sonhos-frustrados-votam/",
+        "title": "Sonhos frustrados votam",
+        "description": "Entre promessas, expectativas e a realidade do dia a dia, a frustração dos eleitores também ajuda a explicar decisões nas urnas",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "livro",
-            "educação",
-            "literatura",
-            "cultura",
-            "professores"
+            "eleitor",
+            "campanha eleitoral",
+            "eleições 2026",
+            "política",
+            "opinião",
+            "cotidiano"
         ],
         "creator": [
-            "estadão"
+            "mayá josephine gobira"
         ],
         "language": "portuguese",
         "country": [
@@ -480,82 +456,27 @@
         ],
         "category": [
             "top",
-            "education"
+            "science"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-15 16:04:16",
+        "pubDate": "2026-10-16 15:55:39",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 17:24:06",
-        "image_url": "https://uploads.folhavitoria.com.br/imagens/2026/10/livro-Rubem-Alves.jpg",
+        "fetched_at": "2026-10-16 17:25:15",
+        "image_url": "https://uploads.folhavitoria.com.br/imagens/2026/10/voto.png",
         "video_url": null,
         "source_id": "folhavitoria_br",
         "source_name": "Folha Vitória",
         "source_priority": 123574,
         "source_url": "https://www.folhavitoria.com.br",
         "source_icon": "https://i.newsdata.io/folhavitoria_br.png",
-        "sentiment": "positive",
+        "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 0.04,
-            "neutral": 4.66,
-            "positive": 95.3
+            "negative": 0.37,
+            "neutral": 98.97,
+            "positive": 0.66
         },
         "ai_tag": [
-            "education"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": true,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "ae08fbce84f9ca8a4c1332ea8f1eca33",
-        "link": "https://www.lanacion.cl/robot-humanoide-sorprende-a-estudiantes-en-jornada-que-busca-acercar-la-robotica-a-la-educacion/",
-        "title": "Robot humanoide sorprende a estudiantes en jornada que busca acercar la robótica a la educación",
-        "description": "Un robot humanoide fue uno de los protagonistas de una jornada educativa realizada en el Museo Interactivo Mirador (MIM), donde estudiantes de sexto básico pudieron interactuar directamente con esta tecnología y participar de distintas experiencias vinculadas con la ciencia, la innovación y el aprendizaje. Esto en el marco de las celebraciones por el Día de […] The post Robot humanoide sorprende a estudiantes en jornada que busca acercar la robótica a la educación appeared first on La Nación.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "tecnología",
-            "estudiantes",
-            "jornada",
-            "actualidad",
-            "robótica",
-            "nacional",
-            "tendencia",
-            "humanoide",
-            "robot"
-        ],
-        "creator": [
-            "patricia schüller gamboa"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "education"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:05:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:10:53",
-        "image_url": "https://www.lanacion.cl/wp-content/uploads/2026/10/FOTO-VALE-ROBOT.jpg",
-        "video_url": null,
-        "source_id": "lanacioncl",
-        "source_name": "La Nación",
-        "source_priority": 128528,
-        "source_url": "https://www.lanacion.cl",
-        "source_icon": "https://i.newsdata.io/lanacioncl.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.03,
-            "neutral": 12.5,
-            "positive": 87.47
-        },
-        "ai_tag": [
-            "education"
+            "research"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -565,44 +486,433 @@
         "description_zh": ""
     },
     {
-        "article_id": "02190b3ed97c17b4505f4a14fc2a4cd8",
-        "link": "https://www.elporvenir.mx/justicia/muere-mujer-tras-volcadura-de-camioneta-en-san-pedro/1035027",
-        "title": "Muere mujer tras volcadura de camioneta en San Pedro",
-        "description": "El accidente se registró durante la madrugada de este jueves sobre la Avenida Lázaro Cárdenas y la calle Río Tamuín en la Colonia Ampliación Valle Oriente.",
+        "article_id": "ef295e7b8fe933e990ef83b1ce8c9530",
+        "link": "https://hoydiariodelmagdalena.com.co/archivos/1311364/de-la-espriella-lidero-operacion-blindaje-360-contra-bandas-criminales-en-barranquilla-hay-58-capturados",
+        "title": "De la Espriella lideró Operación Blindaje 360 contra bandas criminales en Barranquilla: hay 58 capturados",
+        "description": "El presidente Abelardo De la Espriella lideró, junto con la Policía Nacional, la Operación Blindaje 360 en Barranquilla, mediante la cual fueron capturados 5...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "colonia ampliación valle oriente",
-            "calle río tamuín",
-            "san pedro",
-            "avenida lázaro cárdenas"
-        ],
+        "keywords": null,
         "creator": [
-            "pez betancourt",
-            "gilberto l&oacute"
+            "redacción hoy diario del magdalena"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:56:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:16:24",
+        "image_url": "https://hoydiariodelmagdalena.com.co/social-image/news/1311364/opengraph-image.jpg?v=1792166241769",
+        "video_url": null,
+        "source_id": "hoydiariodelmagdalena_co",
+        "source_name": "Hoy Diario Del Magdalena",
+        "source_priority": 368807,
+        "source_url": "https://hoydiariodelmagdalena.com.co",
+        "source_icon": "https://i.newsdata.io/hoydiariodelmagdalena_co.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.59,
+            "neutral": 7.18,
+            "positive": 92.23
+        },
+        "ai_tag": [
+            "crime"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "1b25d3b53c54b498840d7774659ef10b",
+        "link": "https://www.mural.com.mx/prometen-lideres-de-ue-continuo-apoyo-a-ucrania/ar3296154",
+        "title": "Prometen líderes de UE continuo apoyo a Ucrania",
+        "description": "Líderes de la Unión Europea declararon que seguirán concediendo el apoyo financiero y militar a Ucrania, y analizan más sanciones a Rusia.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "xinhua"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
+            "world"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:49",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:19:49",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "mural",
+        "source_name": "Mural",
+        "source_priority": 966477,
+        "source_url": "https://www.mural.com.mx",
+        "source_icon": "https://i.newsdata.io/mural.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.03,
+            "neutral": 0.93,
+            "positive": 99.04
+        },
+        "ai_tag": [
+            "government"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "4c467bc73e3fae7414f8d5858f4eb52d",
+        "link": "https://www.proceso.com.mx/internacional/2026/10/16/vaticano-difunde-primeras-imagenes-del-papa-celebrando-misa-en-hospital-tras-cirugia-por-cancer-381990.html",
+        "title": "Vaticano difunde primeras imágenes del papa celebrando misa en hospital tras cirugía por cáncer",
+        "description": "A León XIV, de 71 años, se le extirpó el lóbulo inferior de su pulmón derecho el 13 de octubre luego que los médicos identificaran un nódulo sospechoso de ser canceroso. La cirugía confirmó que padecía un adenocarcinoma, el tipo más común de cáncer de pulmón.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "león xiv",
+            "cáncer",
+            "papa león xiv"
+        ],
+        "creator": [
+            "ap"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:06:25",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "proceso",
+        "source_name": "Proceso",
+        "source_priority": 47805,
+        "source_url": "https://www.proceso.com.mx",
+        "source_icon": "https://i.newsdata.io/proceso.jpg",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 2.83,
+            "neutral": 35.35,
+            "positive": 61.82
+        },
+        "ai_tag": [
+            "diseases"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "e867813dc723c04ac05b341ce566d9cd",
+        "link": "https://www.fayerwayer.com/entretenimiento/2026/10/16/gta-6-entra-por-los-pelos-en-the-game-awards-2026-y-tendra-opcion-al-goty/",
+        "title": "GTA 6 entra por los pelos en The Game Awards 2026 y tendrá opción al GOTY",
+        "description": "GTA 6 competirá oficialmente en The Game Awards 2026 tras confirmarse que su fecha de lanzamiento cumple por un solo día con la normativa del certamen.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "videojuegos",
+            "gta 6",
+            "the game awards",
+            "gta vi"
+        ],
+        "creator": [
+            "consuelo rehbein caerols"
+        ],
+        "language": "spanish",
+        "country": [
+            "chile"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:44",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:19:34",
+        "image_url": "https://www.fayerwayer.com/resizer/v2/R3L3R6HIUNGJ7CVNGA3ZH2GTBY.jpg?auth=2197d1fcd09c7a73e63b103f386c42a8a3d269da1e79499ed95df671e62a9a11&smart=true&width=1376&height=768",
+        "video_url": null,
+        "source_id": "fayerwayer",
+        "source_name": "Fayerwayer",
+        "source_priority": 1020865,
+        "source_url": "https://www.fayerwayer.com",
+        "source_icon": "https://i.newsdata.io/fayerwayer.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.09,
+            "neutral": 48.83,
+            "positive": 51.08
+        },
+        "ai_tag": [
+            "gaming"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "8f7c3c6d72828a4c3e443eea581a0b8b",
+        "link": "https://tribunademexico.com/huracan-trudy-podria-alcanzar-categoria-4-y-extender-lluvias-hasta-el-golfo-de-mexico/",
+        "title": "Huracán Trudy podría alcanzar categoría 4 y extender lluvias hasta el Golfo de México",
+        "description": "Las lluvias asociadas con Trudy podrían extenderse más allá de la costa del Pacífico por la interacción con el frente frío número 2 y otros sistemas atmosféricos El cargo Huracán Trudy podría alcanzar categoría 4 y extender lluvias hasta el Golfo de México apareció primero en Tribuna de México.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "méxico",
+            "nacional"
+        ],
+        "creator": [
+            "carlos puelma"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "environment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:40",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:18:09",
+        "image_url": "https://storage.googleapis.com/tribunamexico-secure/2026/05/cp-temporada-huracanes-ciclones-tropicales.jpg.webp",
+        "video_url": null,
+        "source_id": "tribunademexico",
+        "source_name": "Tribuna De México",
+        "source_priority": 697716,
+        "source_url": "https://tribunademexico.com",
+        "source_icon": "https://i.newsdata.io/tribunademexico.jpg",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 28.32,
+            "neutral": 71.61,
+            "positive": 0.07
+        },
+        "ai_tag": [
+            "natural disasters",
+            "climate and weather"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "bef36e18856b6206ae0155c61602d0d1",
+        "link": "https://www.infobae.com/colombia/2026/10/16/primera-dama-contesto-a-las-criticas-e-insultos-en-redes-sociales-como-la-de-matador-estoy-preparada-para-que-me-ataquen/",
+        "title": "Primera dama contestó a las críticas e insultos en redes sociales como la de ‘Matador’: “Estoy preparada para que me ataquen”",
+        "description": "Pineda aseguró que algunos opositores al Gobierno de su esposo la han usado como blanco de ataques y cuestionó a los creadores de contenido que buscan repercusión con esas polémicas",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "ana lucía pineda",
+            "colombia-noticias",
+            "características físicas",
+            "gestión social",
+            "primera dama"
+        ],
+        "creator": [
+            "francy agudelo"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico",
+            "argentina",
+            "united states of america",
+            "colombia"
+        ],
+        "category": [
+            "top",
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-15 16:05:00",
+        "pubDate": "2026-10-16 15:55:38",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:17:29",
-        "image_url": "https://blob.elporvenir.mx/images/2026/10/15/whatsapp-image-2026-10-15-at-10.07.04-am-focus-0-0-960-690.jpg",
+        "fetched_at": "2026-10-16 16:01:55",
+        "image_url": "https://www.infobae.com/resizer/v2/YT24RC6RONDETB5KC63AZYFGNE.jpg?auth=2bed8151ff392ff5c13f70818b3e5700b0a1d8493c09fbdaeb4ad42e545d1ffa&smart=true&width=1920&height=1080",
         "video_url": null,
-        "source_id": "elporvenir_mx",
-        "source_name": "El Porvenir",
-        "source_priority": 589407,
-        "source_url": "https://elporvenir.mx",
-        "source_icon": "https://i.newsdata.io/elporvenir_mx.jpg",
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 11.82,
-            "neutral": 88.08,
-            "positive": 0.1
+            "negative": 8.15,
+            "neutral": 63.14,
+            "positive": 28.71
+        },
+        "ai_tag": [
+            "politics"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "5af0b3fab35bc5eff3f134c7efad1c5d",
+        "link": "https://www.merca20.com/es-una-enfermedad-lilly-lleva-el-marketing-de-salud-a-la-conversacion-sobre-el-estigma-de-la-obesidad-con-nueva-campana/",
+        "title": "“Es una enfermedad”: Lilly lleva el marketing de salud a la conversación sobre el estigma de la obesidad con nueva campaña",
+        "description": "La combinación de medios masivos con puntos informativos presenciales también amplía las posibilidades de contacto con la audiencia, al llevar el mensaje desde la exposición publicitaria hasta una experiencia vinculada con la salud.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "home",
+            "marcas",
+            "uncategorized"
+        ],
+        "creator": [
+            "maria teresa espinoza"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:25",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 19:33:42",
+        "image_url": "https://files.merca20.com/uploads/2020/10/bigstock-192115720.jpg",
+        "video_url": null,
+        "source_id": "merca20",
+        "source_name": "Mercadotecnia",
+        "source_priority": 42257,
+        "source_url": "https://www.merca20.com",
+        "source_icon": "https://i.newsdata.io/merca20.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 1.61,
+            "neutral": 26.37,
+            "positive": 72.02
+        },
+        "ai_tag": [
+            "pharma and healthcare"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "ce1317713adeefef2682610fd58af8c3",
+        "link": "https://entrelineas.com.mx/ni-estado-ni-municipio-han-ofrecido-terreno-para-hospital-del-issste-senala-delegado/",
+        "title": "Ni Estado ni Municipio han ofrecido terreno para hospital del ISSSTE, señala delegado",
+        "description": "Marcelo Ramírez, delegado estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) señaló que no existe a la fecha un ofrecimiento de terreno para la construcción de un nuevo hospital en la ciudad de Chihuahua. Anunció que hace dos semanas se llevó a cabo una reunión del Consejo Técnico en […] The post Ni Estado ni Municipio han ofrecido terreno para hospital del ISSSTE, señala delegado appeared first on Entre Líneas - Noticias de Chihuahua.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "videos",
+            "local",
+            "issste"
+        ],
+        "creator": [
+            "editor"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:21",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:17:54",
+        "image_url": "https://entrelineas.com.mx/wp-content/uploads/2026/10/eZy-Watermark_16-10-2026_09-35-17-5350a.m.jpeg",
+        "video_url": null,
+        "source_id": "entrelineas",
+        "source_name": "Entrelineas",
+        "source_priority": 655477,
+        "source_url": "https://entrelineas.com.mx",
+        "source_icon": "https://i.newsdata.io/entrelineas.jpg",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 48.83,
+            "neutral": 51.12,
+            "positive": 0.05
+        },
+        "ai_tag": [
+            "politics"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "d6f912b7b2a7948bc6462b4c44382218",
+        "link": "https://www.reforma.com/trasladan-a-diddy-a-otra-prision-tras-emergencia-medica/ar3296148",
+        "title": "Trasladan a 'Diddy' a otra prisión tras emergencia médica",
+        "description": "Sean 'Diddy' Combs fue trasladado de una prisión en Nueva Jersey a otra en Pensilvania, tras una emergencia médica y reportes de sanciones.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "escándalos",
+            "sean diddy combs",
+            "sanciones penitenciarias",
+            "gente",
+            "prisión pensilvania",
+            "traslado prisión",
+            "emergencia médica"
+        ],
+        "creator": [
+            "grupo reforma"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-16 15:55:18",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-16 16:06:41",
+        "image_url": "https://img.gruporeforma.com/imagenes/960x640/7/299/6298800.jpg",
+        "video_url": null,
+        "source_id": "reforma",
+        "source_name": "Reforma",
+        "source_priority": 30519,
+        "source_url": "https://www.reforma.com",
+        "source_icon": "https://i.newsdata.io/reforma.jpg",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 7.67,
+            "neutral": 91.86,
+            "positive": 0.47
         },
         "ai_tag": [
             "accidents"
@@ -615,389 +925,46 @@
         "description_zh": ""
     },
     {
-        "article_id": "17621211a4d726c7b1f4a43a9fe31542",
-        "link": "https://www.eleconomista.com.mx/los-especiales/inteligencia-artificial-pedagogica-aliada-docente-sustituto-20261015-838665.html",
-        "title": "Inteligencia Artificial pedagógica: aliada del docente, no sustituto",
-        "description": "La formación es un proceso continuo que se extiende mucho más allá de un título universitario, pues aprender un idioma implica desarrollar la confianza para defender ideas y conectar con el mundo.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "los especiales"
-        ],
-        "creator": [
-            "alba servín"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "education"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:05:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:34:39",
-        "image_url": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad0290982007.jpeg",
-        "video_url": null,
-        "source_id": "eleconomista",
-        "source_name": "El Economista",
-        "source_priority": 19606,
-        "source_url": "https://www.eleconomista.com.mx",
-        "source_icon": "https://i.newsdata.io/eleconomista.jpg",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.84,
-            "neutral": 26.37,
-            "positive": 72.79
-        },
-        "ai_tag": [
-            "education"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "88bb4c5cc43bb2f93acefa12787cc2a1",
-        "link": "https://semanariovoz.com/hasta-siempre-piero/",
-        "title": "Hasta siempre, Piero",
-        "description": "Tenía un nombre extenso: Piero Antonio Franco de Benedictis Scigliuzzo. Pero uno solo, Piero, bastaba para identificar al inconfundible cantautor que, con sus cabellos encaracolados, gafas redondas, sonrisa amplia y brazos abiertos, compartió su música con los humildes del mundo Redacción Cultural Piero nació el 19 de abril de 1945 en Galipolli, Italia, y falleció […] La entrada Hasta siempre, Piero se publicó primero en Semanario Voz.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "homenaje",
-            "piero",
-            "memoria",
-            "inmemorian",
-            "arte",
-            "portada",
-            "cultural"
-        ],
-        "creator": [
-            "voz digital"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:04:46",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:21:16",
-        "image_url": "https://semanariovoz.com/wp-content/uploads/2026/10/Homenaje-de-Calarca-a-Piero-15.jpeg",
-        "video_url": null,
-        "source_id": "semanariovoz",
-        "source_name": "Semanario Voz",
-        "source_priority": 2067233,
-        "source_url": "https://semanariovoz.com",
-        "source_icon": "https://i.newsdata.io/semanariovoz.jpg",
-        "sentiment": "neutral",
-        "sentiment_stats": {
-            "negative": 0.13,
-            "neutral": 78.97,
-            "positive": 20.9
-        },
-        "ai_tag": [
-            "celebrity"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "464536f38347c5c66a1ea223e223e4cf",
-        "link": "https://caracol.com.co/2026/10/15/avanza-preparacion-de-candidatas-al-reinado-popular-de-las-fiestas-de-independencia-de-cartagena/",
-        "title": "Avanza preparación de candidatas al Reinado Popular de las Fiestas de Independencia de Cartagena",
-        "description": "A través de un ciclo de talleres, formación en liderazgo y recorridos por medios de comunicación, las representantes barriales fortalecen sus capacidades",
+        "article_id": "29c5a6e525074a59344627889810eb4e",
+        "link": "https://www.elnorte.com/prometen-lideres-de-ue-continuo-apoyo-a-ucrania/ar3296152",
+        "title": "Prometen líderes de UE continuo apoyo a Ucrania",
+        "description": "Líderes de la Unión Europea declararon que seguirán concediendo el apoyo financiero y militar a Ucrania, y analizan más sanciones a Rusia.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
         "creator": [
-            "erix montoya bustos"
+            "xinhua"
         ],
         "language": "spanish",
         "country": [
-            "colombia"
+            "mexico"
         ],
         "category": [
-            "top",
-            "politics"
+            "world"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-15 16:04:39",
+        "pubDate": "2026-10-16 15:55:13",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:36:32",
-        "image_url": "https://caracol.com.co/resizer/v2/MK7XZP5RNNCY7EDUVY7XEL4FVA.jpeg?auth=86e5e6756effe6d8de5f69129ad8a192ff8734cd735c6b2b1f4630c8cd9df904&smart=true&width=1290&height=729",
+        "fetched_at": "2026-10-16 16:09:59",
+        "image_url": null,
         "video_url": null,
-        "source_id": "caracol",
-        "source_name": "Caracol Radio",
-        "source_priority": 30675,
-        "source_url": "https://caracol.com.co",
-        "source_icon": "https://i.newsdata.io/caracol.png",
-        "sentiment": "neutral",
-        "sentiment_stats": {
-            "negative": 0.06,
-            "neutral": 88.9,
-            "positive": 11.04
-        },
-        "ai_tag": [
-            "politics"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "426d0d8d34e38a19fe929c92d35d54a1",
-        "link": "https://www.marca.com/videojuegos/hardware/2026/10/15/calidad-jugar-casa-comodidad-disfrutar-fuera-razer-barracuda-v2-pro-cambian-juego.html",
-        "title": "Calidad para jugar en casa y comodidad para disfrutar fuera de ella. Los Razer Barracuda V2 Pro cambian el juego",
-        "description": "Te contamos en detalle todo sobre los nuevos cascos de Razer",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "hardware"
-        ],
-        "creator": [
-            "mario martín"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:04:38",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:33:43",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/10/15/6ad0f940711ba.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com/co",
-        "source_icon": "https://i.newsdata.io/marca.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.02,
-            "neutral": 0.04,
-            "positive": 99.94
-        },
-        "ai_tag": [
-            "technology"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "6d16268c49e3b5fdee8dc8f4f3f0be31",
-        "link": "https://www.infobae.com/mexico/2026/10/15/mexico-entre-las-economias-con-mayor-crecimiento-de-la-ocde-sheinbaum-presume-cifras-del-segundo-trimestre/",
-        "title": "México, entre las economías con mayor crecimiento de la OCDE: Sheinbaum presume cifras del segundo trimestre",
-        "description": "El país con mayor crecimiento económico en este momento es Irlanda, después Israel, seguido de Eslovenia, Suiza, Lituania, Suecia y en séptimo lugar de la lista se encuentra México",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "claudia sheinbaum",
-            "la mañanera",
-            "política mexicana",
-            "mexico-noticias",
-            "economia mexicana",
-            "ocde"
-        ],
-        "creator": [
-            "samantha godinez"
-        ],
-        "language": "spanish",
-        "country": [
-            "united states of america",
-            "argentina",
-            "mexico",
-            "colombia"
-        ],
-        "category": [
-            "business",
-            "top"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:04:32",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:34:05",
-        "image_url": "https://www.infobae.com/resizer/v2/OECPPS5GNZAOZMSDQNHFYB764Q.jpg?auth=dfbc6d354d0b2fdf5fb10c92e3057bdcf24bf95170b51b6b6bbb798a0102726e&smart=true&width=1920&height=1080",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
+        "source_id": "elnorte",
+        "source_name": "Elnorte",
+        "source_priority": 107502,
+        "source_url": "https://www.elnorte.com",
+        "source_icon": "https://i.newsdata.io/elnorte.png",
         "sentiment": "positive",
         "sentiment_stats": {
             "negative": 0.03,
-            "neutral": 5.62,
-            "positive": 94.35
+            "neutral": 0.93,
+            "positive": 99.04
         },
         "ai_tag": [
-            "economy"
+            "government"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "02a42d900e05ce4146559917da918b9f",
-        "link": "https://www.soyfutbol.com/ligas/bofo-bautista-pide-oportunidad-para-dirigir-a-chivas-y-respalda-a-rafa-marquez-en-la-seleccion-mexicana-20261015-0028.html",
-        "title": "Bofo Bautista pide oportunidad para dirigir a Chivas y respalda a Rafa Márquez en la Selección Mexicana",
-        "description": "Adolfo 'Bofo' Bautista, ídolo de Chivas, expresó su deseo de dirigir al Guadalajara y respaldó el proceso de Rafa Márquez al frente de la Selección Mexicana, pidiendo paciencia y apoyo para ambos proyectos.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "ligas"
-        ],
-        "creator": [
-            "brian reyes morán"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:04:29",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 22:17:49",
-        "image_url": "https://www.soyfutbol.com/images-formats/1200x675/t_2-p_9-fpx_600-fpy_370/jpg/2026/05/28/images_-4-.jpg",
-        "video_url": null,
-        "source_id": "soyfutbol",
-        "source_name": "Soyfutbol",
-        "source_priority": 877070,
-        "source_url": "https://www.soyfutbol.com",
-        "source_icon": "https://i.newsdata.io/soyfutbol.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.12,
-            "neutral": 18.85,
-            "positive": 81.03
-        },
-        "ai_tag": [
-            "basketball"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "1449f77592651e18735d0bbad348f9ef",
-        "link": "https://www.poresto.com/entretenimiento/celebrities/2026/10/15/carlos-rivera-pospone-conciertos-cirugia-fechas.html",
-        "title": "Carlos Rivera pospone conciertos por cirugía: estas son las nuevas fechas para 2027",
-        "description": "La cirugía de Carlos Rivera obligará a modificar fechas de su gira en México, Ecuador y Costa Rica, aunque dos conciertos de octubre y noviembre siguen en pie.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "entretenimiento",
-            "celebrities"
-        ],
-        "creator": [
-            "ana garcía"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:04:25",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 18:20:45",
-        "image_url": "https://www.poresto.com/media/2026/10/15/carlos-rivera.jpg",
-        "video_url": null,
-        "source_id": "poresto",
-        "source_name": "Por Esto!",
-        "source_priority": 1266292,
-        "source_url": "https://www.poresto.com",
-        "source_icon": "https://i.newsdata.io/poresto.png",
-        "sentiment": "neutral",
-        "sentiment_stats": {
-            "negative": 15.72,
-            "neutral": 84.22,
-            "positive": 0.06
-        },
-        "ai_tag": [
-            "celebrity"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "fcc24ca269633fb96a1391a7cd2b4b1f",
-        "link": "https://www.theclinic.cl/2026/10/15/jmc-ev3-chile-city-car-electrico-precio-autonomia/",
-        "title": "JMC EV3 en Chile: la apuesta eléctrica para romper el monopolio de la bencina urbana",
-        "description": "El JMC EV3 en Chile irrumpe como un city car 100% eléctrico pensado para democratizar la electromovilidad urbana en estudiantes universitarios, jóvenes profesionales y familias pequeñas. Con un precio de lanzamiento competitivo y bajísimo costo de carga, desafía directamente a los vehículos a combustión. The post JMC EV3 en Chile: la apuesta eléctrica para romper el monopolio de la bencina urbana appeared first on The Clinic.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "uncategorized"
-        ],
-        "creator": [
-            "leo mellado"
-        ],
-        "language": "spanish",
-        "country": [
-            "chile"
-        ],
-        "category": [
-            "top",
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-15 16:04:21",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-15 16:10:45",
-        "image_url": "https://static.theclinic.cl/media/2026/10/15-160021_j9i3_Diseno-exterior-EV3-03-1.webp",
-        "video_url": null,
-        "source_id": "theclinic",
-        "source_name": "The Clinic",
-        "source_priority": 129373,
-        "source_url": "https://www.theclinic.cl",
-        "source_icon": "https://i.newsdata.io/theclinic.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.02,
-            "neutral": 0.05,
-            "positive": 99.93
-        },
-        "ai_tag": [
-            "automotive"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
+        "duplicate": true,
         "title_zh": "",
         "description_zh": ""
     }
