@@ -1,18 +1,63 @@
 [
     {
-        "article_id": "7cb3cee846c54ad310a551bb7a6a30d4",
-        "link": "https://www.ambito.com/mundo/balotaje-lula-da-silva-vs-flavio-bolsonaro-2026-como-votan-los-brasilenos-que-viven-la-argentina-n6336784",
-        "title": "Balotaje Lula da Silva vs Flávio Bolsonaro 2026: cómo votan los brasileños que viven en la Argentina",
-        "description": "Brasil celebra este domingo la segunda vuelta de sus elecciones entre los dos candidatos más votados en la primera. Quienes tengan domicilio electoral registrado en el exterior podrán votar presidente y vice.",
+        "article_id": "71a02e8a194a2481aabaf4895484c268",
+        "link": "https://www.elancasti.com.ar/informacion-general/denunciaron-que-vandalizaron-un-colectivo-el-paro-la-uta-n624524",
+        "title": "Denunciaron que vandalizaron un colectivo durante el paro de la UTA",
+        "description": "La empresa afirmó que el ataque ocurrió el jueves 22, cuando salía el primer servicio, y denunció presiones e intimidaciones contra los choferes que trabajaron.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "elecciones en brasil",
-            "lula da silva",
-            "brasil",
-            "flávio bolsonaro"
+            "información general"
         ],
         "creator": [
-            "ámbito.com"
+            "el ancasti"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "crime",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-23 16:09:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-23 16:24:16",
+        "image_url": "https://media.elancasti.com.ar/p/c19d9f28ed29ec8979d11bb2af6b6de5/adjuntos/325/imagenes/000/431/0000431698/1200x675/smart/864285760_1414404197080060_4105705095597224329_n.jpg",
+        "video_url": null,
+        "source_id": "elancasti_ar",
+        "source_name": "Elancasti Ar",
+        "source_priority": 2635729,
+        "source_url": "https://www.elancasti.com.ar",
+        "source_icon": "https://i.newsdata.io/elancasti_ar.jpg",
+        "sentiment": "negative",
+        "sentiment_stats": {
+            "negative": 95.05,
+            "neutral": 4.79,
+            "positive": 0.16
+        },
+        "ai_tag": [
+            "politics",
+            "accidents"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "fc59fdb340d79eace6bea07cd1012084",
+        "link": "https://www.elchubut.com.ar/superdepor/2026-10-23-13-9-0-messi-recibio-el-premio-princesa-de-asturias-por-su-trayectoria-y-compromiso-solidario",
+        "title": "Messi recibió el Premio Princesa de Asturias por su trayectoria y compromiso solidario",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "superdepor"
+        ],
+        "creator": [
+            "superdepor com ar"
         ],
         "language": "spanish",
         "country": [
@@ -20,27 +65,92 @@
         ],
         "category": [
             "top",
-            "politics"
+            "lifestyle"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-22 16:18:00",
+        "pubDate": "2026-10-23 16:09:00",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:37:16",
-        "image_url": "https://media.ambito.com/p/d7644dafb0491e614a1664e35eb1957b/adjuntos/239/imagenes/043/666/0043666176/brasil-elecciones.jpg",
+        "fetched_at": "2026-10-23 16:40:13",
+        "image_url": "https://pxbcdn.elchubut.com.ar/chubut/102026/1792772058599.jpg",
         "video_url": null,
-        "source_id": "ambito",
-        "source_name": "Ambito",
-        "source_priority": 37705,
-        "source_url": "https://www.ambito.com",
-        "source_icon": "https://i.newsdata.io/ambito.png",
+        "source_id": "elchubut_ar",
+        "source_name": "El Chubut",
+        "source_priority": 110150,
+        "source_url": "https://www.elchubut.com.ar",
+        "source_icon": "https://i.newsdata.io/elchubut_ar.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.03,
+            "neutral": 1.12,
+            "positive": 98.85
+        },
+        "ai_tag": [
+            "awards and recognitions"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": "查看原文了解更多详情"
+    },
+    {
+        "article_id": "98ff382a4b44e8b2928dd4a51d87f08d",
+        "link": "https://basquetplus.com/seleccion-argentina-u22-informe-opinion-jovenes-futuro-listado",
+        "title": "La Argentina del futuro: una selección de U22 para seguir",
+        "description": "Selección Argentina Bocca y Giovannetti, jóvenes del futuro argentino (CAB) Con una actualidad de la mayor en busca de la clasificación al Mundial 2027, elegimos a jóvenes valores que pueden ser importantes para todo lo que sigue. Al contrario de lo que sucedió en años anteriores, esta vez Argentina no realizó una concentración con jóvenes promesas. En este contexto, elegimos jóvenes nacidos entre 2004 y 2010 que son para seguir y donde algunos ya tuvieron minutos en la mayor. Entre los bases encontramos a Dylan Bordón (2004), que ya es parte de los convocables por Pablo Prigioni y que debutará en la NCAA esta temporada. Además, Thiago Sucatzky (2006) fue un destacado en el último Mundial U19 y que inicia su segundo año en el básquet universitario. Entre los escoltas, Diego Collomb (2004), viene de temporadas sólidas y empezó la Liga con San Martín con grandes actuaciones individuales. Juan Bocca (2005) es quizás el tirador más especialista de esta lista, volvió a Argentina y empieza a tomar protagonismo en Racing de Chivilcoy. Felipe Minzer (2007), es de los más talentosos de este listado y debutará en la NCAA. En esta posición será para seguir a Joaquín Celiz (2008), que viene trabajando como base o escolta y con 1.95 de altura su adaptación y crecimiento serán para seguir. Además, formándose en Quimsa está Enzo Roth (2009), que jugará los Juegos Olímpicos de la Juventud en Dakar en el 3x3. Con pocos aleros naturales disponibles hay dos que toman protagonismo. Nicolás Stenta (2004), ha tenido un gran progreso en Boca y empieza a aparecer como opción futura. Además, Lucas Giovannetti (2005) creció en la última temporada en Estudiantes de Madrid y se consolida en España. Como posible aparición futura, Viktor Bender (2006), aspira a sumar minutos en Regatas, con un tiro confiable y un tamaño interesante para seguir. Uno que sin dudas será importante seguirlo es Máximo Adams (2008), convocado pero sin haber sido cedido por su universidad, y que apunta a pisar fuerte en North Carolina. En la posición de ala pivote, Santiago Trouet es una opción clara (2004), jugando una nueva temporada NCAA. Allí hará su debut Lee Aaliya (2004), que puede ser pivote pero tiene aptitudes para afianzarse como un interno polivalente. En ese lugar también es para seguir a Iván Prato (2007), que sigue formándose con el Varese de Luis Scola en Italia, Tyler Kropp (2007), que inicia su segundo año en la NCAA, Simón Gradin (2008), que crece en Estudiantes de Madrid con grandes condiciones físicas. También con posibilidades de ser un combo en la pintura se encuentran Elías Torrens (2008), que pasó a las inferiores de Boca desde Obras, y también Lautaro Basualdo (2010), el más chico de este listado que se forma bajo el ala de Luis Scola en Varese. Por último, como pivote sin dudas Fidel Rotta (2007), aparece como un joven proyecto, que debutará esta temporada en la NCAA y se destacó en el último Mundial U19. Alejandro Malky / alejandromalky@basquetplus.com En X: @basquetplus En X: @alemalky Etiquetado como: Basquet Plus Argentina",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "pelota",
+            "rebote",
+            "basquetbol",
+            "liga nacional",
+            "baloncesto",
+            "triple",
+            "acb",
+            "clavada",
+            "dunk",
+            "lnb",
+            "nba",
+            "la liga",
+            "basquet",
+            "volcada",
+            "donkeo",
+            "basketball",
+            "lnbp",
+            "aro",
+            "deporte",
+            "doble"
+        ],
+        "creator": [
+            "alemalkito"
+        ],
+        "language": "spanish",
+        "country": [
+            "argentina"
+        ],
+        "category": [
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-23 16:08:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-23 16:15:28",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "basquetplus",
+        "source_name": "Basquet Plus",
+        "source_priority": 324404,
+        "source_url": "http://basquetplus.com",
+        "source_icon": "https://i.newsdata.io/basquetplus.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 0.09,
-            "neutral": 88.58,
-            "positive": 11.33
+            "negative": 0.07,
+            "neutral": 54.62,
+            "positive": 45.31
         },
         "ai_tag": [
-            "elections"
+            "sports"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -50,44 +160,48 @@
         "description_zh": ""
     },
     {
-        "article_id": "3dfa5ab1bb3100d8db7ef9821b03b99c",
-        "link": "https://elciudadanoweb.com/se-lanzo-la-red-creer-santa-fe-articulacion-publico-privada-para-transformar-la-reinsercion-social-y-combatir-la-reincidencia/",
-        "title": "Se lanzó la Red Creer Santa Fe: articulación público-privada para transformar la reinserción social y combatir la reincidencia",
-        "description": "Impulsada por el Ministerio de Igualdad y Desarrollo Humano de la provincia, la iniciativa busca consolidar un ecosistema sostenible entre el Estado, empresas y organizaciones sociales, a través del acompañamiento integral a personas que estuvieron privadas de la libertad y a sus familias. La entrada Se lanzó la Red Creer Santa Fe: articulación público-privada para transformar la reinserción social y combatir la reincidencia se publicó primero en El Ciudadano.",
+        "article_id": "94286fe76fb1aa684aa0f3cad5b0a1e7",
+        "link": "https://www.cnnbrasil.com.br/curiosidades/ele-e-monogamico-exige-carinho-diario-e-e-quem-da-a-luz-no-fundo-do-mar/",
+        "title": "Ele é monogâmico, exige carinho diário e é quem dá à luz no fundo do mar",
+        "description": "Em espécies de cavalo-marinho, o casal mantém um vínculo monogâmico e se cumprimenta diariamente com as caudas; ritual é fundamental para que a fêmea transfira os óvulos para a bolsa incubadora do macho",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "ciudad"
+            "curiosidades",
+            "-agencia-cnn-brasil-",
+            "monogamia",
+            "oceano",
+            "cnn curiosidades"
         ],
         "creator": [
-            "el ciudadano"
+            "robertosouza"
         ],
-        "language": "spanish",
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
             "top",
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-22 16:17:56",
+        "pubDate": "2026-10-23 16:08:37",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:52:15",
-        "image_url": "https://elciudadanoweb.com/wp-content/uploads/2026/09/Ramon-Soques_El-Ciudadano-Politica-Stream.jpg.webp",
+        "fetched_at": "2026-10-23 16:32:02",
+        "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Ele-e-monogamico-exige-carinho-diario-e-e-quem-da-a-luz-no-fundo-do-mar.jpg?w=1200&h=1200&crop=1",
         "video_url": null,
-        "source_id": "elciudadanoweb",
-        "source_name": "El Ciudadano",
-        "source_priority": 1918873,
-        "source_url": "https://www.elciudadanoweb.com",
-        "source_icon": "https://i.newsdata.io/elciudadanoweb.png",
-        "sentiment": "positive",
+        "source_id": "cnnbrasil_br",
+        "source_name": "Cnn Brasil",
+        "source_priority": 1209,
+        "source_url": "https://www.cnnbrasil.com.br",
+        "source_icon": "https://i.newsdata.io/cnnbrasil_br.png",
+        "sentiment": "negative",
         "sentiment_stats": {
-            "negative": 0.02,
-            "neutral": 0.05,
-            "positive": 99.93
+            "negative": 60.43,
+            "neutral": 38.87,
+            "positive": 0.7
         },
         "ai_tag": [
-            "politics"
+            "human rights"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -97,43 +211,43 @@
         "description_zh": ""
     },
     {
-        "article_id": "27e7137c9bb8ea06c3b0686ad19b5ab3",
-        "link": "https://www.diarioelzondasj.com.ar/sociedad/el-festival-de-tango-san-juan-se-hara-del-23-al-25-de-octubre",
-        "title": "El Festival de Tango San Juan se hará del 23 al 25 de octubre",
-        "description": "La cuarta edición reunirá milongas, clases y espectáculos en San Juan. Tendrá apoyo del Régimen de Mecenazgo Cultural y entrada libre en una de sus jornadas.",
+        "article_id": "39465cdd267adac257fa37b8e9336515",
+        "link": "https://www.bemparana.com.br/noticias/regiao-metropolitana/cursos-da-petrobras-abrem-portas-para-pessoas-em-situacao-de-rua-na-grande-curitiba/",
+        "title": "Cursos da Petrobras abrem portas para pessoas em situação de rua na Grande Curitiba",
+        "description": "Nove pessoas em situação de rua acompanhadas pelo Centro POP de Araucária, na Região Metropolitana de Curitiba, já participam de... O post Cursos da Petrobras abrem portas para pessoas em situação de rua na Grande Curitiba apareceu primeiro em Bem Paraná.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "redacción el zonda"
+        "keywords": [
+            "região metropolitana"
         ],
-        "language": "spanish",
+        "creator": [
+            "editada por isabelle sales"
+        ],
+        "language": "portuguese",
         "country": [
-            "argentina"
+            "brazil"
         ],
         "category": [
             "top",
-            "tourism",
-            "entertainment"
+            "tourism"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-22 16:17:42",
+        "pubDate": "2026-10-23 16:08:35",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:20:50",
-        "image_url": "https://telesolweb-proxy.sapiamedios.com/storage/v1/object/public/articles/articles/1d85c8ff-135e-4425-baa6-408069632d00.webp",
+        "fetched_at": "2026-10-23 16:23:55",
+        "image_url": "https://www.bemparana.com.br/wp-content/uploads/2026/10/montador-de-andaime-obra-credito-magnific.jpg",
         "video_url": null,
-        "source_id": "diarioelzondasj_ar",
-        "source_name": "El Zonda",
-        "source_priority": 1206421,
-        "source_url": "https://www.diarioelzondasj.com.ar",
-        "source_icon": "https://i.newsdata.io/diarioelzondasj_ar.png",
+        "source_id": "bemparana_br",
+        "source_name": "Bemparana Br",
+        "source_priority": 2047682,
+        "source_url": "https://www.bemparana.com.br",
+        "source_icon": "https://i.newsdata.io/bemparana_br.png",
         "sentiment": "positive",
         "sentiment_stats": {
-            "negative": 0.02,
-            "neutral": 15.14,
-            "positive": 84.84
+            "negative": 0.06,
+            "neutral": 17.58,
+            "positive": 82.36
         },
         "ai_tag": [
-            "entertainment",
             "tourism"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -144,221 +258,26 @@
         "description_zh": ""
     },
     {
-        "article_id": "d4bbda10afc0d241bdb61f075d526e4f",
-        "link": "https://www.infobae.com/america/america-latina/2026/10/22/las-inundaciones-provocadas-por-el-desborde-del-rio-parana-ya-afectan-a-mas-de-4200-familias-en-paraguay/",
-        "title": "Las inundaciones provocadas por el desborde del río Paraná ya afectan a más de 4.200 familias en Paraguay",
-        "description": "Los departamentos de Alto Paraná, Misiones y Ñeembucú son los más golpeados. Las autoridades alertaron de nuevas crecidas en Asunción ante la llegada de más lluvias asociadas al fenómeno de El Niño",
+        "article_id": "5494a32ae248fa3d2bad04ea267c9964",
+        "link": "https://www.infobae.com/mexico/deportes/2026/10/23/hugo-sanchez-rompe-en-llanto-en-la-cancha-de-tigres-a-50-anos-de-su-debut-todo-lo-que-soy-y-lo-que-tengo-es-gracias-al-futbol/",
+        "title": "Hugo Sánchez rompe en llanto en la cancha de Tigres a 50 años de su debut: “Todo lo que soy y lo que tengo es gracias al fútbol”",
+        "description": "El penta pichichi es reconocido como el mejor futbolista que ha emergido de tierras aztecas consolidándose en uno de los equipos más importantes del mundo",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "río paraná",
-            "paraguay",
-            "fenómeno de el niño",
-            "inundaciones"
-        ],
-        "creator": [
-            "infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "colombia",
-            "united states of america",
-            "mexico"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-10-22 16:17:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:32:45",
-        "image_url": "https://www.infobae.com/resizer/v2/KMV4AXJSXZDBXPKHDPYXQOGDYE.JPG?auth=f1aa889b5a1da44494392408a89fd44cffd292d795971956ee1bc76e244239a6&smart=true&width=3517&height=2204",
-        "video_url": "https://cdn.jwplayer.com/videos/wd70hpOf-vM6j8t5y.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 97.01,
-            "neutral": 2.97,
-            "positive": 0.02
-        },
-        "ai_tag": [
-            "natural disasters"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "8c53733a291d23c71d9a6f3ac20845e4",
-        "link": "https://www.lanacion.com.ar/economia/negocios/el-grupo-one-traera-lc-waikiki-y-acelera-la-expansion-de-bestseller-nid22102026/",
-        "title": "El Grupo One traerá LC Waikiki y acelera la expansión de Bestseller",
-        "description": "El grupo empresario que lidera Manuel Antelo confirmó que que en 2027 sumará a la cadena nacida en Francia; en paralelo, inauguró los primeros locales de Jack & Jones, Only y Balmohk y prevé llegar a 20 tiendas",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "negocios"
-        ],
-        "creator": [
-            "alfredo sainz"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-22 16:17:14",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:30:55",
-        "image_url": "https://resizer.glanacion.com/resizer/v2/VRQ4Z3GZ2NGCBHSIEZF6UJUO3A.jpg?auth=01c4c129305bcb015e078163ccb082a54038640c91d37e7e302ab3e55c78cc38&smart=true&width=638&height=480",
-        "video_url": null,
-        "source_id": "lanacion",
-        "source_name": "La Nacion",
-        "source_priority": 7204,
-        "source_url": "https://www.lanacion.com.ar",
-        "source_icon": "https://i.newsdata.io/lanacion.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.01,
-            "neutral": 0.15,
-            "positive": 99.84
-        },
-        "ai_tag": [
-            "real estate"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "ce9ee5a8a853ac71ff46044025bf6301",
-        "link": "https://www.rosario3.com/ecos365/noticias/el-riesgo-pais-volvio-a-superar-los-700-puntos-que-hay-detras-de-la-caida-de-los-bonos-20261022-0005.html",
-        "title": "El riesgo país volvió a superar los 700 puntos: qué hay detrás de la caída de los bonos",
-        "description": "Los títulos soberanos en dólares profundizaron las pérdidas y el indicador de JP Morgan avanzó hasta las 703 unidades",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "redacción ecos365"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina"
-        ],
-        "category": [
-            "top",
-            "business"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-22 16:17:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:38:42",
-        "image_url": "https://www.rosario3.com/__export/1792686124266/sites/rosario3/img/2026/10/22/captura_de_pantalla_2026-10-22_132152.png_554688468.png",
-        "video_url": null,
-        "source_id": "rosario3",
-        "source_name": "Rosario 3",
-        "source_priority": 56266,
-        "source_url": "https://www.rosario3.com",
-        "source_icon": "https://i.newsdata.io/rosario3.png",
-        "sentiment": "negative",
-        "sentiment_stats": {
-            "negative": 96.25,
-            "neutral": 3.71,
-            "positive": 0.04
-        },
-        "ai_tag": [
-            "financial markets"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "346003acc84faef69642666d8fe1f433",
-        "link": "https://www.infobae.com/espana/agencias/2026/10/22/aina-vidal-rechazo-ser-candidata-de-comuns-por-tarragona-entre-reproches-a-la-direccion/",
-        "title": "Aina Vidal rechazó ser candidata de Comuns por Tarragona entre reproches a la dirección",
-        "description": "Aina Vidal rechazó ser candidata de Comuns por Tarragona entre reproches a la dirección",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "newsroom infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "colombia",
-            "united states of america",
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "politics"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-22 16:17:00",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:32:45",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "neutral",
-        "sentiment_stats": {
-            "negative": 36.72,
-            "neutral": 63.23,
-            "positive": 0.05
-        },
-        "ai_tag": [
-            "politics"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "6156a6e84f126880b8c7e7b5a78a24c0",
-        "link": "https://www.infobae.com/mexico/deportes/2026/10/22/hernan-crespo-no-renuncia-a-su-idea-de-juego-despues-del-2-5-ante-america-demasiado-abultado/",
-        "title": "Hernán Crespo no renuncia a su idea de juego después del 2-5 ante América: “Demasiado abultado”",
-        "description": "El técnico argentino sostuvo que el marcador no reflejó del todo el trámite del partido",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "hernán crespo",
-            "mexico-noticias",
+            "hugo sánchez",
             "liga mx",
-            "apertura 2026",
             "mexico-deportes",
-            "club américa",
-            "atlas"
+            "pumas",
+            "mexico-noticias"
         ],
         "creator": [
-            "césar márquez"
+            "mariana campos"
         ],
         "language": "spanish",
         "country": [
+            "united states of america",
             "argentina",
             "colombia",
-            "united states of america",
             "mexico"
         ],
         "category": [
@@ -366,21 +285,21 @@
             "sports"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-22 16:16:51",
+        "pubDate": "2026-10-23 16:08:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:32:45",
-        "image_url": "https://www.infobae.com/resizer/v2/ZSIVDYRV7ZDFNCPP3JCEXEAZ44.jpg?auth=29e7393fbc373cb472b9f060f9f9d4454d3450c7dbe2e1572786f93abd75a620&smart=true&width=1920&height=1080",
+        "fetched_at": "2026-10-23 16:31:55",
+        "image_url": "https://www.infobae.com/resizer/v2/MIRNPEQ5EJCSDN5QOSYLVHYILE.jpg?auth=e3c667caf7166f2f7e6b6c4bb7cf3b01f66f12433d213e93af0f38545dcdc2c7&smart=true&width=1920&height=1080",
         "video_url": null,
         "source_id": "infobae",
         "source_name": "Infobae",
         "source_priority": 1056,
         "source_url": "https://www.infobae.com",
         "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "neutral",
+        "sentiment": "positive",
         "sentiment_stats": {
-            "negative": 2.16,
-            "neutral": 94.75,
-            "positive": 3.09
+            "negative": 4.57,
+            "neutral": 1.02,
+            "positive": 94.41
         },
         "ai_tag": [
             "soccer"
@@ -393,17 +312,19 @@
         "description_zh": ""
     },
     {
-        "article_id": "f28b3aa0b18ae1c2452506db42713799",
-        "link": "https://www.mdzol.com/economia/2026/10/22/el-dolar-oficial-sube-en-la-rueda-de-este-jueves-y-cotiza-en-nuevos-maximos-en-el-ano-1990038.html",
-        "title": "El dólar oficial sube en la rueda de este jueves y cotiza en nuevos máximos en el año",
-        "description": "El dólar marca una nueva suba en la semana y se ubica en su cotización más alta en lo que va de 2026.",
+        "article_id": "23cfc785544177bf334b1e8787a9017a",
+        "link": "https://www.rionegro.com.ar/energia/vaca-muerta-mira-al-pacifico-puerto-coronel-explora-negocios-en-la-mayor-feria-petrolera-de-argentina-4770051/",
+        "title": "Vaca Muerta mira al Pacífico: Puerto Coronel explora negocios en la mayor feria petrolera de Argentina",
+        "description": "Una delegación del terminal participó en AOG Patagonia 2026 para ampliar una relación que ya moviliza más de 3.000 contenedores de productos agroindustriales provenientes de Neuquén. La agenda se concentró en insumos de perforación, equipos y cargas de proyecto desde Asia, además de oportunidades de integración energética a largo plazo.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "dólares",
-            "dólar"
+            "aog patagonia 2026",
+            "chile",
+            "vaca muerta",
+            "energía"
         ],
         "creator": [
-            "mdz economía"
+            "sofía agüero"
         ],
         "language": "spanish",
         "country": [
@@ -414,24 +335,24 @@
             "business"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-22 16:16:50",
+        "pubDate": "2026-10-23 16:08:30",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:31:08",
-        "image_url": null,
+        "fetched_at": "2026-10-23 16:15:43",
+        "image_url": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/Gemini_Generated_Image_4a8bet4a8bet4a8b.jpg?w=1200&h=630&crop=1&resize=1200,630",
         "video_url": null,
-        "source_id": "mdzol",
-        "source_name": "Mdz",
-        "source_priority": 7713,
-        "source_url": "https://www.mdzol.com",
-        "source_icon": "https://i.newsdata.io/mdzol.png",
+        "source_id": "rionegro",
+        "source_name": "Diario Río Negro",
+        "source_priority": 337049,
+        "source_url": "https://www.rionegro.com.ar",
+        "source_icon": "https://i.newsdata.io/rionegro.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 11.52,
-            "neutral": 68.27,
-            "positive": 20.21
+            "negative": 0.06,
+            "neutral": 80.6,
+            "positive": 19.34
         },
         "ai_tag": [
-            "financial markets"
+            "supply chain and logistics"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -441,20 +362,174 @@
         "description_zh": ""
     },
     {
-        "article_id": "5f5e476622a56145f489974fde303f30",
-        "link": "https://www.infobae.com/espana/agencias/2026/10/22/iu-asegura-que-el-29n-habra-papeletas-de-la-izquierda-transformadora-en-teruel/",
-        "title": "IU asegura que el 29N habrá papeletas de la \"izquierda transformadora\" en Teruel",
-        "description": "IU asegura que el 29N habrá papeletas de la \"izquierda transformadora\" en Teruel",
+        "article_id": "8cb9dd643dd05ac8e1b5893e68060d7b",
+        "link": "https://www.brasil247.com/saude/em-manifesto-psicanalistas-defendem-reeleicao-de-lula-pela-democracia-pelos-direitos-e-pela-vida/",
+        "title": "Em manifesto, psicanalistas defendem reeleição de Lula: “pela democracia, pelos direitos e pela vida”",
+        "description": "Documento lançado para o segundo turno da eleição presidencial reúne mais de mil assinaturas em menos de 24 horas de mobilização",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
+        "keywords": [
+            "geraldo alckmin",
+            "sus",
+            "eleições",
+            "lula",
+            "saúde",
+            "saúde mental",
+            "flávio bolsonaro",
+            "desigualdade"
+        ],
         "creator": [
-            "newsroom infobae"
+            "guilherme levorato"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "politics"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-23 16:08:27",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-23 16:14:03",
+        "image_url": "https://www.brasil247.com/wp-content/uploads/2026/10/Captura-de-Tela-2026-10-06-as-05.29.45.png",
+        "video_url": null,
+        "source_id": "brasil247",
+        "source_name": "Brasil 247",
+        "source_priority": 272172,
+        "source_url": "https://www.brasil247.com",
+        "source_icon": "https://i.newsdata.io/brasil247.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 1.87,
+            "neutral": 3.32,
+            "positive": 94.81
+        },
+        "ai_tag": [
+            "politics",
+            "government"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "a2b160ae02a89c285b55b234750da808",
+        "link": "https://veja.abril.com.br/esporte/aos-41-anos-lebron-james-alcanca-novo-recorde-na-carreira-com-virada-do-sixers/",
+        "title": "Aos 41 anos, Lebron James alcança novo recorde na carreira com virada do Sixers",
+        "description": "Com Embiid, Jaylen Brown, Maxey e Edgecombe, equipe de Filadéfia superou Cleveland Cavaliers após ficar 29 pontos atrás no placar",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "esporte",
+            "nba",
+            "basquete",
+            "lebron james"
+        ],
+        "creator": [
+            "natalia tiemi hanada"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-23 16:08:24",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-23 16:31:26",
+        "image_url": "https://veja.abril.com.br/wp-content/uploads/2026/10/GettyImages-2301560002.jpg",
+        "video_url": null,
+        "source_id": "veja_abril_br",
+        "source_name": "Veja",
+        "source_priority": 5562,
+        "source_url": "https://veja.abril.com.br",
+        "source_icon": "https://i.newsdata.io/veja_abril_br.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.43,
+            "neutral": 6.08,
+            "positive": 93.49
+        },
+        "ai_tag": [
+            "basketball"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "6fce2c49389280f00d2d49f740cf5d83",
+        "link": "https://viapais.com.ar/entretenimiento/luciana-salazar-sorprendio-revelar-romance-hombre-20-anos-menor-exigente_0_flTNS1sntI.html",
+        "title": "Luciana Salazar sorprendió al revelar que tuvo un romance con un hombre 20 años menor: “Soy exigente”",
+        "description": "A sus 45 años, Luciana Salazar se sinceró sobre su vida amorosa y contó detalles de una relación que mantuvo en secreto. Además, reveló qué requisitos debe cumplir un hombre para conquistarla y confesó que tiene ganas de volver a enamorarse.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "redes sociales",
+            "espectáculos",
+            "famosos",
+            "luciana salazar"
+        ],
+        "creator": [
+            "camila charris pérez"
         ],
         "language": "spanish",
         "country": [
-            "argentina",
-            "colombia",
-            "united states of america",
+            "argentina"
+        ],
+        "category": [
+            "top",
+            "entertainment"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-23 16:08:23",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-23 16:57:35",
+        "image_url": "https://viapais.com.ar/images/2026/07/05/Syxa7T1CJq_1200x675.jpg",
+        "video_url": null,
+        "source_id": "viapais_ar",
+        "source_name": "Viapais Ar",
+        "source_priority": 48234,
+        "source_url": "https://viapais.com.ar",
+        "source_icon": "https://i.newsdata.io/viapais_ar.png",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 1.34,
+            "neutral": 79.32,
+            "positive": 19.34
+        },
+        "ai_tag": [
+            "celebrity"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "d065c9872d6dac8ffa5eb8c5ffed73fb",
+        "link": "https://www.reporteindigo.com/nacional/claudia-sheinbaum-habla-sobre-guadalupe-taddei-presidenta-ine-polemica-corrupcion-20261023-0019.html",
+        "title": "‘No debe haber ninguna sombra de corrupción en el INE’, advierte Sheinbaum por polémica de Taddei",
+        "description": "La presidenta afirmó que deben de transparentarse todos los procesos del organismo y es decisión de la consejera presidenta presentar o no su renuncia",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "nacional"
+        ],
+        "creator": [
+            "karina vargas"
+        ],
+        "language": "spanish",
+        "country": [
             "mexico"
         ],
         "category": [
@@ -462,21 +537,21 @@
             "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-22 16:16:44",
+        "pubDate": "2026-10-23 16:08:48",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:32:46",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "fetched_at": "2026-10-23 16:12:08",
+        "image_url": "https://www.reporteindigo.com/images-formats/1200x675/t_2-p_9-fpx_1000-fpy_562/jpg/2026/10/23/claudia_sheinbaum_postura_polemica_ine_guadalupe_taddei.jpg",
         "video_url": null,
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
-        "sentiment": "neutral",
+        "source_id": "reporteindigo",
+        "source_name": "Reporte Indigo",
+        "source_priority": 159031,
+        "source_url": "https://www.reporteindigo.com",
+        "source_icon": "https://i.newsdata.io/reporteindigo.jpg",
+        "sentiment": "positive",
         "sentiment_stats": {
-            "negative": 0.6,
-            "neutral": 58.78,
-            "positive": 40.62
+            "negative": 1.94,
+            "neutral": 38.48,
+            "positive": 59.58
         },
         "ai_tag": [
             "politics"
@@ -489,19 +564,218 @@
         "description_zh": ""
     },
     {
-        "article_id": "c643426b7cacbe243cb8255348468125",
-        "link": "https://www.chilevision.cl/noticias/te-ayuda/nueva-alza-en-la-bencina-como-y-hasta-cuando-solicitar-el-bono-de-100-mil-para-transportistas/",
-        "title": "Nueva alza en la bencina: cómo y hasta cuándo solicitar el bono de $100 mil para transportistas",
-        "description": "Para acceder al Bono de Transportistas debes cumplir con algunos requisitos. Consulta la fecha tope en la que se puede utilizar si manejas taxi, colectivo o transporte escolar.",
+        "article_id": "9e9a66a548ed9a9ca38920c73f1eb26b",
+        "link": "https://www.poresto.com/quintana-roo/2026/10/23/empresarios-apuestan-diversificar-oferta-turistica-repuntar-caribe-mexicano.html",
+        "title": "Empresarios apuestan por diversificar la oferta turística para repuntar el Caribe Mexicano",
+        "description": "El sector busca impulsar el turismo deportivo, cultural, arqueológico y gastronómico para atraer visitantes y reducir la dependencia del tradicional segmento de sol y playa.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "te ayuda",
-            "bono transportistas",
-            "conductores",
-            "alza de bencina"
+            "quintana roo",
+            "península de yucatán",
+            "cancún"
         ],
         "creator": [
-            "josefina vera"
+            "elisa rodríguez"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-23 16:08:47",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-23 16:50:48",
+        "image_url": "https://www.poresto.com/media/2026/10/23/cancun-travel-mart.jpg",
+        "video_url": null,
+        "source_id": "poresto",
+        "source_name": "Por Esto!",
+        "source_priority": 1266292,
+        "source_url": "https://www.poresto.com",
+        "source_icon": "https://i.newsdata.io/poresto.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 0.01,
+            "neutral": 0.06,
+            "positive": 99.93
+        },
+        "ai_tag": [
+            "sports"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "4ad2a8000b746b609702694ea54f6585",
+        "link": "https://santamartaaldia.co/se-les-acabo-la-fiesta-abelardo-advierte-a-las-acsn-tras-captura-de-alias-masacre/",
+        "title": "“Se les acabó la fiesta”: Abelardo advierte a las ACSN tras captura de alias Masacre",
+        "description": "El mandatario se pronunció en su cuenta de X luego de la detención de alias Kevin Masacre, señalado como cabecilla del narcotráfico de las Autodefensas Conquistadoras de la Sierra Nevada. La captura de alias Kevin Masacre provocó una reacción del presidente Abelardo De La Espriella, quien aprovechó el operativo para enviar una advertencia a las […] The post “Se les acabó la fiesta”: Abelardo advierte a las ACSN tras captura de alias Masacre appeared first on Santa Marta Al Día.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "portada",
+            "colombia"
+        ],
+        "creator": [
+            "redacción smad"
+        ],
+        "language": "spanish",
+        "country": [
+            "colombia"
+        ],
+        "category": [
+            "domestic"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-23 16:08:39",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-23 16:19:34",
+        "image_url": "https://santamartaaldia.co/wp-content/uploads/2026/10/426ce0a9-04ac-4aff-8aa5-0b94c9e641ad.jpeg",
+        "video_url": null,
+        "source_id": "santamartaaldia_co",
+        "source_name": "Santamartaaldia Co",
+        "source_priority": 819227,
+        "source_url": "https://santamartaaldia.co",
+        "source_icon": "https://i.newsdata.io/santamartaaldia_co.png",
+        "sentiment": "negative",
+        "sentiment_stats": {
+            "negative": 86.78,
+            "neutral": 10.25,
+            "positive": 2.97
+        },
+        "ai_tag": [
+            "politics"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "b3f8d45beb0b1a39e9d042957e0c889f",
+        "link": "https://tribunacampeche.com/23/citara-el-senado-a-zoe-robledo-por-cambios-en-la-modalidad-40-del-imss/758996/",
+        "title": "CITARÁ EL SENADO A ZOÉ ROBLEDO POR CAMBIOS EN LA MODALIDAD 40 DEL IMSS",
+        "description": "“LOS TRABAJADORES BUSCAN LA MEJOR FORMA DE RETIRARSE”: ALFONSO CEPEDA La Comisión de Seguridad Social... The post CITARÁ EL SENADO A ZOÉ ROBLEDO POR CAMBIOS EN LA MODALIDAD 40 DEL IMSS first appeared on Tribuna Campeche.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "robledo",
+            "salud",
+            "nacional",
+            "citará",
+            "imss",
+            "zoé",
+            "política",
+            "senado",
+            "tendencias"
+        ],
+        "creator": [
+            "editor 2"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "politics"
+        ],
+        "datatype": "blog",
+        "pubDate": "2026-10-23 16:08:37",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-23 16:22:23",
+        "image_url": "https://tribunacampeche.com/wp-content/uploads/2026/10/Senaweb.png",
+        "video_url": null,
+        "source_id": "tribunacampeche",
+        "source_name": "Tribuna Campeche",
+        "source_priority": 1508810,
+        "source_url": "https://tribunacampeche.com",
+        "source_icon": "https://i.newsdata.io/tribunacampeche.png",
+        "sentiment": "neutral",
+        "sentiment_stats": {
+            "negative": 0.48,
+            "neutral": 98.56,
+            "positive": 0.96
+        },
+        "ai_tag": [
+            "politics"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "5494a32ae248fa3d2bad04ea267c9964",
+        "link": "https://www.infobae.com/mexico/deportes/2026/10/23/hugo-sanchez-rompe-en-llanto-en-la-cancha-de-tigres-a-50-anos-de-su-debut-todo-lo-que-soy-y-lo-que-tengo-es-gracias-al-futbol/",
+        "title": "Hugo Sánchez rompe en llanto en la cancha de Tigres a 50 años de su debut: “Todo lo que soy y lo que tengo es gracias al fútbol”",
+        "description": "El penta pichichi es reconocido como el mejor futbolista que ha emergido de tierras aztecas consolidándose en uno de los equipos más importantes del mundo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "hugo sánchez",
+            "liga mx",
+            "mexico-deportes",
+            "pumas",
+            "mexico-noticias"
+        ],
+        "creator": [
+            "mariana campos"
+        ],
+        "language": "spanish",
+        "country": [
+            "united states of america",
+            "argentina",
+            "colombia",
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "sports"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-23 16:08:32",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-23 16:31:55",
+        "image_url": "https://www.infobae.com/resizer/v2/MIRNPEQ5EJCSDN5QOSYLVHYILE.jpg?auth=e3c667caf7166f2f7e6b6c4bb7cf3b01f66f12433d213e93af0f38545dcdc2c7&smart=true&width=1920&height=1080",
+        "video_url": null,
+        "source_id": "infobae",
+        "source_name": "Infobae",
+        "source_priority": 1056,
+        "source_url": "https://www.infobae.com",
+        "source_icon": "https://i.newsdata.io/infobae.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 4.57,
+            "neutral": 1.02,
+            "positive": 94.41
+        },
+        "ai_tag": [
+            "soccer"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "911ef27f852a0d5ed29bf3cd48bbac4e",
+        "link": "https://www.diarioestrategia.cl/texto-diario/mostrar/6063960/rusia-confirma-envio-primer-petrolero-ruso-eeuu-pacto-entre-trump-putin",
+        "title": "Rusia confirma el envío del primer petrolero ruso a EEUU tras el pacto entre Trump y Putin",
+        "description": "\"Creo que ya ha habido informes del Ministerio de Energía que indican que el primer buque cisterna, de hecho, ha partido hacia sus destinos, sus clientes, y que las entregas continuarán de forma regular\", ha afirmado el portavoz de la Presidencia rusa, Dmitri Peskov, en declaraciones a la prensa recogidas por la agencia rusa de noticias Interfax.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "estrategia on line"
         ],
         "language": "spanish",
         "country": [
@@ -509,172 +783,72 @@
         ],
         "category": [
             "top",
-            "business"
+            "politics"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-22 16:17:59",
+        "pubDate": "2026-10-23 16:08:32",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:40:41",
-        "image_url": "https://media.chilevision.cl/2026/10/bono-de-combustible-1024x576.png",
+        "fetched_at": "2026-10-23 16:13:53",
+        "image_url": "https://www.diarioestrategia.cl/images/showid/8195025",
         "video_url": null,
-        "source_id": "chilevision_cl",
-        "source_name": "Chilevisión",
-        "source_priority": 119055,
-        "source_url": "https://www.chilevision.cl",
-        "source_icon": "https://i.newsdata.io/chilevision_cl.png",
+        "source_id": "diarioestrategia_cl",
+        "source_name": "Diario Estrategia",
+        "source_priority": 263817,
+        "source_url": "https://www.diarioestrategia.cl",
+        "source_icon": "https://i.newsdata.io/diarioestrategia_cl.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 0.11,
-            "neutral": 81.43,
-            "positive": 18.46
+            "negative": 1.14,
+            "neutral": 67.41,
+            "positive": 31.45
         },
         "ai_tag": [
-            "energy"
+            "national security"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
+        "duplicate": true,
         "title_zh": "",
         "description_zh": ""
     },
     {
-        "article_id": "ca13227619e3b274b881d6b5486ff1b8",
-        "link": "https://www.adslzone.net/noticias/internet/starlink-espectro-fcc-operadora-movil/",
-        "title": "Starlink consigue más espectro y acelera sus planes para competir con las operadoras móviles",
-        "description": "La FCC ha autorizado a SpaceX a hacerse con tres licencias más de espectro para su futura red móvil. Concretamente, 15 MHz en la banda de 1695-1710 MHz, acompañados de un permiso especial para prestar servicio mediante satélites sin necesidad de construir antenas tradicionales. Es el segundo movimiento de espectro de la compañía en apenas dos semanas, y acelera su plan de convertirse en operadora móvil. Te contamos todos los detalles. Starlink lleva años creciendo como alternativa de internet por satélite, un negocio en el que ya compite con los operadores tradicionales en zonas sin cobertura. Su salto al mercado móvil es la continuación lógica, y pasa por convertir sus satélites en antenas para dar cobertura directamente a los móviles, una vía que la compañía ya ha probado en otros mercados. La aprobación la ha dado a conocer GearMusk a partir de la resolución del regulador estadounidense. Las tres licencias proceden de la firma Tristar y se suman al acuerdo que SpaceX anunció el pasado 8 de octubre para comprar espectro de la banda de 800 MHz, una pieza central del plan en el que la compañía trabaja desde hace meses. La firma satelital recibe más espectro Lo aprobado por la FCC son 15 MHz de espectro en la banda de 1695-1710 MHz, un rango que hasta ahora se usaba en redes terrestres convencionales. SpaceX los usará para su red Starlink Mobile, el servicio con el que pretende competir directamente con las operadoras móviles. La novedad no está solo en la cantidad, sino en las condiciones. El regulador ha aceptado que SpaceX preste servicio con ese espectro mediante sus satélites, sin obligarle a desplegar la red de torres que históricamente se exigía a quien recibía licencias terrestres. Es un cambio de criterio relevante, porque valida el modelo híbrido que la compañía defiende desde el principio: satélites en el espacio y muy poca infraestructura terrestre. Para el usuario final, esa flexibilidad se traduce en una promesa muy interesante: tendrás la misma cobertura con independencia de que te encuentres en el interior de una vivienda, en el exterior de la misma o en medio de una zona rural. Starlink quiere ser tu próximo operador El 8 de octubre, SpaceX cerró la compra de hasta 14 MHz de espectro en la banda de 800 MHz a la firma Grain Management, un espectro que, según la propia FCC, cubre prácticamente a toda la población de Estados Unidos y que tiene una cualidad clave, atraviesa las paredes. Es la respuesta al punto débil histórico de los satélites, la cobertura en interiores.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": null,
-        "creator": [
-            "carlos zapatero"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-22 16:17:58",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 18:40:09",
-        "image_url": "https://www.adslzone.net/app/uploads-adslzone.net/2026/10/starlink-precios-pcpal-1212-az.jpg",
-        "video_url": null,
-        "source_id": "adslzone",
-        "source_name": "Adslzone",
-        "source_priority": 120666,
-        "source_url": "https://www.adslzone.net",
-        "source_icon": "https://i.newsdata.io/adslzone.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.03,
-            "neutral": 0.52,
-            "positive": 99.45
-        },
-        "ai_tag": [
-            "telecom"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "1a1a7694e01035853a749517387087d3",
-        "link": "https://oem.com.mx/elsoldehermosillo/local/hermosillo-tendra-bicicletas-electricas-compartidas-y-taxis-electricos-operados-por-mujeres-32737935",
-        "title": "Hermosillo tendrá bicicletas eléctricas compartidas y taxis eléctricos operados por mujeres",
-        "description": "El proyecto operado por mujeres y para mujeres fue dado a conocer durante un encuentro con el exalcalde de Bogotá, Enrique Peñalosa",
+        "article_id": "2a3b5b9a8d7e009d1d161aa3e9d92209",
+        "link": "https://www.tvynovelas.com/famosos/hermana-de-ana-barbara-rompe-el-silencio-y-habla-del-arresto-de-su-padre-don-antero-ugalde-de-84-anos",
+        "title": "Hermana de Ana Bárbara rompe el silencio y habla del ‘ARRESTO’ de su padre, don Antero Ugalde, de 84 años",
+        "description": "Fue la supuesta amante del marido de Ana Bárbara quien reveló que el señor habría abusado de sus hijas mayores cuando eran niñas.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "local"
-        ],
-        "creator": null,
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "top",
-            "technology"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-22 16:17:57",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 21:42:36",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "elsoldehermosillo",
-        "source_name": "El Sol De Hermosillo",
-        "source_priority": 176742,
-        "source_url": "https://www.elsoldehermosillo.com.mx",
-        "source_icon": "https://i.newsdata.io/elsoldehermosillo.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.01,
-            "neutral": 0.07,
-            "positive": 99.92
-        },
-        "ai_tag": [
-            "automotive"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "6b135233926cbd38e44789248b3252b7",
-        "link": "https://lineadirectaportal.com/policiaca/detienen-en-culiacan-a-el-coco-ranas-presunto-generador-de-violencia-del-cartel-de-sinaloa-2026-10-22__1725159",
-        "title": "Detienen en Culiacán a “El Coco Ranas”, presunto generador de violencia del Cártel de Sinaloa",
-        "description": "Agentes especiales de la Policía de Sinaloa y del Ejército se coordinaron para lograr la captura de “El Coco Ranas” en la colonia Lomas del Sol, al norte de la capital sinaloense",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "noticias policiacas sinaloa",
-            "policíaca",
-            "detención josé isaías",
-            "ejército mexicano",
-            "\"el coco ranas \"",
-            "goes",
-            "violencia sinaloa",
-            "culiacán",
-            "generador violencia",
-            "policíaca sinaloa",
-            "policía estatal preventiva",
-            "policíaca culiacán",
-            "cártel de sinaloa"
+            "ana bárbara",
+            "antero ugalde",
+            "esmeralda ugalde"
         ],
         "creator": [
-            "carlos fernando fuentes"
+            "ericka rodríguez"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "crime",
-            "top"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-22 16:17:54",
+        "pubDate": "2026-10-23 16:08:22",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:40:39",
-        "image_url": "https://lineadirectaportal.com/wp-content/uploads/2026/10/Detienen-a-El-Coco-Ranas-en-Sinaloa-1200x630.jpg",
+        "fetched_at": "2026-10-23 16:15:32",
+        "image_url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/535827c/2147483647/strip/false/crop/2000x1126+0+0/resize/1486x837!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2F93%2Fd445fd914dc2b87ef904bf997cab%2Fesmeralda-ugalde.jpg",
         "video_url": null,
-        "source_id": "lineadirectaportal",
-        "source_name": "Linea Directa",
-        "source_priority": 133115,
-        "source_url": "https://lineadirectaportal.com",
-        "source_icon": "https://i.newsdata.io/lineadirectaportal.png",
-        "sentiment": "positive",
+        "source_id": "tvynovelas",
+        "source_name": "Tv Y Novelas",
+        "source_priority": 324751,
+        "source_url": "https://www.tvynovelas.com",
+        "source_icon": "https://i.newsdata.io/tvynovelas.png",
+        "sentiment": "negative",
         "sentiment_stats": {
-            "negative": 2.32,
-            "neutral": 4.81,
-            "positive": 92.87
+            "negative": 64.14,
+            "neutral": 35.55,
+            "positive": 0.31
         },
         "ai_tag": [
             "crime",
@@ -688,188 +862,99 @@
         "description_zh": ""
     },
     {
-        "article_id": "c5bb2011ea12cf0d00a776d6c31efa7f",
-        "link": "https://abcnoticias.mx/tendencia/2026/10/22/modalidad-40-del-imss-cuanto-tiempo-tienes-para-solicitarla-tras-dejar-de-trabajar-293155.html",
-        "title": "Modalidad 40 del IMSS: ¿Cuánto tiempo tienes para solicitarla tras dejar de trabajar?",
-        "description": null,
+        "article_id": "64d877711f006526e97d5ca7a824a3e8",
+        "link": "https://www.heraldo.mx/arde-slayer-en-el-palacio/",
+        "title": "Arde Slayer en el Palacio",
+        "description": "Juan Carlos García Agencia Reforma CDMX.- El infierno, concebido como un lugar de castigo divino, se transformó en un espectáculo de fuego y metal pesado con Slayer, que hizo vibrar el miércoles el Palacio de los Deportes mediante una descarga de música frenética y pirotecnia. La agrupación, encabezada por el bajista y vocalista Tom Araya, […]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "pensiones",
-            "imss",
-            "semanas cotizadas"
+            "espectáculos"
         ],
-        "creator": null,
+        "creator": [
+            "agencia reforma"
+        ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "top"
+            "entertainment"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-22 16:17:48",
+        "pubDate": "2026-10-23 16:08:22",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:43:56",
-        "image_url": "https://img.abcnoticias.mx/R1uCdV5tF5H4DErXBvbyD2k2kTOTduT1JnlLR2CjrBk/rs:fill:1200:675:0/g:fp:0.5:0.5/q:65/aHR0cHM6Ly9hc3NldHMuYWJjbm90aWNpYXMubXgvaW1nLzE3OTI2ODU3OTA1ODEtNGxhaTB3LmpwZw",
+        "fetched_at": "2026-10-23 21:16:41",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "heraldo_mx",
+        "source_name": "El Heraldo De Aguascalientes",
+        "source_priority": 1061009,
+        "source_url": "https://www.heraldo.mx",
+        "source_icon": "https://i.newsdata.io/heraldo_mx.png",
+        "sentiment": "positive",
+        "sentiment_stats": {
+            "negative": 28.12,
+            "neutral": 11.62,
+            "positive": 60.26
+        },
+        "ai_tag": [
+            "entertainment"
+        ],
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false,
+        "title_zh": "",
+        "description_zh": ""
+    },
+    {
+        "article_id": "1ce53145e7195a731cfb2c4b6d566e66",
+        "link": "https://abcnoticias.mx/cdmx/2026/10/23/sheinbaum-senala-corrupcion-en-contratos-de-medicamentos-y-pide-castigar-robos-en-hospitales-293276.html",
+        "title": "Sheinbaum señala corrupción en contratos de medicamentos y pide castigar robos en hospitales",
+        "description": "La presidenta señaló presuntos sobrecostos, monopolios y pagos ilegales en compras y distribución de fármacos; sostuvo que la sustracción de medicinas en hospitales debe investigarse y sancionarse, pero no representa el problema general del sistema.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "claudia sheinbaum",
+            "corrupción",
+            "clausuran hospitales",
+            "medicamentos",
+            "actos de corrupción",
+            "presidenta sheinbaum",
+            "robo de medicamento",
+            "contaminación en medicamentos",
+            "abasto de medicamentos",
+            "corrupción en tesorería"
+        ],
+        "creator": [
+            "paul contreras"
+        ],
+        "language": "spanish",
+        "country": [
+            "mexico"
+        ],
+        "category": [
+            "top",
+            "health"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-10-23 16:08:03",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-10-23 16:14:27",
+        "image_url": "https://img.abcnoticias.mx/rkgKfLqPVY8omlH2I97Z88c_hrORPpEV2ZgswegkiKI/rs:fill:1200:675:0/g:fp:0.5:0.5/q:65/aHR0cHM6Ly9hc3NldHMuYWJjbm90aWNpYXMubXgvaW1nLzE3OTI3NzE2NjIzNzUtYTJtNzl2LnBuZw",
         "video_url": null,
         "source_id": "abcnoticias",
         "source_name": "Abc Noticias",
         "source_priority": 300132,
         "source_url": "https://abcnoticias.mx",
         "source_icon": "https://i.newsdata.io/abcnoticias.png",
-        "sentiment": "neutral",
-        "sentiment_stats": {
-            "negative": 1.99,
-            "neutral": 95.21,
-            "positive": 2.8
-        },
-        "ai_tag": null,
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": "查看原文了解更多详情"
-    },
-    {
-        "article_id": "e3d4ec5d476cc502252fdd73a9fd6191",
-        "link": "https://www.marca.com/futbol/futbol-sala/2026/10/22/prelista-30-jesus-velasco-finalissima-niteroi.html",
-        "title": "Prelista de 30 de Jesús Velasco para la 'Finalissima' de Nitéroi",
-        "description": "Los 14 que se midieron a Finlandia más 16 más destacando la vuelta a una prelista de Chemi, Mellado, Catela, Sergio González y Diego Sancho",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "fútbol sala"
-        ],
-        "creator": [
-            "josé antonio giménez"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "sports"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-22 16:17:36",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:31:43",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/10/22/6ada36df289b9.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com/co",
-        "source_icon": "https://i.newsdata.io/marca.png",
-        "sentiment": "neutral",
-        "sentiment_stats": {
-            "negative": 0.12,
-            "neutral": 90.41,
-            "positive": 9.47
-        },
-        "ai_tag": [
-            "entertainment"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "6839d28591301d4481df4dd236cff627",
-        "link": "https://www.noroeste.com.mx/entretenimiento/espectaculos/pikito-pikito-el-nuevo-tema-que-lanzan-ricky-martin-y-pedro-sampaio-MB26723069",
-        "title": "‘Pikito, Pikito’, el nuevo tema que lanzan Ricky Martin y Pedro Sampaio",
-        "description": "El ícono global Ricky Martin y el multifacético artista brasileño Pedro Sampaio acaban de estrenar a nivel mundial el video oficial de pikito pikito, su más reciente colaboración musical. Filmado en las calles de Río de Janeiro, Brasil, el videoclip fue dirigido por Gustavo Celidonio Florentino, bajo la producción de Neil Mac Fadden. Rodeado de los vibrantes colores de la ciudad, el video es una celebración de la música, el baile, y los momentos que inspiran felicidad, con escenas de personas de todas las edades compartiendo “pikitos” y abrazos. Ricky y Pedro contagian el ritmo no solo con su interpretación, sino que también con la coreografía oficial de la canción que ya se ha apoderado de las redes sociales, con miles de usuarios replicándose en sus propias plataformas. El estreno llega después de que ambos artistas presentaran Pikito pikito por primera vez en vivo durante el espectáculo de medio tiempo del partido de la NFL celebrado el pasado 27 de septiembre en Río de Janeiro, Brasil, que registró 24.9 millones de espectadores, convirtiéndose en el partido internacional más visto en la historia de la NFL. Pedro Sampaio es uno de los artistas contemporáneos más destacados de Brasil y una figura clave del funk brasileño. Conocido por su versatilidad como cantante, DJ e intérprete, Pedro está convirtiendo el sonido callejero brasileño en un movimiento mundial, combinando a la perfección el género con el pop latino y la cultura electrónica dance, moldeando la forma en que la Generación Z se divierte en todo el mundo. Sampaio tiene más de 16 millones de seguidores en línea, 13 mil millones de reproducciones combinadas en todo el mundo, colaboraciones con grandes artistas internacionales como Anitta, Pabllo Vittar, J Balvin y Nicky Jam, y ha alcanzado el número 1 en Spotify Brasil y Portugal tres veces, con tres canciones en el Top 50 Global de Spotify. Además, se ha presentado en algunos de los festivales y salas más influyentes del mundo, como Lollapalooza, Rock in Rio Lisboa, Coca-Cola Flow Fest (México) y LIV Nightclub en Miami. También se unió a la gira The Celebration Tour de Madonna en Brasil, donde tocó ante más de 1.6 millones de personas y fue el anfitrión del afterparty oficial en la playa de Copacabana. Pedro Sampaio está listo para seguir forjando el futuro del funk brasileño a nivel mundial y consolidando su lugar como uno de los artistas más representativos de su generación. Ricky Martin es una de las figuras más reconocidas e influyentes de la música latina a nivel global. Con más de 95 millones de álbumes vendidos, múltiples Grammy y Latin Grammy y una trayectoria que ha trascendido idiomas, culturas y generaciones, su música ha sido parte fundamental de la expansión internacional del pop latino.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "estreno",
-            "ricky martín",
-            "leopoldo medina"
-        ],
-        "creator": [
-            "leopoldo medina"
-        ],
-        "language": "spanish",
-        "country": [
-            "mexico"
-        ],
-        "category": [
-            "entertainment"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-22 16:17:33",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 17:19:26",
-        "image_url": "https://www.noroeste.com.mx/binrepository/ricky_1-14806959_20261022093926.png",
-        "video_url": null,
-        "source_id": "noroeste",
-        "source_name": "Noroeste",
-        "source_priority": 841816,
-        "source_url": "https://www.noroeste.com.mx",
-        "source_icon": "https://i.newsdata.io/noroeste.png",
-        "sentiment": "positive",
-        "sentiment_stats": {
-            "negative": 0.04,
-            "neutral": 3.06,
-            "positive": 96.9
-        },
-        "ai_tag": [
-            "celebrity"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "d4bbda10afc0d241bdb61f075d526e4f",
-        "link": "https://www.infobae.com/america/america-latina/2026/10/22/las-inundaciones-provocadas-por-el-desborde-del-rio-parana-ya-afectan-a-mas-de-4200-familias-en-paraguay/",
-        "title": "Las inundaciones provocadas por el desborde del río Paraná ya afectan a más de 4.200 familias en Paraguay",
-        "description": "Los departamentos de Alto Paraná, Misiones y Ñeembucú son los más golpeados. Las autoridades alertaron de nuevas crecidas en Asunción ante la llegada de más lluvias asociadas al fenómeno de El Niño",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "río paraná",
-            "paraguay",
-            "fenómeno de el niño",
-            "inundaciones"
-        ],
-        "creator": [
-            "infobae"
-        ],
-        "language": "spanish",
-        "country": [
-            "argentina",
-            "colombia",
-            "united states of america",
-            "mexico"
-        ],
-        "category": [
-            "environment",
-            "top"
-        ],
-        "datatype": "multimedia",
-        "pubDate": "2026-10-22 16:17:28",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:32:45",
-        "image_url": "https://www.infobae.com/resizer/v2/KMV4AXJSXZDBXPKHDPYXQOGDYE.JPG?auth=f1aa889b5a1da44494392408a89fd44cffd292d795971956ee1bc76e244239a6&smart=true&width=3517&height=2204",
-        "video_url": "https://cdn.jwplayer.com/videos/wd70hpOf-vM6j8t5y.mp4",
-        "source_id": "infobae",
-        "source_name": "Infobae",
-        "source_priority": 1056,
-        "source_url": "https://www.infobae.com",
-        "source_icon": "https://i.newsdata.io/infobae.png",
         "sentiment": "negative",
         "sentiment_stats": {
-            "negative": 97.01,
-            "neutral": 2.97,
-            "positive": 0.02
+            "negative": 69.71,
+            "neutral": 28.52,
+            "positive": 1.77
         },
         "ai_tag": [
-            "natural disasters"
+            "pharma and healthcare"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -879,96 +964,48 @@
         "description_zh": ""
     },
     {
-        "article_id": "98eba5cdbe6c0b2720280e29ec455470",
-        "link": "https://penascodigital.com/solicitan-ayuda-para-encontrar-embarcacion-desaparecida-en-penasco/",
-        "title": "Solicitan ayuda para encontrar embarcación desaparecida en Peñasco",
-        "description": "Ante ello, también se le pidió a otros barcos en la misma zona navegar con cuidado. Bajo la autorización de la Secretaría de Marina (SEMAR), la Capitanía de Puerto solicitó ayuda para buscar una embarcación desaparecida en Puerto Peñasco. En un comunicado oficial emitido por la Capitanía, el organismo ofreció la última localización del barco […] El cargo Solicitan ayuda para encontrar embarcación desaparecida en Peñasco apareció primero en Peñasco Digital.",
+        "article_id": "4e73d1612851e7e167592cec35cc77a3",
+        "link": "https://www.quadratin.com.mx/justicia/asesinato-de-janeth-en-charo-se-investiga-bajo-protocolo-de-feminicidio/",
+        "title": "Asesinato de Janeth en Charo se investiga bajo protocolo de feminicidio",
+        "description": "Se realizan peritajes, dictámenes especializados y entrevistas",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "barco perdido en puerto peñasco",
-            "secretaría de marina (semar)",
-            "naufragio en puerto peñasco",
-            "puerto peñasco",
-            "capitanía de puerto",
-            "portada",
-            "sector pesquero en puerto peñasco"
+            "janeth",
+            "charo",
+            "asesinato",
+            "principal",
+            "justicia",
+            "feminicidio"
         ],
         "creator": [
-            "redacción"
+            "redacción/quadratín michoacán"
         ],
         "language": "spanish",
         "country": [
             "mexico"
         ],
         "category": [
-            "crime",
-            "top"
+            "crime"
         ],
         "datatype": "news",
-        "pubDate": "2026-10-22 16:17:28",
+        "pubDate": "2026-10-23 16:08:02",
         "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:21:48",
-        "image_url": "https://penascodigital.com/wp-content/uploads/2026/10/1-16.jpg",
+        "fetched_at": "2026-10-23 16:15:42",
+        "image_url": "https://www.quadratin.com.mx/www/wp-content/uploads/2026/10/charo-janeth-2-1160x700.jpg",
         "video_url": null,
-        "source_id": "penascodigital",
-        "source_name": "Peñasco Digital",
-        "source_priority": 1520948,
-        "source_url": "https://penascodigital.com",
-        "source_icon": "https://i.newsdata.io/penascodigital.png",
+        "source_id": "quadratin",
+        "source_name": "Quadratín",
+        "source_priority": 320781,
+        "source_url": "https://www.quadratin.com.mx",
+        "source_icon": "https://i.newsdata.io/quadratin.png",
         "sentiment": "neutral",
         "sentiment_stats": {
-            "negative": 0.47,
-            "neutral": 99.4,
-            "positive": 0.13
+            "negative": 6.98,
+            "neutral": 92.94,
+            "positive": 0.08
         },
         "ai_tag": [
             "accidents"
-        ],
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false,
-        "title_zh": "",
-        "description_zh": ""
-    },
-    {
-        "article_id": "c23709c2a203ac5bca07934a620d9591",
-        "link": "https://www.marca.com/tiramillas/sucesos/2026/10/22/terremoto-magnitud-7-0-sacude-china-mantiene-alerta-norte-tibet.html",
-        "title": "Un terremoto de magnitud 7,0 sacude China y mantiene en alerta al norte del Tíbet",
-        "description": "Hasta el momento, no han trascendido víctimas mortales ni daños materiales",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "sucesos"
-        ],
-        "creator": [
-            "fernando hernández fernández"
-        ],
-        "language": "spanish",
-        "country": [
-            "colombia"
-        ],
-        "category": [
-            "science"
-        ],
-        "datatype": "news",
-        "pubDate": "2026-10-22 16:17:25",
-        "pubDateTZ": "UTC",
-        "fetched_at": "2026-10-22 16:34:04",
-        "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/10/22/6ada361023a67.jpeg",
-        "video_url": null,
-        "source_id": "marca",
-        "source_name": "Marca Claro",
-        "source_priority": 426,
-        "source_url": "https://www.marca.com/co",
-        "source_icon": "https://i.newsdata.io/marca.png",
-        "sentiment": "neutral",
-        "sentiment_stats": {
-            "negative": 0.17,
-            "neutral": 63.11,
-            "positive": 36.72
-        },
-        "ai_tag": [
-            "natural disasters"
         ],
         "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
